@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7126</StartMilliseconds>
+    <EndMilliseconds>7928</EndMilliseconds>
+    <Text>Zhè liàng chē shì hóngsè de.
+这辆车是红色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>7929</StartMilliseconds>
+    <EndMilliseconds>8279</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì hóngsè de.
+[@这@]辆车是红色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>8280</StartMilliseconds>
+    <EndMilliseconds>8641</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì hóngsè de.
+这[@辆@]车是红色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>8642</StartMilliseconds>
+    <EndMilliseconds>9354</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì hóngsè de.
+这辆[@车@]是红色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>9355</StartMilliseconds>
+    <EndMilliseconds>9971</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] hóngsè de.
+这辆车[@是@]红色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>9972</StartMilliseconds>
+    <EndMilliseconds>10865</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@hóngsè@] de.
+这辆车是[@红色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>10866</StartMilliseconds>
+    <EndMilliseconds>11102</EndMilliseconds>
+    <Text>Zhè liàng chē shì hóngsè [@de@].
+这辆车是红色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>11103</StartMilliseconds>
+    <EndMilliseconds>11982</EndMilliseconds>
+    <Text>Zhè liàng chē shì hóngsè de.
+这辆车是红色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>11983</StartMilliseconds>
+    <EndMilliseconds>12644</EndMilliseconds>
+    <Text>Zhè liàng chē shì fěnsè de.
+这辆车是粉色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>12645</StartMilliseconds>
+    <EndMilliseconds>13005</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì fěnsè de.
+[@这@]辆车是粉色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>13006</StartMilliseconds>
+    <EndMilliseconds>13444</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì fěnsè de.
+这[@辆@]车是粉色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>13445</StartMilliseconds>
+    <EndMilliseconds>14153</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì fěnsè de.
+这辆[@车@]是粉色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>14154</StartMilliseconds>
+    <EndMilliseconds>14774</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] fěnsè de.
+这辆车[@是@]粉色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>14775</StartMilliseconds>
+    <EndMilliseconds>15630</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@fěnsè@] de.
+这辆车是[@粉色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>15631</StartMilliseconds>
+    <EndMilliseconds>15821</EndMilliseconds>
+    <Text>Zhè liàng chē shì fěnsè [@de@].
+这辆车是粉色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>15822</StartMilliseconds>
+    <EndMilliseconds>17032</EndMilliseconds>
+    <Text>Zhè liàng chē shì fěnsè de.
+这辆车是粉色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>17033</StartMilliseconds>
+    <EndMilliseconds>18406</EndMilliseconds>
+    <Text>Zhè liàng chē shì chéngsè de.
+这辆车是橙色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>18407</StartMilliseconds>
+    <EndMilliseconds>18678</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì chéngsè de.
+[@这@]辆车是橙色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>18679</StartMilliseconds>
+    <EndMilliseconds>19066</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì chéngsè de.
+这[@辆@]车是橙色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>19067</StartMilliseconds>
+    <EndMilliseconds>19944</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì chéngsè de.
+这辆[@车@]是橙色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>19945</StartMilliseconds>
+    <EndMilliseconds>20348</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] chéngsè de.
+这辆车[@是@]橙色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>20349</StartMilliseconds>
+    <EndMilliseconds>21363</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@chéngsè@] de.
+这辆车是[@橙色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>21364</StartMilliseconds>
+    <EndMilliseconds>21616</EndMilliseconds>
+    <Text>Zhè liàng chē shì chéngsè [@de@].
+这辆车是橙色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>21617</StartMilliseconds>
+    <EndMilliseconds>22055</EndMilliseconds>
+    <Text>Zhè liàng chē shì chéngsè de.
+这辆车是橙色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>22056</StartMilliseconds>
+    <EndMilliseconds>23044</EndMilliseconds>
+    <Text>Zhè liàng chē shì huángsè de.
+这辆车是黄色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>23045</StartMilliseconds>
+    <EndMilliseconds>23374</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì huángsè de.
+[@这@]辆车是黄色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>23375</StartMilliseconds>
+    <EndMilliseconds>23786</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì huángsè de.
+这[@辆@]车是黄色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>23787</StartMilliseconds>
+    <EndMilliseconds>24528</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì huángsè de.
+这辆[@车@]是黄色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>24529</StartMilliseconds>
+    <EndMilliseconds>25203</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] huángsè de.
+这辆车[@是@]黄色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>25204</StartMilliseconds>
+    <EndMilliseconds>26082</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@huángsè@] de.
+这辆车是[@黄色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>26083</StartMilliseconds>
+    <EndMilliseconds>26306</EndMilliseconds>
+    <Text>Zhè liàng chē shì huángsè [@de@].
+这辆车是黄色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>26307</StartMilliseconds>
+    <EndMilliseconds>27712</EndMilliseconds>
+    <Text>Zhè liàng chē shì huángsè de.
+这辆车是黄色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>27713</StartMilliseconds>
+    <EndMilliseconds>29106</EndMilliseconds>
+    <Text>Zhè liàng chē shì lǜsè de.
+这辆车是绿色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>29107</StartMilliseconds>
+    <EndMilliseconds>29456</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì lǜsè de.
+[@这@]辆车是绿色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>29457</StartMilliseconds>
+    <EndMilliseconds>29791</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì lǜsè de.
+这[@辆@]车是绿色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>29792</StartMilliseconds>
+    <EndMilliseconds>30556</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì lǜsè de.
+这辆[@车@]是绿色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>30557</StartMilliseconds>
+    <EndMilliseconds>31006</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] lǜsè de.
+这辆车[@是@]绿色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>31007</StartMilliseconds>
+    <EndMilliseconds>31987</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@lǜsè@] de.
+这辆车是[@绿色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>31988</StartMilliseconds>
+    <EndMilliseconds>32284</EndMilliseconds>
+    <Text>Zhè liàng chē shì lǜsè [@de@].
+这辆车是绿色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>32285</StartMilliseconds>
+    <EndMilliseconds>33756</EndMilliseconds>
+    <Text>Zhè liàng chē shì lǜsè de.
+这辆车是绿色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>33757</StartMilliseconds>
+    <EndMilliseconds>34779</EndMilliseconds>
+    <Text>Zhè liàng chē shì lánsè de.
+这辆车是蓝色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>34780</StartMilliseconds>
+    <EndMilliseconds>35089</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì lánsè de.
+[@这@]辆车是蓝色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>35090</StartMilliseconds>
+    <EndMilliseconds>35413</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì lánsè de.
+这[@辆@]车是蓝色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>35414</StartMilliseconds>
+    <EndMilliseconds>36188</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì lánsè de.
+这辆[@车@]是蓝色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>36189</StartMilliseconds>
+    <EndMilliseconds>36795</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] lánsè de.
+这辆车[@是@]蓝色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>36796</StartMilliseconds>
+    <EndMilliseconds>37793</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@lánsè@] de.
+这辆车是[@蓝色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>37794</StartMilliseconds>
+    <EndMilliseconds>38057</EndMilliseconds>
+    <Text>Zhè liàng chē shì lánsè [@de@].
+这辆车是蓝色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>38058</StartMilliseconds>
+    <EndMilliseconds>39316</EndMilliseconds>
+    <Text>Zhè liàng chē shì lánsè de.
+这辆车是蓝色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>39317</StartMilliseconds>
+    <EndMilliseconds>40258</EndMilliseconds>
+    <Text>Zhè liàng chē shì zōngsè de.
+这辆车是棕色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>40259</StartMilliseconds>
+    <EndMilliseconds>40578</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì zōngsè de.
+[@这@]辆车是棕色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>40579</StartMilliseconds>
+    <EndMilliseconds>40955</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì zōngsè de.
+这[@辆@]车是棕色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>40956</StartMilliseconds>
+    <EndMilliseconds>41687</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì zōngsè de.
+这辆[@车@]是棕色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>41688</StartMilliseconds>
+    <EndMilliseconds>42311</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] zōngsè de.
+这辆车[@是@]棕色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>42312</StartMilliseconds>
+    <EndMilliseconds>43251</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@zōngsè@] de.
+这辆车是[@棕色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>43252</StartMilliseconds>
+    <EndMilliseconds>43534</EndMilliseconds>
+    <Text>Zhè liàng chē shì zōngsè [@de@].
+这辆车是棕色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>43535</StartMilliseconds>
+    <EndMilliseconds>44753</EndMilliseconds>
+    <Text>Zhè liàng chē shì zōngsè de.
+这辆车是棕色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>44754</StartMilliseconds>
+    <EndMilliseconds>46006</EndMilliseconds>
+    <Text>Zhè liàng chē shì zǐsè de.
+这辆车是紫色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>46007</StartMilliseconds>
+    <EndMilliseconds>46321</EndMilliseconds>
+    <Text>[@Zhè@] liàng chē shì zǐsè de.
+[@这@]辆车是紫色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>46322</StartMilliseconds>
+    <EndMilliseconds>46716</EndMilliseconds>
+    <Text>Zhè [@liàng@] chē shì zǐsè de.
+这[@辆@]车是紫色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>46717</StartMilliseconds>
+    <EndMilliseconds>47540</EndMilliseconds>
+    <Text>Zhè liàng [@chē@] shì zǐsè de.
+这辆[@车@]是紫色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>47541</StartMilliseconds>
+    <EndMilliseconds>47917</EndMilliseconds>
+    <Text>Zhè liàng chē [@shì@] zǐsè de.
+这辆车[@是@]紫色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>47918</StartMilliseconds>
+    <EndMilliseconds>48883</EndMilliseconds>
+    <Text>Zhè liàng chē shì [@zǐsè@] de.
+这辆车是[@紫色@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>48884</StartMilliseconds>
+    <EndMilliseconds>49129</EndMilliseconds>
+    <Text>Zhè liàng chē shì zǐsè [@de@].
+这辆车是紫色[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>49130</StartMilliseconds>
+    <EndMilliseconds>50642</EndMilliseconds>
+    <Text>Zhè liàng chē shì zǐsè de.
+这辆车是紫色的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>50643</StartMilliseconds>
+    <EndMilliseconds>51774</EndMilliseconds>
+    <Text>Wā! Zhè shì yí liàng cǎihóng chē!
+哇！这是一辆彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>51775</StartMilliseconds>
+    <EndMilliseconds>52397</EndMilliseconds>
+    <Text>[@Wā@]! Zhè shì yí liàng cǎihóng chē!
+[@哇@]！这是一辆彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>52398</StartMilliseconds>
+    <EndMilliseconds>52747</EndMilliseconds>
+    <Text>Wā! Zhè shì yí liàng cǎihóng chē!
+哇！这是一辆彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>52748</StartMilliseconds>
+    <EndMilliseconds>52966</EndMilliseconds>
+    <Text>Wā! [@Zhè@] shì yí liàng cǎihóng chē!
+哇！[@这@]是一辆彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>52967</StartMilliseconds>
+    <EndMilliseconds>53172</EndMilliseconds>
+    <Text>Wā! Zhè [@shì@] yí liàng cǎihóng chē!
+哇！这[@是@]一辆彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>53173</StartMilliseconds>
+    <EndMilliseconds>53367</EndMilliseconds>
+    <Text>Wā! Zhè shì [@yí@] liàng cǎihóng chē!
+哇！这是[@一@]辆彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>53368</StartMilliseconds>
+    <EndMilliseconds>53955</EndMilliseconds>
+    <Text>Wā! Zhè shì yí [@liàng@] cǎihóng chē!
+哇！这是一[@辆@]彩虹车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>53956</StartMilliseconds>
+    <EndMilliseconds>54781</EndMilliseconds>
+    <Text>Wā! Zhè shì yí liàng [@cǎihóng@] chē!
+哇！这是一辆[@彩虹@]车！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>54782</StartMilliseconds>
+    <EndMilliseconds>55233</EndMilliseconds>
+    <Text>Wā! Zhè shì yí liàng cǎihóng [@chē@]!
+哇！这是一辆彩虹[@车@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>55234</StartMilliseconds>
+    <EndMilliseconds>57703</EndMilliseconds>
+    <Text>Wā! Zhè shì yí liàng cǎihóng chē!
+哇！这是一辆彩虹车！</Text>
+  </Paragraph>
+</Subtitle>

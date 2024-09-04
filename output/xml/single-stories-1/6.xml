@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7796</StartMilliseconds>
+    <EndMilliseconds>8474</EndMilliseconds>
+    <Text>Lǜdēng zǒu!
+绿灯走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>8475</StartMilliseconds>
+    <EndMilliseconds>9481</EndMilliseconds>
+    <Text>[@Lǜdēng@] zǒu!
+[@绿灯@]走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>9482</StartMilliseconds>
+    <EndMilliseconds>10351</EndMilliseconds>
+    <Text>Lǜdēng [@zǒu@]!
+绿灯[@走@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>10352</StartMilliseconds>
+    <EndMilliseconds>13729</EndMilliseconds>
+    <Text>Lǜdēng zǒu!
+绿灯走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13730</StartMilliseconds>
+    <EndMilliseconds>13997</EndMilliseconds>
+    <Text>Hóngdēng tíng!
+红灯停！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13998</StartMilliseconds>
+    <EndMilliseconds>15063</EndMilliseconds>
+    <Text>[@Hóngdēng@] tíng!
+[@红灯@]停！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15064</StartMilliseconds>
+    <EndMilliseconds>15899</EndMilliseconds>
+    <Text>Hóngdēng [@tíng@]!
+红灯[@停@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15900</StartMilliseconds>
+    <EndMilliseconds>17805</EndMilliseconds>
+    <Text>Hóngdēng tíng!
+红灯停！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17806</StartMilliseconds>
+    <EndMilliseconds>19051</EndMilliseconds>
+    <Text>Nǐ bèi táotài le!
+你被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>19052</StartMilliseconds>
+    <EndMilliseconds>19437</EndMilliseconds>
+    <Text>[@Nǐ@] bèi táotài le!
+[@你@]被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19438</StartMilliseconds>
+    <EndMilliseconds>19878</EndMilliseconds>
+    <Text>Nǐ [@bèi@] táotài le!
+你[@被@]淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>19879</StartMilliseconds>
+    <EndMilliseconds>20579</EndMilliseconds>
+    <Text>Nǐ bèi [@táotài@] le!
+你被[@淘汰@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>20580</StartMilliseconds>
+    <EndMilliseconds>20979</EndMilliseconds>
+    <Text>Nǐ bèi táotài [@le@]!
+你被淘汰[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20980</StartMilliseconds>
+    <EndMilliseconds>23613</EndMilliseconds>
+    <Text>Nǐ bèi táotài le!
+你被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>23614</StartMilliseconds>
+    <EndMilliseconds>24777</EndMilliseconds>
+    <Text>Lǜdēng zǒu!
+绿灯走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>24778</StartMilliseconds>
+    <EndMilliseconds>25599</EndMilliseconds>
+    <Text>[@Lǜdēng@] zǒu!
+[@绿灯@]走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>25600</StartMilliseconds>
+    <EndMilliseconds>26383</EndMilliseconds>
+    <Text>Lǜdēng [@zǒu@]!
+绿灯[@走@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>26384</StartMilliseconds>
+    <EndMilliseconds>28667</EndMilliseconds>
+    <Text>Lǜdēng zǒu!
+绿灯走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>28668</StartMilliseconds>
+    <EndMilliseconds>29556</EndMilliseconds>
+    <Text>Huángdēng màn xíng!
+黄灯慢行！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>29557</StartMilliseconds>
+    <EndMilliseconds>30619</EndMilliseconds>
+    <Text>[@Huángdēng@] màn xíng!
+[@黄灯@]慢行！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>30620</StartMilliseconds>
+    <EndMilliseconds>31012</EndMilliseconds>
+    <Text>Huángdēng [@màn@] xíng!
+黄灯[@慢@]行！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>31013</StartMilliseconds>
+    <EndMilliseconds>31718</EndMilliseconds>
+    <Text>Huángdēng màn [@xíng@]!
+黄灯慢[@行@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>31719</StartMilliseconds>
+    <EndMilliseconds>35219</EndMilliseconds>
+    <Text>Huángdēng màn xíng!
+黄灯慢行！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>35220</StartMilliseconds>
+    <EndMilliseconds>36293</EndMilliseconds>
+    <Text>Nǐ bèi táotài le!
+你被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>36294</StartMilliseconds>
+    <EndMilliseconds>36662</EndMilliseconds>
+    <Text>[@Nǐ@] bèi táotài le!
+[@你@]被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>36663</StartMilliseconds>
+    <EndMilliseconds>37101</EndMilliseconds>
+    <Text>Nǐ [@bèi@] táotài le!
+你[@被@]淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>37102</StartMilliseconds>
+    <EndMilliseconds>37901</EndMilliseconds>
+    <Text>Nǐ bèi [@táotài@] le!
+你被[@淘汰@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>37902</StartMilliseconds>
+    <EndMilliseconds>38211</EndMilliseconds>
+    <Text>Nǐ bèi táotài [@le@]!
+你被淘汰[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>38212</StartMilliseconds>
+    <EndMilliseconds>40421</EndMilliseconds>
+    <Text>Nǐ bèi táotài le!
+你被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>40422</StartMilliseconds>
+    <EndMilliseconds>41412</EndMilliseconds>
+    <Text>Hóngdēng tíng!
+红灯停！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>41413</StartMilliseconds>
+    <EndMilliseconds>42195</EndMilliseconds>
+    <Text>[@Hóngdēng@] tíng!
+[@红灯@]停！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>42196</StartMilliseconds>
+    <EndMilliseconds>42907</EndMilliseconds>
+    <Text>Hóngdēng [@tíng@]!
+红灯[@停@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>42908</StartMilliseconds>
+    <EndMilliseconds>44817</EndMilliseconds>
+    <Text>Hóngdēng tíng!
+红灯停！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>44818</StartMilliseconds>
+    <EndMilliseconds>45730</EndMilliseconds>
+    <Text>Nǐ bèi táotài le!
+你被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>45731</StartMilliseconds>
+    <EndMilliseconds>46163</EndMilliseconds>
+    <Text>[@Nǐ@] bèi táotài le!
+[@你@]被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>46164</StartMilliseconds>
+    <EndMilliseconds>46606</EndMilliseconds>
+    <Text>Nǐ [@bèi@] táotài le!
+你[@被@]淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>46607</StartMilliseconds>
+    <EndMilliseconds>47402</EndMilliseconds>
+    <Text>Nǐ bèi [@táotài@] le!
+你被[@淘汰@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>47403</StartMilliseconds>
+    <EndMilliseconds>47777</EndMilliseconds>
+    <Text>Nǐ bèi táotài [@le@]!
+你被淘汰[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>47778</StartMilliseconds>
+    <EndMilliseconds>50369</EndMilliseconds>
+    <Text>Nǐ bèi táotài le!
+你被淘汰了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>50370</StartMilliseconds>
+    <EndMilliseconds>50753</EndMilliseconds>
+    <Text>Lǜdēng zǒu!
+绿灯走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>50754</StartMilliseconds>
+    <EndMilliseconds>51555</EndMilliseconds>
+    <Text>[@Lǜdēng@] zǒu!
+[@绿灯@]走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>51556</StartMilliseconds>
+    <EndMilliseconds>52367</EndMilliseconds>
+    <Text>Lǜdēng [@zǒu@]!
+绿灯[@走@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>52368</StartMilliseconds>
+    <EndMilliseconds>53617</EndMilliseconds>
+    <Text>Lǜdēng zǒu!
+绿灯走！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>53618</StartMilliseconds>
+    <EndMilliseconds>54180</EndMilliseconds>
+    <Text>"Yè! Wǒ yíng la!"
+“耶！我赢啦！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>54181</StartMilliseconds>
+    <EndMilliseconds>55080</EndMilliseconds>
+    <Text>"[@Yè@]! Wǒ yíng la!"
+“[@耶@]！我赢啦！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>55081</StartMilliseconds>
+    <EndMilliseconds>55441</EndMilliseconds>
+    <Text>"Yè! [@Wǒ@] yíng la!"
+“耶！[@我@]赢啦！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>55442</StartMilliseconds>
+    <EndMilliseconds>55780</EndMilliseconds>
+    <Text>"Yè! Wǒ [@yíng@] la!"
+“耶！我[@赢@]啦！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>55781</StartMilliseconds>
+    <EndMilliseconds>56131</EndMilliseconds>
+    <Text>"Yè! Wǒ yíng [@la@]!"
+“耶！我赢[@啦@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>56132</StartMilliseconds>
+    <EndMilliseconds>58669</EndMilliseconds>
+    <Text>"Yè! Wǒ yíng la!"
+“耶！我赢啦！”</Text>
+  </Paragraph>
+</Subtitle>

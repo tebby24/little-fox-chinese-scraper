@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6107</StartMilliseconds>
+    <EndMilliseconds>12750</EndMilliseconds>
+    <Text>Wǒ de màozi hěn xiǎo.
+我的帽子很小。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12750</StartMilliseconds>
+    <EndMilliseconds>13211</EndMilliseconds>
+    <Text>[@Wǒ@] de màozi hěn xiǎo.
+[@我@]的帽子很小。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13211</StartMilliseconds>
+    <EndMilliseconds>13424</EndMilliseconds>
+    <Text>Wǒ [@de@] màozi hěn xiǎo.
+我[@的@]帽子很小。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13424</StartMilliseconds>
+    <EndMilliseconds>14323</EndMilliseconds>
+    <Text>Wǒ de [@màozi@] hěn xiǎo.
+我的[@帽子@]很小。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14323</StartMilliseconds>
+    <EndMilliseconds>14829</EndMilliseconds>
+    <Text>Wǒ de màozi [@hěn@] xiǎo.
+我的帽子[@很@]小。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14829</StartMilliseconds>
+    <EndMilliseconds>15807</EndMilliseconds>
+    <Text>Wǒ de màozi hěn [@xiǎo@].
+我的帽子很[@小@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15807</StartMilliseconds>
+    <EndMilliseconds>16514</EndMilliseconds>
+    <Text>Wǒ de màozi hěn xiǎo.
+我的帽子很小。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16514</StartMilliseconds>
+    <EndMilliseconds>20636</EndMilliseconds>
+    <Text>Wǒ de màozi hěn dà.
+我的帽子很大。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>20636</StartMilliseconds>
+    <EndMilliseconds>20963</EndMilliseconds>
+    <Text>[@Wǒ@] de màozi hěn dà.
+[@我@]的帽子很大。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20963</StartMilliseconds>
+    <EndMilliseconds>21199</EndMilliseconds>
+    <Text>Wǒ [@de@] màozi hěn dà.
+我[@的@]帽子很大。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>21199</StartMilliseconds>
+    <EndMilliseconds>22234</EndMilliseconds>
+    <Text>Wǒ de [@màozi@] hěn dà.
+我的[@帽子@]很大。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22234</StartMilliseconds>
+    <EndMilliseconds>22750</EndMilliseconds>
+    <Text>Wǒ de màozi [@hěn@] dà.
+我的帽子[@很@]大。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>22750</StartMilliseconds>
+    <EndMilliseconds>23430</EndMilliseconds>
+    <Text>Wǒ de màozi hěn [@dà@].
+我的帽子很[@大@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>23431</StartMilliseconds>
+    <EndMilliseconds>26763</EndMilliseconds>
+    <Text>Wǒ de màozi hěn dà.
+我的帽子很大。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>26763</StartMilliseconds>
+    <EndMilliseconds>30767</EndMilliseconds>
+    <Text>Wǒ de bāo hěn qīng.
+我的包很轻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30767</StartMilliseconds>
+    <EndMilliseconds>31201</EndMilliseconds>
+    <Text>[@Wǒ@] de bāo hěn qīng.
+[@我@]的包很轻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31201</StartMilliseconds>
+    <EndMilliseconds>31469</EndMilliseconds>
+    <Text>Wǒ [@de@] bāo hěn qīng.
+我[@的@]包很轻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31469</StartMilliseconds>
+    <EndMilliseconds>32184</EndMilliseconds>
+    <Text>Wǒ de [@bāo@] hěn qīng.
+我的[@包@]很轻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32184</StartMilliseconds>
+    <EndMilliseconds>32729</EndMilliseconds>
+    <Text>Wǒ de bāo [@hěn@] qīng.
+我的包[@很@]轻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32729</StartMilliseconds>
+    <EndMilliseconds>33493</EndMilliseconds>
+    <Text>Wǒ de bāo hěn [@qīng@].
+我的包很[@轻@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33493</StartMilliseconds>
+    <EndMilliseconds>34187</EndMilliseconds>
+    <Text>Wǒ de bāo hěn qīng.
+我的包很轻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34187</StartMilliseconds>
+    <EndMilliseconds>38194</EndMilliseconds>
+    <Text>Wǒ de bāo hěn zhòng.
+我的包很重。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>38194</StartMilliseconds>
+    <EndMilliseconds>38574</EndMilliseconds>
+    <Text>[@Wǒ@] de bāo hěn zhòng.
+[@我@]的包很重。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>38574</StartMilliseconds>
+    <EndMilliseconds>38897</EndMilliseconds>
+    <Text>Wǒ [@de@] bāo hěn zhòng.
+我[@的@]包很重。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>38897</StartMilliseconds>
+    <EndMilliseconds>39644</EndMilliseconds>
+    <Text>Wǒ de [@bāo@] hěn zhòng.
+我的[@包@]很重。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>39644</StartMilliseconds>
+    <EndMilliseconds>40256</EndMilliseconds>
+    <Text>Wǒ de bāo [@hěn@] zhòng.
+我的包[@很@]重。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40256</StartMilliseconds>
+    <EndMilliseconds>41026</EndMilliseconds>
+    <Text>Wǒ de bāo hěn [@zhòng@].
+我的包很[@重@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41026</StartMilliseconds>
+    <EndMilliseconds>45720</EndMilliseconds>
+    <Text>Wǒ de bāo hěn zhòng.
+我的包很重。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>45720</StartMilliseconds>
+    <EndMilliseconds>49839</EndMilliseconds>
+    <Text>Wǒ de huǒchē hěn duǎn.
+我的火车很短。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>49839</StartMilliseconds>
+    <EndMilliseconds>50149</EndMilliseconds>
+    <Text>[@Wǒ@] de huǒchē hěn duǎn.
+[@我@]的火车很短。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>50149</StartMilliseconds>
+    <EndMilliseconds>50372</EndMilliseconds>
+    <Text>Wǒ [@de@] huǒchē hěn duǎn.
+我[@的@]火车很短。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>50372</StartMilliseconds>
+    <EndMilliseconds>51517</EndMilliseconds>
+    <Text>Wǒ de [@huǒchē@] hěn duǎn.
+我的[@火车@]很短。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>51517</StartMilliseconds>
+    <EndMilliseconds>52076</EndMilliseconds>
+    <Text>Wǒ de huǒchē [@hěn@] duǎn.
+我的火车[@很@]短。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>52076</StartMilliseconds>
+    <EndMilliseconds>52957</EndMilliseconds>
+    <Text>Wǒ de huǒchē hěn [@duǎn@].
+我的火车很[@短@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>52958</StartMilliseconds>
+    <EndMilliseconds>53776</EndMilliseconds>
+    <Text>Wǒ de huǒchē hěn duǎn.
+我的火车很短。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>53776</StartMilliseconds>
+    <EndMilliseconds>57841</EndMilliseconds>
+    <Text>Wǒ de huǒchē hěn cháng.
+我的火车很长。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>57842</StartMilliseconds>
+    <EndMilliseconds>58219</EndMilliseconds>
+    <Text>[@Wǒ@] de huǒchē hěn cháng.
+[@我@]的火车很长。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>58220</StartMilliseconds>
+    <EndMilliseconds>58525</EndMilliseconds>
+    <Text>Wǒ [@de@] huǒchē hěn cháng.
+我[@的@]火车很长。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>58525</StartMilliseconds>
+    <EndMilliseconds>59686</EndMilliseconds>
+    <Text>Wǒ de [@huǒchē@] hěn cháng.
+我的[@火车@]很长。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>59686</StartMilliseconds>
+    <EndMilliseconds>60224</EndMilliseconds>
+    <Text>Wǒ de huǒchē [@hěn@] cháng.
+我的火车[@很@]长。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>60224</StartMilliseconds>
+    <EndMilliseconds>61063</EndMilliseconds>
+    <Text>Wǒ de huǒchē hěn [@cháng@].
+我的火车很[@长@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>61063</StartMilliseconds>
+    <EndMilliseconds>64765</EndMilliseconds>
+    <Text>Wǒ de huǒchē hěn cháng.
+我的火车很长。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>64765</StartMilliseconds>
+    <EndMilliseconds>68920</EndMilliseconds>
+    <Text>Wǒ de shū hěn báo.
+我的书很薄。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>68920</StartMilliseconds>
+    <EndMilliseconds>69324</EndMilliseconds>
+    <Text>[@Wǒ@] de shū hěn báo.
+[@我@]的书很薄。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>69324</StartMilliseconds>
+    <EndMilliseconds>69578</EndMilliseconds>
+    <Text>Wǒ [@de@] shū hěn báo.
+我[@的@]书很薄。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>69578</StartMilliseconds>
+    <EndMilliseconds>70338</EndMilliseconds>
+    <Text>Wǒ de [@shū@] hěn báo.
+我的[@书@]很薄。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>70338</StartMilliseconds>
+    <EndMilliseconds>70857</EndMilliseconds>
+    <Text>Wǒ de shū [@hěn@] báo.
+我的书[@很@]薄。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>70857</StartMilliseconds>
+    <EndMilliseconds>71660</EndMilliseconds>
+    <Text>Wǒ de shū hěn [@báo@].
+我的书很[@薄@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>71660</StartMilliseconds>
+    <EndMilliseconds>72596</EndMilliseconds>
+    <Text>Wǒ de shū hěn báo.
+我的书很薄。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>72596</StartMilliseconds>
+    <EndMilliseconds>76578</EndMilliseconds>
+    <Text>Wǒ de shū hěn hòu.
+我的书很厚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>76578</StartMilliseconds>
+    <EndMilliseconds>76974</EndMilliseconds>
+    <Text>[@Wǒ@] de shū hěn hòu.
+[@我@]的书很厚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>76974</StartMilliseconds>
+    <EndMilliseconds>77306</EndMilliseconds>
+    <Text>Wǒ [@de@] shū hěn hòu.
+我[@的@]书很厚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>77306</StartMilliseconds>
+    <EndMilliseconds>78289</EndMilliseconds>
+    <Text>Wǒ de [@shū@] hěn hòu.
+我的[@书@]很厚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>78289</StartMilliseconds>
+    <EndMilliseconds>78898</EndMilliseconds>
+    <Text>Wǒ de shū [@hěn@] hòu.
+我的书[@很@]厚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>78898</StartMilliseconds>
+    <EndMilliseconds>79678</EndMilliseconds>
+    <Text>Wǒ de shū hěn [@hòu@].
+我的书很[@厚@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79678</StartMilliseconds>
+    <EndMilliseconds>81356</EndMilliseconds>
+    <Text>Wǒ de shū hěn hòu.
+我的书很厚。</Text>
+  </Paragraph>
+</Subtitle>

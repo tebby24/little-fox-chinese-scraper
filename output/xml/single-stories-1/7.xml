@@ -1,0 +1,976 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>8254</StartMilliseconds>
+    <EndMilliseconds>13225</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, qī, bā.
+一，二，三，四，五，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13226</StartMilliseconds>
+    <EndMilliseconds>14048</EndMilliseconds>
+    <Text>[@Yī@], èr, sān, sì, wǔ, liù, qī, bā.
+[@一@]，二，三，四，五，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14049</StartMilliseconds>
+    <EndMilliseconds>14701</EndMilliseconds>
+    <Text>Yī, [@èr@], sān, sì, wǔ, liù, qī, bā.
+一，[@二@]，三，四，五，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14702</StartMilliseconds>
+    <EndMilliseconds>15420</EndMilliseconds>
+    <Text>Yī, èr, [@sān@], sì, wǔ, liù, qī, bā.
+一，二，[@三@]，四，五，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15421</StartMilliseconds>
+    <EndMilliseconds>16216</EndMilliseconds>
+    <Text>Yī, èr, sān, [@sì@], wǔ, liù, qī, bā.
+一，二，三，[@四@]，五，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16217</StartMilliseconds>
+    <EndMilliseconds>17068</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, [@wǔ@], liù, qī, bā.
+一，二，三，四，[@五@]，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17069</StartMilliseconds>
+    <EndMilliseconds>17866</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, [@liù@], qī, bā.
+一，二，三，四，五，[@六@]，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17867</StartMilliseconds>
+    <EndMilliseconds>18683</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, [@qī@], bā.
+一，二，三，四，五，六，[@七@]，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>18684</StartMilliseconds>
+    <EndMilliseconds>19207</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, qī, [@bā@].
+一，二，三，四，五，六，七，[@八@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>19208</StartMilliseconds>
+    <EndMilliseconds>19524</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, qī, bā.
+一，二，三，四，五，六，七，八。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19525</StartMilliseconds>
+    <EndMilliseconds>19792</EndMilliseconds>
+    <Text>Bā bǎ yǐzi.
+八把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>19793</StartMilliseconds>
+    <EndMilliseconds>20203</EndMilliseconds>
+    <Text>[@Bā@] bǎ yǐzi.
+[@八@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>20204</StartMilliseconds>
+    <EndMilliseconds>20542</EndMilliseconds>
+    <Text>Bā [@bǎ@] yǐzi.
+八[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20543</StartMilliseconds>
+    <EndMilliseconds>21213</EndMilliseconds>
+    <Text>Bā bǎ [@yǐzi@].
+八把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>21214</StartMilliseconds>
+    <EndMilliseconds>22123</EndMilliseconds>
+    <Text>Bā bǎ yǐzi.
+八把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>22124</StartMilliseconds>
+    <EndMilliseconds>31827</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31828</StartMilliseconds>
+    <EndMilliseconds>32259</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32260</StartMilliseconds>
+    <EndMilliseconds>32640</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32641</StartMilliseconds>
+    <EndMilliseconds>33484</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33485</StartMilliseconds>
+    <EndMilliseconds>33908</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33909</StartMilliseconds>
+    <EndMilliseconds>38430</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>38431</StartMilliseconds>
+    <EndMilliseconds>39320</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, qī.
+一，二，三，四，五，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39321</StartMilliseconds>
+    <EndMilliseconds>39950</EndMilliseconds>
+    <Text>[@Yī@], èr, sān, sì, wǔ, liù, qī.
+[@一@]，二，三，四，五，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>39951</StartMilliseconds>
+    <EndMilliseconds>40658</EndMilliseconds>
+    <Text>Yī, [@èr@], sān, sì, wǔ, liù, qī.
+一，[@二@]，三，四，五，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>40659</StartMilliseconds>
+    <EndMilliseconds>41460</EndMilliseconds>
+    <Text>Yī, èr, [@sān@], sì, wǔ, liù, qī.
+一，二，[@三@]，四，五，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41461</StartMilliseconds>
+    <EndMilliseconds>42195</EndMilliseconds>
+    <Text>Yī, èr, sān, [@sì@], wǔ, liù, qī.
+一，二，三，[@四@]，五，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>42196</StartMilliseconds>
+    <EndMilliseconds>43031</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, [@wǔ@], liù, qī.
+一，二，三，四，[@五@]，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>43032</StartMilliseconds>
+    <EndMilliseconds>43794</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, [@liù@], qī.
+一，二，三，四，五，[@六@]，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>43795</StartMilliseconds>
+    <EndMilliseconds>44357</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, [@qī@].
+一，二，三，四，五，六，[@七@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>44358</StartMilliseconds>
+    <EndMilliseconds>44924</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù, qī.
+一，二，三，四，五，六，七。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>44925</StartMilliseconds>
+    <EndMilliseconds>45464</EndMilliseconds>
+    <Text>Qī bǎ yǐzi.
+七把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>45465</StartMilliseconds>
+    <EndMilliseconds>45930</EndMilliseconds>
+    <Text>[@Qī@] bǎ yǐzi.
+[@七@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>45931</StartMilliseconds>
+    <EndMilliseconds>46255</EndMilliseconds>
+    <Text>Qī [@bǎ@] yǐzi.
+七[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>46256</StartMilliseconds>
+    <EndMilliseconds>46953</EndMilliseconds>
+    <Text>Qī bǎ [@yǐzi@].
+七把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>46954</StartMilliseconds>
+    <EndMilliseconds>48184</EndMilliseconds>
+    <Text>Qī bǎ yǐzi.
+七把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>48185</StartMilliseconds>
+    <EndMilliseconds>57118</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>57119</StartMilliseconds>
+    <EndMilliseconds>57508</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57509</StartMilliseconds>
+    <EndMilliseconds>57836</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57837</StartMilliseconds>
+    <EndMilliseconds>58721</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>58722</StartMilliseconds>
+    <EndMilliseconds>59110</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>59111</StartMilliseconds>
+    <EndMilliseconds>62502</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>62503</StartMilliseconds>
+    <EndMilliseconds>63275</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù.
+一，二，三，四，五，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63276</StartMilliseconds>
+    <EndMilliseconds>64119</EndMilliseconds>
+    <Text>[@Yī@], èr, sān, sì, wǔ, liù.
+[@一@]，二，三，四，五，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64120</StartMilliseconds>
+    <EndMilliseconds>64796</EndMilliseconds>
+    <Text>Yī, [@èr@], sān, sì, wǔ, liù.
+一，[@二@]，三，四，五，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64797</StartMilliseconds>
+    <EndMilliseconds>65555</EndMilliseconds>
+    <Text>Yī, èr, [@sān@], sì, wǔ, liù.
+一，二，[@三@]，四，五，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65556</StartMilliseconds>
+    <EndMilliseconds>66255</EndMilliseconds>
+    <Text>Yī, èr, sān, [@sì@], wǔ, liù.
+一，二，三，[@四@]，五，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66256</StartMilliseconds>
+    <EndMilliseconds>67030</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, [@wǔ@], liù.
+一，二，三，四，[@五@]，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>67031</StartMilliseconds>
+    <EndMilliseconds>67676</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, [@liù@].
+一，二，三，四，五，[@六@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>67677</StartMilliseconds>
+    <EndMilliseconds>68228</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ, liù.
+一，二，三，四，五，六。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>68229</StartMilliseconds>
+    <EndMilliseconds>68799</EndMilliseconds>
+    <Text>Liù bǎ yǐzi.
+六把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>68800</StartMilliseconds>
+    <EndMilliseconds>69234</EndMilliseconds>
+    <Text>[@Liù@] bǎ yǐzi.
+[@六@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>69235</StartMilliseconds>
+    <EndMilliseconds>69521</EndMilliseconds>
+    <Text>Liù [@bǎ@] yǐzi.
+六[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>69522</StartMilliseconds>
+    <EndMilliseconds>70141</EndMilliseconds>
+    <Text>Liù bǎ [@yǐzi@].
+六把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>70142</StartMilliseconds>
+    <EndMilliseconds>71169</EndMilliseconds>
+    <Text>Liù bǎ yǐzi.
+六把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>71170</StartMilliseconds>
+    <EndMilliseconds>77270</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>77271</StartMilliseconds>
+    <EndMilliseconds>77813</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>77814</StartMilliseconds>
+    <EndMilliseconds>78116</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>78117</StartMilliseconds>
+    <EndMilliseconds>79063</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>79064</StartMilliseconds>
+    <EndMilliseconds>79504</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>79505</StartMilliseconds>
+    <EndMilliseconds>83104</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>83105</StartMilliseconds>
+    <EndMilliseconds>83958</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ.
+一，二，三，四，五。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>83959</StartMilliseconds>
+    <EndMilliseconds>84801</EndMilliseconds>
+    <Text>[@Yī@], èr, sān, sì, wǔ.
+[@一@]，二，三，四，五。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>84802</StartMilliseconds>
+    <EndMilliseconds>85509</EndMilliseconds>
+    <Text>Yī, [@èr@], sān, sì, wǔ.
+一，[@二@]，三，四，五。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>85510</StartMilliseconds>
+    <EndMilliseconds>86299</EndMilliseconds>
+    <Text>Yī, èr, [@sān@], sì, wǔ.
+一，二，[@三@]，四，五。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>86300</StartMilliseconds>
+    <EndMilliseconds>87162</EndMilliseconds>
+    <Text>Yī, èr, sān, [@sì@], wǔ.
+一，二，三，[@四@]，五。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>87163</StartMilliseconds>
+    <EndMilliseconds>87881</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, [@wǔ@].
+一，二，三，四，[@五@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>87882</StartMilliseconds>
+    <EndMilliseconds>88416</EndMilliseconds>
+    <Text>Yī, èr, sān, sì, wǔ.
+一，二，三，四，五。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>88417</StartMilliseconds>
+    <EndMilliseconds>88933</EndMilliseconds>
+    <Text>Wǔ bǎ yǐzi.
+五把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>88934</StartMilliseconds>
+    <EndMilliseconds>89393</EndMilliseconds>
+    <Text>[@Wǔ@] bǎ yǐzi.
+[@五@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>89394</StartMilliseconds>
+    <EndMilliseconds>89731</EndMilliseconds>
+    <Text>Wǔ [@bǎ@] yǐzi.
+五[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>89732</StartMilliseconds>
+    <EndMilliseconds>90343</EndMilliseconds>
+    <Text>Wǔ bǎ [@yǐzi@].
+五把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>90344</StartMilliseconds>
+    <EndMilliseconds>91353</EndMilliseconds>
+    <Text>Wǔ bǎ yǐzi.
+五把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>91354</StartMilliseconds>
+    <EndMilliseconds>99508</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>99509</StartMilliseconds>
+    <EndMilliseconds>99932</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>99933</StartMilliseconds>
+    <EndMilliseconds>100478</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>100479</StartMilliseconds>
+    <EndMilliseconds>101442</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>101443</StartMilliseconds>
+    <EndMilliseconds>101936</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>101937</StartMilliseconds>
+    <EndMilliseconds>105803</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>105804</StartMilliseconds>
+    <EndMilliseconds>106350</EndMilliseconds>
+    <Text>Yī, èr, sān, sì.
+一，二，三，四。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>106351</StartMilliseconds>
+    <EndMilliseconds>107133</EndMilliseconds>
+    <Text>[@Yī@], èr, sān, sì.
+[@一@]，二，三，四。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>107134</StartMilliseconds>
+    <EndMilliseconds>107839</EndMilliseconds>
+    <Text>Yī, [@èr@], sān, sì.
+一，[@二@]，三，四。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>107840</StartMilliseconds>
+    <EndMilliseconds>108563</EndMilliseconds>
+    <Text>Yī, èr, [@sān@], sì.
+一，二，[@三@]，四。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>108564</StartMilliseconds>
+    <EndMilliseconds>109052</EndMilliseconds>
+    <Text>Yī, èr, sān, [@sì@].
+一，二，三，[@四@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>109053</StartMilliseconds>
+    <EndMilliseconds>109872</EndMilliseconds>
+    <Text>Yī, èr, sān, sì.
+一，二，三，四。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>109873</StartMilliseconds>
+    <EndMilliseconds>110425</EndMilliseconds>
+    <Text>Sì bǎ yǐzi.
+四把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>110426</StartMilliseconds>
+    <EndMilliseconds>110955</EndMilliseconds>
+    <Text>[@Sì@] bǎ yǐzi.
+[@四@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>110956</StartMilliseconds>
+    <EndMilliseconds>111253</EndMilliseconds>
+    <Text>Sì [@bǎ@] yǐzi.
+四[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>111254</StartMilliseconds>
+    <EndMilliseconds>111870</EndMilliseconds>
+    <Text>Sì bǎ [@yǐzi@].
+四把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>111871</StartMilliseconds>
+    <EndMilliseconds>112475</EndMilliseconds>
+    <Text>Sì bǎ yǐzi.
+四把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>112476</StartMilliseconds>
+    <EndMilliseconds>118836</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>118837</StartMilliseconds>
+    <EndMilliseconds>119340</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>119341</StartMilliseconds>
+    <EndMilliseconds>119909</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>119910</StartMilliseconds>
+    <EndMilliseconds>120889</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>120890</StartMilliseconds>
+    <EndMilliseconds>121461</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>121462</StartMilliseconds>
+    <EndMilliseconds>124812</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>124813</StartMilliseconds>
+    <EndMilliseconds>125387</EndMilliseconds>
+    <Text>Yī, èr, sān.
+一，二，三。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>125388</StartMilliseconds>
+    <EndMilliseconds>126158</EndMilliseconds>
+    <Text>[@Yī@], èr, sān.
+[@一@]，二，三。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>126159</StartMilliseconds>
+    <EndMilliseconds>126986</EndMilliseconds>
+    <Text>Yī, [@èr@], sān.
+一，[@二@]，三。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>126987</StartMilliseconds>
+    <EndMilliseconds>127494</EndMilliseconds>
+    <Text>Yī, èr, [@sān@].
+一，二，[@三@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>127495</StartMilliseconds>
+    <EndMilliseconds>127998</EndMilliseconds>
+    <Text>Yī, èr, sān.
+一，二，三。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>127999</StartMilliseconds>
+    <EndMilliseconds>128496</EndMilliseconds>
+    <Text>Sān bǎ yǐzi.
+三把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>128497</StartMilliseconds>
+    <EndMilliseconds>128988</EndMilliseconds>
+    <Text>[@Sān@] bǎ yǐzi.
+[@三@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>128989</StartMilliseconds>
+    <EndMilliseconds>129247</EndMilliseconds>
+    <Text>Sān [@bǎ@] yǐzi.
+三[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>129248</StartMilliseconds>
+    <EndMilliseconds>130027</EndMilliseconds>
+    <Text>Sān bǎ [@yǐzi@].
+三把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>130028</StartMilliseconds>
+    <EndMilliseconds>130986</EndMilliseconds>
+    <Text>Sān bǎ yǐzi.
+三把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>130987</StartMilliseconds>
+    <EndMilliseconds>137215</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>137216</StartMilliseconds>
+    <EndMilliseconds>137690</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>137691</StartMilliseconds>
+    <EndMilliseconds>137928</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>137929</StartMilliseconds>
+    <EndMilliseconds>138859</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>138860</StartMilliseconds>
+    <EndMilliseconds>139262</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>139263</StartMilliseconds>
+    <EndMilliseconds>142975</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>142976</StartMilliseconds>
+    <EndMilliseconds>143362</EndMilliseconds>
+    <Text>Yī, èr.
+一，二。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>143363</StartMilliseconds>
+    <EndMilliseconds>144234</EndMilliseconds>
+    <Text>[@Yī@], èr.
+[@一@]，二。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>144235</StartMilliseconds>
+    <EndMilliseconds>144656</EndMilliseconds>
+    <Text>Yī, [@èr@].
+一，[@二@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>144657</StartMilliseconds>
+    <EndMilliseconds>145454</EndMilliseconds>
+    <Text>Yī, èr.
+一，二。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>145455</StartMilliseconds>
+    <EndMilliseconds>146056</EndMilliseconds>
+    <Text>Liǎng bǎ yǐzi.
+两把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>146057</StartMilliseconds>
+    <EndMilliseconds>146533</EndMilliseconds>
+    <Text>[@Liǎng@] bǎ yǐzi.
+[@两@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>146534</StartMilliseconds>
+    <EndMilliseconds>146826</EndMilliseconds>
+    <Text>Liǎng [@bǎ@] yǐzi.
+两[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>146827</StartMilliseconds>
+    <EndMilliseconds>147422</EndMilliseconds>
+    <Text>Liǎng bǎ [@yǐzi@].
+两把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>147423</StartMilliseconds>
+    <EndMilliseconds>148096</EndMilliseconds>
+    <Text>Liǎng bǎ yǐzi.
+两把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>148097</StartMilliseconds>
+    <EndMilliseconds>153779</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>153780</StartMilliseconds>
+    <EndMilliseconds>154232</EndMilliseconds>
+    <Text>"[@Wǒ@] bèi táotài le!"
+“[@我@]被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>154233</StartMilliseconds>
+    <EndMilliseconds>154464</EndMilliseconds>
+    <Text>"Wǒ [@bèi@] táotài le!"
+“我[@被@]淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>154465</StartMilliseconds>
+    <EndMilliseconds>155334</EndMilliseconds>
+    <Text>"Wǒ bèi [@táotài@] le!"
+“我被[@淘汰@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>155335</StartMilliseconds>
+    <EndMilliseconds>155755</EndMilliseconds>
+    <Text>"Wǒ bèi táotài [@le@]!"
+“我被淘汰[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>155756</StartMilliseconds>
+    <EndMilliseconds>159254</EndMilliseconds>
+    <Text>"Wǒ bèi táotài le!"
+“我被淘汰了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>159255</StartMilliseconds>
+    <EndMilliseconds>159647</EndMilliseconds>
+    <Text>Yī.
+一。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>159648</StartMilliseconds>
+    <EndMilliseconds>160072</EndMilliseconds>
+    <Text>[@Yī@].
+[@一@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>160073</StartMilliseconds>
+    <EndMilliseconds>160770</EndMilliseconds>
+    <Text>Yī.
+一。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>160771</StartMilliseconds>
+    <EndMilliseconds>161540</EndMilliseconds>
+    <Text>Yì bǎ yǐzi.
+一把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>161541</StartMilliseconds>
+    <EndMilliseconds>161958</EndMilliseconds>
+    <Text>[@Yì@] bǎ yǐzi.
+[@一@]把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>161959</StartMilliseconds>
+    <EndMilliseconds>162256</EndMilliseconds>
+    <Text>Yì [@bǎ@] yǐzi.
+一[@把@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>162257</StartMilliseconds>
+    <EndMilliseconds>162895</EndMilliseconds>
+    <Text>Yì bǎ [@yǐzi@].
+一把[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>162896</StartMilliseconds>
+    <EndMilliseconds>163774</EndMilliseconds>
+    <Text>Yì bǎ yǐzi.
+一把椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>163775</StartMilliseconds>
+    <EndMilliseconds>171193</EndMilliseconds>
+    <Text>"Wǒ yíng le!"
+“我赢了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>171194</StartMilliseconds>
+    <EndMilliseconds>171426</EndMilliseconds>
+    <Text>"[@Wǒ@] yíng le!"
+“[@我@]赢了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>171427</StartMilliseconds>
+    <EndMilliseconds>171849</EndMilliseconds>
+    <Text>"Wǒ [@yíng@] le!"
+“我[@赢@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>171850</StartMilliseconds>
+    <EndMilliseconds>172547</EndMilliseconds>
+    <Text>"Wǒ yíng [@le@]!"
+“我赢[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>172548</StartMilliseconds>
+    <EndMilliseconds>175389</EndMilliseconds>
+    <Text>"Wǒ yíng le!"
+“我赢了！”</Text>
+  </Paragraph>
+</Subtitle>

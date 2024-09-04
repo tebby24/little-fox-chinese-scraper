@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9628</StartMilliseconds>
+    <EndMilliseconds>9817</EndMilliseconds>
+    <Text>Jīntiān tiānqì hěn hǎo.
+今天天气很好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>9818</StartMilliseconds>
+    <EndMilliseconds>10676</EndMilliseconds>
+    <Text>[@Jīntiān@] tiānqì hěn hǎo.
+[@今天@]天气很好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>10677</StartMilliseconds>
+    <EndMilliseconds>11071</EndMilliseconds>
+    <Text>Jīntiān tiānqì hěn hǎo.
+今天天气很好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11072</StartMilliseconds>
+    <EndMilliseconds>11976</EndMilliseconds>
+    <Text>Jīntiān [@tiānqì@] hěn hǎo.
+今天[@天气@]很好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>11977</StartMilliseconds>
+    <EndMilliseconds>12499</EndMilliseconds>
+    <Text>Jīntiān tiānqì [@hěn@] hǎo.
+今天天气[@很@]好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12500</StartMilliseconds>
+    <EndMilliseconds>13153</EndMilliseconds>
+    <Text>Jīntiān tiānqì hěn [@hǎo@].
+今天天气很[@好@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13154</StartMilliseconds>
+    <EndMilliseconds>13413</EndMilliseconds>
+    <Text>Jīntiān tiānqì hěn hǎo.
+今天天气很好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>13414</StartMilliseconds>
+    <EndMilliseconds>13852</EndMilliseconds>
+    <Text>Bú yào dāizài jiā li!
+不要待在家里！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>13853</StartMilliseconds>
+    <EndMilliseconds>14195</EndMilliseconds>
+    <Text>[@Bú@] yào dāizài jiā li!
+[@不@]要待在家里！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>14196</StartMilliseconds>
+    <EndMilliseconds>14673</EndMilliseconds>
+    <Text>Bú [@yào@] dāizài jiā li!
+不[@要@]待在家里！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>14674</StartMilliseconds>
+    <EndMilliseconds>15273</EndMilliseconds>
+    <Text>Bú yào [@dāizài@] jiā li!
+不要[@待在@]家里！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>15273</StartMilliseconds>
+    <EndMilliseconds>15787</EndMilliseconds>
+    <Text>Bú yào dāizài [@jiā@] li!
+不要待在[@家@]里！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>15788</StartMilliseconds>
+    <EndMilliseconds>16317</EndMilliseconds>
+    <Text>Bú yào dāizài jiā [@li@]!
+不要待在家[@里@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>16318</StartMilliseconds>
+    <EndMilliseconds>16630</EndMilliseconds>
+    <Text>Bú yào dāizài jiā li!
+不要待在家里！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>16634</StartMilliseconds>
+    <EndMilliseconds>19562</EndMilliseconds>
+    <Text>Dào wàimian qù wánr ba!
+到外面去玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19564</StartMilliseconds>
+    <EndMilliseconds>20105</EndMilliseconds>
+    <Text>[@Dào@] wàimian qù wánr ba!
+[@到@]外面去玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20106</StartMilliseconds>
+    <EndMilliseconds>21117</EndMilliseconds>
+    <Text>Dào [@wàimian@] qù wánr ba!
+到[@外面@]去玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21118</StartMilliseconds>
+    <EndMilliseconds>21478</EndMilliseconds>
+    <Text>Dào wàimian [@qù@] wánr ba!
+到外面[@去@]玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21479</StartMilliseconds>
+    <EndMilliseconds>22001</EndMilliseconds>
+    <Text>Dào wàimian qù [@wánr@] ba!
+到外面去[@玩儿@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>22002</StartMilliseconds>
+    <EndMilliseconds>22349</EndMilliseconds>
+    <Text>Dào wàimian qù wánr [@ba@]!
+到外面去玩儿[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22350</StartMilliseconds>
+    <EndMilliseconds>27233</EndMilliseconds>
+    <Text>Dào wàimian qù wánr ba!
+到外面去玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27234</StartMilliseconds>
+    <EndMilliseconds>30907</EndMilliseconds>
+    <Text>Zhè shì tā de zìxíngchē.
+这是她的自行车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>30908</StartMilliseconds>
+    <EndMilliseconds>31334</EndMilliseconds>
+    <Text>[@Zhè@] shì tā de zìxíngchē.
+[@这@]是她的自行车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>31335</StartMilliseconds>
+    <EndMilliseconds>32070</EndMilliseconds>
+    <Text>Zhè [@shì@] tā de zìxíngchē.
+这[@是@]她的自行车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32071</StartMilliseconds>
+    <EndMilliseconds>32405</EndMilliseconds>
+    <Text>Zhè shì [@tā@] de zìxíngchē.
+这是[@她@]的自行车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>32406</StartMilliseconds>
+    <EndMilliseconds>32966</EndMilliseconds>
+    <Text>Zhè shì tā [@de@] zìxíngchē.
+这是她[@的@]自行车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>32967</StartMilliseconds>
+    <EndMilliseconds>34408</EndMilliseconds>
+    <Text>Zhè shì tā de [@zìxíngchē@].
+这是她的[@自行车@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>34409</StartMilliseconds>
+    <EndMilliseconds>34785</EndMilliseconds>
+    <Text>Zhè shì tā de zìxíngchē.
+这是她的自行车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>34786</StartMilliseconds>
+    <EndMilliseconds>35064</EndMilliseconds>
+    <Text>Bú yào zhème bù yǒuhǎo!
+不要这么不友好！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>35065</StartMilliseconds>
+    <EndMilliseconds>35463</EndMilliseconds>
+    <Text>[@Bú@] yào zhème bù yǒuhǎo!
+[@不@]要这么不友好！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>35464</StartMilliseconds>
+    <EndMilliseconds>35998</EndMilliseconds>
+    <Text>Bú [@yào@] zhème bù yǒuhǎo!
+不[@要@]这么不友好！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>35999</StartMilliseconds>
+    <EndMilliseconds>36862</EndMilliseconds>
+    <Text>Bú yào [@zhème@] bù yǒuhǎo!
+不要[@这么@]不友好！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>36863</StartMilliseconds>
+    <EndMilliseconds>37252</EndMilliseconds>
+    <Text>Bú yào zhème [@bù@] yǒuhǎo!
+不要这么[@不@]友好！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37253</StartMilliseconds>
+    <EndMilliseconds>38311</EndMilliseconds>
+    <Text>Bú yào zhème bù [@yǒuhǎo@]!
+不要这么不[@友好@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>38312</StartMilliseconds>
+    <EndMilliseconds>42337</EndMilliseconds>
+    <Text>Bú yào zhème bù yǒuhǎo!
+不要这么不友好！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>42338</StartMilliseconds>
+    <EndMilliseconds>45129</EndMilliseconds>
+    <Text>Yǒushàn yìdiǎnr ba!
+友善一点儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>45130</StartMilliseconds>
+    <EndMilliseconds>46126</EndMilliseconds>
+    <Text>[@Yǒushàn@] yìdiǎnr ba!
+[@友善@]一点儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>46127</StartMilliseconds>
+    <EndMilliseconds>46751</EndMilliseconds>
+    <Text>Yǒushàn [@yìdiǎnr@] ba!
+友善[@一点儿@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>46752</StartMilliseconds>
+    <EndMilliseconds>47165</EndMilliseconds>
+    <Text>Yǒushàn yìdiǎnr [@ba@]!
+友善一点儿[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>47166</StartMilliseconds>
+    <EndMilliseconds>47642</EndMilliseconds>
+    <Text>Yǒushàn yìdiǎnr ba!
+友善一点儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>47643</StartMilliseconds>
+    <EndMilliseconds>49643</EndMilliseconds>
+    <Text>Zhè shì yí ge yìwài.
+这是一个意外。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>49644</StartMilliseconds>
+    <EndMilliseconds>50042</EndMilliseconds>
+    <Text>[@Zhè@] shì yí ge yìwài.
+[@这@]是一个意外。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>50043</StartMilliseconds>
+    <EndMilliseconds>50501</EndMilliseconds>
+    <Text>Zhè [@shì@] yí ge yìwài.
+这[@是@]一个意外。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>50502</StartMilliseconds>
+    <EndMilliseconds>50728</EndMilliseconds>
+    <Text>Zhè shì [@yí@] ge yìwài.
+这是[@一@]个意外。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>50729</StartMilliseconds>
+    <EndMilliseconds>51018</EndMilliseconds>
+    <Text>Zhè shì yí [@ge@] yìwài.
+这是一[@个@]意外。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>51019</StartMilliseconds>
+    <EndMilliseconds>51765</EndMilliseconds>
+    <Text>Zhè shì yí ge [@yìwài@].
+这是一个[@意外@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>51766</StartMilliseconds>
+    <EndMilliseconds>51925</EndMilliseconds>
+    <Text>Zhè shì yí ge yìwài.
+这是一个意外。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>51926</StartMilliseconds>
+    <EndMilliseconds>52134</EndMilliseconds>
+    <Text>Bú yào zhēngchǎo!
+不要争吵！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>52135</StartMilliseconds>
+    <EndMilliseconds>52534</EndMilliseconds>
+    <Text>[@Bú@] yào zhēngchǎo!
+[@不@]要争吵！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>52535</StartMilliseconds>
+    <EndMilliseconds>52983</EndMilliseconds>
+    <Text>Bú [@yào@] zhēngchǎo!
+不[@要@]争吵！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>52984</StartMilliseconds>
+    <EndMilliseconds>54004</EndMilliseconds>
+    <Text>Bú yào [@zhēngchǎo@]!
+不要[@争吵@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>54005</StartMilliseconds>
+    <EndMilliseconds>54336</EndMilliseconds>
+    <Text>Bú yào zhēngchǎo!
+不要争吵！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>54337</StartMilliseconds>
+    <EndMilliseconds>55567</EndMilliseconds>
+    <Text>Zuò hǎo péngyou ba!
+做好朋友吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>55568</StartMilliseconds>
+    <EndMilliseconds>56146</EndMilliseconds>
+    <Text>[@Zuò@] hǎo péngyou ba!
+[@做@]好朋友吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>56147</StartMilliseconds>
+    <EndMilliseconds>56645</EndMilliseconds>
+    <Text>Zuò [@hǎo@] péngyou ba!
+做[@好@]朋友吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>56646</StartMilliseconds>
+    <EndMilliseconds>57344</EndMilliseconds>
+    <Text>Zuò hǎo [@péngyou@] ba!
+做好[@朋友@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>57345</StartMilliseconds>
+    <EndMilliseconds>57751</EndMilliseconds>
+    <Text>Zuò hǎo péngyou [@ba@]!
+做好朋友[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>57752</StartMilliseconds>
+    <EndMilliseconds>61641</EndMilliseconds>
+    <Text>Zuò hǎo péngyou ba!
+做好朋友吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>61642</StartMilliseconds>
+    <EndMilliseconds>65257</EndMilliseconds>
+    <Text>Shēngrì kuàilè!
+生日快乐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>65258</StartMilliseconds>
+    <EndMilliseconds>66221</EndMilliseconds>
+    <Text>[@Shēngrì@] kuàilè!
+[@生日@]快乐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>66222</StartMilliseconds>
+    <EndMilliseconds>67208</EndMilliseconds>
+    <Text>Shēngrì [@kuàilè@]!
+生日[@快乐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>67209</StartMilliseconds>
+    <EndMilliseconds>67860</EndMilliseconds>
+    <Text>Shēngrì kuàilè!
+生日快乐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>67861</StartMilliseconds>
+    <EndMilliseconds>70706</EndMilliseconds>
+    <Text>Bú yào shāngxīn!
+不要伤心！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>70707</StartMilliseconds>
+    <EndMilliseconds>71121</EndMilliseconds>
+    <Text>[@Bú@] yào shāngxīn!
+[@不@]要伤心！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>71122</StartMilliseconds>
+    <EndMilliseconds>71564</EndMilliseconds>
+    <Text>Bú [@yào@] shāngxīn!
+不[@要@]伤心！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>71565</StartMilliseconds>
+    <EndMilliseconds>72518</EndMilliseconds>
+    <Text>Bú yào [@shāngxīn@]!
+不要[@伤心@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>72519</StartMilliseconds>
+    <EndMilliseconds>73143</EndMilliseconds>
+    <Text>Bú yào shāngxīn!
+不要伤心！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>73144</StartMilliseconds>
+    <EndMilliseconds>74032</EndMilliseconds>
+    <Text>Kāixīn yìdiǎnr ba!
+开心一点儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>74033</StartMilliseconds>
+    <EndMilliseconds>74991</EndMilliseconds>
+    <Text>[@Kāixīn@] yìdiǎnr ba!
+[@开心@]一点儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>74992</StartMilliseconds>
+    <EndMilliseconds>75671</EndMilliseconds>
+    <Text>Kāixīn [@yìdiǎnr@] ba!
+开心[@一点儿@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>75672</StartMilliseconds>
+    <EndMilliseconds>76104</EndMilliseconds>
+    <Text>Kāixīn yìdiǎnr [@ba@]!
+开心一点儿[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>76105</StartMilliseconds>
+    <EndMilliseconds>79960</EndMilliseconds>
+    <Text>Kāixīn yìdiǎnr ba!
+开心一点儿吧！</Text>
+  </Paragraph>
+</Subtitle>

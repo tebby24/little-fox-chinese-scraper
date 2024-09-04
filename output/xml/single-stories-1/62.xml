@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10008</StartMilliseconds>
+    <EndMilliseconds>17620</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>17620</StartMilliseconds>
+    <EndMilliseconds>18057</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>18057</StartMilliseconds>
+    <EndMilliseconds>18673</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>18673</StartMilliseconds>
+    <EndMilliseconds>19602</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>19602</StartMilliseconds>
+    <EndMilliseconds>21331</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>21331</StartMilliseconds>
+    <EndMilliseconds>21416</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī hǎixīng.
+我看到一只海星。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>21416</StartMilliseconds>
+    <EndMilliseconds>21956</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī hǎixīng.
+[@我@]看到一只海星。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21956</StartMilliseconds>
+    <EndMilliseconds>22655</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī hǎixīng.
+我[@看到@]一只海星。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22655</StartMilliseconds>
+    <EndMilliseconds>23014</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī hǎixīng.
+我看到[@一@]只海星。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23014</StartMilliseconds>
+    <EndMilliseconds>23326</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] hǎixīng.
+我看到一[@只@]海星。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>23326</StartMilliseconds>
+    <EndMilliseconds>24218</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@hǎixīng@].
+我看到一只[@海星@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24218</StartMilliseconds>
+    <EndMilliseconds>26656</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī hǎixīng.
+我看到一只海星。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>26656</StartMilliseconds>
+    <EndMilliseconds>26788</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>26788</StartMilliseconds>
+    <EndMilliseconds>27292</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27292</StartMilliseconds>
+    <EndMilliseconds>28077</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>28077</StartMilliseconds>
+    <EndMilliseconds>28764</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>28764</StartMilliseconds>
+    <EndMilliseconds>30101</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>30101</StartMilliseconds>
+    <EndMilliseconds>30195</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī wūguī.
+我看到一只乌龟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>30195</StartMilliseconds>
+    <EndMilliseconds>30667</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī wūguī.
+[@我@]看到一只乌龟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>30667</StartMilliseconds>
+    <EndMilliseconds>31389</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī wūguī.
+我[@看到@]一只乌龟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>31389</StartMilliseconds>
+    <EndMilliseconds>31741</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī wūguī.
+我看到[@一@]只乌龟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>31741</StartMilliseconds>
+    <EndMilliseconds>32036</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] wūguī.
+我看到一[@只@]乌龟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>32036</StartMilliseconds>
+    <EndMilliseconds>32748</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@wūguī@].
+我看到一只[@乌龟@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>32748</StartMilliseconds>
+    <EndMilliseconds>35738</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī wūguī.
+我看到一只乌龟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>35738</StartMilliseconds>
+    <EndMilliseconds>35832</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>35832</StartMilliseconds>
+    <EndMilliseconds>36278</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>36278</StartMilliseconds>
+    <EndMilliseconds>36940</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>36940</StartMilliseconds>
+    <EndMilliseconds>37760</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>37760</StartMilliseconds>
+    <EndMilliseconds>40350</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>40350</StartMilliseconds>
+    <EndMilliseconds>40490</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī zhāngyú.
+我看到一只章鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>40490</StartMilliseconds>
+    <EndMilliseconds>40924</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī zhāngyú.
+[@我@]看到一只章鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>40924</StartMilliseconds>
+    <EndMilliseconds>41698</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī zhāngyú.
+我[@看到@]一只章鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>41698</StartMilliseconds>
+    <EndMilliseconds>42063</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī zhāngyú.
+我看到[@一@]只章鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>42063</StartMilliseconds>
+    <EndMilliseconds>42387</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] zhāngyú.
+我看到一[@只@]章鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>42387</StartMilliseconds>
+    <EndMilliseconds>43293</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@zhāngyú@].
+我看到一只[@章鱼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>43294</StartMilliseconds>
+    <EndMilliseconds>46131</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī zhāngyú.
+我看到一只章鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>46131</StartMilliseconds>
+    <EndMilliseconds>46253</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>46253</StartMilliseconds>
+    <EndMilliseconds>46729</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>46729</StartMilliseconds>
+    <EndMilliseconds>47437</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>47437</StartMilliseconds>
+    <EndMilliseconds>48248</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>48248</StartMilliseconds>
+    <EndMilliseconds>52024</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>52025</StartMilliseconds>
+    <EndMilliseconds>52155</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī pángxiè.
+我看到一只螃蟹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>52155</StartMilliseconds>
+    <EndMilliseconds>52697</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī pángxiè.
+[@我@]看到一只螃蟹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>52697</StartMilliseconds>
+    <EndMilliseconds>53413</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī pángxiè.
+我[@看到@]一只螃蟹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>53413</StartMilliseconds>
+    <EndMilliseconds>53685</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī pángxiè.
+我看到[@一@]只螃蟹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>53685</StartMilliseconds>
+    <EndMilliseconds>54024</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] pángxiè.
+我看到一[@只@]螃蟹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>54024</StartMilliseconds>
+    <EndMilliseconds>54938</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@pángxiè@].
+我看到一只[@螃蟹@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>54938</StartMilliseconds>
+    <EndMilliseconds>57725</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī pángxiè.
+我看到一只螃蟹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>57725</StartMilliseconds>
+    <EndMilliseconds>57842</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>57843</StartMilliseconds>
+    <EndMilliseconds>58247</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>58248</StartMilliseconds>
+    <EndMilliseconds>58931</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>58932</StartMilliseconds>
+    <EndMilliseconds>59671</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>59671</StartMilliseconds>
+    <EndMilliseconds>63165</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>63165</StartMilliseconds>
+    <EndMilliseconds>63273</EndMilliseconds>
+    <Text>Wǒ kàndào yì tiáo shāyú.
+我看到一条鲨鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>63273</StartMilliseconds>
+    <EndMilliseconds>63662</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì tiáo shāyú.
+[@我@]看到一条鲨鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>63662</StartMilliseconds>
+    <EndMilliseconds>64427</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì tiáo shāyú.
+我[@看到@]一条鲨鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>64427</StartMilliseconds>
+    <EndMilliseconds>64748</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] tiáo shāyú.
+我看到[@一@]条鲨鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>64748</StartMilliseconds>
+    <EndMilliseconds>65112</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@tiáo@] shāyú.
+我看到一[@条@]鲨鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>65112</StartMilliseconds>
+    <EndMilliseconds>66032</EndMilliseconds>
+    <Text>Wǒ kàndào yì tiáo [@shāyú@].
+我看到一条[@鲨鱼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>66032</StartMilliseconds>
+    <EndMilliseconds>68593</EndMilliseconds>
+    <Text>Wǒ kàndào yì tiáo shāyú.
+我看到一条鲨鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>68593</StartMilliseconds>
+    <EndMilliseconds>68692</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>68692</StartMilliseconds>
+    <EndMilliseconds>69061</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>69061</StartMilliseconds>
+    <EndMilliseconds>69694</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>69694</StartMilliseconds>
+    <EndMilliseconds>70336</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>70336</StartMilliseconds>
+    <EndMilliseconds>72874</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>72874</StartMilliseconds>
+    <EndMilliseconds>72987</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī hǎibào.
+我看到一只海豹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>72988</StartMilliseconds>
+    <EndMilliseconds>73368</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī hǎibào.
+[@我@]看到一只海豹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>73368</StartMilliseconds>
+    <EndMilliseconds>74220</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī hǎibào.
+我[@看到@]一只海豹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>74220</StartMilliseconds>
+    <EndMilliseconds>74613</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī hǎibào.
+我看到[@一@]只海豹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>74614</StartMilliseconds>
+    <EndMilliseconds>74982</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] hǎibào.
+我看到一[@只@]海豹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>74982</StartMilliseconds>
+    <EndMilliseconds>75786</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@hǎibào@].
+我看到一只[@海豹@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>75786</StartMilliseconds>
+    <EndMilliseconds>78287</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī hǎibào.
+我看到一只海豹。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>78287</StartMilliseconds>
+    <EndMilliseconds>78381</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>78381</StartMilliseconds>
+    <EndMilliseconds>78848</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>78849</StartMilliseconds>
+    <EndMilliseconds>79533</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>79533</StartMilliseconds>
+    <EndMilliseconds>80289</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>80289</StartMilliseconds>
+    <EndMilliseconds>84165</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>84165</StartMilliseconds>
+    <EndMilliseconds>84273</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī shuǐmǔ.
+我看到一只水母。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>84273</StartMilliseconds>
+    <EndMilliseconds>84700</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī shuǐmǔ.
+[@我@]看到一只水母。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>84701</StartMilliseconds>
+    <EndMilliseconds>85584</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī shuǐmǔ.
+我[@看到@]一只水母。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>85584</StartMilliseconds>
+    <EndMilliseconds>85950</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī shuǐmǔ.
+我看到[@一@]只水母。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>85950</StartMilliseconds>
+    <EndMilliseconds>86403</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] shuǐmǔ.
+我看到一[@只@]水母。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>86404</StartMilliseconds>
+    <EndMilliseconds>87340</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@shuǐmǔ@].
+我看到一只[@水母@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>87340</StartMilliseconds>
+    <EndMilliseconds>89456</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī shuǐmǔ.
+我看到一只水母。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>89457</StartMilliseconds>
+    <EndMilliseconds>89597</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>89597</StartMilliseconds>
+    <EndMilliseconds>90055</EndMilliseconds>
+    <Text>[@Nǐ@] kàndào shénme?
+[@你@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>90055</StartMilliseconds>
+    <EndMilliseconds>90788</EndMilliseconds>
+    <Text>Nǐ [@kàndào@] shénme?
+你[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>90788</StartMilliseconds>
+    <EndMilliseconds>91553</EndMilliseconds>
+    <Text>Nǐ kàndào [@shénme@]?
+你看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>91554</StartMilliseconds>
+    <EndMilliseconds>94558</EndMilliseconds>
+    <Text>Nǐ kàndào shénme?
+你看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>94558</StartMilliseconds>
+    <EndMilliseconds>94684</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī hǎitún.
+我看到一只海豚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>94684</StartMilliseconds>
+    <EndMilliseconds>95117</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì zhī hǎitún.
+[@我@]看到一只海豚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>95118</StartMilliseconds>
+    <EndMilliseconds>95976</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì zhī hǎitún.
+我[@看到@]一只海豚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>95976</StartMilliseconds>
+    <EndMilliseconds>96435</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] zhī hǎitún.
+我看到[@一@]只海豚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>96435</StartMilliseconds>
+    <EndMilliseconds>96722</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@zhī@] hǎitún.
+我看到一[@只@]海豚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>96722</StartMilliseconds>
+    <EndMilliseconds>97746</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī [@hǎitún@].
+我看到一只[@海豚@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>97746</StartMilliseconds>
+    <EndMilliseconds>101736</EndMilliseconds>
+    <Text>Wǒ kàndào yì zhī hǎitún.
+我看到一只海豚。</Text>
+  </Paragraph>
+</Subtitle>

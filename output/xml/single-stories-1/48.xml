@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7761</StartMilliseconds>
+    <EndMilliseconds>10905</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge qiú.
+我有一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10906</StartMilliseconds>
+    <EndMilliseconds>11254</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge qiú.
+[@我@]有一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>11255</StartMilliseconds>
+    <EndMilliseconds>12058</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge qiú.
+我[@有@]一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12059</StartMilliseconds>
+    <EndMilliseconds>12464</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge qiú.
+我有[@一@]个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12465</StartMilliseconds>
+    <EndMilliseconds>12829</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] qiú.
+我有一[@个@]球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12830</StartMilliseconds>
+    <EndMilliseconds>13597</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@qiú@].
+我有一个[@球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13598</StartMilliseconds>
+    <EndMilliseconds>13809</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge qiú.
+我有一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>13810</StartMilliseconds>
+    <EndMilliseconds>15673</EndMilliseconds>
+    <Text>Zhè shì wǒ de qiú.
+这是我的球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15674</StartMilliseconds>
+    <EndMilliseconds>16091</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de qiú.
+[@这@]是我的球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16092</StartMilliseconds>
+    <EndMilliseconds>16723</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de qiú.
+这[@是@]我的球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16724</StartMilliseconds>
+    <EndMilliseconds>17045</EndMilliseconds>
+    <Text>Zhè shì wǒ de qiú.
+这是我的球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17046</StartMilliseconds>
+    <EndMilliseconds>17552</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de qiú.
+这是[@我@]的球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17553</StartMilliseconds>
+    <EndMilliseconds>18024</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] qiú.
+这是我[@的@]球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18025</StartMilliseconds>
+    <EndMilliseconds>18828</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@qiú@].
+这是我的[@球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>18829</StartMilliseconds>
+    <EndMilliseconds>19282</EndMilliseconds>
+    <Text>Zhè shì wǒ de qiú.
+这是我的球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19283</StartMilliseconds>
+    <EndMilliseconds>21275</EndMilliseconds>
+    <Text>Láolā yǒu yí ge qiúbàng.
+劳拉有一个球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>21276</StartMilliseconds>
+    <EndMilliseconds>22026</EndMilliseconds>
+    <Text>[@Láolā@] yǒu yí ge qiúbàng.
+[@劳拉@]有一个球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>22027</StartMilliseconds>
+    <EndMilliseconds>22547</EndMilliseconds>
+    <Text>Láolā yǒu yí ge qiúbàng.
+劳拉有一个球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>22548</StartMilliseconds>
+    <EndMilliseconds>22932</EndMilliseconds>
+    <Text>Láolā [@yǒu@] yí ge qiúbàng.
+劳拉[@有@]一个球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>22933</StartMilliseconds>
+    <EndMilliseconds>23253</EndMilliseconds>
+    <Text>Láolā yǒu [@yí@] ge qiúbàng.
+劳拉有[@一@]个球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>23254</StartMilliseconds>
+    <EndMilliseconds>23796</EndMilliseconds>
+    <Text>Láolā yǒu yí [@ge@] qiúbàng.
+劳拉有一[@个@]球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>23797</StartMilliseconds>
+    <EndMilliseconds>24763</EndMilliseconds>
+    <Text>Láolā yǒu yí ge [@qiúbàng@].
+劳拉有一个[@球棒@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>24764</StartMilliseconds>
+    <EndMilliseconds>24990</EndMilliseconds>
+    <Text>Láolā yǒu yí ge qiúbàng.
+劳拉有一个球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>24991</StartMilliseconds>
+    <EndMilliseconds>27183</EndMilliseconds>
+    <Text>Zhè shì tā de qiúbàng.
+这是她的球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>27184</StartMilliseconds>
+    <EndMilliseconds>27622</EndMilliseconds>
+    <Text>[@Zhè@] shì tā de qiúbàng.
+[@这@]是她的球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>27623</StartMilliseconds>
+    <EndMilliseconds>28368</EndMilliseconds>
+    <Text>Zhè [@shì@] tā de qiúbàng.
+这[@是@]她的球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28369</StartMilliseconds>
+    <EndMilliseconds>28856</EndMilliseconds>
+    <Text>Zhè shì [@tā@] de qiúbàng.
+这是[@她@]的球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>28857</StartMilliseconds>
+    <EndMilliseconds>29476</EndMilliseconds>
+    <Text>Zhè shì tā [@de@] qiúbàng.
+这是她[@的@]球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>29477</StartMilliseconds>
+    <EndMilliseconds>30501</EndMilliseconds>
+    <Text>Zhè shì tā de [@qiúbàng@].
+这是她的[@球棒@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30502</StartMilliseconds>
+    <EndMilliseconds>30897</EndMilliseconds>
+    <Text>Zhè shì tā de qiúbàng.
+这是她的球棒。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>30898</StartMilliseconds>
+    <EndMilliseconds>31851</EndMilliseconds>
+    <Text>Màikè yǒu yí ge bàngqiú shǒutào.
+麦克有一个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>31852</StartMilliseconds>
+    <EndMilliseconds>32781</EndMilliseconds>
+    <Text>[@Màikè@] yǒu yí ge bàngqiú shǒutào.
+[@麦克@]有一个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>32782</StartMilliseconds>
+    <EndMilliseconds>33158</EndMilliseconds>
+    <Text>Màikè yǒu yí ge bàngqiú shǒutào.
+麦克有一个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>33159</StartMilliseconds>
+    <EndMilliseconds>33510</EndMilliseconds>
+    <Text>Màikè [@yǒu@] yí ge bàngqiú shǒutào.
+麦克[@有@]一个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>33511</StartMilliseconds>
+    <EndMilliseconds>33763</EndMilliseconds>
+    <Text>Màikè yǒu [@yí@] ge bàngqiú shǒutào.
+麦克有[@一@]个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>33764</StartMilliseconds>
+    <EndMilliseconds>34161</EndMilliseconds>
+    <Text>Màikè yǒu yí [@ge@] bàngqiú shǒutào.
+麦克有一[@个@]棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>34162</StartMilliseconds>
+    <EndMilliseconds>34494</EndMilliseconds>
+    <Text>Màikè yǒu yí ge bàngqiú shǒutào.
+麦克有一个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>34495</StartMilliseconds>
+    <EndMilliseconds>35447</EndMilliseconds>
+    <Text>Màikè yǒu yí ge [@bàngqiú@] shǒutào.
+麦克有一个[@棒球@]手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>35448</StartMilliseconds>
+    <EndMilliseconds>36441</EndMilliseconds>
+    <Text>Màikè yǒu yí ge bàngqiú [@shǒutào@].
+麦克有一个棒球[@手套@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>36442</StartMilliseconds>
+    <EndMilliseconds>36866</EndMilliseconds>
+    <Text>Màikè yǒu yí ge bàngqiú shǒutào.
+麦克有一个棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>36867</StartMilliseconds>
+    <EndMilliseconds>38673</EndMilliseconds>
+    <Text>Zhè shì tā de bàngqiú shǒutào.
+这是他的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>38674</StartMilliseconds>
+    <EndMilliseconds>39177</EndMilliseconds>
+    <Text>[@Zhè@] shì tā de bàngqiú shǒutào.
+[@这@]是他的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>39178</StartMilliseconds>
+    <EndMilliseconds>39692</EndMilliseconds>
+    <Text>Zhè shì tā de bàngqiú shǒutào.
+这是他的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>39693</StartMilliseconds>
+    <EndMilliseconds>40177</EndMilliseconds>
+    <Text>Zhè [@shì@] tā de bàngqiú shǒutào.
+这[@是@]他的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>40178</StartMilliseconds>
+    <EndMilliseconds>40617</EndMilliseconds>
+    <Text>Zhè shì [@tā@] de bàngqiú shǒutào.
+这是[@他@]的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>40618</StartMilliseconds>
+    <EndMilliseconds>41042</EndMilliseconds>
+    <Text>Zhè shì tā [@de@] bàngqiú shǒutào.
+这是他[@的@]棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>41043</StartMilliseconds>
+    <EndMilliseconds>41519</EndMilliseconds>
+    <Text>Zhè shì tā de bàngqiú shǒutào.
+这是他的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>41520</StartMilliseconds>
+    <EndMilliseconds>42586</EndMilliseconds>
+    <Text>Zhè shì tā de [@bàngqiú@] shǒutào.
+这是他的[@棒球@]手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>42587</StartMilliseconds>
+    <EndMilliseconds>43560</EndMilliseconds>
+    <Text>Zhè shì tā de bàngqiú [@shǒutào@].
+这是他的棒球[@手套@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>43561</StartMilliseconds>
+    <EndMilliseconds>44662</EndMilliseconds>
+    <Text>Zhè shì tā de bàngqiú shǒutào.
+这是他的棒球手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>44663</StartMilliseconds>
+    <EndMilliseconds>49247</EndMilliseconds>
+    <Text>Bàba shì wǒmen de jiàoliàn.
+爸爸是我们的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>49248</StartMilliseconds>
+    <EndMilliseconds>50088</EndMilliseconds>
+    <Text>[@Bàba@] shì wǒmen de jiàoliàn.
+[@爸爸@]是我们的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>50089</StartMilliseconds>
+    <EndMilliseconds>50562</EndMilliseconds>
+    <Text>Bàba shì wǒmen de jiàoliàn.
+爸爸是我们的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>50563</StartMilliseconds>
+    <EndMilliseconds>51064</EndMilliseconds>
+    <Text>Bàba [@shì@] wǒmen de jiàoliàn.
+爸爸[@是@]我们的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>51065</StartMilliseconds>
+    <EndMilliseconds>51834</EndMilliseconds>
+    <Text>Bàba shì [@wǒmen@] de jiàoliàn.
+爸爸是[@我们@]的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>51835</StartMilliseconds>
+    <EndMilliseconds>52239</EndMilliseconds>
+    <Text>Bàba shì wǒmen [@de@] jiàoliàn.
+爸爸是我们[@的@]教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>52240</StartMilliseconds>
+    <EndMilliseconds>52726</EndMilliseconds>
+    <Text>Bàba shì wǒmen de jiàoliàn.
+爸爸是我们的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>52727</StartMilliseconds>
+    <EndMilliseconds>53587</EndMilliseconds>
+    <Text>Bàba shì wǒmen de [@jiàoliàn@].
+爸爸是我们的[@教练@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>53588</StartMilliseconds>
+    <EndMilliseconds>54319</EndMilliseconds>
+    <Text>Bàba shì wǒmen de jiàoliàn.
+爸爸是我们的教练。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>54320</StartMilliseconds>
+    <EndMilliseconds>60851</EndMilliseconds>
+    <Text>Wǒmen dǎ bàngqiú ba!
+我们打棒球吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>60852</StartMilliseconds>
+    <EndMilliseconds>61565</EndMilliseconds>
+    <Text>[@Wǒmen@] dǎ bàngqiú ba!
+[@我们@]打棒球吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>61566</StartMilliseconds>
+    <EndMilliseconds>62141</EndMilliseconds>
+    <Text>Wǒmen dǎ bàngqiú ba!
+我们打棒球吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>62142</StartMilliseconds>
+    <EndMilliseconds>62547</EndMilliseconds>
+    <Text>Wǒmen [@dǎ@] bàngqiú ba!
+我们[@打@]棒球吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>62548</StartMilliseconds>
+    <EndMilliseconds>63434</EndMilliseconds>
+    <Text>Wǒmen dǎ [@bàngqiú@] ba!
+我们打[@棒球@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>63435</StartMilliseconds>
+    <EndMilliseconds>63845</EndMilliseconds>
+    <Text>Wǒmen dǎ bàngqiú [@ba@]!
+我们打棒球[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>63846</StartMilliseconds>
+    <EndMilliseconds>70292</EndMilliseconds>
+    <Text>Wǒmen dǎ bàngqiú ba!
+我们打棒球吧！</Text>
+  </Paragraph>
+</Subtitle>

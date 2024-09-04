@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7642</StartMilliseconds>
+    <EndMilliseconds>8281</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen lái le!
+小点点们来了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>8281</StartMilliseconds>
+    <EndMilliseconds>9183</EndMilliseconds>
+    <Text>[@Xiǎodiǎndianmen@] lái le!
+[@小点点们@]来了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>9183</StartMilliseconds>
+    <EndMilliseconds>9464</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen [@lái@] le!
+小点点们[@来@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>9464</StartMilliseconds>
+    <EndMilliseconds>9639</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen lái [@le@]!
+小点点们来[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>9639</StartMilliseconds>
+    <EndMilliseconds>12859</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen lái le!
+小点点们来了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12859</StartMilliseconds>
+    <EndMilliseconds>13805</EndMilliseconds>
+    <Text>Tāmen kàndào shénme?
+他们看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13805</StartMilliseconds>
+    <EndMilliseconds>14443</EndMilliseconds>
+    <Text>[@Tāmen@] kàndào shénme?
+[@他们@]看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14443</StartMilliseconds>
+    <EndMilliseconds>14876</EndMilliseconds>
+    <Text>Tāmen [@kàndào@] shénme?
+他们[@看到@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>14876</StartMilliseconds>
+    <EndMilliseconds>15370</EndMilliseconds>
+    <Text>Tāmen kàndào [@shénme@]?
+他们看到[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15370</StartMilliseconds>
+    <EndMilliseconds>15943</EndMilliseconds>
+    <Text>Tāmen kàndào shénme?
+他们看到什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>15943</StartMilliseconds>
+    <EndMilliseconds>16862</EndMilliseconds>
+    <Text>Tāmen kàndào pèngpèngchē.
+他们看到碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16862</StartMilliseconds>
+    <EndMilliseconds>17249</EndMilliseconds>
+    <Text>[@Tāmen@] kàndào pèngpèngchē.
+[@他们@]看到碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17249</StartMilliseconds>
+    <EndMilliseconds>18073</EndMilliseconds>
+    <Text>Tāmen [@kàndào@] pèngpèngchē.
+他们[@看到@]碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18073</StartMilliseconds>
+    <EndMilliseconds>19363</EndMilliseconds>
+    <Text>Tāmen kàndào [@pèngpèngchē@].
+他们看到[@碰碰车@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19363</StartMilliseconds>
+    <EndMilliseconds>30934</EndMilliseconds>
+    <Text>Tāmen kàndào pèngpèngchē.
+他们看到碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30934</StartMilliseconds>
+    <EndMilliseconds>31607</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen qù zuò pèngpèngchē.
+小点点们去坐碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31607</StartMilliseconds>
+    <EndMilliseconds>32892</EndMilliseconds>
+    <Text>[@Xiǎodiǎndianmen@] qù zuò pèngpèngchē.
+[@小点点们@]去坐碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32892</StartMilliseconds>
+    <EndMilliseconds>33174</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen [@qù@] zuò pèngpèngchē.
+小点点们[@去@]坐碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>33174</StartMilliseconds>
+    <EndMilliseconds>33597</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen qù [@zuò@] pèngpèngchē.
+小点点们去[@坐@]碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33597</StartMilliseconds>
+    <EndMilliseconds>34860</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen qù zuò [@pèngpèngchē@].
+小点点们去坐[@碰碰车@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>34860</StartMilliseconds>
+    <EndMilliseconds>50802</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen qù zuò pèngpèngchē.
+小点点们去坐碰碰车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>50802</StartMilliseconds>
+    <EndMilliseconds>51349</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng qián zǒu.
+碰碰车往前走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>51349</StartMilliseconds>
+    <EndMilliseconds>52337</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] wǎng qián zǒu.
+[@碰碰车@]往前走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>52337</StartMilliseconds>
+    <EndMilliseconds>52704</EndMilliseconds>
+    <Text>Pèngpèngchē [@wǎng@] qián zǒu.
+碰碰车[@往@]前走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>52704</StartMilliseconds>
+    <EndMilliseconds>52863</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng [@qián@] zǒu.
+碰碰车往[@前@]走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>52863</StartMilliseconds>
+    <EndMilliseconds>53508</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng qián [@zǒu@].
+碰碰车往前[@走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>53508</StartMilliseconds>
+    <EndMilliseconds>54609</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng qián zǒu.
+碰碰车往前走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>54609</StartMilliseconds>
+    <EndMilliseconds>54728</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>54728</StartMilliseconds>
+    <EndMilliseconds>55105</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>55105</StartMilliseconds>
+    <EndMilliseconds>62948</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>62948</StartMilliseconds>
+    <EndMilliseconds>63248</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng hòu zǒu.
+碰碰车往后走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>63248</StartMilliseconds>
+    <EndMilliseconds>64158</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] wǎng hòu zǒu.
+[@碰碰车@]往后走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>64158</StartMilliseconds>
+    <EndMilliseconds>64558</EndMilliseconds>
+    <Text>Pèngpèngchē [@wǎng@] hòu zǒu.
+碰碰车[@往@]后走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>64558</StartMilliseconds>
+    <EndMilliseconds>64764</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng [@hòu@] zǒu.
+碰碰车往[@后@]走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>64764</StartMilliseconds>
+    <EndMilliseconds>65143</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng hòu [@zǒu@].
+碰碰车往后[@走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>65143</StartMilliseconds>
+    <EndMilliseconds>67067</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng hòu zǒu.
+碰碰车往后走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>67067</StartMilliseconds>
+    <EndMilliseconds>67290</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>67290</StartMilliseconds>
+    <EndMilliseconds>67650</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>67650</StartMilliseconds>
+    <EndMilliseconds>72784</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>72784</StartMilliseconds>
+    <EndMilliseconds>74251</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng zuǒ zǒu.
+碰碰车往左走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>74251</StartMilliseconds>
+    <EndMilliseconds>75193</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] wǎng zuǒ zǒu.
+[@碰碰车@]往左走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>75193</StartMilliseconds>
+    <EndMilliseconds>75488</EndMilliseconds>
+    <Text>Pèngpèngchē [@wǎng@] zuǒ zǒu.
+碰碰车[@往@]左走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>75488</StartMilliseconds>
+    <EndMilliseconds>75892</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng [@zuǒ@] zǒu.
+碰碰车往[@左@]走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>75892</StartMilliseconds>
+    <EndMilliseconds>76450</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng zuǒ [@zǒu@].
+碰碰车往左[@走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>76450</StartMilliseconds>
+    <EndMilliseconds>77067</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng zuǒ zǒu.
+碰碰车往左走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>77067</StartMilliseconds>
+    <EndMilliseconds>77288</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>77288</StartMilliseconds>
+    <EndMilliseconds>77755</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>77755</StartMilliseconds>
+    <EndMilliseconds>80740</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>80740</StartMilliseconds>
+    <EndMilliseconds>81973</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng yòu zǒu.
+碰碰车往右走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>81973</StartMilliseconds>
+    <EndMilliseconds>83029</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] wǎng yòu zǒu.
+[@碰碰车@]往右走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>83029</StartMilliseconds>
+    <EndMilliseconds>83425</EndMilliseconds>
+    <Text>Pèngpèngchē [@wǎng@] yòu zǒu.
+碰碰车[@往@]右走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>83425</StartMilliseconds>
+    <EndMilliseconds>83743</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng [@yòu@] zǒu.
+碰碰车往[@右@]走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>83743</StartMilliseconds>
+    <EndMilliseconds>84254</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng yòu [@zǒu@].
+碰碰车往右[@走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>84254</StartMilliseconds>
+    <EndMilliseconds>84820</EndMilliseconds>
+    <Text>Pèngpèngchē wǎng yòu zǒu.
+碰碰车往右走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>84820</StartMilliseconds>
+    <EndMilliseconds>85093</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>85093</StartMilliseconds>
+    <EndMilliseconds>85560</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>85560</StartMilliseconds>
+    <EndMilliseconds>94086</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>94086</StartMilliseconds>
+    <EndMilliseconds>95347</EndMilliseconds>
+    <Text>Pèngpèngchē biànmàn le.
+碰碰车变慢了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>95347</StartMilliseconds>
+    <EndMilliseconds>97051</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] biànmàn le.
+[@碰碰车@]变慢了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>97051</StartMilliseconds>
+    <EndMilliseconds>97940</EndMilliseconds>
+    <Text>Pèngpèngchē [@biànmàn@] le.
+碰碰车[@变慢@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>97940</StartMilliseconds>
+    <EndMilliseconds>98294</EndMilliseconds>
+    <Text>Pèngpèngchē biànmàn [@le@].
+碰碰车变慢[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>98294</StartMilliseconds>
+    <EndMilliseconds>98638</EndMilliseconds>
+    <Text>Pèngpèngchē biànmàn le.
+碰碰车变慢了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>98638</StartMilliseconds>
+    <EndMilliseconds>99387</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>99387</StartMilliseconds>
+    <EndMilliseconds>99879</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>99879</StartMilliseconds>
+    <EndMilliseconds>103092</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>103092</StartMilliseconds>
+    <EndMilliseconds>104128</EndMilliseconds>
+    <Text>Pèngpèngchē biànkuài le.
+碰碰车变快了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>104128</StartMilliseconds>
+    <EndMilliseconds>104816</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] biànkuài le.
+[@碰碰车@]变快了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>104816</StartMilliseconds>
+    <EndMilliseconds>105389</EndMilliseconds>
+    <Text>Pèngpèngchē [@biànkuài@] le.
+碰碰车[@变快@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>105389</StartMilliseconds>
+    <EndMilliseconds>105695</EndMilliseconds>
+    <Text>Pèngpèngchē biànkuài [@le@].
+碰碰车变快[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>105695</StartMilliseconds>
+    <EndMilliseconds>106869</EndMilliseconds>
+    <Text>Pèngpèngchē biànkuài le.
+碰碰车变快了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>106869</StartMilliseconds>
+    <EndMilliseconds>106963</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>106963</StartMilliseconds>
+    <EndMilliseconds>107354</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>107354</StartMilliseconds>
+    <EndMilliseconds>111065</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>111065</StartMilliseconds>
+    <EndMilliseconds>111620</EndMilliseconds>
+    <Text>Pèngpèngchē zhēn kuài!
+碰碰车真快！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>111620</StartMilliseconds>
+    <EndMilliseconds>112661</EndMilliseconds>
+    <Text>[@Pèngpèngchē@] zhēn kuài!
+[@碰碰车@]真快！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>112661</StartMilliseconds>
+    <EndMilliseconds>113037</EndMilliseconds>
+    <Text>Pèngpèngchē [@zhēn@] kuài!
+碰碰车[@真@]快！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>113037</StartMilliseconds>
+    <EndMilliseconds>113490</EndMilliseconds>
+    <Text>Pèngpèngchē zhēn [@kuài@]!
+碰碰车真[@快@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>113490</StartMilliseconds>
+    <EndMilliseconds>114503</EndMilliseconds>
+    <Text>Pèngpèngchē zhēn kuài!
+碰碰车真快！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>114503</StartMilliseconds>
+    <EndMilliseconds>114892</EndMilliseconds>
+    <Text>Hōng hōng!
+轰轰！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>114892</StartMilliseconds>
+    <EndMilliseconds>115075</EndMilliseconds>
+    <Text>[@Hōng@] hōng!
+[@轰@]轰！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>115075</StartMilliseconds>
+    <EndMilliseconds>115742</EndMilliseconds>
+    <Text>Hōng [@hōng@]!
+轰[@轰@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>115742</StartMilliseconds>
+    <EndMilliseconds>116431</EndMilliseconds>
+    <Text>Hōng hōng!
+轰轰！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>116431</StartMilliseconds>
+    <EndMilliseconds>116726</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen, nǐmen yào qù nǎli?
+小点点们，你们要去哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>116726</StartMilliseconds>
+    <EndMilliseconds>118053</EndMilliseconds>
+    <Text>[@Xiǎodiǎndianmen@], nǐmen yào qù nǎli?
+[@小点点们@]，你们要去哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>118053</StartMilliseconds>
+    <EndMilliseconds>118463</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen, [@nǐmen@] yào qù nǎli?
+小点点们，[@你们@]要去哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>118463</StartMilliseconds>
+    <EndMilliseconds>118773</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen, nǐmen [@yào@] qù nǎli?
+小点点们，你们[@要@]去哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>118773</StartMilliseconds>
+    <EndMilliseconds>118925</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen, nǐmen yào [@qù@] nǎli?
+小点点们，你们要[@去@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>118925</StartMilliseconds>
+    <EndMilliseconds>119603</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen, nǐmen yào qù [@nǎli@]?
+小点点们，你们要去[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>119603</StartMilliseconds>
+    <EndMilliseconds>120809</EndMilliseconds>
+    <Text>Xiǎodiǎndianmen, nǐmen yào qù nǎli?
+小点点们，你们要去哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>120809</StartMilliseconds>
+    <EndMilliseconds>121652</EndMilliseconds>
+    <Text>Táoqì de xiǎodiǎndianmen!
+淘气的小点点们！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>121652</StartMilliseconds>
+    <EndMilliseconds>122292</EndMilliseconds>
+    <Text>[@Táoqì@] de xiǎodiǎndianmen!
+[@淘气@]的小点点们！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>122292</StartMilliseconds>
+    <EndMilliseconds>122680</EndMilliseconds>
+    <Text>Táoqì [@de@] xiǎodiǎndianmen!
+淘气[@的@]小点点们！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>122680</StartMilliseconds>
+    <EndMilliseconds>123699</EndMilliseconds>
+    <Text>Táoqì de [@xiǎodiǎndianmen@]!
+淘气的[@小点点们@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>123699</StartMilliseconds>
+    <EndMilliseconds>124465</EndMilliseconds>
+    <Text>Táoqì de xiǎodiǎndianmen!
+淘气的小点点们！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>124465</StartMilliseconds>
+    <EndMilliseconds>124636</EndMilliseconds>
+    <Text>Zàijiàn!
+再见！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>124636</StartMilliseconds>
+    <EndMilliseconds>125182</EndMilliseconds>
+    <Text>[@Zàijiàn@]!
+[@再见@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>125182</StartMilliseconds>
+    <EndMilliseconds>127905</EndMilliseconds>
+    <Text>Zàijiàn!
+再见！</Text>
+  </Paragraph>
+</Subtitle>
