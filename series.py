@@ -11,10 +11,14 @@ class Series:
         
         :param series_id: The ID of the series.
         """
-        self.main_url = f'https://chinese.littlefox.com/en/story/contents_list/{series_id}'
-        title_as_filepath = series_title.lower().replace(' ', '-')  
-        self.xml_output_directory = f'output/xml/{title_as_filepath}'
-        self.srt_output_directory = f'output/srt/{title_as_filepath}'
+        self.series_title = series_title
+        self.series_id = series_id
+        self.main_url = f'https://chinese.littlefox.com/en/story/contents_list/{self.series_id}'
+        self.xml_output_directory = f'output/xml/{self.normalize_title(self.series_title)}'
+        self.srt_output_directory = f'output/srt/{self.normalize_title(self.series_title)}'
+
+    def __repr__(self) -> str:
+        return f"Series(title={self.series_title}, id={self.series_id})"
 
     def get_page_count(self):
         """
@@ -81,21 +85,51 @@ class Series:
             )
         return ids
     
-    def download_xml_subtitles(self):
-            urls = [f'https://cdn.littlefox.co.kr/cn/captionxml/{id}.xml' for id in self.get_ep_ids()]
-            paths = [os.path.join(self.xml_output_directory, f'{i}.xml') for i in range(1, len(urls) + 1)]
+    def get_ep_titles(self):
+        '''
+        Extract episode titles from all pages in the series.
 
-            # Ensure the output directory exists
-            os.makedirs(self.xml_output_directory, exist_ok=True)
-
-            for path, url in zip(paths, urls):
+        :return: A list of episode titles.
+        '''
+        page_urls = self.get_page_urls()
+        if not page_urls:
+            return []
+    
+        titles = []
+        for url in page_urls:
+            try:
                 response = requests.get(url)
-                if response.status_code == 200:
-                    with open(path, 'wb') as file:
-                        file.write(response.content)
-                    print(f"File downloaded successfully: {path}")
-                else:
-                    print(f"Failed to download file from {url}: {response.status_code}")
+                response.raise_for_status()
+            except requests.RequestException as e:
+                print(f"Error fetching page URL {url}: {e}")
+                continue
+    
+            soup = BeautifulSoup(response.text, 'html.parser')
+            items = soup.find_all('div', class_='item')
+            titles.extend(
+                item.find('span', class_='story_title_en').text.strip()
+                for item in items
+                if item.find('span', class_='story_title_en')
+            )
+        return titles
+
+    def download_xml_subtitles(self):
+        urls = [f'https://cdn.littlefox.co.kr/cn/captionxml/{id}.xml' for id in self.get_ep_ids()]
+        nums = list(range(len(urls)))
+        titles = [self.normalize_title(title) for title in self.get_ep_titles()]
+        paths = [os.path.join(self.xml_output_directory, f'{num+1}_{title}.xml') for num, title in zip(nums, titles)]
+
+        # Ensure the output directory exists
+        os.makedirs(self.xml_output_directory, exist_ok=True)
+
+        for path, url in zip(paths, urls):
+            response = requests.get(url)
+            if response.status_code == 200:
+                with open(path, 'wb') as file:
+                    file.write(response.content)
+                print(f"File downloaded successfully: {path}")
+            else:
+                print(f"Failed to download file from {url}: {response.status_code}")
 
     def convert_xml_to_srt(self):
         '''The subtitles on Little Fox Chinese are in XML format. We need to convert them to SRT format.'''
@@ -131,30 +165,5 @@ class Series:
 
             print(f"File converted successfully: {srt_path}")
 
-    def normalize_srt(self):
-        '''The little fox Chinese subtitles in the earlier Episodes include an individual title for each word. We don't want this, so we will combine the subtitles to have one for each individual line of text.'''
-        for srt_file in os.listdir(self.srt_output_directory):
-            if not srt_file.endswith('.srt'):
-                continue
-
-            srt_path = os.path.join(self.srt_output_directory, srt_file)
-
-            with open(srt_path, 'r', encoding='utf-8') as file:
-                srt_content = file.read()
-
-            # Split the content into subtitles
-            subtitles = list(srt.parse(srt_content))
-            normalized_subtitles = []
-
-            for sub in subtitles:
-                sub.content = sub.content.replace('[@', '').replace('@]', '')
-                if normalized_subtitles:
-                    if sub.content != normalized_subtitles[-1].content:
-                        normalized_subtitles.append(sub)
-                    else:
-                        normalized_subtitles[-1].end = sub.end
-                else:
-                    normalized_subtitles.append(sub)
-
-            with open(srt_path, 'w', encoding='utf-8') as file:
-                file.write(srt.compose(normalized_subtitles))
+    def normalize_title(self, title):
+        return title.lower().replace(' ', '-')
