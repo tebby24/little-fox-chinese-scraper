@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10397</StartMilliseconds>
+    <EndMilliseconds>14351</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le yí ge zōngsè de dōngxi.
+小蝙蝠看到了一个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14352</StartMilliseconds>
+    <EndMilliseconds>14818</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú kàndào le yí ge zōngsè de dōngxi.
+[@小@]蝙蝠看到了一个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14819</StartMilliseconds>
+    <EndMilliseconds>15914</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] kàndào le yí ge zōngsè de dōngxi.
+小[@蝙蝠@]看到了一个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15915</StartMilliseconds>
+    <EndMilliseconds>16550</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@kàndào@] le yí ge zōngsè de dōngxi.
+小蝙蝠[@看到@]了一个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16551</StartMilliseconds>
+    <EndMilliseconds>16739</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào [@le@] yí ge zōngsè de dōngxi.
+小蝙蝠看到[@了@]一个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16740</StartMilliseconds>
+    <EndMilliseconds>17002</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le [@yí@] ge zōngsè de dōngxi.
+小蝙蝠看到了[@一@]个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17003</StartMilliseconds>
+    <EndMilliseconds>17836</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le yí [@ge@] zōngsè de dōngxi.
+小蝙蝠看到了一[@个@]棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17837</StartMilliseconds>
+    <EndMilliseconds>18526</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le yí ge [@zōngsè@] de dōngxi.
+小蝙蝠看到了一个[@棕色@]的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>18527</StartMilliseconds>
+    <EndMilliseconds>19000</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le yí ge zōngsè [@de@] dōngxi.
+小蝙蝠看到了一个棕色[@的@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>19001</StartMilliseconds>
+    <EndMilliseconds>19640</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le yí ge zōngsè de [@dōngxi@].
+小蝙蝠看到了一个棕色的[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19641</StartMilliseconds>
+    <EndMilliseconds>30359</EndMilliseconds>
+    <Text>Xiǎo Biānfú kàndào le yí ge zōngsè de dōngxi.
+小蝙蝠看到了一个棕色的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>30360</StartMilliseconds>
+    <EndMilliseconds>32840</EndMilliseconds>
+    <Text>Tā qù gàosu Xiǎo Nǎiniú.
+他去告诉小奶牛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>32841</StartMilliseconds>
+    <EndMilliseconds>33167</EndMilliseconds>
+    <Text>[@Tā@] qù gàosu Xiǎo Nǎiniú.
+[@他@]去告诉小奶牛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>33168</StartMilliseconds>
+    <EndMilliseconds>33838</EndMilliseconds>
+    <Text>Tā [@qù@] gàosu Xiǎo Nǎiniú.
+他[@去@]告诉小奶牛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>33839</StartMilliseconds>
+    <EndMilliseconds>34709</EndMilliseconds>
+    <Text>Tā qù [@gàosu@] Xiǎo Nǎiniú.
+他去[@告诉@]小奶牛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>34710</StartMilliseconds>
+    <EndMilliseconds>35238</EndMilliseconds>
+    <Text>Tā qù gàosu [@Xiǎo@] Nǎiniú.
+他去告诉[@小@]奶牛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>35239</StartMilliseconds>
+    <EndMilliseconds>36108</EndMilliseconds>
+    <Text>Tā qù gàosu Xiǎo [@Nǎiniú@].
+他去告诉小[@奶牛@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>36109</StartMilliseconds>
+    <EndMilliseconds>40165</EndMilliseconds>
+    <Text>Tā qù gàosu Xiǎo Nǎiniú.
+他去告诉小奶牛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>40166</StartMilliseconds>
+    <EndMilliseconds>41258</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de dōngxi."
+“我看到了一个棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>41259</StartMilliseconds>
+    <EndMilliseconds>41643</EndMilliseconds>
+    <Text>"[@Wǒ@] kàndào le yí ge zōngsè de dōngxi."
+“[@我@]看到了一个棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>41644</StartMilliseconds>
+    <EndMilliseconds>42261</EndMilliseconds>
+    <Text>"Wǒ [@kàndào@] le yí ge zōngsè de dōngxi."
+“我[@看到@]了一个棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>42262</StartMilliseconds>
+    <EndMilliseconds>42787</EndMilliseconds>
+    <Text>"Wǒ kàndào [@le@] yí ge zōngsè de dōngxi."
+“我看到[@了@]一个棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>42788</StartMilliseconds>
+    <EndMilliseconds>43045</EndMilliseconds>
+    <Text>"Wǒ kàndào le [@yí@] ge zōngsè de dōngxi."
+“我看到了[@一@]个棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>43046</StartMilliseconds>
+    <EndMilliseconds>43501</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí [@ge@] zōngsè de dōngxi."
+“我看到了一[@个@]棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>43502</StartMilliseconds>
+    <EndMilliseconds>44192</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge [@zōngsè@] de dōngxi."
+“我看到了一个[@棕色@]的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>44193</StartMilliseconds>
+    <EndMilliseconds>44391</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè [@de@] dōngxi."
+“我看到了一个棕色[@的@]东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>44392</StartMilliseconds>
+    <EndMilliseconds>45093</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de [@dōngxi@]."
+“我看到了一个棕色的[@东西@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>45094</StartMilliseconds>
+    <EndMilliseconds>45410</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de dōngxi."
+“我看到了一个棕色的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>45411</StartMilliseconds>
+    <EndMilliseconds>45668</EndMilliseconds>
+    <Text>Xiǎo Biānfú shuō.
+小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>45669</StartMilliseconds>
+    <EndMilliseconds>46119</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú shuō.
+[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>46120</StartMilliseconds>
+    <EndMilliseconds>46670</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] shuō.
+小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>46671</StartMilliseconds>
+    <EndMilliseconds>47129</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@shuō@].
+小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>47130</StartMilliseconds>
+    <EndMilliseconds>47739</EndMilliseconds>
+    <Text>Xiǎo Biānfú shuō.
+小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>47740</StartMilliseconds>
+    <EndMilliseconds>48239</EndMilliseconds>
+    <Text>"Tā shì yì dǐng màozi ma?" Xiǎo Nǎiniú wèn.
+“它是一顶帽子吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>48240</StartMilliseconds>
+    <EndMilliseconds>48623</EndMilliseconds>
+    <Text>"[@Tā@] shì yì dǐng màozi ma?" Xiǎo Nǎiniú wèn.
+“[@它@]是一顶帽子吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>48624</StartMilliseconds>
+    <EndMilliseconds>49218</EndMilliseconds>
+    <Text>"Tā [@shì@] yì dǐng màozi ma?" Xiǎo Nǎiniú wèn.
+“它[@是@]一顶帽子吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>49219</StartMilliseconds>
+    <EndMilliseconds>49414</EndMilliseconds>
+    <Text>"Tā shì [@yì@] dǐng màozi ma?" Xiǎo Nǎiniú wèn.
+“它是[@一@]顶帽子吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>49415</StartMilliseconds>
+    <EndMilliseconds>49680</EndMilliseconds>
+    <Text>"Tā shì yì [@dǐng@] màozi ma?" Xiǎo Nǎiniú wèn.
+“它是一[@顶@]帽子吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>49681</StartMilliseconds>
+    <EndMilliseconds>50367</EndMilliseconds>
+    <Text>"Tā shì yì dǐng [@màozi@] ma?" Xiǎo Nǎiniú wèn.
+“它是一顶[@帽子@]吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>50368</StartMilliseconds>
+    <EndMilliseconds>51061</EndMilliseconds>
+    <Text>"Tā shì yì dǐng màozi [@ma@]?" Xiǎo Nǎiniú wèn.
+“它是一顶帽子[@吗@]？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>51062</StartMilliseconds>
+    <EndMilliseconds>51398</EndMilliseconds>
+    <Text>"Tā shì yì dǐng màozi ma?" [@Xiǎo@] Nǎiniú wèn.
+“它是一顶帽子吗？”[@小@]奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>51399</StartMilliseconds>
+    <EndMilliseconds>52104</EndMilliseconds>
+    <Text>"Tā shì yì dǐng màozi ma?" Xiǎo [@Nǎiniú@] wèn.
+“它是一顶帽子吗？”小[@奶牛@]问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>52105</StartMilliseconds>
+    <EndMilliseconds>52378</EndMilliseconds>
+    <Text>"Tā shì yì dǐng màozi ma?" Xiǎo Nǎiniú [@wèn@].
+“它是一顶帽子吗？”小奶牛[@问@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>52379</StartMilliseconds>
+    <EndMilliseconds>54267</EndMilliseconds>
+    <Text>"Tā shì yì dǐng màozi ma?" Xiǎo Nǎiniú wèn.
+“它是一顶帽子吗？”小奶牛问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>54268</StartMilliseconds>
+    <EndMilliseconds>56875</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi." Xiǎo Biānfú shuō.
+“它不是一顶帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>56876</StartMilliseconds>
+    <EndMilliseconds>57378</EndMilliseconds>
+    <Text>"[@Tā@] bú shì yì dǐng màozi." Xiǎo Biānfú shuō.
+“[@它@]不是一顶帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>57379</StartMilliseconds>
+    <EndMilliseconds>57665</EndMilliseconds>
+    <Text>"Tā [@bú@] shì yì dǐng màozi." Xiǎo Biānfú shuō.
+“它[@不@]是一顶帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>57666</StartMilliseconds>
+    <EndMilliseconds>58111</EndMilliseconds>
+    <Text>"Tā bú [@shì@] yì dǐng màozi." Xiǎo Biānfú shuō.
+“它不[@是@]一顶帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>58112</StartMilliseconds>
+    <EndMilliseconds>58420</EndMilliseconds>
+    <Text>"Tā bú shì [@yì@] dǐng màozi." Xiǎo Biānfú shuō.
+“它不是[@一@]顶帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>58421</StartMilliseconds>
+    <EndMilliseconds>58642</EndMilliseconds>
+    <Text>"Tā bú shì yì [@dǐng@] màozi." Xiǎo Biānfú shuō.
+“它不是一[@顶@]帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>58643</StartMilliseconds>
+    <EndMilliseconds>59811</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng [@màozi@]." Xiǎo Biānfú shuō.
+“它不是一顶[@帽子@]。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>59812</StartMilliseconds>
+    <EndMilliseconds>60205</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi." [@Xiǎo@] Biānfú shuō.
+“它不是一顶帽子。”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>60206</StartMilliseconds>
+    <EndMilliseconds>60806</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi." Xiǎo [@Biānfú@] shuō.
+“它不是一顶帽子。”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>60807</StartMilliseconds>
+    <EndMilliseconds>61203</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi." Xiǎo Biānfú [@shuō@].
+“它不是一顶帽子。”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>61204</StartMilliseconds>
+    <EndMilliseconds>61610</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi." Xiǎo Biānfú shuō.
+“它不是一顶帽子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>61611</StartMilliseconds>
+    <EndMilliseconds>62157</EndMilliseconds>
+    <Text>Tā fēixiàng Xiǎo Zhū.
+他飞向小猪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>62158</StartMilliseconds>
+    <EndMilliseconds>62903</EndMilliseconds>
+    <Text>[@Tā@] fēixiàng Xiǎo Zhū.
+[@他@]飞向小猪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>62904</StartMilliseconds>
+    <EndMilliseconds>63753</EndMilliseconds>
+    <Text>Tā [@fēixiàng@] Xiǎo Zhū.
+他[@飞向@]小猪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>63754</StartMilliseconds>
+    <EndMilliseconds>64245</EndMilliseconds>
+    <Text>Tā fēixiàng [@Xiǎo@] Zhū.
+他飞向[@小@]猪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>64246</StartMilliseconds>
+    <EndMilliseconds>64595</EndMilliseconds>
+    <Text>Tā fēixiàng Xiǎo [@Zhū@].
+他飞向小[@猪@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>64596</StartMilliseconds>
+    <EndMilliseconds>65921</EndMilliseconds>
+    <Text>Tā fēixiàng Xiǎo Zhū.
+他飞向小猪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>65922</StartMilliseconds>
+    <EndMilliseconds>66440</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de yìngyìng de dōngxi."
+“我看到了一个棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>66441</StartMilliseconds>
+    <EndMilliseconds>66918</EndMilliseconds>
+    <Text>"[@Wǒ@] kàndào le yí ge zōngsè de yìngyìng de dōngxi."
+“[@我@]看到了一个棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>66919</StartMilliseconds>
+    <EndMilliseconds>67550</EndMilliseconds>
+    <Text>"Wǒ [@kàndào@] le yí ge zōngsè de yìngyìng de dōngxi."
+“我[@看到@]了一个棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>67551</StartMilliseconds>
+    <EndMilliseconds>68053</EndMilliseconds>
+    <Text>"Wǒ kàndào [@le@] yí ge zōngsè de yìngyìng de dōngxi."
+“我看到[@了@]一个棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>68054</StartMilliseconds>
+    <EndMilliseconds>68330</EndMilliseconds>
+    <Text>"Wǒ kàndào le [@yí@] ge zōngsè de yìngyìng de dōngxi."
+“我看到了[@一@]个棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>68331</StartMilliseconds>
+    <EndMilliseconds>68679</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí [@ge@] zōngsè de yìngyìng de dōngxi."
+“我看到了一[@个@]棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>68680</StartMilliseconds>
+    <EndMilliseconds>69523</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge [@zōngsè@] de yìngyìng de dōngxi."
+“我看到了一个[@棕色@]的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>69524</StartMilliseconds>
+    <EndMilliseconds>70074</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè [@de@] yìngyìng de dōngxi."
+“我看到了一个棕色[@的@]硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>70075</StartMilliseconds>
+    <EndMilliseconds>70839</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de [@yìngyìng@] de dōngxi."
+“我看到了一个棕色的[@硬硬@]的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>70840</StartMilliseconds>
+    <EndMilliseconds>71096</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de yìngyìng [@de@] dōngxi."
+“我看到了一个棕色的硬硬[@的@]东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>71097</StartMilliseconds>
+    <EndMilliseconds>71730</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de yìngyìng de [@dōngxi@]."
+“我看到了一个棕色的硬硬的[@东西@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>71731</StartMilliseconds>
+    <EndMilliseconds>72007</EndMilliseconds>
+    <Text>"Wǒ kàndào le yí ge zōngsè de yìngyìng de dōngxi."
+“我看到了一个棕色的硬硬的东西。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>72008</StartMilliseconds>
+    <EndMilliseconds>72214</EndMilliseconds>
+    <Text>Xiǎo Biānfú shuō,
+小蝙蝠说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>72215</StartMilliseconds>
+    <EndMilliseconds>72684</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú shuō,
+[@小@]蝙蝠说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>72685</StartMilliseconds>
+    <EndMilliseconds>73196</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] shuō,
+小[@蝙蝠@]说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>73197</StartMilliseconds>
+    <EndMilliseconds>73615</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@shuō@],
+小蝙蝠[@说@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>73616</StartMilliseconds>
+    <EndMilliseconds>74180</EndMilliseconds>
+    <Text>Xiǎo Biānfú shuō,
+小蝙蝠说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>74181</StartMilliseconds>
+    <EndMilliseconds>74630</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi."
+“它不是一顶帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>74631</StartMilliseconds>
+    <EndMilliseconds>75039</EndMilliseconds>
+    <Text>"[@Tā@] bú shì yì dǐng màozi."
+“[@它@]不是一顶帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>75040</StartMilliseconds>
+    <EndMilliseconds>75459</EndMilliseconds>
+    <Text>"Tā [@bú@] shì yì dǐng màozi."
+“它[@不@]是一顶帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>75460</StartMilliseconds>
+    <EndMilliseconds>75860</EndMilliseconds>
+    <Text>"Tā bú [@shì@] yì dǐng màozi."
+“它不[@是@]一顶帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>75861</StartMilliseconds>
+    <EndMilliseconds>76133</EndMilliseconds>
+    <Text>"Tā bú shì [@yì@] dǐng màozi."
+“它不是[@一@]顶帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>76134</StartMilliseconds>
+    <EndMilliseconds>76527</EndMilliseconds>
+    <Text>"Tā bú shì yì [@dǐng@] màozi."
+“它不是一[@顶@]帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>76528</StartMilliseconds>
+    <EndMilliseconds>77311</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng [@màozi@]."
+“它不是一顶[@帽子@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>77312</StartMilliseconds>
+    <EndMilliseconds>78904</EndMilliseconds>
+    <Text>"Tā bú shì yì dǐng màozi."
+“它不是一顶帽子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>78905</StartMilliseconds>
+    <EndMilliseconds>79392</EndMilliseconds>
+    <Text>"Tā shì yí ge xiāngzi ma?" Xiǎo Zhū wèn.
+“它是一个箱子吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>79393</StartMilliseconds>
+    <EndMilliseconds>79817</EndMilliseconds>
+    <Text>"[@Tā@] shì yí ge xiāngzi ma?" Xiǎo Zhū wèn.
+“[@它@]是一个箱子吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>79818</StartMilliseconds>
+    <EndMilliseconds>80326</EndMilliseconds>
+    <Text>"Tā [@shì@] yí ge xiāngzi ma?" Xiǎo Zhū wèn.
+“它[@是@]一个箱子吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>80327</StartMilliseconds>
+    <EndMilliseconds>80507</EndMilliseconds>
+    <Text>"Tā shì [@yí@] ge xiāngzi ma?" Xiǎo Zhū wèn.
+“它是[@一@]个箱子吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>80508</StartMilliseconds>
+    <EndMilliseconds>80766</EndMilliseconds>
+    <Text>"Tā shì yí [@ge@] xiāngzi ma?" Xiǎo Zhū wèn.
+“它是一[@个@]箱子吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>80767</StartMilliseconds>
+    <EndMilliseconds>81404</EndMilliseconds>
+    <Text>"Tā shì yí ge [@xiāngzi@] ma?" Xiǎo Zhū wèn.
+“它是一个[@箱子@]吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>81405</StartMilliseconds>
+    <EndMilliseconds>82338</EndMilliseconds>
+    <Text>"Tā shì yí ge xiāngzi [@ma@]?" Xiǎo Zhū wèn.
+“它是一个箱子[@吗@]？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>82339</StartMilliseconds>
+    <EndMilliseconds>82782</EndMilliseconds>
+    <Text>"Tā shì yí ge xiāngzi ma?" [@Xiǎo@] Zhū wèn.
+“它是一个箱子吗？”[@小@]猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>82783</StartMilliseconds>
+    <EndMilliseconds>83069</EndMilliseconds>
+    <Text>"Tā shì yí ge xiāngzi ma?" Xiǎo [@Zhū@] wèn.
+“它是一个箱子吗？”小[@猪@]问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>83070</StartMilliseconds>
+    <EndMilliseconds>83425</EndMilliseconds>
+    <Text>"Tā shì yí ge xiāngzi ma?" Xiǎo Zhū [@wèn@].
+“它是一个箱子吗？”小猪[@问@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>83426</StartMilliseconds>
+    <EndMilliseconds>84133</EndMilliseconds>
+    <Text>"Tā shì yí ge xiāngzi ma?" Xiǎo Zhū wèn.
+“它是一个箱子吗？”小猪问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>84134</StartMilliseconds>
+    <EndMilliseconds>84575</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè de, yě shì yìngyìng de."
+“箱子是棕色的，也是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>84576</StartMilliseconds>
+    <EndMilliseconds>85789</EndMilliseconds>
+    <Text>"[@Xiāngzi@] shì zōngsè de, yě shì yìngyìng de."
+“[@箱子@]是棕色的，也是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>85790</StartMilliseconds>
+    <EndMilliseconds>86338</EndMilliseconds>
+    <Text>"Xiāngzi [@shì@] zōngsè de, yě shì yìngyìng de."
+“箱子[@是@]棕色的，也是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>86339</StartMilliseconds>
+    <EndMilliseconds>87173</EndMilliseconds>
+    <Text>"Xiāngzi shì [@zōngsè@] de, yě shì yìngyìng de."
+“箱子是[@棕色@]的，也是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>87174</StartMilliseconds>
+    <EndMilliseconds>87767</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè [@de@], yě shì yìngyìng de."
+“箱子是棕色[@的@]，也是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>87768</StartMilliseconds>
+    <EndMilliseconds>88081</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè de, [@yě@] shì yìngyìng de."
+“箱子是棕色的，[@也@]是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>88082</StartMilliseconds>
+    <EndMilliseconds>88789</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè de, yě [@shì@] yìngyìng de."
+“箱子是棕色的，也[@是@]硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>88790</StartMilliseconds>
+    <EndMilliseconds>89708</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè de, yě shì [@yìngyìng@] de."
+“箱子是棕色的，也是[@硬硬@]的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>89709</StartMilliseconds>
+    <EndMilliseconds>89941</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè de, yě shì yìngyìng [@de@]."
+“箱子是棕色的，也是硬硬[@的@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>89942</StartMilliseconds>
+    <EndMilliseconds>91450</EndMilliseconds>
+    <Text>"Xiāngzi shì zōngsè de, yě shì yìngyìng de."
+“箱子是棕色的，也是硬硬的。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>91451</StartMilliseconds>
+    <EndMilliseconds>92275</EndMilliseconds>
+    <Text>"Tā bú shì yí ge xiāngzi." Xiǎo Biānfú shuō.
+“它不是一个箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>92276</StartMilliseconds>
+    <EndMilliseconds>92684</EndMilliseconds>
+    <Text>"[@Tā@] bú shì yí ge xiāngzi." Xiǎo Biānfú shuō.
+“[@它@]不是一个箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>92685</StartMilliseconds>
+    <EndMilliseconds>93154</EndMilliseconds>
+    <Text>"Tā [@bú@] shì yí ge xiāngzi." Xiǎo Biānfú shuō.
+“它[@不@]是一个箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>93155</StartMilliseconds>
+    <EndMilliseconds>93633</EndMilliseconds>
+    <Text>"Tā bú [@shì@] yí ge xiāngzi." Xiǎo Biānfú shuō.
+“它不[@是@]一个箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>93634</StartMilliseconds>
+    <EndMilliseconds>93904</EndMilliseconds>
+    <Text>"Tā bú shì [@yí@] ge xiāngzi." Xiǎo Biānfú shuō.
+“它不是[@一@]个箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>93905</StartMilliseconds>
+    <EndMilliseconds>94279</EndMilliseconds>
+    <Text>"Tā bú shì yí [@ge@] xiāngzi." Xiǎo Biānfú shuō.
+“它不是一[@个@]箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>94280</StartMilliseconds>
+    <EndMilliseconds>95504</EndMilliseconds>
+    <Text>"Tā bú shì yí ge [@xiāngzi@]." Xiǎo Biānfú shuō.
+“它不是一个[@箱子@]。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>95505</StartMilliseconds>
+    <EndMilliseconds>95986</EndMilliseconds>
+    <Text>"Tā bú shì yí ge xiāngzi." [@Xiǎo@] Biānfú shuō.
+“它不是一个箱子。”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>95987</StartMilliseconds>
+    <EndMilliseconds>96532</EndMilliseconds>
+    <Text>"Tā bú shì yí ge xiāngzi." Xiǎo [@Biānfú@] shuō.
+“它不是一个箱子。”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>96533</StartMilliseconds>
+    <EndMilliseconds>96959</EndMilliseconds>
+    <Text>"Tā bú shì yí ge xiāngzi." Xiǎo Biānfú [@shuō@].
+“它不是一个箱子。”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>96960</StartMilliseconds>
+    <EndMilliseconds>97866</EndMilliseconds>
+    <Text>"Tā bú shì yí ge xiāngzi." Xiǎo Biānfú shuō.
+“它不是一个箱子。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>97867</StartMilliseconds>
+    <EndMilliseconds>98364</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēixiàng Xiǎo Māo.
+小蝙蝠飞向小猫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>98365</StartMilliseconds>
+    <EndMilliseconds>98778</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú fēixiàng Xiǎo Māo.
+[@小@]蝙蝠飞向小猫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>98779</StartMilliseconds>
+    <EndMilliseconds>99855</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] fēixiàng Xiǎo Māo.
+小[@蝙蝠@]飞向小猫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>99856</StartMilliseconds>
+    <EndMilliseconds>100601</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@fēixiàng@] Xiǎo Māo.
+小蝙蝠[@飞向@]小猫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>100602</StartMilliseconds>
+    <EndMilliseconds>101013</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēixiàng [@Xiǎo@] Māo.
+小蝙蝠飞向[@小@]猫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>101014</StartMilliseconds>
+    <EndMilliseconds>101451</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēixiàng Xiǎo [@Māo@].
+小蝙蝠飞向小[@猫@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>101452</StartMilliseconds>
+    <EndMilliseconds>102690</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēixiàng Xiǎo Māo.
+小蝙蝠飞向小猫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>102691</StartMilliseconds>
+    <EndMilliseconds>103191</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí ge dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓里看到了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>103192</StartMilliseconds>
+    <EndMilliseconds>103602</EndMilliseconds>
+    <Text>"[@Wǒ@] zài gǔcāng li kàndào le yí ge dōngxi." Xiǎo Biānfú shuō.
+“[@我@]在谷仓里看到了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>103603</StartMilliseconds>
+    <EndMilliseconds>104147</EndMilliseconds>
+    <Text>"Wǒ [@zài@] gǔcāng li kàndào le yí ge dōngxi." Xiǎo Biānfú shuō.
+“我[@在@]谷仓里看到了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>104148</StartMilliseconds>
+    <EndMilliseconds>104863</EndMilliseconds>
+    <Text>"Wǒ zài [@gǔcāng@] li kàndào le yí ge dōngxi." Xiǎo Biānfú shuō.
+“我在[@谷仓@]里看到了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>104864</StartMilliseconds>
+    <EndMilliseconds>105506</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng [@li@] kàndào le yí ge dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓[@里@]看到了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>105507</StartMilliseconds>
+    <EndMilliseconds>106086</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li [@kàndào@] le yí ge dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓里[@看到@]了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>106087</StartMilliseconds>
+    <EndMilliseconds>106339</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào [@le@] yí ge dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓里看到[@了@]一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>106340</StartMilliseconds>
+    <EndMilliseconds>106574</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le [@yí@] ge dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓里看到了[@一@]个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>106575</StartMilliseconds>
+    <EndMilliseconds>106853</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí [@ge@] dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓里看到了一[@个@]东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>106854</StartMilliseconds>
+    <EndMilliseconds>107893</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí ge [@dōngxi@]." Xiǎo Biānfú shuō.
+“我在谷仓里看到了一个[@东西@]。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>107894</StartMilliseconds>
+    <EndMilliseconds>108325</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí ge dōngxi." [@Xiǎo@] Biānfú shuō.
+“我在谷仓里看到了一个东西。”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>108326</StartMilliseconds>
+    <EndMilliseconds>108862</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí ge dōngxi." Xiǎo [@Biānfú@] shuō.
+“我在谷仓里看到了一个东西。”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>108863</StartMilliseconds>
+    <EndMilliseconds>109300</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí ge dōngxi." Xiǎo Biānfú [@shuō@].
+“我在谷仓里看到了一个东西。”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>109301</StartMilliseconds>
+    <EndMilliseconds>110023</EndMilliseconds>
+    <Text>"Wǒ zài gǔcāng li kàndào le yí ge dōngxi." Xiǎo Biānfú shuō.
+“我在谷仓里看到了一个东西。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>110024</StartMilliseconds>
+    <EndMilliseconds>110518</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, yìngyìng de, xiǎo de dōngxi.
+“它是棕色的，硬硬的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>110519</StartMilliseconds>
+    <EndMilliseconds>110948</EndMilliseconds>
+    <Text>"[@Tā@] shì zōngsè de, yìngyìng de, xiǎo de dōngxi.
+“[@它@]是棕色的，硬硬的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>110949</StartMilliseconds>
+    <EndMilliseconds>111387</EndMilliseconds>
+    <Text>"Tā [@shì@] zōngsè de, yìngyìng de, xiǎo de dōngxi.
+“它[@是@]棕色的，硬硬的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>111388</StartMilliseconds>
+    <EndMilliseconds>112225</EndMilliseconds>
+    <Text>"Tā shì [@zōngsè@] de, yìngyìng de, xiǎo de dōngxi.
+“它是[@棕色@]的，硬硬的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>112226</StartMilliseconds>
+    <EndMilliseconds>112801</EndMilliseconds>
+    <Text>"Tā shì zōngsè [@de@], yìngyìng de, xiǎo de dōngxi.
+“它是棕色[@的@]，硬硬的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>112802</StartMilliseconds>
+    <EndMilliseconds>113619</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, [@yìngyìng@] de, xiǎo de dōngxi.
+“它是棕色的，[@硬硬@]的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>113620</StartMilliseconds>
+    <EndMilliseconds>114056</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, yìngyìng [@de@], xiǎo de dōngxi.
+“它是棕色的，硬硬[@的@]，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>114057</StartMilliseconds>
+    <EndMilliseconds>114659</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, yìngyìng de, [@xiǎo@] de dōngxi.
+“它是棕色的，硬硬的，[@小@]的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>114660</StartMilliseconds>
+    <EndMilliseconds>114896</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, yìngyìng de, xiǎo [@de@] dōngxi.
+“它是棕色的，硬硬的，小[@的@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>114897</StartMilliseconds>
+    <EndMilliseconds>115501</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, yìngyìng de, xiǎo de [@dōngxi@].
+“它是棕色的，硬硬的，小的[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>115502</StartMilliseconds>
+    <EndMilliseconds>121441</EndMilliseconds>
+    <Text>"Tā shì zōngsè de, yìngyìng de, xiǎo de dōngxi.
+“它是棕色的，硬硬的，小的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>121442</StartMilliseconds>
+    <EndMilliseconds>122827</EndMilliseconds>
+    <Text>Tā bú shì yì dǐng màozi,
+它不是一顶帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>122828</StartMilliseconds>
+    <EndMilliseconds>123305</EndMilliseconds>
+    <Text>[@Tā@] bú shì yì dǐng màozi,
+[@它@]不是一顶帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>123306</StartMilliseconds>
+    <EndMilliseconds>123833</EndMilliseconds>
+    <Text>Tā [@bú@] shì yì dǐng màozi,
+它[@不@]是一顶帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>123834</StartMilliseconds>
+    <EndMilliseconds>124062</EndMilliseconds>
+    <Text>Tā bú [@shì@] yì dǐng màozi,
+它不[@是@]一顶帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>124063</StartMilliseconds>
+    <EndMilliseconds>124332</EndMilliseconds>
+    <Text>Tā bú shì [@yì@] dǐng màozi,
+它不是[@一@]顶帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>124333</StartMilliseconds>
+    <EndMilliseconds>124594</EndMilliseconds>
+    <Text>Tā bú shì yì [@dǐng@] màozi,
+它不是一[@顶@]帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>124595</StartMilliseconds>
+    <EndMilliseconds>125343</EndMilliseconds>
+    <Text>Tā bú shì yì dǐng [@màozi@],
+它不是一顶[@帽子@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>125344</StartMilliseconds>
+    <EndMilliseconds>125611</EndMilliseconds>
+    <Text>Tā bú shì yì dǐng màozi,
+它不是一顶帽子，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>125612</StartMilliseconds>
+    <EndMilliseconds>125830</EndMilliseconds>
+    <Text>yě bú shì yí ge xiāngzi."
+也不是一个箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>125831</StartMilliseconds>
+    <EndMilliseconds>126355</EndMilliseconds>
+    <Text>[@yě@] bú shì yí ge xiāngzi."
+[@也@]不是一个箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>126356</StartMilliseconds>
+    <EndMilliseconds>126655</EndMilliseconds>
+    <Text>yě [@bú@] shì yí ge xiāngzi."
+也[@不@]是一个箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>126656</StartMilliseconds>
+    <EndMilliseconds>126954</EndMilliseconds>
+    <Text>yě bú [@shì@] yí ge xiāngzi."
+也不[@是@]一个箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>126955</StartMilliseconds>
+    <EndMilliseconds>127176</EndMilliseconds>
+    <Text>yě bú shì [@yí@] ge xiāngzi."
+也不是[@一@]个箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>127177</StartMilliseconds>
+    <EndMilliseconds>127475</EndMilliseconds>
+    <Text>yě bú shì yí [@ge@] xiāngzi."
+也不是一[@个@]箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>127476</StartMilliseconds>
+    <EndMilliseconds>128187</EndMilliseconds>
+    <Text>yě bú shì yí ge [@xiāngzi@]."
+也不是一个[@箱子@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>128188</StartMilliseconds>
+    <EndMilliseconds>129594</EndMilliseconds>
+    <Text>yě bú shì yí ge xiāngzi."
+也不是一个箱子。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>129595</StartMilliseconds>
+    <EndMilliseconds>131321</EndMilliseconds>
+    <Text>"Tā shì yí kuài shítou ma?" Xiǎo Māo wèn.
+“它是一块石头吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>131322</StartMilliseconds>
+    <EndMilliseconds>131578</EndMilliseconds>
+    <Text>"[@Tā@] shì yí kuài shítou ma?" Xiǎo Māo wèn.
+“[@它@]是一块石头吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>131579</StartMilliseconds>
+    <EndMilliseconds>132365</EndMilliseconds>
+    <Text>"Tā [@shì@] yí kuài shítou ma?" Xiǎo Māo wèn.
+“它[@是@]一块石头吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>132366</StartMilliseconds>
+    <EndMilliseconds>132681</EndMilliseconds>
+    <Text>"Tā shì [@yí@] kuài shítou ma?" Xiǎo Māo wèn.
+“它是[@一@]块石头吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>132682</StartMilliseconds>
+    <EndMilliseconds>133040</EndMilliseconds>
+    <Text>"Tā shì yí [@kuài@] shítou ma?" Xiǎo Māo wèn.
+“它是一[@块@]石头吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>133041</StartMilliseconds>
+    <EndMilliseconds>133739</EndMilliseconds>
+    <Text>"Tā shì yí kuài [@shítou@] ma?" Xiǎo Māo wèn.
+“它是一块[@石头@]吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>133740</StartMilliseconds>
+    <EndMilliseconds>134511</EndMilliseconds>
+    <Text>"Tā shì yí kuài shítou [@ma@]?" Xiǎo Māo wèn.
+“它是一块石头[@吗@]？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>134512</StartMilliseconds>
+    <EndMilliseconds>134882</EndMilliseconds>
+    <Text>"Tā shì yí kuài shítou ma?" [@Xiǎo@] Māo wèn.
+“它是一块石头吗？”[@小@]猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>134883</StartMilliseconds>
+    <EndMilliseconds>135203</EndMilliseconds>
+    <Text>"Tā shì yí kuài shítou ma?" Xiǎo [@Māo@] wèn.
+“它是一块石头吗？”小[@猫@]问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>135204</StartMilliseconds>
+    <EndMilliseconds>135498</EndMilliseconds>
+    <Text>"Tā shì yí kuài shítou ma?" Xiǎo Māo [@wèn@].
+“它是一块石头吗？”小猫[@问@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>135499</StartMilliseconds>
+    <EndMilliseconds>136107</EndMilliseconds>
+    <Text>"Tā shì yí kuài shítou ma?" Xiǎo Māo wèn.
+“它是一块石头吗？”小猫问。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>136108</StartMilliseconds>
+    <EndMilliseconds>136429</EndMilliseconds>
+    <Text>"Shítou shì zōngsè de, yě shì yìngyìng de.
+“石头是棕色的，也是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>136430</StartMilliseconds>
+    <EndMilliseconds>137567</EndMilliseconds>
+    <Text>"[@Shítou@] shì zōngsè de, yě shì yìngyìng de.
+“[@石头@]是棕色的，也是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>137568</StartMilliseconds>
+    <EndMilliseconds>137853</EndMilliseconds>
+    <Text>"Shítou [@shì@] zōngsè de, yě shì yìngyìng de.
+“石头[@是@]棕色的，也是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>137854</StartMilliseconds>
+    <EndMilliseconds>138655</EndMilliseconds>
+    <Text>"Shítou shì [@zōngsè@] de, yě shì yìngyìng de.
+“石头是[@棕色@]的，也是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>138656</StartMilliseconds>
+    <EndMilliseconds>139209</EndMilliseconds>
+    <Text>"Shítou shì zōngsè [@de@], yě shì yìngyìng de.
+“石头是棕色[@的@]，也是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>139210</StartMilliseconds>
+    <EndMilliseconds>139473</EndMilliseconds>
+    <Text>"Shítou shì zōngsè de, [@yě@] shì yìngyìng de.
+“石头是棕色的，[@也@]是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>139474</StartMilliseconds>
+    <EndMilliseconds>140039</EndMilliseconds>
+    <Text>"Shítou shì zōngsè de, yě [@shì@] yìngyìng de.
+“石头是棕色的，也[@是@]硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>140040</StartMilliseconds>
+    <EndMilliseconds>140774</EndMilliseconds>
+    <Text>"Shítou shì zōngsè de, yě shì [@yìngyìng@] de.
+“石头是棕色的，也是[@硬硬@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>140775</StartMilliseconds>
+    <EndMilliseconds>141035</EndMilliseconds>
+    <Text>"Shítou shì zōngsè de, yě shì yìngyìng [@de@].
+“石头是棕色的，也是硬硬[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>141036</StartMilliseconds>
+    <EndMilliseconds>142452</EndMilliseconds>
+    <Text>"Shítou shì zōngsè de, yě shì yìngyìng de.
+“石头是棕色的，也是硬硬的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>142453</StartMilliseconds>
+    <EndMilliseconds>142986</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn xiǎo de." Xiǎo Māo shuō.
+石头也可以是很小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>142987</StartMilliseconds>
+    <EndMilliseconds>144159</EndMilliseconds>
+    <Text>[@Shítou@] yě kěyǐ shì hěn xiǎo de." Xiǎo Māo shuō.
+[@石头@]也可以是很小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>144160</StartMilliseconds>
+    <EndMilliseconds>144515</EndMilliseconds>
+    <Text>Shítou [@yě@] kěyǐ shì hěn xiǎo de." Xiǎo Māo shuō.
+石头[@也@]可以是很小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>144516</StartMilliseconds>
+    <EndMilliseconds>145038</EndMilliseconds>
+    <Text>Shítou yě [@kěyǐ@] shì hěn xiǎo de." Xiǎo Māo shuō.
+石头也[@可以@]是很小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>145039</StartMilliseconds>
+    <EndMilliseconds>145896</EndMilliseconds>
+    <Text>Shítou yě kěyǐ [@shì@] hěn xiǎo de." Xiǎo Māo shuō.
+石头也可以[@是@]很小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>145897</StartMilliseconds>
+    <EndMilliseconds>146286</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì [@hěn@] xiǎo de." Xiǎo Māo shuō.
+石头也可以是[@很@]小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>146287</StartMilliseconds>
+    <EndMilliseconds>146832</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn [@xiǎo@] de." Xiǎo Māo shuō.
+石头也可以是很[@小@]的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>146833</StartMilliseconds>
+    <EndMilliseconds>147462</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn xiǎo [@de@]." Xiǎo Māo shuō.
+石头也可以是很小[@的@]。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>147463</StartMilliseconds>
+    <EndMilliseconds>147958</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn xiǎo de." [@Xiǎo@] Māo shuō.
+石头也可以是很小的。”[@小@]猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>147959</StartMilliseconds>
+    <EndMilliseconds>148256</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn xiǎo de." Xiǎo [@Māo@] shuō.
+石头也可以是很小的。”小[@猫@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>148257</StartMilliseconds>
+    <EndMilliseconds>148647</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn xiǎo de." Xiǎo Māo [@shuō@].
+石头也可以是很小的。”小猫[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>148648</StartMilliseconds>
+    <EndMilliseconds>149854</EndMilliseconds>
+    <Text>Shítou yě kěyǐ shì hěn xiǎo de." Xiǎo Māo shuō.
+石头也可以是很小的。”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>149855</StartMilliseconds>
+    <EndMilliseconds>150587</EndMilliseconds>
+    <Text>"Tā bú shì yí kuài shítou." Xiǎo Biānfú shuō.
+“它不是一块石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>150588</StartMilliseconds>
+    <EndMilliseconds>150969</EndMilliseconds>
+    <Text>"[@Tā@] bú shì yí kuài shítou." Xiǎo Biānfú shuō.
+“[@它@]不是一块石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>150970</StartMilliseconds>
+    <EndMilliseconds>151292</EndMilliseconds>
+    <Text>"Tā [@bú@] shì yí kuài shítou." Xiǎo Biānfú shuō.
+“它[@不@]是一块石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>151293</StartMilliseconds>
+    <EndMilliseconds>151619</EndMilliseconds>
+    <Text>"Tā bú [@shì@] yí kuài shítou." Xiǎo Biānfú shuō.
+“它不[@是@]一块石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>151620</StartMilliseconds>
+    <EndMilliseconds>151962</EndMilliseconds>
+    <Text>"Tā bú shì [@yí@] kuài shítou." Xiǎo Biānfú shuō.
+“它不是[@一@]块石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>151963</StartMilliseconds>
+    <EndMilliseconds>152242</EndMilliseconds>
+    <Text>"Tā bú shì yí [@kuài@] shítou." Xiǎo Biānfú shuō.
+“它不是一[@块@]石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>152243</StartMilliseconds>
+    <EndMilliseconds>153889</EndMilliseconds>
+    <Text>"Tā bú shì yí kuài [@shítou@]." Xiǎo Biānfú shuō.
+“它不是一块[@石头@]。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>153890</StartMilliseconds>
+    <EndMilliseconds>154373</EndMilliseconds>
+    <Text>"Tā bú shì yí kuài shítou." [@Xiǎo@] Biānfú shuō.
+“它不是一块石头。”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>154374</StartMilliseconds>
+    <EndMilliseconds>154890</EndMilliseconds>
+    <Text>"Tā bú shì yí kuài shítou." Xiǎo [@Biānfú@] shuō.
+“它不是一块石头。”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>209</Number>
+    <StartMilliseconds>154891</StartMilliseconds>
+    <EndMilliseconds>155283</EndMilliseconds>
+    <Text>"Tā bú shì yí kuài shítou." Xiǎo Biānfú [@shuō@].
+“它不是一块石头。”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>210</Number>
+    <StartMilliseconds>155284</StartMilliseconds>
+    <EndMilliseconds>157104</EndMilliseconds>
+    <Text>"Tā bú shì yí kuài shítou." Xiǎo Biānfú shuō.
+“它不是一块石头。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>211</Number>
+    <StartMilliseconds>157105</StartMilliseconds>
+    <EndMilliseconds>157666</EndMilliseconds>
+    <Text>Xiǎo Biānfú huídào le gǔcāng li.
+小蝙蝠回到了谷仓里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>212</Number>
+    <StartMilliseconds>157667</StartMilliseconds>
+    <EndMilliseconds>158030</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú huídào le gǔcāng li.
+[@小@]蝙蝠回到了谷仓里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>213</Number>
+    <StartMilliseconds>158031</StartMilliseconds>
+    <EndMilliseconds>159196</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] huídào le gǔcāng li.
+小[@蝙蝠@]回到了谷仓里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>214</Number>
+    <StartMilliseconds>159197</StartMilliseconds>
+    <EndMilliseconds>159774</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@huídào@] le gǔcāng li.
+小蝙蝠[@回到@]了谷仓里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>215</Number>
+    <StartMilliseconds>159775</StartMilliseconds>
+    <EndMilliseconds>160293</EndMilliseconds>
+    <Text>Xiǎo Biānfú huídào [@le@] gǔcāng li.
+小蝙蝠回到[@了@]谷仓里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>216</Number>
+    <StartMilliseconds>160294</StartMilliseconds>
+    <EndMilliseconds>160953</EndMilliseconds>
+    <Text>Xiǎo Biānfú huídào le [@gǔcāng@] li.
+小蝙蝠回到了[@谷仓@]里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>217</Number>
+    <StartMilliseconds>160954</StartMilliseconds>
+    <EndMilliseconds>161372</EndMilliseconds>
+    <Text>Xiǎo Biānfú huídào le gǔcāng [@li@].
+小蝙蝠回到了谷仓[@里@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>218</Number>
+    <StartMilliseconds>161373</StartMilliseconds>
+    <EndMilliseconds>163362</EndMilliseconds>
+    <Text>Xiǎo Biānfú huídào le gǔcāng li.
+小蝙蝠回到了谷仓里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>219</Number>
+    <StartMilliseconds>163363</StartMilliseconds>
+    <EndMilliseconds>165071</EndMilliseconds>
+    <Text>Zhè ge dōngxi shì shénme ne?
+这个东西是什么呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>220</Number>
+    <StartMilliseconds>165072</StartMilliseconds>
+    <EndMilliseconds>165376</EndMilliseconds>
+    <Text>[@Zhè@] ge dōngxi shì shénme ne?
+[@这@]个东西是什么呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>221</Number>
+    <StartMilliseconds>165377</StartMilliseconds>
+    <EndMilliseconds>165569</EndMilliseconds>
+    <Text>Zhè [@ge@] dōngxi shì shénme ne?
+这[@个@]东西是什么呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>222</Number>
+    <StartMilliseconds>165570</StartMilliseconds>
+    <EndMilliseconds>166834</EndMilliseconds>
+    <Text>Zhè ge [@dōngxi@] shì shénme ne?
+这个[@东西@]是什么呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>223</Number>
+    <StartMilliseconds>166835</StartMilliseconds>
+    <EndMilliseconds>167231</EndMilliseconds>
+    <Text>Zhè ge dōngxi [@shì@] shénme ne?
+这个东西[@是@]什么呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>224</Number>
+    <StartMilliseconds>167232</StartMilliseconds>
+    <EndMilliseconds>167827</EndMilliseconds>
+    <Text>Zhè ge dōngxi shì [@shénme@] ne?
+这个东西是[@什么@]呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>225</Number>
+    <StartMilliseconds>167828</StartMilliseconds>
+    <EndMilliseconds>168089</EndMilliseconds>
+    <Text>Zhè ge dōngxi shì shénme [@ne@]?
+这个东西是什么[@呢@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>226</Number>
+    <StartMilliseconds>168090</StartMilliseconds>
+    <EndMilliseconds>173633</EndMilliseconds>
+    <Text>Zhè ge dōngxi shì shénme ne?
+这个东西是什么呢？</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10857</StartMilliseconds>
+    <EndMilliseconds>11643</EndMilliseconds>
+    <Text>Nàli yǒu yí ge dà zhàngpeng.
+那里有一个大帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11644</StartMilliseconds>
+    <EndMilliseconds>12797</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yí ge dà zhàngpeng.
+[@那里@]有一个大帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12798</StartMilliseconds>
+    <EndMilliseconds>13168</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yí ge dà zhàngpeng.
+那里[@有@]一个大帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13169</StartMilliseconds>
+    <EndMilliseconds>13434</EndMilliseconds>
+    <Text>Nàli yǒu [@yí@] ge dà zhàngpeng.
+那里有[@一@]个大帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13435</StartMilliseconds>
+    <EndMilliseconds>13794</EndMilliseconds>
+    <Text>Nàli yǒu yí [@ge@] dà zhàngpeng.
+那里有一[@个@]大帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13795</StartMilliseconds>
+    <EndMilliseconds>14154</EndMilliseconds>
+    <Text>Nàli yǒu yí ge [@dà@] zhàngpeng.
+那里有一个[@大@]帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14155</StartMilliseconds>
+    <EndMilliseconds>15164</EndMilliseconds>
+    <Text>Nàli yǒu yí ge dà [@zhàngpeng@].
+那里有一个大[@帐篷@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15165</StartMilliseconds>
+    <EndMilliseconds>19315</EndMilliseconds>
+    <Text>Nàli yǒu yí ge dà zhàngpeng.
+那里有一个大帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>19316</StartMilliseconds>
+    <EndMilliseconds>20070</EndMilliseconds>
+    <Text>Wǒ kàndào dàxiàng.
+我看到大象。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20071</StartMilliseconds>
+    <EndMilliseconds>20668</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào dàxiàng.
+[@我@]看到大象。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>20669</StartMilliseconds>
+    <EndMilliseconds>21461</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] dàxiàng.
+我[@看到@]大象。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>21462</StartMilliseconds>
+    <EndMilliseconds>22495</EndMilliseconds>
+    <Text>Wǒ kàndào [@dàxiàng@].
+我看到[@大象@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>22496</StartMilliseconds>
+    <EndMilliseconds>27609</EndMilliseconds>
+    <Text>Wǒ kàndào dàxiàng.
+我看到大象。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>27610</StartMilliseconds>
+    <EndMilliseconds>28444</EndMilliseconds>
+    <Text>Nàli yǒu shīzi.
+那里有狮子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>28445</StartMilliseconds>
+    <EndMilliseconds>29497</EndMilliseconds>
+    <Text>[@Nàli@] yǒu shīzi.
+[@那里@]有狮子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29498</StartMilliseconds>
+    <EndMilliseconds>29863</EndMilliseconds>
+    <Text>Nàli [@yǒu@] shīzi.
+那里[@有@]狮子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>29864</StartMilliseconds>
+    <EndMilliseconds>30934</EndMilliseconds>
+    <Text>Nàli yǒu [@shīzi@].
+那里有[@狮子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>30935</StartMilliseconds>
+    <EndMilliseconds>35941</EndMilliseconds>
+    <Text>Nàli yǒu shīzi.
+那里有狮子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>35942</StartMilliseconds>
+    <EndMilliseconds>36711</EndMilliseconds>
+    <Text>Wǒ kàndào yì míng zájì yǎnyuán.
+我看到一名杂技演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>36712</StartMilliseconds>
+    <EndMilliseconds>37187</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yì míng zájì yǎnyuán.
+[@我@]看到一名杂技演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>37188</StartMilliseconds>
+    <EndMilliseconds>37897</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yì míng zájì yǎnyuán.
+我[@看到@]一名杂技演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>37898</StartMilliseconds>
+    <EndMilliseconds>38153</EndMilliseconds>
+    <Text>Wǒ kàndào [@yì@] míng zájì yǎnyuán.
+我看到[@一@]名杂技演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>38154</StartMilliseconds>
+    <EndMilliseconds>38617</EndMilliseconds>
+    <Text>Wǒ kàndào yì [@míng@] zájì yǎnyuán.
+我看到一[@名@]杂技演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>38618</StartMilliseconds>
+    <EndMilliseconds>39312</EndMilliseconds>
+    <Text>Wǒ kàndào yì míng [@zájì@] yǎnyuán.
+我看到一名[@杂技@]演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>39313</StartMilliseconds>
+    <EndMilliseconds>40363</EndMilliseconds>
+    <Text>Wǒ kàndào yì míng zájì [@yǎnyuán@].
+我看到一名杂技[@演员@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>40364</StartMilliseconds>
+    <EndMilliseconds>44246</EndMilliseconds>
+    <Text>Wǒ kàndào yì míng zájì yǎnyuán.
+我看到一名杂技演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>44247</StartMilliseconds>
+    <EndMilliseconds>45058</EndMilliseconds>
+    <Text>Nàli yǒu bàomǐhuā.
+那里有爆米花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>45059</StartMilliseconds>
+    <EndMilliseconds>46141</EndMilliseconds>
+    <Text>[@Nàli@] yǒu bàomǐhuā.
+[@那里@]有爆米花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>46142</StartMilliseconds>
+    <EndMilliseconds>46613</EndMilliseconds>
+    <Text>Nàli [@yǒu@] bàomǐhuā.
+那里[@有@]爆米花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>46614</StartMilliseconds>
+    <EndMilliseconds>47808</EndMilliseconds>
+    <Text>Nàli yǒu [@bàomǐhuā@].
+那里有[@爆米花@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>47809</StartMilliseconds>
+    <EndMilliseconds>52654</EndMilliseconds>
+    <Text>Nàli yǒu bàomǐhuā.
+那里有爆米花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>52655</StartMilliseconds>
+    <EndMilliseconds>53373</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge gāodà de rén.
+我看到一个高大的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>53374</StartMilliseconds>
+    <EndMilliseconds>53953</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yí ge gāodà de rén.
+[@我@]看到一个高大的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>53954</StartMilliseconds>
+    <EndMilliseconds>54514</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yí ge gāodà de rén.
+我[@看到@]一个高大的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54515</StartMilliseconds>
+    <EndMilliseconds>54758</EndMilliseconds>
+    <Text>Wǒ kàndào [@yí@] ge gāodà de rén.
+我看到[@一@]个高大的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>54759</StartMilliseconds>
+    <EndMilliseconds>55181</EndMilliseconds>
+    <Text>Wǒ kàndào yí [@ge@] gāodà de rén.
+我看到一[@个@]高大的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>55182</StartMilliseconds>
+    <EndMilliseconds>56096</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge [@gāodà@] de rén.
+我看到一个[@高大@]的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>56097</StartMilliseconds>
+    <EndMilliseconds>56256</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge gāodà [@de@] rén.
+我看到一个高大[@的@]人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>56257</StartMilliseconds>
+    <EndMilliseconds>56842</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge gāodà de [@rén@].
+我看到一个高大的[@人@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56843</StartMilliseconds>
+    <EndMilliseconds>60897</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge gāodà de rén.
+我看到一个高大的人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>60898</StartMilliseconds>
+    <EndMilliseconds>61730</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē kěxiào de xiǎochǒu.
+那里有一些可笑的小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>61731</StartMilliseconds>
+    <EndMilliseconds>62758</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yìxiē kěxiào de xiǎochǒu.
+[@那里@]有一些可笑的小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>62759</StartMilliseconds>
+    <EndMilliseconds>63053</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yìxiē kěxiào de xiǎochǒu.
+那里[@有@]一些可笑的小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63054</StartMilliseconds>
+    <EndMilliseconds>63662</EndMilliseconds>
+    <Text>Nàli yǒu [@yìxiē@] kěxiào de xiǎochǒu.
+那里有[@一些@]可笑的小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>63663</StartMilliseconds>
+    <EndMilliseconds>64499</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē [@kěxiào@] de xiǎochǒu.
+那里有一些[@可笑@]的小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>64500</StartMilliseconds>
+    <EndMilliseconds>64661</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē kěxiào [@de@] xiǎochǒu.
+那里有一些可笑[@的@]小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>64662</StartMilliseconds>
+    <EndMilliseconds>65988</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē kěxiào de [@xiǎochǒu@].
+那里有一些可笑的[@小丑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>65989</StartMilliseconds>
+    <EndMilliseconds>69183</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē kěxiào de xiǎochǒu.
+那里有一些可笑的小丑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>69184</StartMilliseconds>
+    <EndMilliseconds>70831</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>70832</StartMilliseconds>
+    <EndMilliseconds>71478</EndMilliseconds>
+    <Text>[@Wǒ@] zài nǎli?
+[@我@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>71479</StartMilliseconds>
+    <EndMilliseconds>71670</EndMilliseconds>
+    <Text>Wǒ [@zài@] nǎli?
+我[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>71671</StartMilliseconds>
+    <EndMilliseconds>72593</EndMilliseconds>
+    <Text>Wǒ zài [@nǎli@]?
+我在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>72594</StartMilliseconds>
+    <EndMilliseconds>77386</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>77387</StartMilliseconds>
+    <EndMilliseconds>78623</EndMilliseconds>
+    <Text>Wǒ zài zájìtuán.
+我在杂技团。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>78624</StartMilliseconds>
+    <EndMilliseconds>79061</EndMilliseconds>
+    <Text>[@Wǒ@] zài zájìtuán.
+[@我@]在杂技团。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79062</StartMilliseconds>
+    <EndMilliseconds>79609</EndMilliseconds>
+    <Text>Wǒ [@zài@] zájìtuán.
+我[@在@]杂技团。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>79610</StartMilliseconds>
+    <EndMilliseconds>80801</EndMilliseconds>
+    <Text>Wǒ zài [@zájìtuán@].
+我在[@杂技团@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>80802</StartMilliseconds>
+    <EndMilliseconds>85777</EndMilliseconds>
+    <Text>Wǒ zài zájìtuán.
+我在杂技团。</Text>
+  </Paragraph>
+</Subtitle>

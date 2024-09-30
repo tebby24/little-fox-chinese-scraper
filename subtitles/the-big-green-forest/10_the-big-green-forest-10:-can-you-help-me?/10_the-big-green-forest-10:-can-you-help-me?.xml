@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13351</StartMilliseconds>
+    <EndMilliseconds>29847</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng bāng wǒ ma?
+浣熊：你能帮我吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>29848</StartMilliseconds>
+    <EndMilliseconds>30435</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] néng bāng wǒ ma?
+浣熊：[@你@]能帮我吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>30436</StartMilliseconds>
+    <EndMilliseconds>31099</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@néng@] bāng wǒ ma?
+浣熊：你[@能@]帮我吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>31100</StartMilliseconds>
+    <EndMilliseconds>31570</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng [@bāng@] wǒ ma?
+浣熊：你能[@帮@]我吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>31571</StartMilliseconds>
+    <EndMilliseconds>31935</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng bāng [@wǒ@] ma?
+浣熊：你能帮[@我@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>31936</StartMilliseconds>
+    <EndMilliseconds>32651</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng bāng wǒ [@ma@]?
+浣熊：你能帮我[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>32652</StartMilliseconds>
+    <EndMilliseconds>37330</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng bāng wǒ ma?
+浣熊：你能帮我吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>37331</StartMilliseconds>
+    <EndMilliseconds>37882</EndMilliseconds>
+    <Text>qīngwā: Èng, wǒ kěyǐ bāng nǐ.
+青蛙：嗯，我可以帮你。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>37883</StartMilliseconds>
+    <EndMilliseconds>38762</EndMilliseconds>
+    <Text>qīngwā: [@Èng@], wǒ kěyǐ bāng nǐ.
+青蛙：[@嗯@]，我可以帮你。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>38763</StartMilliseconds>
+    <EndMilliseconds>39184</EndMilliseconds>
+    <Text>qīngwā: Èng, [@wǒ@] kěyǐ bāng nǐ.
+青蛙：嗯，[@我@]可以帮你。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>39185</StartMilliseconds>
+    <EndMilliseconds>39898</EndMilliseconds>
+    <Text>qīngwā: Èng, wǒ [@kěyǐ@] bāng nǐ.
+青蛙：嗯，我[@可以@]帮你。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>39899</StartMilliseconds>
+    <EndMilliseconds>40279</EndMilliseconds>
+    <Text>qīngwā: Èng, wǒ kěyǐ [@bāng@] nǐ.
+青蛙：嗯，我可以[@帮@]你。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>40280</StartMilliseconds>
+    <EndMilliseconds>40942</EndMilliseconds>
+    <Text>qīngwā: Èng, wǒ kěyǐ bāng [@nǐ@].
+青蛙：嗯，我可以帮[@你@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>40943</StartMilliseconds>
+    <EndMilliseconds>41291</EndMilliseconds>
+    <Text>qīngwā: Èng, wǒ kěyǐ bāng nǐ.
+青蛙：嗯，我可以帮你。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>41292</StartMilliseconds>
+    <EndMilliseconds>49210</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ wā tǔ ba.
+浣熊：帮我挖土吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>49211</StartMilliseconds>
+    <EndMilliseconds>49585</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ wā tǔ ba.
+浣熊：[@帮@]我挖土吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>49586</StartMilliseconds>
+    <EndMilliseconds>50141</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] wā tǔ ba.
+浣熊：帮[@我@]挖土吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>50142</StartMilliseconds>
+    <EndMilliseconds>50533</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@wā@] tǔ ba.
+浣熊：帮我[@挖@]土吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>50534</StartMilliseconds>
+    <EndMilliseconds>51050</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ wā [@tǔ@] ba.
+浣熊：帮我挖[@土@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>51051</StartMilliseconds>
+    <EndMilliseconds>51739</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ wā tǔ [@ba@].
+浣熊：帮我挖土[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>51740</StartMilliseconds>
+    <EndMilliseconds>79729</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ wā tǔ ba.
+浣熊：帮我挖土吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>79730</StartMilliseconds>
+    <EndMilliseconds>80185</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè kuài shítou bānzǒu.
+浣熊：帮我把这块石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>80186</StartMilliseconds>
+    <EndMilliseconds>80582</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ bǎ zhè kuài shítou bānzǒu.
+浣熊：[@帮@]我把这块石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>80583</StartMilliseconds>
+    <EndMilliseconds>81391</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] bǎ zhè kuài shítou bānzǒu.
+浣熊：帮[@我@]把这块石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>81392</StartMilliseconds>
+    <EndMilliseconds>81695</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@bǎ@] zhè kuài shítou bānzǒu.
+浣熊：帮我[@把@]这块石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>81696</StartMilliseconds>
+    <EndMilliseconds>82044</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ [@zhè@] kuài shítou bānzǒu.
+浣熊：帮我把[@这@]块石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>82045</StartMilliseconds>
+    <EndMilliseconds>82309</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè [@kuài@] shítou bānzǒu.
+浣熊：帮我把这[@块@]石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>82310</StartMilliseconds>
+    <EndMilliseconds>83168</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè kuài [@shítou@] bānzǒu.
+浣熊：帮我把这块[@石头@]搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>83169</StartMilliseconds>
+    <EndMilliseconds>84554</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè kuài shítou [@bānzǒu@].
+浣熊：帮我把这块石头[@搬走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>84555</StartMilliseconds>
+    <EndMilliseconds>86421</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè kuài shítou bānzǒu.
+浣熊：帮我把这块石头搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>86422</StartMilliseconds>
+    <EndMilliseconds>87737</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào zhèli lái.
+浣熊：帮我把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>87738</StartMilliseconds>
+    <EndMilliseconds>88016</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ bǎ tā bāndào zhèli lái.
+浣熊：[@帮@]我把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>88017</StartMilliseconds>
+    <EndMilliseconds>88394</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] bǎ tā bāndào zhèli lái.
+浣熊：帮[@我@]把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>88395</StartMilliseconds>
+    <EndMilliseconds>88675</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@bǎ@] tā bāndào zhèli lái.
+浣熊：帮我[@把@]它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>88676</StartMilliseconds>
+    <EndMilliseconds>89527</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ [@tā@] bāndào zhèli lái.
+浣熊：帮我把[@它@]搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>89528</StartMilliseconds>
+    <EndMilliseconds>90127</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā [@bāndào@] zhèli lái.
+浣熊：帮我把它[@搬到@]这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>90129</StartMilliseconds>
+    <EndMilliseconds>90829</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào [@zhèli@] lái.
+浣熊：帮我把它搬到[@这里@]来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>90830</StartMilliseconds>
+    <EndMilliseconds>91614</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào zhèli [@lái@].
+浣熊：帮我把它搬到这里[@来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>91615</StartMilliseconds>
+    <EndMilliseconds>121786</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào zhèli lái.
+浣熊：帮我把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>121787</StartMilliseconds>
+    <EndMilliseconds>122057</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè ge shùzhuāng bānzǒu.
+浣熊：帮我把这个树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>122058</StartMilliseconds>
+    <EndMilliseconds>122416</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ bǎ zhè ge shùzhuāng bānzǒu.
+浣熊：[@帮@]我把这个树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>122417</StartMilliseconds>
+    <EndMilliseconds>123235</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] bǎ zhè ge shùzhuāng bānzǒu.
+浣熊：帮[@我@]把这个树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>123236</StartMilliseconds>
+    <EndMilliseconds>123578</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@bǎ@] zhè ge shùzhuāng bānzǒu.
+浣熊：帮我[@把@]这个树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>123579</StartMilliseconds>
+    <EndMilliseconds>123758</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ [@zhè@] ge shùzhuāng bānzǒu.
+浣熊：帮我把[@这@]个树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>123759</StartMilliseconds>
+    <EndMilliseconds>123900</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè [@ge@] shùzhuāng bānzǒu.
+浣熊：帮我把这[@个@]树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>123901</StartMilliseconds>
+    <EndMilliseconds>125105</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè ge [@shùzhuāng@] bānzǒu.
+浣熊：帮我把这个[@树桩@]搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>125106</StartMilliseconds>
+    <EndMilliseconds>126314</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè ge shùzhuāng [@bānzǒu@].
+浣熊：帮我把这个树桩[@搬走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>126315</StartMilliseconds>
+    <EndMilliseconds>127829</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhè ge shùzhuāng bānzǒu.
+浣熊：帮我把这个树桩搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>127830</StartMilliseconds>
+    <EndMilliseconds>128785</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào zhèli lái.
+浣熊：帮我把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>128786</StartMilliseconds>
+    <EndMilliseconds>129241</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ bǎ tā bāndào zhèli lái.
+浣熊：[@帮@]我把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>129242</StartMilliseconds>
+    <EndMilliseconds>129516</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] bǎ tā bāndào zhèli lái.
+浣熊：帮[@我@]把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>129517</StartMilliseconds>
+    <EndMilliseconds>129787</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@bǎ@] tā bāndào zhèli lái.
+浣熊：帮我[@把@]它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>129788</StartMilliseconds>
+    <EndMilliseconds>130680</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ [@tā@] bāndào zhèli lái.
+浣熊：帮我把[@它@]搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>130683</StartMilliseconds>
+    <EndMilliseconds>131457</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā [@bāndào@] zhèli lái.
+浣熊：帮我把它[@搬到@]这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>131458</StartMilliseconds>
+    <EndMilliseconds>132195</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào [@zhèli@] lái.
+浣熊：帮我把它搬到[@这里@]来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>132196</StartMilliseconds>
+    <EndMilliseconds>133173</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào zhèli [@lái@].
+浣熊：帮我把它搬到这里[@来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>133174</StartMilliseconds>
+    <EndMilliseconds>162667</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ tā bāndào zhèli lái.
+浣熊：帮我把它搬到这里来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>162668</StartMilliseconds>
+    <EndMilliseconds>164583</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhèxiē shùzhī bānzǒu.
+浣熊：帮我把这些树枝搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>164584</StartMilliseconds>
+    <EndMilliseconds>164943</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ bǎ zhèxiē shùzhī bānzǒu.
+浣熊：[@帮@]我把这些树枝搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>164944</StartMilliseconds>
+    <EndMilliseconds>165829</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] bǎ zhèxiē shùzhī bānzǒu.
+浣熊：帮[@我@]把这些树枝搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>165830</StartMilliseconds>
+    <EndMilliseconds>166171</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@bǎ@] zhèxiē shùzhī bānzǒu.
+浣熊：帮我[@把@]这些树枝搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>166172</StartMilliseconds>
+    <EndMilliseconds>166764</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ [@zhèxiē@] shùzhī bānzǒu.
+浣熊：帮我把[@这些@]树枝搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>166765</StartMilliseconds>
+    <EndMilliseconds>167844</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhèxiē [@shùzhī@] bānzǒu.
+浣熊：帮我把这些[@树枝@]搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>167845</StartMilliseconds>
+    <EndMilliseconds>169151</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhèxiē shùzhī [@bānzǒu@].
+浣熊：帮我把这些树枝[@搬走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>169152</StartMilliseconds>
+    <EndMilliseconds>181545</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ bǎ zhèxiē shùzhī bānzǒu.
+浣熊：帮我把这些树枝搬走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>181546</StartMilliseconds>
+    <EndMilliseconds>182909</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ zuò yí miàn qiáng.
+浣熊：帮我做一面墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>182910</StartMilliseconds>
+    <EndMilliseconds>183361</EndMilliseconds>
+    <Text>huànxióng: [@Bāng@] wǒ zuò yí miàn qiáng.
+浣熊：[@帮@]我做一面墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>183362</StartMilliseconds>
+    <EndMilliseconds>184177</EndMilliseconds>
+    <Text>huànxióng: Bāng [@wǒ@] zuò yí miàn qiáng.
+浣熊：帮[@我@]做一面墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>184178</StartMilliseconds>
+    <EndMilliseconds>184589</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ [@zuò@] yí miàn qiáng.
+浣熊：帮我[@做@]一面墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>184590</StartMilliseconds>
+    <EndMilliseconds>184803</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ zuò [@yí@] miàn qiáng.
+浣熊：帮我做[@一@]面墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>184804</StartMilliseconds>
+    <EndMilliseconds>185097</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ zuò yí [@miàn@] qiáng.
+浣熊：帮我做一[@面@]墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>185098</StartMilliseconds>
+    <EndMilliseconds>186248</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ zuò yí miàn [@qiáng@].
+浣熊：帮我做一面[@墙@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>186249</StartMilliseconds>
+    <EndMilliseconds>187956</EndMilliseconds>
+    <Text>huànxióng: Bāng wǒ zuò yí miàn qiáng.
+浣熊：帮我做一面墙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>187957</StartMilliseconds>
+    <EndMilliseconds>199662</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ jiàn le yí zuò bǎolěi!
+浣熊：你帮我建了一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>199663</StartMilliseconds>
+    <EndMilliseconds>200058</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] bāng wǒ jiàn le yí zuò bǎolěi!
+浣熊：[@你@]帮我建了一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>200059</StartMilliseconds>
+    <EndMilliseconds>200408</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@bāng@] wǒ jiàn le yí zuò bǎolěi!
+浣熊：你[@帮@]我建了一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>200409</StartMilliseconds>
+    <EndMilliseconds>201130</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng [@wǒ@] jiàn le yí zuò bǎolěi!
+浣熊：你帮[@我@]建了一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>201131</StartMilliseconds>
+    <EndMilliseconds>201563</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ [@jiàn@] le yí zuò bǎolěi!
+浣熊：你帮我[@建@]了一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>201564</StartMilliseconds>
+    <EndMilliseconds>201767</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ jiàn [@le@] yí zuò bǎolěi!
+浣熊：你帮我建[@了@]一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>201768</StartMilliseconds>
+    <EndMilliseconds>202007</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ jiàn le [@yí@] zuò bǎolěi!
+浣熊：你帮我建了[@一@]座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>202008</StartMilliseconds>
+    <EndMilliseconds>202598</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ jiàn le yí [@zuò@] bǎolěi!
+浣熊：你帮我建了一[@座@]堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>202599</StartMilliseconds>
+    <EndMilliseconds>203853</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ jiàn le yí zuò [@bǎolěi@]!
+浣熊：你帮我建了一座[@堡垒@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>203854</StartMilliseconds>
+    <EndMilliseconds>204174</EndMilliseconds>
+    <Text>huànxióng: Nǐ bāng wǒ jiàn le yí zuò bǎolěi!
+浣熊：你帮我建了一座堡垒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>204175</StartMilliseconds>
+    <EndMilliseconds>204490</EndMilliseconds>
+    <Text>huànxióng: Xièxie nǐ!
+浣熊：谢谢你！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>204491</StartMilliseconds>
+    <EndMilliseconds>205400</EndMilliseconds>
+    <Text>huànxióng: [@Xièxie@] nǐ!
+浣熊：[@谢谢@]你！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>205401</StartMilliseconds>
+    <EndMilliseconds>206099</EndMilliseconds>
+    <Text>huànxióng: Xièxie [@nǐ@]!
+浣熊：谢谢[@你@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>206100</StartMilliseconds>
+    <EndMilliseconds>207141</EndMilliseconds>
+    <Text>huànxióng: Xièxie nǐ!
+浣熊：谢谢你！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>207142</StartMilliseconds>
+    <EndMilliseconds>207930</EndMilliseconds>
+    <Text>qīngwā: Bú kèqi.
+青蛙：不客气。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>207931</StartMilliseconds>
+    <EndMilliseconds>208268</EndMilliseconds>
+    <Text>qīngwā: [@Bú@] kèqi.
+青蛙：[@不@]客气。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>208269</StartMilliseconds>
+    <EndMilliseconds>209650</EndMilliseconds>
+    <Text>qīngwā: Bú [@kèqi@].
+青蛙：不[@客气@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>209651</StartMilliseconds>
+    <EndMilliseconds>218753</EndMilliseconds>
+    <Text>qīngwā: Bú kèqi.
+青蛙：不客气。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>218754</StartMilliseconds>
+    <EndMilliseconds>219342</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ xiǎng yìqǐ wánr ma?
+浣熊：现在你想一起玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>219343</StartMilliseconds>
+    <EndMilliseconds>220420</EndMilliseconds>
+    <Text>huànxióng: [@Xiànzài@] nǐ xiǎng yìqǐ wánr ma?
+浣熊：[@现在@]你想一起玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>220421</StartMilliseconds>
+    <EndMilliseconds>220596</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ xiǎng yìqǐ wánr ma?
+浣熊：现在你想一起玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>220597</StartMilliseconds>
+    <EndMilliseconds>220925</EndMilliseconds>
+    <Text>huànxióng: Xiànzài [@nǐ@] xiǎng yìqǐ wánr ma?
+浣熊：现在[@你@]想一起玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>220926</StartMilliseconds>
+    <EndMilliseconds>221581</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ [@xiǎng@] yìqǐ wánr ma?
+浣熊：现在你[@想@]一起玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>221582</StartMilliseconds>
+    <EndMilliseconds>222156</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ xiǎng [@yìqǐ@] wánr ma?
+浣熊：现在你想[@一起@]玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>222157</StartMilliseconds>
+    <EndMilliseconds>222588</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ xiǎng yìqǐ [@wánr@] ma?
+浣熊：现在你想一起[@玩儿@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>222589</StartMilliseconds>
+    <EndMilliseconds>223174</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ xiǎng yìqǐ wánr [@ma@]?
+浣熊：现在你想一起玩儿[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>223175</StartMilliseconds>
+    <EndMilliseconds>224375</EndMilliseconds>
+    <Text>huànxióng: Xiànzài nǐ xiǎng yìqǐ wánr ma?
+浣熊：现在你想一起玩儿吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>224376</StartMilliseconds>
+    <EndMilliseconds>225244</EndMilliseconds>
+    <Text>qīngwā: Bù, wǒ xiànzài xiǎng xiūxi.
+青蛙：不，我现在想休息。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>225245</StartMilliseconds>
+    <EndMilliseconds>226438</EndMilliseconds>
+    <Text>qīngwā: [@Bù@], wǒ xiànzài xiǎng xiūxi.
+青蛙：[@不@]，我现在想休息。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>226440</StartMilliseconds>
+    <EndMilliseconds>226737</EndMilliseconds>
+    <Text>qīngwā: Bù, [@wǒ@] xiànzài xiǎng xiūxi.
+青蛙：不，[@我@]现在想休息。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>226738</StartMilliseconds>
+    <EndMilliseconds>227795</EndMilliseconds>
+    <Text>qīngwā: Bù, wǒ [@xiànzài@] xiǎng xiūxi.
+青蛙：不，我[@现在@]想休息。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>227796</StartMilliseconds>
+    <EndMilliseconds>228262</EndMilliseconds>
+    <Text>qīngwā: Bù, wǒ xiànzài [@xiǎng@] xiūxi.
+青蛙：不，我现在[@想@]休息。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>228263</StartMilliseconds>
+    <EndMilliseconds>229487</EndMilliseconds>
+    <Text>qīngwā: Bù, wǒ xiànzài xiǎng [@xiūxi@].
+青蛙：不，我现在想[@休息@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>229488</StartMilliseconds>
+    <EndMilliseconds>229942</EndMilliseconds>
+    <Text>qīngwā: Bù, wǒ xiànzài xiǎng xiūxi.
+青蛙：不，我现在想休息。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>229943</StartMilliseconds>
+    <EndMilliseconds>230252</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ yìqǐ zǒu huí jiā ba.
+青蛙：和我一起走回家吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>230253</StartMilliseconds>
+    <EndMilliseconds>230589</EndMilliseconds>
+    <Text>qīngwā: [@Hé@] wǒ yìqǐ zǒu huí jiā ba.
+青蛙：[@和@]我一起走回家吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>230590</StartMilliseconds>
+    <EndMilliseconds>231160</EndMilliseconds>
+    <Text>qīngwā: Hé [@wǒ@] yìqǐ zǒu huí jiā ba.
+青蛙：和[@我@]一起走回家吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>231161</StartMilliseconds>
+    <EndMilliseconds>231831</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ [@yìqǐ@] zǒu huí jiā ba.
+青蛙：和我[@一起@]走回家吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>231832</StartMilliseconds>
+    <EndMilliseconds>232256</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ yìqǐ [@zǒu@] huí jiā ba.
+青蛙：和我一起[@走@]回家吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>232257</StartMilliseconds>
+    <EndMilliseconds>232525</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ yìqǐ zǒu [@huí@] jiā ba.
+青蛙：和我一起走[@回@]家吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>232526</StartMilliseconds>
+    <EndMilliseconds>233002</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ yìqǐ zǒu huí [@jiā@] ba.
+青蛙：和我一起走回[@家@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>233003</StartMilliseconds>
+    <EndMilliseconds>233609</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ yìqǐ zǒu huí jiā [@ba@].
+青蛙：和我一起走回家[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>233610</StartMilliseconds>
+    <EndMilliseconds>252986</EndMilliseconds>
+    <Text>qīngwā: Hé wǒ yìqǐ zǒu huí jiā ba.
+青蛙：和我一起走回家吧。</Text>
+  </Paragraph>
+</Subtitle>

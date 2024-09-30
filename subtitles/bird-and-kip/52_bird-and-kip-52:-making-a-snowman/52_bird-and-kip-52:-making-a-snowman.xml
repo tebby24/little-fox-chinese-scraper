@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10201</StartMilliseconds>
+    <EndMilliseconds>13882</EndMilliseconds>
+    <Text>小鸟和基普看了看周围。
+Xiǎoniǎo hé Jīpǔ kàn le kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13882</StartMilliseconds>
+    <EndMilliseconds>14451</EndMilliseconds>
+    <Text>[@小鸟@]和基普看了看周围。
+[@Xiǎoniǎo@] hé Jīpǔ kàn le kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14451</StartMilliseconds>
+    <EndMilliseconds>14697</EndMilliseconds>
+    <Text>小鸟[@和@]基普看了看周围。
+Xiǎoniǎo [@hé@] Jīpǔ kàn le kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14697</StartMilliseconds>
+    <EndMilliseconds>15534</EndMilliseconds>
+    <Text>小鸟和[@基普@]看了看周围。
+Xiǎoniǎo hé [@Jīpǔ@] kàn le kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15534</StartMilliseconds>
+    <EndMilliseconds>15691</EndMilliseconds>
+    <Text>小鸟和基普[@看@]了看周围。
+Xiǎoniǎo hé Jīpǔ [@kàn@] le kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15691</StartMilliseconds>
+    <EndMilliseconds>15836</EndMilliseconds>
+    <Text>小鸟和基普看[@了@]看周围。
+Xiǎoniǎo hé Jīpǔ kàn [@le@] kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15836</StartMilliseconds>
+    <EndMilliseconds>16051</EndMilliseconds>
+    <Text>小鸟和基普看了[@看@]周围。
+Xiǎoniǎo hé Jīpǔ kàn le [@kàn@] zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16051</StartMilliseconds>
+    <EndMilliseconds>16676</EndMilliseconds>
+    <Text>小鸟和基普看了看[@周围@]。
+Xiǎoniǎo hé Jīpǔ kàn le kàn [@zhōuwéi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16676</StartMilliseconds>
+    <EndMilliseconds>17355</EndMilliseconds>
+    <Text>小鸟和基普看了看周围。
+Xiǎoniǎo hé Jīpǔ kàn le kàn zhōuwéi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17355</StartMilliseconds>
+    <EndMilliseconds>18187</EndMilliseconds>
+    <Text>到处都是雪。
+Dàochù dōu shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18187</StartMilliseconds>
+    <EndMilliseconds>18897</EndMilliseconds>
+    <Text>[@到处@]都是雪。
+[@Dàochù@] dōu shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18897</StartMilliseconds>
+    <EndMilliseconds>19117</EndMilliseconds>
+    <Text>到处[@都@]是雪。
+Dàochù [@dōu@] shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19117</StartMilliseconds>
+    <EndMilliseconds>19291</EndMilliseconds>
+    <Text>到处都[@是@]雪。
+Dàochù dōu [@shì@] xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19291</StartMilliseconds>
+    <EndMilliseconds>19812</EndMilliseconds>
+    <Text>到处都是[@雪@]。
+Dàochù dōu shì [@xuě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19812</StartMilliseconds>
+    <EndMilliseconds>20227</EndMilliseconds>
+    <Text>到处都是雪。
+Dàochù dōu shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20227</StartMilliseconds>
+    <EndMilliseconds>20656</EndMilliseconds>
+    <Text>地上是雪。
+Dì shàng shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20656</StartMilliseconds>
+    <EndMilliseconds>20930</EndMilliseconds>
+    <Text>[@地@]上是雪。
+[@Dì@] shàng shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>20930</StartMilliseconds>
+    <EndMilliseconds>21267</EndMilliseconds>
+    <Text>地[@上@]是雪。
+Dì [@shàng@] shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21267</StartMilliseconds>
+    <EndMilliseconds>21518</EndMilliseconds>
+    <Text>地上[@是@]雪。
+Dì shàng [@shì@] xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>21518</StartMilliseconds>
+    <EndMilliseconds>22518</EndMilliseconds>
+    <Text>地上是[@雪@]。
+Dì shàng shì [@xuě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22518</StartMilliseconds>
+    <EndMilliseconds>22772</EndMilliseconds>
+    <Text>地上是雪。
+Dì shàng shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>22772</StartMilliseconds>
+    <EndMilliseconds>23118</EndMilliseconds>
+    <Text>树枝上也是雪。
+Shùzhī shàng yě shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>23118</StartMilliseconds>
+    <EndMilliseconds>23651</EndMilliseconds>
+    <Text>[@树枝@]上也是雪。
+[@Shùzhī@] shàng yě shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>23651</StartMilliseconds>
+    <EndMilliseconds>24295</EndMilliseconds>
+    <Text>树枝[@上@]也是雪。
+Shùzhī [@shàng@] yě shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>24295</StartMilliseconds>
+    <EndMilliseconds>24504</EndMilliseconds>
+    <Text>树枝上[@也@]是雪。
+Shùzhī shàng [@yě@] shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>24504</StartMilliseconds>
+    <EndMilliseconds>24773</EndMilliseconds>
+    <Text>树枝上也[@是@]雪。
+Shùzhī shàng yě [@shì@] xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>24773</StartMilliseconds>
+    <EndMilliseconds>25252</EndMilliseconds>
+    <Text>树枝上也是[@雪@]。
+Shùzhī shàng yě shì [@xuě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>25252</StartMilliseconds>
+    <EndMilliseconds>26125</EndMilliseconds>
+    <Text>树枝上也是雪。
+Shùzhī shàng yě shì xuě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>26125</StartMilliseconds>
+    <EndMilliseconds>27411</EndMilliseconds>
+    <Text>“我们堆一个雪人吧！”基普说。
+"Wǒmen duī yí ge xuěrén ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>27411</StartMilliseconds>
+    <EndMilliseconds>28425</EndMilliseconds>
+    <Text>“[@我们@]堆一个雪人吧！”基普说。
+"[@Wǒmen@] duī yí ge xuěrén ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>28425</StartMilliseconds>
+    <EndMilliseconds>28692</EndMilliseconds>
+    <Text>“我们[@堆@]一个雪人吧！”基普说。
+"Wǒmen [@duī@] yí ge xuěrén ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>28692</StartMilliseconds>
+    <EndMilliseconds>28934</EndMilliseconds>
+    <Text>“我们堆[@一@]个雪人吧！”基普说。
+"Wǒmen duī [@yí@] ge xuěrén ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28934</StartMilliseconds>
+    <EndMilliseconds>29485</EndMilliseconds>
+    <Text>“我们堆一[@个@]雪人吧！”基普说。
+"Wǒmen duī yí [@ge@] xuěrén ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>29485</StartMilliseconds>
+    <EndMilliseconds>30070</EndMilliseconds>
+    <Text>“我们堆一个[@雪人@]吧！”基普说。
+"Wǒmen duī yí ge [@xuěrén@] ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>30070</StartMilliseconds>
+    <EndMilliseconds>30793</EndMilliseconds>
+    <Text>“我们堆一个雪人[@吧@]！”基普说。
+"Wǒmen duī yí ge xuěrén [@ba@]!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>30793</StartMilliseconds>
+    <EndMilliseconds>31142</EndMilliseconds>
+    <Text>“我们堆一个雪人吧！”[@基普@]说。
+"Wǒmen duī yí ge xuěrén ba!" [@Jīpǔ@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>31142</StartMilliseconds>
+    <EndMilliseconds>31732</EndMilliseconds>
+    <Text>“我们堆一个雪人吧！”基普[@说@]。
+"Wǒmen duī yí ge xuěrén ba!" Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>31732</StartMilliseconds>
+    <EndMilliseconds>32094</EndMilliseconds>
+    <Text>“我们堆一个雪人吧！”基普说。
+"Wǒmen duī yí ge xuěrén ba!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>32094</StartMilliseconds>
+    <EndMilliseconds>32453</EndMilliseconds>
+    <Text>“那一定很有意思。”小鸟说。
+"Nà yídìng hěn yǒu yìsi." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>32453</StartMilliseconds>
+    <EndMilliseconds>32776</EndMilliseconds>
+    <Text>“[@那@]一定很有意思。”小鸟说。
+"[@Nà@] yídìng hěn yǒu yìsi." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>32776</StartMilliseconds>
+    <EndMilliseconds>33164</EndMilliseconds>
+    <Text>“那[@一定@]很有意思。”小鸟说。
+"Nà [@yídìng@] hěn yǒu yìsi." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>33164</StartMilliseconds>
+    <EndMilliseconds>33398</EndMilliseconds>
+    <Text>“那一定[@很@]有意思。”小鸟说。
+"Nà yídìng [@hěn@] yǒu yìsi." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>33398</StartMilliseconds>
+    <EndMilliseconds>33612</EndMilliseconds>
+    <Text>“那一定很[@有@]意思。”小鸟说。
+"Nà yídìng hěn [@yǒu@] yìsi." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>33612</StartMilliseconds>
+    <EndMilliseconds>34468</EndMilliseconds>
+    <Text>“那一定很有[@意思@]。”小鸟说。
+"Nà yídìng hěn yǒu [@yìsi@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>34468</StartMilliseconds>
+    <EndMilliseconds>34957</EndMilliseconds>
+    <Text>“那一定很有意思。”[@小鸟@]说。
+"Nà yídìng hěn yǒu yìsi." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>34957</StartMilliseconds>
+    <EndMilliseconds>35570</EndMilliseconds>
+    <Text>“那一定很有意思。”小鸟[@说@]。
+"Nà yídìng hěn yǒu yìsi." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>35570</StartMilliseconds>
+    <EndMilliseconds>36957</EndMilliseconds>
+    <Text>“那一定很有意思。”小鸟说。
+"Nà yídìng hěn yǒu yìsi." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>36957</StartMilliseconds>
+    <EndMilliseconds>38516</EndMilliseconds>
+    <Text>基普做了一个雪球。
+Jīpǔ zuò le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>38516</StartMilliseconds>
+    <EndMilliseconds>39067</EndMilliseconds>
+    <Text>[@基普@]做了一个雪球。
+[@Jīpǔ@] zuò le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>39067</StartMilliseconds>
+    <EndMilliseconds>39318</EndMilliseconds>
+    <Text>基普[@做@]了一个雪球。
+Jīpǔ [@zuò@] le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>39318</StartMilliseconds>
+    <EndMilliseconds>39458</EndMilliseconds>
+    <Text>基普做[@了@]一个雪球。
+Jīpǔ zuò [@le@] yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>39458</StartMilliseconds>
+    <EndMilliseconds>39588</EndMilliseconds>
+    <Text>基普做了[@一@]个雪球。
+Jīpǔ zuò le [@yí@] ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>39588</StartMilliseconds>
+    <EndMilliseconds>39743</EndMilliseconds>
+    <Text>基普做了一[@个@]雪球。
+Jīpǔ zuò le yí [@ge@] xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>39743</StartMilliseconds>
+    <EndMilliseconds>40473</EndMilliseconds>
+    <Text>基普做了一个[@雪球@]。
+Jīpǔ zuò le yí ge [@xuěqiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>40473</StartMilliseconds>
+    <EndMilliseconds>41418</EndMilliseconds>
+    <Text>基普做了一个雪球。
+Jīpǔ zuò le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>41418</StartMilliseconds>
+    <EndMilliseconds>41955</EndMilliseconds>
+    <Text>他在雪里滚雪球。
+Tā zài xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>41955</StartMilliseconds>
+    <EndMilliseconds>42268</EndMilliseconds>
+    <Text>[@他@]在雪里滚雪球。
+[@Tā@] zài xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>42268</StartMilliseconds>
+    <EndMilliseconds>42518</EndMilliseconds>
+    <Text>他[@在@]雪里滚雪球。
+Tā [@zài@] xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>42518</StartMilliseconds>
+    <EndMilliseconds>42731</EndMilliseconds>
+    <Text>他在[@雪@]里滚雪球。
+Tā zài [@xuě@] li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>42731</StartMilliseconds>
+    <EndMilliseconds>43087</EndMilliseconds>
+    <Text>他在雪[@里@]滚雪球。
+Tā zài xuě [@li@] gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>43087</StartMilliseconds>
+    <EndMilliseconds>43318</EndMilliseconds>
+    <Text>他在雪里[@滚@]雪球。
+Tā zài xuě li [@gǔn@] xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>43318</StartMilliseconds>
+    <EndMilliseconds>44068</EndMilliseconds>
+    <Text>他在雪里滚[@雪球@]。
+Tā zài xuě li gǔn [@xuěqiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>44068</StartMilliseconds>
+    <EndMilliseconds>44544</EndMilliseconds>
+    <Text>他在雪里滚雪球。
+Tā zài xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>44544</StartMilliseconds>
+    <EndMilliseconds>45427</EndMilliseconds>
+    <Text>雪球越来越大。
+Xuěqiú yuèláiyuè dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>45427</StartMilliseconds>
+    <EndMilliseconds>46426</EndMilliseconds>
+    <Text>[@雪球@]越来越大。
+[@Xuěqiú@] yuèláiyuè dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>46426</StartMilliseconds>
+    <EndMilliseconds>47317</EndMilliseconds>
+    <Text>雪球[@越来越@]大。
+Xuěqiú [@yuèláiyuè@] dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>47317</StartMilliseconds>
+    <EndMilliseconds>47818</EndMilliseconds>
+    <Text>雪球越来越[@大@]。
+Xuěqiú yuèláiyuè [@dà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>47818</StartMilliseconds>
+    <EndMilliseconds>50761</EndMilliseconds>
+    <Text>雪球越来越大。
+Xuěqiú yuèláiyuè dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>50761</StartMilliseconds>
+    <EndMilliseconds>52183</EndMilliseconds>
+    <Text>小鸟做了一个雪球。
+Xiǎoniǎo zuò le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>52183</StartMilliseconds>
+    <EndMilliseconds>52816</EndMilliseconds>
+    <Text>[@小鸟@]做了一个雪球。
+[@Xiǎoniǎo@] zuò le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>52816</StartMilliseconds>
+    <EndMilliseconds>53016</EndMilliseconds>
+    <Text>小鸟[@做@]了一个雪球。
+Xiǎoniǎo [@zuò@] le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>53016</StartMilliseconds>
+    <EndMilliseconds>53218</EndMilliseconds>
+    <Text>小鸟做[@了@]一个雪球。
+Xiǎoniǎo zuò [@le@] yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>53218</StartMilliseconds>
+    <EndMilliseconds>53334</EndMilliseconds>
+    <Text>小鸟做了[@一@]个雪球。
+Xiǎoniǎo zuò le [@yí@] ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>53334</StartMilliseconds>
+    <EndMilliseconds>53497</EndMilliseconds>
+    <Text>小鸟做了一[@个@]雪球。
+Xiǎoniǎo zuò le yí [@ge@] xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>53497</StartMilliseconds>
+    <EndMilliseconds>54467</EndMilliseconds>
+    <Text>小鸟做了一个[@雪球@]。
+Xiǎoniǎo zuò le yí ge [@xuěqiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>54467</StartMilliseconds>
+    <EndMilliseconds>55302</EndMilliseconds>
+    <Text>小鸟做了一个雪球。
+Xiǎoniǎo zuò le yí ge xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>55302</StartMilliseconds>
+    <EndMilliseconds>56565</EndMilliseconds>
+    <Text>她在雪里滚雪球。
+Tā zài xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>56565</StartMilliseconds>
+    <EndMilliseconds>56709</EndMilliseconds>
+    <Text>[@她@]在雪里滚雪球。
+[@Tā@] zài xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>56709</StartMilliseconds>
+    <EndMilliseconds>56929</EndMilliseconds>
+    <Text>她[@在@]雪里滚雪球。
+Tā [@zài@] xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>56929</StartMilliseconds>
+    <EndMilliseconds>57073</EndMilliseconds>
+    <Text>她在[@雪@]里滚雪球。
+Tā zài [@xuě@] li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>57073</StartMilliseconds>
+    <EndMilliseconds>57548</EndMilliseconds>
+    <Text>她在雪[@里@]滚雪球。
+Tā zài xuě [@li@] gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>57548</StartMilliseconds>
+    <EndMilliseconds>57771</EndMilliseconds>
+    <Text>她在雪里[@滚@]雪球。
+Tā zài xuě li [@gǔn@] xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>57771</StartMilliseconds>
+    <EndMilliseconds>58518</EndMilliseconds>
+    <Text>她在雪里滚[@雪球@]。
+Tā zài xuě li gǔn [@xuěqiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>58518</StartMilliseconds>
+    <EndMilliseconds>58797</EndMilliseconds>
+    <Text>她在雪里滚雪球。
+Tā zài xuě li gǔn xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>58797</StartMilliseconds>
+    <EndMilliseconds>59143</EndMilliseconds>
+    <Text>雪球越来越大。
+Xuěqiú yuèláiyuè dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>59143</StartMilliseconds>
+    <EndMilliseconds>60068</EndMilliseconds>
+    <Text>[@雪球@]越来越大。
+[@Xuěqiú@] yuèláiyuè dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>60068</StartMilliseconds>
+    <EndMilliseconds>60918</EndMilliseconds>
+    <Text>雪球[@越来越@]大。
+Xuěqiú [@yuèláiyuè@] dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>60918</StartMilliseconds>
+    <EndMilliseconds>61370</EndMilliseconds>
+    <Text>雪球越来越[@大@]。
+Xuěqiú yuèláiyuè [@dà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>61370</StartMilliseconds>
+    <EndMilliseconds>63100</EndMilliseconds>
+    <Text>雪球越来越大。
+Xuěqiú yuèláiyuè dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>63100</StartMilliseconds>
+    <EndMilliseconds>65633</EndMilliseconds>
+    <Text>小鸟和基普拿起小鸟的雪球。
+Xiǎoniǎo hé Jīpǔ náqǐ Xiǎoniǎo de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>65633</StartMilliseconds>
+    <EndMilliseconds>66150</EndMilliseconds>
+    <Text>[@小鸟@]和基普拿起小鸟的雪球。
+[@Xiǎoniǎo@] hé Jīpǔ náqǐ Xiǎoniǎo de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>66150</StartMilliseconds>
+    <EndMilliseconds>66328</EndMilliseconds>
+    <Text>小鸟[@和@]基普拿起小鸟的雪球。
+Xiǎoniǎo [@hé@] Jīpǔ náqǐ Xiǎoniǎo de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>66328</StartMilliseconds>
+    <EndMilliseconds>67053</EndMilliseconds>
+    <Text>小鸟和[@基普@]拿起小鸟的雪球。
+Xiǎoniǎo hé [@Jīpǔ@] náqǐ Xiǎoniǎo de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>67053</StartMilliseconds>
+    <EndMilliseconds>67649</EndMilliseconds>
+    <Text>小鸟和基普[@拿起@]小鸟的雪球。
+Xiǎoniǎo hé Jīpǔ [@náqǐ@] Xiǎoniǎo de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>67649</StartMilliseconds>
+    <EndMilliseconds>68137</EndMilliseconds>
+    <Text>小鸟和基普拿起[@小鸟@]的雪球。
+Xiǎoniǎo hé Jīpǔ náqǐ [@Xiǎoniǎo@] de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>68137</StartMilliseconds>
+    <EndMilliseconds>68401</EndMilliseconds>
+    <Text>小鸟和基普拿起小鸟[@的@]雪球。
+Xiǎoniǎo hé Jīpǔ náqǐ Xiǎoniǎo [@de@] xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>68401</StartMilliseconds>
+    <EndMilliseconds>69153</EndMilliseconds>
+    <Text>小鸟和基普拿起小鸟的[@雪球@]。
+Xiǎoniǎo hé Jīpǔ náqǐ Xiǎoniǎo de [@xuěqiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>69153</StartMilliseconds>
+    <EndMilliseconds>69356</EndMilliseconds>
+    <Text>小鸟和基普拿起小鸟的雪球。
+Xiǎoniǎo hé Jīpǔ náqǐ Xiǎoniǎo de xuěqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>69356</StartMilliseconds>
+    <EndMilliseconds>69651</EndMilliseconds>
+    <Text>他们把它放在基普的雪球上。
+Tāmen bǎ tā fàngzài Jīpǔ de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>69651</StartMilliseconds>
+    <EndMilliseconds>70133</EndMilliseconds>
+    <Text>[@他们@]把它放在基普的雪球上。
+[@Tāmen@] bǎ tā fàngzài Jīpǔ de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>70133</StartMilliseconds>
+    <EndMilliseconds>70390</EndMilliseconds>
+    <Text>他们[@把@]它放在基普的雪球上。
+Tāmen [@bǎ@] tā fàngzài Jīpǔ de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>70390</StartMilliseconds>
+    <EndMilliseconds>71053</EndMilliseconds>
+    <Text>他们把[@它@]放在基普的雪球上。
+Tāmen bǎ [@tā@] fàngzài Jīpǔ de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>71053</StartMilliseconds>
+    <EndMilliseconds>71527</EndMilliseconds>
+    <Text>他们把它[@放在@]基普的雪球上。
+Tāmen bǎ tā [@fàngzài@] Jīpǔ de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>71527</StartMilliseconds>
+    <EndMilliseconds>71904</EndMilliseconds>
+    <Text>他们把它放在[@基普@]的雪球上。
+Tāmen bǎ tā fàngzài [@Jīpǔ@] de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>71904</StartMilliseconds>
+    <EndMilliseconds>72128</EndMilliseconds>
+    <Text>他们把它放在基普[@的@]雪球上。
+Tāmen bǎ tā fàngzài Jīpǔ [@de@] xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>72128</StartMilliseconds>
+    <EndMilliseconds>72586</EndMilliseconds>
+    <Text>他们把它放在基普的[@雪球@]上。
+Tāmen bǎ tā fàngzài Jīpǔ de [@xuěqiú@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>72586</StartMilliseconds>
+    <EndMilliseconds>73069</EndMilliseconds>
+    <Text>他们把它放在基普的雪球[@上@]。
+Tāmen bǎ tā fàngzài Jīpǔ de xuěqiú [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>73069</StartMilliseconds>
+    <EndMilliseconds>73494</EndMilliseconds>
+    <Text>他们把它放在基普的雪球上。
+Tāmen bǎ tā fàngzài Jīpǔ de xuěqiú shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>73494</StartMilliseconds>
+    <EndMilliseconds>73869</EndMilliseconds>
+    <Text>然后，他们把一个小雪球放到了上面。
+Ránhòu, tāmen bǎ yí ge xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>73869</StartMilliseconds>
+    <EndMilliseconds>74804</EndMilliseconds>
+    <Text>[@然后@]，他们把一个小雪球放到了上面。
+[@Ránhòu@], tāmen bǎ yí ge xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>74804</StartMilliseconds>
+    <EndMilliseconds>75160</EndMilliseconds>
+    <Text>然后，[@他们@]把一个小雪球放到了上面。
+Ránhòu, [@tāmen@] bǎ yí ge xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>75159</StartMilliseconds>
+    <EndMilliseconds>75375</EndMilliseconds>
+    <Text>然后，他们[@把@]一个小雪球放到了上面。
+Ránhòu, tāmen [@bǎ@] yí ge xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>75375</StartMilliseconds>
+    <EndMilliseconds>75468</EndMilliseconds>
+    <Text>然后，他们把[@一@]个小雪球放到了上面。
+Ránhòu, tāmen bǎ [@yí@] ge xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>75468</StartMilliseconds>
+    <EndMilliseconds>75718</EndMilliseconds>
+    <Text>然后，他们把一[@个@]小雪球放到了上面。
+Ránhòu, tāmen bǎ yí [@ge@] xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>75718</StartMilliseconds>
+    <EndMilliseconds>76018</EndMilliseconds>
+    <Text>然后，他们把一个[@小@]雪球放到了上面。
+Ránhòu, tāmen bǎ yí ge [@xiǎo@] xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>76018</StartMilliseconds>
+    <EndMilliseconds>77018</EndMilliseconds>
+    <Text>然后，他们把一个小[@雪球@]放到了上面。
+Ránhòu, tāmen bǎ yí ge xiǎo [@xuěqiú@] fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>77018</StartMilliseconds>
+    <EndMilliseconds>77428</EndMilliseconds>
+    <Text>然后，他们把一个小雪球[@放到@]了上面。
+Ránhòu, tāmen bǎ yí ge xiǎo xuěqiú [@fàngdào@] le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>77428</StartMilliseconds>
+    <EndMilliseconds>77617</EndMilliseconds>
+    <Text>然后，他们把一个小雪球放到[@了@]上面。
+Ránhòu, tāmen bǎ yí ge xiǎo xuěqiú fàngdào [@le@] shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>77617</StartMilliseconds>
+    <EndMilliseconds>78368</EndMilliseconds>
+    <Text>然后，他们把一个小雪球放到了[@上面@]。
+Ránhòu, tāmen bǎ yí ge xiǎo xuěqiú fàngdào le [@shàngmian@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>78368</StartMilliseconds>
+    <EndMilliseconds>79238</EndMilliseconds>
+    <Text>然后，他们把一个小雪球放到了上面。
+Ránhòu, tāmen bǎ yí ge xiǎo xuěqiú fàngdào le shàngmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>79238</StartMilliseconds>
+    <EndMilliseconds>79866</EndMilliseconds>
+    <Text>“雪人差不多堆好了。”基普说。
+"Xuěrén chàbuduō duī hǎo le." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>79866</StartMilliseconds>
+    <EndMilliseconds>80911</EndMilliseconds>
+    <Text>“[@雪人@]差不多堆好了。”基普说。
+"[@Xuěrén@] chàbuduō duī hǎo le." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>80911</StartMilliseconds>
+    <EndMilliseconds>81978</EndMilliseconds>
+    <Text>“雪人[@差不多@]堆好了。”基普说。
+"Xuěrén [@chàbuduō@] duī hǎo le." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>81978</StartMilliseconds>
+    <EndMilliseconds>82217</EndMilliseconds>
+    <Text>“雪人差不多[@堆@]好了。”基普说。
+"Xuěrén chàbuduō [@duī@] hǎo le." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>82217</StartMilliseconds>
+    <EndMilliseconds>82717</EndMilliseconds>
+    <Text>“雪人差不多堆[@好@]了。”基普说。
+"Xuěrén chàbuduō duī [@hǎo@] le." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>82717</StartMilliseconds>
+    <EndMilliseconds>83467</EndMilliseconds>
+    <Text>“雪人差不多堆好[@了@]。”基普说。
+"Xuěrén chàbuduō duī hǎo [@le@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>83467</StartMilliseconds>
+    <EndMilliseconds>83829</EndMilliseconds>
+    <Text>“雪人差不多堆好了。”[@基普@]说。
+"Xuěrén chàbuduō duī hǎo le." [@Jīpǔ@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>83829</StartMilliseconds>
+    <EndMilliseconds>84318</EndMilliseconds>
+    <Text>“雪人差不多堆好了。”基普[@说@]。
+"Xuěrén chàbuduō duī hǎo le." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>84318</StartMilliseconds>
+    <EndMilliseconds>84788</EndMilliseconds>
+    <Text>“雪人差不多堆好了。”基普说。
+"Xuěrén chàbuduō duī hǎo le." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>84788</StartMilliseconds>
+    <EndMilliseconds>85315</EndMilliseconds>
+    <Text>“雪人需要脸和胳膊。”小鸟说。
+"Xuěrén xūyào liǎn hé gēbo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>85315</StartMilliseconds>
+    <EndMilliseconds>86124</EndMilliseconds>
+    <Text>“[@雪人@]需要脸和胳膊。”小鸟说。
+"[@Xuěrén@] xūyào liǎn hé gēbo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>86124</StartMilliseconds>
+    <EndMilliseconds>86495</EndMilliseconds>
+    <Text>“雪人[@需要@]脸和胳膊。”小鸟说。
+"Xuěrén [@xūyào@] liǎn hé gēbo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>86495</StartMilliseconds>
+    <EndMilliseconds>86819</EndMilliseconds>
+    <Text>“雪人需要[@脸@]和胳膊。”小鸟说。
+"Xuěrén xūyào [@liǎn@] hé gēbo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>86819</StartMilliseconds>
+    <EndMilliseconds>87105</EndMilliseconds>
+    <Text>“雪人需要脸[@和@]胳膊。”小鸟说。
+"Xuěrén xūyào liǎn [@hé@] gēbo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>87105</StartMilliseconds>
+    <EndMilliseconds>88186</EndMilliseconds>
+    <Text>“雪人需要脸和[@胳膊@]。”小鸟说。
+"Xuěrén xūyào liǎn hé [@gēbo@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>88186</StartMilliseconds>
+    <EndMilliseconds>88633</EndMilliseconds>
+    <Text>“雪人需要脸和胳膊。”[@小鸟@]说。
+"Xuěrén xūyào liǎn hé gēbo." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>88633</StartMilliseconds>
+    <EndMilliseconds>89368</EndMilliseconds>
+    <Text>“雪人需要脸和胳膊。”小鸟[@说@]。
+"Xuěrén xūyào liǎn hé gēbo." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>89368</StartMilliseconds>
+    <EndMilliseconds>91263</EndMilliseconds>
+    <Text>“雪人需要脸和胳膊。”小鸟说。
+"Xuěrén xūyào liǎn hé gēbo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>91263</StartMilliseconds>
+    <EndMilliseconds>92282</EndMilliseconds>
+    <Text>“我去找树枝。”基普说。
+"Wǒ qù zhǎo shùzhī." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>92282</StartMilliseconds>
+    <EndMilliseconds>92617</EndMilliseconds>
+    <Text>“[@我@]去找树枝。”基普说。
+"[@Wǒ@] qù zhǎo shùzhī." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>92617</StartMilliseconds>
+    <EndMilliseconds>93191</EndMilliseconds>
+    <Text>“我[@去@]找树枝。”基普说。
+"Wǒ [@qù@] zhǎo shùzhī." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>93191</StartMilliseconds>
+    <EndMilliseconds>93417</EndMilliseconds>
+    <Text>“我去[@找@]树枝。”基普说。
+"Wǒ qù [@zhǎo@] shùzhī." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>93417</StartMilliseconds>
+    <EndMilliseconds>94483</EndMilliseconds>
+    <Text>“我去找[@树枝@]。”基普说。
+"Wǒ qù zhǎo [@shùzhī@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>94483</StartMilliseconds>
+    <EndMilliseconds>94827</EndMilliseconds>
+    <Text>“我去找树枝。”[@基普@]说。
+"Wǒ qù zhǎo shùzhī." [@Jīpǔ@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>94827</StartMilliseconds>
+    <EndMilliseconds>95529</EndMilliseconds>
+    <Text>“我去找树枝。”基普[@说@]。
+"Wǒ qù zhǎo shùzhī." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>95529</StartMilliseconds>
+    <EndMilliseconds>95671</EndMilliseconds>
+    <Text>“我去找树枝。”基普说。
+"Wǒ qù zhǎo shùzhī." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>95671</StartMilliseconds>
+    <EndMilliseconds>95948</EndMilliseconds>
+    <Text>“我去找小石子。”小鸟说。
+"Wǒ qù zhǎo xiǎo shízǐ." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>95948</StartMilliseconds>
+    <EndMilliseconds>96068</EndMilliseconds>
+    <Text>“[@我@]去找小石子。”小鸟说。
+"[@Wǒ@] qù zhǎo xiǎo shízǐ." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>96068</StartMilliseconds>
+    <EndMilliseconds>96317</EndMilliseconds>
+    <Text>“我[@去@]找小石子。”小鸟说。
+"Wǒ [@qù@] zhǎo xiǎo shízǐ." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>96317</StartMilliseconds>
+    <EndMilliseconds>96818</EndMilliseconds>
+    <Text>“我去[@找@]小石子。”小鸟说。
+"Wǒ qù [@zhǎo@] xiǎo shízǐ." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>96818</StartMilliseconds>
+    <EndMilliseconds>97173</EndMilliseconds>
+    <Text>“我去找[@小@]石子。”小鸟说。
+"Wǒ qù zhǎo [@xiǎo@] shízǐ." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>97173</StartMilliseconds>
+    <EndMilliseconds>98167</EndMilliseconds>
+    <Text>“我去找小[@石子@]。”小鸟说。
+"Wǒ qù zhǎo xiǎo [@shízǐ@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>98167</StartMilliseconds>
+    <EndMilliseconds>98717</EndMilliseconds>
+    <Text>“我去找小石子。”[@小鸟@]说。
+"Wǒ qù zhǎo xiǎo shízǐ." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>98717</StartMilliseconds>
+    <EndMilliseconds>99218</EndMilliseconds>
+    <Text>“我去找小石子。”小鸟[@说@]。
+"Wǒ qù zhǎo xiǎo shízǐ." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>99218</StartMilliseconds>
+    <EndMilliseconds>102342</EndMilliseconds>
+    <Text>“我去找小石子。”小鸟说。
+"Wǒ qù zhǎo xiǎo shízǐ." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>102342</StartMilliseconds>
+    <EndMilliseconds>103720</EndMilliseconds>
+    <Text>基普走来走去。
+Jīpǔ zǒulái zǒuqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>103720</StartMilliseconds>
+    <EndMilliseconds>104317</EndMilliseconds>
+    <Text>[@基普@]走来走去。
+[@Jīpǔ@] zǒulái zǒuqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>104317</StartMilliseconds>
+    <EndMilliseconds>104698</EndMilliseconds>
+    <Text>基普[@走来@]走去。
+Jīpǔ [@zǒulái@] zǒuqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>104698</StartMilliseconds>
+    <EndMilliseconds>105868</EndMilliseconds>
+    <Text>基普走来[@走去@]。
+Jīpǔ zǒulái [@zǒuqù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>105868</StartMilliseconds>
+    <EndMilliseconds>106433</EndMilliseconds>
+    <Text>基普走来走去。
+Jīpǔ zǒulái zǒuqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>106433</StartMilliseconds>
+    <EndMilliseconds>107116</EndMilliseconds>
+    <Text>这时，风刮了起来。
+Zhèshí, fēng guā le qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>107116</StartMilliseconds>
+    <EndMilliseconds>108189</EndMilliseconds>
+    <Text>[@这时@]，风刮了起来。
+[@Zhèshí@], fēng guā le qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>108189</StartMilliseconds>
+    <EndMilliseconds>108446</EndMilliseconds>
+    <Text>这时，[@风@]刮了起来。
+Zhèshí, [@fēng@] guā le qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>108446</StartMilliseconds>
+    <EndMilliseconds>108741</EndMilliseconds>
+    <Text>这时，风[@刮@]了起来。
+Zhèshí, fēng [@guā@] le qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>108741</StartMilliseconds>
+    <EndMilliseconds>108868</EndMilliseconds>
+    <Text>这时，风刮[@了@]起来。
+Zhèshí, fēng guā [@le@] qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>108868</StartMilliseconds>
+    <EndMilliseconds>109368</EndMilliseconds>
+    <Text>这时，风刮了[@起来@]。
+Zhèshí, fēng guā le [@qǐlai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>109368</StartMilliseconds>
+    <EndMilliseconds>109857</EndMilliseconds>
+    <Text>这时，风刮了起来。
+Zhèshí, fēng guā le qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>109857</StartMilliseconds>
+    <EndMilliseconds>110825</EndMilliseconds>
+    <Text>树枝晃来晃去。
+Shùzhī huànglái huàngqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>110825</StartMilliseconds>
+    <EndMilliseconds>111437</EndMilliseconds>
+    <Text>[@树枝@]晃来晃去。
+[@Shùzhī@] huànglái huàngqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>111437</StartMilliseconds>
+    <EndMilliseconds>111976</EndMilliseconds>
+    <Text>树枝[@晃来@]晃去。
+Shùzhī [@huànglái@] huàngqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>111976</StartMilliseconds>
+    <EndMilliseconds>112937</EndMilliseconds>
+    <Text>树枝晃来[@晃去@]。
+Shùzhī huànglái [@huàngqù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>112937</StartMilliseconds>
+    <EndMilliseconds>113299</EndMilliseconds>
+    <Text>树枝晃来晃去。
+Shùzhī huànglái huàngqù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>113299</StartMilliseconds>
+    <EndMilliseconds>113518</EndMilliseconds>
+    <Text>雪掉在基普的头上。
+Xuě diàozài Jīpǔ de tóu shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>113518</StartMilliseconds>
+    <EndMilliseconds>114019</EndMilliseconds>
+    <Text>[@雪@]掉在基普的头上。
+[@Xuě@] diàozài Jīpǔ de tóu shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>114019</StartMilliseconds>
+    <EndMilliseconds>114633</EndMilliseconds>
+    <Text>雪[@掉在@]基普的头上。
+Xuě [@diàozài@] Jīpǔ de tóu shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>114633</StartMilliseconds>
+    <EndMilliseconds>115029</EndMilliseconds>
+    <Text>雪掉在[@基普@]的头上。
+Xuě diàozài [@Jīpǔ@] de tóu shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>115029</StartMilliseconds>
+    <EndMilliseconds>115171</EndMilliseconds>
+    <Text>雪掉在基普[@的@]头上。
+Xuě diàozài Jīpǔ [@de@] tóu shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>115171</StartMilliseconds>
+    <EndMilliseconds>115417</EndMilliseconds>
+    <Text>雪掉在基普的[@头@]上。
+Xuě diàozài Jīpǔ de [@tóu@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>115417</StartMilliseconds>
+    <EndMilliseconds>116420</EndMilliseconds>
+    <Text>雪掉在基普的头[@上@]。
+Xuě diàozài Jīpǔ de tóu [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>116420</StartMilliseconds>
+    <EndMilliseconds>118706</EndMilliseconds>
+    <Text>雪掉在基普的头上。
+Xuě diàozài Jīpǔ de tóu shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>118706</StartMilliseconds>
+    <EndMilliseconds>120369</EndMilliseconds>
+    <Text>“小鸟！”基普大喊道，
+"Xiǎoniǎo!" Jīpǔ dà hǎndào,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>120369</StartMilliseconds>
+    <EndMilliseconds>121467</EndMilliseconds>
+    <Text>“[@小鸟@]！”基普大喊道，
+"[@Xiǎoniǎo@]!" Jīpǔ dà hǎndào,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>121467</StartMilliseconds>
+    <EndMilliseconds>122120</EndMilliseconds>
+    <Text>“小鸟！”[@基普@]大喊道，
+"Xiǎoniǎo!" [@Jīpǔ@] dà hǎndào,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>122120</StartMilliseconds>
+    <EndMilliseconds>122317</EndMilliseconds>
+    <Text>“小鸟！”基普[@大@]喊道，
+"Xiǎoniǎo!" Jīpǔ [@dà@] hǎndào,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>122317</StartMilliseconds>
+    <EndMilliseconds>123068</EndMilliseconds>
+    <Text>“小鸟！”基普大[@喊道@]，
+"Xiǎoniǎo!" Jīpǔ dà [@hǎndào@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>123068</StartMilliseconds>
+    <EndMilliseconds>123319</EndMilliseconds>
+    <Text>“小鸟！”基普大喊道，
+"Xiǎoniǎo!" Jīpǔ dà hǎndào,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>123319</StartMilliseconds>
+    <EndMilliseconds>123693</EndMilliseconds>
+    <Text>“有人把雪球扔到我头上了！”
+"Yǒu rén bǎ xuěqiú rēngdào wǒ tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>123693</StartMilliseconds>
+    <EndMilliseconds>123939</EndMilliseconds>
+    <Text>“[@有@]人把雪球扔到我头上了！”
+"[@Yǒu@] rén bǎ xuěqiú rēngdào wǒ tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>123939</StartMilliseconds>
+    <EndMilliseconds>124602</EndMilliseconds>
+    <Text>“有[@人@]把雪球扔到我头上了！”
+"Yǒu [@rén@] bǎ xuěqiú rēngdào wǒ tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>124602</StartMilliseconds>
+    <EndMilliseconds>124770</EndMilliseconds>
+    <Text>“有人[@把@]雪球扔到我头上了！”
+"Yǒu rén [@bǎ@] xuěqiú rēngdào wǒ tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>124770</StartMilliseconds>
+    <EndMilliseconds>125770</EndMilliseconds>
+    <Text>“有人把[@雪球@]扔到我头上了！”
+"Yǒu rén bǎ [@xuěqiú@] rēngdào wǒ tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>125770</StartMilliseconds>
+    <EndMilliseconds>126188</EndMilliseconds>
+    <Text>“有人把雪球[@扔到@]我头上了！”
+"Yǒu rén bǎ xuěqiú [@rēngdào@] wǒ tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>126188</StartMilliseconds>
+    <EndMilliseconds>126567</EndMilliseconds>
+    <Text>“有人把雪球扔到[@我@]头上了！”
+"Yǒu rén bǎ xuěqiú rēngdào [@wǒ@] tóu shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>126567</StartMilliseconds>
+    <EndMilliseconds>126886</EndMilliseconds>
+    <Text>“有人把雪球扔到我[@头@]上了！”
+"Yǒu rén bǎ xuěqiú rēngdào wǒ [@tóu@] shàng le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>126886</StartMilliseconds>
+    <EndMilliseconds>127172</EndMilliseconds>
+    <Text>“有人把雪球扔到我头[@上@]了！”
+"Yǒu rén bǎ xuěqiú rēngdào wǒ tóu [@shàng@] le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>127172</StartMilliseconds>
+    <EndMilliseconds>127917</EndMilliseconds>
+    <Text>“有人把雪球扔到我头上[@了@]！”
+"Yǒu rén bǎ xuěqiú rēngdào wǒ tóu shàng [@le@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>127917</StartMilliseconds>
+    <EndMilliseconds>129418</EndMilliseconds>
+    <Text>“有人把雪球扔到我头上了！”
+"Yǒu rén bǎ xuěqiú rēngdào wǒ tóu shàng le!"</Text>
+  </Paragraph>
+</Subtitle>

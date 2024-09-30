@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10511</StartMilliseconds>
+    <EndMilliseconds>18705</EndMilliseconds>
+    <Text>Xiǎo Biānfú qǐ chuáng le.
+小蝙蝠起床了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>18706</StartMilliseconds>
+    <EndMilliseconds>19117</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú qǐ chuáng le.
+[@小@]蝙蝠起床了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>19118</StartMilliseconds>
+    <EndMilliseconds>20298</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] qǐ chuáng le.
+小[@蝙蝠@]起床了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>20299</StartMilliseconds>
+    <EndMilliseconds>20633</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@qǐ@] chuáng le.
+小蝙蝠[@起@]床了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>20634</StartMilliseconds>
+    <EndMilliseconds>21146</EndMilliseconds>
+    <Text>Xiǎo Biānfú qǐ [@chuáng@] le.
+小蝙蝠起[@床@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>21147</StartMilliseconds>
+    <EndMilliseconds>21377</EndMilliseconds>
+    <Text>Xiǎo Biānfú qǐ chuáng [@le@].
+小蝙蝠起床[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>21378</StartMilliseconds>
+    <EndMilliseconds>23421</EndMilliseconds>
+    <Text>Xiǎo Biānfú qǐ chuáng le.
+小蝙蝠起床了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>23422</StartMilliseconds>
+    <EndMilliseconds>24564</EndMilliseconds>
+    <Text>Tā fēichū dòngxué.
+他飞出洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>24565</StartMilliseconds>
+    <EndMilliseconds>25405</EndMilliseconds>
+    <Text>[@Tā@] fēichū dòngxué.
+[@他@]飞出洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>25406</StartMilliseconds>
+    <EndMilliseconds>26114</EndMilliseconds>
+    <Text>Tā [@fēichū@] dòngxué.
+他[@飞出@]洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>26115</StartMilliseconds>
+    <EndMilliseconds>26982</EndMilliseconds>
+    <Text>Tā fēichū [@dòngxué@].
+他飞出[@洞穴@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>26983</StartMilliseconds>
+    <EndMilliseconds>30859</EndMilliseconds>
+    <Text>Tā fēichū dòngxué.
+他飞出洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>30860</StartMilliseconds>
+    <EndMilliseconds>33153</EndMilliseconds>
+    <Text>"Wǒ yào chóngzi!" Xiǎo Biānfú shuō.
+“我要虫子！”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>33154</StartMilliseconds>
+    <EndMilliseconds>33461</EndMilliseconds>
+    <Text>"[@Wǒ@] yào chóngzi!" Xiǎo Biānfú shuō.
+“[@我@]要虫子！”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>33462</StartMilliseconds>
+    <EndMilliseconds>33744</EndMilliseconds>
+    <Text>"Wǒ [@yào@] chóngzi!" Xiǎo Biānfú shuō.
+“我[@要@]虫子！”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>33745</StartMilliseconds>
+    <EndMilliseconds>35770</EndMilliseconds>
+    <Text>"Wǒ yào [@chóngzi@]!" Xiǎo Biānfú shuō.
+“我要[@虫子@]！”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>35771</StartMilliseconds>
+    <EndMilliseconds>36176</EndMilliseconds>
+    <Text>"Wǒ yào chóngzi!" [@Xiǎo@] Biānfú shuō.
+“我要虫子！”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>36177</StartMilliseconds>
+    <EndMilliseconds>36850</EndMilliseconds>
+    <Text>"Wǒ yào chóngzi!" Xiǎo [@Biānfú@] shuō.
+“我要虫子！”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>36851</StartMilliseconds>
+    <EndMilliseconds>37214</EndMilliseconds>
+    <Text>"Wǒ yào chóngzi!" Xiǎo Biānfú [@shuō@].
+“我要虫子！”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>37215</StartMilliseconds>
+    <EndMilliseconds>45307</EndMilliseconds>
+    <Text>"Wǒ yào chóngzi!" Xiǎo Biānfú shuō.
+“我要虫子！”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>45308</StartMilliseconds>
+    <EndMilliseconds>46637</EndMilliseconds>
+    <Text>"Wǒ yào zhǎo chóngzi.
+“我要找虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>46638</StartMilliseconds>
+    <EndMilliseconds>46973</EndMilliseconds>
+    <Text>"[@Wǒ@] yào zhǎo chóngzi.
+“[@我@]要找虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>46974</StartMilliseconds>
+    <EndMilliseconds>47341</EndMilliseconds>
+    <Text>"Wǒ [@yào@] zhǎo chóngzi.
+“我[@要@]找虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>47342</StartMilliseconds>
+    <EndMilliseconds>47629</EndMilliseconds>
+    <Text>"Wǒ yào [@zhǎo@] chóngzi.
+“我要[@找@]虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>47630</StartMilliseconds>
+    <EndMilliseconds>48385</EndMilliseconds>
+    <Text>"Wǒ yào zhǎo [@chóngzi@].
+“我要找[@虫子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>48386</StartMilliseconds>
+    <EndMilliseconds>48584</EndMilliseconds>
+    <Text>"Wǒ yào zhǎo chóngzi.
+“我要找虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>48585</StartMilliseconds>
+    <EndMilliseconds>48936</EndMilliseconds>
+    <Text>Wǒ yào chī chóngzi!"
+我要吃虫子！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>48937</StartMilliseconds>
+    <EndMilliseconds>49237</EndMilliseconds>
+    <Text>[@Wǒ@] yào chī chóngzi!"
+[@我@]要吃虫子！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>49238</StartMilliseconds>
+    <EndMilliseconds>49583</EndMilliseconds>
+    <Text>Wǒ [@yào@] chī chóngzi!"
+我[@要@]吃虫子！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>49584</StartMilliseconds>
+    <EndMilliseconds>49934</EndMilliseconds>
+    <Text>Wǒ yào [@chī@] chóngzi!"
+我要[@吃@]虫子！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49935</StartMilliseconds>
+    <EndMilliseconds>50761</EndMilliseconds>
+    <Text>Wǒ yào chī [@chóngzi@]!"
+我要吃[@虫子@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>50762</StartMilliseconds>
+    <EndMilliseconds>53616</EndMilliseconds>
+    <Text>Wǒ yào chī chóngzi!"
+我要吃虫子！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>53617</StartMilliseconds>
+    <EndMilliseconds>54315</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēishàng tiānkōng.
+小蝙蝠飞上天空。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>54316</StartMilliseconds>
+    <EndMilliseconds>54676</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú fēishàng tiānkōng.
+[@小@]蝙蝠飞上天空。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54677</StartMilliseconds>
+    <EndMilliseconds>55801</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] fēishàng tiānkōng.
+小[@蝙蝠@]飞上天空。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55802</StartMilliseconds>
+    <EndMilliseconds>56397</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@fēishàng@] tiānkōng.
+小蝙蝠[@飞上@]天空。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>56398</StartMilliseconds>
+    <EndMilliseconds>57081</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēishàng [@tiānkōng@].
+小蝙蝠飞上[@天空@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57082</StartMilliseconds>
+    <EndMilliseconds>58584</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēishàng tiānkōng.
+小蝙蝠飞上天空。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>58585</StartMilliseconds>
+    <EndMilliseconds>60855</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēiguò fángzi.
+小蝙蝠飞过房子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>60856</StartMilliseconds>
+    <EndMilliseconds>61283</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú fēiguò fángzi.
+[@小@]蝙蝠飞过房子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>61284</StartMilliseconds>
+    <EndMilliseconds>62415</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] fēiguò fángzi.
+小[@蝙蝠@]飞过房子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>62416</StartMilliseconds>
+    <EndMilliseconds>63181</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@fēiguò@] fángzi.
+小蝙蝠[@飞过@]房子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63182</StartMilliseconds>
+    <EndMilliseconds>64022</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēiguò [@fángzi@].
+小蝙蝠飞过[@房子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64023</StartMilliseconds>
+    <EndMilliseconds>64473</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēiguò fángzi.
+小蝙蝠飞过房子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64474</StartMilliseconds>
+    <EndMilliseconds>64807</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēiguò shù.
+小蝙蝠飞过树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>64808</StartMilliseconds>
+    <EndMilliseconds>65268</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú fēiguò shù.
+[@小@]蝙蝠飞过树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65269</StartMilliseconds>
+    <EndMilliseconds>66260</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] fēiguò shù.
+小[@蝙蝠@]飞过树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66261</StartMilliseconds>
+    <EndMilliseconds>66867</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@fēiguò@] shù.
+小蝙蝠[@飞过@]树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66868</StartMilliseconds>
+    <EndMilliseconds>67445</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēiguò [@shù@].
+小蝙蝠飞过[@树@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>67446</StartMilliseconds>
+    <EndMilliseconds>67712</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēiguò shù.
+小蝙蝠飞过树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>67713</StartMilliseconds>
+    <EndMilliseconds>67950</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē dà chóngzi.
+他找到了一些大虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>67951</StartMilliseconds>
+    <EndMilliseconds>68324</EndMilliseconds>
+    <Text>[@Tā@] zhǎodào le yìxiē dà chóngzi.
+[@他@]找到了一些大虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>68325</StartMilliseconds>
+    <EndMilliseconds>68978</EndMilliseconds>
+    <Text>Tā [@zhǎodào@] le yìxiē dà chóngzi.
+他[@找到@]了一些大虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>68979</StartMilliseconds>
+    <EndMilliseconds>69497</EndMilliseconds>
+    <Text>Tā zhǎodào [@le@] yìxiē dà chóngzi.
+他找到[@了@]一些大虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>69498</StartMilliseconds>
+    <EndMilliseconds>70362</EndMilliseconds>
+    <Text>Tā zhǎodào le [@yìxiē@] dà chóngzi.
+他找到了[@一些@]大虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>70363</StartMilliseconds>
+    <EndMilliseconds>70746</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē [@dà@] chóngzi.
+他找到了一些[@大@]虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>70747</StartMilliseconds>
+    <EndMilliseconds>71448</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē dà [@chóngzi@].
+他找到了一些大[@虫子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>71449</StartMilliseconds>
+    <EndMilliseconds>71840</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē dà chóngzi.
+他找到了一些大虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>71841</StartMilliseconds>
+    <EndMilliseconds>72222</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē xiǎo chóngzi.
+他找到了一些小虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>72223</StartMilliseconds>
+    <EndMilliseconds>72654</EndMilliseconds>
+    <Text>[@Tā@] zhǎodào le yìxiē xiǎo chóngzi.
+[@他@]找到了一些小虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>72655</StartMilliseconds>
+    <EndMilliseconds>73320</EndMilliseconds>
+    <Text>Tā [@zhǎodào@] le yìxiē xiǎo chóngzi.
+他[@找到@]了一些小虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>73321</StartMilliseconds>
+    <EndMilliseconds>74120</EndMilliseconds>
+    <Text>Tā zhǎodào [@le@] yìxiē xiǎo chóngzi.
+他找到[@了@]一些小虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>74121</StartMilliseconds>
+    <EndMilliseconds>74867</EndMilliseconds>
+    <Text>Tā zhǎodào le [@yìxiē@] xiǎo chóngzi.
+他找到了[@一些@]小虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>74868</StartMilliseconds>
+    <EndMilliseconds>75381</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē [@xiǎo@] chóngzi.
+他找到了一些[@小@]虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>75382</StartMilliseconds>
+    <EndMilliseconds>76236</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē xiǎo [@chóngzi@].
+他找到了一些小[@虫子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>76237</StartMilliseconds>
+    <EndMilliseconds>78595</EndMilliseconds>
+    <Text>Tā zhǎodào le yìxiē xiǎo chóngzi.
+他找到了一些小虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>78596</StartMilliseconds>
+    <EndMilliseconds>79193</EndMilliseconds>
+    <Text>Xiǎo Biānfú chī a chī a.
+小蝙蝠吃啊吃啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>79194</StartMilliseconds>
+    <EndMilliseconds>79650</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú chī a chī a.
+[@小@]蝙蝠吃啊吃啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>79651</StartMilliseconds>
+    <EndMilliseconds>80774</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] chī a chī a.
+小[@蝙蝠@]吃啊吃啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>80775</StartMilliseconds>
+    <EndMilliseconds>81220</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@chī@] a chī a.
+小蝙蝠[@吃@]啊吃啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>81221</StartMilliseconds>
+    <EndMilliseconds>82097</EndMilliseconds>
+    <Text>Xiǎo Biānfú chī [@a@] chī a.
+小蝙蝠吃[@啊@]吃啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>82098</StartMilliseconds>
+    <EndMilliseconds>82533</EndMilliseconds>
+    <Text>Xiǎo Biānfú chī a [@chī@] a.
+小蝙蝠吃啊[@吃@]啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>82534</StartMilliseconds>
+    <EndMilliseconds>82923</EndMilliseconds>
+    <Text>Xiǎo Biānfú chī a chī [@a@].
+小蝙蝠吃啊吃[@啊@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>82924</StartMilliseconds>
+    <EndMilliseconds>86009</EndMilliseconds>
+    <Text>Xiǎo Biānfú chī a chī a.
+小蝙蝠吃啊吃啊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>86010</StartMilliseconds>
+    <EndMilliseconds>86620</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēi ya fēi ya.
+小蝙蝠飞呀飞呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>86621</StartMilliseconds>
+    <EndMilliseconds>87061</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú fēi ya fēi ya.
+[@小@]蝙蝠飞呀飞呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>87062</StartMilliseconds>
+    <EndMilliseconds>88297</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] fēi ya fēi ya.
+小[@蝙蝠@]飞呀飞呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>88298</StartMilliseconds>
+    <EndMilliseconds>88771</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@fēi@] ya fēi ya.
+小蝙蝠[@飞@]呀飞呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>88772</StartMilliseconds>
+    <EndMilliseconds>89498</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēi [@ya@] fēi ya.
+小蝙蝠飞[@呀@]飞呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>89499</StartMilliseconds>
+    <EndMilliseconds>89972</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēi ya [@fēi@] ya.
+小蝙蝠飞呀[@飞@]呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>89973</StartMilliseconds>
+    <EndMilliseconds>90215</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēi ya fēi [@ya@].
+小蝙蝠飞呀飞[@呀@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>90216</StartMilliseconds>
+    <EndMilliseconds>90422</EndMilliseconds>
+    <Text>Xiǎo Biānfú fēi ya fēi ya.
+小蝙蝠飞呀飞呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>90423</StartMilliseconds>
+    <EndMilliseconds>90882</EndMilliseconds>
+    <Text>Xiǎo Biānfú hěn kāixīn.
+小蝙蝠很开心。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>90883</StartMilliseconds>
+    <EndMilliseconds>91290</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú hěn kāixīn.
+[@小@]蝙蝠很开心。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>91291</StartMilliseconds>
+    <EndMilliseconds>92290</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] hěn kāixīn.
+小[@蝙蝠@]很开心。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>92291</StartMilliseconds>
+    <EndMilliseconds>92732</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@hěn@] kāixīn.
+小蝙蝠[@很@]开心。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>92733</StartMilliseconds>
+    <EndMilliseconds>93884</EndMilliseconds>
+    <Text>Xiǎo Biānfú hěn [@kāixīn@].
+小蝙蝠很[@开心@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>93885</StartMilliseconds>
+    <EndMilliseconds>94283</EndMilliseconds>
+    <Text>Xiǎo Biānfú hěn kāixīn.
+小蝙蝠很开心。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>94284</StartMilliseconds>
+    <EndMilliseconds>94535</EndMilliseconds>
+    <Text>"Gāi huí jiā shuìjiào le!"
+“该回家睡觉了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>94536</StartMilliseconds>
+    <EndMilliseconds>94863</EndMilliseconds>
+    <Text>"[@Gāi@] huí jiā shuìjiào le!"
+“[@该@]回家睡觉了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>94864</StartMilliseconds>
+    <EndMilliseconds>95138</EndMilliseconds>
+    <Text>"Gāi [@huí@] jiā shuìjiào le!"
+“该[@回@]家睡觉了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>95139</StartMilliseconds>
+    <EndMilliseconds>95553</EndMilliseconds>
+    <Text>"Gāi huí [@jiā@] shuìjiào le!"
+“该回[@家@]睡觉了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>95554</StartMilliseconds>
+    <EndMilliseconds>96435</EndMilliseconds>
+    <Text>"Gāi huí jiā [@shuìjiào@] le!"
+“该回家[@睡觉@]了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>96436</StartMilliseconds>
+    <EndMilliseconds>96840</EndMilliseconds>
+    <Text>"Gāi huí jiā shuìjiào [@le@]!"
+“该回家睡觉[@了@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>96841</StartMilliseconds>
+    <EndMilliseconds>98843</EndMilliseconds>
+    <Text>"Gāi huí jiā shuìjiào le!"
+“该回家睡觉了！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>98844</StartMilliseconds>
+    <EndMilliseconds>99366</EndMilliseconds>
+    <Text>Dànshì tiān yǐjīng hēi le.
+但是天已经黑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>99367</StartMilliseconds>
+    <EndMilliseconds>100554</EndMilliseconds>
+    <Text>[@Dànshì@] tiān yǐjīng hēi le.
+[@但是@]天已经黑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>100555</StartMilliseconds>
+    <EndMilliseconds>101506</EndMilliseconds>
+    <Text>Dànshì [@tiān@] yǐjīng hēi le.
+但是[@天@]已经黑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>101507</StartMilliseconds>
+    <EndMilliseconds>102124</EndMilliseconds>
+    <Text>Dànshì tiān [@yǐjīng@] hēi le.
+但是天[@已经@]黑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>102125</StartMilliseconds>
+    <EndMilliseconds>102501</EndMilliseconds>
+    <Text>Dànshì tiān yǐjīng [@hēi@] le.
+但是天已经[@黑@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>102502</StartMilliseconds>
+    <EndMilliseconds>102841</EndMilliseconds>
+    <Text>Dànshì tiān yǐjīng hēi [@le@].
+但是天已经黑[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>102842</StartMilliseconds>
+    <EndMilliseconds>103954</EndMilliseconds>
+    <Text>Dànshì tiān yǐjīng hēi le.
+但是天已经黑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>103955</StartMilliseconds>
+    <EndMilliseconds>104349</EndMilliseconds>
+    <Text>"Jiā zài nǎli?" Xiǎo Biānfú shuō.
+“家在哪里？”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>104350</StartMilliseconds>
+    <EndMilliseconds>104840</EndMilliseconds>
+    <Text>"[@Jiā@] zài nǎli?" Xiǎo Biānfú shuō.
+“[@家@]在哪里？”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>104841</StartMilliseconds>
+    <EndMilliseconds>105136</EndMilliseconds>
+    <Text>"Jiā [@zài@] nǎli?" Xiǎo Biānfú shuō.
+“家[@在@]哪里？”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>105137</StartMilliseconds>
+    <EndMilliseconds>107023</EndMilliseconds>
+    <Text>"Jiā zài [@nǎli@]?" Xiǎo Biānfú shuō.
+“家在[@哪里@]？”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>107024</StartMilliseconds>
+    <EndMilliseconds>107531</EndMilliseconds>
+    <Text>"Jiā zài nǎli?" [@Xiǎo@] Biānfú shuō.
+“家在哪里？”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>107532</StartMilliseconds>
+    <EndMilliseconds>108187</EndMilliseconds>
+    <Text>"Jiā zài nǎli?" Xiǎo [@Biānfú@] shuō.
+“家在哪里？”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>108188</StartMilliseconds>
+    <EndMilliseconds>108537</EndMilliseconds>
+    <Text>"Jiā zài nǎli?" Xiǎo Biānfú [@shuō@].
+“家在哪里？”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>108538</StartMilliseconds>
+    <EndMilliseconds>109185</EndMilliseconds>
+    <Text>"Jiā zài nǎli?" Xiǎo Biānfú shuō.
+“家在哪里？”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>109186</StartMilliseconds>
+    <EndMilliseconds>109675</EndMilliseconds>
+    <Text>Yí zhèn dà fēng chuī le guòlai.
+一阵大风吹了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>109676</StartMilliseconds>
+    <EndMilliseconds>110015</EndMilliseconds>
+    <Text>[@Yí@] zhèn dà fēng chuī le guòlai.
+[@一@]阵大风吹了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>110016</StartMilliseconds>
+    <EndMilliseconds>110532</EndMilliseconds>
+    <Text>Yí [@zhèn@] dà fēng chuī le guòlai.
+一[@阵@]大风吹了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>110533</StartMilliseconds>
+    <EndMilliseconds>110880</EndMilliseconds>
+    <Text>Yí zhèn [@dà@] fēng chuī le guòlai.
+一阵[@大@]风吹了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>110881</StartMilliseconds>
+    <EndMilliseconds>111840</EndMilliseconds>
+    <Text>Yí zhèn dà [@fēng@] chuī le guòlai.
+一阵大[@风@]吹了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>111841</StartMilliseconds>
+    <EndMilliseconds>112187</EndMilliseconds>
+    <Text>Yí zhèn dà fēng [@chuī@] le guòlai.
+一阵大风[@吹@]了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>112188</StartMilliseconds>
+    <EndMilliseconds>112559</EndMilliseconds>
+    <Text>Yí zhèn dà fēng chuī [@le@] guòlai.
+一阵大风吹[@了@]过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>112560</StartMilliseconds>
+    <EndMilliseconds>113272</EndMilliseconds>
+    <Text>Yí zhèn dà fēng chuī le [@guòlai@].
+一阵大风吹了[@过来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>113273</StartMilliseconds>
+    <EndMilliseconds>114684</EndMilliseconds>
+    <Text>Yí zhèn dà fēng chuī le guòlai.
+一阵大风吹了过来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>114685</StartMilliseconds>
+    <EndMilliseconds>116306</EndMilliseconds>
+    <Text>Dà yǔ xià le qǐlai.
+大雨下了起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>116307</StartMilliseconds>
+    <EndMilliseconds>116679</EndMilliseconds>
+    <Text>[@Dà@] yǔ xià le qǐlai.
+[@大@]雨下了起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>116680</StartMilliseconds>
+    <EndMilliseconds>117498</EndMilliseconds>
+    <Text>Dà [@yǔ@] xià le qǐlai.
+大[@雨@]下了起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>117499</StartMilliseconds>
+    <EndMilliseconds>117973</EndMilliseconds>
+    <Text>Dà yǔ [@xià@] le qǐlai.
+大雨[@下@]了起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>117974</StartMilliseconds>
+    <EndMilliseconds>118250</EndMilliseconds>
+    <Text>Dà yǔ xià [@le@] qǐlai.
+大雨下[@了@]起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>118251</StartMilliseconds>
+    <EndMilliseconds>119048</EndMilliseconds>
+    <Text>Dà yǔ xià le [@qǐlai@].
+大雨下了[@起来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>119049</StartMilliseconds>
+    <EndMilliseconds>121581</EndMilliseconds>
+    <Text>Dà yǔ xià le qǐlai.
+大雨下了起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>121582</StartMilliseconds>
+    <EndMilliseconds>122302</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā zài hěn yuǎn de dìfang.
+小蝙蝠的家在很远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>122303</StartMilliseconds>
+    <EndMilliseconds>122739</EndMilliseconds>
+    <Text>[@Xiǎo@] Biānfú de jiā zài hěn yuǎn de dìfang.
+[@小@]蝙蝠的家在很远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>122740</StartMilliseconds>
+    <EndMilliseconds>123341</EndMilliseconds>
+    <Text>Xiǎo [@Biānfú@] de jiā zài hěn yuǎn de dìfang.
+小[@蝙蝠@]的家在很远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>123342</StartMilliseconds>
+    <EndMilliseconds>123522</EndMilliseconds>
+    <Text>Xiǎo Biānfú [@de@] jiā zài hěn yuǎn de dìfang.
+小蝙蝠[@的@]家在很远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>123523</StartMilliseconds>
+    <EndMilliseconds>124366</EndMilliseconds>
+    <Text>Xiǎo Biānfú de [@jiā@] zài hěn yuǎn de dìfang.
+小蝙蝠的[@家@]在很远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>124367</StartMilliseconds>
+    <EndMilliseconds>125224</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā [@zài@] hěn yuǎn de dìfang.
+小蝙蝠的家[@在@]很远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>125225</StartMilliseconds>
+    <EndMilliseconds>125621</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā zài [@hěn@] yuǎn de dìfang.
+小蝙蝠的家在[@很@]远的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>125622</StartMilliseconds>
+    <EndMilliseconds>125968</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā zài hěn [@yuǎn@] de dìfang.
+小蝙蝠的家在很[@远@]的地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>125969</StartMilliseconds>
+    <EndMilliseconds>126498</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā zài hěn yuǎn [@de@] dìfang.
+小蝙蝠的家在很远[@的@]地方。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>126499</StartMilliseconds>
+    <EndMilliseconds>127407</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā zài hěn yuǎn de [@dìfang@].
+小蝙蝠的家在很远的[@地方@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>127408</StartMilliseconds>
+    <EndMilliseconds>130386</EndMilliseconds>
+    <Text>Xiǎo Biānfú de jiā zài hěn yuǎn de dìfang.
+小蝙蝠的家在很远的地方。</Text>
+  </Paragraph>
+</Subtitle>

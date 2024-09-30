@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9937</StartMilliseconds>
+    <EndMilliseconds>11584</EndMilliseconds>
+    <Text>一天早晨，小鸟正在画画儿。
+Yìtiān zǎochén, Xiǎoniǎo zhèngzài huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11585</StartMilliseconds>
+    <EndMilliseconds>12206</EndMilliseconds>
+    <Text>[@一天@]早晨，小鸟正在画画儿。
+[@Yìtiān@] zǎochén, Xiǎoniǎo zhèngzài huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12206</StartMilliseconds>
+    <EndMilliseconds>12941</EndMilliseconds>
+    <Text>一天[@早晨@]，小鸟正在画画儿。
+Yìtiān [@zǎochén@], Xiǎoniǎo zhèngzài huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12942</StartMilliseconds>
+    <EndMilliseconds>13438</EndMilliseconds>
+    <Text>一天早晨，小鸟正在画画儿。
+Yìtiān zǎochén, Xiǎoniǎo zhèngzài huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13439</StartMilliseconds>
+    <EndMilliseconds>14307</EndMilliseconds>
+    <Text>一天早晨，[@小鸟@]正在画画儿。
+Yìtiān zǎochén, [@Xiǎoniǎo@] zhèngzài huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14308</StartMilliseconds>
+    <EndMilliseconds>15014</EndMilliseconds>
+    <Text>一天早晨，小鸟[@正在@]画画儿。
+Yìtiān zǎochén, Xiǎoniǎo [@zhèngzài@] huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15015</StartMilliseconds>
+    <EndMilliseconds>15351</EndMilliseconds>
+    <Text>一天早晨，小鸟正在[@画@]画儿。
+Yìtiān zǎochén, Xiǎoniǎo zhèngzài [@huà@] huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15352</StartMilliseconds>
+    <EndMilliseconds>15686</EndMilliseconds>
+    <Text>一天早晨，小鸟正在画[@画儿@]。
+Yìtiān zǎochén, Xiǎoniǎo zhèngzài huà [@huàr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15687</StartMilliseconds>
+    <EndMilliseconds>24104</EndMilliseconds>
+    <Text>一天早晨，小鸟正在画画儿。
+Yìtiān zǎochén, Xiǎoniǎo zhèngzài huà huàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24105</StartMilliseconds>
+    <EndMilliseconds>24417</EndMilliseconds>
+    <Text>“你在干什么？”基普问。
+"Nǐ zài gàn shénme?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24418</StartMilliseconds>
+    <EndMilliseconds>24808</EndMilliseconds>
+    <Text>“[@你@]在干什么？”基普问。
+"[@Nǐ@] zài gàn shénme?" Jīpǔ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24809</StartMilliseconds>
+    <EndMilliseconds>25261</EndMilliseconds>
+    <Text>“你[@在@]干什么？”基普问。
+"Nǐ [@zài@] gàn shénme?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25262</StartMilliseconds>
+    <EndMilliseconds>25476</EndMilliseconds>
+    <Text>“你在[@干@]什么？”基普问。
+"Nǐ zài [@gàn@] shénme?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25477</StartMilliseconds>
+    <EndMilliseconds>26048</EndMilliseconds>
+    <Text>“你在干[@什么@]？”基普问。
+"Nǐ zài gàn [@shénme@]?" Jīpǔ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>26049</StartMilliseconds>
+    <EndMilliseconds>26841</EndMilliseconds>
+    <Text>“你在干什么？”基普问。
+"Nǐ zài gàn shénme?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>26842</StartMilliseconds>
+    <EndMilliseconds>27486</EndMilliseconds>
+    <Text>“你在干什么？”[@基普@]问。
+"Nǐ zài gàn shénme?" [@Jīpǔ@] wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>27487</StartMilliseconds>
+    <EndMilliseconds>27879</EndMilliseconds>
+    <Text>“你在干什么？”基普[@问@]。
+"Nǐ zài gàn shénme?" Jīpǔ [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>27880</StartMilliseconds>
+    <EndMilliseconds>29047</EndMilliseconds>
+    <Text>“你在干什么？”基普问。
+"Nǐ zài gàn shénme?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>29048</StartMilliseconds>
+    <EndMilliseconds>29377</EndMilliseconds>
+    <Text>“我在画小鸟。”小鸟说。
+"Wǒ zài huà xiǎoniǎo." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>29378</StartMilliseconds>
+    <EndMilliseconds>29683</EndMilliseconds>
+    <Text>“[@我@]在画小鸟。”小鸟说。
+"[@Wǒ@] zài huà xiǎoniǎo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>29684</StartMilliseconds>
+    <EndMilliseconds>30374</EndMilliseconds>
+    <Text>“我[@在@]画小鸟。”小鸟说。
+"Wǒ [@zài@] huà xiǎoniǎo." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>30375</StartMilliseconds>
+    <EndMilliseconds>30676</EndMilliseconds>
+    <Text>“我在[@画@]小鸟。”小鸟说。
+"Wǒ zài [@huà@] xiǎoniǎo." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>30677</StartMilliseconds>
+    <EndMilliseconds>31747</EndMilliseconds>
+    <Text>“我在画[@小鸟@]。”小鸟说。
+"Wǒ zài huà [@xiǎoniǎo@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>31748</StartMilliseconds>
+    <EndMilliseconds>32290</EndMilliseconds>
+    <Text>“我在画小鸟。”小鸟说。
+"Wǒ zài huà xiǎoniǎo." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32291</StartMilliseconds>
+    <EndMilliseconds>33059</EndMilliseconds>
+    <Text>“我在画小鸟。”[@小鸟@]说。
+"Wǒ zài huà xiǎoniǎo." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>33060</StartMilliseconds>
+    <EndMilliseconds>33502</EndMilliseconds>
+    <Text>“我在画小鸟。”小鸟[@说@]。
+"Wǒ zài huà xiǎoniǎo." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>33503</StartMilliseconds>
+    <EndMilliseconds>34141</EndMilliseconds>
+    <Text>“我在画小鸟。”小鸟说。
+"Wǒ zài huà xiǎoniǎo." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>34142</StartMilliseconds>
+    <EndMilliseconds>34383</EndMilliseconds>
+    <Text>“哇。”基普说。
+"Wā." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>34384</StartMilliseconds>
+    <EndMilliseconds>35467</EndMilliseconds>
+    <Text>“[@哇@]。”基普说。
+"[@Wā@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>35468</StartMilliseconds>
+    <EndMilliseconds>36211</EndMilliseconds>
+    <Text>“哇。”基普说。
+"Wā." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>36212</StartMilliseconds>
+    <EndMilliseconds>36766</EndMilliseconds>
+    <Text>“哇。”[@基普@]说。
+"Wā." [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36767</StartMilliseconds>
+    <EndMilliseconds>37292</EndMilliseconds>
+    <Text>“哇。”基普[@说@]。
+"Wā." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>37293</StartMilliseconds>
+    <EndMilliseconds>41901</EndMilliseconds>
+    <Text>“哇。”基普说。
+"Wā." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>41902</StartMilliseconds>
+    <EndMilliseconds>42109</EndMilliseconds>
+    <Text>“我从来不知道你还会画画。”
+"Wǒ cónglái bù zhīdào nǐ hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>42110</StartMilliseconds>
+    <EndMilliseconds>42509</EndMilliseconds>
+    <Text>“[@我@]从来不知道你还会画画。”
+"[@Wǒ@] cónglái bù zhīdào nǐ hái huì huà huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>42510</StartMilliseconds>
+    <EndMilliseconds>43013</EndMilliseconds>
+    <Text>“我[@从来@]不知道你还会画画。”
+"Wǒ [@cónglái@] bù zhīdào nǐ hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>43014</StartMilliseconds>
+    <EndMilliseconds>43166</EndMilliseconds>
+    <Text>“我从来[@不@]知道你还会画画。”
+"Wǒ cónglái [@bù@] zhīdào nǐ hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>43167</StartMilliseconds>
+    <EndMilliseconds>43863</EndMilliseconds>
+    <Text>“我从来不[@知道@]你还会画画。”
+"Wǒ cónglái bù [@zhīdào@] nǐ hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>43864</StartMilliseconds>
+    <EndMilliseconds>44297</EndMilliseconds>
+    <Text>“我从来不知道你还会画画。”
+"Wǒ cónglái bù zhīdào nǐ hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>44298</StartMilliseconds>
+    <EndMilliseconds>44624</EndMilliseconds>
+    <Text>“我从来不知道[@你@]还会画画。”
+"Wǒ cónglái bù zhīdào [@nǐ@] hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>44625</StartMilliseconds>
+    <EndMilliseconds>44977</EndMilliseconds>
+    <Text>“我从来不知道你[@还@]会画画。”
+"Wǒ cónglái bù zhīdào nǐ [@hái@] huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>44978</StartMilliseconds>
+    <EndMilliseconds>45409</EndMilliseconds>
+    <Text>“我从来不知道你还[@会@]画画。”
+"Wǒ cónglái bù zhīdào nǐ hái [@huì@] huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>45410</StartMilliseconds>
+    <EndMilliseconds>45692</EndMilliseconds>
+    <Text>“我从来不知道你还会[@画@]画。”
+"Wǒ cónglái bù zhīdào nǐ hái huì [@huà@] huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>45693</StartMilliseconds>
+    <EndMilliseconds>46246</EndMilliseconds>
+    <Text>“我从来不知道你还会画[@画@]。”
+"Wǒ cónglái bù zhīdào nǐ hái huì huà [@huà@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>46247</StartMilliseconds>
+    <EndMilliseconds>47194</EndMilliseconds>
+    <Text>“我从来不知道你还会画画。”
+"Wǒ cónglái bù zhīdào nǐ hái huì huà huà." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>47195</StartMilliseconds>
+    <EndMilliseconds>47391</EndMilliseconds>
+    <Text>“哦，我喜欢画画儿。”小鸟说。
+"Ò, wǒ xǐhuan huà huàr." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>47392</StartMilliseconds>
+    <EndMilliseconds>47761</EndMilliseconds>
+    <Text>“[@哦@]，我喜欢画画儿。”小鸟说。
+"[@Ò@], wǒ xǐhuan huà huàr." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>47762</StartMilliseconds>
+    <EndMilliseconds>48154</EndMilliseconds>
+    <Text>“哦，我喜欢画画儿。”小鸟说。
+"Ò, wǒ xǐhuan huà huàr." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>48155</StartMilliseconds>
+    <EndMilliseconds>48409</EndMilliseconds>
+    <Text>“哦，[@我@]喜欢画画儿。”小鸟说。
+"Ò, [@wǒ@] xǐhuan huà huàr." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>48410</StartMilliseconds>
+    <EndMilliseconds>49086</EndMilliseconds>
+    <Text>“哦，我[@喜欢@]画画儿。”小鸟说。
+"Ò, wǒ [@xǐhuan@] huà huàr." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>49087</StartMilliseconds>
+    <EndMilliseconds>49410</EndMilliseconds>
+    <Text>“哦，我喜欢[@画@]画儿。”小鸟说。
+"Ò, wǒ xǐhuan [@huà@] huàr." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>49411</StartMilliseconds>
+    <EndMilliseconds>49841</EndMilliseconds>
+    <Text>“哦，我喜欢画[@画儿@]。”小鸟说。
+"Ò, wǒ xǐhuan huà [@huàr@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>49842</StartMilliseconds>
+    <EndMilliseconds>50275</EndMilliseconds>
+    <Text>“哦，我喜欢画画儿。”小鸟说。
+"Ò, wǒ xǐhuan huà huàr." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>50276</StartMilliseconds>
+    <EndMilliseconds>50944</EndMilliseconds>
+    <Text>“哦，我喜欢画画儿。”[@小鸟@]说。
+"Ò, wǒ xǐhuan huà huàr." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>50945</StartMilliseconds>
+    <EndMilliseconds>51397</EndMilliseconds>
+    <Text>“哦，我喜欢画画儿。”小鸟[@说@]。
+"Ò, wǒ xǐhuan huà huàr." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>51398</StartMilliseconds>
+    <EndMilliseconds>51994</EndMilliseconds>
+    <Text>“哦，我喜欢画画儿。”小鸟说。
+"Ò, wǒ xǐhuan huà huàr." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>51995</StartMilliseconds>
+    <EndMilliseconds>55748</EndMilliseconds>
+    <Text>“你真的很擅长画画。”基普说。
+"Nǐ zhēn de hěn shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>55749</StartMilliseconds>
+    <EndMilliseconds>56083</EndMilliseconds>
+    <Text>“[@你@]真的很擅长画画。”基普说。
+"[@Nǐ@] zhēn de hěn shàncháng huà huà." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>56084</StartMilliseconds>
+    <EndMilliseconds>56360</EndMilliseconds>
+    <Text>“你[@真@]的很擅长画画。”基普说。
+"Nǐ [@zhēn@] de hěn shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>56361</StartMilliseconds>
+    <EndMilliseconds>56689</EndMilliseconds>
+    <Text>“你真[@的@]很擅长画画。”基普说。
+"Nǐ zhēn [@de@] hěn shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>56690</StartMilliseconds>
+    <EndMilliseconds>56923</EndMilliseconds>
+    <Text>“你真的很擅长画画。”基普说。
+"Nǐ zhēn de hěn shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>56924</StartMilliseconds>
+    <EndMilliseconds>57274</EndMilliseconds>
+    <Text>“你真的[@很@]擅长画画。”基普说。
+"Nǐ zhēn de [@hěn@] shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>57275</StartMilliseconds>
+    <EndMilliseconds>58007</EndMilliseconds>
+    <Text>“你真的很[@擅长@]画画。”基普说。
+"Nǐ zhēn de hěn [@shàncháng@] huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>58008</StartMilliseconds>
+    <EndMilliseconds>58333</EndMilliseconds>
+    <Text>“你真的很擅长[@画@]画。”基普说。
+"Nǐ zhēn de hěn shàncháng [@huà@] huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>58334</StartMilliseconds>
+    <EndMilliseconds>58773</EndMilliseconds>
+    <Text>“你真的很擅长画[@画@]。”基普说。
+"Nǐ zhēn de hěn shàncháng huà [@huà@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>58774</StartMilliseconds>
+    <EndMilliseconds>59194</EndMilliseconds>
+    <Text>“你真的很擅长画画。”基普说。
+"Nǐ zhēn de hěn shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>59195</StartMilliseconds>
+    <EndMilliseconds>59753</EndMilliseconds>
+    <Text>“你真的很擅长画画。”[@基普@]说。
+"Nǐ zhēn de hěn shàncháng huà huà." [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>59754</StartMilliseconds>
+    <EndMilliseconds>60245</EndMilliseconds>
+    <Text>“你真的很擅长画画。”基普[@说@]。
+"Nǐ zhēn de hěn shàncháng huà huà." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>60246</StartMilliseconds>
+    <EndMilliseconds>64728</EndMilliseconds>
+    <Text>“你真的很擅长画画。”基普说。
+"Nǐ zhēn de hěn shàncháng huà huà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>64729</StartMilliseconds>
+    <EndMilliseconds>65308</EndMilliseconds>
+    <Text>“我希望我也能擅长做某件事。”
+"Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>65309</StartMilliseconds>
+    <EndMilliseconds>65689</EndMilliseconds>
+    <Text>“[@我@]希望我也能擅长做某件事。”
+"[@Wǒ@] xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>65690</StartMilliseconds>
+    <EndMilliseconds>66415</EndMilliseconds>
+    <Text>“我[@希望@]我也能擅长做某件事。”
+"Wǒ [@xīwàng@] wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>66416</StartMilliseconds>
+    <EndMilliseconds>66682</EndMilliseconds>
+    <Text>“我希望我也能擅长做某件事。”
+"Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>66683</StartMilliseconds>
+    <EndMilliseconds>66975</EndMilliseconds>
+    <Text>“我希望[@我@]也能擅长做某件事。”
+"Wǒ xīwàng [@wǒ@] yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>66976</StartMilliseconds>
+    <EndMilliseconds>67241</EndMilliseconds>
+    <Text>“我希望我[@也@]能擅长做某件事。”
+"Wǒ xīwàng wǒ [@yě@] néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>67242</StartMilliseconds>
+    <EndMilliseconds>67669</EndMilliseconds>
+    <Text>“我希望我也[@能@]擅长做某件事。”
+"Wǒ xīwàng wǒ yě [@néng@] shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>67670</StartMilliseconds>
+    <EndMilliseconds>68653</EndMilliseconds>
+    <Text>“我希望我也能[@擅长@]做某件事。”
+"Wǒ xīwàng wǒ yě néng [@shàncháng@] zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>68654</StartMilliseconds>
+    <EndMilliseconds>68981</EndMilliseconds>
+    <Text>“我希望我也能擅长[@做@]某件事。”
+"Wǒ xīwàng wǒ yě néng shàncháng [@zuò@] mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>68982</StartMilliseconds>
+    <EndMilliseconds>69266</EndMilliseconds>
+    <Text>“我希望我也能擅长做[@某@]件事。”
+"Wǒ xīwàng wǒ yě néng shàncháng zuò [@mǒu@] jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>69267</StartMilliseconds>
+    <EndMilliseconds>69612</EndMilliseconds>
+    <Text>“我希望我也能擅长做某[@件@]事。”
+"Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu [@jiàn@] shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>69613</StartMilliseconds>
+    <EndMilliseconds>70181</EndMilliseconds>
+    <Text>“我希望我也能擅长做某件[@事@]。”
+"Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn [@shì@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>70182</StartMilliseconds>
+    <EndMilliseconds>70814</EndMilliseconds>
+    <Text>“我希望我也能擅长做某件事。”
+"Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>70815</StartMilliseconds>
+    <EndMilliseconds>73569</EndMilliseconds>
+    <Text>“你也有擅长的事情啊。”小鸟说。
+"Nǐ yě yǒu shàncháng de shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>73570</StartMilliseconds>
+    <EndMilliseconds>73990</EndMilliseconds>
+    <Text>“[@你@]也有擅长的事情啊。”小鸟说。
+"[@Nǐ@] yě yǒu shàncháng de shìqing a." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>73991</StartMilliseconds>
+    <EndMilliseconds>74206</EndMilliseconds>
+    <Text>“你[@也@]有擅长的事情啊。”小鸟说。
+"Nǐ [@yě@] yǒu shàncháng de shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>74207</StartMilliseconds>
+    <EndMilliseconds>74731</EndMilliseconds>
+    <Text>“你也[@有@]擅长的事情啊。”小鸟说。
+"Nǐ yě [@yǒu@] shàncháng de shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>74732</StartMilliseconds>
+    <EndMilliseconds>75338</EndMilliseconds>
+    <Text>“你也有[@擅长@]的事情啊。”小鸟说。
+"Nǐ yě yǒu [@shàncháng@] de shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>75339</StartMilliseconds>
+    <EndMilliseconds>75538</EndMilliseconds>
+    <Text>“你也有擅长[@的@]事情啊。”小鸟说。
+"Nǐ yě yǒu shàncháng [@de@] shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>75539</StartMilliseconds>
+    <EndMilliseconds>75990</EndMilliseconds>
+    <Text>“你也有擅长的[@事情@]啊。”小鸟说。
+"Nǐ yě yǒu shàncháng de [@shìqing@] a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>75991</StartMilliseconds>
+    <EndMilliseconds>76494</EndMilliseconds>
+    <Text>“你也有擅长的事情[@啊@]。”小鸟说。
+"Nǐ yě yǒu shàncháng de shìqing [@a@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>76495</StartMilliseconds>
+    <EndMilliseconds>76709</EndMilliseconds>
+    <Text>“你也有擅长的事情啊。”小鸟说。
+"Nǐ yě yǒu shàncháng de shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>76710</StartMilliseconds>
+    <EndMilliseconds>77356</EndMilliseconds>
+    <Text>“你也有擅长的事情啊。”[@小鸟@]说。
+"Nǐ yě yǒu shàncháng de shìqing a." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>77357</StartMilliseconds>
+    <EndMilliseconds>77783</EndMilliseconds>
+    <Text>“你也有擅长的事情啊。”小鸟[@说@]。
+"Nǐ yě yǒu shàncháng de shìqing a." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>77784</StartMilliseconds>
+    <EndMilliseconds>78800</EndMilliseconds>
+    <Text>“你也有擅长的事情啊。”小鸟说。
+"Nǐ yě yǒu shàncháng de shìqing a." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>78801</StartMilliseconds>
+    <EndMilliseconds>79118</EndMilliseconds>
+    <Text>“你很擅长做饭。
+"Nǐ hěn shàncháng zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>79119</StartMilliseconds>
+    <EndMilliseconds>79428</EndMilliseconds>
+    <Text>“[@你@]很擅长做饭。
+"[@Nǐ@] hěn shàncháng zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>79429</StartMilliseconds>
+    <EndMilliseconds>79653</EndMilliseconds>
+    <Text>“你[@很@]擅长做饭。
+"Nǐ [@hěn@] shàncháng zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>79654</StartMilliseconds>
+    <EndMilliseconds>80443</EndMilliseconds>
+    <Text>“你很[@擅长@]做饭。
+"Nǐ hěn [@shàncháng@] zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>80444</StartMilliseconds>
+    <EndMilliseconds>80815</EndMilliseconds>
+    <Text>“你很擅长[@做@]饭。
+"Nǐ hěn shàncháng [@zuò@] fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>80816</StartMilliseconds>
+    <EndMilliseconds>81208</EndMilliseconds>
+    <Text>“你很擅长做[@饭@]。
+"Nǐ hěn shàncháng zuò [@fàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>81209</StartMilliseconds>
+    <EndMilliseconds>81731</EndMilliseconds>
+    <Text>“你很擅长做饭。
+"Nǐ hěn shàncháng zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>81732</StartMilliseconds>
+    <EndMilliseconds>82224</EndMilliseconds>
+    <Text>你煮了很好吃的橡子羹。”
+Nǐ zhǔ le hěn hǎochī de xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>82225</StartMilliseconds>
+    <EndMilliseconds>82461</EndMilliseconds>
+    <Text>[@你@]煮了很好吃的橡子羹。”
+[@Nǐ@] zhǔ le hěn hǎochī de xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>82462</StartMilliseconds>
+    <EndMilliseconds>82798</EndMilliseconds>
+    <Text>你[@煮@]了很好吃的橡子羹。”
+Nǐ [@zhǔ@] le hěn hǎochī de xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>82799</StartMilliseconds>
+    <EndMilliseconds>83207</EndMilliseconds>
+    <Text>你煮[@了@]很好吃的橡子羹。”
+Nǐ zhǔ [@le@] hěn hǎochī de xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>83208</StartMilliseconds>
+    <EndMilliseconds>83493</EndMilliseconds>
+    <Text>你煮了[@很@]好吃的橡子羹。”
+Nǐ zhǔ le [@hěn@] hǎochī de xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>83494</StartMilliseconds>
+    <EndMilliseconds>84006</EndMilliseconds>
+    <Text>你煮了很[@好吃@]的橡子羹。”
+Nǐ zhǔ le hěn [@hǎochī@] de xiàngzi gēng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>84007</StartMilliseconds>
+    <EndMilliseconds>84186</EndMilliseconds>
+    <Text>你煮了很好吃[@的@]橡子羹。”
+Nǐ zhǔ le hěn hǎochī [@de@] xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>84187</StartMilliseconds>
+    <EndMilliseconds>84697</EndMilliseconds>
+    <Text>你煮了很好吃的[@橡子@]羹。”
+Nǐ zhǔ le hěn hǎochī de [@xiàngzi@] gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>84698</StartMilliseconds>
+    <EndMilliseconds>85174</EndMilliseconds>
+    <Text>你煮了很好吃的橡子[@羹@]。”
+Nǐ zhǔ le hěn hǎochī de xiàngzi [@gēng@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>85175</StartMilliseconds>
+    <EndMilliseconds>85700</EndMilliseconds>
+    <Text>你煮了很好吃的橡子羹。”
+Nǐ zhǔ le hěn hǎochī de xiàngzi gēng." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>85701</StartMilliseconds>
+    <EndMilliseconds>87254</EndMilliseconds>
+    <Text>“但是闻起来怪怪的。”基普说。
+"Dànshì wén qǐlai guàiguài de." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>87255</StartMilliseconds>
+    <EndMilliseconds>88035</EndMilliseconds>
+    <Text>“[@但是@]闻起来怪怪的。”基普说。
+"[@Dànshì@] wén qǐlai guàiguài de." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>88036</StartMilliseconds>
+    <EndMilliseconds>88503</EndMilliseconds>
+    <Text>“但是闻起来怪怪的。”基普说。
+"Dànshì wén qǐlai guàiguài de." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>88504</StartMilliseconds>
+    <EndMilliseconds>88771</EndMilliseconds>
+    <Text>“但是[@闻@]起来怪怪的。”基普说。
+"Dànshì [@wén@] qǐlai guàiguài de." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>88772</StartMilliseconds>
+    <EndMilliseconds>89346</EndMilliseconds>
+    <Text>“但是闻[@起来@]怪怪的。”基普说。
+"Dànshì wén [@qǐlai@] guàiguài de." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>89347</StartMilliseconds>
+    <EndMilliseconds>90117</EndMilliseconds>
+    <Text>“但是闻起来[@怪怪@]的。”基普说。
+"Dànshì wén qǐlai [@guàiguài@] de." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>90118</StartMilliseconds>
+    <EndMilliseconds>90485</EndMilliseconds>
+    <Text>“但是闻起来怪怪[@的@]。”基普说。
+"Dànshì wén qǐlai guàiguài [@de@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>90486</StartMilliseconds>
+    <EndMilliseconds>90865</EndMilliseconds>
+    <Text>“但是闻起来怪怪的。”基普说。
+"Dànshì wén qǐlai guàiguài de." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>90866</StartMilliseconds>
+    <EndMilliseconds>91441</EndMilliseconds>
+    <Text>“但是闻起来怪怪的。”[@基普@]说。
+"Dànshì wén qǐlai guàiguài de." [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>91442</StartMilliseconds>
+    <EndMilliseconds>91991</EndMilliseconds>
+    <Text>“但是闻起来怪怪的。”基普[@说@]。
+"Dànshì wén qǐlai guàiguài de." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>91992</StartMilliseconds>
+    <EndMilliseconds>92920</EndMilliseconds>
+    <Text>“但是闻起来怪怪的。”基普说。
+"Dànshì wén qǐlai guàiguài de." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>92921</StartMilliseconds>
+    <EndMilliseconds>93562</EndMilliseconds>
+    <Text>“所以我还是不擅长于做饭。
+"Suǒyǐ wǒ háishi bú shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>93563</StartMilliseconds>
+    <EndMilliseconds>94336</EndMilliseconds>
+    <Text>“[@所以@]我还是不擅长于做饭。
+"[@Suǒyǐ@] wǒ háishi bú shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>94337</StartMilliseconds>
+    <EndMilliseconds>94691</EndMilliseconds>
+    <Text>“所以我还是不擅长于做饭。
+"Suǒyǐ wǒ háishi bú shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>94692</StartMilliseconds>
+    <EndMilliseconds>95000</EndMilliseconds>
+    <Text>“所以[@我@]还是不擅长于做饭。
+"Suǒyǐ [@wǒ@] háishi bú shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>95001</StartMilliseconds>
+    <EndMilliseconds>95894</EndMilliseconds>
+    <Text>“所以我[@还是@]不擅长于做饭。
+"Suǒyǐ wǒ [@háishi@] bú shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>95895</StartMilliseconds>
+    <EndMilliseconds>96085</EndMilliseconds>
+    <Text>“所以我还是[@不@]擅长于做饭。
+"Suǒyǐ wǒ háishi [@bú@] shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>96086</StartMilliseconds>
+    <EndMilliseconds>96915</EndMilliseconds>
+    <Text>“所以我还是不[@擅长于@]做饭。
+"Suǒyǐ wǒ háishi bú [@shànchángyú@] zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>96915</StartMilliseconds>
+    <EndMilliseconds>97240</EndMilliseconds>
+    <Text>“所以我还是不擅长于[@做@]饭。
+"Suǒyǐ wǒ háishi bú shànchángyú [@zuò@] fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>97241</StartMilliseconds>
+    <EndMilliseconds>97666</EndMilliseconds>
+    <Text>“所以我还是不擅长于做[@饭@]。
+"Suǒyǐ wǒ háishi bú shànchángyú zuò [@fàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>97667</StartMilliseconds>
+    <EndMilliseconds>98648</EndMilliseconds>
+    <Text>“所以我还是不擅长于做饭。
+"Suǒyǐ wǒ háishi bú shànchángyú zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>98649</StartMilliseconds>
+    <EndMilliseconds>99062</EndMilliseconds>
+    <Text>我希望我也能擅长做某件事。”
+Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>99063</StartMilliseconds>
+    <EndMilliseconds>99365</EndMilliseconds>
+    <Text>[@我@]希望我也能擅长做某件事。”
+[@Wǒ@] xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>99366</StartMilliseconds>
+    <EndMilliseconds>100025</EndMilliseconds>
+    <Text>我[@希望@]我也能擅长做某件事。”
+Wǒ [@xīwàng@] wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>100026</StartMilliseconds>
+    <EndMilliseconds>100339</EndMilliseconds>
+    <Text>我希望我也能擅长做某件事。”
+Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>100340</StartMilliseconds>
+    <EndMilliseconds>100584</EndMilliseconds>
+    <Text>我希望[@我@]也能擅长做某件事。”
+Wǒ xīwàng [@wǒ@] yě néng shàncháng zuò mǒu jiàn shì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>100585</StartMilliseconds>
+    <EndMilliseconds>100764</EndMilliseconds>
+    <Text>我希望我[@也@]能擅长做某件事。”
+Wǒ xīwàng wǒ [@yě@] néng shàncháng zuò mǒu jiàn shì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>100765</StartMilliseconds>
+    <EndMilliseconds>101147</EndMilliseconds>
+    <Text>我希望我也[@能@]擅长做某件事。”
+Wǒ xīwàng wǒ yě [@néng@] shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>101148</StartMilliseconds>
+    <EndMilliseconds>101962</EndMilliseconds>
+    <Text>我希望我也能[@擅长@]做某件事。”
+Wǒ xīwàng wǒ yě néng [@shàncháng@] zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>101963</StartMilliseconds>
+    <EndMilliseconds>102178</EndMilliseconds>
+    <Text>我希望我也能擅长[@做@]某件事。”
+Wǒ xīwàng wǒ yě néng shàncháng [@zuò@] mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>102179</StartMilliseconds>
+    <EndMilliseconds>102485</EndMilliseconds>
+    <Text>我希望我也能擅长做[@某@]件事。”
+Wǒ xīwàng wǒ yě néng shàncháng zuò [@mǒu@] jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>102486</StartMilliseconds>
+    <EndMilliseconds>102736</EndMilliseconds>
+    <Text>我希望我也能擅长做某[@件@]事。”
+Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu [@jiàn@] shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>102737</StartMilliseconds>
+    <EndMilliseconds>103216</EndMilliseconds>
+    <Text>我希望我也能擅长做某件[@事@]。”
+Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn [@shì@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>103217</StartMilliseconds>
+    <EndMilliseconds>103903</EndMilliseconds>
+    <Text>我希望我也能擅长做某件事。”
+Wǒ xīwàng wǒ yě néng shàncháng zuò mǒu jiàn shì." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>103904</StartMilliseconds>
+    <EndMilliseconds>104258</EndMilliseconds>
+    <Text>“你一定有擅长的事情。”小鸟说。
+"Nǐ yídìng yǒu shàncháng de shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>104259</StartMilliseconds>
+    <EndMilliseconds>104566</EndMilliseconds>
+    <Text>“[@你@]一定有擅长的事情。”小鸟说。
+"[@Nǐ@] yídìng yǒu shàncháng de shìqing." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>104567</StartMilliseconds>
+    <EndMilliseconds>105029</EndMilliseconds>
+    <Text>“你[@一定@]有擅长的事情。”小鸟说。
+"Nǐ [@yídìng@] yǒu shàncháng de shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>105030</StartMilliseconds>
+    <EndMilliseconds>105410</EndMilliseconds>
+    <Text>“你一定[@有@]擅长的事情。”小鸟说。
+"Nǐ yídìng [@yǒu@] shàncháng de shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>105411</StartMilliseconds>
+    <EndMilliseconds>106078</EndMilliseconds>
+    <Text>“你一定有[@擅长@]的事情。”小鸟说。
+"Nǐ yídìng yǒu [@shàncháng@] de shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>106079</StartMilliseconds>
+    <EndMilliseconds>106211</EndMilliseconds>
+    <Text>“你一定有擅长[@的@]事情。”小鸟说。
+"Nǐ yídìng yǒu shàncháng [@de@] shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>106212</StartMilliseconds>
+    <EndMilliseconds>106863</EndMilliseconds>
+    <Text>“你一定有擅长的[@事情@]。”小鸟说。
+"Nǐ yídìng yǒu shàncháng de [@shìqing@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>106864</StartMilliseconds>
+    <EndMilliseconds>107343</EndMilliseconds>
+    <Text>“你一定有擅长的事情。”小鸟说。
+"Nǐ yídìng yǒu shàncháng de shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>107344</StartMilliseconds>
+    <EndMilliseconds>107982</EndMilliseconds>
+    <Text>“你一定有擅长的事情。”[@小鸟@]说。
+"Nǐ yídìng yǒu shàncháng de shìqing." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>107983</StartMilliseconds>
+    <EndMilliseconds>108449</EndMilliseconds>
+    <Text>“你一定有擅长的事情。”小鸟[@说@]。
+"Nǐ yídìng yǒu shàncháng de shìqing." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>108450</StartMilliseconds>
+    <EndMilliseconds>115894</EndMilliseconds>
+    <Text>“你一定有擅长的事情。”小鸟说。
+"Nǐ yídìng yǒu shàncháng de shìqing." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>115895</StartMilliseconds>
+    <EndMilliseconds>116533</EndMilliseconds>
+    <Text>基普努力地想。
+Jīpǔ nǔlì de xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>116534</StartMilliseconds>
+    <EndMilliseconds>117268</EndMilliseconds>
+    <Text>[@基普@]努力地想。
+[@Jīpǔ@] nǔlì de xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>117269</StartMilliseconds>
+    <EndMilliseconds>117782</EndMilliseconds>
+    <Text>基普[@努力@]地想。
+Jīpǔ [@nǔlì@] de xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>117783</StartMilliseconds>
+    <EndMilliseconds>118038</EndMilliseconds>
+    <Text>基普努力[@地@]想。
+Jīpǔ nǔlì [@de@] xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>118039</StartMilliseconds>
+    <EndMilliseconds>118541</EndMilliseconds>
+    <Text>基普努力地[@想@]。
+Jīpǔ nǔlì de [@xiǎng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>118542</StartMilliseconds>
+    <EndMilliseconds>122042</EndMilliseconds>
+    <Text>基普努力地想。
+Jīpǔ nǔlì de xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>122043</StartMilliseconds>
+    <EndMilliseconds>123195</EndMilliseconds>
+    <Text>他想了又想。
+Tā xiǎng le yòu xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>123196</StartMilliseconds>
+    <EndMilliseconds>123664</EndMilliseconds>
+    <Text>[@他@]想了又想。
+[@Tā@] xiǎng le yòu xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>123665</StartMilliseconds>
+    <EndMilliseconds>124075</EndMilliseconds>
+    <Text>他[@想@]了又想。
+Tā [@xiǎng@] le yòu xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>124076</StartMilliseconds>
+    <EndMilliseconds>124429</EndMilliseconds>
+    <Text>他想[@了@]又想。
+Tā xiǎng [@le@] yòu xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>124430</StartMilliseconds>
+    <EndMilliseconds>124668</EndMilliseconds>
+    <Text>他想了[@又@]想。
+Tā xiǎng le [@yòu@] xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>124669</StartMilliseconds>
+    <EndMilliseconds>125142</EndMilliseconds>
+    <Text>他想了又[@想@]。
+Tā xiǎng le yòu [@xiǎng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>125143</StartMilliseconds>
+    <EndMilliseconds>129092</EndMilliseconds>
+    <Text>他想了又想。
+Tā xiǎng le yòu xiǎng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>129093</StartMilliseconds>
+    <EndMilliseconds>129551</EndMilliseconds>
+    <Text>终于他想到了一个主意。
+Zhōngyú tā xiǎngdào le yí ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>129552</StartMilliseconds>
+    <EndMilliseconds>130269</EndMilliseconds>
+    <Text>[@终于@]他想到了一个主意。
+[@Zhōngyú@] tā xiǎngdào le yí ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>130270</StartMilliseconds>
+    <EndMilliseconds>130616</EndMilliseconds>
+    <Text>终于他想到了一个主意。
+Zhōngyú tā xiǎngdào le yí ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>130617</StartMilliseconds>
+    <EndMilliseconds>130901</EndMilliseconds>
+    <Text>终于[@他@]想到了一个主意。
+Zhōngyú [@tā@] xiǎngdào le yí ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>130902</StartMilliseconds>
+    <EndMilliseconds>131376</EndMilliseconds>
+    <Text>终于他[@想到@]了一个主意。
+Zhōngyú tā [@xiǎngdào@] le yí ge zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>131377</StartMilliseconds>
+    <EndMilliseconds>131818</EndMilliseconds>
+    <Text>终于他想到[@了@]一个主意。
+Zhōngyú tā xiǎngdào [@le@] yí ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>131819</StartMilliseconds>
+    <EndMilliseconds>132058</EndMilliseconds>
+    <Text>终于他想到了[@一@]个主意。
+Zhōngyú tā xiǎngdào le [@yí@] ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>132059</StartMilliseconds>
+    <EndMilliseconds>132239</EndMilliseconds>
+    <Text>终于他想到了一[@个@]主意。
+Zhōngyú tā xiǎngdào le yí [@ge@] zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>132240</StartMilliseconds>
+    <EndMilliseconds>132873</EndMilliseconds>
+    <Text>终于他想到了一个[@主意@]。
+Zhōngyú tā xiǎngdào le yí ge [@zhǔyi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>132874</StartMilliseconds>
+    <EndMilliseconds>134067</EndMilliseconds>
+    <Text>终于他想到了一个主意。
+Zhōngyú tā xiǎngdào le yí ge zhǔyi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>134068</StartMilliseconds>
+    <EndMilliseconds>134406</EndMilliseconds>
+    <Text>“我知道了，小鸟！”基普说。
+"Wǒ zhīdào le, Xiǎoniǎo!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>134407</StartMilliseconds>
+    <EndMilliseconds>134671</EndMilliseconds>
+    <Text>“[@我@]知道了，小鸟！”基普说。
+"[@Wǒ@] zhīdào le, Xiǎoniǎo!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>134672</StartMilliseconds>
+    <EndMilliseconds>135172</EndMilliseconds>
+    <Text>“我[@知道@]了，小鸟！”基普说。
+"Wǒ [@zhīdào@] le, Xiǎoniǎo!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>135173</StartMilliseconds>
+    <EndMilliseconds>135582</EndMilliseconds>
+    <Text>“我知道[@了@]，小鸟！”基普说。
+"Wǒ zhīdào [@le@], Xiǎoniǎo!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>135583</StartMilliseconds>
+    <EndMilliseconds>135921</EndMilliseconds>
+    <Text>“我知道了，小鸟！”基普说。
+"Wǒ zhīdào le, Xiǎoniǎo!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>135922</StartMilliseconds>
+    <EndMilliseconds>136788</EndMilliseconds>
+    <Text>“我知道了，[@小鸟@]！”基普说。
+"Wǒ zhīdào le, [@Xiǎoniǎo@]!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>136789</StartMilliseconds>
+    <EndMilliseconds>137453</EndMilliseconds>
+    <Text>“我知道了，小鸟！”基普说。
+"Wǒ zhīdào le, Xiǎoniǎo!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>137454</StartMilliseconds>
+    <EndMilliseconds>137931</EndMilliseconds>
+    <Text>“我知道了，小鸟！”[@基普@]说。
+"Wǒ zhīdào le, Xiǎoniǎo!" [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>137932</StartMilliseconds>
+    <EndMilliseconds>138481</EndMilliseconds>
+    <Text>“我知道了，小鸟！”基普[@说@]。
+"Wǒ zhīdào le, Xiǎoniǎo!" Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>138482</StartMilliseconds>
+    <EndMilliseconds>139008</EndMilliseconds>
+    <Text>“我知道了，小鸟！”基普说。
+"Wǒ zhīdào le, Xiǎoniǎo!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>139009</StartMilliseconds>
+    <EndMilliseconds>139238</EndMilliseconds>
+    <Text>“你看！”
+"Nǐ kàn!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>139239</StartMilliseconds>
+    <EndMilliseconds>139525</EndMilliseconds>
+    <Text>“[@你@]看！”
+"[@Nǐ@] kàn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>139526</StartMilliseconds>
+    <EndMilliseconds>139985</EndMilliseconds>
+    <Text>“你[@看@]！”
+"Nǐ [@kàn@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>139986</StartMilliseconds>
+    <EndMilliseconds>146518</EndMilliseconds>
+    <Text>“你看！”
+"Nǐ kàn!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>146519</StartMilliseconds>
+    <EndMilliseconds>146848</EndMilliseconds>
+    <Text>“你在干什么？”小鸟问。
+"Nǐ zài gàn shénme?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>146849</StartMilliseconds>
+    <EndMilliseconds>147206</EndMilliseconds>
+    <Text>“[@你@]在干什么？”小鸟问。
+"[@Nǐ@] zài gàn shénme?" Xiǎoniǎo wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>147207</StartMilliseconds>
+    <EndMilliseconds>147519</EndMilliseconds>
+    <Text>“你[@在@]干什么？”小鸟问。
+"Nǐ [@zài@] gàn shénme?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>147520</StartMilliseconds>
+    <EndMilliseconds>147774</EndMilliseconds>
+    <Text>“你在[@干@]什么？”小鸟问。
+"Nǐ zài [@gàn@] shénme?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>147775</StartMilliseconds>
+    <EndMilliseconds>148514</EndMilliseconds>
+    <Text>“你在干[@什么@]？”小鸟问。
+"Nǐ zài gàn [@shénme@]?" Xiǎoniǎo wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>148515</StartMilliseconds>
+    <EndMilliseconds>149145</EndMilliseconds>
+    <Text>“你在干什么？”小鸟问。
+"Nǐ zài gàn shénme?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>149146</StartMilliseconds>
+    <EndMilliseconds>149852</EndMilliseconds>
+    <Text>“你在干什么？”[@小鸟@]问。
+"Nǐ zài gàn shénme?" [@Xiǎoniǎo@] wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>149853</StartMilliseconds>
+    <EndMilliseconds>150309</EndMilliseconds>
+    <Text>“你在干什么？”小鸟[@问@]。
+"Nǐ zài gàn shénme?" Xiǎoniǎo [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>150310</StartMilliseconds>
+    <EndMilliseconds>151086</EndMilliseconds>
+    <Text>“你在干什么？”小鸟问。
+"Nǐ zài gàn shénme?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>151087</StartMilliseconds>
+    <EndMilliseconds>151716</EndMilliseconds>
+    <Text>“我在倒立！”基普说。
+"Wǒ zài dàolì!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>151717</StartMilliseconds>
+    <EndMilliseconds>152108</EndMilliseconds>
+    <Text>“[@我@]在倒立！”基普说。
+"[@Wǒ@] zài dàolì!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>152109</StartMilliseconds>
+    <EndMilliseconds>152443</EndMilliseconds>
+    <Text>“我[@在@]倒立！”基普说。
+"Wǒ [@zài@] dàolì!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>152444</StartMilliseconds>
+    <EndMilliseconds>152719</EndMilliseconds>
+    <Text>“我在倒立！”基普说。
+"Wǒ zài dàolì!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>152720</StartMilliseconds>
+    <EndMilliseconds>153517</EndMilliseconds>
+    <Text>“我在[@倒立@]！”基普说。
+"Wǒ zài [@dàolì@]!" Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>153518</StartMilliseconds>
+    <EndMilliseconds>154240</EndMilliseconds>
+    <Text>“我在倒立！”基普说。
+"Wǒ zài dàolì!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>209</Number>
+    <StartMilliseconds>154241</StartMilliseconds>
+    <EndMilliseconds>154865</EndMilliseconds>
+    <Text>“我在倒立！”[@基普@]说。
+"Wǒ zài dàolì!" [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>210</Number>
+    <StartMilliseconds>154866</StartMilliseconds>
+    <EndMilliseconds>155356</EndMilliseconds>
+    <Text>“我在倒立！”基普[@说@]。
+"Wǒ zài dàolì!" Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>211</Number>
+    <StartMilliseconds>155357</StartMilliseconds>
+    <EndMilliseconds>155945</EndMilliseconds>
+    <Text>“我在倒立！”基普说。
+"Wǒ zài dàolì!" Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>212</Number>
+    <StartMilliseconds>155946</StartMilliseconds>
+    <EndMilliseconds>156221</EndMilliseconds>
+    <Text>“我以后会很擅长倒立的！”
+"Wǒ yǐhòu huì hěn shàncháng dàolì de!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>213</Number>
+    <StartMilliseconds>156222</StartMilliseconds>
+    <EndMilliseconds>156526</EndMilliseconds>
+    <Text>“[@我@]以后会很擅长倒立的！”
+"[@Wǒ@] yǐhòu huì hěn shàncháng dàolì de!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>214</Number>
+    <StartMilliseconds>156527</StartMilliseconds>
+    <EndMilliseconds>157356</EndMilliseconds>
+    <Text>“我[@以后@]会很擅长倒立的！”
+"Wǒ [@yǐhòu@] huì hěn shàncháng dàolì de!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>215</Number>
+    <StartMilliseconds>157357</StartMilliseconds>
+    <EndMilliseconds>157692</EndMilliseconds>
+    <Text>“我以后[@会@]很擅长倒立的！”
+"Wǒ yǐhòu [@huì@] hěn shàncháng dàolì de!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>216</Number>
+    <StartMilliseconds>157693</StartMilliseconds>
+    <EndMilliseconds>158024</EndMilliseconds>
+    <Text>“我以后会[@很@]擅长倒立的！”
+"Wǒ yǐhòu huì [@hěn@] shàncháng dàolì de!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>217</Number>
+    <StartMilliseconds>158025</StartMilliseconds>
+    <EndMilliseconds>158744</EndMilliseconds>
+    <Text>“我以后会很[@擅长@]倒立的！”
+"Wǒ yǐhòu huì hěn [@shàncháng@] dàolì de!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>218</Number>
+    <StartMilliseconds>158745</StartMilliseconds>
+    <EndMilliseconds>159230</EndMilliseconds>
+    <Text>“我以后会很擅长[@倒立@]的！”
+"Wǒ yǐhòu huì hěn shàncháng [@dàolì@] de!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>219</Number>
+    <StartMilliseconds>159231</StartMilliseconds>
+    <EndMilliseconds>159634</EndMilliseconds>
+    <Text>“我以后会很擅长倒立[@的@]！”
+"Wǒ yǐhòu huì hěn shàncháng dàolì [@de@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>220</Number>
+    <StartMilliseconds>159635</StartMilliseconds>
+    <EndMilliseconds>166003</EndMilliseconds>
+    <Text>“我以后会很擅长倒立的！”
+"Wǒ yǐhòu huì hěn shàncháng dàolì de!" </Text>
+  </Paragraph>
+</Subtitle>

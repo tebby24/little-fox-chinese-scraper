@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13822</StartMilliseconds>
+    <EndMilliseconds>25036</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn hěn dà de luòyè!
+浣熊：我找到了一片很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>25037</StartMilliseconds>
+    <EndMilliseconds>25410</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] zhǎodào le yí piàn hěn dà de luòyè!
+浣熊：[@我@]找到了一片很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>25411</StartMilliseconds>
+    <EndMilliseconds>25996</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@zhǎodào@] le yí piàn hěn dà de luòyè!
+浣熊：我[@找到@]了一片很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>25997</StartMilliseconds>
+    <EndMilliseconds>26183</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào [@le@] yí piàn hěn dà de luòyè!
+浣熊：我找到[@了@]一片很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>26184</StartMilliseconds>
+    <EndMilliseconds>26515</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le [@yí@] piàn hěn dà de luòyè!
+浣熊：我找到了[@一@]片很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>26516</StartMilliseconds>
+    <EndMilliseconds>27038</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí [@piàn@] hěn dà de luòyè!
+浣熊：我找到了一[@片@]很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>27039</StartMilliseconds>
+    <EndMilliseconds>27704</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn [@hěn@] dà de luòyè!
+浣熊：我找到了一片[@很@]大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>27705</StartMilliseconds>
+    <EndMilliseconds>28005</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn hěn [@dà@] de luòyè!
+浣熊：我找到了一片很[@大@]的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>28006</StartMilliseconds>
+    <EndMilliseconds>28250</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn hěn dà [@de@] luòyè!
+浣熊：我找到了一片很大[@的@]落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>28251</StartMilliseconds>
+    <EndMilliseconds>28960</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn hěn dà de [@luòyè@]!
+浣熊：我找到了一片很大的[@落叶@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>28961</StartMilliseconds>
+    <EndMilliseconds>50699</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn hěn dà de luòyè!
+浣熊：我找到了一片很大的落叶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>50700</StartMilliseconds>
+    <EndMilliseconds>50939</EndMilliseconds>
+    <Text>huànxióng: Āiyā!
+浣熊：哎呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>50940</StartMilliseconds>
+    <EndMilliseconds>52086</EndMilliseconds>
+    <Text>huànxióng: [@Āiyā@]!
+浣熊：[@哎呀@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>52087</StartMilliseconds>
+    <EndMilliseconds>52812</EndMilliseconds>
+    <Text>huànxióng: Āiyā!
+浣熊：哎呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>52813</StartMilliseconds>
+    <EndMilliseconds>67791</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu dào wǒ de yèzi le.
+浣熊：我找不到我的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>67792</StartMilliseconds>
+    <EndMilliseconds>68350</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] zhǎo bu dào wǒ de yèzi le.
+浣熊：[@我@]找不到我的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>68351</StartMilliseconds>
+    <EndMilliseconds>68811</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@zhǎo@] bu dào wǒ de yèzi le.
+浣熊：我[@找@]不到我的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>68812</StartMilliseconds>
+    <EndMilliseconds>69035</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo [@bu@] dào wǒ de yèzi le.
+浣熊：我找[@不@]到我的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>69036</StartMilliseconds>
+    <EndMilliseconds>69705</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu [@dào@] wǒ de yèzi le.
+浣熊：我找不[@到@]我的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>69706</StartMilliseconds>
+    <EndMilliseconds>70104</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu dào [@wǒ@] de yèzi le.
+浣熊：我找不到[@我@]的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>70105</StartMilliseconds>
+    <EndMilliseconds>70332</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu dào wǒ [@de@] yèzi le.
+浣熊：我找不到我[@的@]叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>70333</StartMilliseconds>
+    <EndMilliseconds>71074</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu dào wǒ de [@yèzi@] le.
+浣熊：我找不到我的[@叶子@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>71075</StartMilliseconds>
+    <EndMilliseconds>71664</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu dào wǒ de yèzi [@le@].
+浣熊：我找不到我的叶子[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>71665</StartMilliseconds>
+    <EndMilliseconds>72925</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎo bu dào wǒ de yèzi le.
+浣熊：我找不到我的叶子了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>72926</StartMilliseconds>
+    <EndMilliseconds>73103</EndMilliseconds>
+    <Text>huànxióng: Nǐmen kěyǐ bāng wǒ zhǎo ma?
+浣熊：你们可以帮我找吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>73104</StartMilliseconds>
+    <EndMilliseconds>73676</EndMilliseconds>
+    <Text>huànxióng: [@Nǐmen@] kěyǐ bāng wǒ zhǎo ma?
+浣熊：[@你们@]可以帮我找吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>73677</StartMilliseconds>
+    <EndMilliseconds>74687</EndMilliseconds>
+    <Text>huànxióng: Nǐmen [@kěyǐ@] bāng wǒ zhǎo ma?
+浣熊：你们[@可以@]帮我找吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>74688</StartMilliseconds>
+    <EndMilliseconds>75119</EndMilliseconds>
+    <Text>huànxióng: Nǐmen kěyǐ [@bāng@] wǒ zhǎo ma?
+浣熊：你们可以[@帮@]我找吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>75120</StartMilliseconds>
+    <EndMilliseconds>75447</EndMilliseconds>
+    <Text>huànxióng: Nǐmen kěyǐ bāng [@wǒ@] zhǎo ma?
+浣熊：你们可以帮[@我@]找吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>75448</StartMilliseconds>
+    <EndMilliseconds>75977</EndMilliseconds>
+    <Text>huànxióng: Nǐmen kěyǐ bāng wǒ [@zhǎo@] ma?
+浣熊：你们可以帮我[@找@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>75978</StartMilliseconds>
+    <EndMilliseconds>76450</EndMilliseconds>
+    <Text>huànxióng: Nǐmen kěyǐ bāng wǒ zhǎo [@ma@]?
+浣熊：你们可以帮我找[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>76451</StartMilliseconds>
+    <EndMilliseconds>85302</EndMilliseconds>
+    <Text>huànxióng: Nǐmen kěyǐ bāng wǒ zhǎo ma?
+浣熊：你们可以帮我找吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>85303</StartMilliseconds>
+    <EndMilliseconds>86002</EndMilliseconds>
+    <Text>tùzi: Wǒ lái bāng nǐ zhǎo yèzi.
+兔子：我来帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>86003</StartMilliseconds>
+    <EndMilliseconds>86385</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] lái bāng nǐ zhǎo yèzi.
+兔子：[@我@]来帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>86386</StartMilliseconds>
+    <EndMilliseconds>86888</EndMilliseconds>
+    <Text>tùzi: Wǒ [@lái@] bāng nǐ zhǎo yèzi.
+兔子：我[@来@]帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>86889</StartMilliseconds>
+    <EndMilliseconds>87157</EndMilliseconds>
+    <Text>tùzi: Wǒ lái [@bāng@] nǐ zhǎo yèzi.
+兔子：我来[@帮@]你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>87158</StartMilliseconds>
+    <EndMilliseconds>87534</EndMilliseconds>
+    <Text>tùzi: Wǒ lái bāng [@nǐ@] zhǎo yèzi.
+兔子：我来帮[@你@]找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>87535</StartMilliseconds>
+    <EndMilliseconds>87858</EndMilliseconds>
+    <Text>tùzi: Wǒ lái bāng nǐ [@zhǎo@] yèzi.
+兔子：我来帮你[@找@]叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>87859</StartMilliseconds>
+    <EndMilliseconds>88773</EndMilliseconds>
+    <Text>tùzi: Wǒ lái bāng nǐ zhǎo [@yèzi@].
+兔子：我来帮你找[@叶子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>88774</StartMilliseconds>
+    <EndMilliseconds>91620</EndMilliseconds>
+    <Text>tùzi: Wǒ lái bāng nǐ zhǎo yèzi.
+兔子：我来帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>91621</StartMilliseconds>
+    <EndMilliseconds>91955</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ lái bāng nǐ zhǎo yèzi.
+猫头鹰：我来帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>91956</StartMilliseconds>
+    <EndMilliseconds>92222</EndMilliseconds>
+    <Text>māotóuyīng: [@Wǒ@] lái bāng nǐ zhǎo yèzi.
+猫头鹰：[@我@]来帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>92223</StartMilliseconds>
+    <EndMilliseconds>92535</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ [@lái@] bāng nǐ zhǎo yèzi.
+猫头鹰：我[@来@]帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>92536</StartMilliseconds>
+    <EndMilliseconds>92742</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ lái [@bāng@] nǐ zhǎo yèzi.
+猫头鹰：我来[@帮@]你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>92743</StartMilliseconds>
+    <EndMilliseconds>93239</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ lái bāng [@nǐ@] zhǎo yèzi.
+猫头鹰：我来帮[@你@]找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>93240</StartMilliseconds>
+    <EndMilliseconds>93563</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ lái bāng nǐ [@zhǎo@] yèzi.
+猫头鹰：我来帮你[@找@]叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>93564</StartMilliseconds>
+    <EndMilliseconds>94460</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ lái bāng nǐ zhǎo [@yèzi@].
+猫头鹰：我来帮你找[@叶子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>94461</StartMilliseconds>
+    <EndMilliseconds>97685</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ lái bāng nǐ zhǎo yèzi.
+猫头鹰：我来帮你找叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>97686</StartMilliseconds>
+    <EndMilliseconds>146877</EndMilliseconds>
+    <Text>tùzi: Wǒ zhǎodào le yì gēn shùzhī.
+兔子：我找到了一根树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>146878</StartMilliseconds>
+    <EndMilliseconds>147265</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] zhǎodào le yì gēn shùzhī.
+兔子：[@我@]找到了一根树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>147266</StartMilliseconds>
+    <EndMilliseconds>148093</EndMilliseconds>
+    <Text>tùzi: Wǒ [@zhǎodào@] le yì gēn shùzhī.
+兔子：我[@找到@]了一根树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>148094</StartMilliseconds>
+    <EndMilliseconds>148574</EndMilliseconds>
+    <Text>tùzi: Wǒ zhǎodào [@le@] yì gēn shùzhī.
+兔子：我找到[@了@]一根树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>148575</StartMilliseconds>
+    <EndMilliseconds>148845</EndMilliseconds>
+    <Text>tùzi: Wǒ zhǎodào le [@yì@] gēn shùzhī.
+兔子：我找到了[@一@]根树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>148846</StartMilliseconds>
+    <EndMilliseconds>149196</EndMilliseconds>
+    <Text>tùzi: Wǒ zhǎodào le yì [@gēn@] shùzhī.
+兔子：我找到了一[@根@]树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>149197</StartMilliseconds>
+    <EndMilliseconds>150210</EndMilliseconds>
+    <Text>tùzi: Wǒ zhǎodào le yì gēn [@shùzhī@].
+兔子：我找到了一根[@树枝@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>150211</StartMilliseconds>
+    <EndMilliseconds>151642</EndMilliseconds>
+    <Text>tùzi: Wǒ zhǎodào le yì gēn shùzhī.
+兔子：我找到了一根树枝。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>151643</StartMilliseconds>
+    <EndMilliseconds>151846</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zhǎodào le yí kuài shítou.
+猫头鹰：我找到了一块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>151847</StartMilliseconds>
+    <EndMilliseconds>152324</EndMilliseconds>
+    <Text>māotóuyīng: [@Wǒ@] zhǎodào le yí kuài shítou.
+猫头鹰：[@我@]找到了一块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>152325</StartMilliseconds>
+    <EndMilliseconds>152960</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ [@zhǎodào@] le yí kuài shítou.
+猫头鹰：我[@找到@]了一块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>152961</StartMilliseconds>
+    <EndMilliseconds>153366</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zhǎodào [@le@] yí kuài shítou.
+猫头鹰：我找到[@了@]一块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>153367</StartMilliseconds>
+    <EndMilliseconds>153661</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zhǎodào le [@yí@] kuài shítou.
+猫头鹰：我找到了[@一@]块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>153662</StartMilliseconds>
+    <EndMilliseconds>154024</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zhǎodào le yí [@kuài@] shítou.
+猫头鹰：我找到了一[@块@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>154025</StartMilliseconds>
+    <EndMilliseconds>154918</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zhǎodào le yí kuài [@shítou@].
+猫头鹰：我找到了一块[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>154919</StartMilliseconds>
+    <EndMilliseconds>160607</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zhǎodào le yí kuài shítou.
+猫头鹰：我找到了一块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>160608</StartMilliseconds>
+    <EndMilliseconds>161128</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen méiyǒu zhǎodào nǐ de yèzi.
+兔子和猫头鹰：我们没有找到你的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>161129</StartMilliseconds>
+    <EndMilliseconds>162184</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: [@Wǒmen@] méiyǒu zhǎodào nǐ de yèzi.
+兔子和猫头鹰：[@我们@]没有找到你的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>162185</StartMilliseconds>
+    <EndMilliseconds>162752</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen [@méiyǒu@] zhǎodào nǐ de yèzi.
+兔子和猫头鹰：我们[@没有@]找到你的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>162753</StartMilliseconds>
+    <EndMilliseconds>163514</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen méiyǒu [@zhǎodào@] nǐ de yèzi.
+兔子和猫头鹰：我们没有[@找到@]你的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>163515</StartMilliseconds>
+    <EndMilliseconds>163797</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen méiyǒu zhǎodào [@nǐ@] de yèzi.
+兔子和猫头鹰：我们没有找到[@你@]的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>163798</StartMilliseconds>
+    <EndMilliseconds>164004</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen méiyǒu zhǎodào nǐ [@de@] yèzi.
+兔子和猫头鹰：我们没有找到你[@的@]叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>164005</StartMilliseconds>
+    <EndMilliseconds>164794</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen méiyǒu zhǎodào nǐ de [@yèzi@].
+兔子和猫头鹰：我们没有找到你的[@叶子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>164795</StartMilliseconds>
+    <EndMilliseconds>167212</EndMilliseconds>
+    <Text>tùzi hé māotóuyīng: Wǒmen méiyǒu zhǎodào nǐ de yèzi.
+兔子和猫头鹰：我们没有找到你的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>167213</StartMilliseconds>
+    <EndMilliseconds>167638</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le!
+浣熊：我找到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>167639</StartMilliseconds>
+    <EndMilliseconds>168190</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] zhǎodào le!
+浣熊：[@我@]找到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>168191</StartMilliseconds>
+    <EndMilliseconds>168908</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@zhǎodào@] le!
+浣熊：我[@找到@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>168909</StartMilliseconds>
+    <EndMilliseconds>169521</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào [@le@]!
+浣熊：我找到[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>169522</StartMilliseconds>
+    <EndMilliseconds>169987</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le!
+浣熊：我找到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>169988</StartMilliseconds>
+    <EndMilliseconds>170245</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào nǐ de yèzi le ma?
+猫头鹰：你找到你的叶子了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>170246</StartMilliseconds>
+    <EndMilliseconds>170680</EndMilliseconds>
+    <Text>māotóuyīng: [@Nǐ@] zhǎodào nǐ de yèzi le ma?
+猫头鹰：[@你@]找到你的叶子了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>170681</StartMilliseconds>
+    <EndMilliseconds>171652</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ [@zhǎodào@] nǐ de yèzi le ma?
+猫头鹰：你[@找到@]你的叶子了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>171653</StartMilliseconds>
+    <EndMilliseconds>171896</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào [@nǐ@] de yèzi le ma?
+猫头鹰：你找到[@你@]的叶子了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>171897</StartMilliseconds>
+    <EndMilliseconds>172046</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào nǐ [@de@] yèzi le ma?
+猫头鹰：你找到你[@的@]叶子了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>172047</StartMilliseconds>
+    <EndMilliseconds>172597</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào nǐ de [@yèzi@] le ma?
+猫头鹰：你找到你的[@叶子@]了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>172598</StartMilliseconds>
+    <EndMilliseconds>172885</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào nǐ de yèzi [@le@] ma?
+猫头鹰：你找到你的叶子[@了@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>172886</StartMilliseconds>
+    <EndMilliseconds>173295</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào nǐ de yèzi le [@ma@]?
+猫头鹰：你找到你的叶子了[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>173296</StartMilliseconds>
+    <EndMilliseconds>174007</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ zhǎodào nǐ de yèzi le ma?
+猫头鹰：你找到你的叶子了吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>174008</StartMilliseconds>
+    <EndMilliseconds>174138</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ méiyǒu zhǎodào wǒ de yèzi.
+浣熊：不，我没有找到我的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>174139</StartMilliseconds>
+    <EndMilliseconds>175127</EndMilliseconds>
+    <Text>huànxióng: [@Bù@], wǒ méiyǒu zhǎodào wǒ de yèzi.
+浣熊：[@不@]，我没有找到我的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>175128</StartMilliseconds>
+    <EndMilliseconds>175506</EndMilliseconds>
+    <Text>huànxióng: Bù, [@wǒ@] méiyǒu zhǎodào wǒ de yèzi.
+浣熊：不，[@我@]没有找到我的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>175507</StartMilliseconds>
+    <EndMilliseconds>176255</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ [@méiyǒu@] zhǎodào wǒ de yèzi.
+浣熊：不，我[@没有@]找到我的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>176256</StartMilliseconds>
+    <EndMilliseconds>177031</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ méiyǒu [@zhǎodào@] wǒ de yèzi.
+浣熊：不，我没有[@找到@]我的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>177032</StartMilliseconds>
+    <EndMilliseconds>177430</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ méiyǒu zhǎodào [@wǒ@] de yèzi.
+浣熊：不，我没有找到[@我@]的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>177431</StartMilliseconds>
+    <EndMilliseconds>177713</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ méiyǒu zhǎodào wǒ [@de@] yèzi.
+浣熊：不，我没有找到我[@的@]叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>177714</StartMilliseconds>
+    <EndMilliseconds>178527</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ méiyǒu zhǎodào wǒ de [@yèzi@].
+浣熊：不，我没有找到我的[@叶子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>178528</StartMilliseconds>
+    <EndMilliseconds>179193</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ méiyǒu zhǎodào wǒ de yèzi.
+浣熊：不，我没有找到我的叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>179194</StartMilliseconds>
+    <EndMilliseconds>179318</EndMilliseconds>
+    <Text>tùzi: Nà nǐ zhǎodào le shénme?
+兔子：那你找到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>179319</StartMilliseconds>
+    <EndMilliseconds>179630</EndMilliseconds>
+    <Text>tùzi: [@Nà@] nǐ zhǎodào le shénme?
+兔子：[@那@]你找到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>179631</StartMilliseconds>
+    <EndMilliseconds>180172</EndMilliseconds>
+    <Text>tùzi: Nà [@nǐ@] zhǎodào le shénme?
+兔子：那[@你@]找到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>180173</StartMilliseconds>
+    <EndMilliseconds>180753</EndMilliseconds>
+    <Text>tùzi: Nà nǐ [@zhǎodào@] le shénme?
+兔子：那你[@找到@]了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>180754</StartMilliseconds>
+    <EndMilliseconds>180936</EndMilliseconds>
+    <Text>tùzi: Nà nǐ zhǎodào [@le@] shénme?
+兔子：那你找到[@了@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>180937</StartMilliseconds>
+    <EndMilliseconds>181847</EndMilliseconds>
+    <Text>tùzi: Nà nǐ zhǎodào le [@shénme@]?
+兔子：那你找到了[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>181848</StartMilliseconds>
+    <EndMilliseconds>182412</EndMilliseconds>
+    <Text>tùzi: Nà nǐ zhǎodào le shénme?
+兔子：那你找到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>182413</StartMilliseconds>
+    <EndMilliseconds>182700</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn xīn yèzi!
+浣熊：我找到了一片新叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>182701</StartMilliseconds>
+    <EndMilliseconds>183025</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] zhǎodào le yí piàn xīn yèzi!
+浣熊：[@我@]找到了一片新叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>183026</StartMilliseconds>
+    <EndMilliseconds>183632</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@zhǎodào@] le yí piàn xīn yèzi!
+浣熊：我[@找到@]了一片新叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>183633</StartMilliseconds>
+    <EndMilliseconds>184310</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào [@le@] yí piàn xīn yèzi!
+浣熊：我找到[@了@]一片新叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>184311</StartMilliseconds>
+    <EndMilliseconds>184563</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le [@yí@] piàn xīn yèzi!
+浣熊：我找到了[@一@]片新叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>184564</StartMilliseconds>
+    <EndMilliseconds>184948</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí [@piàn@] xīn yèzi!
+浣熊：我找到了一[@片@]新叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>184949</StartMilliseconds>
+    <EndMilliseconds>185563</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn [@xīn@] yèzi!
+浣熊：我找到了一片[@新@]叶子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>185564</StartMilliseconds>
+    <EndMilliseconds>186546</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn xīn [@yèzi@]!
+浣熊：我找到了一片新[@叶子@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>186534</StartMilliseconds>
+    <EndMilliseconds>192190</EndMilliseconds>
+    <Text>huànxióng: Wǒ zhǎodào le yí piàn xīn yèzi!
+浣熊：我找到了一片新叶子！</Text>
+  </Paragraph>
+</Subtitle>

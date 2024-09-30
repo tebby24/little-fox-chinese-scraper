@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10081</StartMilliseconds>
+    <EndMilliseconds>20185</EndMilliseconds>
+    <Text>我和妈妈一起去购物。
+Wǒ hé māma yìqǐ qù gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>20185</StartMilliseconds>
+    <EndMilliseconds>20536</EndMilliseconds>
+    <Text>[@我@]和妈妈一起去购物。
+[@Wǒ@] hé māma yìqǐ qù gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>20536</StartMilliseconds>
+    <EndMilliseconds>20763</EndMilliseconds>
+    <Text>我[@和@]妈妈一起去购物。
+Wǒ [@hé@] māma yìqǐ qù gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>20763</StartMilliseconds>
+    <EndMilliseconds>21524</EndMilliseconds>
+    <Text>我和[@妈妈@]一起去购物。
+Wǒ hé [@māma@] yìqǐ qù gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>21524</StartMilliseconds>
+    <EndMilliseconds>22289</EndMilliseconds>
+    <Text>我和妈妈[@一起@]去购物。
+Wǒ hé māma [@yìqǐ@] qù gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>22289</StartMilliseconds>
+    <EndMilliseconds>22659</EndMilliseconds>
+    <Text>我和妈妈一起[@去@]购物。
+Wǒ hé māma yìqǐ [@qù@] gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>22659</StartMilliseconds>
+    <EndMilliseconds>24401</EndMilliseconds>
+    <Text>我和妈妈一起去[@购物@]。
+Wǒ hé māma yìqǐ qù [@gòuwù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>24401</StartMilliseconds>
+    <EndMilliseconds>36256</EndMilliseconds>
+    <Text>我和妈妈一起去购物。
+Wǒ hé māma yìqǐ qù gòuwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>36256</StartMilliseconds>
+    <EndMilliseconds>36783</EndMilliseconds>
+    <Text>橙汁装在瓶子里。
+Chéngzhī zhuāngzài píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>36783</StartMilliseconds>
+    <EndMilliseconds>37575</EndMilliseconds>
+    <Text>[@橙汁@]装在瓶子里。
+[@Chéngzhī@] zhuāngzài píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>37575</StartMilliseconds>
+    <EndMilliseconds>38290</EndMilliseconds>
+    <Text>橙汁[@装在@]瓶子里。
+Chéngzhī [@zhuāngzài@] píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>38290</StartMilliseconds>
+    <EndMilliseconds>38946</EndMilliseconds>
+    <Text>橙汁装在[@瓶子@]里。
+Chéngzhī zhuāngzài [@píngzi@] lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>38946</StartMilliseconds>
+    <EndMilliseconds>39949</EndMilliseconds>
+    <Text>橙汁装在瓶子[@里@]。
+Chéngzhī zhuāngzài píngzi [@lǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>39949</StartMilliseconds>
+    <EndMilliseconds>52506</EndMilliseconds>
+    <Text>橙汁装在瓶子里。
+Chéngzhī zhuāngzài píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>52506</StartMilliseconds>
+    <EndMilliseconds>53043</EndMilliseconds>
+    <Text>牛奶装在牛奶盒里。
+Niúnǎi zhuāngzài niúnǎi hé li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>53043</StartMilliseconds>
+    <EndMilliseconds>53698</EndMilliseconds>
+    <Text>[@牛奶@]装在牛奶盒里。
+[@Niúnǎi@] zhuāngzài niúnǎi hé li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>53698</StartMilliseconds>
+    <EndMilliseconds>54520</EndMilliseconds>
+    <Text>牛奶[@装在@]牛奶盒里。
+Niúnǎi [@zhuāngzài@] niúnǎi hé li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>54520</StartMilliseconds>
+    <EndMilliseconds>55093</EndMilliseconds>
+    <Text>牛奶装在[@牛奶@]盒里。
+Niúnǎi zhuāngzài [@niúnǎi@] hé li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>55093</StartMilliseconds>
+    <EndMilliseconds>55572</EndMilliseconds>
+    <Text>牛奶装在牛奶[@盒@]里。
+Niúnǎi zhuāngzài niúnǎi [@hé@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>55572</StartMilliseconds>
+    <EndMilliseconds>56391</EndMilliseconds>
+    <Text>牛奶装在牛奶盒[@里@]。
+Niúnǎi zhuāngzài niúnǎi hé [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>56391</StartMilliseconds>
+    <EndMilliseconds>69816</EndMilliseconds>
+    <Text>牛奶装在牛奶盒里。
+Niúnǎi zhuāngzài niúnǎi hé li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>69816</StartMilliseconds>
+    <EndMilliseconds>70507</EndMilliseconds>
+    <Text>麦片装在盒子里。
+Màipiàn zhuāngzài hézi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>70507</StartMilliseconds>
+    <EndMilliseconds>71299</EndMilliseconds>
+    <Text>[@麦片@]装在盒子里。
+[@Màipiàn@] zhuāngzài hézi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>71299</StartMilliseconds>
+    <EndMilliseconds>72030</EndMilliseconds>
+    <Text>麦片[@装在@]盒子里。
+Màipiàn [@zhuāngzài@] hézi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>72030</StartMilliseconds>
+    <EndMilliseconds>72664</EndMilliseconds>
+    <Text>麦片装在[@盒子@]里。
+Màipiàn zhuāngzài [@hézi@] lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>72664</StartMilliseconds>
+    <EndMilliseconds>73848</EndMilliseconds>
+    <Text>麦片装在盒子[@里@]。
+Màipiàn zhuāngzài hézi [@lǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>73848</StartMilliseconds>
+    <EndMilliseconds>93900</EndMilliseconds>
+    <Text>麦片装在盒子里。
+Màipiàn zhuāngzài hézi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>93900</StartMilliseconds>
+    <EndMilliseconds>94590</EndMilliseconds>
+    <Text>果酱装在瓶子里。
+Guǒjiàng zhuāngzài píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>94590</StartMilliseconds>
+    <EndMilliseconds>95297</EndMilliseconds>
+    <Text>[@果酱@]装在瓶子里。
+[@Guǒjiàng@] zhuāngzài píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>95297</StartMilliseconds>
+    <EndMilliseconds>96004</EndMilliseconds>
+    <Text>果酱[@装在@]瓶子里。
+Guǒjiàng [@zhuāngzài@] píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>96004</StartMilliseconds>
+    <EndMilliseconds>96643</EndMilliseconds>
+    <Text>果酱装在[@瓶子@]里。
+Guǒjiàng zhuāngzài [@píngzi@] lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>96643</StartMilliseconds>
+    <EndMilliseconds>97623</EndMilliseconds>
+    <Text>果酱装在瓶子[@里@]。
+Guǒjiàng zhuāngzài píngzi [@lǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>97623</StartMilliseconds>
+    <EndMilliseconds>104159</EndMilliseconds>
+    <Text>果酱装在瓶子里。
+Guǒjiàng zhuāngzài píngzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>104159</StartMilliseconds>
+    <EndMilliseconds>104804</EndMilliseconds>
+    <Text>金枪鱼装在罐子里。
+Jīnqiāngyú zhuāngzài guànzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>104804</StartMilliseconds>
+    <EndMilliseconds>106034</EndMilliseconds>
+    <Text>[@金枪鱼@]装在罐子里。
+[@Jīnqiāngyú@] zhuāngzài guànzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>106034</StartMilliseconds>
+    <EndMilliseconds>106733</EndMilliseconds>
+    <Text>金枪鱼[@装在@]罐子里。
+Jīnqiāngyú [@zhuāngzài@] guànzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>106733</StartMilliseconds>
+    <EndMilliseconds>107274</EndMilliseconds>
+    <Text>金枪鱼装在[@罐子@]里。
+Jīnqiāngyú zhuāngzài [@guànzi@] lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>107274</StartMilliseconds>
+    <EndMilliseconds>108036</EndMilliseconds>
+    <Text>金枪鱼装在罐子[@里@]。
+Jīnqiāngyú zhuāngzài guànzi [@lǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>108036</StartMilliseconds>
+    <EndMilliseconds>119127</EndMilliseconds>
+    <Text>金枪鱼装在罐子里。
+Jīnqiāngyú zhuāngzài guànzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>119127</StartMilliseconds>
+    <EndMilliseconds>120397</EndMilliseconds>
+    <Text>洋葱装在袋子里。
+Yángcōng zhuāngzài dàizi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>120397</StartMilliseconds>
+    <EndMilliseconds>121214</EndMilliseconds>
+    <Text>[@洋葱@]装在袋子里。
+[@Yángcōng@] zhuāngzài dàizi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>121214</StartMilliseconds>
+    <EndMilliseconds>121925</EndMilliseconds>
+    <Text>洋葱[@装在@]袋子里。
+Yángcōng [@zhuāngzài@] dàizi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>121925</StartMilliseconds>
+    <EndMilliseconds>122429</EndMilliseconds>
+    <Text>洋葱装在[@袋子@]里。
+Yángcōng zhuāngzài [@dàizi@] lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>122429</StartMilliseconds>
+    <EndMilliseconds>123565</EndMilliseconds>
+    <Text>洋葱装在袋子[@里@]。
+Yángcōng zhuāngzài dàizi [@lǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>123565</StartMilliseconds>
+    <EndMilliseconds>135162</EndMilliseconds>
+    <Text>洋葱装在袋子里。
+Yángcōng zhuāngzài dàizi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>135162</StartMilliseconds>
+    <EndMilliseconds>135751</EndMilliseconds>
+    <Text>水果装在篮子里。
+Shuǐguǒ zhuāngzài lánzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>135751</StartMilliseconds>
+    <EndMilliseconds>136661</EndMilliseconds>
+    <Text>[@水果@]装在篮子里。
+[@Shuǐguǒ@] zhuāngzài lánzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>136661</StartMilliseconds>
+    <EndMilliseconds>137495</EndMilliseconds>
+    <Text>水果[@装在@]篮子里。
+Shuǐguǒ [@zhuāngzài@] lánzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>137495</StartMilliseconds>
+    <EndMilliseconds>138167</EndMilliseconds>
+    <Text>水果装在[@篮子@]里。
+Shuǐguǒ zhuāngzài [@lánzi@] lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>138167</StartMilliseconds>
+    <EndMilliseconds>139329</EndMilliseconds>
+    <Text>水果装在篮子[@里@]。
+Shuǐguǒ zhuāngzài lánzi [@lǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>139329</StartMilliseconds>
+    <EndMilliseconds>156154</EndMilliseconds>
+    <Text>水果装在篮子里。
+Shuǐguǒ zhuāngzài lánzi lǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>156154</StartMilliseconds>
+    <EndMilliseconds>156790</EndMilliseconds>
+    <Text>冰淇淋装在蛋筒里。
+Bīngqílín zhuāngzài dàntǒng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>156790</StartMilliseconds>
+    <EndMilliseconds>157950</EndMilliseconds>
+    <Text>[@冰淇淋@]装在蛋筒里。
+[@Bīngqílín@] zhuāngzài dàntǒng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>157950</StartMilliseconds>
+    <EndMilliseconds>158736</EndMilliseconds>
+    <Text>冰淇淋[@装在@]蛋筒里。
+Bīngqílín [@zhuāngzài@] dàntǒng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>158736</StartMilliseconds>
+    <EndMilliseconds>159541</EndMilliseconds>
+    <Text>冰淇淋装在[@蛋筒@]里。
+Bīngqílín zhuāngzài [@dàntǒng@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>159541</StartMilliseconds>
+    <EndMilliseconds>160280</EndMilliseconds>
+    <Text>冰淇淋装在蛋筒[@里@]。
+Bīngqílín zhuāngzài dàntǒng [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>160280</StartMilliseconds>
+    <EndMilliseconds>167169</EndMilliseconds>
+    <Text>冰淇淋装在蛋筒里。
+Bīngqílín zhuāngzài dàntǒng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>167169</StartMilliseconds>
+    <EndMilliseconds>167700</EndMilliseconds>
+    <Text>真好吃！
+Zhēn hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>167700</StartMilliseconds>
+    <EndMilliseconds>168036</EndMilliseconds>
+    <Text>[@真@]好吃！
+[@Zhēn@] hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>168036</StartMilliseconds>
+    <EndMilliseconds>169223</EndMilliseconds>
+    <Text>真[@好吃@]！
+Zhēn [@hǎochī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>169223</StartMilliseconds>
+    <EndMilliseconds>173150</EndMilliseconds>
+    <Text>真好吃！
+Zhēn hǎochī!</Text>
+  </Paragraph>
+</Subtitle>

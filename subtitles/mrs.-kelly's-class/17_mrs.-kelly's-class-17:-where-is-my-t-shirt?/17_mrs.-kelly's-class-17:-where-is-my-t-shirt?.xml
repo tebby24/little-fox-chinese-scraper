@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12011</StartMilliseconds>
+    <EndMilliseconds>14410</EndMilliseconds>
+    <Text>māma: Shālì, nǐ de wàzi!
+妈妈：莎莉，你的袜子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14411</StartMilliseconds>
+    <EndMilliseconds>15984</EndMilliseconds>
+    <Text>māma: [@Shālì@], nǐ de wàzi!
+妈妈：[@莎莉@]，你的袜子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15985</StartMilliseconds>
+    <EndMilliseconds>16428</EndMilliseconds>
+    <Text>māma: Shālì, [@nǐ@] de wàzi!
+妈妈：莎莉，[@你@]的袜子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>16429</StartMilliseconds>
+    <EndMilliseconds>16626</EndMilliseconds>
+    <Text>māma: Shālì, nǐ [@de@] wàzi!
+妈妈：莎莉，你[@的@]袜子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16627</StartMilliseconds>
+    <EndMilliseconds>17803</EndMilliseconds>
+    <Text>māma: Shālì, nǐ de [@wàzi@]!
+妈妈：莎莉，你的[@袜子@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>17804</StartMilliseconds>
+    <EndMilliseconds>20032</EndMilliseconds>
+    <Text>māma: Shālì, nǐ de wàzi!
+妈妈：莎莉，你的袜子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>20033</StartMilliseconds>
+    <EndMilliseconds>22711</EndMilliseconds>
+    <Text>Shālì: Wǒ de qúnzi zài nǎli?
+莎莉：我的裙子在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>22712</StartMilliseconds>
+    <EndMilliseconds>23391</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] de qúnzi zài nǎli?
+莎莉：[@我@]的裙子在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23392</StartMilliseconds>
+    <EndMilliseconds>23982</EndMilliseconds>
+    <Text>Shālì: Wǒ [@de@] qúnzi zài nǎli?
+莎莉：我[@的@]裙子在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23983</StartMilliseconds>
+    <EndMilliseconds>25295</EndMilliseconds>
+    <Text>Shālì: Wǒ de [@qúnzi@] zài nǎli?
+莎莉：我的[@裙子@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>25296</StartMilliseconds>
+    <EndMilliseconds>25828</EndMilliseconds>
+    <Text>Shālì: Wǒ de qúnzi [@zài@] nǎli?
+莎莉：我的裙子[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>25829</StartMilliseconds>
+    <EndMilliseconds>27060</EndMilliseconds>
+    <Text>Shālì: Wǒ de qúnzi zài [@nǎli@]?
+莎莉：我的裙子在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>27061</StartMilliseconds>
+    <EndMilliseconds>27522</EndMilliseconds>
+    <Text>Shālì: Wǒ de qúnzi zài nǎli?
+莎莉：我的裙子在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>27523</StartMilliseconds>
+    <EndMilliseconds>28325</EndMilliseconds>
+    <Text>māma: Zài zhèli.
+妈妈：在这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>28326</StartMilliseconds>
+    <EndMilliseconds>29134</EndMilliseconds>
+    <Text>māma: [@Zài@] zhèli.
+妈妈：[@在@]这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29135</StartMilliseconds>
+    <EndMilliseconds>30476</EndMilliseconds>
+    <Text>māma: Zài [@zhèli@].
+妈妈：在[@这里@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30477</StartMilliseconds>
+    <EndMilliseconds>32025</EndMilliseconds>
+    <Text>māma: Zài zhèli.
+妈妈：在这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32026</StartMilliseconds>
+    <EndMilliseconds>34113</EndMilliseconds>
+    <Text>Shālì: Wǒ de bāo zài nǎli?
+莎莉：我的包在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>34114</StartMilliseconds>
+    <EndMilliseconds>35012</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] de bāo zài nǎli?
+莎莉：[@我@]的包在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>35013</StartMilliseconds>
+    <EndMilliseconds>35383</EndMilliseconds>
+    <Text>Shālì: Wǒ [@de@] bāo zài nǎli?
+莎莉：我[@的@]包在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>35384</StartMilliseconds>
+    <EndMilliseconds>36366</EndMilliseconds>
+    <Text>Shālì: Wǒ de [@bāo@] zài nǎli?
+莎莉：我的[@包@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>36367</StartMilliseconds>
+    <EndMilliseconds>36941</EndMilliseconds>
+    <Text>Shālì: Wǒ de bāo [@zài@] nǎli?
+莎莉：我的包[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>36942</StartMilliseconds>
+    <EndMilliseconds>38064</EndMilliseconds>
+    <Text>Shālì: Wǒ de bāo zài [@nǎli@]?
+莎莉：我的包在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>38065</StartMilliseconds>
+    <EndMilliseconds>38983</EndMilliseconds>
+    <Text>Shālì: Wǒ de bāo zài nǎli?
+莎莉：我的包在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>38984</StartMilliseconds>
+    <EndMilliseconds>40055</EndMilliseconds>
+    <Text>māma: Zài zhèli.
+妈妈：在这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>40056</StartMilliseconds>
+    <EndMilliseconds>40707</EndMilliseconds>
+    <Text>māma: [@Zài@] zhèli.
+妈妈：[@在@]这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40708</StartMilliseconds>
+    <EndMilliseconds>42069</EndMilliseconds>
+    <Text>māma: Zài [@zhèli@].
+妈妈：在[@这里@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>42070</StartMilliseconds>
+    <EndMilliseconds>43099</EndMilliseconds>
+    <Text>māma: Zài zhèli.
+妈妈：在这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>43100</StartMilliseconds>
+    <EndMilliseconds>44260</EndMilliseconds>
+    <Text>Shālì: Wǒ de duǎnxiù zài nǎli?
+莎莉：我的短袖在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>44261</StartMilliseconds>
+    <EndMilliseconds>45063</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] de duǎnxiù zài nǎli?
+莎莉：[@我@]的短袖在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>45064</StartMilliseconds>
+    <EndMilliseconds>45734</EndMilliseconds>
+    <Text>Shālì: Wǒ [@de@] duǎnxiù zài nǎli?
+莎莉：我[@的@]短袖在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>45735</StartMilliseconds>
+    <EndMilliseconds>47153</EndMilliseconds>
+    <Text>Shālì: Wǒ de [@duǎnxiù@] zài nǎli?
+莎莉：我的[@短袖@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>47154</StartMilliseconds>
+    <EndMilliseconds>47714</EndMilliseconds>
+    <Text>Shālì: Wǒ de duǎnxiù [@zài@] nǎli?
+莎莉：我的短袖[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>47715</StartMilliseconds>
+    <EndMilliseconds>48804</EndMilliseconds>
+    <Text>Shālì: Wǒ de duǎnxiù zài [@nǎli@]?
+莎莉：我的短袖在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>48805</StartMilliseconds>
+    <EndMilliseconds>49728</EndMilliseconds>
+    <Text>Shālì: Wǒ de duǎnxiù zài nǎli?
+莎莉：我的短袖在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>49729</StartMilliseconds>
+    <EndMilliseconds>50788</EndMilliseconds>
+    <Text>māma: Zài zhèli.
+妈妈：在这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>50789</StartMilliseconds>
+    <EndMilliseconds>51439</EndMilliseconds>
+    <Text>māma: [@Zài@] zhèli.
+妈妈：[@在@]这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>51440</StartMilliseconds>
+    <EndMilliseconds>52589</EndMilliseconds>
+    <Text>māma: Zài [@zhèli@].
+妈妈：在[@这里@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>52590</StartMilliseconds>
+    <EndMilliseconds>53730</EndMilliseconds>
+    <Text>māma: Zài zhèli.
+妈妈：在这里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>53731</StartMilliseconds>
+    <EndMilliseconds>54509</EndMilliseconds>
+    <Text>Shālì: Bú shì zhège, shì huángsè de duǎnxiù.
+莎莉：不是这个，是黄色的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>54510</StartMilliseconds>
+    <EndMilliseconds>55061</EndMilliseconds>
+    <Text>Shālì: [@Bú@] shì zhège, shì huángsè de duǎnxiù.
+莎莉：[@不@]是这个，是黄色的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>55062</StartMilliseconds>
+    <EndMilliseconds>55636</EndMilliseconds>
+    <Text>Shālì: Bú [@shì@] zhège, shì huángsè de duǎnxiù.
+莎莉：不[@是@]这个，是黄色的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>55637</StartMilliseconds>
+    <EndMilliseconds>57262</EndMilliseconds>
+    <Text>Shālì: Bú shì [@zhège@], shì huángsè de duǎnxiù.
+莎莉：不是[@这个@]，是黄色的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>57263</StartMilliseconds>
+    <EndMilliseconds>58259</EndMilliseconds>
+    <Text>Shālì: Bú shì zhège, [@shì@] huángsè de duǎnxiù.
+莎莉：不是这个，[@是@]黄色的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>58260</StartMilliseconds>
+    <EndMilliseconds>59259</EndMilliseconds>
+    <Text>Shālì: Bú shì zhège, shì [@huángsè@] de duǎnxiù.
+莎莉：不是这个，是[@黄色@]的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>59260</StartMilliseconds>
+    <EndMilliseconds>59863</EndMilliseconds>
+    <Text>Shālì: Bú shì zhège, shì huángsè [@de@] duǎnxiù.
+莎莉：不是这个，是黄色[@的@]短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>59864</StartMilliseconds>
+    <EndMilliseconds>60917</EndMilliseconds>
+    <Text>Shālì: Bú shì zhège, shì huángsè de [@duǎnxiù@].
+莎莉：不是这个，是黄色的[@短袖@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>60918</StartMilliseconds>
+    <EndMilliseconds>61570</EndMilliseconds>
+    <Text>Shālì: Bú shì zhège, shì huángsè de duǎnxiù.
+莎莉：不是这个，是黄色的短袖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>61571</StartMilliseconds>
+    <EndMilliseconds>61993</EndMilliseconds>
+    <Text>Shālì: Xièxie nǐ, Xiǎowàng!
+莎莉：谢谢你，小旺！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>61994</StartMilliseconds>
+    <EndMilliseconds>63133</EndMilliseconds>
+    <Text>Shālì: [@Xièxie@] nǐ, Xiǎowàng!
+莎莉：[@谢谢@]你，小旺！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>63134</StartMilliseconds>
+    <EndMilliseconds>63754</EndMilliseconds>
+    <Text>Shālì: Xièxie [@nǐ@], Xiǎowàng!
+莎莉：谢谢[@你@]，小旺！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>63755</StartMilliseconds>
+    <EndMilliseconds>65323</EndMilliseconds>
+    <Text>Shālì: Xièxie nǐ, [@Xiǎowàng@]!
+莎莉：谢谢你，[@小旺@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>65324</StartMilliseconds>
+    <EndMilliseconds>65727</EndMilliseconds>
+    <Text>Shālì: Xièxie nǐ, Xiǎowàng!
+莎莉：谢谢你，小旺！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>65728</StartMilliseconds>
+    <EndMilliseconds>66142</EndMilliseconds>
+    <Text>māma: Xiǎowàng zhēn bàng!
+妈妈：小旺真棒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>66143</StartMilliseconds>
+    <EndMilliseconds>67514</EndMilliseconds>
+    <Text>māma: [@Xiǎowàng@] zhēn bàng!
+妈妈：[@小旺@]真棒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>67515</StartMilliseconds>
+    <EndMilliseconds>68032</EndMilliseconds>
+    <Text>māma: Xiǎowàng [@zhēn@] bàng!
+妈妈：小旺[@真@]棒！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>68033</StartMilliseconds>
+    <EndMilliseconds>68760</EndMilliseconds>
+    <Text>māma: Xiǎowàng zhēn [@bàng@]!
+妈妈：小旺真[@棒@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>68761</StartMilliseconds>
+    <EndMilliseconds>70976</EndMilliseconds>
+    <Text>māma: Xiǎowàng zhēn bàng!
+妈妈：小旺真棒！</Text>
+  </Paragraph>
+</Subtitle>

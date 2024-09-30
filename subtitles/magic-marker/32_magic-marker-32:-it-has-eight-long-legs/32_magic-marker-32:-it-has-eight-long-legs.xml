@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9829</StartMilliseconds>
+    <EndMilliseconds>13509</EndMilliseconds>
+    <Text>塔克：看，马克西！
+Tǎkè: Kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13510</StartMilliseconds>
+    <EndMilliseconds>13929</EndMilliseconds>
+    <Text>塔克：[@看@]，马克西！
+Tǎkè: [@Kàn@], Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13930</StartMilliseconds>
+    <EndMilliseconds>14550</EndMilliseconds>
+    <Text>塔克：看，[@马克西@]！
+Tǎkè: Kàn, [@Mǎkèxī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14551</StartMilliseconds>
+    <EndMilliseconds>15780</EndMilliseconds>
+    <Text>塔克：看，马克西！
+Tǎkè: Kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15781</StartMilliseconds>
+    <EndMilliseconds>15981</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15982</StartMilliseconds>
+    <EndMilliseconds>16211</EndMilliseconds>
+    <Text>塔克：[@四@]条腿，两只耳朵，一张大嘴……
+Tǎkè: [@Sì@] tiáo tuǐ, liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16212</StartMilliseconds>
+    <EndMilliseconds>16505</EndMilliseconds>
+    <Text>塔克：四[@条@]腿，两只耳朵，一张大嘴……
+Tǎkè: Sì [@tiáo@] tuǐ, liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16506</StartMilliseconds>
+    <EndMilliseconds>16768</EndMilliseconds>
+    <Text>塔克：四条[@腿@]，两只耳朵，一张大嘴……
+Tǎkè: Sì tiáo [@tuǐ@], liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16769</StartMilliseconds>
+    <EndMilliseconds>17355</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17356</StartMilliseconds>
+    <EndMilliseconds>17689</EndMilliseconds>
+    <Text>塔克：四条腿，[@两@]只耳朵，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, [@liǎng@] zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17690</StartMilliseconds>
+    <EndMilliseconds>17990</EndMilliseconds>
+    <Text>塔克：四条腿，两[@只@]耳朵，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng [@zhī@] ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17991</StartMilliseconds>
+    <EndMilliseconds>18485</EndMilliseconds>
+    <Text>塔克：四条腿，两只[@耳朵@]，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī [@ěrduo@], yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18486</StartMilliseconds>
+    <EndMilliseconds>19108</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19109</StartMilliseconds>
+    <EndMilliseconds>19379</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，[@一@]张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, [@yì@] zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19380</StartMilliseconds>
+    <EndMilliseconds>19648</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一[@张@]大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì [@zhāng@] dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19649</StartMilliseconds>
+    <EndMilliseconds>20102</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一张[@大@]嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì zhāng [@dà@] zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20103</StartMilliseconds>
+    <EndMilliseconds>20398</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一张大[@嘴@]……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì zhāng dà [@zuǐ@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>20399</StartMilliseconds>
+    <EndMilliseconds>21623</EndMilliseconds>
+    <Text>塔克：四条腿，两只耳朵，一张大嘴……
+Tǎkè: Sì tiáo tuǐ, liǎng zhī ěrduo, yì zhāng dà zuǐ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21624</StartMilliseconds>
+    <EndMilliseconds>21839</EndMilliseconds>
+    <Text>塔克：它是你妈妈吗？
+Tǎkè: Tā shì nǐ māma ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>21840</StartMilliseconds>
+    <EndMilliseconds>22125</EndMilliseconds>
+    <Text>塔克：[@它@]是你妈妈吗？
+Tǎkè: [@Tā@] shì nǐ māma ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22126</StartMilliseconds>
+    <EndMilliseconds>22395</EndMilliseconds>
+    <Text>塔克：它[@是@]你妈妈吗？
+Tǎkè: Tā [@shì@] nǐ māma ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>22396</StartMilliseconds>
+    <EndMilliseconds>22569</EndMilliseconds>
+    <Text>塔克：它是[@你@]妈妈吗？
+Tǎkè: Tā shì [@nǐ@] māma ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>22570</StartMilliseconds>
+    <EndMilliseconds>23093</EndMilliseconds>
+    <Text>塔克：它是你[@妈妈@]吗？
+Tǎkè: Tā shì nǐ [@māma@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>23094</StartMilliseconds>
+    <EndMilliseconds>23371</EndMilliseconds>
+    <Text>塔克：它是你妈妈[@吗@]？
+Tǎkè: Tā shì nǐ māma [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>23372</StartMilliseconds>
+    <EndMilliseconds>23921</EndMilliseconds>
+    <Text>塔克：它是你妈妈吗？
+Tǎkè: Tā shì nǐ māma ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>23922</StartMilliseconds>
+    <EndMilliseconds>24399</EndMilliseconds>
+    <Text>马克西：不是，它是一只老虎。
+Mǎkèxī: Bú shì, tā shì yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>24400</StartMilliseconds>
+    <EndMilliseconds>24661</EndMilliseconds>
+    <Text>马克西：[@不@]是，它是一只老虎。
+Mǎkèxī: [@Bú@] shì, tā shì yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>24662</StartMilliseconds>
+    <EndMilliseconds>25045</EndMilliseconds>
+    <Text>马克西：不[@是@]，它是一只老虎。
+Mǎkèxī: Bú [@shì@], tā shì yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>25046</StartMilliseconds>
+    <EndMilliseconds>26175</EndMilliseconds>
+    <Text>马克西：不是，它是一只老虎。
+Mǎkèxī: Bú shì, tā shì yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>26176</StartMilliseconds>
+    <EndMilliseconds>26445</EndMilliseconds>
+    <Text>马克西：不是，[@它@]是一只老虎。
+Mǎkèxī: Bú shì, [@tā@] shì yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>26446</StartMilliseconds>
+    <EndMilliseconds>26635</EndMilliseconds>
+    <Text>马克西：不是，它[@是@]一只老虎。
+Mǎkèxī: Bú shì, tā [@shì@] yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>26636</StartMilliseconds>
+    <EndMilliseconds>26810</EndMilliseconds>
+    <Text>马克西：不是，它是[@一@]只老虎。
+Mǎkèxī: Bú shì, tā shì [@yì@] zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>26811</StartMilliseconds>
+    <EndMilliseconds>27024</EndMilliseconds>
+    <Text>马克西：不是，它是一[@只@]老虎。
+Mǎkèxī: Bú shì, tā shì yì [@zhī@] lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>27025</StartMilliseconds>
+    <EndMilliseconds>27850</EndMilliseconds>
+    <Text>马克西：不是，它是一只[@老虎@]。
+Mǎkèxī: Bú shì, tā shì yì zhī [@lǎohǔ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>27851</StartMilliseconds>
+    <EndMilliseconds>28372</EndMilliseconds>
+    <Text>马克西：不是，它是一只老虎。
+Mǎkèxī: Bú shì, tā shì yì zhī lǎohǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>28373</StartMilliseconds>
+    <EndMilliseconds>28776</EndMilliseconds>
+    <Text>马克西：它是一只大猫。
+Mǎkèxī: Tā shì yì zhī dà māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>28777</StartMilliseconds>
+    <EndMilliseconds>29045</EndMilliseconds>
+    <Text>马克西：[@它@]是一只大猫。
+Mǎkèxī: [@Tā@] shì yì zhī dà māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>29046</StartMilliseconds>
+    <EndMilliseconds>29228</EndMilliseconds>
+    <Text>马克西：它[@是@]一只大猫。
+Mǎkèxī: Tā [@shì@] yì zhī dà māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>29229</StartMilliseconds>
+    <EndMilliseconds>29422</EndMilliseconds>
+    <Text>马克西：它是[@一@]只大猫。
+Mǎkèxī: Tā shì [@yì@] zhī dà māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>29423</StartMilliseconds>
+    <EndMilliseconds>29645</EndMilliseconds>
+    <Text>马克西：它是一[@只@]大猫。
+Mǎkèxī: Tā shì yì [@zhī@] dà māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>29646</StartMilliseconds>
+    <EndMilliseconds>30018</EndMilliseconds>
+    <Text>马克西：它是一只[@大@]猫。
+Mǎkèxī: Tā shì yì zhī [@dà@] māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>30019</StartMilliseconds>
+    <EndMilliseconds>30351</EndMilliseconds>
+    <Text>马克西：它是一只大[@猫@]。
+Mǎkèxī: Tā shì yì zhī dà [@māo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>30352</StartMilliseconds>
+    <EndMilliseconds>30915</EndMilliseconds>
+    <Text>马克西：它是一只大猫。
+Mǎkèxī: Tā shì yì zhī dà māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>30916</StartMilliseconds>
+    <EndMilliseconds>31206</EndMilliseconds>
+    <Text>马克西：你好！
+Mǎkèxī: Nǐ hǎo!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>31207</StartMilliseconds>
+    <EndMilliseconds>31321</EndMilliseconds>
+    <Text>马克西：[@你@]好！
+Mǎkèxī: [@Nǐ@] hǎo!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>31322</StartMilliseconds>
+    <EndMilliseconds>31776</EndMilliseconds>
+    <Text>马克西：你[@好@]！
+Mǎkèxī: Nǐ [@hǎo@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>31777</StartMilliseconds>
+    <EndMilliseconds>33642</EndMilliseconds>
+    <Text>马克西：你好！
+Mǎkèxī: Nǐ hǎo!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>33643</StartMilliseconds>
+    <EndMilliseconds>35885</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是大猫不可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>35886</StartMilliseconds>
+    <EndMilliseconds>36431</EndMilliseconds>
+    <Text>马克西：[@小猫@]很可爱，但是大猫不可爱。
+Mǎkèxī: [@Xiǎomāo@] hěn kě'ài, dànshì dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>36432</StartMilliseconds>
+    <EndMilliseconds>36772</EndMilliseconds>
+    <Text>马克西：小猫[@很@]可爱，但是大猫不可爱。
+Mǎkèxī: Xiǎomāo [@hěn@] kě'ài, dànshì dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>36773</StartMilliseconds>
+    <EndMilliseconds>37185</EndMilliseconds>
+    <Text>马克西：小猫很[@可爱@]，但是大猫不可爱。
+Mǎkèxī: Xiǎomāo hěn [@kě'ài@], dànshì dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>37186</StartMilliseconds>
+    <EndMilliseconds>37987</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是大猫不可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>37988</StartMilliseconds>
+    <EndMilliseconds>38654</EndMilliseconds>
+    <Text>马克西：小猫很可爱，[@但是@]大猫不可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, [@dànshì@] dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>38655</StartMilliseconds>
+    <EndMilliseconds>39018</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是[@大@]猫不可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì [@dà@] māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>39019</StartMilliseconds>
+    <EndMilliseconds>39312</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是大[@猫@]不可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì dà [@māo@] bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>39313</StartMilliseconds>
+    <EndMilliseconds>39506</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是大猫[@不@]可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì dà māo [@bù@] kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>39507</StartMilliseconds>
+    <EndMilliseconds>40090</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是大猫不[@可爱@]。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì dà māo bù [@kě'ài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>40091</StartMilliseconds>
+    <EndMilliseconds>43132</EndMilliseconds>
+    <Text>马克西：小猫很可爱，但是大猫不可爱。
+Mǎkèxī: Xiǎomāo hěn kě'ài, dànshì dà māo bù kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>43133</StartMilliseconds>
+    <EndMilliseconds>43944</EndMilliseconds>
+    <Text>塔克：哇！快看，马克西！
+Tǎkè: Wā! Kuài kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>43945</StartMilliseconds>
+    <EndMilliseconds>44438</EndMilliseconds>
+    <Text>塔克：[@哇@]！快看，马克西！
+Tǎkè: [@Wā@]! Kuài kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>44439</StartMilliseconds>
+    <EndMilliseconds>44692</EndMilliseconds>
+    <Text>塔克：哇！[@快@]看，马克西！
+Tǎkè: Wā! [@Kuài@] kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>44693</StartMilliseconds>
+    <EndMilliseconds>45193</EndMilliseconds>
+    <Text>塔克：哇！快[@看@]，马克西！
+Tǎkè: Wā! Kuài [@kàn@], Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>45194</StartMilliseconds>
+    <EndMilliseconds>45886</EndMilliseconds>
+    <Text>塔克：哇！快看，[@马克西@]！
+Tǎkè: Wā! Kuài kàn, [@Mǎkèxī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>45887</StartMilliseconds>
+    <EndMilliseconds>46001</EndMilliseconds>
+    <Text>塔克：哇！快看，马克西！
+Tǎkè: Wā! Kuài kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>46002</StartMilliseconds>
+    <EndMilliseconds>46151</EndMilliseconds>
+    <Text>塔克：它有八条长腿！
+Tǎkè: Tā yǒu bā tiáo cháng tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>46152</StartMilliseconds>
+    <EndMilliseconds>46353</EndMilliseconds>
+    <Text>塔克：[@它@]有八条长腿！
+Tǎkè: [@Tā@] yǒu bā tiáo cháng tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>46354</StartMilliseconds>
+    <EndMilliseconds>46583</EndMilliseconds>
+    <Text>塔克：它[@有@]八条长腿！
+Tǎkè: Tā [@yǒu@] bā tiáo cháng tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>46584</StartMilliseconds>
+    <EndMilliseconds>46867</EndMilliseconds>
+    <Text>塔克：它有[@八@]条长腿！
+Tǎkè: Tā yǒu [@bā@] tiáo cháng tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>46868</StartMilliseconds>
+    <EndMilliseconds>47074</EndMilliseconds>
+    <Text>塔克：它有八[@条@]长腿！
+Tǎkè: Tā yǒu bā [@tiáo@] cháng tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>47075</StartMilliseconds>
+    <EndMilliseconds>47343</EndMilliseconds>
+    <Text>塔克：它有八条[@长@]腿！
+Tǎkè: Tā yǒu bā tiáo [@cháng@] tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>47344</StartMilliseconds>
+    <EndMilliseconds>47718</EndMilliseconds>
+    <Text>塔克：它有八条长[@腿@]！
+Tǎkè: Tā yǒu bā tiáo cháng [@tuǐ@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>47719</StartMilliseconds>
+    <EndMilliseconds>48557</EndMilliseconds>
+    <Text>塔克：它有八条长腿！
+Tǎkè: Tā yǒu bā tiáo cháng tuǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>48558</StartMilliseconds>
+    <EndMilliseconds>48945</EndMilliseconds>
+    <Text>马克西：那是蜘蛛。它吃虫子。
+Mǎkèxī: Nà shì zhīzhū. Tā chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>48946</StartMilliseconds>
+    <EndMilliseconds>49175</EndMilliseconds>
+    <Text>马克西：[@那@]是蜘蛛。它吃虫子。
+Mǎkèxī: [@Nà@] shì zhīzhū. Tā chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>49176</StartMilliseconds>
+    <EndMilliseconds>49373</EndMilliseconds>
+    <Text>马克西：那[@是@]蜘蛛。它吃虫子。
+Mǎkèxī: Nà [@shì@] zhīzhū. Tā chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>49374</StartMilliseconds>
+    <EndMilliseconds>49961</EndMilliseconds>
+    <Text>马克西：那是[@蜘蛛@]。它吃虫子。
+Mǎkèxī: Nà shì [@zhīzhū@]. Tā chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>49962</StartMilliseconds>
+    <EndMilliseconds>50278</EndMilliseconds>
+    <Text>马克西：那是蜘蛛。它吃虫子。
+Mǎkèxī: Nà shì zhīzhū. Tā chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>50279</StartMilliseconds>
+    <EndMilliseconds>50516</EndMilliseconds>
+    <Text>马克西：那是蜘蛛。[@它@]吃虫子。
+Mǎkèxī: Nà shì zhīzhū. [@Tā@] chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>50517</StartMilliseconds>
+    <EndMilliseconds>50730</EndMilliseconds>
+    <Text>马克西：那是蜘蛛。它[@吃@]虫子。
+Mǎkèxī: Nà shì zhīzhū. Tā [@chī@] chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>50731</StartMilliseconds>
+    <EndMilliseconds>51548</EndMilliseconds>
+    <Text>马克西：那是蜘蛛。它吃[@虫子@]。
+Mǎkèxī: Nà shì zhīzhū. Tā chī [@chóngzi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>51549</StartMilliseconds>
+    <EndMilliseconds>54200</EndMilliseconds>
+    <Text>马克西：那是蜘蛛。它吃虫子。
+Mǎkèxī: Nà shì zhīzhū. Tā chī chóngzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>54201</StartMilliseconds>
+    <EndMilliseconds>54667</EndMilliseconds>
+    <Text>塔克：这是什么？
+Tǎkè: Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>54668</StartMilliseconds>
+    <EndMilliseconds>54929</EndMilliseconds>
+    <Text>塔克：[@这@]是什么？
+Tǎkè: [@Zhè@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>54930</StartMilliseconds>
+    <EndMilliseconds>55112</EndMilliseconds>
+    <Text>塔克：这[@是@]什么？
+Tǎkè: Zhè [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>55113</StartMilliseconds>
+    <EndMilliseconds>55627</EndMilliseconds>
+    <Text>塔克：这是[@什么@]？
+Tǎkè: Zhè shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>55628</StartMilliseconds>
+    <EndMilliseconds>55887</EndMilliseconds>
+    <Text>塔克：这是什么？
+Tǎkè: Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>55888</StartMilliseconds>
+    <EndMilliseconds>56097</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>56098</StartMilliseconds>
+    <EndMilliseconds>56351</EndMilliseconds>
+    <Text>塔克：[@它@]有两只红眼睛，一个丑陋的鼻子……
+Tǎkè: [@Tā@] yǒu liǎng zhī hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>56352</StartMilliseconds>
+    <EndMilliseconds>56549</EndMilliseconds>
+    <Text>塔克：它[@有@]两只红眼睛，一个丑陋的鼻子……
+Tǎkè: Tā [@yǒu@] liǎng zhī hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>56550</StartMilliseconds>
+    <EndMilliseconds>56795</EndMilliseconds>
+    <Text>塔克：它有[@两@]只红眼睛，一个丑陋的鼻子……
+Tǎkè: Tā yǒu [@liǎng@] zhī hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>56796</StartMilliseconds>
+    <EndMilliseconds>57057</EndMilliseconds>
+    <Text>塔克：它有两[@只@]红眼睛，一个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng [@zhī@] hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>57058</StartMilliseconds>
+    <EndMilliseconds>57351</EndMilliseconds>
+    <Text>塔克：它有两只[@红@]眼睛，一个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī [@hóng@] yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>57352</StartMilliseconds>
+    <EndMilliseconds>57961</EndMilliseconds>
+    <Text>塔克：它有两只红[@眼睛@]，一个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng [@yǎnjing@], yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>57962</StartMilliseconds>
+    <EndMilliseconds>58239</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>58240</StartMilliseconds>
+    <EndMilliseconds>58441</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，[@一@]个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, [@yí@] ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>58442</StartMilliseconds>
+    <EndMilliseconds>58655</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一[@个@]丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí [@ge@] chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>58656</StartMilliseconds>
+    <EndMilliseconds>59171</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一个[@丑陋@]的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí ge [@chǒulòu@] de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>59172</StartMilliseconds>
+    <EndMilliseconds>59401</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一个丑陋[@的@]鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí ge chǒulòu [@de@] bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>59402</StartMilliseconds>
+    <EndMilliseconds>60068</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一个丑陋的[@鼻子@]……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí ge chǒulòu de [@bízi@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>60069</StartMilliseconds>
+    <EndMilliseconds>61154</EndMilliseconds>
+    <Text>塔克：它有两只红眼睛，一个丑陋的鼻子……
+Tǎkè: Tā yǒu liǎng zhī hóng yǎnjing, yí ge chǒulòu de bízi……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>61155</StartMilliseconds>
+    <EndMilliseconds>61508</EndMilliseconds>
+    <Text>马克西：太暗了。
+Mǎkèxī: Tài àn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>61509</StartMilliseconds>
+    <EndMilliseconds>61899</EndMilliseconds>
+    <Text>马克西：[@太@]暗了。
+Mǎkèxī: [@Tài@] àn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>61900</StartMilliseconds>
+    <EndMilliseconds>62204</EndMilliseconds>
+    <Text>马克西：太[@暗@]了。
+Mǎkèxī: Tài [@àn@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>62205</StartMilliseconds>
+    <EndMilliseconds>62423</EndMilliseconds>
+    <Text>马克西：太暗[@了@]。
+Mǎkèxī: Tài àn [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>62424</StartMilliseconds>
+    <EndMilliseconds>63560</EndMilliseconds>
+    <Text>马克西：太暗了。
+Mǎkèxī: Tài àn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>63561</StartMilliseconds>
+    <EndMilliseconds>63816</EndMilliseconds>
+    <Text>马克西：我有个主意！
+Mǎkèxī: Wǒ yǒu ge zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>63817</StartMilliseconds>
+    <EndMilliseconds>64007</EndMilliseconds>
+    <Text>马克西：[@我@]有个主意！
+Mǎkèxī: [@Wǒ@] yǒu ge zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>64008</StartMilliseconds>
+    <EndMilliseconds>64165</EndMilliseconds>
+    <Text>马克西：我[@有@]个主意！
+Mǎkèxī: Wǒ [@yǒu@] ge zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>64166</StartMilliseconds>
+    <EndMilliseconds>64388</EndMilliseconds>
+    <Text>马克西：我有[@个@]主意！
+Mǎkèxī: Wǒ yǒu [@ge@] zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>64389</StartMilliseconds>
+    <EndMilliseconds>65022</EndMilliseconds>
+    <Text>马克西：我有个[@主意@]！
+Mǎkèxī: Wǒ yǒu ge [@zhǔyi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>65023</StartMilliseconds>
+    <EndMilliseconds>68136</EndMilliseconds>
+    <Text>马克西：我有个主意！
+Mǎkèxī: Wǒ yǒu ge zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>68137</StartMilliseconds>
+    <EndMilliseconds>69856</EndMilliseconds>
+    <Text>塔克：太丑了。
+Tǎkè: Tài chǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>69857</StartMilliseconds>
+    <EndMilliseconds>70285</EndMilliseconds>
+    <Text>塔克：[@太@]丑了。
+Tǎkè: [@Tài@] chǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>70286</StartMilliseconds>
+    <EndMilliseconds>70637</EndMilliseconds>
+    <Text>塔克：太[@丑@]了。
+Tǎkè: Tài [@chǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>70638</StartMilliseconds>
+    <EndMilliseconds>70843</EndMilliseconds>
+    <Text>塔克：太丑[@了@]。
+Tǎkè: Tài chǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>70844</StartMilliseconds>
+    <EndMilliseconds>71665</EndMilliseconds>
+    <Text>塔克：太丑了。
+Tǎkè: Tài chǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>71666</StartMilliseconds>
+    <EndMilliseconds>71942</EndMilliseconds>
+    <Text>塔克：这是什么？
+Tǎkè: Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>71943</StartMilliseconds>
+    <EndMilliseconds>72188</EndMilliseconds>
+    <Text>塔克：[@这@]是什么？
+Tǎkè: [@Zhè@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>72189</StartMilliseconds>
+    <EndMilliseconds>72355</EndMilliseconds>
+    <Text>塔克：这[@是@]什么？
+Tǎkè: Zhè [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>72356</StartMilliseconds>
+    <EndMilliseconds>72855</EndMilliseconds>
+    <Text>塔克：这是[@什么@]？
+Tǎkè: Zhè shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>72856</StartMilliseconds>
+    <EndMilliseconds>73556</EndMilliseconds>
+    <Text>塔克：这是什么？
+Tǎkè: Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>73557</StartMilliseconds>
+    <EndMilliseconds>74494</EndMilliseconds>
+    <Text>马克西：啊！是她！是那个女巫！
+Mǎkèxī: Ā! Shì tā! Shì nà ge nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>74495</StartMilliseconds>
+    <EndMilliseconds>75009</EndMilliseconds>
+    <Text>马克西：[@啊@]！是她！是那个女巫！
+Mǎkèxī: [@Ā@]! Shì tā! Shì nà ge nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>75010</StartMilliseconds>
+    <EndMilliseconds>75263</EndMilliseconds>
+    <Text>马克西：啊！[@是@]她！是那个女巫！
+Mǎkèxī: Ā! [@Shì@] tā! Shì nà ge nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>75264</StartMilliseconds>
+    <EndMilliseconds>75803</EndMilliseconds>
+    <Text>马克西：啊！是[@她@]！是那个女巫！
+Mǎkèxī: Ā! Shì [@tā@]! Shì nà ge nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>75804</StartMilliseconds>
+    <EndMilliseconds>76033</EndMilliseconds>
+    <Text>马克西：啊！是她！[@是@]那个女巫！
+Mǎkèxī: Ā! Shì tā! [@Shì@] nà ge nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>76034</StartMilliseconds>
+    <EndMilliseconds>76177</EndMilliseconds>
+    <Text>马克西：啊！是她！是[@那@]个女巫！
+Mǎkèxī: Ā! Shì tā! Shì [@nà@] ge nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>76178</StartMilliseconds>
+    <EndMilliseconds>76390</EndMilliseconds>
+    <Text>马克西：啊！是她！是那[@个@]女巫！
+Mǎkèxī: Ā! Shì tā! Shì nà [@ge@] nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>76391</StartMilliseconds>
+    <EndMilliseconds>77120</EndMilliseconds>
+    <Text>马克西：啊！是她！是那个[@女巫@]！
+Mǎkèxī: Ā! Shì tā! Shì nà ge [@nǚwū@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>77121</StartMilliseconds>
+    <EndMilliseconds>81169</EndMilliseconds>
+    <Text>马克西：啊！是她！是那个女巫！
+Mǎkèxī: Ā! Shì tā! Shì nà ge nǚwū!</Text>
+  </Paragraph>
+</Subtitle>

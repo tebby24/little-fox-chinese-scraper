@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10352</StartMilliseconds>
+    <EndMilliseconds>15214</EndMilliseconds>
+    <Text>里奇：你学习拼写比赛的单词了吗？
+Lǐqí: Nǐ xuéxí pīnxiě bǐsài de dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>15214</StartMilliseconds>
+    <EndMilliseconds>15640</EndMilliseconds>
+    <Text>里奇：[@你@]学习拼写比赛的单词了吗？
+Lǐqí: [@Nǐ@] xuéxí pīnxiě bǐsài de dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15640</StartMilliseconds>
+    <EndMilliseconds>16053</EndMilliseconds>
+    <Text>里奇：你[@学习@]拼写比赛的单词了吗？
+Lǐqí: Nǐ [@xuéxí@] pīnxiě bǐsài de dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>16061</StartMilliseconds>
+    <EndMilliseconds>16484</EndMilliseconds>
+    <Text>里奇：你学习[@拼写@]比赛的单词了吗？
+Lǐqí: Nǐ xuéxí [@pīnxiě@] bǐsài de dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16477</StartMilliseconds>
+    <EndMilliseconds>16864</EndMilliseconds>
+    <Text>里奇：你学习拼写[@比赛@]的单词了吗？
+Lǐqí: Nǐ xuéxí pīnxiě [@bǐsài@] de dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16864</StartMilliseconds>
+    <EndMilliseconds>17045</EndMilliseconds>
+    <Text>里奇：你学习拼写比赛[@的@]单词了吗？
+Lǐqí: Nǐ xuéxí pīnxiě bǐsài [@de@] dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17051</StartMilliseconds>
+    <EndMilliseconds>17535</EndMilliseconds>
+    <Text>里奇：你学习拼写比赛的[@单词@]了吗？
+Lǐqí: Nǐ xuéxí pīnxiě bǐsài de [@dāncí@] le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17535</StartMilliseconds>
+    <EndMilliseconds>17797</EndMilliseconds>
+    <Text>里奇：你学习拼写比赛的单词[@了@]吗？
+Lǐqí: Nǐ xuéxí pīnxiě bǐsài de dāncí [@le@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17797</StartMilliseconds>
+    <EndMilliseconds>18334</EndMilliseconds>
+    <Text>里奇：你学习拼写比赛的单词了[@吗@]？
+Lǐqí: Nǐ xuéxí pīnxiě bǐsài de dāncí le [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>18334</StartMilliseconds>
+    <EndMilliseconds>18667</EndMilliseconds>
+    <Text>里奇：你学习拼写比赛的单词了吗？
+Lǐqí: Nǐ xuéxí pīnxiě bǐsài de dāncí le ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18667</StartMilliseconds>
+    <EndMilliseconds>19058</EndMilliseconds>
+    <Text>安迪：一点点，你呢？
+Āndí: Yìdiǎndiǎn, nǐ ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>19058</StartMilliseconds>
+    <EndMilliseconds>20359</EndMilliseconds>
+    <Text>安迪：[@一点点@]，你呢？
+Āndí: [@Yìdiǎndiǎn@], nǐ ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>20359</StartMilliseconds>
+    <EndMilliseconds>20700</EndMilliseconds>
+    <Text>安迪：一点点，[@你@]呢？
+Āndí: Yìdiǎndiǎn, [@nǐ@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20700</StartMilliseconds>
+    <EndMilliseconds>21484</EndMilliseconds>
+    <Text>安迪：一点点，你[@呢@]？
+Āndí: Yìdiǎndiǎn, nǐ [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>21484</StartMilliseconds>
+    <EndMilliseconds>22171</EndMilliseconds>
+    <Text>安迪：一点点，你呢？
+Āndí: Yìdiǎndiǎn, nǐ ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>22171</StartMilliseconds>
+    <EndMilliseconds>23078</EndMilliseconds>
+    <Text>里奇：我妈妈让我学习。
+Lǐqí: Wǒ māma ràng wǒ xuéxí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>23078</StartMilliseconds>
+    <EndMilliseconds>23427</EndMilliseconds>
+    <Text>里奇：[@我@]妈妈让我学习。
+Lǐqí: [@Wǒ@] māma ràng wǒ xuéxí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>23428</StartMilliseconds>
+    <EndMilliseconds>23936</EndMilliseconds>
+    <Text>里奇：我[@妈妈@]让我学习。
+Lǐqí: Wǒ [@māma@] ràng wǒ xuéxí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>23935</StartMilliseconds>
+    <EndMilliseconds>24208</EndMilliseconds>
+    <Text>里奇：我妈妈[@让@]我学习。
+Lǐqí: Wǒ māma [@ràng@] wǒ xuéxí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>24208</StartMilliseconds>
+    <EndMilliseconds>24542</EndMilliseconds>
+    <Text>里奇：我妈妈让[@我@]学习。
+Lǐqí: Wǒ māma ràng [@wǒ@] xuéxí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>24542</StartMilliseconds>
+    <EndMilliseconds>25486</EndMilliseconds>
+    <Text>里奇：我妈妈让我[@学习@]。
+Lǐqí: Wǒ māma ràng wǒ [@xuéxí@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>25486</StartMilliseconds>
+    <EndMilliseconds>26019</EndMilliseconds>
+    <Text>里奇：我妈妈让我学习。
+Lǐqí: Wǒ māma ràng wǒ xuéxí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>26019</StartMilliseconds>
+    <EndMilliseconds>26515</EndMilliseconds>
+    <Text>安迪：我猜艾米肯定通宵学习了。
+Āndí: Wǒ cāi Àimǐ kěndìng tōngxiāo xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>26515</StartMilliseconds>
+    <EndMilliseconds>26798</EndMilliseconds>
+    <Text>安迪：[@我@]猜艾米肯定通宵学习了。
+Āndí: [@Wǒ@] cāi Àimǐ kěndìng tōngxiāo xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>26798</StartMilliseconds>
+    <EndMilliseconds>27634</EndMilliseconds>
+    <Text>安迪：我[@猜@]艾米肯定通宵学习了。
+Āndí: Wǒ [@cāi@] Àimǐ kěndìng tōngxiāo xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>27634</StartMilliseconds>
+    <EndMilliseconds>28184</EndMilliseconds>
+    <Text>安迪：我猜[@艾米@]肯定通宵学习了。
+Āndí: Wǒ cāi [@Àimǐ@] kěndìng tōngxiāo xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28184</StartMilliseconds>
+    <EndMilliseconds>28457</EndMilliseconds>
+    <Text>安迪：我猜艾米[@肯定@]通宵学习了。
+Āndí: Wǒ cāi Àimǐ [@kěndìng@] tōngxiāo xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>28457</StartMilliseconds>
+    <EndMilliseconds>28985</EndMilliseconds>
+    <Text>安迪：我猜艾米肯定[@通宵@]学习了。
+Āndí: Wǒ cāi Àimǐ kěndìng [@tōngxiāo@] xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>28985</StartMilliseconds>
+    <EndMilliseconds>29304</EndMilliseconds>
+    <Text>安迪：我猜艾米肯定通宵[@学习@]了。
+Āndí: Wǒ cāi Àimǐ kěndìng tōngxiāo [@xuéxí@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>29304</StartMilliseconds>
+    <EndMilliseconds>30138</EndMilliseconds>
+    <Text>安迪：我猜艾米肯定通宵学习[@了@]。
+Āndí: Wǒ cāi Àimǐ kěndìng tōngxiāo xuéxí [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>30069</StartMilliseconds>
+    <EndMilliseconds>34834</EndMilliseconds>
+    <Text>安迪：我猜艾米肯定通宵学习了。
+Āndí: Wǒ cāi Àimǐ kěndìng tōngxiāo xuéxí le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>34834</StartMilliseconds>
+    <EndMilliseconds>36558</EndMilliseconds>
+    <Text>布朗老师：里奇，拼一下 “debut”。
+Bùlǎng lǎoshī: Lǐqí, pīn yīxià "debut".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>36558</StartMilliseconds>
+    <EndMilliseconds>37474</EndMilliseconds>
+    <Text>布朗老师：[@里奇@]，拼一下 “debut”。
+Bùlǎng lǎoshī: [@Lǐqí@], pīn yīxià "debut".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37474</StartMilliseconds>
+    <EndMilliseconds>37669</EndMilliseconds>
+    <Text>布朗老师：里奇，[@拼@]一下 “debut”。
+Bùlǎng lǎoshī: Lǐqí, [@pīn@] yīxià "debut".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>37670</StartMilliseconds>
+    <EndMilliseconds>38303</EndMilliseconds>
+    <Text>布朗老师：里奇，拼[@一下@] “debut”。
+Bùlǎng lǎoshī: Lǐqí, pīn [@yīxià@] "debut".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38303</StartMilliseconds>
+    <EndMilliseconds>39302</EndMilliseconds>
+    <Text>布朗老师：里奇，拼一下 “[@debut@]”。
+Bùlǎng lǎoshī: Lǐqí, pīn yīxià "[@debut@]".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>39302</StartMilliseconds>
+    <EndMilliseconds>39680</EndMilliseconds>
+    <Text>布朗老师：里奇，拼一下 “debut”。
+Bùlǎng lǎoshī: Lǐqí, pīn yīxià "debut".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>39680</StartMilliseconds>
+    <EndMilliseconds>40210</EndMilliseconds>
+    <Text>里奇：Debut, d-e-b-u……嗯……t? 
+Lǐqí: Debut, d-e-b-u……eng……t?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>40210</StartMilliseconds>
+    <EndMilliseconds>41702</EndMilliseconds>
+    <Text>里奇：[@Debut@], d-e-b-u……嗯……t? 
+Lǐqí: [@Debut@], d-e-b-u……eng……t?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>41702</StartMilliseconds>
+    <EndMilliseconds>45866</EndMilliseconds>
+    <Text>里奇：Debut, [@d-e-b-u@]……嗯……t? 
+Lǐqí: Debut, [@d-e-b-u@]……eng……t?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>45866</StartMilliseconds>
+    <EndMilliseconds>47804</EndMilliseconds>
+    <Text>里奇：Debut, d-e-b-u……[@嗯@]……t? 
+Lǐqí: Debut, d-e-b-u……[@eng@]……t?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>47804</StartMilliseconds>
+    <EndMilliseconds>48803</EndMilliseconds>
+    <Text>里奇：Debut, d-e-b-u……嗯……[@t@]? 
+Lǐqí: Debut, d-e-b-u……eng……[@t@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>48803</StartMilliseconds>
+    <EndMilliseconds>49051</EndMilliseconds>
+    <Text>里奇：Debut, d-e-b-u……嗯……t? 
+Lǐqí: Debut, d-e-b-u……eng……t?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>49051</StartMilliseconds>
+    <EndMilliseconds>49416</EndMilliseconds>
+    <Text>布朗老师：答对了。
+Bùlǎng lǎoshī: Dáduì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>49416</StartMilliseconds>
+    <EndMilliseconds>49968</EndMilliseconds>
+    <Text>布朗老师：[@答对@]了。
+Bùlǎng lǎoshī: [@Dáduì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>49968</StartMilliseconds>
+    <EndMilliseconds>50786</EndMilliseconds>
+    <Text>布朗老师：答对[@了@]。
+Bùlǎng lǎoshī: Dáduì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>50786</StartMilliseconds>
+    <EndMilliseconds>52587</EndMilliseconds>
+    <Text>布朗老师：答对了。
+Bùlǎng lǎoshī: Dáduì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>52587</StartMilliseconds>
+    <EndMilliseconds>53600</EndMilliseconds>
+    <Text>布朗老师：梅洛迪，拼一下 “separate”。
+Bùlǎng lǎoshī: Méiluòdí, pīn yīxià "separate".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>53600</StartMilliseconds>
+    <EndMilliseconds>54486</EndMilliseconds>
+    <Text>布朗老师：[@梅洛迪@]，拼一下 “separate”。
+Bùlǎng lǎoshī: [@Méiluòdí@], pīn yīxià "separate".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>54486</StartMilliseconds>
+    <EndMilliseconds>54840</EndMilliseconds>
+    <Text>布朗老师：梅洛迪，[@拼@]一下 “separate”。
+Bùlǎng lǎoshī: Méiluòdí, [@pīn@] yīxià "separate".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>54840</StartMilliseconds>
+    <EndMilliseconds>55335</EndMilliseconds>
+    <Text>布朗老师：梅洛迪，拼[@一下@] “separate”。
+Bùlǎng lǎoshī: Méiluòdí, pīn [@yīxià@] "separate".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>55335</StartMilliseconds>
+    <EndMilliseconds>56335</EndMilliseconds>
+    <Text>布朗老师：梅洛迪，拼一下 “[@separate@]”。
+Bùlǎng lǎoshī: Méiluòdí, pīn yīxià "[@separate@]".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>56335</StartMilliseconds>
+    <EndMilliseconds>56700</EndMilliseconds>
+    <Text>布朗老师：梅洛迪，拼一下 “separate”。
+Bùlǎng lǎoshī: Méiluòdí, pīn yīxià "separate".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>56700</StartMilliseconds>
+    <EndMilliseconds>57116</EndMilliseconds>
+    <Text>梅洛迪：Separate, s-e-p-e-r-a-t-e, separate。 
+Méiluòdí: Separate, s-e-p-e-r-a-t-e, separate.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>57116</StartMilliseconds>
+    <EndMilliseconds>58936</EndMilliseconds>
+    <Text>梅洛迪：[@Separate@], s-e-p-e-r-a-t-e, separate。 
+Méiluòdí: [@Separate@], s-e-p-e-r-a-t-e, separate.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>58936</StartMilliseconds>
+    <EndMilliseconds>65685</EndMilliseconds>
+    <Text>梅洛迪：Separate, [@s-e-p-e-r-a-t-e@], separate。 
+Méiluòdí: Separate, [@s-e-p-e-r-a-t-e@], separate.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>65685</StartMilliseconds>
+    <EndMilliseconds>67034</EndMilliseconds>
+    <Text>梅洛迪：Separate, s-e-p-e-r-a-t-e, [@separate@]。 
+Méiluòdí: Separate, s-e-p-e-r-a-t-e, [@separate@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>67034</StartMilliseconds>
+    <EndMilliseconds>67136</EndMilliseconds>
+    <Text>梅洛迪：Separate, s-e-p-e-r-a-t-e, separate。 
+Méiluòdí: Separate, s-e-p-e-r-a-t-e, separate.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>67136</StartMilliseconds>
+    <EndMilliseconds>67205</EndMilliseconds>
+    <Text>布朗老师：很遗憾，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>67205</StartMilliseconds>
+    <EndMilliseconds>67737</EndMilliseconds>
+    <Text>布朗老师：[@很@]遗憾，答错了。
+Bùlǎng lǎoshī: [@Hěn@] yíhàn, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>67736</StartMilliseconds>
+    <EndMilliseconds>68535</EndMilliseconds>
+    <Text>布朗老师：很[@遗憾@]，答错了。
+Bùlǎng lǎoshī: Hěn [@yíhàn@], dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>68536</StartMilliseconds>
+    <EndMilliseconds>69123</EndMilliseconds>
+    <Text>布朗老师：很遗憾，[@答错@]了。
+Bùlǎng lǎoshī: Hěn yíhàn, [@dácuò@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>69123</StartMilliseconds>
+    <EndMilliseconds>69805</EndMilliseconds>
+    <Text>布朗老师：很遗憾，答错[@了@]。
+Bùlǎng lǎoshī: Hěn yíhàn, dácuò [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>69805</StartMilliseconds>
+    <EndMilliseconds>76076</EndMilliseconds>
+    <Text>布朗老师：很遗憾，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>76076</StartMilliseconds>
+    <EndMilliseconds>77470</EndMilliseconds>
+    <Text>布朗老师：好的，你们是最后的五个人。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì zuìhòu de wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>77470</StartMilliseconds>
+    <EndMilliseconds>78304</EndMilliseconds>
+    <Text>布朗老师：[@好的@]，你们是最后的五个人。
+Bùlǎng lǎoshī: [@Hǎode@], nǐmen shì zuìhòu de wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>78304</StartMilliseconds>
+    <EndMilliseconds>78696</EndMilliseconds>
+    <Text>布朗老师：好的，[@你们@]是最后的五个人。
+Bùlǎng lǎoshī: Hǎode, [@nǐmen@] shì zuìhòu de wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>78696</StartMilliseconds>
+    <EndMilliseconds>78937</EndMilliseconds>
+    <Text>布朗老师：好的，你们[@是@]最后的五个人。
+Bùlǎng lǎoshī: Hǎode, nǐmen [@shì@] zuìhòu de wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>78936</StartMilliseconds>
+    <EndMilliseconds>79411</EndMilliseconds>
+    <Text>布朗老师：好的，你们是[@最后@]的五个人。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì [@zuìhòu@] de wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>79411</StartMilliseconds>
+    <EndMilliseconds>79638</EndMilliseconds>
+    <Text>布朗老师：好的，你们是最后[@的@]五个人。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì zuìhòu [@de@] wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>79638</StartMilliseconds>
+    <EndMilliseconds>80022</EndMilliseconds>
+    <Text>布朗老师：好的，你们是最后的[@五@]个人。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì zuìhòu de [@wǔ@] ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>79924</StartMilliseconds>
+    <EndMilliseconds>80131</EndMilliseconds>
+    <Text>布朗老师：好的，你们是最后的五[@个@]人。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì zuìhòu de wǔ [@ge@] rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>80131</StartMilliseconds>
+    <EndMilliseconds>80862</EndMilliseconds>
+    <Text>布朗老师：好的，你们是最后的五个[@人@]。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì zuìhòu de wǔ ge [@rén@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>80863</StartMilliseconds>
+    <EndMilliseconds>81288</EndMilliseconds>
+    <Text>布朗老师：好的，你们是最后的五个人。
+Bùlǎng lǎoshī: Hǎode, nǐmen shì zuìhòu de wǔ ge rén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>81289</StartMilliseconds>
+    <EndMilliseconds>82267</EndMilliseconds>
+    <Text>里奇：我希望我能赢。
+Lǐqí: Wǒ xīwàng wǒ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>82267</StartMilliseconds>
+    <EndMilliseconds>82718</EndMilliseconds>
+    <Text>里奇：[@我@]希望我能赢。
+Lǐqí: [@Wǒ@] xīwàng wǒ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>82717</StartMilliseconds>
+    <EndMilliseconds>83165</EndMilliseconds>
+    <Text>里奇：我[@希望@]我能赢。
+Lǐqí: Wǒ [@xīwàng@] wǒ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>83165</StartMilliseconds>
+    <EndMilliseconds>83397</EndMilliseconds>
+    <Text>里奇：我希望[@我@]能赢。
+Lǐqí: Wǒ xīwàng [@wǒ@] néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>83397</StartMilliseconds>
+    <EndMilliseconds>83632</EndMilliseconds>
+    <Text>里奇：我希望我[@能@]赢。
+Lǐqí: Wǒ xīwàng wǒ [@néng@] yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>83632</StartMilliseconds>
+    <EndMilliseconds>84631</EndMilliseconds>
+    <Text>里奇：我希望我能[@赢@]。
+Lǐqí: Wǒ xīwàng wǒ néng [@yíng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>84571</StartMilliseconds>
+    <EndMilliseconds>85752</EndMilliseconds>
+    <Text>里奇：我希望我能赢。
+Lǐqí: Wǒ xīwàng wǒ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>85752</StartMilliseconds>
+    <EndMilliseconds>87025</EndMilliseconds>
+    <Text>布朗老师：里奇，拼一下 “gymnasium”。
+Bùlǎng lǎoshī: Lǐqí, pīn yīxià "gymnasium".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>87025</StartMilliseconds>
+    <EndMilliseconds>87818</EndMilliseconds>
+    <Text>布朗老师：[@里奇@]，拼一下 “gymnasium”。
+Bùlǎng lǎoshī: [@Lǐqí@], pīn yīxià "gymnasium".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>87818</StartMilliseconds>
+    <EndMilliseconds>88068</EndMilliseconds>
+    <Text>布朗老师：里奇，[@拼@]一下 “gymnasium”。
+Bùlǎng lǎoshī: Lǐqí, [@pīn@] yīxià "gymnasium".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>88068</StartMilliseconds>
+    <EndMilliseconds>88553</EndMilliseconds>
+    <Text>布朗老师：里奇，拼[@一下@] “gymnasium”。
+Bùlǎng lǎoshī: Lǐqí, pīn [@yīxià@] "gymnasium".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>88553</StartMilliseconds>
+    <EndMilliseconds>89488</EndMilliseconds>
+    <Text>布朗老师：里奇，拼一下 “[@gymnasium@]”。
+Bùlǎng lǎoshī: Lǐqí, pīn yīxià "[@gymnasium@]".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>89488</StartMilliseconds>
+    <EndMilliseconds>89593</EndMilliseconds>
+    <Text>布朗老师：里奇，拼一下 “gymnasium”。
+Bùlǎng lǎoshī: Lǐqí, pīn yīxià "gymnasium".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>89593</StartMilliseconds>
+    <EndMilliseconds>89701</EndMilliseconds>
+    <Text>里奇：Gymnasium？它在范围里吗？
+Lǐqí: Gymnasium?Tā zài fànwéi li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>89701</StartMilliseconds>
+    <EndMilliseconds>91417</EndMilliseconds>
+    <Text>里奇：[@Gymnasium@]？它在范围里吗？
+Lǐqí: [@Gymnasium@]?Tā zài fànwéi li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>91417</StartMilliseconds>
+    <EndMilliseconds>92751</EndMilliseconds>
+    <Text>里奇：Gymnasium？它在范围里吗？
+Lǐqí: Gymnasium?Tā zài fànwéi li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>92751</StartMilliseconds>
+    <EndMilliseconds>93085</EndMilliseconds>
+    <Text>里奇：Gymnasium？[@它@]在范围里吗？
+Lǐqí: Gymnasium?[@Tā@] zài fànwéi li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>93085</StartMilliseconds>
+    <EndMilliseconds>93578</EndMilliseconds>
+    <Text>里奇：Gymnasium？它[@在@]范围里吗？
+Lǐqí: Gymnasium?Tā [@zài@] fànwéi li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>93578</StartMilliseconds>
+    <EndMilliseconds>93975</EndMilliseconds>
+    <Text>里奇：Gymnasium？它在[@范围@]里吗？
+Lǐqí: Gymnasium?Tā zài [@fànwéi@] li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>93976</StartMilliseconds>
+    <EndMilliseconds>94210</EndMilliseconds>
+    <Text>里奇：Gymnasium？它在范围[@里@]吗？
+Lǐqí: Gymnasium?Tā zài fànwéi [@li@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>94210</StartMilliseconds>
+    <EndMilliseconds>94885</EndMilliseconds>
+    <Text>里奇：Gymnasium？它在范围里[@吗@]？
+Lǐqí: Gymnasium?Tā zài fànwéi li [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>94885</StartMilliseconds>
+    <EndMilliseconds>96785</EndMilliseconds>
+    <Text>里奇：Gymnasium？它在范围里吗？
+Lǐqí: Gymnasium?Tā zài fànwéi li ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>96785</StartMilliseconds>
+    <EndMilliseconds>97420</EndMilliseconds>
+    <Text>里奇：嗯……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium。
+Lǐqí: Eng……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>97420</StartMilliseconds>
+    <EndMilliseconds>98822</EndMilliseconds>
+    <Text>里奇：[@嗯@]……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium。
+Lǐqí: [@Eng@]……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>98822</StartMilliseconds>
+    <EndMilliseconds>100451</EndMilliseconds>
+    <Text>里奇：嗯……[@gymnasium@], g-y-m-n-a-s-u-i-m, gymnasium。
+Lǐqí: Eng……[@gymnasium@], g-y-m-n-a-s-u-i-m, gymnasium.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>100458</StartMilliseconds>
+    <EndMilliseconds>101200</EndMilliseconds>
+    <Text>里奇：嗯……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium。
+Lǐqí: Eng……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>101201</StartMilliseconds>
+    <EndMilliseconds>110028</EndMilliseconds>
+    <Text>里奇：嗯……gymnasium, [@g-y-m-n-a-s-u-i-m@], gymnasium。
+Lǐqí: Eng……gymnasium, [@g-y-m-n-a-s-u-i-m@], gymnasium.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>110028</StartMilliseconds>
+    <EndMilliseconds>111635</EndMilliseconds>
+    <Text>里奇：嗯……gymnasium, g-y-m-n-a-s-u-i-m, [@gymnasium@]。
+Lǐqí: Eng……gymnasium, g-y-m-n-a-s-u-i-m, [@gymnasium@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>111635</StartMilliseconds>
+    <EndMilliseconds>111813</EndMilliseconds>
+    <Text>里奇：嗯……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium。
+Lǐqí: Eng……gymnasium, g-y-m-n-a-s-u-i-m, gymnasium.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>111813</StartMilliseconds>
+    <EndMilliseconds>112029</EndMilliseconds>
+    <Text>布朗老师：很遗憾，里奇，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, Lǐqí, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>112029</StartMilliseconds>
+    <EndMilliseconds>112299</EndMilliseconds>
+    <Text>布朗老师：[@很@]遗憾，里奇，答错了。
+Bùlǎng lǎoshī: [@Hěn@] yíhàn, Lǐqí, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>112305</StartMilliseconds>
+    <EndMilliseconds>112841</EndMilliseconds>
+    <Text>布朗老师：很[@遗憾@]，里奇，答错了。
+Bùlǎng lǎoshī: Hěn [@yíhàn@], Lǐqí, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>112841</StartMilliseconds>
+    <EndMilliseconds>113502</EndMilliseconds>
+    <Text>布朗老师：很遗憾，[@里奇@]，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, [@Lǐqí@], dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>113503</StartMilliseconds>
+    <EndMilliseconds>114178</EndMilliseconds>
+    <Text>布朗老师：很遗憾，里奇，[@答错@]了。
+Bùlǎng lǎoshī: Hěn yíhàn, Lǐqí, [@dácuò@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>114178</StartMilliseconds>
+    <EndMilliseconds>114889</EndMilliseconds>
+    <Text>布朗老师：很遗憾，里奇，答错[@了@]。
+Bùlǎng lǎoshī: Hěn yíhàn, Lǐqí, dácuò [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>114890</StartMilliseconds>
+    <EndMilliseconds>124885</EndMilliseconds>
+    <Text>布朗老师：很遗憾，里奇，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, Lǐqí, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>124885</StartMilliseconds>
+    <EndMilliseconds>126828</EndMilliseconds>
+    <Text>布朗老师：恭喜你们，艾米和甜娜。
+Bùlǎng lǎoshī: Gōngxǐ nǐmen, Àimǐ hé Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>126828</StartMilliseconds>
+    <EndMilliseconds>127268</EndMilliseconds>
+    <Text>布朗老师：[@恭喜@]你们，艾米和甜娜。
+Bùlǎng lǎoshī: [@Gōngxǐ@] nǐmen, Àimǐ hé Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>127268</StartMilliseconds>
+    <EndMilliseconds>127981</EndMilliseconds>
+    <Text>布朗老师：恭喜[@你们@]，艾米和甜娜。
+Bùlǎng lǎoshī: Gōngxǐ [@nǐmen@], Àimǐ hé Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>127981</StartMilliseconds>
+    <EndMilliseconds>128602</EndMilliseconds>
+    <Text>布朗老师：恭喜你们，[@艾米@]和甜娜。
+Bùlǎng lǎoshī: Gōngxǐ nǐmen, [@Àimǐ@] hé Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>128602</StartMilliseconds>
+    <EndMilliseconds>129013</EndMilliseconds>
+    <Text>布朗老师：恭喜你们，艾米[@和@]甜娜。
+Bùlǎng lǎoshī: Gōngxǐ nǐmen, Àimǐ [@hé@] Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>128868</StartMilliseconds>
+    <EndMilliseconds>129618</EndMilliseconds>
+    <Text>布朗老师：恭喜你们，艾米和[@甜娜@]。
+Bùlǎng lǎoshī: Gōngxǐ nǐmen, Àimǐ hé [@Tiánnà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>129618</StartMilliseconds>
+    <EndMilliseconds>129989</EndMilliseconds>
+    <Text>布朗老师：恭喜你们，艾米和甜娜。
+Bùlǎng lǎoshī: Gōngxǐ nǐmen, Àimǐ hé Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>129989</StartMilliseconds>
+    <EndMilliseconds>130364</EndMilliseconds>
+    <Text>里奇：我为艾米感到高兴，还有甜娜。
+Lǐqí: Wǒ wèi Àimǐ gǎndào gāoxìng, háiyǒu Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>130364</StartMilliseconds>
+    <EndMilliseconds>130686</EndMilliseconds>
+    <Text>里奇：[@我@]为艾米感到高兴，还有甜娜。
+Lǐqí: [@Wǒ@] wèi Àimǐ gǎndào gāoxìng, háiyǒu Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>130686</StartMilliseconds>
+    <EndMilliseconds>130840</EndMilliseconds>
+    <Text>里奇：我[@为@]艾米感到高兴，还有甜娜。
+Lǐqí: Wǒ [@wèi@] Àimǐ gǎndào gāoxìng, háiyǒu Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>130840</StartMilliseconds>
+    <EndMilliseconds>131518</EndMilliseconds>
+    <Text>里奇：我为[@艾米@]感到高兴，还有甜娜。
+Lǐqí: Wǒ wèi [@Àimǐ@] gǎndào gāoxìng, háiyǒu Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>131518</StartMilliseconds>
+    <EndMilliseconds>132068</EndMilliseconds>
+    <Text>里奇：我为艾米[@感到@]高兴，还有甜娜。
+Lǐqí: Wǒ wèi Àimǐ [@gǎndào@] gāoxìng, háiyǒu Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>132069</StartMilliseconds>
+    <EndMilliseconds>132855</EndMilliseconds>
+    <Text>里奇：我为艾米感到[@高兴@]，还有甜娜。
+Lǐqí: Wǒ wèi Àimǐ gǎndào [@gāoxìng@], háiyǒu Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>132855</StartMilliseconds>
+    <EndMilliseconds>133247</EndMilliseconds>
+    <Text>里奇：我为艾米感到高兴，[@还有@]甜娜。
+Lǐqí: Wǒ wèi Àimǐ gǎndào gāoxìng, [@háiyǒu@] Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>133248</StartMilliseconds>
+    <EndMilliseconds>134168</EndMilliseconds>
+    <Text>里奇：我为艾米感到高兴，还有[@甜娜@]。
+Lǐqí: Wǒ wèi Àimǐ gǎndào gāoxìng, háiyǒu [@Tiánnà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>134168</StartMilliseconds>
+    <EndMilliseconds>135857</EndMilliseconds>
+    <Text>里奇：我为艾米感到高兴，还有甜娜。
+Lǐqí: Wǒ wèi Àimǐ gǎndào gāoxìng, háiyǒu Tiánnà.</Text>
+  </Paragraph>
+</Subtitle>

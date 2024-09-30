@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11760</StartMilliseconds>
+    <EndMilliseconds>16049</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ huì qí zìxíngchē ma?
+敏宇：你会骑自行车吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>16050</StartMilliseconds>
+    <EndMilliseconds>16924</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Nǐ@] huì qí zìxíngchē ma?
+敏宇：[@你@]会骑自行车吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>16925</StartMilliseconds>
+    <EndMilliseconds>17554</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ [@huì@] qí zìxíngchē ma?
+敏宇：你[@会@]骑自行车吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>17555</StartMilliseconds>
+    <EndMilliseconds>18236</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ huì [@qí@] zìxíngchē ma?
+敏宇：你会[@骑@]自行车吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>18237</StartMilliseconds>
+    <EndMilliseconds>19384</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ huì qí [@zìxíngchē@] ma?
+敏宇：你会骑[@自行车@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>19385</StartMilliseconds>
+    <EndMilliseconds>19968</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ huì qí zìxíngchē [@ma@]?
+敏宇：你会骑自行车[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>19969</StartMilliseconds>
+    <EndMilliseconds>20714</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ huì qí zìxíngchē ma?
+敏宇：你会骑自行车吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>20715</StartMilliseconds>
+    <EndMilliseconds>21605</EndMilliseconds>
+    <Text>Shālì: Wǒ huì qí.
+莎莉：我会骑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21606</StartMilliseconds>
+    <EndMilliseconds>22257</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] huì qí.
+莎莉：[@我@]会骑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22258</StartMilliseconds>
+    <EndMilliseconds>22635</EndMilliseconds>
+    <Text>Shālì: Wǒ [@huì@] qí.
+莎莉：我[@会@]骑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22636</StartMilliseconds>
+    <EndMilliseconds>23488</EndMilliseconds>
+    <Text>Shālì: Wǒ huì [@qí@].
+莎莉：我会[@骑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23489</StartMilliseconds>
+    <EndMilliseconds>25039</EndMilliseconds>
+    <Text>Shālì: Wǒ huì qí.
+莎莉：我会骑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25040</StartMilliseconds>
+    <EndMilliseconds>27395</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, nǐ huì huá lúnhuá ma?
+皮特：敏宇，你会滑轮滑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>27396</StartMilliseconds>
+    <EndMilliseconds>29385</EndMilliseconds>
+    <Text>Pítè: [@Mǐnyǔ@], nǐ huì huá lúnhuá ma?
+皮特：[@敏宇@]，你会滑轮滑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>29386</StartMilliseconds>
+    <EndMilliseconds>30023</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, [@nǐ@] huì huá lúnhuá ma?
+皮特：敏宇，[@你@]会滑轮滑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30024</StartMilliseconds>
+    <EndMilliseconds>30794</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, nǐ [@huì@] huá lúnhuá ma?
+皮特：敏宇，你[@会@]滑轮滑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30795</StartMilliseconds>
+    <EndMilliseconds>31333</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, nǐ huì [@huá@] lúnhuá ma?
+皮特：敏宇，你会[@滑@]轮滑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31334</StartMilliseconds>
+    <EndMilliseconds>32290</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, nǐ huì huá [@lúnhuá@] ma?
+皮特：敏宇，你会滑[@轮滑@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32291</StartMilliseconds>
+    <EndMilliseconds>32794</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, nǐ huì huá lúnhuá [@ma@]?
+皮特：敏宇，你会滑轮滑[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32795</StartMilliseconds>
+    <EndMilliseconds>33389</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, nǐ huì huá lúnhuá ma?
+皮特：敏宇，你会滑轮滑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33390</StartMilliseconds>
+    <EndMilliseconds>34331</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ bú huì.
+敏宇：我不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34332</StartMilliseconds>
+    <EndMilliseconds>35244</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Wǒ@] bú huì.
+敏宇：[@我@]不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>35245</StartMilliseconds>
+    <EndMilliseconds>35660</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ [@bú@] huì.
+敏宇：我[@不@]会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>35661</StartMilliseconds>
+    <EndMilliseconds>36269</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ bú [@huì@].
+敏宇：我不[@会@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>36270</StartMilliseconds>
+    <EndMilliseconds>37170</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ bú huì.
+敏宇：我不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>37171</StartMilliseconds>
+    <EndMilliseconds>42122</EndMilliseconds>
+    <Text>Shālì: Nǐ huì huà huà ma?
+莎莉：你会画画吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>42123</StartMilliseconds>
+    <EndMilliseconds>42954</EndMilliseconds>
+    <Text>Shālì: [@Nǐ@] huì huà huà ma?
+莎莉：[@你@]会画画吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>42955</StartMilliseconds>
+    <EndMilliseconds>43750</EndMilliseconds>
+    <Text>Shālì: Nǐ [@huì@] huà huà ma?
+莎莉：你[@会@]画画吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>43751</StartMilliseconds>
+    <EndMilliseconds>44264</EndMilliseconds>
+    <Text>Shālì: Nǐ huì [@huà@] huà ma?
+莎莉：你会[@画@]画吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>44265</StartMilliseconds>
+    <EndMilliseconds>44678</EndMilliseconds>
+    <Text>Shālì: Nǐ huì huà [@huà@] ma?
+莎莉：你会画[@画@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>44679</StartMilliseconds>
+    <EndMilliseconds>45191</EndMilliseconds>
+    <Text>Shālì: Nǐ huì huà huà [@ma@]?
+莎莉：你会画画[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>45192</StartMilliseconds>
+    <EndMilliseconds>46115</EndMilliseconds>
+    <Text>Shālì: Nǐ huì huà huà ma?
+莎莉：你会画画吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>46116</StartMilliseconds>
+    <EndMilliseconds>46954</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ huì huà huà.
+敏宇：我会画画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>46955</StartMilliseconds>
+    <EndMilliseconds>47681</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Wǒ@] huì huà huà.
+敏宇：[@我@]会画画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>47682</StartMilliseconds>
+    <EndMilliseconds>48082</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ [@huì@] huà huà.
+敏宇：我[@会@]画画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>48083</StartMilliseconds>
+    <EndMilliseconds>48447</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ huì [@huà@] huà.
+敏宇：我会[@画@]画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>48448</StartMilliseconds>
+    <EndMilliseconds>49036</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ huì huà [@huà@].
+敏宇：我会画[@画@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>49037</StartMilliseconds>
+    <EndMilliseconds>51217</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ huì huà huà.
+敏宇：我会画画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>51218</StartMilliseconds>
+    <EndMilliseconds>53981</EndMilliseconds>
+    <Text>Pítè: Shālì, nǐ huì chàng gē ma?
+皮特：莎莉，你会唱歌吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>53982</StartMilliseconds>
+    <EndMilliseconds>56081</EndMilliseconds>
+    <Text>Pítè: [@Shālì@], nǐ huì chàng gē ma?
+皮特：[@莎莉@]，你会唱歌吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>56082</StartMilliseconds>
+    <EndMilliseconds>56742</EndMilliseconds>
+    <Text>Pítè: Shālì, [@nǐ@] huì chàng gē ma?
+皮特：莎莉，[@你@]会唱歌吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>56743</StartMilliseconds>
+    <EndMilliseconds>57472</EndMilliseconds>
+    <Text>Pítè: Shālì, nǐ [@huì@] chàng gē ma?
+皮特：莎莉，你[@会@]唱歌吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>57473</StartMilliseconds>
+    <EndMilliseconds>58093</EndMilliseconds>
+    <Text>Pítè: Shālì, nǐ huì [@chàng@] gē ma?
+皮特：莎莉，你会[@唱@]歌吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>58094</StartMilliseconds>
+    <EndMilliseconds>58562</EndMilliseconds>
+    <Text>Pítè: Shālì, nǐ huì chàng [@gē@] ma?
+皮特：莎莉，你会唱[@歌@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>58563</StartMilliseconds>
+    <EndMilliseconds>59122</EndMilliseconds>
+    <Text>Pítè: Shālì, nǐ huì chàng gē [@ma@]?
+皮特：莎莉，你会唱歌[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>59123</StartMilliseconds>
+    <EndMilliseconds>59984</EndMilliseconds>
+    <Text>Pítè: Shālì, nǐ huì chàng gē ma?
+皮特：莎莉，你会唱歌吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>59985</StartMilliseconds>
+    <EndMilliseconds>60768</EndMilliseconds>
+    <Text>Shālì: Wǒ huì chàng gē.
+莎莉：我会唱歌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>60769</StartMilliseconds>
+    <EndMilliseconds>61511</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] huì chàng gē.
+莎莉：[@我@]会唱歌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>61512</StartMilliseconds>
+    <EndMilliseconds>62110</EndMilliseconds>
+    <Text>Shālì: Wǒ [@huì@] chàng gē.
+莎莉：我[@会@]唱歌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>62111</StartMilliseconds>
+    <EndMilliseconds>62754</EndMilliseconds>
+    <Text>Shālì: Wǒ huì [@chàng@] gē.
+莎莉：我会[@唱@]歌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>62755</StartMilliseconds>
+    <EndMilliseconds>63383</EndMilliseconds>
+    <Text>Shālì: Wǒ huì chàng [@gē@].
+莎莉：我会唱[@歌@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>63384</StartMilliseconds>
+    <EndMilliseconds>65037</EndMilliseconds>
+    <Text>Shālì: Wǒ huì chàng gē.
+莎莉：我会唱歌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>65038</StartMilliseconds>
+    <EndMilliseconds>73058</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ huì dǎ bàngqiú ma?
+敏宇：皮特，你会打棒球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>73059</StartMilliseconds>
+    <EndMilliseconds>74786</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Pítè@], nǐ huì dǎ bàngqiú ma?
+敏宇：[@皮特@]，你会打棒球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>74787</StartMilliseconds>
+    <EndMilliseconds>75592</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, [@nǐ@] huì dǎ bàngqiú ma?
+敏宇：皮特，[@你@]会打棒球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>75593</StartMilliseconds>
+    <EndMilliseconds>76206</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ [@huì@] dǎ bàngqiú ma?
+敏宇：皮特，你[@会@]打棒球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>76207</StartMilliseconds>
+    <EndMilliseconds>76621</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ huì [@dǎ@] bàngqiú ma?
+敏宇：皮特，你会[@打@]棒球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>76622</StartMilliseconds>
+    <EndMilliseconds>77421</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ huì dǎ [@bàngqiú@] ma?
+敏宇：皮特，你会打[@棒球@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>77422</StartMilliseconds>
+    <EndMilliseconds>77974</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ huì dǎ bàngqiú [@ma@]?
+敏宇：皮特，你会打棒球[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>77975</StartMilliseconds>
+    <EndMilliseconds>78775</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ huì dǎ bàngqiú ma?
+敏宇：皮特，你会打棒球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>78776</StartMilliseconds>
+    <EndMilliseconds>79797</EndMilliseconds>
+    <Text>Pítè: Wǒ bú huì.
+皮特：我不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>79798</StartMilliseconds>
+    <EndMilliseconds>80621</EndMilliseconds>
+    <Text>Pítè: [@Wǒ@] bú huì.
+皮特：[@我@]不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>80622</StartMilliseconds>
+    <EndMilliseconds>81238</EndMilliseconds>
+    <Text>Pítè: Wǒ [@bú@] huì.
+皮特：我[@不@]会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>81239</StartMilliseconds>
+    <EndMilliseconds>82237</EndMilliseconds>
+    <Text>Pítè: Wǒ bú [@huì@].
+皮特：我不[@会@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>82238</StartMilliseconds>
+    <EndMilliseconds>84054</EndMilliseconds>
+    <Text>Pítè: Wǒ bú huì.
+皮特：我不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>84055</StartMilliseconds>
+    <EndMilliseconds>85943</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, nǐmen huì tī zúqiú ma?
+皮特：敏宇，莎莉，你们会踢足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>85944</StartMilliseconds>
+    <EndMilliseconds>87847</EndMilliseconds>
+    <Text>Pítè: [@Mǐnyǔ@], Shālì, nǐmen huì tī zúqiú ma?
+皮特：[@敏宇@]，莎莉，你们会踢足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>87848</StartMilliseconds>
+    <EndMilliseconds>89660</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, [@Shālì@], nǐmen huì tī zúqiú ma?
+皮特：敏宇，[@莎莉@]，你们会踢足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>89661</StartMilliseconds>
+    <EndMilliseconds>91055</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, [@nǐmen@] huì tī zúqiú ma?
+皮特：敏宇，莎莉，[@你们@]会踢足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>91056</StartMilliseconds>
+    <EndMilliseconds>91566</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, nǐmen [@huì@] tī zúqiú ma?
+皮特：敏宇，莎莉，你们[@会@]踢足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>91567</StartMilliseconds>
+    <EndMilliseconds>92187</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, nǐmen huì [@tī@] zúqiú ma?
+皮特：敏宇，莎莉，你们会[@踢@]足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>92188</StartMilliseconds>
+    <EndMilliseconds>93114</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, nǐmen huì tī [@zúqiú@] ma?
+皮特：敏宇，莎莉，你们会踢[@足球@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>93115</StartMilliseconds>
+    <EndMilliseconds>93764</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, nǐmen huì tī zúqiú [@ma@]?
+皮特：敏宇，莎莉，你们会踢足球[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>93765</StartMilliseconds>
+    <EndMilliseconds>94153</EndMilliseconds>
+    <Text>Pítè: Mǐnyǔ, Shālì, nǐmen huì tī zúqiú ma?
+皮特：敏宇，莎莉，你们会踢足球吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>94154</StartMilliseconds>
+    <EndMilliseconds>94733</EndMilliseconds>
+    <Text>Shālì: Wǒ bú huì.
+莎莉：我不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>94734</StartMilliseconds>
+    <EndMilliseconds>95424</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] bú huì.
+莎莉：[@我@]不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>95425</StartMilliseconds>
+    <EndMilliseconds>95851</EndMilliseconds>
+    <Text>Shālì: Wǒ [@bú@] huì.
+莎莉：我[@不@]会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>95852</StartMilliseconds>
+    <EndMilliseconds>96625</EndMilliseconds>
+    <Text>Shālì: Wǒ bú [@huì@].
+莎莉：我不[@会@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>96626</StartMilliseconds>
+    <EndMilliseconds>97137</EndMilliseconds>
+    <Text>Shālì: Wǒ bú huì.
+莎莉：我不会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>97138</StartMilliseconds>
+    <EndMilliseconds>97842</EndMilliseconds>
+    <Text>Pítè: Wǒ huì!
+皮特：我会！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>97843</StartMilliseconds>
+    <EndMilliseconds>98912</EndMilliseconds>
+    <Text>Pítè: [@Wǒ@] huì!
+皮特：[@我@]会！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>98913</StartMilliseconds>
+    <EndMilliseconds>99855</EndMilliseconds>
+    <Text>Pítè: Wǒ [@huì@]!
+皮特：我[@会@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>99856</StartMilliseconds>
+    <EndMilliseconds>104906</EndMilliseconds>
+    <Text>Pítè: Wǒ huì!
+皮特：我会！</Text>
+  </Paragraph>
+</Subtitle>

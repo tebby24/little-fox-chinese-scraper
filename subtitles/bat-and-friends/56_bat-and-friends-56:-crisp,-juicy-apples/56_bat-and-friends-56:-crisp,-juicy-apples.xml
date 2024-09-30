@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>15690</StartMilliseconds>
+    <EndMilliseconds>39274</EndMilliseconds>
+    <Text>Xiǎo Zhū fàngxià píngguǒ.
+小猪放下苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>39275</StartMilliseconds>
+    <EndMilliseconds>39679</EndMilliseconds>
+    <Text>[@Xiǎo@] Zhū fàngxià píngguǒ.
+[@小@]猪放下苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>39680</StartMilliseconds>
+    <EndMilliseconds>40266</EndMilliseconds>
+    <Text>Xiǎo [@Zhū@] fàngxià píngguǒ.
+小[@猪@]放下苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>40267</StartMilliseconds>
+    <EndMilliseconds>41045</EndMilliseconds>
+    <Text>Xiǎo Zhū [@fàngxià@] píngguǒ.
+小猪[@放下@]苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>41046</StartMilliseconds>
+    <EndMilliseconds>41961</EndMilliseconds>
+    <Text>Xiǎo Zhū fàngxià [@píngguǒ@].
+小猪放下[@苹果@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>41962</StartMilliseconds>
+    <EndMilliseconds>43433</EndMilliseconds>
+    <Text>Xiǎo Zhū fàngxià píngguǒ.
+小猪放下苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>43434</StartMilliseconds>
+    <EndMilliseconds>44101</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài chī tāmen." Xiǎo Nǎiniú shuō.
+“我们过会儿再吃它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>44102</StartMilliseconds>
+    <EndMilliseconds>44901</EndMilliseconds>
+    <Text>"[@Wǒmen@] guò huìr zài chī tāmen." Xiǎo Nǎiniú shuō.
+“[@我们@]过会儿再吃它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>44902</StartMilliseconds>
+    <EndMilliseconds>45320</EndMilliseconds>
+    <Text>"Wǒmen [@guò@] huìr zài chī tāmen." Xiǎo Nǎiniú shuō.
+“我们[@过@]会儿再吃它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>45321</StartMilliseconds>
+    <EndMilliseconds>45711</EndMilliseconds>
+    <Text>"Wǒmen guò [@huìr@] zài chī tāmen." Xiǎo Nǎiniú shuō.
+“我们过[@会儿@]再吃它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>45712</StartMilliseconds>
+    <EndMilliseconds>45978</EndMilliseconds>
+    <Text>"Wǒmen guò huìr [@zài@] chī tāmen." Xiǎo Nǎiniú shuō.
+“我们过会儿[@再@]吃它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>45979</StartMilliseconds>
+    <EndMilliseconds>46425</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài [@chī@] tāmen." Xiǎo Nǎiniú shuō.
+“我们过会儿再[@吃@]它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>46426</StartMilliseconds>
+    <EndMilliseconds>47492</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài chī [@tāmen@]." Xiǎo Nǎiniú shuō.
+“我们过会儿再吃[@它们@]。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>47493</StartMilliseconds>
+    <EndMilliseconds>47871</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài chī tāmen." [@Xiǎo@] Nǎiniú shuō.
+“我们过会儿再吃它们。”[@小@]奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>47872</StartMilliseconds>
+    <EndMilliseconds>48335</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài chī tāmen." Xiǎo [@Nǎiniú@] shuō.
+“我们过会儿再吃它们。”小[@奶牛@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>48336</StartMilliseconds>
+    <EndMilliseconds>48762</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài chī tāmen." Xiǎo Nǎiniú [@shuō@].
+“我们过会儿再吃它们。”小奶牛[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>48763</StartMilliseconds>
+    <EndMilliseconds>49697</EndMilliseconds>
+    <Text>"Wǒmen guò huìr zài chī tāmen." Xiǎo Nǎiniú shuō.
+“我们过会儿再吃它们。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>49698</StartMilliseconds>
+    <EndMilliseconds>50682</EndMilliseconds>
+    <Text>Xiǎo Nǎiniú zǒuchū le gǔcāng.
+小奶牛走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>50683</StartMilliseconds>
+    <EndMilliseconds>51063</EndMilliseconds>
+    <Text>[@Xiǎo@] Nǎiniú zǒuchū le gǔcāng.
+[@小@]奶牛走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>51064</StartMilliseconds>
+    <EndMilliseconds>52098</EndMilliseconds>
+    <Text>Xiǎo [@Nǎiniú@] zǒuchū le gǔcāng.
+小[@奶牛@]走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>52099</StartMilliseconds>
+    <EndMilliseconds>52645</EndMilliseconds>
+    <Text>Xiǎo Nǎiniú [@zǒuchū@] le gǔcāng.
+小奶牛[@走出@]了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>52646</StartMilliseconds>
+    <EndMilliseconds>53118</EndMilliseconds>
+    <Text>Xiǎo Nǎiniú zǒuchū [@le@] gǔcāng.
+小奶牛走出[@了@]谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>53119</StartMilliseconds>
+    <EndMilliseconds>53871</EndMilliseconds>
+    <Text>Xiǎo Nǎiniú zǒuchū le [@gǔcāng@].
+小奶牛走出了[@谷仓@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>53872</StartMilliseconds>
+    <EndMilliseconds>55427</EndMilliseconds>
+    <Text>Xiǎo Nǎiniú zǒuchū le gǔcāng.
+小奶牛走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>55428</StartMilliseconds>
+    <EndMilliseconds>56779</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo Biānfú yě zǒuchū le gǔcāng.
+小猫、小狗和小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>56780</StartMilliseconds>
+    <EndMilliseconds>57201</EndMilliseconds>
+    <Text>[@Xiǎo@] Māo、Xiǎo Gǒu hé Xiǎo Biānfú yě zǒuchū le gǔcāng.
+[@小@]猫、小狗和小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>57202</StartMilliseconds>
+    <EndMilliseconds>58081</EndMilliseconds>
+    <Text>Xiǎo [@Māo@]、Xiǎo Gǒu hé Xiǎo Biānfú yě zǒuchū le gǔcāng.
+小[@猫@]、小狗和小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>58082</StartMilliseconds>
+    <EndMilliseconds>58563</EndMilliseconds>
+    <Text>Xiǎo Māo、[@Xiǎo@] Gǒu hé Xiǎo Biānfú yě zǒuchū le gǔcāng.
+小猫、[@小@]狗和小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>58564</StartMilliseconds>
+    <EndMilliseconds>59297</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo [@Gǒu@] hé Xiǎo Biānfú yě zǒuchū le gǔcāng.
+小猫、小[@狗@]和小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>59298</StartMilliseconds>
+    <EndMilliseconds>59506</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu [@hé@] Xiǎo Biānfú yě zǒuchū le gǔcāng.
+小猫、小狗[@和@]小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>59507</StartMilliseconds>
+    <EndMilliseconds>59890</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé [@Xiǎo@] Biānfú yě zǒuchū le gǔcāng.
+小猫、小狗和[@小@]蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>59891</StartMilliseconds>
+    <EndMilliseconds>60976</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo [@Biānfú@] yě zǒuchū le gǔcāng.
+小猫、小狗和小[@蝙蝠@]也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>60977</StartMilliseconds>
+    <EndMilliseconds>61344</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo Biānfú [@yě@] zǒuchū le gǔcāng.
+小猫、小狗和小蝙蝠[@也@]走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>61345</StartMilliseconds>
+    <EndMilliseconds>61913</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo Biānfú yě [@zǒuchū@] le gǔcāng.
+小猫、小狗和小蝙蝠也[@走出@]了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>61914</StartMilliseconds>
+    <EndMilliseconds>62295</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo Biānfú yě zǒuchū [@le@] gǔcāng.
+小猫、小狗和小蝙蝠也走出[@了@]谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>62296</StartMilliseconds>
+    <EndMilliseconds>63003</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo Biānfú yě zǒuchū le [@gǔcāng@].
+小猫、小狗和小蝙蝠也走出了[@谷仓@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>63004</StartMilliseconds>
+    <EndMilliseconds>65342</EndMilliseconds>
+    <Text>Xiǎo Māo、Xiǎo Gǒu hé Xiǎo Biānfú yě zǒuchū le gǔcāng.
+小猫、小狗和小蝙蝠也走出了谷仓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>65343</StartMilliseconds>
+    <EndMilliseconds>66184</EndMilliseconds>
+    <Text>Xiànzài gǔcāng fēicháng ānjìng.
+现在谷仓非常安静。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>66185</StartMilliseconds>
+    <EndMilliseconds>67375</EndMilliseconds>
+    <Text>[@Xiànzài@] gǔcāng fēicháng ānjìng.
+[@现在@]谷仓非常安静。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>67376</StartMilliseconds>
+    <EndMilliseconds>68438</EndMilliseconds>
+    <Text>Xiànzài [@gǔcāng@] fēicháng ānjìng.
+现在[@谷仓@]非常安静。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>68439</StartMilliseconds>
+    <EndMilliseconds>69227</EndMilliseconds>
+    <Text>Xiànzài gǔcāng [@fēicháng@] ānjìng.
+现在谷仓[@非常@]安静。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>69228</StartMilliseconds>
+    <EndMilliseconds>69838</EndMilliseconds>
+    <Text>Xiànzài gǔcāng fēicháng [@ānjìng@].
+现在谷仓非常[@安静@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>69839</StartMilliseconds>
+    <EndMilliseconds>74446</EndMilliseconds>
+    <Text>Xiànzài gǔcāng fēicháng ānjìng.
+现在谷仓非常安静。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>74447</StartMilliseconds>
+    <EndMilliseconds>75608</EndMilliseconds>
+    <Text>Xiǎo Zhū tīngjiàn wūyā de shēngyīn.
+小猪听见乌鸦的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>75609</StartMilliseconds>
+    <EndMilliseconds>76052</EndMilliseconds>
+    <Text>[@Xiǎo@] Zhū tīngjiàn wūyā de shēngyīn.
+[@小@]猪听见乌鸦的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>76053</StartMilliseconds>
+    <EndMilliseconds>76783</EndMilliseconds>
+    <Text>Xiǎo [@Zhū@] tīngjiàn wūyā de shēngyīn.
+小[@猪@]听见乌鸦的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>76784</StartMilliseconds>
+    <EndMilliseconds>77716</EndMilliseconds>
+    <Text>Xiǎo Zhū [@tīngjiàn@] wūyā de shēngyīn.
+小猪[@听见@]乌鸦的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>77717</StartMilliseconds>
+    <EndMilliseconds>78322</EndMilliseconds>
+    <Text>Xiǎo Zhū tīngjiàn [@wūyā@] de shēngyīn.
+小猪听见[@乌鸦@]的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>78323</StartMilliseconds>
+    <EndMilliseconds>78438</EndMilliseconds>
+    <Text>Xiǎo Zhū tīngjiàn wūyā [@de@] shēngyīn.
+小猪听见乌鸦[@的@]声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>78439</StartMilliseconds>
+    <EndMilliseconds>79057</EndMilliseconds>
+    <Text>Xiǎo Zhū tīngjiàn wūyā de [@shēngyīn@].
+小猪听见乌鸦的[@声音@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>79058</StartMilliseconds>
+    <EndMilliseconds>82205</EndMilliseconds>
+    <Text>Xiǎo Zhū tīngjiàn wūyā de shēngyīn.
+小猪听见乌鸦的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>82206</StartMilliseconds>
+    <EndMilliseconds>84151</EndMilliseconds>
+    <Text>Dànshì tā tīng bu dào péngyǒumen de shēngyīn.
+但是他听不到朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>84152</StartMilliseconds>
+    <EndMilliseconds>85167</EndMilliseconds>
+    <Text>[@Dànshì@] tā tīng bu dào péngyǒumen de shēngyīn.
+[@但是@]他听不到朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>85168</StartMilliseconds>
+    <EndMilliseconds>85433</EndMilliseconds>
+    <Text>Dànshì [@tā@] tīng bu dào péngyǒumen de shēngyīn.
+但是[@他@]听不到朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>85434</StartMilliseconds>
+    <EndMilliseconds>85768</EndMilliseconds>
+    <Text>Dànshì tā [@tīng@] bu dào péngyǒumen de shēngyīn.
+但是他[@听@]不到朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>85769</StartMilliseconds>
+    <EndMilliseconds>85937</EndMilliseconds>
+    <Text>Dànshì tā tīng [@bu@] dào péngyǒumen de shēngyīn.
+但是他听[@不@]到朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>85938</StartMilliseconds>
+    <EndMilliseconds>86487</EndMilliseconds>
+    <Text>Dànshì tā tīng bu [@dào@] péngyǒumen de shēngyīn.
+但是他听不[@到@]朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>86488</StartMilliseconds>
+    <EndMilliseconds>87306</EndMilliseconds>
+    <Text>Dànshì tā tīng bu dào [@péngyǒumen@] de shēngyīn.
+但是他听不到[@朋友们@]的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>87307</StartMilliseconds>
+    <EndMilliseconds>87645</EndMilliseconds>
+    <Text>Dànshì tā tīng bu dào péngyǒumen [@de@] shēngyīn.
+但是他听不到朋友们[@的@]声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>87646</StartMilliseconds>
+    <EndMilliseconds>88297</EndMilliseconds>
+    <Text>Dànshì tā tīng bu dào péngyǒumen de [@shēngyīn@].
+但是他听不到朋友们的[@声音@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>88298</StartMilliseconds>
+    <EndMilliseconds>90112</EndMilliseconds>
+    <Text>Dànshì tā tīng bu dào péngyǒumen de shēngyīn.
+但是他听不到朋友们的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>90113</StartMilliseconds>
+    <EndMilliseconds>91327</EndMilliseconds>
+    <Text>Xiǎo Zhū huídào píngguǒ páng.
+小猪回到苹果旁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>91328</StartMilliseconds>
+    <EndMilliseconds>91639</EndMilliseconds>
+    <Text>[@Xiǎo@] Zhū huídào píngguǒ páng.
+[@小@]猪回到苹果旁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>91640</StartMilliseconds>
+    <EndMilliseconds>92368</EndMilliseconds>
+    <Text>Xiǎo [@Zhū@] huídào píngguǒ páng.
+小[@猪@]回到苹果旁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>92369</StartMilliseconds>
+    <EndMilliseconds>93040</EndMilliseconds>
+    <Text>Xiǎo Zhū [@huídào@] píngguǒ páng.
+小猪[@回到@]苹果旁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>93041</StartMilliseconds>
+    <EndMilliseconds>93704</EndMilliseconds>
+    <Text>Xiǎo Zhū huídào [@píngguǒ@] páng.
+小猪回到[@苹果@]旁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>93705</StartMilliseconds>
+    <EndMilliseconds>94257</EndMilliseconds>
+    <Text>Xiǎo Zhū huídào píngguǒ [@páng@].
+小猪回到苹果[@旁@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>94258</StartMilliseconds>
+    <EndMilliseconds>96911</EndMilliseconds>
+    <Text>Xiǎo Zhū huídào píngguǒ páng.
+小猪回到苹果旁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>96912</StartMilliseconds>
+    <EndMilliseconds>98181</EndMilliseconds>
+    <Text>"Ēng." Xiǎo Zhū shuō.
+“嗯。”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>98182</StartMilliseconds>
+    <EndMilliseconds>99606</EndMilliseconds>
+    <Text>"[@Ēng@]." Xiǎo Zhū shuō.
+“[@嗯@]。”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>99607</StartMilliseconds>
+    <EndMilliseconds>100000</EndMilliseconds>
+    <Text>"Ēng." [@Xiǎo@] Zhū shuō.
+“嗯。”[@小@]猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>100001</StartMilliseconds>
+    <EndMilliseconds>100232</EndMilliseconds>
+    <Text>"Ēng." Xiǎo [@Zhū@] shuō.
+“嗯。”小[@猪@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>100233</StartMilliseconds>
+    <EndMilliseconds>100699</EndMilliseconds>
+    <Text>"Ēng." Xiǎo Zhū [@shuō@].
+“嗯。”小猪[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>100700</StartMilliseconds>
+    <EndMilliseconds>101329</EndMilliseconds>
+    <Text>"Ēng." Xiǎo Zhū shuō.
+“嗯。”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>101330</StartMilliseconds>
+    <EndMilliseconds>101825</EndMilliseconds>
+    <Text>"Wǒ tài xǐhuan píngguǒ le,
+“我太喜欢苹果了，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>101826</StartMilliseconds>
+    <EndMilliseconds>102045</EndMilliseconds>
+    <Text>"[@Wǒ@] tài xǐhuan píngguǒ le,
+“[@我@]太喜欢苹果了，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>102046</StartMilliseconds>
+    <EndMilliseconds>102446</EndMilliseconds>
+    <Text>"Wǒ [@tài@] xǐhuan píngguǒ le,
+“我[@太@]喜欢苹果了，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>102447</StartMilliseconds>
+    <EndMilliseconds>103105</EndMilliseconds>
+    <Text>"Wǒ tài [@xǐhuan@] píngguǒ le,
+“我太[@喜欢@]苹果了，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>103106</StartMilliseconds>
+    <EndMilliseconds>103875</EndMilliseconds>
+    <Text>"Wǒ tài xǐhuan [@píngguǒ@] le,
+“我太喜欢[@苹果@]了，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>103876</StartMilliseconds>
+    <EndMilliseconds>104085</EndMilliseconds>
+    <Text>"Wǒ tài xǐhuan píngguǒ [@le@],
+“我太喜欢苹果[@了@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>104086</StartMilliseconds>
+    <EndMilliseconds>104772</EndMilliseconds>
+    <Text>"Wǒ tài xǐhuan píngguǒ le,
+“我太喜欢苹果了，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>104773</StartMilliseconds>
+    <EndMilliseconds>105073</EndMilliseconds>
+    <Text>yòu cuì yòu duō zhī de píngguǒ."
+又脆又多汁的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>105074</StartMilliseconds>
+    <EndMilliseconds>105408</EndMilliseconds>
+    <Text>[@yòu@] cuì yòu duō zhī de píngguǒ."
+[@又@]脆又多汁的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>105409</StartMilliseconds>
+    <EndMilliseconds>106351</EndMilliseconds>
+    <Text>yòu [@cuì@] yòu duō zhī de píngguǒ."
+又[@脆@]又多汁的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>106352</StartMilliseconds>
+    <EndMilliseconds>106675</EndMilliseconds>
+    <Text>yòu cuì [@yòu@] duō zhī de píngguǒ."
+又脆[@又@]多汁的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>106676</StartMilliseconds>
+    <EndMilliseconds>106915</EndMilliseconds>
+    <Text>yòu cuì yòu [@duō@] zhī de píngguǒ."
+又脆又[@多@]汁的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>106916</StartMilliseconds>
+    <EndMilliseconds>107201</EndMilliseconds>
+    <Text>yòu cuì yòu duō [@zhī@] de píngguǒ."
+又脆又多[@汁@]的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>107202</StartMilliseconds>
+    <EndMilliseconds>107368</EndMilliseconds>
+    <Text>yòu cuì yòu duō zhī [@de@] píngguǒ."
+又脆又多汁[@的@]苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>107369</StartMilliseconds>
+    <EndMilliseconds>108376</EndMilliseconds>
+    <Text>yòu cuì yòu duō zhī de [@píngguǒ@]."
+又脆又多汁的[@苹果@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>108377</StartMilliseconds>
+    <EndMilliseconds>110367</EndMilliseconds>
+    <Text>yòu cuì yòu duō zhī de píngguǒ."
+又脆又多汁的苹果。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>110368</StartMilliseconds>
+    <EndMilliseconds>111351</EndMilliseconds>
+    <Text>Xiǎo Zhū wén le wén píngguǒ.
+小猪闻了闻苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>111352</StartMilliseconds>
+    <EndMilliseconds>111754</EndMilliseconds>
+    <Text>[@Xiǎo@] Zhū wén le wén píngguǒ.
+[@小@]猪闻了闻苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>111755</StartMilliseconds>
+    <EndMilliseconds>112478</EndMilliseconds>
+    <Text>Xiǎo [@Zhū@] wén le wén píngguǒ.
+小[@猪@]闻了闻苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>112479</StartMilliseconds>
+    <EndMilliseconds>112799</EndMilliseconds>
+    <Text>Xiǎo Zhū [@wén@] le wén píngguǒ.
+小猪[@闻@]了闻苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>112800</StartMilliseconds>
+    <EndMilliseconds>112962</EndMilliseconds>
+    <Text>Xiǎo Zhū wén [@le@] wén píngguǒ.
+小猪闻[@了@]闻苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>112963</StartMilliseconds>
+    <EndMilliseconds>113422</EndMilliseconds>
+    <Text>Xiǎo Zhū wén le [@wén@] píngguǒ.
+小猪闻了[@闻@]苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>113423</StartMilliseconds>
+    <EndMilliseconds>114330</EndMilliseconds>
+    <Text>Xiǎo Zhū wén le wén [@píngguǒ@].
+小猪闻了闻[@苹果@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>114331</StartMilliseconds>
+    <EndMilliseconds>114675</EndMilliseconds>
+    <Text>Xiǎo Zhū wén le wén píngguǒ.
+小猪闻了闻苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>114676</StartMilliseconds>
+    <EndMilliseconds>114955</EndMilliseconds>
+    <Text>Tā yòu wén le wén.
+他又闻了闻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>114956</StartMilliseconds>
+    <EndMilliseconds>115720</EndMilliseconds>
+    <Text>[@Tā@] yòu wén le wén.
+[@他@]又闻了闻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>115721</StartMilliseconds>
+    <EndMilliseconds>116187</EndMilliseconds>
+    <Text>Tā [@yòu@] wén le wén.
+他[@又@]闻了闻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>116188</StartMilliseconds>
+    <EndMilliseconds>116401</EndMilliseconds>
+    <Text>Tā yòu [@wén@] le wén.
+他又[@闻@]了闻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>116402</StartMilliseconds>
+    <EndMilliseconds>116597</EndMilliseconds>
+    <Text>Tā yòu wén [@le@] wén.
+他又闻[@了@]闻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>116598</StartMilliseconds>
+    <EndMilliseconds>116971</EndMilliseconds>
+    <Text>Tā yòu wén le [@wén@].
+他又闻了[@闻@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>116972</StartMilliseconds>
+    <EndMilliseconds>120474</EndMilliseconds>
+    <Text>Tā yòu wén le wén.
+他又闻了闻。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>120475</StartMilliseconds>
+    <EndMilliseconds>123703</EndMilliseconds>
+    <Text>"Bù xíng, Xiǎo Zhū!" Xiǎo Zhū shuō.
+“不行，小猪！”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>123704</StartMilliseconds>
+    <EndMilliseconds>123848</EndMilliseconds>
+    <Text>"[@Bù@] xíng, Xiǎo Zhū!" Xiǎo Zhū shuō.
+“[@不@]行，小猪！”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>123849</StartMilliseconds>
+    <EndMilliseconds>124489</EndMilliseconds>
+    <Text>"Bù [@xíng@], Xiǎo Zhū!" Xiǎo Zhū shuō.
+“不[@行@]，小猪！”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>124490</StartMilliseconds>
+    <EndMilliseconds>124843</EndMilliseconds>
+    <Text>"Bù xíng, [@Xiǎo@] Zhū!" Xiǎo Zhū shuō.
+“不行，[@小@]猪！”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>124844</StartMilliseconds>
+    <EndMilliseconds>125555</EndMilliseconds>
+    <Text>"Bù xíng, Xiǎo [@Zhū@]!" Xiǎo Zhū shuō.
+“不行，小[@猪@]！”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>125556</StartMilliseconds>
+    <EndMilliseconds>125933</EndMilliseconds>
+    <Text>"Bù xíng, Xiǎo Zhū!" [@Xiǎo@] Zhū shuō.
+“不行，小猪！”[@小@]猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>125934</StartMilliseconds>
+    <EndMilliseconds>126164</EndMilliseconds>
+    <Text>"Bù xíng, Xiǎo Zhū!" Xiǎo [@Zhū@] shuō.
+“不行，小猪！”小[@猪@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>126165</StartMilliseconds>
+    <EndMilliseconds>126652</EndMilliseconds>
+    <Text>"Bù xíng, Xiǎo Zhū!" Xiǎo Zhū [@shuō@].
+“不行，小猪！”小猪[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>126653</StartMilliseconds>
+    <EndMilliseconds>130764</EndMilliseconds>
+    <Text>"Bù xíng, Xiǎo Zhū!" Xiǎo Zhū shuō.
+“不行，小猪！”小猪说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>130765</StartMilliseconds>
+    <EndMilliseconds>131816</EndMilliseconds>
+    <Text>"Bú yào chī zhèxiē píngguǒ!"
+“不要吃这些苹果！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>131817</StartMilliseconds>
+    <EndMilliseconds>132192</EndMilliseconds>
+    <Text>"[@Bú@] yào chī zhèxiē píngguǒ!"
+“[@不@]要吃这些苹果！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>132193</StartMilliseconds>
+    <EndMilliseconds>132473</EndMilliseconds>
+    <Text>"Bú [@yào@] chī zhèxiē píngguǒ!"
+“不[@要@]吃这些苹果！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>132474</StartMilliseconds>
+    <EndMilliseconds>132883</EndMilliseconds>
+    <Text>"Bú yào [@chī@] zhèxiē píngguǒ!"
+“不要[@吃@]这些苹果！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>132884</StartMilliseconds>
+    <EndMilliseconds>133294</EndMilliseconds>
+    <Text>"Bú yào chī [@zhèxiē@] píngguǒ!"
+“不要吃[@这些@]苹果！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>133295</StartMilliseconds>
+    <EndMilliseconds>133959</EndMilliseconds>
+    <Text>"Bú yào chī zhèxiē [@píngguǒ@]!"
+“不要吃这些[@苹果@]！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>133960</StartMilliseconds>
+    <EndMilliseconds>139511</EndMilliseconds>
+    <Text>"Bú yào chī zhèxiē píngguǒ!"
+“不要吃这些苹果！”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>139512</StartMilliseconds>
+    <EndMilliseconds>141029</EndMilliseconds>
+    <Text>Xiǎo Māo hé Xiǎo Biānfú zuòzài zhuōzi biān.
+小猫和小蝙蝠坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>141030</StartMilliseconds>
+    <EndMilliseconds>141392</EndMilliseconds>
+    <Text>[@Xiǎo@] Māo hé Xiǎo Biānfú zuòzài zhuōzi biān.
+[@小@]猫和小蝙蝠坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>141393</StartMilliseconds>
+    <EndMilliseconds>142067</EndMilliseconds>
+    <Text>Xiǎo [@Māo@] hé Xiǎo Biānfú zuòzài zhuōzi biān.
+小[@猫@]和小蝙蝠坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>142068</StartMilliseconds>
+    <EndMilliseconds>142239</EndMilliseconds>
+    <Text>Xiǎo Māo [@hé@] Xiǎo Biānfú zuòzài zhuōzi biān.
+小猫[@和@]小蝙蝠坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>142240</StartMilliseconds>
+    <EndMilliseconds>142644</EndMilliseconds>
+    <Text>Xiǎo Māo hé [@Xiǎo@] Biānfú zuòzài zhuōzi biān.
+小猫和[@小@]蝙蝠坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>142645</StartMilliseconds>
+    <EndMilliseconds>143765</EndMilliseconds>
+    <Text>Xiǎo Māo hé Xiǎo [@Biānfú@] zuòzài zhuōzi biān.
+小猫和小[@蝙蝠@]坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>143766</StartMilliseconds>
+    <EndMilliseconds>144604</EndMilliseconds>
+    <Text>Xiǎo Māo hé Xiǎo Biānfú [@zuòzài@] zhuōzi biān.
+小猫和小蝙蝠[@坐在@]桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>144604</StartMilliseconds>
+    <EndMilliseconds>145124</EndMilliseconds>
+    <Text>Xiǎo Māo hé Xiǎo Biānfú zuòzài [@zhuōzi@] biān.
+小猫和小蝙蝠坐在[@桌子@]边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>145125</StartMilliseconds>
+    <EndMilliseconds>145470</EndMilliseconds>
+    <Text>Xiǎo Māo hé Xiǎo Biānfú zuòzài zhuōzi [@biān@].
+小猫和小蝙蝠坐在桌子[@边@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>145471</StartMilliseconds>
+    <EndMilliseconds>147105</EndMilliseconds>
+    <Text>Xiǎo Māo hé Xiǎo Biānfú zuòzài zhuōzi biān.
+小猫和小蝙蝠坐在桌子边。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>147106</StartMilliseconds>
+    <EndMilliseconds>148103</EndMilliseconds>
+    <Text>"Xiǎo Zhū ne?" Xiǎo Māo shuō.
+“小猪呢？”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>148104</StartMilliseconds>
+    <EndMilliseconds>148573</EndMilliseconds>
+    <Text>"[@Xiǎo@] Zhū ne?" Xiǎo Māo shuō.
+“[@小@]猪呢？”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>148574</StartMilliseconds>
+    <EndMilliseconds>148883</EndMilliseconds>
+    <Text>"Xiǎo [@Zhū@] ne?" Xiǎo Māo shuō.
+“小[@猪@]呢？”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>148884</StartMilliseconds>
+    <EndMilliseconds>149703</EndMilliseconds>
+    <Text>"Xiǎo Zhū [@ne@]?" Xiǎo Māo shuō.
+“小猪[@呢@]？”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>149704</StartMilliseconds>
+    <EndMilliseconds>150090</EndMilliseconds>
+    <Text>"Xiǎo Zhū ne?" [@Xiǎo@] Māo shuō.
+“小猪呢？”[@小@]猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>150091</StartMilliseconds>
+    <EndMilliseconds>150304</EndMilliseconds>
+    <Text>"Xiǎo Zhū ne?" Xiǎo [@Māo@] shuō.
+“小猪呢？”小[@猫@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>150305</StartMilliseconds>
+    <EndMilliseconds>150704</EndMilliseconds>
+    <Text>"Xiǎo Zhū ne?" Xiǎo Māo [@shuō@].
+“小猪呢？”小猫[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>150705</StartMilliseconds>
+    <EndMilliseconds>151113</EndMilliseconds>
+    <Text>"Xiǎo Zhū ne?" Xiǎo Māo shuō.
+“小猪呢？”小猫说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>151114</StartMilliseconds>
+    <EndMilliseconds>151533</EndMilliseconds>
+    <Text>"Wǒ bù zhīdào." Xiǎo Biānfú shuō.
+“我不知道。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>151534</StartMilliseconds>
+    <EndMilliseconds>151894</EndMilliseconds>
+    <Text>"[@Wǒ@] bù zhīdào." Xiǎo Biānfú shuō.
+“[@我@]不知道。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>151895</StartMilliseconds>
+    <EndMilliseconds>152053</EndMilliseconds>
+    <Text>"Wǒ [@bù@] zhīdào." Xiǎo Biānfú shuō.
+“我[@不@]知道。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>152054</StartMilliseconds>
+    <EndMilliseconds>153207</EndMilliseconds>
+    <Text>"Wǒ bù [@zhīdào@]." Xiǎo Biānfú shuō.
+“我不[@知道@]。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>153208</StartMilliseconds>
+    <EndMilliseconds>153666</EndMilliseconds>
+    <Text>"Wǒ bù zhīdào." [@Xiǎo@] Biānfú shuō.
+“我不知道。”[@小@]蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>153667</StartMilliseconds>
+    <EndMilliseconds>154229</EndMilliseconds>
+    <Text>"Wǒ bù zhīdào." Xiǎo [@Biānfú@] shuō.
+“我不知道。”小[@蝙蝠@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>154230</StartMilliseconds>
+    <EndMilliseconds>154658</EndMilliseconds>
+    <Text>"Wǒ bù zhīdào." Xiǎo Biānfú [@shuō@].
+“我不知道。”小蝙蝠[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>154659</StartMilliseconds>
+    <EndMilliseconds>155369</EndMilliseconds>
+    <Text>"Wǒ bù zhīdào." Xiǎo Biānfú shuō.
+“我不知道。”小蝙蝠说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>155370</StartMilliseconds>
+    <EndMilliseconds>155702</EndMilliseconds>
+    <Text>"Wǒ xīwàng tā kuài diǎn lái,
+“我希望他快点来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>155703</StartMilliseconds>
+    <EndMilliseconds>155995</EndMilliseconds>
+    <Text>"[@Wǒ@] xīwàng tā kuài diǎn lái,
+“[@我@]希望他快点来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>155996</StartMilliseconds>
+    <EndMilliseconds>156776</EndMilliseconds>
+    <Text>"Wǒ [@xīwàng@] tā kuài diǎn lái,
+“我[@希望@]他快点来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>156777</StartMilliseconds>
+    <EndMilliseconds>157100</EndMilliseconds>
+    <Text>"Wǒ xīwàng [@tā@] kuài diǎn lái,
+“我希望[@他@]快点来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>157101</StartMilliseconds>
+    <EndMilliseconds>157493</EndMilliseconds>
+    <Text>"Wǒ xīwàng tā [@kuài@] diǎn lái,
+“我希望他[@快@]点来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>157494</StartMilliseconds>
+    <EndMilliseconds>157831</EndMilliseconds>
+    <Text>"Wǒ xīwàng tā kuài [@diǎn@] lái,
+“我希望他快[@点@]来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>157832</StartMilliseconds>
+    <EndMilliseconds>158191</EndMilliseconds>
+    <Text>"Wǒ xīwàng tā kuài diǎn [@lái@],
+“我希望他快点[@来@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>158192</StartMilliseconds>
+    <EndMilliseconds>159055</EndMilliseconds>
+    <Text>"Wǒ xīwàng tā kuài diǎn lái,
+“我希望他快点来，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>159056</StartMilliseconds>
+    <EndMilliseconds>159449</EndMilliseconds>
+    <Text>dào le chī píngguǒ de shíjiān le."
+到了吃苹果的时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>159450</StartMilliseconds>
+    <EndMilliseconds>159699</EndMilliseconds>
+    <Text>[@dào@] le chī píngguǒ de shíjiān le."
+[@到@]了吃苹果的时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>159700</StartMilliseconds>
+    <EndMilliseconds>159936</EndMilliseconds>
+    <Text>dào [@le@] chī píngguǒ de shíjiān le."
+到[@了@]吃苹果的时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>159937</StartMilliseconds>
+    <EndMilliseconds>160264</EndMilliseconds>
+    <Text>dào le [@chī@] píngguǒ de shíjiān le."
+到了[@吃@]苹果的时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>160265</StartMilliseconds>
+    <EndMilliseconds>160967</EndMilliseconds>
+    <Text>dào le chī [@píngguǒ@] de shíjiān le."
+到了吃[@苹果@]的时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>160968</StartMilliseconds>
+    <EndMilliseconds>161095</EndMilliseconds>
+    <Text>dào le chī píngguǒ [@de@] shíjiān le."
+到了吃苹果[@的@]时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>161096</StartMilliseconds>
+    <EndMilliseconds>161756</EndMilliseconds>
+    <Text>dào le chī píngguǒ de [@shíjiān@] le."
+到了吃苹果的[@时间@]了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>161757</StartMilliseconds>
+    <EndMilliseconds>162158</EndMilliseconds>
+    <Text>dào le chī píngguǒ de shíjiān [@le@]."
+到了吃苹果的时间[@了@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>162159</StartMilliseconds>
+    <EndMilliseconds>162784</EndMilliseconds>
+    <Text>dào le chī píngguǒ de shíjiān le."
+到了吃苹果的时间了。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>162785</StartMilliseconds>
+    <EndMilliseconds>163458</EndMilliseconds>
+    <Text>"Wǒ qù ná píngguǒ." Xiǎo Nǎiniú shuō.
+“我去拿苹果。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>163459</StartMilliseconds>
+    <EndMilliseconds>163693</EndMilliseconds>
+    <Text>"[@Wǒ@] qù ná píngguǒ." Xiǎo Nǎiniú shuō.
+“[@我@]去拿苹果。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>163694</StartMilliseconds>
+    <EndMilliseconds>164160</EndMilliseconds>
+    <Text>"Wǒ [@qù@] ná píngguǒ." Xiǎo Nǎiniú shuō.
+“我[@去@]拿苹果。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>164161</StartMilliseconds>
+    <EndMilliseconds>164451</EndMilliseconds>
+    <Text>"Wǒ qù [@ná@] píngguǒ." Xiǎo Nǎiniú shuō.
+“我去[@拿@]苹果。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>164452</StartMilliseconds>
+    <EndMilliseconds>165784</EndMilliseconds>
+    <Text>"Wǒ qù ná [@píngguǒ@]." Xiǎo Nǎiniú shuō.
+“我去拿[@苹果@]。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>165785</StartMilliseconds>
+    <EndMilliseconds>166222</EndMilliseconds>
+    <Text>"Wǒ qù ná píngguǒ." [@Xiǎo@] Nǎiniú shuō.
+“我去拿苹果。”[@小@]奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>166223</StartMilliseconds>
+    <EndMilliseconds>166730</EndMilliseconds>
+    <Text>"Wǒ qù ná píngguǒ." Xiǎo [@Nǎiniú@] shuō.
+“我去拿苹果。”小[@奶牛@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>166731</StartMilliseconds>
+    <EndMilliseconds>167286</EndMilliseconds>
+    <Text>"Wǒ qù ná píngguǒ." Xiǎo Nǎiniú [@shuō@].
+“我去拿苹果。”小奶牛[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>167287</StartMilliseconds>
+    <EndMilliseconds>168115</EndMilliseconds>
+    <Text>"Wǒ qù ná píngguǒ." Xiǎo Nǎiniú shuō.
+“我去拿苹果。”小奶牛说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>168116</StartMilliseconds>
+    <EndMilliseconds>168592</EndMilliseconds>
+    <Text>"Tiān a!" Tā dà jiào.
+“天啊！”她大叫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>168593</StartMilliseconds>
+    <EndMilliseconds>169119</EndMilliseconds>
+    <Text>"[@Tiān@] a!" Tā dà jiào.
+“[@天@]啊！”她大叫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>169120</StartMilliseconds>
+    <EndMilliseconds>169810</EndMilliseconds>
+    <Text>"Tiān [@a@]!" Tā dà jiào.
+“天[@啊@]！”她大叫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>169811</StartMilliseconds>
+    <EndMilliseconds>170346</EndMilliseconds>
+    <Text>"Tiān a!" [@Tā@] dà jiào.
+“天啊！”[@她@]大叫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>170347</StartMilliseconds>
+    <EndMilliseconds>170691</EndMilliseconds>
+    <Text>"Tiān a!" Tā [@dà@] jiào.
+“天啊！”她[@大@]叫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>170692</StartMilliseconds>
+    <EndMilliseconds>171029</EndMilliseconds>
+    <Text>"Tiān a!" Tā dà [@jiào@].
+“天啊！”她大[@叫@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>171030</StartMilliseconds>
+    <EndMilliseconds>173623</EndMilliseconds>
+    <Text>"Tiān a!" Tā dà jiào.
+“天啊！”她大叫。</Text>
+  </Paragraph>
+</Subtitle>

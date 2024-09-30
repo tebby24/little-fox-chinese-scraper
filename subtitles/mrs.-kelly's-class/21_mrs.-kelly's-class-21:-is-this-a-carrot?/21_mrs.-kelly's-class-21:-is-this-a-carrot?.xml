@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12118</StartMilliseconds>
+    <EndMilliseconds>17366</EndMilliseconds>
+    <Text>nóngfù: Wǒmen yǒu xǔduō shūcài.
+农妇：我们有许多蔬菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>17367</StartMilliseconds>
+    <EndMilliseconds>18717</EndMilliseconds>
+    <Text>nóngfù: [@Wǒmen@] yǒu xǔduō shūcài.
+农妇：[@我们@]有许多蔬菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>18718</StartMilliseconds>
+    <EndMilliseconds>19209</EndMilliseconds>
+    <Text>nóngfù: Wǒmen [@yǒu@] xǔduō shūcài.
+农妇：我们[@有@]许多蔬菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>19210</StartMilliseconds>
+    <EndMilliseconds>20272</EndMilliseconds>
+    <Text>nóngfù: Wǒmen yǒu [@xǔduō@] shūcài.
+农妇：我们有[@许多@]蔬菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>20273</StartMilliseconds>
+    <EndMilliseconds>21500</EndMilliseconds>
+    <Text>nóngfù: Wǒmen yǒu xǔduō [@shūcài@].
+农妇：我们有许多[@蔬菜@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>21501</StartMilliseconds>
+    <EndMilliseconds>23037</EndMilliseconds>
+    <Text>nóngfù: Wǒmen yǒu xǔduō shūcài.
+农妇：我们有许多蔬菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>23038</StartMilliseconds>
+    <EndMilliseconds>24695</EndMilliseconds>
+    <Text>Pítè: Zhè shì yùmǐ ma?
+皮特：这是玉米吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>24696</StartMilliseconds>
+    <EndMilliseconds>25405</EndMilliseconds>
+    <Text>Pítè: [@Zhè@] shì yùmǐ ma?
+皮特：[@这@]是玉米吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>25406</StartMilliseconds>
+    <EndMilliseconds>26342</EndMilliseconds>
+    <Text>Pítè: Zhè [@shì@] yùmǐ ma?
+皮特：这[@是@]玉米吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>26343</StartMilliseconds>
+    <EndMilliseconds>27311</EndMilliseconds>
+    <Text>Pítè: Zhè shì [@yùmǐ@] ma?
+皮特：这是[@玉米@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>27312</StartMilliseconds>
+    <EndMilliseconds>27955</EndMilliseconds>
+    <Text>Pítè: Zhè shì yùmǐ [@ma@]?
+皮特：这是玉米[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>27956</StartMilliseconds>
+    <EndMilliseconds>28388</EndMilliseconds>
+    <Text>Pítè: Zhè shì yùmǐ ma?
+皮特：这是玉米吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>28389</StartMilliseconds>
+    <EndMilliseconds>29036</EndMilliseconds>
+    <Text>nóngfù: Zhè bú shì yùmǐ.
+农妇：这不是玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>29037</StartMilliseconds>
+    <EndMilliseconds>30088</EndMilliseconds>
+    <Text>nóngfù: [@Zhè@] bú shì yùmǐ.
+农妇：[@这@]不是玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>30089</StartMilliseconds>
+    <EndMilliseconds>30644</EndMilliseconds>
+    <Text>nóngfù: Zhè [@bú@] shì yùmǐ.
+农妇：这[@不@]是玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30645</StartMilliseconds>
+    <EndMilliseconds>31017</EndMilliseconds>
+    <Text>nóngfù: Zhè bú [@shì@] yùmǐ.
+农妇：这不[@是@]玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31018</StartMilliseconds>
+    <EndMilliseconds>32407</EndMilliseconds>
+    <Text>nóngfù: Zhè bú shì [@yùmǐ@].
+农妇：这不是[@玉米@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32408</StartMilliseconds>
+    <EndMilliseconds>34800</EndMilliseconds>
+    <Text>nóngfù: Zhè bú shì yùmǐ.
+农妇：这不是玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>34801</StartMilliseconds>
+    <EndMilliseconds>39058</EndMilliseconds>
+    <Text>Shālì: Zhè shì húluóbo ma?
+莎莉：这是胡萝卜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>39059</StartMilliseconds>
+    <EndMilliseconds>39703</EndMilliseconds>
+    <Text>Shālì: [@Zhè@] shì húluóbo ma?
+莎莉：[@这@]是胡萝卜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>39704</StartMilliseconds>
+    <EndMilliseconds>40579</EndMilliseconds>
+    <Text>Shālì: Zhè [@shì@] húluóbo ma?
+莎莉：这[@是@]胡萝卜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>40580</StartMilliseconds>
+    <EndMilliseconds>41845</EndMilliseconds>
+    <Text>Shālì: Zhè shì [@húluóbo@] ma?
+莎莉：这是[@胡萝卜@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>41846</StartMilliseconds>
+    <EndMilliseconds>42474</EndMilliseconds>
+    <Text>Shālì: Zhè shì húluóbo [@ma@]?
+莎莉：这是胡萝卜[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>42475</StartMilliseconds>
+    <EndMilliseconds>43362</EndMilliseconds>
+    <Text>Shālì: Zhè shì húluóbo ma?
+莎莉：这是胡萝卜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>43363</StartMilliseconds>
+    <EndMilliseconds>44297</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè shì húluóbo.
+农妇：是的，这是胡萝卜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>44298</StartMilliseconds>
+    <EndMilliseconds>46020</EndMilliseconds>
+    <Text>nóngfù: [@Shìde@], zhè shì húluóbo.
+农妇：[@是的@]，这是胡萝卜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>46021</StartMilliseconds>
+    <EndMilliseconds>46413</EndMilliseconds>
+    <Text>nóngfù: Shìde, [@zhè@] shì húluóbo.
+农妇：是的，[@这@]是胡萝卜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>46414</StartMilliseconds>
+    <EndMilliseconds>47153</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè [@shì@] húluóbo.
+农妇：是的，这[@是@]胡萝卜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>47154</StartMilliseconds>
+    <EndMilliseconds>48756</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè shì [@húluóbo@].
+农妇：是的，这是[@胡萝卜@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>48757</StartMilliseconds>
+    <EndMilliseconds>51376</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè shì húluóbo.
+农妇：是的，这是胡萝卜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>51377</StartMilliseconds>
+    <EndMilliseconds>53161</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì juǎnxīncài ma?
+敏宇：这是卷心菜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>53162</StartMilliseconds>
+    <EndMilliseconds>53766</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Zhè@] shì juǎnxīncài ma?
+敏宇：[@这@]是卷心菜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>53767</StartMilliseconds>
+    <EndMilliseconds>54572</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè [@shì@] juǎnxīncài ma?
+敏宇：这[@是@]卷心菜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>54573</StartMilliseconds>
+    <EndMilliseconds>55827</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì [@juǎnxīncài@] ma?
+敏宇：这是[@卷心菜@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>55828</StartMilliseconds>
+    <EndMilliseconds>56488</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì juǎnxīncài [@ma@]?
+敏宇：这是卷心菜[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>56489</StartMilliseconds>
+    <EndMilliseconds>56956</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì juǎnxīncài ma?
+敏宇：这是卷心菜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>56957</StartMilliseconds>
+    <EndMilliseconds>57522</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè shì shēngcài.
+农妇：不是，这是生菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57523</StartMilliseconds>
+    <EndMilliseconds>58176</EndMilliseconds>
+    <Text>nóngfù: [@Bú@] shì, zhè shì shēngcài.
+农妇：[@不@]是，这是生菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>58177</StartMilliseconds>
+    <EndMilliseconds>60414</EndMilliseconds>
+    <Text>nóngfù: Bú [@shì@], zhè shì shēngcài.
+农妇：不[@是@]，这是生菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>60415</StartMilliseconds>
+    <EndMilliseconds>60991</EndMilliseconds>
+    <Text>nóngfù: Bú shì, [@zhè@] shì shēngcài.
+农妇：不是，[@这@]是生菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>60992</StartMilliseconds>
+    <EndMilliseconds>61546</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè [@shì@] shēngcài.
+农妇：不是，这[@是@]生菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>61547</StartMilliseconds>
+    <EndMilliseconds>63005</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè shì [@shēngcài@].
+农妇：不是，这是[@生菜@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63006</StartMilliseconds>
+    <EndMilliseconds>64567</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè shì shēngcài.
+农妇：不是，这是生菜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64568</StartMilliseconds>
+    <EndMilliseconds>67689</EndMilliseconds>
+    <Text>Shālì: Zhè shì huángguā ma?
+莎莉：这是黄瓜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>67690</StartMilliseconds>
+    <EndMilliseconds>68413</EndMilliseconds>
+    <Text>Shālì: [@Zhè@] shì huángguā ma?
+莎莉：[@这@]是黄瓜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>68414</StartMilliseconds>
+    <EndMilliseconds>69188</EndMilliseconds>
+    <Text>Shālì: Zhè [@shì@] huángguā ma?
+莎莉：这[@是@]黄瓜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>69189</StartMilliseconds>
+    <EndMilliseconds>70150</EndMilliseconds>
+    <Text>Shālì: Zhè shì [@huángguā@] ma?
+莎莉：这是[@黄瓜@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>70151</StartMilliseconds>
+    <EndMilliseconds>70738</EndMilliseconds>
+    <Text>Shālì: Zhè shì huángguā [@ma@]?
+莎莉：这是黄瓜[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>70739</StartMilliseconds>
+    <EndMilliseconds>71848</EndMilliseconds>
+    <Text>Shālì: Zhè shì huángguā ma?
+莎莉：这是黄瓜吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>71849</StartMilliseconds>
+    <EndMilliseconds>73057</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè shì huángguā.
+农妇：是的，这是黄瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>73058</StartMilliseconds>
+    <EndMilliseconds>74625</EndMilliseconds>
+    <Text>nóngfù: [@Shìde@], zhè shì huángguā.
+农妇：[@是的@]，这是黄瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>74626</StartMilliseconds>
+    <EndMilliseconds>75014</EndMilliseconds>
+    <Text>nóngfù: Shìde, [@zhè@] shì huángguā.
+农妇：是的，[@这@]是黄瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>75015</StartMilliseconds>
+    <EndMilliseconds>75793</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè [@shì@] huángguā.
+农妇：是的，这[@是@]黄瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>75794</StartMilliseconds>
+    <EndMilliseconds>77267</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè shì [@huángguā@].
+农妇：是的，这是[@黄瓜@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>77268</StartMilliseconds>
+    <EndMilliseconds>79169</EndMilliseconds>
+    <Text>nóngfù: Shìde, zhè shì huángguā.
+农妇：是的，这是黄瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79170</StartMilliseconds>
+    <EndMilliseconds>83398</EndMilliseconds>
+    <Text>Pítè: Zhè shì rén ma?
+皮特: 这是人吗?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>83399</StartMilliseconds>
+    <EndMilliseconds>84259</EndMilliseconds>
+    <Text>Pítè: [@Zhè@] shì rén ma?
+皮特: [@这@]是人吗?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>84260</StartMilliseconds>
+    <EndMilliseconds>85295</EndMilliseconds>
+    <Text>Pítè: Zhè [@shì@] rén ma?
+皮特: 这[@是@]人吗?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>85296</StartMilliseconds>
+    <EndMilliseconds>85762</EndMilliseconds>
+    <Text>Pítè: Zhè shì [@rén@] ma?
+皮特: 这是[@人@]吗?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>85763</StartMilliseconds>
+    <EndMilliseconds>86519</EndMilliseconds>
+    <Text>Pítè: Zhè shì rén [@ma@]?
+皮特: 这是人[@吗@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>86520</StartMilliseconds>
+    <EndMilliseconds>86925</EndMilliseconds>
+    <Text>Pítè: Zhè shì rén ma?
+皮特: 这是人吗?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>86926</StartMilliseconds>
+    <EndMilliseconds>87700</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè shì nánguā!
+农妇：不是，这是南瓜！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>87701</StartMilliseconds>
+    <EndMilliseconds>88437</EndMilliseconds>
+    <Text>nóngfù: [@Bú@] shì, zhè shì nánguā!
+农妇：[@不@]是，这是南瓜！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>88438</StartMilliseconds>
+    <EndMilliseconds>89383</EndMilliseconds>
+    <Text>nóngfù: Bú [@shì@], zhè shì nánguā!
+农妇：不[@是@]，这是南瓜！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>89384</StartMilliseconds>
+    <EndMilliseconds>89845</EndMilliseconds>
+    <Text>nóngfù: Bú shì, [@zhè@] shì nánguā!
+农妇：不是，[@这@]是南瓜！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>89846</StartMilliseconds>
+    <EndMilliseconds>90558</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè [@shì@] nánguā!
+农妇：不是，这[@是@]南瓜！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>90559</StartMilliseconds>
+    <EndMilliseconds>92092</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè shì [@nánguā@]!
+农妇：不是，这是[@南瓜@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>92093</StartMilliseconds>
+    <EndMilliseconds>94844</EndMilliseconds>
+    <Text>nóngfù: Bú shì, zhè shì nánguā!
+农妇：不是，这是南瓜！</Text>
+  </Paragraph>
+</Subtitle>

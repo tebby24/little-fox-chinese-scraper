@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10502</StartMilliseconds>
+    <EndMilliseconds>16503</EndMilliseconds>
+    <Text>安迪：我希望艾米能赢。
+Āndí: Wǒ xīwàng Àimǐ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>16503</StartMilliseconds>
+    <EndMilliseconds>16829</EndMilliseconds>
+    <Text>安迪：[@我@]希望艾米能赢。
+Āndí: [@Wǒ@] xīwàng Àimǐ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>16829</StartMilliseconds>
+    <EndMilliseconds>17447</EndMilliseconds>
+    <Text>安迪：我[@希望@]艾米能赢。
+Āndí: Wǒ [@xīwàng@] Àimǐ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>17447</StartMilliseconds>
+    <EndMilliseconds>17867</EndMilliseconds>
+    <Text>安迪：我希望[@艾米@]能赢。
+Āndí: Wǒ xīwàng [@Àimǐ@] néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>17844</StartMilliseconds>
+    <EndMilliseconds>18082</EndMilliseconds>
+    <Text>安迪：我希望艾米[@能@]赢。
+Āndí: Wǒ xīwàng Àimǐ [@néng@] yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>18082</StartMilliseconds>
+    <EndMilliseconds>18718</EndMilliseconds>
+    <Text>安迪：我希望艾米能[@赢@]。
+Āndí: Wǒ xīwàng Àimǐ néng [@yíng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>18718</StartMilliseconds>
+    <EndMilliseconds>19788</EndMilliseconds>
+    <Text>安迪：我希望艾米能赢。
+Āndí: Wǒ xīwàng Àimǐ néng yíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19788</StartMilliseconds>
+    <EndMilliseconds>21159</EndMilliseconds>
+    <Text>甜娜：你好，理查德。
+Tiánnà: Nǐ hǎo, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21159</StartMilliseconds>
+    <EndMilliseconds>21403</EndMilliseconds>
+    <Text>甜娜：[@你@]好，理查德。
+Tiánnà: [@Nǐ@] hǎo, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>21403</StartMilliseconds>
+    <EndMilliseconds>22085</EndMilliseconds>
+    <Text>甜娜：你[@好@]，理查德。
+Tiánnà: Nǐ [@hǎo@], Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22085</StartMilliseconds>
+    <EndMilliseconds>23202</EndMilliseconds>
+    <Text>甜娜：你好，[@理查德@]。
+Tiánnà: Nǐ hǎo, [@Lǐchádé@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23202</StartMilliseconds>
+    <EndMilliseconds>23850</EndMilliseconds>
+    <Text>甜娜：你好，理查德。
+Tiánnà: Nǐ hǎo, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>23850</StartMilliseconds>
+    <EndMilliseconds>24748</EndMilliseconds>
+    <Text>甜娜：我希望你能为我加油，理查德。
+Tiánnà: Wǒ xīwàng nǐ néng wèi wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24748</StartMilliseconds>
+    <EndMilliseconds>25019</EndMilliseconds>
+    <Text>甜娜：[@我@]希望你能为我加油，理查德。
+Tiánnà: [@Wǒ@] xīwàng nǐ néng wèi wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25019</StartMilliseconds>
+    <EndMilliseconds>25591</EndMilliseconds>
+    <Text>甜娜：我[@希望@]你能为我加油，理查德。
+Tiánnà: Wǒ [@xīwàng@] nǐ néng wèi wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>25591</StartMilliseconds>
+    <EndMilliseconds>25818</EndMilliseconds>
+    <Text>甜娜：我希望[@你@]能为我加油，理查德。
+Tiánnà: Wǒ xīwàng [@nǐ@] néng wèi wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>25818</StartMilliseconds>
+    <EndMilliseconds>25966</EndMilliseconds>
+    <Text>甜娜：我希望你[@能@]为我加油，理查德。
+Tiánnà: Wǒ xīwàng nǐ [@néng@] wèi wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>25969</StartMilliseconds>
+    <EndMilliseconds>26138</EndMilliseconds>
+    <Text>甜娜：我希望你能[@为@]我加油，理查德。
+Tiánnà: Wǒ xīwàng nǐ néng [@wèi@] wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>26138</StartMilliseconds>
+    <EndMilliseconds>26372</EndMilliseconds>
+    <Text>甜娜：我希望你能为[@我@]加油，理查德。
+Tiánnà: Wǒ xīwàng nǐ néng wèi [@wǒ@] jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>26372</StartMilliseconds>
+    <EndMilliseconds>27239</EndMilliseconds>
+    <Text>甜娜：我希望你能为我[@加油@]，理查德。
+Tiánnà: Wǒ xīwàng nǐ néng wèi wǒ [@jiāyóu@], Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>27239</StartMilliseconds>
+    <EndMilliseconds>27918</EndMilliseconds>
+    <Text>甜娜：我希望你能为我加油，[@理查德@]。
+Tiánnà: Wǒ xīwàng nǐ néng wèi wǒ jiāyóu, [@Lǐchádé@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27918</StartMilliseconds>
+    <EndMilliseconds>28785</EndMilliseconds>
+    <Text>甜娜：我希望你能为我加油，理查德。
+Tiánnà: Wǒ xīwàng nǐ néng wèi wǒ jiāyóu, Lǐchádé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>28785</StartMilliseconds>
+    <EndMilliseconds>29226</EndMilliseconds>
+    <Text>里奇：哦，好的，当然了。
+Lǐqí: Ò, hǎode, dāngrán le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>29226</StartMilliseconds>
+    <EndMilliseconds>29808</EndMilliseconds>
+    <Text>里奇：[@哦@]，好的，当然了。
+Lǐqí: [@Ò@], hǎode, dāngrán le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>29808</StartMilliseconds>
+    <EndMilliseconds>30558</EndMilliseconds>
+    <Text>里奇：哦，[@好的@]，当然了。
+Lǐqí: Ò, [@hǎode@], dāngrán le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>30558</StartMilliseconds>
+    <EndMilliseconds>30902</EndMilliseconds>
+    <Text>里奇：哦，好的，[@当然@]了。
+Lǐqí: Ò, hǎode, [@dāngrán@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>30902</StartMilliseconds>
+    <EndMilliseconds>31368</EndMilliseconds>
+    <Text>里奇：哦，好的，当然[@了@]。
+Lǐqí: Ò, hǎode, dāngrán [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>31368</StartMilliseconds>
+    <EndMilliseconds>33197</EndMilliseconds>
+    <Text>里奇：哦，好的，当然了。
+Lǐqí: Ò, hǎode, dāngrán le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>33197</StartMilliseconds>
+    <EndMilliseconds>34015</EndMilliseconds>
+    <Text>甜娜：我穿了能给我带来幸运的红毛衣。
+Tiánnà: Wǒ chuān le néng gěi wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>34015</StartMilliseconds>
+    <EndMilliseconds>34180</EndMilliseconds>
+    <Text>甜娜：[@我@]穿了能给我带来幸运的红毛衣。
+Tiánnà: [@Wǒ@] chuān le néng gěi wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>34180</StartMilliseconds>
+    <EndMilliseconds>34393</EndMilliseconds>
+    <Text>甜娜：我[@穿@]了能给我带来幸运的红毛衣。
+Tiánnà: Wǒ [@chuān@] le néng gěi wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>34393</StartMilliseconds>
+    <EndMilliseconds>34982</EndMilliseconds>
+    <Text>甜娜：我穿[@了@]能给我带来幸运的红毛衣。
+Tiánnà: Wǒ chuān [@le@] néng gěi wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>34982</StartMilliseconds>
+    <EndMilliseconds>35141</EndMilliseconds>
+    <Text>甜娜：我穿了[@能@]给我带来幸运的红毛衣。
+Tiánnà: Wǒ chuān le [@néng@] gěi wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>35141</StartMilliseconds>
+    <EndMilliseconds>35384</EndMilliseconds>
+    <Text>甜娜：我穿了能[@给@]我带来幸运的红毛衣。
+Tiánnà: Wǒ chuān le néng [@gěi@] wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>35384</StartMilliseconds>
+    <EndMilliseconds>35628</EndMilliseconds>
+    <Text>甜娜：我穿了能给[@我@]带来幸运的红毛衣。
+Tiánnà: Wǒ chuān le néng gěi [@wǒ@] dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>35628</StartMilliseconds>
+    <EndMilliseconds>35940</EndMilliseconds>
+    <Text>甜娜：我穿了能给我[@带来@]幸运的红毛衣。
+Tiánnà: Wǒ chuān le néng gěi wǒ [@dàilai@] xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>35940</StartMilliseconds>
+    <EndMilliseconds>36485</EndMilliseconds>
+    <Text>甜娜：我穿了能给我带来[@幸运@]的红毛衣。
+Tiánnà: Wǒ chuān le néng gěi wǒ dàilai [@xìngyùn@] de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>36485</StartMilliseconds>
+    <EndMilliseconds>36753</EndMilliseconds>
+    <Text>甜娜：我穿了能给我带来幸运[@的@]红毛衣。
+Tiánnà: Wǒ chuān le néng gěi wǒ dàilai xìngyùn [@de@] hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>36753</StartMilliseconds>
+    <EndMilliseconds>37039</EndMilliseconds>
+    <Text>甜娜：我穿了能给我带来幸运的[@红@]毛衣。
+Tiánnà: Wǒ chuān le néng gěi wǒ dàilai xìngyùn de [@hóng@] máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>37039</StartMilliseconds>
+    <EndMilliseconds>37789</EndMilliseconds>
+    <Text>甜娜：我穿了能给我带来幸运的红[@毛衣@]。
+Tiánnà: Wǒ chuān le néng gěi wǒ dàilai xìngyùn de hóng [@máoyī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>37789</StartMilliseconds>
+    <EndMilliseconds>38091</EndMilliseconds>
+    <Text>甜娜：我穿了能给我带来幸运的红毛衣。
+Tiánnà: Wǒ chuān le néng gěi wǒ dàilai xìngyùn de hóng máoyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>38091</StartMilliseconds>
+    <EndMilliseconds>38452</EndMilliseconds>
+    <Text>里奇：你看上去很漂亮。
+Lǐqí: Nǐ kàn shàngqu hěn piàoliang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>38452</StartMilliseconds>
+    <EndMilliseconds>38639</EndMilliseconds>
+    <Text>里奇：[@你@]看上去很漂亮。
+Lǐqí: [@Nǐ@] kàn shàngqu hěn piàoliang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>38639</StartMilliseconds>
+    <EndMilliseconds>38886</EndMilliseconds>
+    <Text>里奇：你[@看@]上去很漂亮。
+Lǐqí: Nǐ [@kàn@] shàngqu hěn piàoliang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>38886</StartMilliseconds>
+    <EndMilliseconds>39459</EndMilliseconds>
+    <Text>里奇：你看[@上去@]很漂亮。
+Lǐqí: Nǐ kàn [@shàngqu@] hěn piàoliang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>39459</StartMilliseconds>
+    <EndMilliseconds>39935</EndMilliseconds>
+    <Text>里奇：你看上去[@很@]漂亮。
+Lǐqí: Nǐ kàn shàngqu [@hěn@] piàoliang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>39935</StartMilliseconds>
+    <EndMilliseconds>40935</EndMilliseconds>
+    <Text>里奇：你看上去很[@漂亮@]。
+Lǐqí: Nǐ kàn shàngqu hěn [@piàoliang@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>40935</StartMilliseconds>
+    <EndMilliseconds>45185</EndMilliseconds>
+    <Text>里奇：你看上去很漂亮。
+Lǐqí: Nǐ kàn shàngqu hěn piàoliang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>45185</StartMilliseconds>
+    <EndMilliseconds>46680</EndMilliseconds>
+    <Text>艾米：你们好！我好紧张呀。
+Àimǐ: Nǐmen hǎo! Wǒ hǎo jǐnzhāng ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>46680</StartMilliseconds>
+    <EndMilliseconds>47139</EndMilliseconds>
+    <Text>艾米：[@你们@]好！我好紧张呀。
+Àimǐ: [@Nǐmen@] hǎo! Wǒ hǎo jǐnzhāng ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>47139</StartMilliseconds>
+    <EndMilliseconds>47801</EndMilliseconds>
+    <Text>艾米：你们[@好@]！我好紧张呀。
+Àimǐ: Nǐmen [@hǎo@]! Wǒ hǎo jǐnzhāng ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>47800</StartMilliseconds>
+    <EndMilliseconds>47998</EndMilliseconds>
+    <Text>艾米：你们好！[@我@]好紧张呀。
+Àimǐ: Nǐmen hǎo! [@Wǒ@] hǎo jǐnzhāng ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>47999</StartMilliseconds>
+    <EndMilliseconds>48273</EndMilliseconds>
+    <Text>艾米：你们好！我[@好@]紧张呀。
+Àimǐ: Nǐmen hǎo! Wǒ [@hǎo@] jǐnzhāng ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>48273</StartMilliseconds>
+    <EndMilliseconds>48791</EndMilliseconds>
+    <Text>艾米：你们好！我好[@紧张@]呀。
+Àimǐ: Nǐmen hǎo! Wǒ hǎo [@jǐnzhāng@] ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>48791</StartMilliseconds>
+    <EndMilliseconds>49602</EndMilliseconds>
+    <Text>艾米：你们好！我好紧张[@呀@]。
+Àimǐ: Nǐmen hǎo! Wǒ hǎo jǐnzhāng [@ya@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>49602</StartMilliseconds>
+    <EndMilliseconds>49821</EndMilliseconds>
+    <Text>艾米：你们好！我好紧张呀。
+Àimǐ: Nǐmen hǎo! Wǒ hǎo jǐnzhāng ya.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>49821</StartMilliseconds>
+    <EndMilliseconds>50110</EndMilliseconds>
+    <Text>安迪：别紧张。你会赢的。
+Āndí: Bié jǐnzhāng. Nǐ huì yíng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>50110</StartMilliseconds>
+    <EndMilliseconds>50452</EndMilliseconds>
+    <Text>安迪：[@别@]紧张。你会赢的。
+Āndí: [@Bié@] jǐnzhāng. Nǐ huì yíng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>50452</StartMilliseconds>
+    <EndMilliseconds>51605</EndMilliseconds>
+    <Text>安迪：别[@紧张@]。你会赢的。
+Āndí: Bié [@jǐnzhāng@]. Nǐ huì yíng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>51605</StartMilliseconds>
+    <EndMilliseconds>51802</EndMilliseconds>
+    <Text>安迪：别紧张。[@你@]会赢的。
+Āndí: Bié jǐnzhāng. [@Nǐ@] huì yíng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>51802</StartMilliseconds>
+    <EndMilliseconds>51994</EndMilliseconds>
+    <Text>安迪：别紧张。你[@会@]赢的。
+Āndí: Bié jǐnzhāng. Nǐ [@huì@] yíng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>51994</StartMilliseconds>
+    <EndMilliseconds>52258</EndMilliseconds>
+    <Text>安迪：别紧张。你会[@赢@]的。
+Āndí: Bié jǐnzhāng. Nǐ huì [@yíng@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>52258</StartMilliseconds>
+    <EndMilliseconds>52852</EndMilliseconds>
+    <Text>安迪：别紧张。你会赢[@的@]。
+Āndí: Bié jǐnzhāng. Nǐ huì yíng [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>52852</StartMilliseconds>
+    <EndMilliseconds>56353</EndMilliseconds>
+    <Text>安迪：别紧张。你会赢的。
+Āndí: Bié jǐnzhāng. Nǐ huì yíng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>56353</StartMilliseconds>
+    <EndMilliseconds>60562</EndMilliseconds>
+    <Text>里奇：我应该为谁加油？
+Lǐqí: Wǒ yīnggāi wèi shéi jiāyóu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>60562</StartMilliseconds>
+    <EndMilliseconds>61127</EndMilliseconds>
+    <Text>里奇：[@我@]应该为谁加油？
+Lǐqí: [@Wǒ@] yīnggāi wèi shéi jiāyóu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>61127</StartMilliseconds>
+    <EndMilliseconds>61777</EndMilliseconds>
+    <Text>里奇：我[@应该@]为谁加油？
+Lǐqí: Wǒ [@yīnggāi@] wèi shéi jiāyóu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>61777</StartMilliseconds>
+    <EndMilliseconds>62151</EndMilliseconds>
+    <Text>里奇：我应该[@为@]谁加油？
+Lǐqí: Wǒ yīnggāi [@wèi@] shéi jiāyóu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>62151</StartMilliseconds>
+    <EndMilliseconds>62505</EndMilliseconds>
+    <Text>里奇：我应该为[@谁@]加油？
+Lǐqí: Wǒ yīnggāi wèi [@shéi@] jiāyóu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>62505</StartMilliseconds>
+    <EndMilliseconds>63253</EndMilliseconds>
+    <Text>里奇：我应该为谁[@加油@]？
+Lǐqí: Wǒ yīnggāi wèi shéi [@jiāyóu@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>63253</StartMilliseconds>
+    <EndMilliseconds>63526</EndMilliseconds>
+    <Text>里奇：我应该为谁加油？
+Lǐqí: Wǒ yīnggāi wèi shéi jiāyóu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>63526</StartMilliseconds>
+    <EndMilliseconds>64151</EndMilliseconds>
+    <Text>里奇：艾米？还是甜娜？
+Lǐqí: Àimǐ? Háishi Tiánnà?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>64151</StartMilliseconds>
+    <EndMilliseconds>65401</EndMilliseconds>
+    <Text>里奇：[@艾米@]？还是甜娜？
+Lǐqí: [@Àimǐ@]? Háishi Tiánnà?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>65401</StartMilliseconds>
+    <EndMilliseconds>68777</EndMilliseconds>
+    <Text>里奇：艾米？还是甜娜？
+Lǐqí: Àimǐ? Háishi Tiánnà?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>68777</StartMilliseconds>
+    <EndMilliseconds>69503</EndMilliseconds>
+    <Text>里奇：艾米？[@还是@]甜娜？
+Lǐqí: Àimǐ? [@Háishi@] Tiánnà?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>69503</StartMilliseconds>
+    <EndMilliseconds>70502</EndMilliseconds>
+    <Text>里奇：艾米？还是[@甜娜@]？
+Lǐqí: Àimǐ? Háishi [@Tiánnà@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>70502</StartMilliseconds>
+    <EndMilliseconds>84669</EndMilliseconds>
+    <Text>里奇：艾米？还是甜娜？
+Lǐqí: Àimǐ? Háishi Tiánnà?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>84669</StartMilliseconds>
+    <EndMilliseconds>85965</EndMilliseconds>
+    <Text>里奇：艾米跟我做了很长时间的朋友。
+Lǐqí: Àimǐ gēn wǒ zuò le hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>85965</StartMilliseconds>
+    <EndMilliseconds>86736</EndMilliseconds>
+    <Text>里奇：[@艾米@]跟我做了很长时间的朋友。
+Lǐqí: [@Àimǐ@] gēn wǒ zuò le hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>86737</StartMilliseconds>
+    <EndMilliseconds>86877</EndMilliseconds>
+    <Text>里奇：艾米[@跟@]我做了很长时间的朋友。
+Lǐqí: Àimǐ [@gēn@] wǒ zuò le hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>86878</StartMilliseconds>
+    <EndMilliseconds>87063</EndMilliseconds>
+    <Text>里奇：艾米跟[@我@]做了很长时间的朋友。
+Lǐqí: Àimǐ gēn [@wǒ@] zuò le hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>87065</StartMilliseconds>
+    <EndMilliseconds>87284</EndMilliseconds>
+    <Text>里奇：艾米跟我[@做@]了很长时间的朋友。
+Lǐqí: Àimǐ gēn wǒ [@zuò@] le hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>87284</StartMilliseconds>
+    <EndMilliseconds>87579</EndMilliseconds>
+    <Text>里奇：艾米跟我做[@了@]很长时间的朋友。
+Lǐqí: Àimǐ gēn wǒ zuò [@le@] hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>87579</StartMilliseconds>
+    <EndMilliseconds>87882</EndMilliseconds>
+    <Text>里奇：艾米跟我做了[@很@]长时间的朋友。
+Lǐqí: Àimǐ gēn wǒ zuò le [@hěn@] cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>87882</StartMilliseconds>
+    <EndMilliseconds>88125</EndMilliseconds>
+    <Text>里奇：艾米跟我做了很[@长@]时间的朋友。
+Lǐqí: Àimǐ gēn wǒ zuò le hěn [@cháng@] shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>88126</StartMilliseconds>
+    <EndMilliseconds>88541</EndMilliseconds>
+    <Text>里奇：艾米跟我做了很长[@时间@]的朋友。
+Lǐqí: Àimǐ gēn wǒ zuò le hěn cháng [@shíjiān@] de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>88540</StartMilliseconds>
+    <EndMilliseconds>88834</EndMilliseconds>
+    <Text>里奇：艾米跟我做了很长时间[@的@]朋友。
+Lǐqí: Àimǐ gēn wǒ zuò le hěn cháng shíjiān [@de@] péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>88834</StartMilliseconds>
+    <EndMilliseconds>89585</EndMilliseconds>
+    <Text>里奇：艾米跟我做了很长时间的[@朋友@]。
+Lǐqí: Àimǐ gēn wǒ zuò le hěn cháng shíjiān de [@péngyou@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>89585</StartMilliseconds>
+    <EndMilliseconds>89883</EndMilliseconds>
+    <Text>里奇：艾米跟我做了很长时间的朋友。
+Lǐqí: Àimǐ gēn wǒ zuò le hěn cháng shíjiān de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>89883</StartMilliseconds>
+    <EndMilliseconds>90204</EndMilliseconds>
+    <Text>里奇：我要为她加油。
+Lǐqí: Wǒ yào wèi tā jiāyóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>90204</StartMilliseconds>
+    <EndMilliseconds>90485</EndMilliseconds>
+    <Text>里奇：[@我@]要为她加油。
+Lǐqí: [@Wǒ@] yào wèi tā jiāyóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>90485</StartMilliseconds>
+    <EndMilliseconds>90735</EndMilliseconds>
+    <Text>里奇：我[@要@]为她加油。
+Lǐqí: Wǒ [@yào@] wèi tā jiāyóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>90735</StartMilliseconds>
+    <EndMilliseconds>90985</EndMilliseconds>
+    <Text>里奇：我要[@为@]她加油。
+Lǐqí: Wǒ yào [@wèi@] tā jiāyóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>90985</StartMilliseconds>
+    <EndMilliseconds>91244</EndMilliseconds>
+    <Text>里奇：我要为[@她@]加油。
+Lǐqí: Wǒ yào wèi [@tā@] jiāyóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>91244</StartMilliseconds>
+    <EndMilliseconds>91785</EndMilliseconds>
+    <Text>里奇：我要为她[@加油@]。
+Lǐqí: Wǒ yào wèi tā [@jiāyóu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>91785</StartMilliseconds>
+    <EndMilliseconds>94410</EndMilliseconds>
+    <Text>里奇：我要为她加油。
+Lǐqí: Wǒ yào wèi tā jiāyóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>94410</StartMilliseconds>
+    <EndMilliseconds>95534</EndMilliseconds>
+    <Text>布朗老师：甜娜，拼一下 “presumptuous”。
+Bùlǎng lǎoshī: Tiánnà, pīn yīxià "presumptuous".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>95534</StartMilliseconds>
+    <EndMilliseconds>96333</EndMilliseconds>
+    <Text>布朗老师：[@甜娜@]，拼一下 “presumptuous”。
+Bùlǎng lǎoshī: [@Tiánnà@], pīn yīxià "presumptuous".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>96333</StartMilliseconds>
+    <EndMilliseconds>96523</EndMilliseconds>
+    <Text>布朗老师：甜娜，[@拼@]一下 “presumptuous”。
+Bùlǎng lǎoshī: Tiánnà, [@pīn@] yīxià "presumptuous".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>96523</StartMilliseconds>
+    <EndMilliseconds>97158</EndMilliseconds>
+    <Text>布朗老师：甜娜，拼[@一下@] “presumptuous”。
+Bùlǎng lǎoshī: Tiánnà, pīn [@yīxià@] "presumptuous".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>97158</StartMilliseconds>
+    <EndMilliseconds>98485</EndMilliseconds>
+    <Text>布朗老师：甜娜，拼一下 “[@presumptuous@]”。
+Bùlǎng lǎoshī: Tiánnà, pīn yīxià "[@presumptuous@]".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>98485</StartMilliseconds>
+    <EndMilliseconds>99215</EndMilliseconds>
+    <Text>布朗老师：甜娜，拼一下 “presumptuous”。
+Bùlǎng lǎoshī: Tiánnà, pīn yīxià "presumptuous".</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>99215</StartMilliseconds>
+    <EndMilliseconds>99361</EndMilliseconds>
+    <Text>甜娜：Presumptuous, p-r-e-s-u-m-t-u-o-u-s, presumptuous。
+Tiánnà: Presumptuous, p-r-e-s-u-m-t-u-o-u-s, presumptuous.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>99361</StartMilliseconds>
+    <EndMilliseconds>101089</EndMilliseconds>
+    <Text>甜娜：[@Presumptuous@], p-r-e-s-u-m-t-u-o-u-s, presumptuous。
+Tiánnà: [@Presumptuous@], p-r-e-s-u-m-t-u-o-u-s, presumptuous.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>101089</StartMilliseconds>
+    <EndMilliseconds>109508</EndMilliseconds>
+    <Text>甜娜：Presumptuous, [@p-r-e-s-u-m-t-u-o-u-s@], presumptuous。
+Tiánnà: Presumptuous, [@p-r-e-s-u-m-t-u-o-u-s@], presumptuous.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>109508</StartMilliseconds>
+    <EndMilliseconds>110674</EndMilliseconds>
+    <Text>甜娜：Presumptuous, p-r-e-s-u-m-t-u-o-u-s, [@presumptuous@]。
+Tiánnà: Presumptuous, p-r-e-s-u-m-t-u-o-u-s, [@presumptuous@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>110674</StartMilliseconds>
+    <EndMilliseconds>111096</EndMilliseconds>
+    <Text>甜娜：Presumptuous, p-r-e-s-u-m-t-u-o-u-s, presumptuous。
+Tiánnà: Presumptuous, p-r-e-s-u-m-t-u-o-u-s, presumptuous.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>111096</StartMilliseconds>
+    <EndMilliseconds>111512</EndMilliseconds>
+    <Text>布朗老师：很遗憾，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>111512</StartMilliseconds>
+    <EndMilliseconds>111867</EndMilliseconds>
+    <Text>布朗老师：[@很@]遗憾，答错了。
+Bùlǎng lǎoshī: [@Hěn@] yíhàn, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>111867</StartMilliseconds>
+    <EndMilliseconds>112764</EndMilliseconds>
+    <Text>布朗老师：很[@遗憾@]，答错了。
+Bùlǎng lǎoshī: Hěn [@yíhàn@], dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>112764</StartMilliseconds>
+    <EndMilliseconds>113357</EndMilliseconds>
+    <Text>布朗老师：很遗憾，[@答错@]了。
+Bùlǎng lǎoshī: Hěn yíhàn, [@dácuò@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>113357</StartMilliseconds>
+    <EndMilliseconds>113968</EndMilliseconds>
+    <Text>布朗老师：很遗憾，答错[@了@]。
+Bùlǎng lǎoshī: Hěn yíhàn, dácuò [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>113968</StartMilliseconds>
+    <EndMilliseconds>117568</EndMilliseconds>
+    <Text>布朗老师：很遗憾，答错了。
+Bùlǎng lǎoshī: Hěn yíhàn, dácuò le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>117568</StartMilliseconds>
+    <EndMilliseconds>119019</EndMilliseconds>
+    <Text>艾米：Camaraderie, c-a-m-a-r-a-d-e-r-i-e, camaraderie。
+Àimǐ: Camaraderie, c-a-m-a-r-a-d-e-r-i-e, camaraderie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>119019</StartMilliseconds>
+    <EndMilliseconds>120568</EndMilliseconds>
+    <Text>艾米：[@Camaraderie@], c-a-m-a-r-a-d-e-r-i-e, camaraderie。
+Àimǐ: [@Camaraderie@], c-a-m-a-r-a-d-e-r-i-e, camaraderie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>120568</StartMilliseconds>
+    <EndMilliseconds>121898</EndMilliseconds>
+    <Text>艾米：Camaraderie, c-a-m-a-r-a-d-e-r-i-e, camaraderie。
+Àimǐ: Camaraderie, c-a-m-a-r-a-d-e-r-i-e, camaraderie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>121898</StartMilliseconds>
+    <EndMilliseconds>130999</EndMilliseconds>
+    <Text>艾米：Camaraderie, [@c-a-m-a-r-a-d-e-r-i-e@], camaraderie。
+Àimǐ: Camaraderie, [@c-a-m-a-r-a-d-e-r-i-e@], camaraderie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>130999</StartMilliseconds>
+    <EndMilliseconds>132368</EndMilliseconds>
+    <Text>艾米：Camaraderie, c-a-m-a-r-a-d-e-r-i-e, [@camaraderie@]。
+Àimǐ: Camaraderie, c-a-m-a-r-a-d-e-r-i-e, [@camaraderie@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>132368</StartMilliseconds>
+    <EndMilliseconds>132520</EndMilliseconds>
+    <Text>艾米：Camaraderie, c-a-m-a-r-a-d-e-r-i-e, camaraderie。
+Àimǐ: Camaraderie, c-a-m-a-r-a-d-e-r-i-e, camaraderie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>132520</StartMilliseconds>
+    <EndMilliseconds>132905</EndMilliseconds>
+    <Text>布朗老师：答对了！艾米赢了！
+Bùlǎng lǎoshī: Dáduì le! Àimǐ yíng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>132905</StartMilliseconds>
+    <EndMilliseconds>133411</EndMilliseconds>
+    <Text>布朗老师：[@答对@]了！艾米赢了！
+Bùlǎng lǎoshī: [@Dáduì@] le! Àimǐ yíng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>133411</StartMilliseconds>
+    <EndMilliseconds>134071</EndMilliseconds>
+    <Text>布朗老师：答对[@了@]！艾米赢了！
+Bùlǎng lǎoshī: Dáduì [@le@]! Àimǐ yíng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>134071</StartMilliseconds>
+    <EndMilliseconds>134425</EndMilliseconds>
+    <Text>布朗老师：答对了！[@艾米@]赢了！
+Bùlǎng lǎoshī: Dáduì le! [@Àimǐ@] yíng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>134425</StartMilliseconds>
+    <EndMilliseconds>134675</EndMilliseconds>
+    <Text>布朗老师：答对了！艾米[@赢@]了！
+Bùlǎng lǎoshī: Dáduì le! Àimǐ [@yíng@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>134675</StartMilliseconds>
+    <EndMilliseconds>135235</EndMilliseconds>
+    <Text>布朗老师：答对了！艾米赢[@了@]！
+Bùlǎng lǎoshī: Dáduì le! Àimǐ yíng [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>135235</StartMilliseconds>
+    <EndMilliseconds>136105</EndMilliseconds>
+    <Text>布朗老师：答对了！艾米赢了！
+Bùlǎng lǎoshī: Dáduì le! Àimǐ yíng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>136105</StartMilliseconds>
+    <EndMilliseconds>136918</EndMilliseconds>
+    <Text>里奇和安迪：耶！艾米！
+Lǐqí hé Āndí: Yē! Àimǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>136918</StartMilliseconds>
+    <EndMilliseconds>137684</EndMilliseconds>
+    <Text>里奇和安迪：[@耶@]！艾米！
+Lǐqí hé Āndí: [@Yē@]! Àimǐ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>137684</StartMilliseconds>
+    <EndMilliseconds>139186</EndMilliseconds>
+    <Text>里奇和安迪：耶！[@艾米@]！
+Lǐqí hé Āndí: Yē! [@Àimǐ@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>139186</StartMilliseconds>
+    <EndMilliseconds>141935</EndMilliseconds>
+    <Text>里奇和安迪：耶！艾米！
+Lǐqí hé Āndí: Yē! Àimǐ!</Text>
+  </Paragraph>
+</Subtitle>

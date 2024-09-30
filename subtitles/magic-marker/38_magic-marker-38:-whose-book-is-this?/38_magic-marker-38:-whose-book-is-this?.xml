@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9495</StartMilliseconds>
+    <EndMilliseconds>14900</EndMilliseconds>
+    <Text>亚历克斯：喂，马克西。
+Yàlìkèsī: Wéi, Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14901</StartMilliseconds>
+    <EndMilliseconds>15654</EndMilliseconds>
+    <Text>亚历克斯：[@喂@]，马克西。
+Yàlìkèsī: [@Wéi@], Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15655</StartMilliseconds>
+    <EndMilliseconds>16290</EndMilliseconds>
+    <Text>亚历克斯：喂，[@马克西@]。
+Yàlìkèsī: Wéi, [@Mǎkèxī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>16291</StartMilliseconds>
+    <EndMilliseconds>16507</EndMilliseconds>
+    <Text>亚历克斯：喂，马克西。
+Yàlìkèsī: Wéi, Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16508</StartMilliseconds>
+    <EndMilliseconds>16741</EndMilliseconds>
+    <Text>亚历克斯：我的数学书落在家里了。
+Yàlìkèsī: Wǒ de shùxué shū làzài jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16742</StartMilliseconds>
+    <EndMilliseconds>16919</EndMilliseconds>
+    <Text>亚历克斯：[@我@]的数学书落在家里了。
+Yàlìkèsī: [@Wǒ@] de shùxué shū làzài jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16920</StartMilliseconds>
+    <EndMilliseconds>17066</EndMilliseconds>
+    <Text>亚历克斯：我[@的@]数学书落在家里了。
+Yàlìkèsī: Wǒ [@de@] shùxué shū làzài jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17067</StartMilliseconds>
+    <EndMilliseconds>17405</EndMilliseconds>
+    <Text>亚历克斯：我的[@数学@]书落在家里了。
+Yàlìkèsī: Wǒ de [@shùxué@] shū làzài jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17406</StartMilliseconds>
+    <EndMilliseconds>17867</EndMilliseconds>
+    <Text>亚历克斯：我的数学[@书@]落在家里了。
+Yàlìkèsī: Wǒ de shùxué [@shū@] làzài jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17868</StartMilliseconds>
+    <EndMilliseconds>18198</EndMilliseconds>
+    <Text>亚历克斯：我的数学书[@落在@]家里了。
+Yàlìkèsī: Wǒ de shùxué shū [@làzài@] jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18198</StartMilliseconds>
+    <EndMilliseconds>18434</EndMilliseconds>
+    <Text>亚历克斯：我的数学书落在[@家@]里了。
+Yàlìkèsī: Wǒ de shùxué shū làzài [@jiā@] li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18435</StartMilliseconds>
+    <EndMilliseconds>18656</EndMilliseconds>
+    <Text>亚历克斯：我的数学书落在家[@里@]了。
+Yàlìkèsī: Wǒ de shùxué shū làzài jiā [@li@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18657</StartMilliseconds>
+    <EndMilliseconds>18942</EndMilliseconds>
+    <Text>亚历克斯：我的数学书落在家里[@了@]。
+Yàlìkèsī: Wǒ de shùxué shū làzài jiā li [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18943</StartMilliseconds>
+    <EndMilliseconds>19277</EndMilliseconds>
+    <Text>亚历克斯：我的数学书落在家里了。
+Yàlìkèsī: Wǒ de shùxué shū làzài jiā li le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19278</StartMilliseconds>
+    <EndMilliseconds>19588</EndMilliseconds>
+    <Text>亚历克斯：你能帮我找找吗？
+Yàlìkèsī: Nǐ néng bāng Wǒ zhǎozhao ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19589</StartMilliseconds>
+    <EndMilliseconds>19748</EndMilliseconds>
+    <Text>亚历克斯：[@你@]能帮我找找吗？
+Yàlìkèsī: [@Nǐ@] néng bāng Wǒ zhǎozhao ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>19749</StartMilliseconds>
+    <EndMilliseconds>19900</EndMilliseconds>
+    <Text>亚历克斯：你[@能@]帮我找找吗？
+Yàlìkèsī: Nǐ [@néng@] bāng Wǒ zhǎozhao ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>19901</StartMilliseconds>
+    <EndMilliseconds>20102</EndMilliseconds>
+    <Text>亚历克斯：你能[@帮@]我找找吗？
+Yàlìkèsī: Nǐ néng [@bāng@] Wǒ zhǎozhao ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>20103</StartMilliseconds>
+    <EndMilliseconds>20262</EndMilliseconds>
+    <Text>亚历克斯：你能帮[@我@]找找吗？
+Yàlìkèsī: Nǐ néng bāng [@Wǒ@] zhǎozhao ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>20263</StartMilliseconds>
+    <EndMilliseconds>20652</EndMilliseconds>
+    <Text>亚历克斯：你能帮我[@找找@]吗？
+Yàlìkèsī: Nǐ néng bāng Wǒ [@zhǎozhao@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>20653</StartMilliseconds>
+    <EndMilliseconds>20975</EndMilliseconds>
+    <Text>亚历克斯：你能帮我找找[@吗@]？
+Yàlìkèsī: Nǐ néng bāng Wǒ zhǎozhao [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>20976</StartMilliseconds>
+    <EndMilliseconds>21756</EndMilliseconds>
+    <Text>亚历克斯：你能帮我找找吗？
+Yàlìkèsī: Nǐ néng bāng Wǒ zhǎozhao ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>21757</StartMilliseconds>
+    <EndMilliseconds>22094</EndMilliseconds>
+    <Text>马克西：好的。
+Mǎkèxī: Hǎode.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>22095</StartMilliseconds>
+    <EndMilliseconds>22756</EndMilliseconds>
+    <Text>马克西：[@好的@]。
+Mǎkèxī: [@Hǎode@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>22757</StartMilliseconds>
+    <EndMilliseconds>23606</EndMilliseconds>
+    <Text>马克西：好的。
+Mǎkèxī: Hǎode.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>23607</StartMilliseconds>
+    <EndMilliseconds>24147</EndMilliseconds>
+    <Text>马克西：我们去找找他的数学书吧。
+Mǎkèxī: Wǒmen qù zhǎozhao tā de shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>24148</StartMilliseconds>
+    <EndMilliseconds>24451</EndMilliseconds>
+    <Text>马克西：[@我们@]去找找他的数学书吧。
+Mǎkèxī: [@Wǒmen@] qù zhǎozhao tā de shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>24452</StartMilliseconds>
+    <EndMilliseconds>24618</EndMilliseconds>
+    <Text>马克西：我们[@去@]找找他的数学书吧。
+Mǎkèxī: Wǒmen [@qù@] zhǎozhao tā de shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>24619</StartMilliseconds>
+    <EndMilliseconds>25044</EndMilliseconds>
+    <Text>马克西：我们去[@找找@]他的数学书吧。
+Mǎkèxī: Wǒmen qù [@zhǎozhao@] tā de shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>25045</StartMilliseconds>
+    <EndMilliseconds>25221</EndMilliseconds>
+    <Text>马克西：我们去找找[@他@]的数学书吧。
+Mǎkèxī: Wǒmen qù zhǎozhao [@tā@] de shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>25222</StartMilliseconds>
+    <EndMilliseconds>25353</EndMilliseconds>
+    <Text>马克西：我们去找找他[@的@]数学书吧。
+Mǎkèxī: Wǒmen qù zhǎozhao tā [@de@] shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>25354</StartMilliseconds>
+    <EndMilliseconds>25738</EndMilliseconds>
+    <Text>马克西：我们去找找他的[@数学@]书吧。
+Mǎkèxī: Wǒmen qù zhǎozhao tā de [@shùxué@] shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>25739</StartMilliseconds>
+    <EndMilliseconds>26113</EndMilliseconds>
+    <Text>马克西：我们去找找他的数学[@书@]吧。
+Mǎkèxī: Wǒmen qù zhǎozhao tā de shùxué [@shū@] ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>26114</StartMilliseconds>
+    <EndMilliseconds>26420</EndMilliseconds>
+    <Text>马克西：我们去找找他的数学书[@吧@]。
+Mǎkèxī: Wǒmen qù zhǎozhao tā de shùxué shū [@ba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>26421</StartMilliseconds>
+    <EndMilliseconds>27624</EndMilliseconds>
+    <Text>马克西：我们去找找他的数学书吧。
+Mǎkèxī: Wǒmen qù zhǎozhao tā de shùxué shū ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>27625</StartMilliseconds>
+    <EndMilliseconds>30154</EndMilliseconds>
+    <Text>塔克：看，马克西！
+Tǎkè: Kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>30155</StartMilliseconds>
+    <EndMilliseconds>30705</EndMilliseconds>
+    <Text>塔克：[@看@]，马克西！
+Tǎkè: [@Kàn@], Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>30706</StartMilliseconds>
+    <EndMilliseconds>31488</EndMilliseconds>
+    <Text>塔克：看，[@马克西@]！
+Tǎkè: Kàn, [@Mǎkèxī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>31489</StartMilliseconds>
+    <EndMilliseconds>32135</EndMilliseconds>
+    <Text>塔克：看，马克西！
+Tǎkè: Kàn, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>32136</StartMilliseconds>
+    <EndMilliseconds>32768</EndMilliseconds>
+    <Text>马克西：这是谁的漫画书？
+Mǎkèxī: Zhè shì shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>32769</StartMilliseconds>
+    <EndMilliseconds>32910</EndMilliseconds>
+    <Text>马克西：[@这@]是谁的漫画书？
+Mǎkèxī: [@Zhè@] shì shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>32911</StartMilliseconds>
+    <EndMilliseconds>33057</EndMilliseconds>
+    <Text>马克西：这[@是@]谁的漫画书？
+Mǎkèxī: Zhè [@shì@] shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>33058</StartMilliseconds>
+    <EndMilliseconds>33378</EndMilliseconds>
+    <Text>马克西：这是[@谁@]的漫画书？
+Mǎkèxī: Zhè shì [@shuí@] de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>33379</StartMilliseconds>
+    <EndMilliseconds>33523</EndMilliseconds>
+    <Text>马克西：这是谁[@的@]漫画书？
+Mǎkèxī: Zhè shì shuí [@de@] mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>33524</StartMilliseconds>
+    <EndMilliseconds>34023</EndMilliseconds>
+    <Text>马克西：这是谁的[@漫画@]书？
+Mǎkèxī: Zhè shì shuí de [@mànhuà@] shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>34024</StartMilliseconds>
+    <EndMilliseconds>34476</EndMilliseconds>
+    <Text>马克西：这是谁的漫画[@书@]？
+Mǎkèxī: Zhè shì shuí de mànhuà [@shū@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>34477</StartMilliseconds>
+    <EndMilliseconds>35134</EndMilliseconds>
+    <Text>马克西：这是谁的漫画书？
+Mǎkèxī: Zhè shì shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>35135</StartMilliseconds>
+    <EndMilliseconds>35459</EndMilliseconds>
+    <Text>塔克：是亚历克斯的。
+Tǎkè: Shì Yàlìkèsī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>35460</StartMilliseconds>
+    <EndMilliseconds>35665</EndMilliseconds>
+    <Text>塔克：[@是@]亚历克斯的。
+Tǎkè: [@Shì@] Yàlìkèsī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>35666</StartMilliseconds>
+    <EndMilliseconds>36697</EndMilliseconds>
+    <Text>塔克：是[@亚历克斯@]的。
+Tǎkè: Shì [@Yàlìkèsī@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>36698</StartMilliseconds>
+    <EndMilliseconds>36949</EndMilliseconds>
+    <Text>塔克：是亚历克斯[@的@]。
+Tǎkè: Shì Yàlìkèsī [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>36950</StartMilliseconds>
+    <EndMilliseconds>37037</EndMilliseconds>
+    <Text>塔克：是亚历克斯的。
+Tǎkè: Shì Yàlìkèsī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>37038</StartMilliseconds>
+    <EndMilliseconds>37194</EndMilliseconds>
+    <Text>塔克：真有意思！
+Tǎkè: Zhēn yǒu yìsi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>37195</StartMilliseconds>
+    <EndMilliseconds>37480</EndMilliseconds>
+    <Text>塔克：[@真@]有意思！
+Tǎkè: [@Zhēn@] yǒu yìsi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>37481</StartMilliseconds>
+    <EndMilliseconds>37744</EndMilliseconds>
+    <Text>塔克：真[@有@]意思！
+Tǎkè: Zhēn [@yǒu@] yìsi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>37745</StartMilliseconds>
+    <EndMilliseconds>38478</EndMilliseconds>
+    <Text>塔克：真有[@意思@]！
+Tǎkè: Zhēn yǒu [@yìsi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>38479</StartMilliseconds>
+    <EndMilliseconds>42348</EndMilliseconds>
+    <Text>塔克：真有意思！
+Tǎkè: Zhēn yǒu yìsi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>42349</StartMilliseconds>
+    <EndMilliseconds>43696</EndMilliseconds>
+    <Text>马克西：让我看看！
+Mǎkèxī: Ràng wǒ kànkan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>43697</StartMilliseconds>
+    <EndMilliseconds>43912</EndMilliseconds>
+    <Text>马克西：[@让@]我看看！
+Mǎkèxī: [@Ràng@] wǒ kànkan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>43913</StartMilliseconds>
+    <EndMilliseconds>44174</EndMilliseconds>
+    <Text>马克西：让[@我@]看看！
+Mǎkèxī: Ràng [@wǒ@] kànkan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>44175</StartMilliseconds>
+    <EndMilliseconds>44867</EndMilliseconds>
+    <Text>马克西：让我[@看看@]！
+Mǎkèxī: Ràng wǒ [@kànkan@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>44868</StartMilliseconds>
+    <EndMilliseconds>45379</EndMilliseconds>
+    <Text>马克西：让我看看！
+Mǎkèxī: Ràng wǒ kànkan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>45380</StartMilliseconds>
+    <EndMilliseconds>45692</EndMilliseconds>
+    <Text>塔克：不行，马克西！
+Tǎkè: Bù xíng, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>45693</StartMilliseconds>
+    <EndMilliseconds>45995</EndMilliseconds>
+    <Text>塔克：[@不@]行，马克西！
+Tǎkè: [@Bù@] xíng, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>45996</StartMilliseconds>
+    <EndMilliseconds>46361</EndMilliseconds>
+    <Text>塔克：不[@行@]，马克西！
+Tǎkè: Bù [@xíng@], Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>46362</StartMilliseconds>
+    <EndMilliseconds>47338</EndMilliseconds>
+    <Text>塔克：不行，[@马克西@]！
+Tǎkè: Bù xíng, [@Mǎkèxī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>47339</StartMilliseconds>
+    <EndMilliseconds>47615</EndMilliseconds>
+    <Text>塔克：不行，马克西！
+Tǎkè: Bù xíng, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>47616</StartMilliseconds>
+    <EndMilliseconds>47997</EndMilliseconds>
+    <Text>马克西：这不是你的书，
+Mǎkèxī: Zhè bú shì nǐ de shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>47998</StartMilliseconds>
+    <EndMilliseconds>48232</EndMilliseconds>
+    <Text>马克西：[@这@]不是你的书，
+Mǎkèxī: [@Zhè@] bú shì nǐ de shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>48233</StartMilliseconds>
+    <EndMilliseconds>48381</EndMilliseconds>
+    <Text>马克西：这[@不@]是你的书，
+Mǎkèxī: Zhè [@bú@] shì nǐ de shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>48382</StartMilliseconds>
+    <EndMilliseconds>48610</EndMilliseconds>
+    <Text>马克西：这不[@是@]你的书，
+Mǎkèxī: Zhè bú [@shì@] nǐ de shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>48611</StartMilliseconds>
+    <EndMilliseconds>48819</EndMilliseconds>
+    <Text>马克西：这不是[@你@]的书，
+Mǎkèxī: Zhè bú shì [@nǐ@] de shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>48820</StartMilliseconds>
+    <EndMilliseconds>49031</EndMilliseconds>
+    <Text>马克西：这不是你[@的@]书，
+Mǎkèxī: Zhè bú shì nǐ [@de@] shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>49032</StartMilliseconds>
+    <EndMilliseconds>49371</EndMilliseconds>
+    <Text>马克西：这不是你的[@书@]，
+Mǎkèxī: Zhè bú shì nǐ de [@shū@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>49372</StartMilliseconds>
+    <EndMilliseconds>49559</EndMilliseconds>
+    <Text>马克西：这不是你的书，
+Mǎkèxī: Zhè bú shì nǐ de shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>49560</StartMilliseconds>
+    <EndMilliseconds>49784</EndMilliseconds>
+    <Text>马克西：这是亚历克斯的书！
+Mǎkèxī: zhè shì Yàlìkèsī de shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>49785</StartMilliseconds>
+    <EndMilliseconds>49912</EndMilliseconds>
+    <Text>马克西：[@这@]是亚历克斯的书！
+Mǎkèxī: [@zhè@] shì Yàlìkèsī de shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>49913</StartMilliseconds>
+    <EndMilliseconds>50089</EndMilliseconds>
+    <Text>马克西：这[@是@]亚历克斯的书！
+Mǎkèxī: zhè [@shì@] Yàlìkèsī de shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>50090</StartMilliseconds>
+    <EndMilliseconds>50936</EndMilliseconds>
+    <Text>马克西：这是[@亚历克斯@]的书！
+Mǎkèxī: zhè shì [@Yàlìkèsī@] de shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>50937</StartMilliseconds>
+    <EndMilliseconds>51121</EndMilliseconds>
+    <Text>马克西：这是亚历克斯[@的@]书！
+Mǎkèxī: zhè shì Yàlìkèsī [@de@] shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>51122</StartMilliseconds>
+    <EndMilliseconds>51618</EndMilliseconds>
+    <Text>马克西：这是亚历克斯的[@书@]！
+Mǎkèxī: zhè shì Yàlìkèsī de [@shū@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>51619</StartMilliseconds>
+    <EndMilliseconds>56976</EndMilliseconds>
+    <Text>马克西：这是亚历克斯的书！
+Mǎkèxī: zhè shì Yàlìkèsī de shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>56977</StartMilliseconds>
+    <EndMilliseconds>60621</EndMilliseconds>
+    <Text>塔克：这是谁的漫画书？
+Tǎkè: Zhè shì shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>60622</StartMilliseconds>
+    <EndMilliseconds>60774</EndMilliseconds>
+    <Text>塔克：[@这@]是谁的漫画书？
+Tǎkè: [@Zhè@] shì shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>60775</StartMilliseconds>
+    <EndMilliseconds>60923</EndMilliseconds>
+    <Text>塔克：这[@是@]谁的漫画书？
+Tǎkè: Zhè [@shì@] shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>60924</StartMilliseconds>
+    <EndMilliseconds>61259</EndMilliseconds>
+    <Text>塔克：这是[@谁@]的漫画书？
+Tǎkè: Zhè shì [@shuí@] de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>61260</StartMilliseconds>
+    <EndMilliseconds>61410</EndMilliseconds>
+    <Text>塔克：这是谁[@的@]漫画书？
+Tǎkè: Zhè shì shuí [@de@] mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>61411</StartMilliseconds>
+    <EndMilliseconds>62007</EndMilliseconds>
+    <Text>塔克：这是谁的[@漫画@]书？
+Tǎkè: Zhè shì shuí de [@mànhuà@] shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>62008</StartMilliseconds>
+    <EndMilliseconds>62365</EndMilliseconds>
+    <Text>塔克：这是谁的漫画[@书@]？
+Tǎkè: Zhè shì shuí de mànhuà [@shū@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>62366</StartMilliseconds>
+    <EndMilliseconds>63019</EndMilliseconds>
+    <Text>塔克：这是谁的漫画书？
+Tǎkè: Zhè shì shuí de mànhuà shū?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>63020</StartMilliseconds>
+    <EndMilliseconds>63317</EndMilliseconds>
+    <Text>马克西：这是你的漫画书，
+Mǎkèxī: Zhè shì nǐ de mànhuà shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>63318</StartMilliseconds>
+    <EndMilliseconds>63466</EndMilliseconds>
+    <Text>马克西：[@这@]是你的漫画书，
+Mǎkèxī: [@Zhè@] shì nǐ de mànhuà shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>63467</StartMilliseconds>
+    <EndMilliseconds>63626</EndMilliseconds>
+    <Text>马克西：这[@是@]你的漫画书，
+Mǎkèxī: Zhè [@shì@] nǐ de mànhuà shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>63627</StartMilliseconds>
+    <EndMilliseconds>63906</EndMilliseconds>
+    <Text>马克西：这是[@你@]的漫画书，
+Mǎkèxī: Zhè shì [@nǐ@] de mànhuà shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>63907</StartMilliseconds>
+    <EndMilliseconds>64074</EndMilliseconds>
+    <Text>马克西：这是你[@的@]漫画书，
+Mǎkèxī: Zhè shì nǐ [@de@] mànhuà shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>64075</StartMilliseconds>
+    <EndMilliseconds>64636</EndMilliseconds>
+    <Text>马克西：这是你的[@漫画@]书，
+Mǎkèxī: Zhè shì nǐ de [@mànhuà@] shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>64637</StartMilliseconds>
+    <EndMilliseconds>65000</EndMilliseconds>
+    <Text>马克西：这是你的漫画[@书@]，
+Mǎkèxī: Zhè shì nǐ de mànhuà [@shū@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>65001</StartMilliseconds>
+    <EndMilliseconds>65372</EndMilliseconds>
+    <Text>马克西：这是你的漫画书，
+Mǎkèxī: Zhè shì nǐ de mànhuà shū,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>65373</StartMilliseconds>
+    <EndMilliseconds>65691</EndMilliseconds>
+    <Text>马克西：那是亚历克斯的漫画书。
+Mǎkèxī: nà shì Yàlìkèsī de mànhuà shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>65692</StartMilliseconds>
+    <EndMilliseconds>65870</EndMilliseconds>
+    <Text>马克西：[@那@]是亚历克斯的漫画书。
+Mǎkèxī: [@nà@] shì Yàlìkèsī de mànhuà shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>65871</StartMilliseconds>
+    <EndMilliseconds>66010</EndMilliseconds>
+    <Text>马克西：那[@是@]亚历克斯的漫画书。
+Mǎkèxī: nà [@shì@] Yàlìkèsī de mànhuà shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>66011</StartMilliseconds>
+    <EndMilliseconds>66865</EndMilliseconds>
+    <Text>马克西：那是[@亚历克斯@]的漫画书。
+Mǎkèxī: nà shì [@Yàlìkèsī@] de mànhuà shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>66866</StartMilliseconds>
+    <EndMilliseconds>67010</EndMilliseconds>
+    <Text>马克西：那是亚历克斯[@的@]漫画书。
+Mǎkèxī: nà shì Yàlìkèsī [@de@] mànhuà shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>67011</StartMilliseconds>
+    <EndMilliseconds>67527</EndMilliseconds>
+    <Text>马克西：那是亚历克斯的[@漫画@]书。
+Mǎkèxī: nà shì Yàlìkèsī de [@mànhuà@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>67528</StartMilliseconds>
+    <EndMilliseconds>68033</EndMilliseconds>
+    <Text>马克西：那是亚历克斯的漫画[@书@]。
+Mǎkèxī: nà shì Yàlìkèsī de mànhuà [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>68034</StartMilliseconds>
+    <EndMilliseconds>68558</EndMilliseconds>
+    <Text>马克西：那是亚历克斯的漫画书。
+Mǎkèxī: nà shì Yàlìkèsī de mànhuà shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>68559</StartMilliseconds>
+    <EndMilliseconds>68903</EndMilliseconds>
+    <Text>塔克：谢谢你，马克西。
+Tǎkè: Xièxie nǐ, Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>68904</StartMilliseconds>
+    <EndMilliseconds>69437</EndMilliseconds>
+    <Text>塔克：[@谢谢@]你，马克西。
+Tǎkè: [@Xièxie@] nǐ, Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>69438</StartMilliseconds>
+    <EndMilliseconds>69699</EndMilliseconds>
+    <Text>塔克：谢谢[@你@]，马克西。
+Tǎkè: Xièxie [@nǐ@], Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>69700</StartMilliseconds>
+    <EndMilliseconds>70550</EndMilliseconds>
+    <Text>塔克：谢谢你，[@马克西@]。
+Tǎkè: Xièxie nǐ, [@Mǎkèxī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>70551</StartMilliseconds>
+    <EndMilliseconds>70967</EndMilliseconds>
+    <Text>塔克：谢谢你，马克西。
+Tǎkè: Xièxie nǐ, Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>70968</StartMilliseconds>
+    <EndMilliseconds>71192</EndMilliseconds>
+    <Text>塔克：我很喜欢！
+Tǎkè: Wǒ hěn xǐhuan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>71193</StartMilliseconds>
+    <EndMilliseconds>71391</EndMilliseconds>
+    <Text>塔克：[@我@]很喜欢！
+Tǎkè: [@Wǒ@] hěn xǐhuan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>71392</StartMilliseconds>
+    <EndMilliseconds>71714</EndMilliseconds>
+    <Text>塔克：我[@很@]喜欢！
+Tǎkè: Wǒ [@hěn@] xǐhuan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>71715</StartMilliseconds>
+    <EndMilliseconds>72424</EndMilliseconds>
+    <Text>塔克：我很[@喜欢@]！
+Tǎkè: Wǒ hěn [@xǐhuan@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>72425</StartMilliseconds>
+    <EndMilliseconds>73910</EndMilliseconds>
+    <Text>塔克：我很喜欢！
+Tǎkè: Wǒ hěn xǐhuan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>73911</StartMilliseconds>
+    <EndMilliseconds>74448</EndMilliseconds>
+    <Text>马克西：我们去学校吧。
+Mǎkèxī: Wǒmen qù xuéxiào ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>74449</StartMilliseconds>
+    <EndMilliseconds>74747</EndMilliseconds>
+    <Text>马克西：[@我们@]去学校吧。
+Mǎkèxī: [@Wǒmen@] qù xuéxiào ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>74748</StartMilliseconds>
+    <EndMilliseconds>74927</EndMilliseconds>
+    <Text>马克西：我们[@去@]学校吧。
+Mǎkèxī: Wǒmen [@qù@] xuéxiào ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>74928</StartMilliseconds>
+    <EndMilliseconds>75566</EndMilliseconds>
+    <Text>马克西：我们去[@学校@]吧。
+Mǎkèxī: Wǒmen qù [@xuéxiào@] ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>75567</StartMilliseconds>
+    <EndMilliseconds>75963</EndMilliseconds>
+    <Text>马克西：我们去学校[@吧@]。
+Mǎkèxī: Wǒmen qù xuéxiào [@ba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>75966</StartMilliseconds>
+    <EndMilliseconds>83290</EndMilliseconds>
+    <Text>马克西：我们去学校吧。
+Mǎkèxī: Wǒmen qù xuéxiào ba.</Text>
+  </Paragraph>
+</Subtitle>

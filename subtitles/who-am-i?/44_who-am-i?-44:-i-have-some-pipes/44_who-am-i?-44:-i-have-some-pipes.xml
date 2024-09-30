@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10852</StartMilliseconds>
+    <EndMilliseconds>13047</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē guǎnzi.
+我有一些管子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13047</StartMilliseconds>
+    <EndMilliseconds>13516</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē guǎnzi.
+[@我@]有一些管子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13516</StartMilliseconds>
+    <EndMilliseconds>13781</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē guǎnzi.
+我[@有@]一些管子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13781</StartMilliseconds>
+    <EndMilliseconds>14195</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] guǎnzi.
+我有[@一些@]管子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14195</StartMilliseconds>
+    <EndMilliseconds>14961</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@guǎnzi@].
+我有一些[@管子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14961</StartMilliseconds>
+    <EndMilliseconds>22568</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē guǎnzi.
+我有一些管子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>22568</StartMilliseconds>
+    <EndMilliseconds>23748</EndMilliseconds>
+    <Text>Zhè shì wǒ de chènshān.
+这是我的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>23748</StartMilliseconds>
+    <EndMilliseconds>24420</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de chènshān.
+[@这@]是我的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>24420</StartMilliseconds>
+    <EndMilliseconds>24701</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de chènshān.
+这[@是@]我的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24701</StartMilliseconds>
+    <EndMilliseconds>24912</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de chènshān.
+这是[@我@]的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24912</StartMilliseconds>
+    <EndMilliseconds>25084</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] chènshān.
+这是我[@的@]衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>25084</StartMilliseconds>
+    <EndMilliseconds>25865</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@chènshān@].
+这是我的[@衬衫@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25865</StartMilliseconds>
+    <EndMilliseconds>30873</EndMilliseconds>
+    <Text>Zhè shì wǒ de chènshān.
+这是我的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>30873</StartMilliseconds>
+    <EndMilliseconds>32111</EndMilliseconds>
+    <Text>Zhè shì wǒ de shǒutào.
+这是我的手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>32111</StartMilliseconds>
+    <EndMilliseconds>32803</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de shǒutào.
+[@这@]是我的手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>32803</StartMilliseconds>
+    <EndMilliseconds>33154</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de shǒutào.
+这[@是@]我的手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>33154</StartMilliseconds>
+    <EndMilliseconds>33373</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de shǒutào.
+这是[@我@]的手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>33373</StartMilliseconds>
+    <EndMilliseconds>33537</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] shǒutào.
+这是我[@的@]手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>33537</StartMilliseconds>
+    <EndMilliseconds>34318</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@shǒutào@].
+这是我的[@手套@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>34318</StartMilliseconds>
+    <EndMilliseconds>39281</EndMilliseconds>
+    <Text>Zhè shì wǒ de shǒutào.
+这是我的手套。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>39281</StartMilliseconds>
+    <EndMilliseconds>40422</EndMilliseconds>
+    <Text>Zhè shì yí ge shuǐchí.
+这是一个水池。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>40422</StartMilliseconds>
+    <EndMilliseconds>41204</EndMilliseconds>
+    <Text>[@Zhè@] shì yí ge shuǐchí.
+[@这@]是一个水池。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>41204</StartMilliseconds>
+    <EndMilliseconds>41492</EndMilliseconds>
+    <Text>Zhè [@shì@] yí ge shuǐchí.
+这[@是@]一个水池。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>41492</StartMilliseconds>
+    <EndMilliseconds>41680</EndMilliseconds>
+    <Text>Zhè shì [@yí@] ge shuǐchí.
+这是[@一@]个水池。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>41680</StartMilliseconds>
+    <EndMilliseconds>41851</EndMilliseconds>
+    <Text>Zhè shì yí [@ge@] shuǐchí.
+这是一[@个@]水池。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41851</StartMilliseconds>
+    <EndMilliseconds>42703</EndMilliseconds>
+    <Text>Zhè shì yí ge [@shuǐchí@].
+这是一个[@水池@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>42703</StartMilliseconds>
+    <EndMilliseconds>47578</EndMilliseconds>
+    <Text>Zhè shì yí ge shuǐchí.
+这是一个水池。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>47578</StartMilliseconds>
+    <EndMilliseconds>48758</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge gōngjù yāodài.
+我有一个工具腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>48758</StartMilliseconds>
+    <EndMilliseconds>49281</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge gōngjù yāodài.
+[@我@]有一个工具腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>49281</StartMilliseconds>
+    <EndMilliseconds>49547</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge gōngjù yāodài.
+我[@有@]一个工具腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49547</StartMilliseconds>
+    <EndMilliseconds>49750</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge gōngjù yāodài.
+我有[@一@]个工具腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49750</StartMilliseconds>
+    <EndMilliseconds>50039</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] gōngjù yāodài.
+我有一[@个@]工具腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>50039</StartMilliseconds>
+    <EndMilliseconds>50626</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@gōngjù@] yāodài.
+我有一个[@工具@]腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>50626</StartMilliseconds>
+    <EndMilliseconds>51352</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge gōngjù [@yāodài@].
+我有一个工具[@腰带@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>51352</StartMilliseconds>
+    <EndMilliseconds>55935</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge gōngjù yāodài.
+我有一个工具腰带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55935</StartMilliseconds>
+    <EndMilliseconds>57068</EndMilliseconds>
+    <Text>Zhè shì yí ge shuǐlóngtóu.
+这是一个水龙头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>57068</StartMilliseconds>
+    <EndMilliseconds>57404</EndMilliseconds>
+    <Text>[@Zhè@] shì yí ge shuǐlóngtóu.
+[@这@]是一个水龙头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57404</StartMilliseconds>
+    <EndMilliseconds>57622</EndMilliseconds>
+    <Text>Zhè [@shì@] yí ge shuǐlóngtóu.
+这[@是@]一个水龙头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57622</StartMilliseconds>
+    <EndMilliseconds>57833</EndMilliseconds>
+    <Text>Zhè shì [@yí@] ge shuǐlóngtóu.
+这是[@一@]个水龙头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>57833</StartMilliseconds>
+    <EndMilliseconds>58060</EndMilliseconds>
+    <Text>Zhè shì yí [@ge@] shuǐlóngtóu.
+这是一[@个@]水龙头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>58060</StartMilliseconds>
+    <EndMilliseconds>59029</EndMilliseconds>
+    <Text>Zhè shì yí ge [@shuǐlóngtóu@].
+这是一个[@水龙头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>59029</StartMilliseconds>
+    <EndMilliseconds>64239</EndMilliseconds>
+    <Text>Zhè shì yí ge shuǐlóngtóu.
+这是一个水龙头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>64239</StartMilliseconds>
+    <EndMilliseconds>65388</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ bānshǒu.
+我有一把扳手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>65388</StartMilliseconds>
+    <EndMilliseconds>65982</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì bǎ bānshǒu.
+[@我@]有一把扳手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65982</StartMilliseconds>
+    <EndMilliseconds>66271</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì bǎ bānshǒu.
+我[@有@]一把扳手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>66271</StartMilliseconds>
+    <EndMilliseconds>66474</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] bǎ bānshǒu.
+我有[@一@]把扳手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66474</StartMilliseconds>
+    <EndMilliseconds>66724</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@bǎ@] bānshǒu.
+我有一[@把@]扳手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66724</StartMilliseconds>
+    <EndMilliseconds>67388</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ [@bānshǒu@].
+我有一把[@扳手@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>67388</StartMilliseconds>
+    <EndMilliseconds>72503</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ bānshǒu.
+我有一把扳手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>72503</StartMilliseconds>
+    <EndMilliseconds>73817</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>73817</StartMilliseconds>
+    <EndMilliseconds>74293</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>74293</StartMilliseconds>
+    <EndMilliseconds>74645</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>74645</StartMilliseconds>
+    <EndMilliseconds>75129</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>75129</StartMilliseconds>
+    <EndMilliseconds>80246</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>80246</StartMilliseconds>
+    <EndMilliseconds>81512</EndMilliseconds>
+    <Text>Wǒ shì shuǐguǎn gōngrén.
+我是水管工人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>81512</StartMilliseconds>
+    <EndMilliseconds>82184</EndMilliseconds>
+    <Text>[@Wǒ@] shì shuǐguǎn gōngrén.
+[@我@]是水管工人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>82184</StartMilliseconds>
+    <EndMilliseconds>82502</EndMilliseconds>
+    <Text>Wǒ [@shì@] shuǐguǎn gōngrén.
+我[@是@]水管工人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>82502</StartMilliseconds>
+    <EndMilliseconds>83192</EndMilliseconds>
+    <Text>Wǒ shì [@shuǐguǎn@] gōngrén.
+我是[@水管@]工人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>83192</StartMilliseconds>
+    <EndMilliseconds>83880</EndMilliseconds>
+    <Text>Wǒ shì shuǐguǎn [@gōngrén@].
+我是水管[@工人@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>83880</StartMilliseconds>
+    <EndMilliseconds>88590</EndMilliseconds>
+    <Text>Wǒ shì shuǐguǎn gōngrén.
+我是水管工人。</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13438</StartMilliseconds>
+    <EndMilliseconds>28875</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi gāo.
+兔子：我个子高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>28876</StartMilliseconds>
+    <EndMilliseconds>29451</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] gèzi gāo.
+兔子：[@我@]个子高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>29452</StartMilliseconds>
+    <EndMilliseconds>30228</EndMilliseconds>
+    <Text>tùzi: Wǒ [@gèzi@] gāo.
+兔子：我[@个子@]高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>30229</StartMilliseconds>
+    <EndMilliseconds>31016</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi [@gāo@].
+兔子：我个子[@高@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>31017</StartMilliseconds>
+    <EndMilliseconds>31539</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi gāo.
+兔子：我个子高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>31540</StartMilliseconds>
+    <EndMilliseconds>36888</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi bǐ nǐ gāo.
+兔子：我个子比你高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>36889</StartMilliseconds>
+    <EndMilliseconds>37511</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] gèzi bǐ nǐ gāo.
+兔子：[@我@]个子比你高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>37512</StartMilliseconds>
+    <EndMilliseconds>38619</EndMilliseconds>
+    <Text>tùzi: Wǒ [@gèzi@] bǐ nǐ gāo.
+兔子：我[@个子@]比你高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>38620</StartMilliseconds>
+    <EndMilliseconds>38879</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi [@bǐ@] nǐ gāo.
+兔子：我个子[@比@]你高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>38880</StartMilliseconds>
+    <EndMilliseconds>39242</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi bǐ [@nǐ@] gāo.
+兔子：我个子比[@你@]高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>39243</StartMilliseconds>
+    <EndMilliseconds>39963</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi bǐ nǐ [@gāo@].
+兔子：我个子比你[@高@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>39964</StartMilliseconds>
+    <EndMilliseconds>42903</EndMilliseconds>
+    <Text>tùzi: Wǒ gèzi bǐ nǐ gāo.
+兔子：我个子比你高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>42904</StartMilliseconds>
+    <EndMilliseconds>43431</EndMilliseconds>
+    <Text>sōngshǔ: Bù, wǒ gèng gāo!
+松鼠：不，我更高！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>43432</StartMilliseconds>
+    <EndMilliseconds>44650</EndMilliseconds>
+    <Text>sōngshǔ: [@Bù@], wǒ gèng gāo!
+松鼠：[@不@]，我更高！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>44651</StartMilliseconds>
+    <EndMilliseconds>45161</EndMilliseconds>
+    <Text>sōngshǔ: Bù, [@wǒ@] gèng gāo!
+松鼠：不，[@我@]更高！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>45162</StartMilliseconds>
+    <EndMilliseconds>45586</EndMilliseconds>
+    <Text>sōngshǔ: Bù, wǒ [@gèng@] gāo!
+松鼠：不，我[@更@]高！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>45587</StartMilliseconds>
+    <EndMilliseconds>46324</EndMilliseconds>
+    <Text>sōngshǔ: Bù, wǒ gèng [@gāo@]!
+松鼠：不，我更[@高@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>46325</StartMilliseconds>
+    <EndMilliseconds>48904</EndMilliseconds>
+    <Text>sōngshǔ: Bù, wǒ gèng gāo!
+松鼠：不，我更高！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>48905</StartMilliseconds>
+    <EndMilliseconds>63266</EndMilliseconds>
+    <Text>huànxióng: Wǒ gèzi zuì gāo.
+浣熊：我个子最高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>63267</StartMilliseconds>
+    <EndMilliseconds>63915</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] gèzi zuì gāo.
+浣熊：[@我@]个子最高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>63916</StartMilliseconds>
+    <EndMilliseconds>65147</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@gèzi@] zuì gāo.
+浣熊：我[@个子@]最高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>65148</StartMilliseconds>
+    <EndMilliseconds>65686</EndMilliseconds>
+    <Text>huànxióng: Wǒ gèzi [@zuì@] gāo.
+浣熊：我个子[@最@]高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>65687</StartMilliseconds>
+    <EndMilliseconds>67125</EndMilliseconds>
+    <Text>huànxióng: Wǒ gèzi zuì [@gāo@].
+浣熊：我个子最[@高@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>67126</StartMilliseconds>
+    <EndMilliseconds>67496</EndMilliseconds>
+    <Text>huànxióng: Wǒ gèzi zuì gāo.
+浣熊：我个子最高。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>67497</StartMilliseconds>
+    <EndMilliseconds>68813</EndMilliseconds>
+    <Text>sōngshǔ: Hǎo ba, wǒ hěn qiángzhuàng!
+松鼠：好吧，我很强壮！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>68814</StartMilliseconds>
+    <EndMilliseconds>69454</EndMilliseconds>
+    <Text>sōngshǔ: [@Hǎo@] ba, wǒ hěn qiángzhuàng!
+松鼠：[@好@]吧，我很强壮！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>69455</StartMilliseconds>
+    <EndMilliseconds>70615</EndMilliseconds>
+    <Text>sōngshǔ: Hǎo [@ba@], wǒ hěn qiángzhuàng!
+松鼠：好[@吧@]，我很强壮！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>70616</StartMilliseconds>
+    <EndMilliseconds>71018</EndMilliseconds>
+    <Text>sōngshǔ: Hǎo ba, [@wǒ@] hěn qiángzhuàng!
+松鼠：好吧，[@我@]很强壮！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>71019</StartMilliseconds>
+    <EndMilliseconds>71270</EndMilliseconds>
+    <Text>sōngshǔ: Hǎo ba, wǒ [@hěn@] qiángzhuàng!
+松鼠：好吧，我[@很@]强壮！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>71271</StartMilliseconds>
+    <EndMilliseconds>72402</EndMilliseconds>
+    <Text>sōngshǔ: Hǎo ba, wǒ hěn [@qiángzhuàng@]!
+松鼠：好吧，我很[@强壮@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>72403</StartMilliseconds>
+    <EndMilliseconds>78726</EndMilliseconds>
+    <Text>sōngshǔ: Hǎo ba, wǒ hěn qiángzhuàng!
+松鼠：好吧，我很强壮！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>78727</StartMilliseconds>
+    <EndMilliseconds>80432</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bǐ nǐmen qiángzhuàng.
+松鼠：我比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>80433</StartMilliseconds>
+    <EndMilliseconds>80721</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] bǐ nǐmen qiángzhuàng.
+松鼠：[@我@]比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>80722</StartMilliseconds>
+    <EndMilliseconds>80947</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@bǐ@] nǐmen qiángzhuàng.
+松鼠：我[@比@]你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>80948</StartMilliseconds>
+    <EndMilliseconds>81918</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bǐ [@nǐmen@] qiángzhuàng.
+松鼠：我比[@你们@]强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>81919</StartMilliseconds>
+    <EndMilliseconds>83506</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bǐ nǐmen [@qiángzhuàng@].
+松鼠：我比你们[@强壮@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>83507</StartMilliseconds>
+    <EndMilliseconds>85497</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bǐ nǐmen qiángzhuàng.
+松鼠：我比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>85498</StartMilliseconds>
+    <EndMilliseconds>86151</EndMilliseconds>
+    <Text>tùzi: Wǒ yě hěn qiángzhuàng,
+兔子：我也很强壮，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>86152</StartMilliseconds>
+    <EndMilliseconds>86794</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yě hěn qiángzhuàng,
+兔子：[@我@]也很强壮，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>86795</StartMilliseconds>
+    <EndMilliseconds>87341</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yě@] hěn qiángzhuàng,
+兔子：我[@也@]很强壮，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>87342</StartMilliseconds>
+    <EndMilliseconds>87763</EndMilliseconds>
+    <Text>tùzi: Wǒ yě [@hěn@] qiángzhuàng,
+兔子：我也[@很@]强壮，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>87764</StartMilliseconds>
+    <EndMilliseconds>88923</EndMilliseconds>
+    <Text>tùzi: Wǒ yě hěn [@qiángzhuàng@],
+兔子：我也很[@强壮@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>88924</StartMilliseconds>
+    <EndMilliseconds>98860</EndMilliseconds>
+    <Text>tùzi: Wǒ yě hěn qiángzhuàng,
+兔子：我也很强壮，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>98861</StartMilliseconds>
+    <EndMilliseconds>99582</EndMilliseconds>
+    <Text>tùzi: wǒ yě bǐ nǐmen qiángzhuàng.
+兔子：我也比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>99583</StartMilliseconds>
+    <EndMilliseconds>100037</EndMilliseconds>
+    <Text>tùzi: [@wǒ@] yě bǐ nǐmen qiángzhuàng.
+兔子：[@我@]也比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>100038</StartMilliseconds>
+    <EndMilliseconds>100555</EndMilliseconds>
+    <Text>tùzi: wǒ [@yě@] bǐ nǐmen qiángzhuàng.
+兔子：我[@也@]比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>100556</StartMilliseconds>
+    <EndMilliseconds>100845</EndMilliseconds>
+    <Text>tùzi: wǒ yě [@bǐ@] nǐmen qiángzhuàng.
+兔子：我也[@比@]你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>100846</StartMilliseconds>
+    <EndMilliseconds>101522</EndMilliseconds>
+    <Text>tùzi: wǒ yě bǐ [@nǐmen@] qiángzhuàng.
+兔子：我也比[@你们@]强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>101523</StartMilliseconds>
+    <EndMilliseconds>102773</EndMilliseconds>
+    <Text>tùzi: wǒ yě bǐ nǐmen [@qiángzhuàng@].
+兔子：我也比你们[@强壮@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>102774</StartMilliseconds>
+    <EndMilliseconds>103920</EndMilliseconds>
+    <Text>tùzi: wǒ yě bǐ nǐmen qiángzhuàng.
+兔子：我也比你们强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>103921</StartMilliseconds>
+    <EndMilliseconds>104854</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ zuì qiángzhuàng.
+浣熊：不，我最强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>104855</StartMilliseconds>
+    <EndMilliseconds>106081</EndMilliseconds>
+    <Text>huànxióng: [@Bù@], wǒ zuì qiángzhuàng.
+浣熊：[@不@]，我最强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>106082</StartMilliseconds>
+    <EndMilliseconds>106810</EndMilliseconds>
+    <Text>huànxióng: Bù, [@wǒ@] zuì qiángzhuàng.
+浣熊：不，[@我@]最强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>106811</StartMilliseconds>
+    <EndMilliseconds>107256</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ [@zuì@] qiángzhuàng.
+浣熊：不，我[@最@]强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>107257</StartMilliseconds>
+    <EndMilliseconds>108434</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ zuì [@qiángzhuàng@].
+浣熊：不，我最[@强壮@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>108435</StartMilliseconds>
+    <EndMilliseconds>118027</EndMilliseconds>
+    <Text>huànxióng: Bù, wǒ zuì qiángzhuàng.
+浣熊：不，我最强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>118028</StartMilliseconds>
+    <EndMilliseconds>121662</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě shì zuì kuài de!
+浣熊：我也是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>121663</StartMilliseconds>
+    <EndMilliseconds>121913</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yě shì zuì kuài de!
+浣熊：[@我@]也是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>121914</StartMilliseconds>
+    <EndMilliseconds>122100</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yě@] shì zuì kuài de!
+浣熊：我[@也@]是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>122101</StartMilliseconds>
+    <EndMilliseconds>123116</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě [@shì@] zuì kuài de!
+浣熊：我也[@是@]最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>123117</StartMilliseconds>
+    <EndMilliseconds>123511</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě shì [@zuì@] kuài de!
+浣熊：我也是[@最@]快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>123512</StartMilliseconds>
+    <EndMilliseconds>123992</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě shì zuì [@kuài@] de!
+浣熊：我也是最[@快@]的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>123993</StartMilliseconds>
+    <EndMilliseconds>124675</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě shì zuì kuài [@de@]!
+浣熊：我也是最快[@的@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>124676</StartMilliseconds>
+    <EndMilliseconds>126227</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě shì zuì kuài de!
+浣熊：我也是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>126228</StartMilliseconds>
+    <EndMilliseconds>127891</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ shì zuì kuài de!
+松鼠：我是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>127892</StartMilliseconds>
+    <EndMilliseconds>128509</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] shì zuì kuài de!
+松鼠：[@我@]是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>128510</StartMilliseconds>
+    <EndMilliseconds>128817</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@shì@] zuì kuài de!
+松鼠：我[@是@]最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>128818</StartMilliseconds>
+    <EndMilliseconds>129199</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ shì [@zuì@] kuài de!
+松鼠：我是[@最@]快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>129200</StartMilliseconds>
+    <EndMilliseconds>129598</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ shì zuì [@kuài@] de!
+松鼠：我是最[@快@]的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>129599</StartMilliseconds>
+    <EndMilliseconds>130175</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ shì zuì kuài [@de@]!
+松鼠：我是最快[@的@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>130176</StartMilliseconds>
+    <EndMilliseconds>132330</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ shì zuì kuài de!
+松鼠：我是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>132331</StartMilliseconds>
+    <EndMilliseconds>133057</EndMilliseconds>
+    <Text>tùzi: Bù, wǒ shì zuì kuài de!
+兔子：不，我是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>133058</StartMilliseconds>
+    <EndMilliseconds>134045</EndMilliseconds>
+    <Text>tùzi: [@Bù@], wǒ shì zuì kuài de!
+兔子：[@不@]，我是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>134046</StartMilliseconds>
+    <EndMilliseconds>134523</EndMilliseconds>
+    <Text>tùzi: Bù, [@wǒ@] shì zuì kuài de!
+兔子：不，[@我@]是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>134524</StartMilliseconds>
+    <EndMilliseconds>134853</EndMilliseconds>
+    <Text>tùzi: Bù, wǒ [@shì@] zuì kuài de!
+兔子：不，我[@是@]最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>134854</StartMilliseconds>
+    <EndMilliseconds>135153</EndMilliseconds>
+    <Text>tùzi: Bù, wǒ shì [@zuì@] kuài de!
+兔子：不，我是[@最@]快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>135154</StartMilliseconds>
+    <EndMilliseconds>135639</EndMilliseconds>
+    <Text>tùzi: Bù, wǒ shì zuì [@kuài@] de!
+兔子：不，我是最[@快@]的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>135640</StartMilliseconds>
+    <EndMilliseconds>136381</EndMilliseconds>
+    <Text>tùzi: Bù, wǒ shì zuì kuài [@de@]!
+兔子：不，我是最快[@的@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>136382</StartMilliseconds>
+    <EndMilliseconds>137577</EndMilliseconds>
+    <Text>tùzi: Bù, wǒ shì zuì kuài de!
+兔子：不，我是最快的！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>137578</StartMilliseconds>
+    <EndMilliseconds>167438</EndMilliseconds>
+    <Text>wūguī: Xū! Wǒ zài shuìjiào!
+乌龟：嘘！我在睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>167439</StartMilliseconds>
+    <EndMilliseconds>169384</EndMilliseconds>
+    <Text>wūguī: [@Xū@]! Wǒ zài shuìjiào!
+乌龟：[@嘘@]！我在睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>169385</StartMilliseconds>
+    <EndMilliseconds>169934</EndMilliseconds>
+    <Text>wūguī: Xū! [@Wǒ@] zài shuìjiào!
+乌龟：嘘！[@我@]在睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>169935</StartMilliseconds>
+    <EndMilliseconds>170415</EndMilliseconds>
+    <Text>wūguī: Xū! Wǒ [@zài@] shuìjiào!
+乌龟：嘘！我[@在@]睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>170416</StartMilliseconds>
+    <EndMilliseconds>172533</EndMilliseconds>
+    <Text>wūguī: Xū! Wǒ zài [@shuìjiào@]!
+乌龟：嘘！我在[@睡觉@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>172534</StartMilliseconds>
+    <EndMilliseconds>186325</EndMilliseconds>
+    <Text>wūguī: Xū! Wǒ zài shuìjiào!
+乌龟：嘘！我在睡觉！</Text>
+  </Paragraph>
+</Subtitle>

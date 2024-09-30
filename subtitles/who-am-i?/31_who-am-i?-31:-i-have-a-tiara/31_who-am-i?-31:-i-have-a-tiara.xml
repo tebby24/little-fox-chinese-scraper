@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10806</StartMilliseconds>
+    <EndMilliseconds>13056</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge huángguān tóushì.
+我有一个皇冠头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13056</StartMilliseconds>
+    <EndMilliseconds>13408</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge huángguān tóushì.
+[@我@]有一个皇冠头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13408</StartMilliseconds>
+    <EndMilliseconds>13611</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge huángguān tóushì.
+我[@有@]一个皇冠头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13611</StartMilliseconds>
+    <EndMilliseconds>13814</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge huángguān tóushì.
+我有[@一@]个皇冠头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13814</StartMilliseconds>
+    <EndMilliseconds>14294</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] huángguān tóushì.
+我有一[@个@]皇冠头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14294</StartMilliseconds>
+    <EndMilliseconds>15173</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@huángguān@] tóushì.
+我有一个[@皇冠@]头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15173</StartMilliseconds>
+    <EndMilliseconds>16008</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge huángguān [@tóushì@].
+我有一个皇冠[@头饰@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16008</StartMilliseconds>
+    <EndMilliseconds>22320</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge huángguān tóushì.
+我有一个皇冠头饰。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22320</StartMilliseconds>
+    <EndMilliseconds>23913</EndMilliseconds>
+    <Text>Zhè shì wǒ de wǔtái.
+这是我的舞台。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23913</StartMilliseconds>
+    <EndMilliseconds>24140</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de wǔtái.
+[@这@]是我的舞台。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24140</StartMilliseconds>
+    <EndMilliseconds>24390</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de wǔtái.
+这[@是@]我的舞台。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24390</StartMilliseconds>
+    <EndMilliseconds>24749</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de wǔtái.
+这是[@我@]的舞台。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24749</StartMilliseconds>
+    <EndMilliseconds>25253</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] wǔtái.
+这是我[@的@]舞台。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25253</StartMilliseconds>
+    <EndMilliseconds>26270</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@wǔtái@].
+这是我的[@舞台@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>26270</StartMilliseconds>
+    <EndMilliseconds>30598</EndMilliseconds>
+    <Text>Zhè shì wǒ de wǔtái.
+这是我的舞台。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30598</StartMilliseconds>
+    <EndMilliseconds>32161</EndMilliseconds>
+    <Text>Wǒ yǒu yì tiáo fěnsè de jǐnshēn kùwà.
+我有一条粉色的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32161</StartMilliseconds>
+    <EndMilliseconds>32477</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì tiáo fěnsè de jǐnshēn kùwà.
+[@我@]有一条粉色的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32477</StartMilliseconds>
+    <EndMilliseconds>32653</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì tiáo fěnsè de jǐnshēn kùwà.
+我[@有@]一条粉色的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32653</StartMilliseconds>
+    <EndMilliseconds>32856</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] tiáo fěnsè de jǐnshēn kùwà.
+我有[@一@]条粉色的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32856</StartMilliseconds>
+    <EndMilliseconds>33422</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@tiáo@] fěnsè de jǐnshēn kùwà.
+我有一[@条@]粉色的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33422</StartMilliseconds>
+    <EndMilliseconds>34278</EndMilliseconds>
+    <Text>Wǒ yǒu yì tiáo [@fěnsè@] de jǐnshēn kùwà.
+我有一条[@粉色@]的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34278</StartMilliseconds>
+    <EndMilliseconds>34805</EndMilliseconds>
+    <Text>Wǒ yǒu yì tiáo fěnsè [@de@] jǐnshēn kùwà.
+我有一条粉色[@的@]紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>34805</StartMilliseconds>
+    <EndMilliseconds>35641</EndMilliseconds>
+    <Text>Wǒ yǒu yì tiáo fěnsè de [@jǐnshēn@] kùwà.
+我有一条粉色的[@紧身@]裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>35641</StartMilliseconds>
+    <EndMilliseconds>36372</EndMilliseconds>
+    <Text>Wǒ yǒu yì tiáo fěnsè de jǐnshēn [@kùwà@].
+我有一条粉色的紧身[@裤袜@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>36372</StartMilliseconds>
+    <EndMilliseconds>39133</EndMilliseconds>
+    <Text>Wǒ yǒu yì tiáo fěnsè de jǐnshēn kùwà.
+我有一条粉色的紧身裤袜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>39133</StartMilliseconds>
+    <EndMilliseconds>40481</EndMilliseconds>
+    <Text>Zhè shì yì zhī yuèduì.
+这是一支乐队。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40481</StartMilliseconds>
+    <EndMilliseconds>40817</EndMilliseconds>
+    <Text>[@Zhè@] shì yì zhī yuèduì.
+[@这@]是一支乐队。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>40817</StartMilliseconds>
+    <EndMilliseconds>41008</EndMilliseconds>
+    <Text>Zhè [@shì@] yì zhī yuèduì.
+这[@是@]一支乐队。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>41008</StartMilliseconds>
+    <EndMilliseconds>41231</EndMilliseconds>
+    <Text>Zhè shì [@yì@] zhī yuèduì.
+这是[@一@]支乐队。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>41231</StartMilliseconds>
+    <EndMilliseconds>41700</EndMilliseconds>
+    <Text>Zhè shì yì [@zhī@] yuèduì.
+这是一[@支@]乐队。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>41700</StartMilliseconds>
+    <EndMilliseconds>42583</EndMilliseconds>
+    <Text>Zhè shì yì zhī [@yuèduì@].
+这是一支[@乐队@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>42583</StartMilliseconds>
+    <EndMilliseconds>48357</EndMilliseconds>
+    <Text>Zhè shì yì zhī yuèduì.
+这是一支乐队。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48357</StartMilliseconds>
+    <EndMilliseconds>49646</EndMilliseconds>
+    <Text>Wǒ yǒu yì shuāng bālěiwǔ xié.
+我有一双芭蕾舞鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49646</StartMilliseconds>
+    <EndMilliseconds>50009</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì shuāng bālěiwǔ xié.
+[@我@]有一双芭蕾舞鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>50009</StartMilliseconds>
+    <EndMilliseconds>50196</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì shuāng bālěiwǔ xié.
+我[@有@]一双芭蕾舞鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>50196</StartMilliseconds>
+    <EndMilliseconds>50380</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] shuāng bālěiwǔ xié.
+我有[@一@]双芭蕾舞鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>50380</StartMilliseconds>
+    <EndMilliseconds>50997</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@shuāng@] bālěiwǔ xié.
+我有一[@双@]芭蕾舞鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>50997</StartMilliseconds>
+    <EndMilliseconds>52005</EndMilliseconds>
+    <Text>Wǒ yǒu yì shuāng [@bālěiwǔ@] xié.
+我有一双[@芭蕾舞@]鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>52005</StartMilliseconds>
+    <EndMilliseconds>52571</EndMilliseconds>
+    <Text>Wǒ yǒu yì shuāng bālěiwǔ [@xié@].
+我有一双芭蕾舞[@鞋@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>52571</StartMilliseconds>
+    <EndMilliseconds>56889</EndMilliseconds>
+    <Text>Wǒ yǒu yì shuāng bālěiwǔ xié.
+我有一双芭蕾舞鞋。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>56889</StartMilliseconds>
+    <EndMilliseconds>57998</EndMilliseconds>
+    <Text>Zhè shì jùguāngdēng.
+这是聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>57998</StartMilliseconds>
+    <EndMilliseconds>58307</EndMilliseconds>
+    <Text>[@Zhè@] shì jùguāngdēng.
+[@这@]是聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>58307</StartMilliseconds>
+    <EndMilliseconds>58940</EndMilliseconds>
+    <Text>Zhè [@shì@] jùguāngdēng.
+这[@是@]聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>58940</StartMilliseconds>
+    <EndMilliseconds>60252</EndMilliseconds>
+    <Text>Zhè shì [@jùguāngdēng@].
+这是[@聚光灯@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>60252</StartMilliseconds>
+    <EndMilliseconds>64989</EndMilliseconds>
+    <Text>Zhè shì jùguāngdēng.
+这是聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>64989</StartMilliseconds>
+    <EndMilliseconds>66325</EndMilliseconds>
+    <Text>Zhè shì wǒ de wǔqún.
+这是我的舞裙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66325</StartMilliseconds>
+    <EndMilliseconds>66579</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de wǔqún.
+[@这@]是我的舞裙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66579</StartMilliseconds>
+    <EndMilliseconds>66844</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de wǔqún.
+这[@是@]我的舞裙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66844</StartMilliseconds>
+    <EndMilliseconds>67106</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de wǔqún.
+这是[@我@]的舞裙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>67106</StartMilliseconds>
+    <EndMilliseconds>67747</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] wǔqún.
+这是我[@的@]舞裙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>67747</StartMilliseconds>
+    <EndMilliseconds>68797</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@wǔqún@].
+这是我的[@舞裙@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>68797</StartMilliseconds>
+    <EndMilliseconds>73122</EndMilliseconds>
+    <Text>Zhè shì wǒ de wǔqún.
+这是我的舞裙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73122</StartMilliseconds>
+    <EndMilliseconds>74526</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>74526</StartMilliseconds>
+    <EndMilliseconds>75327</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>75327</StartMilliseconds>
+    <EndMilliseconds>75717</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>75717</StartMilliseconds>
+    <EndMilliseconds>76292</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>76292</StartMilliseconds>
+    <EndMilliseconds>81792</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81792</StartMilliseconds>
+    <EndMilliseconds>82647</EndMilliseconds>
+    <Text>Wǒ shì bālěiwǔ yǎnyuán.
+我是芭蕾舞演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>82647</StartMilliseconds>
+    <EndMilliseconds>82948</EndMilliseconds>
+    <Text>[@Wǒ@] shì bālěiwǔ yǎnyuán.
+[@我@]是芭蕾舞演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>82948</StartMilliseconds>
+    <EndMilliseconds>83397</EndMilliseconds>
+    <Text>Wǒ [@shì@] bālěiwǔ yǎnyuán.
+我[@是@]芭蕾舞演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>83397</StartMilliseconds>
+    <EndMilliseconds>84276</EndMilliseconds>
+    <Text>Wǒ shì [@bālěiwǔ@] yǎnyuán.
+我是[@芭蕾舞@]演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>84276</StartMilliseconds>
+    <EndMilliseconds>85014</EndMilliseconds>
+    <Text>Wǒ shì bālěiwǔ [@yǎnyuán@].
+我是芭蕾舞[@演员@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>85014</StartMilliseconds>
+    <EndMilliseconds>90479</EndMilliseconds>
+    <Text>Wǒ shì bālěiwǔ yǎnyuán.
+我是芭蕾舞演员。</Text>
+  </Paragraph>
+</Subtitle>

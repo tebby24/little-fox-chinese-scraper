@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11757</StartMilliseconds>
+    <EndMilliseconds>12567</EndMilliseconds>
+    <Text>Pítè: Xīngqīyī nǐ zuò shénme?
+皮特: 星期一你做什么?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12568</StartMilliseconds>
+    <EndMilliseconds>14382</EndMilliseconds>
+    <Text>Pítè: [@Xīngqīyī@] nǐ zuò shénme?
+皮特: [@星期一@]你做什么?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14383</StartMilliseconds>
+    <EndMilliseconds>14950</EndMilliseconds>
+    <Text>Pítè: Xīngqīyī [@nǐ@] zuò shénme?
+皮特: 星期一[@你@]做什么?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14951</StartMilliseconds>
+    <EndMilliseconds>15403</EndMilliseconds>
+    <Text>Pítè: Xīngqīyī nǐ [@zuò@] shénme?
+皮特: 星期一你[@做@]什么?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15404</StartMilliseconds>
+    <EndMilliseconds>16322</EndMilliseconds>
+    <Text>Pítè: Xīngqīyī nǐ zuò [@shénme@]?
+皮特: 星期一你做[@什么@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16323</StartMilliseconds>
+    <EndMilliseconds>16987</EndMilliseconds>
+    <Text>Pítè: Xīngqīyī nǐ zuò shénme?
+皮特: 星期一你做什么?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16988</StartMilliseconds>
+    <EndMilliseconds>17454</EndMilliseconds>
+    <Text>Mǐnyǔ: Xīngqīyī wǒ dǎ yǔmáoqiú.
+敏宇: 星期一我打羽毛球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17455</StartMilliseconds>
+    <EndMilliseconds>19319</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Xīngqīyī@] wǒ dǎ yǔmáoqiú.
+敏宇: [@星期一@]我打羽毛球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>19320</StartMilliseconds>
+    <EndMilliseconds>20120</EndMilliseconds>
+    <Text>Mǐnyǔ: Xīngqīyī [@wǒ@] dǎ yǔmáoqiú.
+敏宇: 星期一[@我@]打羽毛球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20121</StartMilliseconds>
+    <EndMilliseconds>20508</EndMilliseconds>
+    <Text>Mǐnyǔ: Xīngqīyī wǒ [@dǎ@] yǔmáoqiú.
+敏宇: 星期一我[@打@]羽毛球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>20509</StartMilliseconds>
+    <EndMilliseconds>22056</EndMilliseconds>
+    <Text>Mǐnyǔ: Xīngqīyī wǒ dǎ [@yǔmáoqiú@].
+敏宇: 星期一我打[@羽毛球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22057</StartMilliseconds>
+    <EndMilliseconds>22747</EndMilliseconds>
+    <Text>Mǐnyǔ: Xīngqīyī wǒ dǎ yǔmáoqiú.
+敏宇: 星期一我打羽毛球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>22748</StartMilliseconds>
+    <EndMilliseconds>23782</EndMilliseconds>
+    <Text>Mǐnyǔ: Shālì, xīngqī'èr nǐ zuò shénme?
+敏宇：莎莉，星期二你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>23783</StartMilliseconds>
+    <EndMilliseconds>25245</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Shālì@], xīngqī'èr nǐ zuò shénme?
+敏宇：[@莎莉@]，星期二你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25246</StartMilliseconds>
+    <EndMilliseconds>26993</EndMilliseconds>
+    <Text>Mǐnyǔ: Shālì, [@xīngqī'èr@] nǐ zuò shénme?
+敏宇：莎莉，[@星期二@]你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>26994</StartMilliseconds>
+    <EndMilliseconds>27514</EndMilliseconds>
+    <Text>Mǐnyǔ: Shālì, xīngqī'èr [@nǐ@] zuò shénme?
+敏宇：莎莉，星期二[@你@]做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>27515</StartMilliseconds>
+    <EndMilliseconds>27910</EndMilliseconds>
+    <Text>Mǐnyǔ: Shālì, xīngqī'èr nǐ [@zuò@] shénme?
+敏宇：莎莉，星期二你[@做@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>27911</StartMilliseconds>
+    <EndMilliseconds>28642</EndMilliseconds>
+    <Text>Mǐnyǔ: Shālì, xīngqī'èr nǐ zuò [@shénme@]?
+敏宇：莎莉，星期二你做[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>28643</StartMilliseconds>
+    <EndMilliseconds>29224</EndMilliseconds>
+    <Text>Mǐnyǔ: Shālì, xīngqī'èr nǐ zuò shénme?
+敏宇：莎莉，星期二你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>29225</StartMilliseconds>
+    <EndMilliseconds>30016</EndMilliseconds>
+    <Text>Shālì: Wǒ hé Xiǎowàng tī zúqiú.
+莎莉：我和小旺踢足球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>30017</StartMilliseconds>
+    <EndMilliseconds>30560</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] hé Xiǎowàng tī zúqiú.
+莎莉：[@我@]和小旺踢足球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>30561</StartMilliseconds>
+    <EndMilliseconds>30968</EndMilliseconds>
+    <Text>Shālì: Wǒ [@hé@] Xiǎowàng tī zúqiú.
+莎莉：我[@和@]小旺踢足球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>30969</StartMilliseconds>
+    <EndMilliseconds>32090</EndMilliseconds>
+    <Text>Shālì: Wǒ hé [@Xiǎowàng@] tī zúqiú.
+莎莉：我和[@小旺@]踢足球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>32091</StartMilliseconds>
+    <EndMilliseconds>32672</EndMilliseconds>
+    <Text>Shālì: Wǒ hé Xiǎowàng [@tī@] zúqiú.
+莎莉：我和小旺[@踢@]足球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32673</StartMilliseconds>
+    <EndMilliseconds>33859</EndMilliseconds>
+    <Text>Shālì: Wǒ hé Xiǎowàng tī [@zúqiú@].
+莎莉：我和小旺踢[@足球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>33860</StartMilliseconds>
+    <EndMilliseconds>34313</EndMilliseconds>
+    <Text>Shālì: Wǒ hé Xiǎowàng tī zúqiú.
+莎莉：我和小旺踢足球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>34314</StartMilliseconds>
+    <EndMilliseconds>34859</EndMilliseconds>
+    <Text>Pítè: Yídìng hěn yǒu yìsi!
+皮特: 一定很有意思！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>34860</StartMilliseconds>
+    <EndMilliseconds>36097</EndMilliseconds>
+    <Text>Pítè: [@Yídìng@] hěn yǒu yìsi!
+皮特: [@一定@]很有意思！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>36098</StartMilliseconds>
+    <EndMilliseconds>36711</EndMilliseconds>
+    <Text>Pítè: Yídìng [@hěn@] yǒu yìsi!
+皮特: 一定[@很@]有意思！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>36712</StartMilliseconds>
+    <EndMilliseconds>37092</EndMilliseconds>
+    <Text>Pítè: Yídìng hěn [@yǒu@] yìsi!
+皮特: 一定很[@有@]意思！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>37093</StartMilliseconds>
+    <EndMilliseconds>38205</EndMilliseconds>
+    <Text>Pítè: Yídìng hěn yǒu [@yìsi@]!
+皮特: 一定很有[@意思@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>38206</StartMilliseconds>
+    <EndMilliseconds>39188</EndMilliseconds>
+    <Text>Pítè: Yídìng hěn yǒu yìsi!
+皮特: 一定很有意思！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>39189</StartMilliseconds>
+    <EndMilliseconds>39978</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, xīngqīwǔ nǐ zuò shénme?
+敏宇：皮特，星期五你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>39979</StartMilliseconds>
+    <EndMilliseconds>41465</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Pítè@], xīngqīwǔ nǐ zuò shénme?
+敏宇：[@皮特@]，星期五你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>41466</StartMilliseconds>
+    <EndMilliseconds>43443</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, [@xīngqīwǔ@] nǐ zuò shénme?
+敏宇：皮特，[@星期五@]你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>43444</StartMilliseconds>
+    <EndMilliseconds>43989</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, xīngqīwǔ [@nǐ@] zuò shénme?
+敏宇：皮特，星期五[@你@]做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>43990</StartMilliseconds>
+    <EndMilliseconds>44408</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, xīngqīwǔ nǐ [@zuò@] shénme?
+敏宇：皮特，星期五你[@做@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>44409</StartMilliseconds>
+    <EndMilliseconds>45149</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, xīngqīwǔ nǐ zuò [@shénme@]?
+敏宇：皮特，星期五你做[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>45150</StartMilliseconds>
+    <EndMilliseconds>45803</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, xīngqīwǔ nǐ zuò shénme?
+敏宇：皮特，星期五你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>45804</StartMilliseconds>
+    <EndMilliseconds>46368</EndMilliseconds>
+    <Text>Pítè: Xīngqīwǔ wǒ dǎ pīngpāngqiú.
+皮特：星期五我打乒乓球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>46369</StartMilliseconds>
+    <EndMilliseconds>48231</EndMilliseconds>
+    <Text>Pítè: [@Xīngqīwǔ@] wǒ dǎ pīngpāngqiú.
+皮特：[@星期五@]我打乒乓球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>48232</StartMilliseconds>
+    <EndMilliseconds>48735</EndMilliseconds>
+    <Text>Pítè: Xīngqīwǔ [@wǒ@] dǎ pīngpāngqiú.
+皮特：星期五[@我@]打乒乓球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>48736</StartMilliseconds>
+    <EndMilliseconds>49429</EndMilliseconds>
+    <Text>Pítè: Xīngqīwǔ wǒ [@dǎ@] pīngpāngqiú.
+皮特：星期五我[@打@]乒乓球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>49430</StartMilliseconds>
+    <EndMilliseconds>51413</EndMilliseconds>
+    <Text>Pítè: Xīngqīwǔ wǒ dǎ [@pīngpāngqiú@].
+皮特：星期五我打[@乒乓球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>51414</StartMilliseconds>
+    <EndMilliseconds>52603</EndMilliseconds>
+    <Text>Pítè: Xīngqīwǔ wǒ dǎ pīngpāngqiú.
+皮特：星期五我打乒乓球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>52604</StartMilliseconds>
+    <EndMilliseconds>53588</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, xīngqītiān nǐ zuò shénme?
+莎莉：敏宇，星期天你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>53589</StartMilliseconds>
+    <EndMilliseconds>55248</EndMilliseconds>
+    <Text>Shālì: [@Mǐnyǔ@], xīngqītiān nǐ zuò shénme?
+莎莉：[@敏宇@]，星期天你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>55249</StartMilliseconds>
+    <EndMilliseconds>56826</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, [@xīngqītiān@] nǐ zuò shénme?
+莎莉：敏宇，[@星期天@]你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>56827</StartMilliseconds>
+    <EndMilliseconds>57321</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, xīngqītiān [@nǐ@] zuò shénme?
+莎莉：敏宇，星期天[@你@]做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>57322</StartMilliseconds>
+    <EndMilliseconds>57727</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, xīngqītiān nǐ [@zuò@] shénme?
+莎莉：敏宇，星期天你[@做@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>57728</StartMilliseconds>
+    <EndMilliseconds>58494</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, xīngqītiān nǐ zuò [@shénme@]?
+莎莉：敏宇，星期天你做[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>58495</StartMilliseconds>
+    <EndMilliseconds>58948</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, xīngqītiān nǐ zuò shénme?
+莎莉：敏宇，星期天你做什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>58949</StartMilliseconds>
+    <EndMilliseconds>59456</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ dǎ bàngqiú.
+敏宇: 我打棒球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>59457</StartMilliseconds>
+    <EndMilliseconds>59972</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Wǒ@] dǎ bàngqiú.
+敏宇: [@我@]打棒球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>59973</StartMilliseconds>
+    <EndMilliseconds>60596</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ [@dǎ@] bàngqiú.
+敏宇: 我[@打@]棒球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>60597</StartMilliseconds>
+    <EndMilliseconds>61812</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ dǎ [@bàngqiú@].
+敏宇: 我打[@棒球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>61813</StartMilliseconds>
+    <EndMilliseconds>64937</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ dǎ bàngqiú.
+敏宇: 我打棒球。</Text>
+  </Paragraph>
+</Subtitle>

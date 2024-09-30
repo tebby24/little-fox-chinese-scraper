@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11942</StartMilliseconds>
+    <EndMilliseconds>13993</EndMilliseconds>
+    <Text>Zhè shì wǒ de zhuōzi.
+这是我的桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13994</StartMilliseconds>
+    <EndMilliseconds>14259</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de zhuōzi.
+[@这@]是我的桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14260</StartMilliseconds>
+    <EndMilliseconds>14417</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de zhuōzi.
+这[@是@]我的桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14418</StartMilliseconds>
+    <EndMilliseconds>14664</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de zhuōzi.
+这是[@我@]的桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14665</StartMilliseconds>
+    <EndMilliseconds>14845</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] zhuōzi.
+这是我[@的@]桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14846</StartMilliseconds>
+    <EndMilliseconds>15433</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@zhuōzi@].
+这是我的[@桌子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15434</StartMilliseconds>
+    <EndMilliseconds>20463</EndMilliseconds>
+    <Text>Zhè shì wǒ de zhuōzi.
+这是我的桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>20464</StartMilliseconds>
+    <EndMilliseconds>22384</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē qiānbǐ.
+我有一些铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22385</StartMilliseconds>
+    <EndMilliseconds>22662</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē qiānbǐ.
+[@我@]有一些铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22663</StartMilliseconds>
+    <EndMilliseconds>22845</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē qiānbǐ.
+我[@有@]一些铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22846</StartMilliseconds>
+    <EndMilliseconds>23193</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] qiānbǐ.
+我有[@一些@]铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23194</StartMilliseconds>
+    <EndMilliseconds>24075</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@qiānbǐ@].
+我有一些[@铅笔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24076</StartMilliseconds>
+    <EndMilliseconds>28844</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē qiānbǐ.
+我有一些铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>28845</StartMilliseconds>
+    <EndMilliseconds>30663</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de shū.
+这些是我的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>30664</StartMilliseconds>
+    <EndMilliseconds>31426</EndMilliseconds>
+    <Text>[@Zhèxiē@] shì wǒ de shū.
+[@这些@]是我的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>31427</StartMilliseconds>
+    <EndMilliseconds>31727</EndMilliseconds>
+    <Text>Zhèxiē [@shì@] wǒ de shū.
+这些[@是@]我的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31728</StartMilliseconds>
+    <EndMilliseconds>31988</EndMilliseconds>
+    <Text>Zhèxiē shì [@wǒ@] de shū.
+这些是[@我@]的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31989</StartMilliseconds>
+    <EndMilliseconds>32115</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ [@de@] shū.
+这些是我[@的@]书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32116</StartMilliseconds>
+    <EndMilliseconds>32494</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de [@shū@].
+这些是我的[@书@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32495</StartMilliseconds>
+    <EndMilliseconds>37032</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de shū.
+这些是我的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>37033</StartMilliseconds>
+    <EndMilliseconds>39017</EndMilliseconds>
+    <Text>Wǒ yǒu yí kuài báibǎn.
+我有一块白板。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>39018</StartMilliseconds>
+    <EndMilliseconds>39262</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí kuài báibǎn.
+[@我@]有一块白板。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39263</StartMilliseconds>
+    <EndMilliseconds>39471</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí kuài báibǎn.
+我[@有@]一块白板。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>39472</StartMilliseconds>
+    <EndMilliseconds>39628</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] kuài báibǎn.
+我有[@一@]块白板。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>39629</StartMilliseconds>
+    <EndMilliseconds>39854</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@kuài@] báibǎn.
+我有一[@块@]白板。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>39855</StartMilliseconds>
+    <EndMilliseconds>40646</EndMilliseconds>
+    <Text>Wǒ yǒu yí kuài [@báibǎn@].
+我有一块[@白板@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40647</StartMilliseconds>
+    <EndMilliseconds>45442</EndMilliseconds>
+    <Text>Wǒ yǒu yí kuài báibǎn.
+我有一块白板。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>45443</StartMilliseconds>
+    <EndMilliseconds>47331</EndMilliseconds>
+    <Text>Zhè shì wǒ de jiàoshì.
+这是我的教室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>47332</StartMilliseconds>
+    <EndMilliseconds>47657</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de jiàoshì.
+[@这@]是我的教室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>47658</StartMilliseconds>
+    <EndMilliseconds>47806</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de jiàoshì.
+这[@是@]我的教室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>47807</StartMilliseconds>
+    <EndMilliseconds>48027</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de jiàoshì.
+这是[@我@]的教室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>48028</StartMilliseconds>
+    <EndMilliseconds>48171</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] jiàoshì.
+这是我[@的@]教室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48172</StartMilliseconds>
+    <EndMilliseconds>48816</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@jiàoshì@].
+这是我的[@教室@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>48817</StartMilliseconds>
+    <EndMilliseconds>53770</EndMilliseconds>
+    <Text>Zhè shì wǒ de jiàoshì.
+这是我的教室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>53771</StartMilliseconds>
+    <EndMilliseconds>55669</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge píngbǎn diànnǎo.
+我有一个平板电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55670</StartMilliseconds>
+    <EndMilliseconds>55931</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge píngbǎn diànnǎo.
+[@我@]有一个平板电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>55932</StartMilliseconds>
+    <EndMilliseconds>56141</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge píngbǎn diànnǎo.
+我[@有@]一个平板电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>56142</StartMilliseconds>
+    <EndMilliseconds>56318</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge píngbǎn diànnǎo.
+我有[@一@]个平板电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>56319</StartMilliseconds>
+    <EndMilliseconds>56537</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] píngbǎn diànnǎo.
+我有一[@个@]平板电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56538</StartMilliseconds>
+    <EndMilliseconds>57253</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@píngbǎn@] diànnǎo.
+我有一个[@平板@]电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57254</StartMilliseconds>
+    <EndMilliseconds>57875</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge píngbǎn [@diànnǎo@].
+我有一个平板[@电脑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>57876</StartMilliseconds>
+    <EndMilliseconds>62127</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge píngbǎn diànnǎo.
+我有一个平板电脑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>62128</StartMilliseconds>
+    <EndMilliseconds>63940</EndMilliseconds>
+    <Text>Tāmen shì wǒ de xuésheng.
+他们是我的学生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63941</StartMilliseconds>
+    <EndMilliseconds>64721</EndMilliseconds>
+    <Text>[@Tāmen@] shì wǒ de xuésheng.
+[@他们@]是我的学生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64722</StartMilliseconds>
+    <EndMilliseconds>65045</EndMilliseconds>
+    <Text>Tāmen [@shì@] wǒ de xuésheng.
+他们[@是@]我的学生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65046</StartMilliseconds>
+    <EndMilliseconds>65248</EndMilliseconds>
+    <Text>Tāmen shì [@wǒ@] de xuésheng.
+他们是[@我@]的学生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65249</StartMilliseconds>
+    <EndMilliseconds>65417</EndMilliseconds>
+    <Text>Tāmen shì wǒ [@de@] xuésheng.
+他们是我[@的@]学生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>65418</StartMilliseconds>
+    <EndMilliseconds>66102</EndMilliseconds>
+    <Text>Tāmen shì wǒ de [@xuésheng@].
+他们是我的[@学生@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66103</StartMilliseconds>
+    <EndMilliseconds>70395</EndMilliseconds>
+    <Text>Tāmen shì wǒ de xuésheng.
+他们是我的学生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>70396</StartMilliseconds>
+    <EndMilliseconds>72098</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>72099</StartMilliseconds>
+    <EndMilliseconds>72591</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>72592</StartMilliseconds>
+    <EndMilliseconds>72851</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>72852</StartMilliseconds>
+    <EndMilliseconds>73308</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>73309</StartMilliseconds>
+    <EndMilliseconds>78519</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>78520</StartMilliseconds>
+    <EndMilliseconds>79897</EndMilliseconds>
+    <Text>Wǒ shì lǎoshī.
+我是老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79898</StartMilliseconds>
+    <EndMilliseconds>80176</EndMilliseconds>
+    <Text>[@Wǒ@] shì lǎoshī.
+[@我@]是老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>80177</StartMilliseconds>
+    <EndMilliseconds>80788</EndMilliseconds>
+    <Text>Wǒ [@shì@] lǎoshī.
+我[@是@]老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>80789</StartMilliseconds>
+    <EndMilliseconds>81784</EndMilliseconds>
+    <Text>Wǒ shì [@lǎoshī@].
+我是[@老师@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>81785</StartMilliseconds>
+    <EndMilliseconds>85514</EndMilliseconds>
+    <Text>Wǒ shì lǎoshī.
+我是老师。</Text>
+  </Paragraph>
+</Subtitle>

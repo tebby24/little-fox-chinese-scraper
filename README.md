@@ -1,4 +1,4 @@
 # Little Fox Chinese Scraper
-A Python program that scrapes the subtitles from chinese.littlefox.com and converts the subtites to SRT format.
+'utils.py' contains a few python classes that can be used to scrape all the content from the site. That being said, you shouldn't need to scrape anything else because all relevant urls have been written to 'data/urls.json'.
 
-The XML subtitles for the stories from levels 1 and 2 are formatted differently than the rest of the content. After trying and failing to normalize them to proper SRT for a couple of hours I decided to give up... So, the collection that I scraped only contains subtitles for levels 3 and on.  
+I have provided the output of 'download_and_convert_subtitles.py' in '/subtitles'

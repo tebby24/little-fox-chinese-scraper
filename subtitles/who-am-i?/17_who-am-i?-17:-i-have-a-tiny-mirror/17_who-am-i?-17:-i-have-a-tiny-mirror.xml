@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12262</StartMilliseconds>
+    <EndMilliseconds>14280</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge xiǎo jìngzi.
+我有一个小镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14281</StartMilliseconds>
+    <EndMilliseconds>14617</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge xiǎo jìngzi.
+[@我@]有一个小镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14618</StartMilliseconds>
+    <EndMilliseconds>14764</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge xiǎo jìngzi.
+我[@有@]一个小镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14765</StartMilliseconds>
+    <EndMilliseconds>14923</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge xiǎo jìngzi.
+我有[@一@]个小镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14924</StartMilliseconds>
+    <EndMilliseconds>15208</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] xiǎo jìngzi.
+我有一[@个@]小镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15209</StartMilliseconds>
+    <EndMilliseconds>15639</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@xiǎo@] jìngzi.
+我有一个[@小@]镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15640</StartMilliseconds>
+    <EndMilliseconds>16239</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge xiǎo [@jìngzi@].
+我有一个小[@镜子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16240</StartMilliseconds>
+    <EndMilliseconds>21317</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge xiǎo jìngzi.
+我有一个小镜子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21318</StartMilliseconds>
+    <EndMilliseconds>23316</EndMilliseconds>
+    <Text>Zhè shì wǒ de yáshuā.
+这是我的牙刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23317</StartMilliseconds>
+    <EndMilliseconds>23660</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de yáshuā.
+[@这@]是我的牙刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>23661</StartMilliseconds>
+    <EndMilliseconds>23892</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de yáshuā.
+这[@是@]我的牙刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23893</StartMilliseconds>
+    <EndMilliseconds>24149</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de yáshuā.
+这是[@我@]的牙刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24150</StartMilliseconds>
+    <EndMilliseconds>24327</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] yáshuā.
+这是我[@的@]牙刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24328</StartMilliseconds>
+    <EndMilliseconds>24987</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@yáshuā@].
+这是我的[@牙刷@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>24988</StartMilliseconds>
+    <EndMilliseconds>29716</EndMilliseconds>
+    <Text>Zhè shì wǒ de yáshuā.
+这是我的牙刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29717</StartMilliseconds>
+    <EndMilliseconds>31587</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē yáxiàn.
+我有一些牙线。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31588</StartMilliseconds>
+    <EndMilliseconds>31910</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē yáxiàn.
+[@我@]有一些牙线。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31911</StartMilliseconds>
+    <EndMilliseconds>32059</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē yáxiàn.
+我[@有@]一些牙线。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32060</StartMilliseconds>
+    <EndMilliseconds>32622</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] yáxiàn.
+我有[@一些@]牙线。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32623</StartMilliseconds>
+    <EndMilliseconds>33449</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@yáxiàn@].
+我有一些[@牙线@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33450</StartMilliseconds>
+    <EndMilliseconds>38068</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē yáxiàn.
+我有一些牙线。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>38069</StartMilliseconds>
+    <EndMilliseconds>39908</EndMilliseconds>
+    <Text>Zhè shì wǒ de dà yǐzi.
+这是我的大椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39909</StartMilliseconds>
+    <EndMilliseconds>40180</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de dà yǐzi.
+[@这@]是我的大椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40181</StartMilliseconds>
+    <EndMilliseconds>40338</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de dà yǐzi.
+这[@是@]我的大椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>40339</StartMilliseconds>
+    <EndMilliseconds>40652</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de dà yǐzi.
+这是[@我@]的大椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>40653</StartMilliseconds>
+    <EndMilliseconds>40965</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] dà yǐzi.
+这是我[@的@]大椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40966</StartMilliseconds>
+    <EndMilliseconds>41313</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@dà@] yǐzi.
+这是我的[@大@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41314</StartMilliseconds>
+    <EndMilliseconds>41935</EndMilliseconds>
+    <Text>Zhè shì wǒ de dà [@yǐzi@].
+这是我的大[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>41936</StartMilliseconds>
+    <EndMilliseconds>46300</EndMilliseconds>
+    <Text>Zhè shì wǒ de dà yǐzi.
+这是我的大椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>46301</StartMilliseconds>
+    <EndMilliseconds>48255</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē bìngrén.
+我有一些病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>48256</StartMilliseconds>
+    <EndMilliseconds>48568</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē bìngrén.
+[@我@]有一些病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>48569</StartMilliseconds>
+    <EndMilliseconds>48795</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē bìngrén.
+我[@有@]一些病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48796</StartMilliseconds>
+    <EndMilliseconds>49481</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] bìngrén.
+我有[@一些@]病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49482</StartMilliseconds>
+    <EndMilliseconds>50359</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@bìngrén@].
+我有一些[@病人@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>50360</StartMilliseconds>
+    <EndMilliseconds>54675</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē bìngrén.
+我有一些病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>54676</StartMilliseconds>
+    <EndMilliseconds>56565</EndMilliseconds>
+    <Text>Zhè shì wǒ de hòuzhěnshì.
+这是我的候诊室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>56566</StartMilliseconds>
+    <EndMilliseconds>56813</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de hòuzhěnshì.
+[@这@]是我的候诊室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>56814</StartMilliseconds>
+    <EndMilliseconds>56984</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de hòuzhěnshì.
+这[@是@]我的候诊室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>56985</StartMilliseconds>
+    <EndMilliseconds>57209</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de hòuzhěnshì.
+这是[@我@]的候诊室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>57210</StartMilliseconds>
+    <EndMilliseconds>57641</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] hòuzhěnshì.
+这是我[@的@]候诊室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57642</StartMilliseconds>
+    <EndMilliseconds>58765</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@hòuzhěnshì@].
+这是我的[@候诊室@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>58766</StartMilliseconds>
+    <EndMilliseconds>62981</EndMilliseconds>
+    <Text>Zhè shì wǒ de hòuzhěnshì.
+这是我的候诊室。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>62982</StartMilliseconds>
+    <EndMilliseconds>64914</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge kǒuzhào.
+我有一个口罩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64915</StartMilliseconds>
+    <EndMilliseconds>65218</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge kǒuzhào.
+[@我@]有一个口罩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65219</StartMilliseconds>
+    <EndMilliseconds>65366</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge kǒuzhào.
+我[@有@]一个口罩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65367</StartMilliseconds>
+    <EndMilliseconds>65519</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge kǒuzhào.
+我有[@一@]个口罩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65520</StartMilliseconds>
+    <EndMilliseconds>65700</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] kǒuzhào.
+我有一[@个@]口罩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>65701</StartMilliseconds>
+    <EndMilliseconds>66448</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@kǒuzhào@].
+我有一个[@口罩@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66449</StartMilliseconds>
+    <EndMilliseconds>71201</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge kǒuzhào.
+我有一个口罩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>71202</StartMilliseconds>
+    <EndMilliseconds>73293</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>73294</StartMilliseconds>
+    <EndMilliseconds>73715</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>73716</StartMilliseconds>
+    <EndMilliseconds>73896</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73897</StartMilliseconds>
+    <EndMilliseconds>74432</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>74433</StartMilliseconds>
+    <EndMilliseconds>79668</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>79669</StartMilliseconds>
+    <EndMilliseconds>81035</EndMilliseconds>
+    <Text>Wǒ shì yáyī.
+我是牙医。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>81036</StartMilliseconds>
+    <EndMilliseconds>81371</EndMilliseconds>
+    <Text>[@Wǒ@] shì yáyī.
+[@我@]是牙医。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>81372</StartMilliseconds>
+    <EndMilliseconds>81984</EndMilliseconds>
+    <Text>Wǒ [@shì@] yáyī.
+我[@是@]牙医。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81985</StartMilliseconds>
+    <EndMilliseconds>82854</EndMilliseconds>
+    <Text>Wǒ shì [@yáyī@].
+我是[@牙医@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>82855</StartMilliseconds>
+    <EndMilliseconds>86767</EndMilliseconds>
+    <Text>Wǒ shì yáyī.
+我是牙医。</Text>
+  </Paragraph>
+</Subtitle>

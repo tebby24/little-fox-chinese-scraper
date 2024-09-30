@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13194</StartMilliseconds>
+    <EndMilliseconds>23381</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu ge dōngxi.
+猫头鹰：我有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>23382</StartMilliseconds>
+    <EndMilliseconds>24102</EndMilliseconds>
+    <Text>māotóuyīng: [@Wǒ@] yǒu ge dōngxi.
+猫头鹰：[@我@]有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>24103</StartMilliseconds>
+    <EndMilliseconds>24554</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ [@yǒu@] ge dōngxi.
+猫头鹰：我[@有@]个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>24555</StartMilliseconds>
+    <EndMilliseconds>24908</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu [@ge@] dōngxi.
+猫头鹰：我有[@个@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>24909</StartMilliseconds>
+    <EndMilliseconds>26048</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu ge [@dōngxi@].
+猫头鹰：我有个[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>26049</StartMilliseconds>
+    <EndMilliseconds>35102</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu ge dōngxi.
+猫头鹰：我有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>35103</StartMilliseconds>
+    <EndMilliseconds>35707</EndMilliseconds>
+    <Text>qīngwā: Nǐ yǒu shénme dōngxi?
+青蛙：你有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>35708</StartMilliseconds>
+    <EndMilliseconds>36309</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] yǒu shénme dōngxi?
+青蛙：[@你@]有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>36310</StartMilliseconds>
+    <EndMilliseconds>36770</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@yǒu@] shénme dōngxi?
+青蛙：你[@有@]什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>36771</StartMilliseconds>
+    <EndMilliseconds>37433</EndMilliseconds>
+    <Text>qīngwā: Nǐ yǒu [@shénme@] dōngxi?
+青蛙：你有[@什么@]东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>37434</StartMilliseconds>
+    <EndMilliseconds>38488</EndMilliseconds>
+    <Text>qīngwā: Nǐ yǒu shénme [@dōngxi@]?
+青蛙：你有什么[@东西@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>38489</StartMilliseconds>
+    <EndMilliseconds>40149</EndMilliseconds>
+    <Text>qīngwā: Nǐ yǒu shénme dōngxi?
+青蛙：你有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>40150</StartMilliseconds>
+    <EndMilliseconds>41192</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu yí piàn shùyè.
+猫头鹰：我有一片树叶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>41193</StartMilliseconds>
+    <EndMilliseconds>41846</EndMilliseconds>
+    <Text>māotóuyīng: [@Wǒ@] yǒu yí piàn shùyè.
+猫头鹰：[@我@]有一片树叶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>41847</StartMilliseconds>
+    <EndMilliseconds>42493</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ [@yǒu@] yí piàn shùyè.
+猫头鹰：我[@有@]一片树叶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>42494</StartMilliseconds>
+    <EndMilliseconds>42783</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu [@yí@] piàn shùyè.
+猫头鹰：我有[@一@]片树叶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>42784</StartMilliseconds>
+    <EndMilliseconds>43281</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu yí [@piàn@] shùyè.
+猫头鹰：我有一[@片@]树叶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>43282</StartMilliseconds>
+    <EndMilliseconds>44662</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu yí piàn [@shùyè@].
+猫头鹰：我有一片[@树叶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>44663</StartMilliseconds>
+    <EndMilliseconds>50748</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ yǒu yí piàn shùyè.
+猫头鹰：我有一片树叶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>50749</StartMilliseconds>
+    <EndMilliseconds>51450</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě yǒu ge dōngxi.
+青蛙：我也有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>51451</StartMilliseconds>
+    <EndMilliseconds>52128</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] yě yǒu ge dōngxi.
+青蛙：[@我@]也有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>52129</StartMilliseconds>
+    <EndMilliseconds>52590</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@yě@] yǒu ge dōngxi.
+青蛙：我[@也@]有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>52591</StartMilliseconds>
+    <EndMilliseconds>52825</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě [@yǒu@] ge dōngxi.
+青蛙：我也[@有@]个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>52826</StartMilliseconds>
+    <EndMilliseconds>53152</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě yǒu [@ge@] dōngxi.
+青蛙：我也有[@个@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>53153</StartMilliseconds>
+    <EndMilliseconds>54110</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě yǒu ge [@dōngxi@].
+青蛙：我也有个[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>54111</StartMilliseconds>
+    <EndMilliseconds>56756</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě yǒu ge dōngxi.
+青蛙：我也有个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>56757</StartMilliseconds>
+    <EndMilliseconds>58106</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ yǒu shénme dōngxi?
+猫头鹰：你有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>58107</StartMilliseconds>
+    <EndMilliseconds>58487</EndMilliseconds>
+    <Text>māotóuyīng: [@Nǐ@] yǒu shénme dōngxi?
+猫头鹰：[@你@]有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>58488</StartMilliseconds>
+    <EndMilliseconds>58973</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ [@yǒu@] shénme dōngxi?
+猫头鹰：你[@有@]什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>58974</StartMilliseconds>
+    <EndMilliseconds>59702</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ yǒu [@shénme@] dōngxi?
+猫头鹰：你有[@什么@]东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>59703</StartMilliseconds>
+    <EndMilliseconds>60629</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ yǒu shénme [@dōngxi@]?
+猫头鹰：你有什么[@东西@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>60630</StartMilliseconds>
+    <EndMilliseconds>63684</EndMilliseconds>
+    <Text>māotóuyīng: Nǐ yǒu shénme dōngxi?
+猫头鹰：你有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>63685</StartMilliseconds>
+    <EndMilliseconds>64311</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yì duǒ huā.
+青蛙：我有一朵花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>64312</StartMilliseconds>
+    <EndMilliseconds>64799</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] yǒu yì duǒ huā.
+青蛙：[@我@]有一朵花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>64800</StartMilliseconds>
+    <EndMilliseconds>65570</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@yǒu@] yì duǒ huā.
+青蛙：我[@有@]一朵花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>65571</StartMilliseconds>
+    <EndMilliseconds>65966</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu [@yì@] duǒ huā.
+青蛙：我有[@一@]朵花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>65967</StartMilliseconds>
+    <EndMilliseconds>66509</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yì [@duǒ@] huā.
+青蛙：我有一[@朵@]花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>66510</StartMilliseconds>
+    <EndMilliseconds>67358</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yì duǒ [@huā@].
+青蛙：我有一朵[@花@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>67359</StartMilliseconds>
+    <EndMilliseconds>73652</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yì duǒ huā.
+青蛙：我有一朵花。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>73653</StartMilliseconds>
+    <EndMilliseconds>75065</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng ge dōngxi.
+兔子：我有两个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>75066</StartMilliseconds>
+    <EndMilliseconds>75668</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yǒu liǎng ge dōngxi.
+兔子：[@我@]有两个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>75669</StartMilliseconds>
+    <EndMilliseconds>76350</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yǒu@] liǎng ge dōngxi.
+兔子：我[@有@]两个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>76351</StartMilliseconds>
+    <EndMilliseconds>76905</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu [@liǎng@] ge dōngxi.
+兔子：我有[@两@]个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>76906</StartMilliseconds>
+    <EndMilliseconds>77256</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng [@ge@] dōngxi.
+兔子：我有两[@个@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>77257</StartMilliseconds>
+    <EndMilliseconds>78295</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng ge [@dōngxi@].
+兔子：我有两个[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>78296</StartMilliseconds>
+    <EndMilliseconds>80379</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng ge dōngxi.
+兔子：我有两个东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>80380</StartMilliseconds>
+    <EndMilliseconds>80641</EndMilliseconds>
+    <Text>māotóuyīng hé qīngwā: Nǐ yǒu shénme dōngxi?
+猫头鹰和青蛙：你有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>80642</StartMilliseconds>
+    <EndMilliseconds>81122</EndMilliseconds>
+    <Text>māotóuyīng hé qīngwā: [@Nǐ@] yǒu shénme dōngxi?
+猫头鹰和青蛙：[@你@]有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>81123</StartMilliseconds>
+    <EndMilliseconds>81964</EndMilliseconds>
+    <Text>māotóuyīng hé qīngwā: Nǐ [@yǒu@] shénme dōngxi?
+猫头鹰和青蛙：你[@有@]什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>81965</StartMilliseconds>
+    <EndMilliseconds>82730</EndMilliseconds>
+    <Text>māotóuyīng hé qīngwā: Nǐ yǒu [@shénme@] dōngxi?
+猫头鹰和青蛙：你有[@什么@]东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>82731</StartMilliseconds>
+    <EndMilliseconds>83918</EndMilliseconds>
+    <Text>māotóuyīng hé qīngwā: Nǐ yǒu shénme [@dōngxi@]?
+猫头鹰和青蛙：你有什么[@东西@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>83919</StartMilliseconds>
+    <EndMilliseconds>84390</EndMilliseconds>
+    <Text>māotóuyīng hé qīngwā: Nǐ yǒu shénme dōngxi?
+猫头鹰和青蛙：你有什么东西？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>84391</StartMilliseconds>
+    <EndMilliseconds>84684</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng gēn gùnzi.
+兔子：我有两根棍子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>84685</StartMilliseconds>
+    <EndMilliseconds>85223</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yǒu liǎng gēn gùnzi.
+兔子：[@我@]有两根棍子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>85224</StartMilliseconds>
+    <EndMilliseconds>85957</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yǒu@] liǎng gēn gùnzi.
+兔子：我[@有@]两根棍子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>85958</StartMilliseconds>
+    <EndMilliseconds>86519</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu [@liǎng@] gēn gùnzi.
+兔子：我有[@两@]根棍子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>86520</StartMilliseconds>
+    <EndMilliseconds>87011</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng [@gēn@] gùnzi.
+兔子：我有两[@根@]棍子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>87012</StartMilliseconds>
+    <EndMilliseconds>87931</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng gēn [@gùnzi@].
+兔子：我有两根[@棍子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>87932</StartMilliseconds>
+    <EndMilliseconds>92619</EndMilliseconds>
+    <Text>tùzi: Wǒ yǒu liǎng gēn gùnzi.
+兔子：我有两根棍子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>92620</StartMilliseconds>
+    <EndMilliseconds>98673</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yí ge zhǔyi!
+青蛙：我有一个主意！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>98674</StartMilliseconds>
+    <EndMilliseconds>99172</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] yǒu yí ge zhǔyi!
+青蛙：[@我@]有一个主意！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>99173</StartMilliseconds>
+    <EndMilliseconds>99735</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@yǒu@] yí ge zhǔyi!
+青蛙：我[@有@]一个主意！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>99736</StartMilliseconds>
+    <EndMilliseconds>99934</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu [@yí@] ge zhǔyi!
+青蛙：我有[@一@]个主意！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>99935</StartMilliseconds>
+    <EndMilliseconds>100175</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yí [@ge@] zhǔyi!
+青蛙：我有一[@个@]主意！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>100176</StartMilliseconds>
+    <EndMilliseconds>101210</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yí ge [@zhǔyi@]!
+青蛙：我有一个[@主意@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>101211</StartMilliseconds>
+    <EndMilliseconds>101548</EndMilliseconds>
+    <Text>qīngwā: Wǒ yǒu yí ge zhǔyi!
+青蛙：我有一个主意！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>101549</StartMilliseconds>
+    <EndMilliseconds>101818</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu yǒu kěyǐ piāofú de dōngxi.
+青蛙：我们都有可以漂浮的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>101819</StartMilliseconds>
+    <EndMilliseconds>102970</EndMilliseconds>
+    <Text>qīngwā: [@Wǒmen@] dōu yǒu kěyǐ piāofú de dōngxi.
+青蛙：[@我们@]都有可以漂浮的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>102971</StartMilliseconds>
+    <EndMilliseconds>103456</EndMilliseconds>
+    <Text>qīngwā: Wǒmen [@dōu@] yǒu kěyǐ piāofú de dōngxi.
+青蛙：我们[@都@]有可以漂浮的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>103457</StartMilliseconds>
+    <EndMilliseconds>103925</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu [@yǒu@] kěyǐ piāofú de dōngxi.
+青蛙：我们都[@有@]可以漂浮的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>103926</StartMilliseconds>
+    <EndMilliseconds>104501</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu yǒu [@kěyǐ@] piāofú de dōngxi.
+青蛙：我们都有[@可以@]漂浮的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>104502</StartMilliseconds>
+    <EndMilliseconds>105345</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu yǒu kěyǐ [@piāofú@] de dōngxi.
+青蛙：我们都有可以[@漂浮@]的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>105346</StartMilliseconds>
+    <EndMilliseconds>105649</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu yǒu kěyǐ piāofú [@de@] dōngxi.
+青蛙：我们都有可以漂浮[@的@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>105650</StartMilliseconds>
+    <EndMilliseconds>106565</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu yǒu kěyǐ piāofú de [@dōngxi@].
+青蛙：我们都有可以漂浮的[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>106566</StartMilliseconds>
+    <EndMilliseconds>113642</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu yǒu kěyǐ piāofú de dōngxi.
+青蛙：我们都有可以漂浮的东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>113643</StartMilliseconds>
+    <EndMilliseconds>115656</EndMilliseconds>
+    <Text>qīngwā: Zhèli yǒu tiáo xiǎoxī.
+青蛙：这里有条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>115657</StartMilliseconds>
+    <EndMilliseconds>116572</EndMilliseconds>
+    <Text>qīngwā: [@Zhèli@] yǒu tiáo xiǎoxī.
+青蛙：[@这里@]有条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>116573</StartMilliseconds>
+    <EndMilliseconds>117059</EndMilliseconds>
+    <Text>qīngwā: Zhèli [@yǒu@] tiáo xiǎoxī.
+青蛙：这里[@有@]条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>117060</StartMilliseconds>
+    <EndMilliseconds>117379</EndMilliseconds>
+    <Text>qīngwā: Zhèli yǒu [@tiáo@] xiǎoxī.
+青蛙：这里有[@条@]小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>117380</StartMilliseconds>
+    <EndMilliseconds>118669</EndMilliseconds>
+    <Text>qīngwā: Zhèli yǒu tiáo [@xiǎoxī@].
+青蛙：这里有条[@小溪@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>118670</StartMilliseconds>
+    <EndMilliseconds>119525</EndMilliseconds>
+    <Text>qīngwā: Zhèli yǒu tiáo xiǎoxī.
+青蛙：这里有条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>119526</StartMilliseconds>
+    <EndMilliseconds>120507</EndMilliseconds>
+    <Text>qīngwā: Wǒmen lái bǐsài ba!
+青蛙：我们来比赛吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>120508</StartMilliseconds>
+    <EndMilliseconds>121463</EndMilliseconds>
+    <Text>qīngwā: [@Wǒmen@] lái bǐsài ba!
+青蛙：[@我们@]来比赛吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>121464</StartMilliseconds>
+    <EndMilliseconds>121988</EndMilliseconds>
+    <Text>qīngwā: Wǒmen [@lái@] bǐsài ba!
+青蛙：我们[@来@]比赛吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>121989</StartMilliseconds>
+    <EndMilliseconds>122645</EndMilliseconds>
+    <Text>qīngwā: Wǒmen lái [@bǐsài@] ba!
+青蛙：我们来[@比赛@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>122646</StartMilliseconds>
+    <EndMilliseconds>123365</EndMilliseconds>
+    <Text>qīngwā: Wǒmen lái bǐsài [@ba@]!
+青蛙：我们来比赛[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>123366</StartMilliseconds>
+    <EndMilliseconds>131123</EndMilliseconds>
+    <Text>qīngwā: Wǒmen lái bǐsài ba!
+青蛙：我们来比赛吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>131124</StartMilliseconds>
+    <EndMilliseconds>140913</EndMilliseconds>
+    <Text>māotóuyīng: Zhēn kāixīn!
+猫头鹰：真开心！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>140914</StartMilliseconds>
+    <EndMilliseconds>141453</EndMilliseconds>
+    <Text>māotóuyīng: [@Zhēn@] kāixīn!
+猫头鹰：[@真@]开心！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>141454</StartMilliseconds>
+    <EndMilliseconds>142760</EndMilliseconds>
+    <Text>māotóuyīng: Zhēn [@kāixīn@]!
+猫头鹰：真[@开心@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>142761</StartMilliseconds>
+    <EndMilliseconds>148452</EndMilliseconds>
+    <Text>māotóuyīng: Zhēn kāixīn!
+猫头鹰：真开心！</Text>
+  </Paragraph>
+</Subtitle>

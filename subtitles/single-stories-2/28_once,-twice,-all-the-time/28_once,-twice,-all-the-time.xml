@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11907</StartMilliseconds>
+    <EndMilliseconds>20983</EndMilliseconds>
+    <Text>可可和我是最好的朋友。
+Kěkě hé wǒ shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>20984</StartMilliseconds>
+    <EndMilliseconds>21780</EndMilliseconds>
+    <Text>[@可可@]和我是最好的朋友。
+[@Kěkě@] hé wǒ shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>21781</StartMilliseconds>
+    <EndMilliseconds>22091</EndMilliseconds>
+    <Text>可可和我是最好的朋友。
+Kěkě hé wǒ shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>22092</StartMilliseconds>
+    <EndMilliseconds>22340</EndMilliseconds>
+    <Text>可可[@和@]我是最好的朋友。
+Kěkě [@hé@] wǒ shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>22341</StartMilliseconds>
+    <EndMilliseconds>22568</EndMilliseconds>
+    <Text>可可和[@我@]是最好的朋友。
+Kěkě hé [@wǒ@] shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>22569</StartMilliseconds>
+    <EndMilliseconds>22875</EndMilliseconds>
+    <Text>可可和我[@是@]最好的朋友。
+Kěkě hé wǒ [@shì@] zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>22876</StartMilliseconds>
+    <EndMilliseconds>23157</EndMilliseconds>
+    <Text>可可和我是最好的朋友。
+Kěkě hé wǒ shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>23158</StartMilliseconds>
+    <EndMilliseconds>23450</EndMilliseconds>
+    <Text>可可和我是[@最@]好的朋友。
+Kěkě hé wǒ shì [@zuì@] hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23451</StartMilliseconds>
+    <EndMilliseconds>23843</EndMilliseconds>
+    <Text>可可和我是最[@好@]的朋友。
+Kěkě hé wǒ shì zuì [@hǎo@] de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23844</StartMilliseconds>
+    <EndMilliseconds>24001</EndMilliseconds>
+    <Text>可可和我是最好[@的@]朋友。
+Kěkě hé wǒ shì zuì hǎo [@de@] péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24002</StartMilliseconds>
+    <EndMilliseconds>24545</EndMilliseconds>
+    <Text>可可和我是最好的[@朋友@]。
+Kěkě hé wǒ shì zuì hǎo de [@péngyou@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24546</StartMilliseconds>
+    <EndMilliseconds>27048</EndMilliseconds>
+    <Text>可可和我是最好的朋友。
+Kěkě hé wǒ shì zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>27049</StartMilliseconds>
+    <EndMilliseconds>34795</EndMilliseconds>
+    <Text>我每天帮可可刷一次毛。
+Wǒ měi tiān bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>34796</StartMilliseconds>
+    <EndMilliseconds>35018</EndMilliseconds>
+    <Text>[@我@]每天帮可可刷一次毛。
+[@Wǒ@] měi tiān bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>35019</StartMilliseconds>
+    <EndMilliseconds>35263</EndMilliseconds>
+    <Text>我[@每@]天帮可可刷一次毛。
+Wǒ [@měi@] tiān bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>35264</StartMilliseconds>
+    <EndMilliseconds>35667</EndMilliseconds>
+    <Text>我每[@天@]帮可可刷一次毛。
+Wǒ měi [@tiān@] bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>35668</StartMilliseconds>
+    <EndMilliseconds>36004</EndMilliseconds>
+    <Text>我每天帮可可刷一次毛。
+Wǒ měi tiān bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>36005</StartMilliseconds>
+    <EndMilliseconds>36255</EndMilliseconds>
+    <Text>我每天[@帮@]可可刷一次毛。
+Wǒ měi tiān [@bāng@] Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>36256</StartMilliseconds>
+    <EndMilliseconds>36879</EndMilliseconds>
+    <Text>我每天帮[@可可@]刷一次毛。
+Wǒ měi tiān bāng [@Kěkě@] shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>36880</StartMilliseconds>
+    <EndMilliseconds>37183</EndMilliseconds>
+    <Text>我每天帮可可刷一次毛。
+Wǒ měi tiān bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>37184</StartMilliseconds>
+    <EndMilliseconds>37520</EndMilliseconds>
+    <Text>我每天帮可可[@刷@]一次毛。
+Wǒ měi tiān bāng Kěkě [@shuā@] yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>37521</StartMilliseconds>
+    <EndMilliseconds>37684</EndMilliseconds>
+    <Text>我每天帮可可刷[@一@]次毛。
+Wǒ měi tiān bāng Kěkě shuā [@yí@] cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>37685</StartMilliseconds>
+    <EndMilliseconds>37962</EndMilliseconds>
+    <Text>我每天帮可可刷一[@次@]毛。
+Wǒ měi tiān bāng Kěkě shuā yí [@cì@] máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>37963</StartMilliseconds>
+    <EndMilliseconds>38397</EndMilliseconds>
+    <Text>我每天帮可可刷一次[@毛@]。
+Wǒ měi tiān bāng Kěkě shuā yí cì [@máo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>38398</StartMilliseconds>
+    <EndMilliseconds>41908</EndMilliseconds>
+    <Text>我每天帮可可刷一次毛。
+Wǒ měi tiān bāng Kěkě shuā yí cì máo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41909</StartMilliseconds>
+    <EndMilliseconds>51622</EndMilliseconds>
+    <Text>我每天喂可可两次。
+Wǒ měi tiān wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>51623</StartMilliseconds>
+    <EndMilliseconds>51849</EndMilliseconds>
+    <Text>[@我@]每天喂可可两次。
+[@Wǒ@] měi tiān wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>51850</StartMilliseconds>
+    <EndMilliseconds>52090</EndMilliseconds>
+    <Text>我[@每@]天喂可可两次。
+Wǒ [@měi@] tiān wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>52091</StartMilliseconds>
+    <EndMilliseconds>52485</EndMilliseconds>
+    <Text>我每[@天@]喂可可两次。
+Wǒ měi [@tiān@] wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>52486</StartMilliseconds>
+    <EndMilliseconds>52835</EndMilliseconds>
+    <Text>我每天喂可可两次。
+Wǒ měi tiān wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>52836</StartMilliseconds>
+    <EndMilliseconds>53096</EndMilliseconds>
+    <Text>我每天[@喂@]可可两次。
+Wǒ měi tiān [@wèi@] Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>53097</StartMilliseconds>
+    <EndMilliseconds>53801</EndMilliseconds>
+    <Text>我每天喂[@可可@]两次。
+Wǒ měi tiān wèi [@Kěkě@] liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>53802</StartMilliseconds>
+    <EndMilliseconds>54074</EndMilliseconds>
+    <Text>我每天喂可可两次。
+Wǒ měi tiān wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>54075</StartMilliseconds>
+    <EndMilliseconds>54561</EndMilliseconds>
+    <Text>我每天喂可可[@两@]次。
+Wǒ měi tiān wèi Kěkě [@liǎng@] cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54562</StartMilliseconds>
+    <EndMilliseconds>54898</EndMilliseconds>
+    <Text>我每天喂可可两[@次@]。
+Wǒ měi tiān wèi Kěkě liǎng [@cì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>54899</StartMilliseconds>
+    <EndMilliseconds>56641</EndMilliseconds>
+    <Text>我每天喂可可两次。
+Wǒ měi tiān wèi Kěkě liǎng cì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>56642</StartMilliseconds>
+    <EndMilliseconds>58950</EndMilliseconds>
+    <Text>我总是抱着可可。
+Wǒ zǒngshì bàozhe Kěkě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>58951</StartMilliseconds>
+    <EndMilliseconds>59205</EndMilliseconds>
+    <Text>[@我@]总是抱着可可。
+[@Wǒ@] zǒngshì bàozhe Kěkě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>59206</StartMilliseconds>
+    <EndMilliseconds>60005</EndMilliseconds>
+    <Text>我[@总是@]抱着可可。
+Wǒ [@zǒngshì@] bàozhe Kěkě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>60006</StartMilliseconds>
+    <EndMilliseconds>60316</EndMilliseconds>
+    <Text>我总是抱着可可。
+Wǒ zǒngshì bàozhe Kěkě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>60317</StartMilliseconds>
+    <EndMilliseconds>60923</EndMilliseconds>
+    <Text>我总是[@抱着@]可可。
+Wǒ zǒngshì [@bàozhe@] Kěkě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>60924</StartMilliseconds>
+    <EndMilliseconds>61633</EndMilliseconds>
+    <Text>我总是抱着[@可可@]。
+Wǒ zǒngshì bàozhe [@Kěkě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>61634</StartMilliseconds>
+    <EndMilliseconds>64042</EndMilliseconds>
+    <Text>我总是抱着可可。
+Wǒ zǒngshì bàozhe Kěkě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64043</StartMilliseconds>
+    <EndMilliseconds>69060</EndMilliseconds>
+    <Text>可可每天舔一次爪子。
+Kěkě měi tiān tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>69061</StartMilliseconds>
+    <EndMilliseconds>69730</EndMilliseconds>
+    <Text>[@可可@]每天舔一次爪子。
+[@Kěkě@] měi tiān tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>69731</StartMilliseconds>
+    <EndMilliseconds>70101</EndMilliseconds>
+    <Text>可可每天舔一次爪子。
+Kěkě měi tiān tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>70102</StartMilliseconds>
+    <EndMilliseconds>70373</EndMilliseconds>
+    <Text>可可[@每@]天舔一次爪子。
+Kěkě [@měi@] tiān tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>70374</StartMilliseconds>
+    <EndMilliseconds>70757</EndMilliseconds>
+    <Text>可可每[@天@]舔一次爪子。
+Kěkě měi [@tiān@] tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>70758</StartMilliseconds>
+    <EndMilliseconds>70973</EndMilliseconds>
+    <Text>可可每天舔一次爪子。
+Kěkě měi tiān tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>70974</StartMilliseconds>
+    <EndMilliseconds>71379</EndMilliseconds>
+    <Text>可可每天[@舔@]一次爪子。
+Kěkě měi tiān [@tiǎn@] yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>71380</StartMilliseconds>
+    <EndMilliseconds>71550</EndMilliseconds>
+    <Text>可可每天舔[@一@]次爪子。
+Kěkě měi tiān tiǎn [@yí@] cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>71551</StartMilliseconds>
+    <EndMilliseconds>72037</EndMilliseconds>
+    <Text>可可每天舔一[@次@]爪子。
+Kěkě měi tiān tiǎn yí [@cì@] zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>72038</StartMilliseconds>
+    <EndMilliseconds>72886</EndMilliseconds>
+    <Text>可可每天舔一次[@爪子@]。
+Kěkě měi tiān tiǎn yí cì [@zhuǎzi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>72887</StartMilliseconds>
+    <EndMilliseconds>75042</EndMilliseconds>
+    <Text>可可每天舔一次爪子。
+Kěkě měi tiān tiǎn yí cì zhuǎzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>75043</StartMilliseconds>
+    <EndMilliseconds>100690</EndMilliseconds>
+    <Text>可可每天追两次小鸟。
+Kěkě měi tiān zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>100691</StartMilliseconds>
+    <EndMilliseconds>101352</EndMilliseconds>
+    <Text>[@可可@]每天追两次小鸟。
+[@Kěkě@] měi tiān zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>101353</StartMilliseconds>
+    <EndMilliseconds>101712</EndMilliseconds>
+    <Text>可可每天追两次小鸟。
+Kěkě měi tiān zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>101713</StartMilliseconds>
+    <EndMilliseconds>102012</EndMilliseconds>
+    <Text>可可[@每@]天追两次小鸟。
+Kěkě [@měi@] tiān zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>102013</StartMilliseconds>
+    <EndMilliseconds>102405</EndMilliseconds>
+    <Text>可可每[@天@]追两次小鸟。
+Kěkě měi [@tiān@] zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>102406</StartMilliseconds>
+    <EndMilliseconds>102658</EndMilliseconds>
+    <Text>可可每天追两次小鸟。
+Kěkě měi tiān zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>102659</StartMilliseconds>
+    <EndMilliseconds>102985</EndMilliseconds>
+    <Text>可可每天[@追@]两次小鸟。
+Kěkě měi tiān [@zhuī@] liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>102986</StartMilliseconds>
+    <EndMilliseconds>103346</EndMilliseconds>
+    <Text>可可每天追[@两@]次小鸟。
+Kěkě měi tiān zhuī [@liǎng@] cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>103347</StartMilliseconds>
+    <EndMilliseconds>103896</EndMilliseconds>
+    <Text>可可每天追两[@次@]小鸟。
+Kěkě měi tiān zhuī liǎng [@cì@] xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>103897</StartMilliseconds>
+    <EndMilliseconds>104827</EndMilliseconds>
+    <Text>可可每天追两次[@小鸟@]。
+Kěkě měi tiān zhuī liǎng cì [@xiǎoniǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>104828</StartMilliseconds>
+    <EndMilliseconds>108303</EndMilliseconds>
+    <Text>可可每天追两次小鸟。
+Kěkě měi tiān zhuī liǎng cì xiǎoniǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>108304</StartMilliseconds>
+    <EndMilliseconds>113358</EndMilliseconds>
+    <Text>可可总是亲我。
+Kěkě zǒngshì qīn wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>113359</StartMilliseconds>
+    <EndMilliseconds>114024</EndMilliseconds>
+    <Text>[@可可@]总是亲我。
+[@Kěkě@] zǒngshì qīn wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>114025</StartMilliseconds>
+    <EndMilliseconds>114395</EndMilliseconds>
+    <Text>可可总是亲我。
+Kěkě zǒngshì qīn wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>114396</StartMilliseconds>
+    <EndMilliseconds>115155</EndMilliseconds>
+    <Text>可可[@总是@]亲我。
+Kěkě [@zǒngshì@] qīn wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>115156</StartMilliseconds>
+    <EndMilliseconds>115608</EndMilliseconds>
+    <Text>可可总是[@亲@]我。
+Kěkě zǒngshì [@qīn@] wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>115609</StartMilliseconds>
+    <EndMilliseconds>116024</EndMilliseconds>
+    <Text>可可总是亲[@我@]。
+Kěkě zǒngshì qīn [@wǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>116025</StartMilliseconds>
+    <EndMilliseconds>119368</EndMilliseconds>
+    <Text>可可总是亲我。
+Kěkě zǒngshì qīn wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>119369</StartMilliseconds>
+    <EndMilliseconds>126687</EndMilliseconds>
+    <Text>可可是我最好的朋友。
+Kěkě shì wǒ zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>126688</StartMilliseconds>
+    <EndMilliseconds>127313</EndMilliseconds>
+    <Text>[@可可@]是我最好的朋友。
+[@Kěkě@] shì wǒ zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>127314</StartMilliseconds>
+    <EndMilliseconds>127536</EndMilliseconds>
+    <Text>可可是我最好的朋友。
+Kěkě shì wǒ zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>127537</StartMilliseconds>
+    <EndMilliseconds>127884</EndMilliseconds>
+    <Text>可可[@是@]我最好的朋友。
+Kěkě [@shì@] wǒ zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>127885</StartMilliseconds>
+    <EndMilliseconds>128163</EndMilliseconds>
+    <Text>可可是[@我@]最好的朋友。
+Kěkě shì [@wǒ@] zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>128164</StartMilliseconds>
+    <EndMilliseconds>128414</EndMilliseconds>
+    <Text>可可是我最好的朋友。
+Kěkě shì wǒ zuì hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>128415</StartMilliseconds>
+    <EndMilliseconds>128737</EndMilliseconds>
+    <Text>可可是我[@最@]好的朋友。
+Kěkě shì wǒ [@zuì@] hǎo de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>128738</StartMilliseconds>
+    <EndMilliseconds>129168</EndMilliseconds>
+    <Text>可可是我最[@好@]的朋友。
+Kěkě shì wǒ zuì [@hǎo@] de péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>129169</StartMilliseconds>
+    <EndMilliseconds>129353</EndMilliseconds>
+    <Text>可可是我最好[@的@]朋友。
+Kěkě shì wǒ zuì hǎo [@de@] péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>129354</StartMilliseconds>
+    <EndMilliseconds>129960</EndMilliseconds>
+    <Text>可可是我最好的[@朋友@]。
+Kěkě shì wǒ zuì hǎo de [@péngyou@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>129961</StartMilliseconds>
+    <EndMilliseconds>137679</EndMilliseconds>
+    <Text>可可是我最好的朋友。
+Kěkě shì wǒ zuì hǎo de péngyou.</Text>
+  </Paragraph>
+</Subtitle>

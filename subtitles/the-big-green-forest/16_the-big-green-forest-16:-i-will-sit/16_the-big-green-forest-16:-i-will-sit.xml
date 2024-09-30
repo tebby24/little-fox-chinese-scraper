@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9619</StartMilliseconds>
+    <EndMilliseconds>53178</EndMilliseconds>
+    <Text>huànxióng: Wǒ xūyào zuò xiàlai.
+浣熊：我需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>53179</StartMilliseconds>
+    <EndMilliseconds>54054</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] xūyào zuò xiàlai.
+浣熊：[@我@]需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>54055</StartMilliseconds>
+    <EndMilliseconds>55107</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@xūyào@] zuò xiàlai.
+浣熊：我[@需要@]坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>55108</StartMilliseconds>
+    <EndMilliseconds>55614</EndMilliseconds>
+    <Text>huànxióng: Wǒ xūyào [@zuò@] xiàlai.
+浣熊：我需要[@坐@]下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>55615</StartMilliseconds>
+    <EndMilliseconds>56473</EndMilliseconds>
+    <Text>huànxióng: Wǒ xūyào zuò [@xiàlai@].
+浣熊：我需要坐[@下来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>56474</StartMilliseconds>
+    <EndMilliseconds>77381</EndMilliseconds>
+    <Text>huànxióng: Wǒ xūyào zuò xiàlai.
+浣熊：我需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>77382</StartMilliseconds>
+    <EndMilliseconds>79712</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò zài zhè ge mùtou shàng.
+浣熊：我要坐在这个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>79713</StartMilliseconds>
+    <EndMilliseconds>80100</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yào zuò zài zhè ge mùtou shàng.
+浣熊：[@我@]要坐在这个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>80101</StartMilliseconds>
+    <EndMilliseconds>80851</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yào@] zuò zài zhè ge mùtou shàng.
+浣熊：我[@要@]坐在这个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>80852</StartMilliseconds>
+    <EndMilliseconds>81389</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào [@zuò@] zài zhè ge mùtou shàng.
+浣熊：我要[@坐@]在这个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>81390</StartMilliseconds>
+    <EndMilliseconds>81764</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò [@zài@] zhè ge mùtou shàng.
+浣熊：我要坐[@在@]这个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>81765</StartMilliseconds>
+    <EndMilliseconds>82008</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò zài [@zhè@] ge mùtou shàng.
+浣熊：我要坐在[@这@]个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>82009</StartMilliseconds>
+    <EndMilliseconds>82544</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò zài zhè [@ge@] mùtou shàng.
+浣熊：我要坐在这[@个@]木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>82545</StartMilliseconds>
+    <EndMilliseconds>83246</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò zài zhè ge [@mùtou@] shàng.
+浣熊：我要坐在这个[@木头@]上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>83247</StartMilliseconds>
+    <EndMilliseconds>83905</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò zài zhè ge mùtou [@shàng@].
+浣熊：我要坐在这个木头[@上@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>83906</StartMilliseconds>
+    <EndMilliseconds>84410</EndMilliseconds>
+    <Text>huànxióng: Wǒ yào zuò zài zhè ge mùtou shàng.
+浣熊：我要坐在这个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>84411</StartMilliseconds>
+    <EndMilliseconds>85942</EndMilliseconds>
+    <Text>tùzi: Wǒ yě xūyào zuò xiàlai.
+兔子：我也需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>85943</StartMilliseconds>
+    <EndMilliseconds>86533</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yě xūyào zuò xiàlai.
+兔子：[@我@]也需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>86534</StartMilliseconds>
+    <EndMilliseconds>87060</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yě@] xūyào zuò xiàlai.
+兔子：我[@也@]需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>87061</StartMilliseconds>
+    <EndMilliseconds>88122</EndMilliseconds>
+    <Text>tùzi: Wǒ yě [@xūyào@] zuò xiàlai.
+兔子：我也[@需要@]坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>88123</StartMilliseconds>
+    <EndMilliseconds>88564</EndMilliseconds>
+    <Text>tùzi: Wǒ yě xūyào [@zuò@] xiàlai.
+兔子：我也需要[@坐@]下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>88565</StartMilliseconds>
+    <EndMilliseconds>89483</EndMilliseconds>
+    <Text>tùzi: Wǒ yě xūyào zuò [@xiàlai@].
+兔子：我也需要坐[@下来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>89484</StartMilliseconds>
+    <EndMilliseconds>105700</EndMilliseconds>
+    <Text>tùzi: Wǒ yě xūyào zuò xiàlai.
+兔子：我也需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>105701</StartMilliseconds>
+    <EndMilliseconds>107331</EndMilliseconds>
+    <Text>huànxióng: Zuò zài wǒ pángbiān ba.
+浣熊：坐在我旁边吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>107332</StartMilliseconds>
+    <EndMilliseconds>107817</EndMilliseconds>
+    <Text>huànxióng: [@Zuò@] zài wǒ pángbiān ba.
+浣熊：[@坐@]在我旁边吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>107818</StartMilliseconds>
+    <EndMilliseconds>108605</EndMilliseconds>
+    <Text>huànxióng: Zuò [@zài@] wǒ pángbiān ba.
+浣熊：坐[@在@]我旁边吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>108606</StartMilliseconds>
+    <EndMilliseconds>109075</EndMilliseconds>
+    <Text>huànxióng: Zuò zài [@wǒ@] pángbiān ba.
+浣熊：坐在[@我@]旁边吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>109076</StartMilliseconds>
+    <EndMilliseconds>109892</EndMilliseconds>
+    <Text>huànxióng: Zuò zài wǒ [@pángbiān@] ba.
+浣熊：坐在我[@旁边@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>109893</StartMilliseconds>
+    <EndMilliseconds>110546</EndMilliseconds>
+    <Text>huànxióng: Zuò zài wǒ pángbiān [@ba@].
+浣熊：坐在我旁边[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>110547</StartMilliseconds>
+    <EndMilliseconds>117493</EndMilliseconds>
+    <Text>huànxióng: Zuò zài wǒ pángbiān ba.
+浣熊：坐在我旁边吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>117494</StartMilliseconds>
+    <EndMilliseconds>120378</EndMilliseconds>
+    <Text>qīngwā: Wǒ xūyào zuò xiàlai.
+青蛙：我需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>120379</StartMilliseconds>
+    <EndMilliseconds>121062</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] xūyào zuò xiàlai.
+青蛙：[@我@]需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>121063</StartMilliseconds>
+    <EndMilliseconds>121986</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@xūyào@] zuò xiàlai.
+青蛙：我[@需要@]坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>121987</StartMilliseconds>
+    <EndMilliseconds>122471</EndMilliseconds>
+    <Text>qīngwā: Wǒ xūyào [@zuò@] xiàlai.
+青蛙：我需要[@坐@]下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>122472</StartMilliseconds>
+    <EndMilliseconds>123499</EndMilliseconds>
+    <Text>qīngwā: Wǒ xūyào zuò [@xiàlai@].
+青蛙：我需要坐[@下来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>123500</StartMilliseconds>
+    <EndMilliseconds>148877</EndMilliseconds>
+    <Text>qīngwā: Wǒ xūyào zuò xiàlai.
+青蛙：我需要坐下来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>148878</StartMilliseconds>
+    <EndMilliseconds>156812</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò ba!
+浣熊：我们一起坐吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>156813</StartMilliseconds>
+    <EndMilliseconds>158028</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] yìqǐ zuò ba!
+浣熊：[@我们@]一起坐吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>158029</StartMilliseconds>
+    <EndMilliseconds>158860</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@yìqǐ@] zuò ba!
+浣熊：我们[@一起@]坐吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>158861</StartMilliseconds>
+    <EndMilliseconds>159325</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ [@zuò@] ba!
+浣熊：我们一起[@坐@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>159326</StartMilliseconds>
+    <EndMilliseconds>159855</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò [@ba@]!
+浣熊：我们一起坐[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>159856</StartMilliseconds>
+    <EndMilliseconds>160215</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò ba!
+浣熊：我们一起坐吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>160216</StartMilliseconds>
+    <EndMilliseconds>160575</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò zài mùtou shàng ba.
+浣熊：我们一起坐在木头上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>160576</StartMilliseconds>
+    <EndMilliseconds>161579</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] yìqǐ zuò zài mùtou shàng ba.
+浣熊：[@我们@]一起坐在木头上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>161580</StartMilliseconds>
+    <EndMilliseconds>162368</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@yìqǐ@] zuò zài mùtou shàng ba.
+浣熊：我们[@一起@]坐在木头上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>162369</StartMilliseconds>
+    <EndMilliseconds>162792</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ [@zuò@] zài mùtou shàng ba.
+浣熊：我们一起[@坐@]在木头上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>162793</StartMilliseconds>
+    <EndMilliseconds>163421</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò [@zài@] mùtou shàng ba.
+浣熊：我们一起坐[@在@]木头上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>163422</StartMilliseconds>
+    <EndMilliseconds>163975</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò zài [@mùtou@] shàng ba.
+浣熊：我们一起坐在[@木头@]上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>163976</StartMilliseconds>
+    <EndMilliseconds>164466</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò zài mùtou [@shàng@] ba.
+浣熊：我们一起坐在木头[@上@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>164467</StartMilliseconds>
+    <EndMilliseconds>165053</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò zài mùtou shàng [@ba@].
+浣熊：我们一起坐在木头上[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>165054</StartMilliseconds>
+    <EndMilliseconds>166252</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zuò zài mùtou shàng ba.
+浣熊：我们一起坐在木头上吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>166253</StartMilliseconds>
+    <EndMilliseconds>167783</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu zuòxià le.
+青蛙：我们都坐下了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>167784</StartMilliseconds>
+    <EndMilliseconds>168807</EndMilliseconds>
+    <Text>qīngwā: [@Wǒmen@] dōu zuòxià le.
+青蛙：[@我们@]都坐下了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>168808</StartMilliseconds>
+    <EndMilliseconds>169483</EndMilliseconds>
+    <Text>qīngwā: Wǒmen [@dōu@] zuòxià le.
+青蛙：我们[@都@]坐下了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>169484</StartMilliseconds>
+    <EndMilliseconds>170182</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu [@zuòxià@] le.
+青蛙：我们都[@坐下@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>170184</StartMilliseconds>
+    <EndMilliseconds>170727</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu zuòxià [@le@].
+青蛙：我们都坐下[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>170728</StartMilliseconds>
+    <EndMilliseconds>175504</EndMilliseconds>
+    <Text>qīngwā: Wǒmen dōu zuòxià le.
+青蛙：我们都坐下了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>175505</StartMilliseconds>
+    <EndMilliseconds>187999</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù néng zuò zài mùtou shàng.
+松鼠：哎呀！我不能坐在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>188000</StartMilliseconds>
+    <EndMilliseconds>189270</EndMilliseconds>
+    <Text>sōngshǔ: [@Āiyā@]! Wǒ bù néng zuò zài mùtou shàng.
+松鼠：[@哎呀@]！我不能坐在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>189271</StartMilliseconds>
+    <EndMilliseconds>189784</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! [@Wǒ@] bù néng zuò zài mùtou shàng.
+松鼠：哎呀！[@我@]不能坐在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>189785</StartMilliseconds>
+    <EndMilliseconds>190154</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ [@bù@] néng zuò zài mùtou shàng.
+松鼠：哎呀！我[@不@]能坐在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>190155</StartMilliseconds>
+    <EndMilliseconds>190584</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù [@néng@] zuò zài mùtou shàng.
+松鼠：哎呀！我不[@能@]坐在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>190585</StartMilliseconds>
+    <EndMilliseconds>190952</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù néng [@zuò@] zài mùtou shàng.
+松鼠：哎呀！我不能[@坐@]在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>190953</StartMilliseconds>
+    <EndMilliseconds>191202</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù néng zuò [@zài@] mùtou shàng.
+松鼠：哎呀！我不能坐[@在@]木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>191203</StartMilliseconds>
+    <EndMilliseconds>191967</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù néng zuò zài [@mùtou@] shàng.
+松鼠：哎呀！我不能坐在[@木头@]上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>191968</StartMilliseconds>
+    <EndMilliseconds>192920</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù néng zuò zài mùtou [@shàng@].
+松鼠：哎呀！我不能坐在木头[@上@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>192921</StartMilliseconds>
+    <EndMilliseconds>199404</EndMilliseconds>
+    <Text>sōngshǔ: Āiyā! Wǒ bù néng zuò zài mùtou shàng.
+松鼠：哎呀！我不能坐在木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>199405</StartMilliseconds>
+    <EndMilliseconds>205696</EndMilliseconds>
+    <Text>tùzi: Zuò wǒ de dìfang ba.
+兔子：坐我的地方吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>205697</StartMilliseconds>
+    <EndMilliseconds>206190</EndMilliseconds>
+    <Text>tùzi: [@Zuò@] wǒ de dìfang ba.
+兔子：[@坐@]我的地方吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>206191</StartMilliseconds>
+    <EndMilliseconds>206805</EndMilliseconds>
+    <Text>tùzi: Zuò [@wǒ@] de dìfang ba.
+兔子：坐[@我@]的地方吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>206806</StartMilliseconds>
+    <EndMilliseconds>207114</EndMilliseconds>
+    <Text>tùzi: Zuò wǒ [@de@] dìfang ba.
+兔子：坐我[@的@]地方吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>207115</StartMilliseconds>
+    <EndMilliseconds>207629</EndMilliseconds>
+    <Text>tùzi: Zuò wǒ de [@dìfang@] ba.
+兔子：坐我的[@地方@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>207630</StartMilliseconds>
+    <EndMilliseconds>208219</EndMilliseconds>
+    <Text>tùzi: Zuò wǒ de dìfang [@ba@].
+兔子：坐我的地方[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>208220</StartMilliseconds>
+    <EndMilliseconds>214071</EndMilliseconds>
+    <Text>tùzi: Zuò wǒ de dìfang ba.
+兔子：坐我的地方吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>214072</StartMilliseconds>
+    <EndMilliseconds>216435</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò zài nà ge mùtou shàng.
+兔子：我去坐在那个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>216436</StartMilliseconds>
+    <EndMilliseconds>216905</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] qù zuò zài nà ge mùtou shàng.
+兔子：[@我@]去坐在那个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>216906</StartMilliseconds>
+    <EndMilliseconds>217303</EndMilliseconds>
+    <Text>tùzi: Wǒ [@qù@] zuò zài nà ge mùtou shàng.
+兔子：我[@去@]坐在那个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>217304</StartMilliseconds>
+    <EndMilliseconds>217582</EndMilliseconds>
+    <Text>tùzi: Wǒ qù [@zuò@] zài nà ge mùtou shàng.
+兔子：我去[@坐@]在那个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>217583</StartMilliseconds>
+    <EndMilliseconds>218072</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò [@zài@] nà ge mùtou shàng.
+兔子：我去坐[@在@]那个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>218073</StartMilliseconds>
+    <EndMilliseconds>218505</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò zài [@nà@] ge mùtou shàng.
+兔子：我去坐在[@那@]个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>218506</StartMilliseconds>
+    <EndMilliseconds>218651</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò zài nà [@ge@] mùtou shàng.
+兔子：我去坐在那[@个@]木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>218652</StartMilliseconds>
+    <EndMilliseconds>219373</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò zài nà ge [@mùtou@] shàng.
+兔子：我去坐在那个[@木头@]上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>219374</StartMilliseconds>
+    <EndMilliseconds>219973</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò zài nà ge mùtou [@shàng@].
+兔子：我去坐在那个木头[@上@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>219974</StartMilliseconds>
+    <EndMilliseconds>223207</EndMilliseconds>
+    <Text>tùzi: Wǒ qù zuò zài nà ge mùtou shàng.
+兔子：我去坐在那个木头上。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>223208</StartMilliseconds>
+    <EndMilliseconds>227887</EndMilliseconds>
+    <Text>qīngwā: Bié zuò nàr!
+青蛙：别坐那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>227888</StartMilliseconds>
+    <EndMilliseconds>228452</EndMilliseconds>
+    <Text>qīngwā: [@Bié@] zuò nàr!
+青蛙：[@别@]坐那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>228453</StartMilliseconds>
+    <EndMilliseconds>228733</EndMilliseconds>
+    <Text>qīngwā: Bié [@zuò@] nàr!
+青蛙：别[@坐@]那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>228734</StartMilliseconds>
+    <EndMilliseconds>229427</EndMilliseconds>
+    <Text>qīngwā: Bié zuò [@nàr@]!
+青蛙：别坐[@那儿@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>229428</StartMilliseconds>
+    <EndMilliseconds>231057</EndMilliseconds>
+    <Text>qīngwā: Bié zuò nàr!
+青蛙：别坐那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>231058</StartMilliseconds>
+    <EndMilliseconds>231863</EndMilliseconds>
+    <Text>tùzi: Ā!
+兔子：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>231864</StartMilliseconds>
+    <EndMilliseconds>232822</EndMilliseconds>
+    <Text>tùzi: [@Ā@]!
+兔子：[@啊@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>232823</StartMilliseconds>
+    <EndMilliseconds>240521</EndMilliseconds>
+    <Text>tùzi: Ā!
+兔子：啊！</Text>
+  </Paragraph>
+</Subtitle>

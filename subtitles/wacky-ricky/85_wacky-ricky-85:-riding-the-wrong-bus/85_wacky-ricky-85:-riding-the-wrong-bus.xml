@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10343</StartMilliseconds>
+    <EndMilliseconds>21662</EndMilliseconds>
+    <Text>里奇：艾米住得太远了。
+Lǐqí: Àimǐ zhù de tài yuǎn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>21663</StartMilliseconds>
+    <EndMilliseconds>22534</EndMilliseconds>
+    <Text>里奇：[@艾米@]住得太远了。
+Lǐqí: [@Àimǐ@] zhù de tài yuǎn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>22535</StartMilliseconds>
+    <EndMilliseconds>22803</EndMilliseconds>
+    <Text>里奇：艾米[@住@]得太远了。
+Lǐqí: Àimǐ [@zhù@] de tài yuǎn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>22804</StartMilliseconds>
+    <EndMilliseconds>23010</EndMilliseconds>
+    <Text>里奇：艾米住[@得@]太远了。
+Lǐqí: Àimǐ zhù [@de@] tài yuǎn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>23011</StartMilliseconds>
+    <EndMilliseconds>23302</EndMilliseconds>
+    <Text>里奇：艾米住得[@太@]远了。
+Lǐqí: Àimǐ zhù de [@tài@] yuǎn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>23303</StartMilliseconds>
+    <EndMilliseconds>23647</EndMilliseconds>
+    <Text>里奇：艾米住得太[@远@]了。
+Lǐqí: Àimǐ zhù de tài [@yuǎn@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>23648</StartMilliseconds>
+    <EndMilliseconds>24174</EndMilliseconds>
+    <Text>里奇：艾米住得太远[@了@]。
+Lǐqí: Àimǐ zhù de tài yuǎn [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>24175</StartMilliseconds>
+    <EndMilliseconds>24545</EndMilliseconds>
+    <Text>里奇：艾米住得太远了。
+Lǐqí: Àimǐ zhù de tài yuǎn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>24546</StartMilliseconds>
+    <EndMilliseconds>24933</EndMilliseconds>
+    <Text>安迪：我已经累了，里奇。
+Āndí: Wǒ yǐjing lèi le, Lǐqí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24934</StartMilliseconds>
+    <EndMilliseconds>25297</EndMilliseconds>
+    <Text>安迪：[@我@]已经累了，里奇。
+Āndí: [@Wǒ@] yǐjing lèi le, Lǐqí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>25298</StartMilliseconds>
+    <EndMilliseconds>25582</EndMilliseconds>
+    <Text>安迪：我[@已经@]累了，里奇。
+Āndí: Wǒ [@yǐjing@] lèi le, Lǐqí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>25583</StartMilliseconds>
+    <EndMilliseconds>26054</EndMilliseconds>
+    <Text>安迪：我已经[@累@]了，里奇。
+Āndí: Wǒ yǐjing [@lèi@] le, Lǐqí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>26055</StartMilliseconds>
+    <EndMilliseconds>26324</EndMilliseconds>
+    <Text>安迪：我已经累[@了@]，里奇。
+Āndí: Wǒ yǐjing lèi [@le@], Lǐqí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>26325</StartMilliseconds>
+    <EndMilliseconds>27287</EndMilliseconds>
+    <Text>安迪：我已经累了，[@里奇@]。
+Āndí: Wǒ yǐjing lèi le, [@Lǐqí@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27288</StartMilliseconds>
+    <EndMilliseconds>28214</EndMilliseconds>
+    <Text>安迪：我已经累了，里奇。
+Āndí: Wǒ yǐjing lèi le, Lǐqí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>28215</StartMilliseconds>
+    <EndMilliseconds>32106</EndMilliseconds>
+    <Text>司机：好了，孩子们。
+sījī: Hǎo le, háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32107</StartMilliseconds>
+    <EndMilliseconds>32440</EndMilliseconds>
+    <Text>司机：[@好@]了，孩子们。
+sījī: [@Hǎo@] le, háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32441</StartMilliseconds>
+    <EndMilliseconds>32773</EndMilliseconds>
+    <Text>司机：好[@了@]，孩子们。
+sījī: Hǎo [@le@], háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32774</StartMilliseconds>
+    <EndMilliseconds>33478</EndMilliseconds>
+    <Text>司机：好了，[@孩子们@]。
+sījī: Hǎo le, [@háizimen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33479</StartMilliseconds>
+    <EndMilliseconds>33593</EndMilliseconds>
+    <Text>司机：好了，孩子们。
+sījī: Hǎo le, háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33594</StartMilliseconds>
+    <EndMilliseconds>33761</EndMilliseconds>
+    <Text>司机：你们应该在这里换乘。
+sījī: Nǐmen yīnggāi zài zhèli huànchéng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>33762</StartMilliseconds>
+    <EndMilliseconds>34336</EndMilliseconds>
+    <Text>司机：[@你们@]应该在这里换乘。
+sījī: [@Nǐmen@] yīnggāi zài zhèli huànchéng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>34337</StartMilliseconds>
+    <EndMilliseconds>34821</EndMilliseconds>
+    <Text>司机：你们[@应该@]在这里换乘。
+sījī: Nǐmen [@yīnggāi@] zài zhèli huànchéng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>34822</StartMilliseconds>
+    <EndMilliseconds>35036</EndMilliseconds>
+    <Text>司机：你们应该[@在@]这里换乘。
+sījī: Nǐmen yīnggāi [@zài@] zhèli huànchéng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>35037</StartMilliseconds>
+    <EndMilliseconds>35308</EndMilliseconds>
+    <Text>司机：你们应该在[@这里@]换乘。
+sījī: Nǐmen yīnggāi zài [@zhèli@] huànchéng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>35309</StartMilliseconds>
+    <EndMilliseconds>36055</EndMilliseconds>
+    <Text>司机：你们应该在这里[@换乘@]。
+sījī: Nǐmen yīnggāi zài zhèli [@huànchéng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>36056</StartMilliseconds>
+    <EndMilliseconds>37934</EndMilliseconds>
+    <Text>司机：你们应该在这里换乘。
+sījī: Nǐmen yīnggāi zài zhèli huànchéng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>37935</StartMilliseconds>
+    <EndMilliseconds>39259</EndMilliseconds>
+    <Text>里奇：谢谢。
+Lǐqí: Xièxie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>39260</StartMilliseconds>
+    <EndMilliseconds>40213</EndMilliseconds>
+    <Text>里奇：[@谢谢@]。
+Lǐqí: [@Xièxie@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>40214</StartMilliseconds>
+    <EndMilliseconds>43905</EndMilliseconds>
+    <Text>里奇：谢谢。
+Lǐqí: Xièxie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>43906</StartMilliseconds>
+    <EndMilliseconds>45001</EndMilliseconds>
+    <Text>司机：你们知道坐哪辆车吗？
+sījī: Nǐmen zhīdào zuò nǎ liàng chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>45002</StartMilliseconds>
+    <EndMilliseconds>45406</EndMilliseconds>
+    <Text>司机：[@你们@]知道坐哪辆车吗？
+sījī: [@Nǐmen@] zhīdào zuò nǎ liàng chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>45407</StartMilliseconds>
+    <EndMilliseconds>45985</EndMilliseconds>
+    <Text>司机：你们[@知道@]坐哪辆车吗？
+sījī: Nǐmen [@zhīdào@] zuò nǎ liàng chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>45986</StartMilliseconds>
+    <EndMilliseconds>46183</EndMilliseconds>
+    <Text>司机：你们知道[@坐@]哪辆车吗？
+sījī: Nǐmen zhīdào [@zuò@] nǎ liàng chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>46184</StartMilliseconds>
+    <EndMilliseconds>46436</EndMilliseconds>
+    <Text>司机：你们知道坐[@哪@]辆车吗？
+sījī: Nǐmen zhīdào zuò [@nǎ@] liàng chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>46437</StartMilliseconds>
+    <EndMilliseconds>46661</EndMilliseconds>
+    <Text>司机：你们知道坐哪[@辆@]车吗？
+sījī: Nǐmen zhīdào zuò nǎ [@liàng@] chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>46662</StartMilliseconds>
+    <EndMilliseconds>46902</EndMilliseconds>
+    <Text>司机：你们知道坐哪辆[@车@]吗？
+sījī: Nǐmen zhīdào zuò nǎ liàng [@chē@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>46903</StartMilliseconds>
+    <EndMilliseconds>47259</EndMilliseconds>
+    <Text>司机：你们知道坐哪辆车[@吗@]？
+sījī: Nǐmen zhīdào zuò nǎ liàng chē [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>47260</StartMilliseconds>
+    <EndMilliseconds>48097</EndMilliseconds>
+    <Text>司机：你们知道坐哪辆车吗？
+sījī: Nǐmen zhīdào zuò nǎ liàng chē ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>48098</StartMilliseconds>
+    <EndMilliseconds>49206</EndMilliseconds>
+    <Text>里奇：是的，我们知道。
+Lǐqí: Shìde, wǒmen zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>49207</StartMilliseconds>
+    <EndMilliseconds>49969</EndMilliseconds>
+    <Text>里奇：[@是的@]，我们知道。
+Lǐqí: [@Shìde@], wǒmen zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>49970</StartMilliseconds>
+    <EndMilliseconds>50430</EndMilliseconds>
+    <Text>里奇：是的，[@我们@]知道。
+Lǐqí: Shìde, [@wǒmen@] zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>50431</StartMilliseconds>
+    <EndMilliseconds>51048</EndMilliseconds>
+    <Text>里奇：是的，我们[@知道@]。
+Lǐqí: Shìde, wǒmen [@zhīdào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>51049</StartMilliseconds>
+    <EndMilliseconds>55400</EndMilliseconds>
+    <Text>里奇：是的，我们知道。
+Lǐqí: Shìde, wǒmen zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>55401</StartMilliseconds>
+    <EndMilliseconds>57927</EndMilliseconds>
+    <Text>安迪：我们现在要坐哪辆车啊？
+Āndí: Wǒmen xiànzài yào zuò nǎ liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>57928</StartMilliseconds>
+    <EndMilliseconds>58238</EndMilliseconds>
+    <Text>安迪：[@我们@]现在要坐哪辆车啊？
+Āndí: [@Wǒmen@] xiànzài yào zuò nǎ liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>58239</StartMilliseconds>
+    <EndMilliseconds>58994</EndMilliseconds>
+    <Text>安迪：我们[@现在@]要坐哪辆车啊？
+Āndí: Wǒmen [@xiànzài@] yào zuò nǎ liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>58995</StartMilliseconds>
+    <EndMilliseconds>59245</EndMilliseconds>
+    <Text>安迪：我们现在[@要@]坐哪辆车啊？
+Āndí: Wǒmen xiànzài [@yào@] zuò nǎ liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>59246</StartMilliseconds>
+    <EndMilliseconds>59544</EndMilliseconds>
+    <Text>安迪：我们现在要[@坐@]哪辆车啊？
+Āndí: Wǒmen xiànzài yào [@zuò@] nǎ liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>59545</StartMilliseconds>
+    <EndMilliseconds>59775</EndMilliseconds>
+    <Text>安迪：我们现在要坐[@哪@]辆车啊？
+Āndí: Wǒmen xiànzài yào zuò [@nǎ@] liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>59776</StartMilliseconds>
+    <EndMilliseconds>59976</EndMilliseconds>
+    <Text>安迪：我们现在要坐哪[@辆@]车啊？
+Āndí: Wǒmen xiànzài yào zuò nǎ [@liàng@] chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>59977</StartMilliseconds>
+    <EndMilliseconds>60310</EndMilliseconds>
+    <Text>安迪：我们现在要坐哪辆[@车@]啊？
+Āndí: Wǒmen xiànzài yào zuò nǎ liàng [@chē@] a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>60311</StartMilliseconds>
+    <EndMilliseconds>60689</EndMilliseconds>
+    <Text>安迪：我们现在要坐哪辆车[@啊@]？
+Āndí: Wǒmen xiànzài yào zuò nǎ liàng chē [@a@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>60690</StartMilliseconds>
+    <EndMilliseconds>61153</EndMilliseconds>
+    <Text>安迪：我们现在要坐哪辆车啊？
+Āndí: Wǒmen xiànzài yào zuò nǎ liàng chē a?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>61154</StartMilliseconds>
+    <EndMilliseconds>61454</EndMilliseconds>
+    <Text>里奇：坐去往纽……纽……
+Lǐqí: Zuò qù wǎng Niǔ…… Niǔ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>61455</StartMilliseconds>
+    <EndMilliseconds>62299</EndMilliseconds>
+    <Text>里奇：[@坐@]去往纽……纽……
+Lǐqí: [@Zuò@] qù wǎng Niǔ…… Niǔ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>62300</StartMilliseconds>
+    <EndMilliseconds>62691</EndMilliseconds>
+    <Text>里奇：坐[@去@]往纽……纽……
+Lǐqí: Zuò [@qù@] wǎng Niǔ…… Niǔ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>62692</StartMilliseconds>
+    <EndMilliseconds>63184</EndMilliseconds>
+    <Text>里奇：坐去[@往@]纽……纽……
+Lǐqí: Zuò qù [@wǎng@] Niǔ…… Niǔ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>63185</StartMilliseconds>
+    <EndMilliseconds>64163</EndMilliseconds>
+    <Text>里奇：坐去往[@纽@]……纽……
+Lǐqí: Zuò qù wǎng [@Niǔ@]…… Niǔ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>64164</StartMilliseconds>
+    <EndMilliseconds>65694</EndMilliseconds>
+    <Text>里奇：坐去往纽……[@纽@]……
+Lǐqí: Zuò qù wǎng Niǔ…… [@Niǔ@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>65695</StartMilliseconds>
+    <EndMilliseconds>67188</EndMilliseconds>
+    <Text>里奇：坐去往纽……纽……
+Lǐqí: Zuò qù wǎng Niǔ…… Niǔ……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>67189</StartMilliseconds>
+    <EndMilliseconds>70095</EndMilliseconds>
+    <Text>里奇：这辆，去往纽蒙的。
+Lǐqí: Zhè liàng, qù wǎng Niǔméng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>70096</StartMilliseconds>
+    <EndMilliseconds>70399</EndMilliseconds>
+    <Text>里奇：[@这@]辆，去往纽蒙的。
+Lǐqí: [@Zhè@] liàng, qù wǎng Niǔméng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>70400</StartMilliseconds>
+    <EndMilliseconds>70903</EndMilliseconds>
+    <Text>里奇：这[@辆@]，去往纽蒙的。
+Lǐqí: Zhè [@liàng@], qù wǎng Niǔméng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>70904</StartMilliseconds>
+    <EndMilliseconds>71192</EndMilliseconds>
+    <Text>里奇：这辆，[@去@]往纽蒙的。
+Lǐqí: Zhè liàng, [@qù@] wǎng Niǔméng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>71193</StartMilliseconds>
+    <EndMilliseconds>71639</EndMilliseconds>
+    <Text>里奇：这辆，去[@往@]纽蒙的。
+Lǐqí: Zhè liàng, qù [@wǎng@] Niǔméng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>71640</StartMilliseconds>
+    <EndMilliseconds>72163</EndMilliseconds>
+    <Text>里奇：这辆，去往[@纽蒙@]的。
+Lǐqí: Zhè liàng, qù wǎng [@Niǔméng@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>72164</StartMilliseconds>
+    <EndMilliseconds>72525</EndMilliseconds>
+    <Text>里奇：这辆，去往纽蒙[@的@]。
+Lǐqí: Zhè liàng, qù wǎng Niǔméng [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>72526</StartMilliseconds>
+    <EndMilliseconds>72830</EndMilliseconds>
+    <Text>里奇：这辆，去往纽蒙的。
+Lǐqí: Zhè liàng, qù wǎng Niǔméng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>72831</StartMilliseconds>
+    <EndMilliseconds>73210</EndMilliseconds>
+    <Text>里奇：这就是我们要坐的车。
+Lǐqí: Zhè jiù shì wǒmen yào zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>73211</StartMilliseconds>
+    <EndMilliseconds>73444</EndMilliseconds>
+    <Text>里奇：[@这@]就是我们要坐的车。
+Lǐqí: [@Zhè@] jiù shì wǒmen yào zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>73445</StartMilliseconds>
+    <EndMilliseconds>73595</EndMilliseconds>
+    <Text>里奇：这[@就@]是我们要坐的车。
+Lǐqí: Zhè [@jiù@] shì wǒmen yào zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>73596</StartMilliseconds>
+    <EndMilliseconds>73848</EndMilliseconds>
+    <Text>里奇：这就[@是@]我们要坐的车。
+Lǐqí: Zhè jiù [@shì@] wǒmen yào zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>73849</StartMilliseconds>
+    <EndMilliseconds>74155</EndMilliseconds>
+    <Text>里奇：这就是[@我们@]要坐的车。
+Lǐqí: Zhè jiù shì [@wǒmen@] yào zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>74156</StartMilliseconds>
+    <EndMilliseconds>74402</EndMilliseconds>
+    <Text>里奇：这就是我们[@要@]坐的车。
+Lǐqí: Zhè jiù shì wǒmen [@yào@] zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>74403</StartMilliseconds>
+    <EndMilliseconds>74594</EndMilliseconds>
+    <Text>里奇：这就是我们要[@坐@]的车。
+Lǐqí: Zhè jiù shì wǒmen yào [@zuò@] de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>74595</StartMilliseconds>
+    <EndMilliseconds>74762</EndMilliseconds>
+    <Text>里奇：这就是我们要坐[@的@]车。
+Lǐqí: Zhè jiù shì wǒmen yào zuò [@de@] chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>74763</StartMilliseconds>
+    <EndMilliseconds>75316</EndMilliseconds>
+    <Text>里奇：这就是我们要坐的[@车@]。
+Lǐqí: Zhè jiù shì wǒmen yào zuò de [@chē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>75317</StartMilliseconds>
+    <EndMilliseconds>76048</EndMilliseconds>
+    <Text>里奇：这就是我们要坐的车。
+Lǐqí: Zhè jiù shì wǒmen yào zuò de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>76049</StartMilliseconds>
+    <EndMilliseconds>76306</EndMilliseconds>
+    <Text>安迪：你确定吗，里奇？
+Āndí: Nǐ quèdìng ma, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>76307</StartMilliseconds>
+    <EndMilliseconds>76717</EndMilliseconds>
+    <Text>安迪：[@你@]确定吗，里奇？
+Āndí: [@Nǐ@] quèdìng ma, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>76718</StartMilliseconds>
+    <EndMilliseconds>77379</EndMilliseconds>
+    <Text>安迪：你[@确定@]吗，里奇？
+Āndí: Nǐ [@quèdìng@] ma, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>77380</StartMilliseconds>
+    <EndMilliseconds>77724</EndMilliseconds>
+    <Text>安迪：你确定[@吗@]，里奇？
+Āndí: Nǐ quèdìng [@ma@], Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>77725</StartMilliseconds>
+    <EndMilliseconds>78508</EndMilliseconds>
+    <Text>安迪：你确定吗，[@里奇@]？
+Āndí: Nǐ quèdìng ma, [@Lǐqí@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>78509</StartMilliseconds>
+    <EndMilliseconds>79391</EndMilliseconds>
+    <Text>安迪：你确定吗，里奇？
+Āndí: Nǐ quèdìng ma, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>79392</StartMilliseconds>
+    <EndMilliseconds>80752</EndMilliseconds>
+    <Text>里奇：当然，我确定。
+Lǐqí: Dāngrán, wǒ quèdìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>80753</StartMilliseconds>
+    <EndMilliseconds>81659</EndMilliseconds>
+    <Text>里奇：[@当然@]，我确定。
+Lǐqí: [@Dāngrán@], wǒ quèdìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>81660</StartMilliseconds>
+    <EndMilliseconds>82004</EndMilliseconds>
+    <Text>里奇：当然，[@我@]确定。
+Lǐqí: Dāngrán, [@wǒ@] quèdìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>82005</StartMilliseconds>
+    <EndMilliseconds>82605</EndMilliseconds>
+    <Text>里奇：当然，我[@确定@]。
+Lǐqí: Dāngrán, wǒ [@quèdìng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>82606</StartMilliseconds>
+    <EndMilliseconds>85535</EndMilliseconds>
+    <Text>里奇：当然，我确定。
+Lǐqí: Dāngrán, wǒ quèdìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>85536</StartMilliseconds>
+    <EndMilliseconds>86422</EndMilliseconds>
+    <Text>司机：这是去往纽蒙的车。
+sījī: Zhè shì qù wǎng Niǔméng de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>86423</StartMilliseconds>
+    <EndMilliseconds>86742</EndMilliseconds>
+    <Text>司机：[@这@]是去往纽蒙的车。
+sījī: [@Zhè@] shì qù wǎng Niǔméng de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>86743</StartMilliseconds>
+    <EndMilliseconds>86927</EndMilliseconds>
+    <Text>司机：这[@是@]去往纽蒙的车。
+sījī: Zhè [@shì@] qù wǎng Niǔméng de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>86928</StartMilliseconds>
+    <EndMilliseconds>87123</EndMilliseconds>
+    <Text>司机：这是[@去@]往纽蒙的车。
+sījī: Zhè shì [@qù@] wǎng Niǔméng de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>87124</StartMilliseconds>
+    <EndMilliseconds>87463</EndMilliseconds>
+    <Text>司机：这是去[@往@]纽蒙的车。
+sījī: Zhè shì qù [@wǎng@] Niǔméng de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>87464</StartMilliseconds>
+    <EndMilliseconds>87915</EndMilliseconds>
+    <Text>司机：这是去往[@纽蒙@]的车。
+sījī: Zhè shì qù wǎng [@Niǔméng@] de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>87916</StartMilliseconds>
+    <EndMilliseconds>88191</EndMilliseconds>
+    <Text>司机：这是去往纽蒙[@的@]车。
+sījī: Zhè shì qù wǎng Niǔméng [@de@] chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>88192</StartMilliseconds>
+    <EndMilliseconds>88605</EndMilliseconds>
+    <Text>司机：这是去往纽蒙的[@车@]。
+sījī: Zhè shì qù wǎng Niǔméng de [@chē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>88606</StartMilliseconds>
+    <EndMilliseconds>91015</EndMilliseconds>
+    <Text>司机：这是去往纽蒙的车。
+sījī: Zhè shì qù wǎng Niǔméng de chē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>91016</StartMilliseconds>
+    <EndMilliseconds>94017</EndMilliseconds>
+    <Text>安迪：呃……里奇，有些不对劲儿。
+Āndí: Ē…… Lǐqí, yǒuxiē bú duìjìnr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>94018</StartMilliseconds>
+    <EndMilliseconds>94753</EndMilliseconds>
+    <Text>安迪：[@呃@]……里奇，有些不对劲儿。
+Āndí: [@Ē@]…… Lǐqí, yǒuxiē bú duìjìnr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>94754</StartMilliseconds>
+    <EndMilliseconds>95668</EndMilliseconds>
+    <Text>安迪：呃……[@里奇@]，有些不对劲儿。
+Āndí: Ē…… [@Lǐqí@], yǒuxiē bú duìjìnr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>95669</StartMilliseconds>
+    <EndMilliseconds>96423</EndMilliseconds>
+    <Text>安迪：呃……里奇，[@有些@]不对劲儿。
+Āndí: Ē…… Lǐqí, [@yǒuxiē@] bú duìjìnr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>96424</StartMilliseconds>
+    <EndMilliseconds>96588</EndMilliseconds>
+    <Text>安迪：呃……里奇，有些[@不@]对劲儿。
+Āndí: Ē…… Lǐqí, yǒuxiē [@bú@] duìjìnr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>96589</StartMilliseconds>
+    <EndMilliseconds>97347</EndMilliseconds>
+    <Text>安迪：呃……里奇，有些不[@对劲儿@]。
+Āndí: Ē…… Lǐqí, yǒuxiē bú [@duìjìnr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>97348</StartMilliseconds>
+    <EndMilliseconds>97949</EndMilliseconds>
+    <Text>安迪：呃……里奇，有些不对劲儿。
+Āndí: Ē…… Lǐqí, yǒuxiē bú duìjìnr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>97950</StartMilliseconds>
+    <EndMilliseconds>98398</EndMilliseconds>
+    <Text>里奇：你想太多了，安迪。
+Lǐqí: Nǐ xiǎng tài duō le, Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>98399</StartMilliseconds>
+    <EndMilliseconds>98650</EndMilliseconds>
+    <Text>里奇：[@你@]想太多了，安迪。
+Lǐqí: [@Nǐ@] xiǎng tài duō le, Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>98651</StartMilliseconds>
+    <EndMilliseconds>98936</EndMilliseconds>
+    <Text>里奇：你[@想@]太多了，安迪。
+Lǐqí: Nǐ [@xiǎng@] tài duō le, Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>98937</StartMilliseconds>
+    <EndMilliseconds>99280</EndMilliseconds>
+    <Text>里奇：你想[@太@]多了，安迪。
+Lǐqí: Nǐ xiǎng [@tài@] duō le, Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>99281</StartMilliseconds>
+    <EndMilliseconds>99614</EndMilliseconds>
+    <Text>里奇：你想太[@多@]了，安迪。
+Lǐqí: Nǐ xiǎng tài [@duō@] le, Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>99615</StartMilliseconds>
+    <EndMilliseconds>99875</EndMilliseconds>
+    <Text>里奇：你想太多[@了@]，安迪。
+Lǐqí: Nǐ xiǎng tài duō [@le@], Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>99876</StartMilliseconds>
+    <EndMilliseconds>100703</EndMilliseconds>
+    <Text>里奇：你想太多了，[@安迪@]。
+Lǐqí: Nǐ xiǎng tài duō le, [@Āndí@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>100704</StartMilliseconds>
+    <EndMilliseconds>101316</EndMilliseconds>
+    <Text>里奇：你想太多了，安迪。
+Lǐqí: Nǐ xiǎng tài duō le, Āndí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>101317</StartMilliseconds>
+    <EndMilliseconds>102394</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼的车，不是纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>102395</StartMilliseconds>
+    <EndMilliseconds>102840</EndMilliseconds>
+    <Text>安迪：[@我们@]要坐去往纽曼的车，不是纽蒙。
+Āndí: [@Wǒmen@] yào zuò qù wǎng Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>102841</StartMilliseconds>
+    <EndMilliseconds>103040</EndMilliseconds>
+    <Text>安迪：我们[@要@]坐去往纽曼的车，不是纽蒙。
+Āndí: Wǒmen [@yào@] zuò qù wǎng Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>103041</StartMilliseconds>
+    <EndMilliseconds>103600</EndMilliseconds>
+    <Text>安迪：我们要[@坐@]去往纽曼的车，不是纽蒙。
+Āndí: Wǒmen yào [@zuò@] qù wǎng Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>103601</StartMilliseconds>
+    <EndMilliseconds>103880</EndMilliseconds>
+    <Text>安迪：我们要坐[@去@]往纽曼的车，不是纽蒙。
+Āndí: Wǒmen yào zuò [@qù@] wǎng Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>103881</StartMilliseconds>
+    <EndMilliseconds>104095</EndMilliseconds>
+    <Text>安迪：我们要坐去[@往@]纽曼的车，不是纽蒙。
+Āndí: Wǒmen yào zuò qù [@wǎng@] Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>104096</StartMilliseconds>
+    <EndMilliseconds>104556</EndMilliseconds>
+    <Text>安迪：我们要坐去往[@纽曼@]的车，不是纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng [@Niǔmàn@] de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>104557</StartMilliseconds>
+    <EndMilliseconds>104735</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼[@的@]车，不是纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn [@de@] chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>104736</StartMilliseconds>
+    <EndMilliseconds>105471</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼的[@车@]，不是纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn de [@chē@], bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>105472</StartMilliseconds>
+    <EndMilliseconds>105901</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼的车，[@不@]是纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn de chē, [@bú@] shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>105902</StartMilliseconds>
+    <EndMilliseconds>106232</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼的车，不[@是@]纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn de chē, bú [@shì@] Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>106233</StartMilliseconds>
+    <EndMilliseconds>107386</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼的车，不是[@纽蒙@]。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn de chē, bú shì [@Niǔméng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>107387</StartMilliseconds>
+    <EndMilliseconds>109214</EndMilliseconds>
+    <Text>安迪：我们要坐去往纽曼的车，不是纽蒙。
+Āndí: Wǒmen yào zuò qù wǎng Niǔmàn de chē, bú shì Niǔméng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>109215</StartMilliseconds>
+    <EndMilliseconds>110391</EndMilliseconds>
+    <Text>里奇和安迪：哦，不！
+Lǐqí hé Āndí: Ò, bù!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>110392</StartMilliseconds>
+    <EndMilliseconds>111080</EndMilliseconds>
+    <Text>里奇和安迪：[@哦@]，不！
+Lǐqí hé Āndí: [@Ò@], bù!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>111081</StartMilliseconds>
+    <EndMilliseconds>111941</EndMilliseconds>
+    <Text>里奇和安迪：哦，[@不@]！
+Lǐqí hé Āndí: Ò, [@bù@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>111942</StartMilliseconds>
+    <EndMilliseconds>112143</EndMilliseconds>
+    <Text>里奇和安迪：哦，不！
+Lǐqí hé Āndí: Ò, bù!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>112144</StartMilliseconds>
+    <EndMilliseconds>112468</EndMilliseconds>
+    <Text>里奇和安迪：我们坐错车了！
+Lǐqí hé Āndí: Wǒmen zuòcuò chē le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>112469</StartMilliseconds>
+    <EndMilliseconds>113135</EndMilliseconds>
+    <Text>里奇和安迪：[@我们@]坐错车了！
+Lǐqí hé Āndí: [@Wǒmen@] zuòcuò chē le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>113136</StartMilliseconds>
+    <EndMilliseconds>113700</EndMilliseconds>
+    <Text>里奇和安迪：我们[@坐错@]车了！
+Lǐqí hé Āndí: Wǒmen [@zuòcuò@] chē le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>113701</StartMilliseconds>
+    <EndMilliseconds>114216</EndMilliseconds>
+    <Text>里奇和安迪：我们坐错[@车@]了！
+Lǐqí hé Āndí: Wǒmen zuòcuò [@chē@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>114217</StartMilliseconds>
+    <EndMilliseconds>114846</EndMilliseconds>
+    <Text>里奇和安迪：我们坐错车[@了@]！
+Lǐqí hé Āndí: Wǒmen zuòcuò chē [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>114847</StartMilliseconds>
+    <EndMilliseconds>117847</EndMilliseconds>
+    <Text>里奇和安迪：我们坐错车了！
+Lǐqí hé Āndí: Wǒmen zuòcuò chē le!</Text>
+  </Paragraph>
+</Subtitle>

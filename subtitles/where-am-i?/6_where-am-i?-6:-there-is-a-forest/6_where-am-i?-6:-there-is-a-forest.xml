@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10803</StartMilliseconds>
+    <EndMilliseconds>12723</EndMilliseconds>
+    <Text>Nàli yǒu yí piàn sēnlín.
+那里有一片森林。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12724</StartMilliseconds>
+    <EndMilliseconds>13807</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yí piàn sēnlín.
+[@那里@]有一片森林。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13808</StartMilliseconds>
+    <EndMilliseconds>14231</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yí piàn sēnlín.
+那里[@有@]一片森林。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14233</StartMilliseconds>
+    <EndMilliseconds>14498</EndMilliseconds>
+    <Text>Nàli yǒu [@yí@] piàn sēnlín.
+那里有[@一@]片森林。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14499</StartMilliseconds>
+    <EndMilliseconds>14821</EndMilliseconds>
+    <Text>Nàli yǒu yí [@piàn@] sēnlín.
+那里有一[@片@]森林。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14822</StartMilliseconds>
+    <EndMilliseconds>15913</EndMilliseconds>
+    <Text>Nàli yǒu yí piàn [@sēnlín@].
+那里有一片[@森林@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15914</StartMilliseconds>
+    <EndMilliseconds>19421</EndMilliseconds>
+    <Text>Nàli yǒu yí piàn sēnlín.
+那里有一片森林。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19422</StartMilliseconds>
+    <EndMilliseconds>20980</EndMilliseconds>
+    <Text>Nàli yǒu liǎng sōu chuán.
+那里有两艘船。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>20981</StartMilliseconds>
+    <EndMilliseconds>22092</EndMilliseconds>
+    <Text>[@Nàli@] yǒu liǎng sōu chuán.
+[@那里@]有两艘船。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22093</StartMilliseconds>
+    <EndMilliseconds>22570</EndMilliseconds>
+    <Text>Nàli [@yǒu@] liǎng sōu chuán.
+那里[@有@]两艘船。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22571</StartMilliseconds>
+    <EndMilliseconds>22996</EndMilliseconds>
+    <Text>Nàli yǒu [@liǎng@] sōu chuán.
+那里有[@两@]艘船。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22997</StartMilliseconds>
+    <EndMilliseconds>23346</EndMilliseconds>
+    <Text>Nàli yǒu liǎng [@sōu@] chuán.
+那里有两[@艘@]船。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>23347</StartMilliseconds>
+    <EndMilliseconds>24375</EndMilliseconds>
+    <Text>Nàli yǒu liǎng sōu [@chuán@].
+那里有两艘[@船@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24376</StartMilliseconds>
+    <EndMilliseconds>27735</EndMilliseconds>
+    <Text>Nàli yǒu liǎng sōu chuán.
+那里有两艘船。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27736</StartMilliseconds>
+    <EndMilliseconds>29339</EndMilliseconds>
+    <Text>Nàli yǒu yí piàn hú.
+那里有一片湖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29340</StartMilliseconds>
+    <EndMilliseconds>30368</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yí piàn hú.
+[@那里@]有一片湖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30369</StartMilliseconds>
+    <EndMilliseconds>30801</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yí piàn hú.
+那里[@有@]一片湖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>30802</StartMilliseconds>
+    <EndMilliseconds>31100</EndMilliseconds>
+    <Text>Nàli yǒu [@yí@] piàn hú.
+那里有[@一@]片湖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>31101</StartMilliseconds>
+    <EndMilliseconds>31621</EndMilliseconds>
+    <Text>Nàli yǒu yí [@piàn@] hú.
+那里有一[@片@]湖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>31622</StartMilliseconds>
+    <EndMilliseconds>32472</EndMilliseconds>
+    <Text>Nàli yǒu yí piàn [@hú@].
+那里有一片[@湖@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>32473</StartMilliseconds>
+    <EndMilliseconds>36061</EndMilliseconds>
+    <Text>Nàli yǒu yí piàn hú.
+那里有一片湖。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>36062</StartMilliseconds>
+    <EndMilliseconds>37683</EndMilliseconds>
+    <Text>Nàli yǒu yì zhī sōngshǔ.
+那里有一只松鼠。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>37684</StartMilliseconds>
+    <EndMilliseconds>38779</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yì zhī sōngshǔ.
+[@那里@]有一只松鼠。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>38780</StartMilliseconds>
+    <EndMilliseconds>39149</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yì zhī sōngshǔ.
+那里[@有@]一只松鼠。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>39157</StartMilliseconds>
+    <EndMilliseconds>39366</EndMilliseconds>
+    <Text>Nàli yǒu [@yì@] zhī sōngshǔ.
+那里有[@一@]只松鼠。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>39367</StartMilliseconds>
+    <EndMilliseconds>39695</EndMilliseconds>
+    <Text>Nàli yǒu yì [@zhī@] sōngshǔ.
+那里有一[@只@]松鼠。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>39696</StartMilliseconds>
+    <EndMilliseconds>41225</EndMilliseconds>
+    <Text>Nàli yǒu yì zhī [@sōngshǔ@].
+那里有一只[@松鼠@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41226</StartMilliseconds>
+    <EndMilliseconds>44822</EndMilliseconds>
+    <Text>Nàli yǒu yì zhī sōngshǔ.
+那里有一只松鼠。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>44823</StartMilliseconds>
+    <EndMilliseconds>46449</EndMilliseconds>
+    <Text>Nàli yǒu yí ge dà mùtou.
+那里有一个大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>46450</StartMilliseconds>
+    <EndMilliseconds>47582</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yí ge dà mùtou.
+[@那里@]有一个大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>47583</StartMilliseconds>
+    <EndMilliseconds>47971</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yí ge dà mùtou.
+那里[@有@]一个大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>47972</StartMilliseconds>
+    <EndMilliseconds>48253</EndMilliseconds>
+    <Text>Nàli yǒu [@yí@] ge dà mùtou.
+那里有[@一@]个大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48254</StartMilliseconds>
+    <EndMilliseconds>48673</EndMilliseconds>
+    <Text>Nàli yǒu yí [@ge@] dà mùtou.
+那里有一[@个@]大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>48674</StartMilliseconds>
+    <EndMilliseconds>49093</EndMilliseconds>
+    <Text>Nàli yǒu yí ge [@dà@] mùtou.
+那里有一个[@大@]木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>49094</StartMilliseconds>
+    <EndMilliseconds>49975</EndMilliseconds>
+    <Text>Nàli yǒu yí ge dà [@mùtou@].
+那里有一个大[@木头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>49976</StartMilliseconds>
+    <EndMilliseconds>53129</EndMilliseconds>
+    <Text>Nàli yǒu yí ge dà mùtou.
+那里有一个大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>53130</StartMilliseconds>
+    <EndMilliseconds>54802</EndMilliseconds>
+    <Text>Nàli yǒu huǒ.
+那里有火。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>54803</StartMilliseconds>
+    <EndMilliseconds>55883</EndMilliseconds>
+    <Text>[@Nàli@] yǒu huǒ.
+[@那里@]有火。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>55884</StartMilliseconds>
+    <EndMilliseconds>56385</EndMilliseconds>
+    <Text>Nàli [@yǒu@] huǒ.
+那里[@有@]火。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56386</StartMilliseconds>
+    <EndMilliseconds>57423</EndMilliseconds>
+    <Text>Nàli yǒu [@huǒ@].
+那里有[@火@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57424</StartMilliseconds>
+    <EndMilliseconds>61470</EndMilliseconds>
+    <Text>Nàli yǒu huǒ.
+那里有火。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>61471</StartMilliseconds>
+    <EndMilliseconds>63195</EndMilliseconds>
+    <Text>Nàli yǒu sān ge zhàngpeng.
+那里有三个帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63196</StartMilliseconds>
+    <EndMilliseconds>64092</EndMilliseconds>
+    <Text>[@Nàli@] yǒu sān ge zhàngpeng.
+[@那里@]有三个帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64093</StartMilliseconds>
+    <EndMilliseconds>64541</EndMilliseconds>
+    <Text>Nàli [@yǒu@] sān ge zhàngpeng.
+那里[@有@]三个帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64542</StartMilliseconds>
+    <EndMilliseconds>64929</EndMilliseconds>
+    <Text>Nàli yǒu [@sān@] ge zhàngpeng.
+那里有[@三@]个帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>64930</StartMilliseconds>
+    <EndMilliseconds>65154</EndMilliseconds>
+    <Text>Nàli yǒu sān [@ge@] zhàngpeng.
+那里有三[@个@]帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65155</StartMilliseconds>
+    <EndMilliseconds>66036</EndMilliseconds>
+    <Text>Nàli yǒu sān ge [@zhàngpeng@].
+那里有三个[@帐篷@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66037</StartMilliseconds>
+    <EndMilliseconds>69803</EndMilliseconds>
+    <Text>Nàli yǒu sān ge zhàngpeng.
+那里有三个帐篷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>69804</StartMilliseconds>
+    <EndMilliseconds>71431</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>71432</StartMilliseconds>
+    <EndMilliseconds>72041</EndMilliseconds>
+    <Text>[@Wǒ@] zài nǎli?
+[@我@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>72042</StartMilliseconds>
+    <EndMilliseconds>72254</EndMilliseconds>
+    <Text>Wǒ [@zài@] nǎli?
+我[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>72255</StartMilliseconds>
+    <EndMilliseconds>73127</EndMilliseconds>
+    <Text>Wǒ zài [@nǎli@]?
+我在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73128</StartMilliseconds>
+    <EndMilliseconds>77962</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>77963</StartMilliseconds>
+    <EndMilliseconds>78944</EndMilliseconds>
+    <Text>Wǒ zài yí ge lùyíngdì.
+我在一个露营地。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>78945</StartMilliseconds>
+    <EndMilliseconds>79417</EndMilliseconds>
+    <Text>[@Wǒ@] zài yí ge lùyíngdì.
+[@我@]在一个露营地。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79418</StartMilliseconds>
+    <EndMilliseconds>79617</EndMilliseconds>
+    <Text>Wǒ [@zài@] yí ge lùyíngdì.
+我[@在@]一个露营地。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>79618</StartMilliseconds>
+    <EndMilliseconds>79884</EndMilliseconds>
+    <Text>Wǒ zài [@yí@] ge lùyíngdì.
+我在[@一@]个露营地。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>79885</StartMilliseconds>
+    <EndMilliseconds>80378</EndMilliseconds>
+    <Text>Wǒ zài yí [@ge@] lùyíngdì.
+我在一[@个@]露营地。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>80379</StartMilliseconds>
+    <EndMilliseconds>81713</EndMilliseconds>
+    <Text>Wǒ zài yí ge [@lùyíngdì@].
+我在一个[@露营地@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>81714</StartMilliseconds>
+    <EndMilliseconds>84925</EndMilliseconds>
+    <Text>Wǒ zài yí ge lùyíngdì.
+我在一个露营地。</Text>
+  </Paragraph>
+</Subtitle>

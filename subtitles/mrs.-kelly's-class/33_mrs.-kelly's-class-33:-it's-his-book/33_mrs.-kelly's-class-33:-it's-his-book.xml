@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12955</StartMilliseconds>
+    <EndMilliseconds>20248</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de mànhuà shū?
+图书馆员：这是谁的漫画书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>20249</StartMilliseconds>
+    <EndMilliseconds>20769</EndMilliseconds>
+    <Text>túshūguǎnyuán: [@Zhè@] shì shéi de mànhuà shū?
+图书馆员：[@这@]是谁的漫画书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>20770</StartMilliseconds>
+    <EndMilliseconds>21269</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè [@shì@] shéi de mànhuà shū?
+图书馆员：这[@是@]谁的漫画书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>21270</StartMilliseconds>
+    <EndMilliseconds>21709</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì [@shéi@] de mànhuà shū?
+图书馆员：这是[@谁@]的漫画书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>21710</StartMilliseconds>
+    <EndMilliseconds>21984</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi [@de@] mànhuà shū?
+图书馆员：这是谁[@的@]漫画书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>21985</StartMilliseconds>
+    <EndMilliseconds>22568</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de [@mànhuà@] shū?
+图书馆员：这是谁的[@漫画@]书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>22569</StartMilliseconds>
+    <EndMilliseconds>23176</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de mànhuà [@shū@]?
+图书馆员：这是谁的漫画[@书@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>23177</StartMilliseconds>
+    <EndMilliseconds>23658</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de mànhuà shū?
+图书馆员：这是谁的漫画书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23659</StartMilliseconds>
+    <EndMilliseconds>24201</EndMilliseconds>
+    <Text>Pítè: Zhè shì Shālì de mànhuà shū.
+皮特: 这是莎莉的漫画书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24202</StartMilliseconds>
+    <EndMilliseconds>24723</EndMilliseconds>
+    <Text>Pítè: [@Zhè@] shì Shālì de mànhuà shū.
+皮特: [@这@]是莎莉的漫画书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24724</StartMilliseconds>
+    <EndMilliseconds>25592</EndMilliseconds>
+    <Text>Pítè: Zhè [@shì@] Shālì de mànhuà shū.
+皮特: 这[@是@]莎莉的漫画书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>25593</StartMilliseconds>
+    <EndMilliseconds>26417</EndMilliseconds>
+    <Text>Pítè: Zhè shì [@Shālì@] de mànhuà shū.
+皮特: 这是[@莎莉@]的漫画书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>26418</StartMilliseconds>
+    <EndMilliseconds>26973</EndMilliseconds>
+    <Text>Pítè: Zhè shì Shālì [@de@] mànhuà shū.
+皮特: 这是莎莉[@的@]漫画书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>26974</StartMilliseconds>
+    <EndMilliseconds>27988</EndMilliseconds>
+    <Text>Pítè: Zhè shì Shālì de [@mànhuà@] shū.
+皮特: 这是莎莉的[@漫画@]书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27989</StartMilliseconds>
+    <EndMilliseconds>28785</EndMilliseconds>
+    <Text>Pítè: Zhè shì Shālì de mànhuà [@shū@].
+皮特: 这是莎莉的漫画[@书@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>28786</StartMilliseconds>
+    <EndMilliseconds>30919</EndMilliseconds>
+    <Text>Pítè: Zhè shì Shālì de mànhuà shū.
+皮特: 这是莎莉的漫画书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30920</StartMilliseconds>
+    <EndMilliseconds>33664</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de shū?
+图书馆员：这是谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>33665</StartMilliseconds>
+    <EndMilliseconds>34336</EndMilliseconds>
+    <Text>túshūguǎnyuán: [@Zhè@] shì shéi de shū?
+图书馆员：[@这@]是谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>34337</StartMilliseconds>
+    <EndMilliseconds>34867</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè [@shì@] shéi de shū?
+图书馆员：这[@是@]谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>34868</StartMilliseconds>
+    <EndMilliseconds>35307</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì [@shéi@] de shū?
+图书馆员：这是[@谁@]的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>35308</StartMilliseconds>
+    <EndMilliseconds>35513</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi [@de@] shū?
+图书馆员：这是谁[@的@]书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>35514</StartMilliseconds>
+    <EndMilliseconds>36158</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de [@shū@]?
+图书馆员：这是谁的[@书@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>36159</StartMilliseconds>
+    <EndMilliseconds>36658</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de shū?
+图书馆员：这是谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>36659</StartMilliseconds>
+    <EndMilliseconds>37301</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì tā de shū.
+敏宇: 这是他的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>37302</StartMilliseconds>
+    <EndMilliseconds>37791</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Zhè@] shì tā de shū.
+敏宇: [@这@]是他的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>37792</StartMilliseconds>
+    <EndMilliseconds>38491</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè [@shì@] tā de shū.
+敏宇: 这[@是@]他的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>38492</StartMilliseconds>
+    <EndMilliseconds>38992</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì [@tā@] de shū.
+敏宇: 这是[@他@]的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>38993</StartMilliseconds>
+    <EndMilliseconds>39316</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì tā [@de@] shū.
+敏宇: 这是他[@的@]书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>39317</StartMilliseconds>
+    <EndMilliseconds>39844</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì tā de [@shū@].
+敏宇: 这是他的[@书@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>39845</StartMilliseconds>
+    <EndMilliseconds>41746</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì tā de shū.
+敏宇: 这是他的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>41747</StartMilliseconds>
+    <EndMilliseconds>45721</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de shū?
+图书馆员：这是谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>45722</StartMilliseconds>
+    <EndMilliseconds>46350</EndMilliseconds>
+    <Text>túshūguǎnyuán: [@Zhè@] shì shéi de shū?
+图书馆员：[@这@]是谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>46351</StartMilliseconds>
+    <EndMilliseconds>46835</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè [@shì@] shéi de shū?
+图书馆员：这[@是@]谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>46836</StartMilliseconds>
+    <EndMilliseconds>47363</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì [@shéi@] de shū?
+图书馆员：这是[@谁@]的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>47364</StartMilliseconds>
+    <EndMilliseconds>47593</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi [@de@] shū?
+图书馆员：这是谁[@的@]书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>47594</StartMilliseconds>
+    <EndMilliseconds>48223</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de [@shū@]?
+图书馆员：这是谁的[@书@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>48224</StartMilliseconds>
+    <EndMilliseconds>48615</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì shéi de shū?
+图书馆员：这是谁的书？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>48616</StartMilliseconds>
+    <EndMilliseconds>49161</EndMilliseconds>
+    <Text>Shālì: Zhè shì Mǐnyǔ de shū.
+莎莉：这是敏宇的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>49162</StartMilliseconds>
+    <EndMilliseconds>49649</EndMilliseconds>
+    <Text>Shālì: [@Zhè@] shì Mǐnyǔ de shū.
+莎莉：[@这@]是敏宇的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>49650</StartMilliseconds>
+    <EndMilliseconds>50331</EndMilliseconds>
+    <Text>Shālì: Zhè [@shì@] Mǐnyǔ de shū.
+莎莉：这[@是@]敏宇的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>50332</StartMilliseconds>
+    <EndMilliseconds>51166</EndMilliseconds>
+    <Text>Shālì: Zhè shì [@Mǐnyǔ@] de shū.
+莎莉：这是[@敏宇@]的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>51167</StartMilliseconds>
+    <EndMilliseconds>51353</EndMilliseconds>
+    <Text>Shālì: Zhè shì Mǐnyǔ [@de@] shū.
+莎莉：这是敏宇[@的@]书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>51354</StartMilliseconds>
+    <EndMilliseconds>52060</EndMilliseconds>
+    <Text>Shālì: Zhè shì Mǐnyǔ de [@shū@].
+莎莉：这是敏宇的[@书@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>52061</StartMilliseconds>
+    <EndMilliseconds>54090</EndMilliseconds>
+    <Text>Shālì: Zhè shì Mǐnyǔ de shū.
+莎莉：这是敏宇的书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>54091</StartMilliseconds>
+    <EndMilliseconds>56100</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì shéi de diànnǎo yóuxì?
+敏宇: 这是谁的电脑游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>56101</StartMilliseconds>
+    <EndMilliseconds>56744</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Zhè@] shì shéi de diànnǎo yóuxì?
+敏宇: [@这@]是谁的电脑游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>56745</StartMilliseconds>
+    <EndMilliseconds>57389</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè [@shì@] shéi de diànnǎo yóuxì?
+敏宇: 这[@是@]谁的电脑游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>57390</StartMilliseconds>
+    <EndMilliseconds>58056</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì [@shéi@] de diànnǎo yóuxì?
+敏宇: 这是[@谁@]的电脑游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>58057</StartMilliseconds>
+    <EndMilliseconds>58356</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì shéi [@de@] diànnǎo yóuxì?
+敏宇: 这是谁[@的@]电脑游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>58357</StartMilliseconds>
+    <EndMilliseconds>59089</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì shéi de [@diànnǎo@] yóuxì?
+敏宇: 这是谁的[@电脑@]游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>59090</StartMilliseconds>
+    <EndMilliseconds>60022</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì shéi de diànnǎo [@yóuxì@]?
+敏宇: 这是谁的电脑[@游戏@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>60023</StartMilliseconds>
+    <EndMilliseconds>60390</EndMilliseconds>
+    <Text>Mǐnyǔ: Zhè shì shéi de diànnǎo yóuxì?
+敏宇: 这是谁的电脑游戏？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>60391</StartMilliseconds>
+    <EndMilliseconds>60709</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì wǒ de diànnǎo yóuxì!
+图书馆员：这是我的电脑游戏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>60710</StartMilliseconds>
+    <EndMilliseconds>61194</EndMilliseconds>
+    <Text>túshūguǎnyuán: [@Zhè@] shì wǒ de diànnǎo yóuxì!
+图书馆员：[@这@]是我的电脑游戏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>61195</StartMilliseconds>
+    <EndMilliseconds>61821</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè [@shì@] wǒ de diànnǎo yóuxì!
+图书馆员：这[@是@]我的电脑游戏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>61822</StartMilliseconds>
+    <EndMilliseconds>62453</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì [@wǒ@] de diànnǎo yóuxì!
+图书馆员：这是[@我@]的电脑游戏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>62454</StartMilliseconds>
+    <EndMilliseconds>62686</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì wǒ [@de@] diànnǎo yóuxì!
+图书馆员：这是我[@的@]电脑游戏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>62687</StartMilliseconds>
+    <EndMilliseconds>63299</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì wǒ de [@diànnǎo@] yóuxì!
+图书馆员：这是我的[@电脑@]游戏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>63300</StartMilliseconds>
+    <EndMilliseconds>64446</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì wǒ de diànnǎo [@yóuxì@]!
+图书馆员：这是我的电脑[@游戏@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>64447</StartMilliseconds>
+    <EndMilliseconds>67228</EndMilliseconds>
+    <Text>túshūguǎnyuán: Zhè shì wǒ de diànnǎo yóuxì!
+图书馆员：这是我的电脑游戏！</Text>
+  </Paragraph>
+</Subtitle>

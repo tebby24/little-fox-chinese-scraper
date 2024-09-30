@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6542</StartMilliseconds>
+    <EndMilliseconds>13312</EndMilliseconds>
+    <Text>我是矿工。
+Wǒ shì kuànggōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13312</StartMilliseconds>
+    <EndMilliseconds>13645</EndMilliseconds>
+    <Text>[@我@]是矿工。
+[@Wǒ@] shì kuànggōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13645</StartMilliseconds>
+    <EndMilliseconds>14038</EndMilliseconds>
+    <Text>我[@是@]矿工。
+Wǒ [@shì@] kuànggōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14038</StartMilliseconds>
+    <EndMilliseconds>14959</EndMilliseconds>
+    <Text>我是[@矿工@]。
+Wǒ shì [@kuànggōng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14959</StartMilliseconds>
+    <EndMilliseconds>16853</EndMilliseconds>
+    <Text>我是矿工。
+Wǒ shì kuànggōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16853</StartMilliseconds>
+    <EndMilliseconds>17159</EndMilliseconds>
+    <Text>我在找金子。
+Wǒ zài zhǎo jīnzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17159</StartMilliseconds>
+    <EndMilliseconds>17446</EndMilliseconds>
+    <Text>[@我@]在找金子。
+[@Wǒ@] zài zhǎo jīnzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17446</StartMilliseconds>
+    <EndMilliseconds>17887</EndMilliseconds>
+    <Text>我[@在@]找金子。
+Wǒ [@zài@] zhǎo jīnzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17887</StartMilliseconds>
+    <EndMilliseconds>18294</EndMilliseconds>
+    <Text>我在[@找@]金子。
+Wǒ zài [@zhǎo@] jīnzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>18294</StartMilliseconds>
+    <EndMilliseconds>19348</EndMilliseconds>
+    <Text>我在找[@金子@]。
+Wǒ zài zhǎo [@jīnzi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19348</StartMilliseconds>
+    <EndMilliseconds>24537</EndMilliseconds>
+    <Text>我在找金子。
+Wǒ zài zhǎo jīnzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24537</StartMilliseconds>
+    <EndMilliseconds>24967</EndMilliseconds>
+    <Text>我是骑士。
+Wǒ shì qíshì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24967</StartMilliseconds>
+    <EndMilliseconds>25298</EndMilliseconds>
+    <Text>[@我@]是骑士。
+[@Wǒ@] shì qíshì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25298</StartMilliseconds>
+    <EndMilliseconds>25553</EndMilliseconds>
+    <Text>我[@是@]骑士。
+Wǒ [@shì@] qíshì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25553</StartMilliseconds>
+    <EndMilliseconds>26685</EndMilliseconds>
+    <Text>我是[@骑士@]。
+Wǒ shì [@qíshì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>26685</StartMilliseconds>
+    <EndMilliseconds>26833</EndMilliseconds>
+    <Text>我是骑士。
+Wǒ shì qíshì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>26833</StartMilliseconds>
+    <EndMilliseconds>26932</EndMilliseconds>
+    <Text>我在保卫城堡。
+Wǒ zài bǎowèi chéngbǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>26932</StartMilliseconds>
+    <EndMilliseconds>27155</EndMilliseconds>
+    <Text>[@我@]在保卫城堡。
+[@Wǒ@] zài bǎowèi chéngbǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>27155</StartMilliseconds>
+    <EndMilliseconds>27538</EndMilliseconds>
+    <Text>我[@在@]保卫城堡。
+Wǒ [@zài@] bǎowèi chéngbǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>27538</StartMilliseconds>
+    <EndMilliseconds>28269</EndMilliseconds>
+    <Text>我在[@保卫@]城堡。
+Wǒ zài [@bǎowèi@] chéngbǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>28269</StartMilliseconds>
+    <EndMilliseconds>27031</EndMilliseconds>
+    <Text>我在保卫[@城堡@]。
+Wǒ zài bǎowèi [@chéngbǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27032</StartMilliseconds>
+    <EndMilliseconds>33427</EndMilliseconds>
+    <Text>我在保卫城堡。
+Wǒ zài bǎowèi chéngbǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>33427</StartMilliseconds>
+    <EndMilliseconds>33902</EndMilliseconds>
+    <Text>我是老师。
+Wǒ shì lǎoshī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>33902</StartMilliseconds>
+    <EndMilliseconds>34134</EndMilliseconds>
+    <Text>[@我@]是老师。
+[@Wǒ@] shì lǎoshī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>34134</StartMilliseconds>
+    <EndMilliseconds>34450</EndMilliseconds>
+    <Text>我[@是@]老师。
+Wǒ [@shì@] lǎoshī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>34450</StartMilliseconds>
+    <EndMilliseconds>35603</EndMilliseconds>
+    <Text>我是[@老师@]。
+Wǒ shì [@lǎoshī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>35603</StartMilliseconds>
+    <EndMilliseconds>35756</EndMilliseconds>
+    <Text>我是老师。
+Wǒ shì lǎoshī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>35756</StartMilliseconds>
+    <EndMilliseconds>35910</EndMilliseconds>
+    <Text>我在教学生。
+Wǒ zài jiāo xuésheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>35910</StartMilliseconds>
+    <EndMilliseconds>36189</EndMilliseconds>
+    <Text>[@我@]在教学生。
+[@Wǒ@] zài jiāo xuésheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>36189</StartMilliseconds>
+    <EndMilliseconds>36630</EndMilliseconds>
+    <Text>我[@在@]教学生。
+Wǒ [@zài@] jiāo xuésheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>36630</StartMilliseconds>
+    <EndMilliseconds>36979</EndMilliseconds>
+    <Text>我在[@教@]学生。
+Wǒ zài [@jiāo@] xuésheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36979</StartMilliseconds>
+    <EndMilliseconds>38322</EndMilliseconds>
+    <Text>我在教[@学生@]。
+Wǒ zài jiāo [@xuésheng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>38323</StartMilliseconds>
+    <EndMilliseconds>42141</EndMilliseconds>
+    <Text>我在教学生。
+Wǒ zài jiāo xuésheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>42141</StartMilliseconds>
+    <EndMilliseconds>42554</EndMilliseconds>
+    <Text>我是歌手。
+Wǒ shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>42554</StartMilliseconds>
+    <EndMilliseconds>42841</EndMilliseconds>
+    <Text>[@我@]是歌手。
+[@Wǒ@] shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>42842</StartMilliseconds>
+    <EndMilliseconds>43111</EndMilliseconds>
+    <Text>我[@是@]歌手。
+Wǒ [@shì@] gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>43111</StartMilliseconds>
+    <EndMilliseconds>44295</EndMilliseconds>
+    <Text>我是[@歌手@]。
+Wǒ shì [@gēshǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>44295</StartMilliseconds>
+    <EndMilliseconds>45492</EndMilliseconds>
+    <Text>我是歌手。
+Wǒ shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>45492</StartMilliseconds>
+    <EndMilliseconds>45858</EndMilliseconds>
+    <Text>我在舞台上唱歌。
+Wǒ zài wǔtái shàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>45858</StartMilliseconds>
+    <EndMilliseconds>46146</EndMilliseconds>
+    <Text>[@我@]在舞台上唱歌。
+[@Wǒ@] zài wǔtái shàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>46146</StartMilliseconds>
+    <EndMilliseconds>46516</EndMilliseconds>
+    <Text>我[@在@]舞台上唱歌。
+Wǒ [@zài@] wǔtái shàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>46517</StartMilliseconds>
+    <EndMilliseconds>47037</EndMilliseconds>
+    <Text>我在[@舞台@]上唱歌。
+Wǒ zài [@wǔtái@] shàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>47037</StartMilliseconds>
+    <EndMilliseconds>47499</EndMilliseconds>
+    <Text>我在舞台[@上@]唱歌。
+Wǒ zài wǔtái [@shàng@] chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>47499</StartMilliseconds>
+    <EndMilliseconds>47879</EndMilliseconds>
+    <Text>我在舞台上[@唱@]歌。
+Wǒ zài wǔtái shàng [@chàng@] gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>47879</StartMilliseconds>
+    <EndMilliseconds>48756</EndMilliseconds>
+    <Text>我在舞台上唱[@歌@]。
+Wǒ zài wǔtái shàng chàng [@gē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>48756</StartMilliseconds>
+    <EndMilliseconds>52451</EndMilliseconds>
+    <Text>我在舞台上唱歌。
+Wǒ zài wǔtái shàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>52451</StartMilliseconds>
+    <EndMilliseconds>52798</EndMilliseconds>
+    <Text>我是宇航员。
+Wǒ shì yǔhángyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>52798</StartMilliseconds>
+    <EndMilliseconds>53097</EndMilliseconds>
+    <Text>[@我@]是宇航员。
+[@Wǒ@] shì yǔhángyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>53097</StartMilliseconds>
+    <EndMilliseconds>53532</EndMilliseconds>
+    <Text>我[@是@]宇航员。
+Wǒ [@shì@] yǔhángyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>53532</StartMilliseconds>
+    <EndMilliseconds>54821</EndMilliseconds>
+    <Text>我是[@宇航员@]。
+Wǒ shì [@yǔhángyuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>54822</StartMilliseconds>
+    <EndMilliseconds>55002</EndMilliseconds>
+    <Text>我是宇航员。
+Wǒ shì yǔhángyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>55002</StartMilliseconds>
+    <EndMilliseconds>55241</EndMilliseconds>
+    <Text>我在太空飞行。
+Wǒ zài tàikōng fēixíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>55242</StartMilliseconds>
+    <EndMilliseconds>55542</EndMilliseconds>
+    <Text>[@我@]在太空飞行。
+[@Wǒ@] zài tàikōng fēixíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>55543</StartMilliseconds>
+    <EndMilliseconds>55935</EndMilliseconds>
+    <Text>我[@在@]太空飞行。
+Wǒ [@zài@] tàikōng fēixíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>55935</StartMilliseconds>
+    <EndMilliseconds>56693</EndMilliseconds>
+    <Text>我在[@太空@]飞行。
+Wǒ zài [@tàikōng@] fēixíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>56693</StartMilliseconds>
+    <EndMilliseconds>57837</EndMilliseconds>
+    <Text>我在太空[@飞行@]。
+Wǒ zài tàikōng [@fēixíng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>57838</StartMilliseconds>
+    <EndMilliseconds>63230</EndMilliseconds>
+    <Text>我在太空飞行。
+Wǒ zài tàikōng fēixíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>63230</StartMilliseconds>
+    <EndMilliseconds>63621</EndMilliseconds>
+    <Text>我是露营者。
+Wǒ shì lùyíngzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>63621</StartMilliseconds>
+    <EndMilliseconds>63873</EndMilliseconds>
+    <Text>[@我@]是露营者。
+[@Wǒ@] shì lùyíngzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>63873</StartMilliseconds>
+    <EndMilliseconds>64262</EndMilliseconds>
+    <Text>我[@是@]露营者。
+Wǒ [@shì@] lùyíngzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>64263</StartMilliseconds>
+    <EndMilliseconds>65760</EndMilliseconds>
+    <Text>我是[@露营者@]。
+Wǒ shì [@lùyíngzhě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>65760</StartMilliseconds>
+    <EndMilliseconds>67634</EndMilliseconds>
+    <Text>我是露营者。
+Wǒ shì lùyíngzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>67635</StartMilliseconds>
+    <EndMilliseconds>67820</EndMilliseconds>
+    <Text>我在帐篷里看书。
+Wǒ zài zhàngpeng li kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>67820</StartMilliseconds>
+    <EndMilliseconds>68055</EndMilliseconds>
+    <Text>[@我@]在帐篷里看书。
+[@Wǒ@] zài zhàngpeng li kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>68055</StartMilliseconds>
+    <EndMilliseconds>68432</EndMilliseconds>
+    <Text>我[@在@]帐篷里看书。
+Wǒ [@zài@] zhàngpeng li kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>68432</StartMilliseconds>
+    <EndMilliseconds>68956</EndMilliseconds>
+    <Text>我在[@帐篷@]里看书。
+Wǒ zài [@zhàngpeng@] li kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>68957</StartMilliseconds>
+    <EndMilliseconds>69417</EndMilliseconds>
+    <Text>我在帐篷[@里@]看书。
+Wǒ zài zhàngpeng [@li@] kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>69417</StartMilliseconds>
+    <EndMilliseconds>69701</EndMilliseconds>
+    <Text>我在帐篷里[@看@]书。
+Wǒ zài zhàngpeng li [@kàn@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>69701</StartMilliseconds>
+    <EndMilliseconds>70561</EndMilliseconds>
+    <Text>我在帐篷里看[@书@]。
+Wǒ zài zhàngpeng li kàn [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>70561</StartMilliseconds>
+    <EndMilliseconds>71011</EndMilliseconds>
+    <Text>我在帐篷里看书。
+Wǒ zài zhàngpeng li kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>71011</StartMilliseconds>
+    <EndMilliseconds>71287</EndMilliseconds>
+    <Text>我是小孩儿。
+Wǒ shì xiǎoháir.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>71287</StartMilliseconds>
+    <EndMilliseconds>71511</EndMilliseconds>
+    <Text>[@我@]是小孩儿。
+[@Wǒ@] shì xiǎoháir.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>71511</StartMilliseconds>
+    <EndMilliseconds>71761</EndMilliseconds>
+    <Text>我[@是@]小孩儿。
+Wǒ [@shì@] xiǎoháir.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>71761</StartMilliseconds>
+    <EndMilliseconds>72895</EndMilliseconds>
+    <Text>我是[@小孩儿@]。
+Wǒ shì [@xiǎoháir@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>72895</StartMilliseconds>
+    <EndMilliseconds>74859</EndMilliseconds>
+    <Text>我是小孩儿。
+Wǒ shì xiǎoháir.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>74859</StartMilliseconds>
+    <EndMilliseconds>75039</EndMilliseconds>
+    <Text>我在堡垒里玩儿。
+Wǒ zài bǎolěi li wánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>75039</StartMilliseconds>
+    <EndMilliseconds>75230</EndMilliseconds>
+    <Text>[@我@]在堡垒里玩儿。
+[@Wǒ@] zài bǎolěi li wánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>75230</StartMilliseconds>
+    <EndMilliseconds>75687</EndMilliseconds>
+    <Text>我[@在@]堡垒里玩儿。
+Wǒ [@zài@] bǎolěi li wánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>75688</StartMilliseconds>
+    <EndMilliseconds>76311</EndMilliseconds>
+    <Text>我在[@堡垒@]里玩儿。
+Wǒ zài [@bǎolěi@] li wánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>76312</StartMilliseconds>
+    <EndMilliseconds>76619</EndMilliseconds>
+    <Text>我在堡垒[@里@]玩儿。
+Wǒ zài bǎolěi [@li@] wánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>76619</StartMilliseconds>
+    <EndMilliseconds>77674</EndMilliseconds>
+    <Text>我在堡垒里[@玩儿@]。
+Wǒ zài bǎolěi li [@wánr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>77675</StartMilliseconds>
+    <EndMilliseconds>86254</EndMilliseconds>
+    <Text>我在堡垒里玩儿。
+Wǒ zài bǎolěi li wánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>86255</StartMilliseconds>
+    <EndMilliseconds>86533</EndMilliseconds>
+    <Text>哎呀！我都弄乱了！
+Āiyā! Wǒ dōu nòngluàn le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>86534</StartMilliseconds>
+    <EndMilliseconds>87238</EndMilliseconds>
+    <Text>[@哎呀@]！我都弄乱了！
+[@Āiyā@]! Wǒ dōu nòngluàn le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>87238</StartMilliseconds>
+    <EndMilliseconds>87475</EndMilliseconds>
+    <Text>哎呀！[@我@]都弄乱了！
+Āiyā! [@Wǒ@] dōu nòngluàn le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>87475</StartMilliseconds>
+    <EndMilliseconds>87660</EndMilliseconds>
+    <Text>哎呀！我[@都@]弄乱了！
+Āiyā! Wǒ [@dōu@] nòngluàn le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>87660</StartMilliseconds>
+    <EndMilliseconds>88220</EndMilliseconds>
+    <Text>哎呀！我都[@弄乱@]了！
+Āiyā! Wǒ dōu [@nòngluàn@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>88220</StartMilliseconds>
+    <EndMilliseconds>89068</EndMilliseconds>
+    <Text>哎呀！我都弄乱[@了@]！
+Āiyā! Wǒ dōu nòngluàn [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>89072</StartMilliseconds>
+    <EndMilliseconds>91528</EndMilliseconds>
+    <Text>哎呀！我都弄乱了！
+Āiyā! Wǒ dōu nòngluàn le!</Text>
+  </Paragraph>
+</Subtitle>

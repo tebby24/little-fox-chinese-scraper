@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6293</StartMilliseconds>
+    <EndMilliseconds>8224</EndMilliseconds>
+    <Text>棒球选手在赛场上穿球衣。
+Bàngqiú xuǎnshǒu zài sàichǎng shàng chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>8224</StartMilliseconds>
+    <EndMilliseconds>8937</EndMilliseconds>
+    <Text>[@棒球@]选手在赛场上穿球衣。
+[@Bàngqiú@] xuǎnshǒu zài sàichǎng shàng chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>8937</StartMilliseconds>
+    <EndMilliseconds>10073</EndMilliseconds>
+    <Text>棒球[@选手@]在赛场上穿球衣。
+Bàngqiú [@xuǎnshǒu@] zài sàichǎng shàng chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>10073</StartMilliseconds>
+    <EndMilliseconds>10517</EndMilliseconds>
+    <Text>棒球选手[@在@]赛场上穿球衣。
+Bàngqiú xuǎnshǒu [@zài@] sàichǎng shàng chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>10517</StartMilliseconds>
+    <EndMilliseconds>11337</EndMilliseconds>
+    <Text>棒球选手在[@赛场@]上穿球衣。
+Bàngqiú xuǎnshǒu zài [@sàichǎng@] shàng chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>11337</StartMilliseconds>
+    <EndMilliseconds>11975</EndMilliseconds>
+    <Text>棒球选手在赛场[@上@]穿球衣。
+Bàngqiú xuǎnshǒu zài sàichǎng [@shàng@] chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>11975</StartMilliseconds>
+    <EndMilliseconds>12370</EndMilliseconds>
+    <Text>棒球选手在赛场上[@穿@]球衣。
+Bàngqiú xuǎnshǒu zài sàichǎng shàng [@chuān@] qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>12370</StartMilliseconds>
+    <EndMilliseconds>13658</EndMilliseconds>
+    <Text>棒球选手在赛场上穿[@球衣@]。
+Bàngqiú xuǎnshǒu zài sàichǎng shàng chuān [@qiúyī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>13658</StartMilliseconds>
+    <EndMilliseconds>15591</EndMilliseconds>
+    <Text>棒球选手在赛场上穿球衣。
+Bàngqiú xuǎnshǒu zài sàichǎng shàng chuān qiúyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15591</StartMilliseconds>
+    <EndMilliseconds>17162</EndMilliseconds>
+    <Text>医生在医院里穿白大褂。
+Yīshēng zài yīyuàn li chuān bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17162</StartMilliseconds>
+    <EndMilliseconds>18100</EndMilliseconds>
+    <Text>[@医生@]在医院里穿白大褂。
+[@Yīshēng@] zài yīyuàn li chuān bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18100</StartMilliseconds>
+    <EndMilliseconds>18574</EndMilliseconds>
+    <Text>医生[@在@]医院里穿白大褂。
+Yīshēng [@zài@] yīyuàn li chuān bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18574</StartMilliseconds>
+    <EndMilliseconds>19241</EndMilliseconds>
+    <Text>医生在[@医院@]里穿白大褂。
+Yīshēng zài [@yīyuàn@] li chuān bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19241</StartMilliseconds>
+    <EndMilliseconds>19931</EndMilliseconds>
+    <Text>医生在医院[@里@]穿白大褂。
+Yīshēng zài yīyuàn [@li@] chuān bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19931</StartMilliseconds>
+    <EndMilliseconds>20582</EndMilliseconds>
+    <Text>医生在医院里[@穿@]白大褂。
+Yīshēng zài yīyuàn li [@chuān@] bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20582</StartMilliseconds>
+    <EndMilliseconds>20901</EndMilliseconds>
+    <Text>医生在医院里穿[@白@]大褂。
+Yīshēng zài yīyuàn li chuān [@bái@] dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20901</StartMilliseconds>
+    <EndMilliseconds>22370</EndMilliseconds>
+    <Text>医生在医院里穿白[@大褂@]。
+Yīshēng zài yīyuàn li chuān bái [@dàguà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>22370</StartMilliseconds>
+    <EndMilliseconds>24262</EndMilliseconds>
+    <Text>医生在医院里穿白大褂。
+Yīshēng zài yīyuàn li chuān bái dàguà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24262</StartMilliseconds>
+    <EndMilliseconds>26154</EndMilliseconds>
+    <Text>警察在街上穿制服。
+Jǐngchá zài jiēshang chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>26154</StartMilliseconds>
+    <EndMilliseconds>27350</EndMilliseconds>
+    <Text>[@警察@]在街上穿制服。
+[@Jǐngchá@] zài jiēshang chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>27350</StartMilliseconds>
+    <EndMilliseconds>27718</EndMilliseconds>
+    <Text>警察[@在@]街上穿制服。
+Jǐngchá [@zài@] jiēshang chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27718</StartMilliseconds>
+    <EndMilliseconds>28766</EndMilliseconds>
+    <Text>警察在[@街上@]穿制服。
+Jǐngchá zài [@jiēshang@] chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>28766</StartMilliseconds>
+    <EndMilliseconds>29238</EndMilliseconds>
+    <Text>警察在街上[@穿@]制服。
+Jǐngchá zài jiēshang [@chuān@] zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>29238</StartMilliseconds>
+    <EndMilliseconds>30864</EndMilliseconds>
+    <Text>警察在街上穿[@制服@]。
+Jǐngchá zài jiēshang chuān [@zhìfú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>30864</StartMilliseconds>
+    <EndMilliseconds>32261</EndMilliseconds>
+    <Text>警察在街上穿制服。
+Jǐngchá zài jiēshang chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>32261</StartMilliseconds>
+    <EndMilliseconds>34257</EndMilliseconds>
+    <Text>我们雨天穿雨衣。
+Wǒmen yǔtiān chuān yǔyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>34257</StartMilliseconds>
+    <EndMilliseconds>34994</EndMilliseconds>
+    <Text>[@我们@]雨天穿雨衣。
+[@Wǒmen@] yǔtiān chuān yǔyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>34994</StartMilliseconds>
+    <EndMilliseconds>35960</EndMilliseconds>
+    <Text>我们[@雨天@]穿雨衣。
+Wǒmen [@yǔtiān@] chuān yǔyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>35960</StartMilliseconds>
+    <EndMilliseconds>36477</EndMilliseconds>
+    <Text>我们雨天[@穿@]雨衣。
+Wǒmen yǔtiān [@chuān@] yǔyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>36477</StartMilliseconds>
+    <EndMilliseconds>37836</EndMilliseconds>
+    <Text>我们雨天穿[@雨衣@]。
+Wǒmen yǔtiān chuān [@yǔyī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>37836</StartMilliseconds>
+    <EndMilliseconds>39912</EndMilliseconds>
+    <Text>我们雨天穿雨衣。
+Wǒmen yǔtiān chuān yǔyī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>39912</StartMilliseconds>
+    <EndMilliseconds>42358</EndMilliseconds>
+    <Text>消防员在消防局里穿制服。
+Xiāofángyuán zài xiāofángjú li chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>42358</StartMilliseconds>
+    <EndMilliseconds>44013</EndMilliseconds>
+    <Text>[@消防员@]在消防局里穿制服。
+[@Xiāofángyuán@] zài xiāofángjú li chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>44013</StartMilliseconds>
+    <EndMilliseconds>44389</EndMilliseconds>
+    <Text>消防员[@在@]消防局里穿制服。
+Xiāofángyuán [@zài@] xiāofángjú li chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>44389</StartMilliseconds>
+    <EndMilliseconds>45456</EndMilliseconds>
+    <Text>消防员在[@消防局@]里穿制服。
+Xiāofángyuán zài [@xiāofángjú@] li chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>45456</StartMilliseconds>
+    <EndMilliseconds>46118</EndMilliseconds>
+    <Text>消防员在消防局[@里@]穿制服。
+Xiāofángyuán zài xiāofángjú [@li@] chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>46118</StartMilliseconds>
+    <EndMilliseconds>46524</EndMilliseconds>
+    <Text>消防员在消防局里[@穿@]制服。
+Xiāofángyuán zài xiāofángjú li [@chuān@] zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>46524</StartMilliseconds>
+    <EndMilliseconds>48052</EndMilliseconds>
+    <Text>消防员在消防局里穿[@制服@]。
+Xiāofángyuán zài xiāofángjú li chuān [@zhìfú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>48052</StartMilliseconds>
+    <EndMilliseconds>48926</EndMilliseconds>
+    <Text>消防员在消防局里穿制服。
+Xiāofángyuán zài xiāofángjú li chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>48926</StartMilliseconds>
+    <EndMilliseconds>50814</EndMilliseconds>
+    <Text>建筑工人在工地穿制服。
+Jiànzhù gōngrén zài gōngdì chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>50814</StartMilliseconds>
+    <EndMilliseconds>51598</EndMilliseconds>
+    <Text>[@建筑@]工人在工地穿制服。
+[@Jiànzhù@] gōngrén zài gōngdì chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>51598</StartMilliseconds>
+    <EndMilliseconds>52637</EndMilliseconds>
+    <Text>建筑[@工人@]在工地穿制服。
+Jiànzhù [@gōngrén@] zài gōngdì chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>52637</StartMilliseconds>
+    <EndMilliseconds>53151</EndMilliseconds>
+    <Text>建筑工人[@在@]工地穿制服。
+Jiànzhù gōngrén [@zài@] gōngdì chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>53151</StartMilliseconds>
+    <EndMilliseconds>54060</EndMilliseconds>
+    <Text>建筑工人在[@工地@]穿制服。
+Jiànzhù gōngrén zài [@gōngdì@] chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>54060</StartMilliseconds>
+    <EndMilliseconds>54432</EndMilliseconds>
+    <Text>建筑工人在工地[@穿@]制服。
+Jiànzhù gōngrén zài gōngdì [@chuān@] zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>54432</StartMilliseconds>
+    <EndMilliseconds>56127</EndMilliseconds>
+    <Text>建筑工人在工地穿[@制服@]。
+Jiànzhù gōngrén zài gōngdì chuān [@zhìfú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>56127</StartMilliseconds>
+    <EndMilliseconds>57585</EndMilliseconds>
+    <Text>建筑工人在工地穿制服。
+Jiànzhù gōngrén zài gōngdì chuān zhìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>57585</StartMilliseconds>
+    <EndMilliseconds>59275</EndMilliseconds>
+    <Text>我们冷天穿暖和的外套。
+Wǒmen lěngtiān chuān nuǎnhuo de wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>59275</StartMilliseconds>
+    <EndMilliseconds>60180</EndMilliseconds>
+    <Text>[@我们@]冷天穿暖和的外套。
+[@Wǒmen@] lěngtiān chuān nuǎnhuo de wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>60180</StartMilliseconds>
+    <EndMilliseconds>61198</EndMilliseconds>
+    <Text>我们[@冷天@]穿暖和的外套。
+Wǒmen [@lěngtiān@] chuān nuǎnhuo de wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>61198</StartMilliseconds>
+    <EndMilliseconds>61523</EndMilliseconds>
+    <Text>我们冷天[@穿@]暖和的外套。
+Wǒmen lěngtiān [@chuān@] nuǎnhuo de wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>61523</StartMilliseconds>
+    <EndMilliseconds>62320</EndMilliseconds>
+    <Text>我们冷天穿[@暖和@]的外套。
+Wǒmen lěngtiān chuān [@nuǎnhuo@] de wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>62320</StartMilliseconds>
+    <EndMilliseconds>62678</EndMilliseconds>
+    <Text>我们冷天穿暖和[@的@]外套。
+Wǒmen lěngtiān chuān nuǎnhuo [@de@] wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>62678</StartMilliseconds>
+    <EndMilliseconds>64393</EndMilliseconds>
+    <Text>我们冷天穿暖和的[@外套@]。
+Wǒmen lěngtiān chuān nuǎnhuo de [@wàitào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>64393</StartMilliseconds>
+    <EndMilliseconds>64912</EndMilliseconds>
+    <Text>我们冷天穿暖和的外套。
+Wǒmen lěngtiān chuān nuǎnhuo de wàitào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>64912</StartMilliseconds>
+    <EndMilliseconds>65164</EndMilliseconds>
+    <Text>爸爸在办公室里穿西服。
+Bàba zài bàngōngshì li chuān xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>65164</StartMilliseconds>
+    <EndMilliseconds>65912</EndMilliseconds>
+    <Text>[@爸爸@]在办公室里穿西服。
+[@Bàba@] zài bàngōngshì li chuān xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>65912</StartMilliseconds>
+    <EndMilliseconds>66531</EndMilliseconds>
+    <Text>爸爸[@在@]办公室里穿西服。
+Bàba [@zài@] bàngōngshì li chuān xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>66531</StartMilliseconds>
+    <EndMilliseconds>67506</EndMilliseconds>
+    <Text>爸爸在[@办公室@]里穿西服。
+Bàba zài [@bàngōngshì@] li chuān xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>67506</StartMilliseconds>
+    <EndMilliseconds>68113</EndMilliseconds>
+    <Text>爸爸在办公室[@里@]穿西服。
+Bàba zài bàngōngshì [@li@] chuān xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>68113</StartMilliseconds>
+    <EndMilliseconds>68551</EndMilliseconds>
+    <Text>爸爸在办公室里[@穿@]西服。
+Bàba zài bàngōngshì li [@chuān@] xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>68551</StartMilliseconds>
+    <EndMilliseconds>69574</EndMilliseconds>
+    <Text>爸爸在办公室里穿[@西服@]。
+Bàba zài bàngōngshì li chuān [@xīfú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>69574</StartMilliseconds>
+    <EndMilliseconds>69718</EndMilliseconds>
+    <Text>爸爸在办公室里穿西服。
+Bàba zài bàngōngshì li chuān xīfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>69718</StartMilliseconds>
+    <EndMilliseconds>69881</EndMilliseconds>
+    <Text>“欢迎回来，爸爸！” 
+"Huānyíng huílai, bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>69881</StartMilliseconds>
+    <EndMilliseconds>70409</EndMilliseconds>
+    <Text>“[@欢迎@]回来，爸爸！” 
+"[@Huānyíng@] huílai, bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>70409</StartMilliseconds>
+    <EndMilliseconds>71320</EndMilliseconds>
+    <Text>“欢迎[@回来@]，爸爸！” 
+"Huānyíng [@huílai@], bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>71320</StartMilliseconds>
+    <EndMilliseconds>72323</EndMilliseconds>
+    <Text>“欢迎回来，[@爸爸@]！” 
+"Huānyíng huílai, [@bàba@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>72323</StartMilliseconds>
+    <EndMilliseconds>74228</EndMilliseconds>
+    <Text>“欢迎回来，爸爸！” 
+"Huānyíng huílai, bàba!"</Text>
+  </Paragraph>
+</Subtitle>

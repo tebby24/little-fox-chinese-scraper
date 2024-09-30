@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>8845</StartMilliseconds>
+    <EndMilliseconds>12654</EndMilliseconds>
+    <Text>Nàli yǒu yì tiáo pǎodào.
+那里有一条跑道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12656</StartMilliseconds>
+    <EndMilliseconds>13671</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yì tiáo pǎodào.
+[@那里@]有一条跑道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13672</StartMilliseconds>
+    <EndMilliseconds>14007</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yì tiáo pǎodào.
+那里[@有@]一条跑道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14016</StartMilliseconds>
+    <EndMilliseconds>14304</EndMilliseconds>
+    <Text>Nàli yǒu [@yì@] tiáo pǎodào.
+那里有[@一@]条跑道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14305</StartMilliseconds>
+    <EndMilliseconds>14843</EndMilliseconds>
+    <Text>Nàli yǒu yì [@tiáo@] pǎodào.
+那里有一[@条@]跑道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14844</StartMilliseconds>
+    <EndMilliseconds>15748</EndMilliseconds>
+    <Text>Nàli yǒu yì tiáo [@pǎodào@].
+那里有一条[@跑道@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15749</StartMilliseconds>
+    <EndMilliseconds>21246</EndMilliseconds>
+    <Text>Nàli yǒu yì tiáo pǎodào.
+那里有一条跑道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21247</StartMilliseconds>
+    <EndMilliseconds>22845</EndMilliseconds>
+    <Text>Wǒ kàndào xiǎo fēijī.
+我看到小飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22846</StartMilliseconds>
+    <EndMilliseconds>23397</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào xiǎo fēijī.
+[@我@]看到小飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23398</StartMilliseconds>
+    <EndMilliseconds>24079</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] xiǎo fēijī.
+我[@看到@]小飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24080</StartMilliseconds>
+    <EndMilliseconds>24595</EndMilliseconds>
+    <Text>Wǒ kàndào [@xiǎo@] fēijī.
+我看到[@小@]飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24596</StartMilliseconds>
+    <EndMilliseconds>25518</EndMilliseconds>
+    <Text>Wǒ kàndào xiǎo [@fēijī@].
+我看到小[@飞机@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25519</StartMilliseconds>
+    <EndMilliseconds>29620</EndMilliseconds>
+    <Text>Wǒ kàndào xiǎo fēijī.
+我看到小飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>29621</StartMilliseconds>
+    <EndMilliseconds>31182</EndMilliseconds>
+    <Text>Nàli yǒu yì míng fēixíngyuán.
+那里有一名飞行员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>31183</StartMilliseconds>
+    <EndMilliseconds>32285</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yì míng fēixíngyuán.
+[@那里@]有一名飞行员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>32286</StartMilliseconds>
+    <EndMilliseconds>32577</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yì míng fēixíngyuán.
+那里[@有@]一名飞行员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32578</StartMilliseconds>
+    <EndMilliseconds>32767</EndMilliseconds>
+    <Text>Nàli yǒu [@yì@] míng fēixíngyuán.
+那里有[@一@]名飞行员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32768</StartMilliseconds>
+    <EndMilliseconds>33309</EndMilliseconds>
+    <Text>Nàli yǒu yì [@míng@] fēixíngyuán.
+那里有一[@名@]飞行员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>33310</StartMilliseconds>
+    <EndMilliseconds>34741</EndMilliseconds>
+    <Text>Nàli yǒu yì míng [@fēixíngyuán@].
+那里有一名[@飞行员@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>34742</StartMilliseconds>
+    <EndMilliseconds>37910</EndMilliseconds>
+    <Text>Nàli yǒu yì míng fēixíngyuán.
+那里有一名飞行员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>37911</StartMilliseconds>
+    <EndMilliseconds>39520</EndMilliseconds>
+    <Text>Wǒ kàndào yí zuò gāotǎ.
+我看到一座高塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>39521</StartMilliseconds>
+    <EndMilliseconds>40119</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yí zuò gāotǎ.
+[@我@]看到一座高塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>40120</StartMilliseconds>
+    <EndMilliseconds>40886</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yí zuò gāotǎ.
+我[@看到@]一座高塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40889</StartMilliseconds>
+    <EndMilliseconds>41127</EndMilliseconds>
+    <Text>Wǒ kàndào [@yí@] zuò gāotǎ.
+我看到[@一@]座高塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>41128</StartMilliseconds>
+    <EndMilliseconds>41493</EndMilliseconds>
+    <Text>Wǒ kàndào yí [@zuò@] gāotǎ.
+我看到一[@座@]高塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41494</StartMilliseconds>
+    <EndMilliseconds>42729</EndMilliseconds>
+    <Text>Wǒ kàndào yí zuò [@gāotǎ@].
+我看到一座[@高塔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>42730</StartMilliseconds>
+    <EndMilliseconds>46259</EndMilliseconds>
+    <Text>Wǒ kàndào yí zuò gāotǎ.
+我看到一座高塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>46260</StartMilliseconds>
+    <EndMilliseconds>47857</EndMilliseconds>
+    <Text>Nàli yǒu hěn duō fēijī.
+那里有很多飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>47858</StartMilliseconds>
+    <EndMilliseconds>48956</EndMilliseconds>
+    <Text>[@Nàli@] yǒu hěn duō fēijī.
+[@那里@]有很多飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>48957</StartMilliseconds>
+    <EndMilliseconds>49351</EndMilliseconds>
+    <Text>Nàli [@yǒu@] hěn duō fēijī.
+那里[@有@]很多飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49352</StartMilliseconds>
+    <EndMilliseconds>49928</EndMilliseconds>
+    <Text>Nàli yǒu [@hěn@] duō fēijī.
+那里有[@很@]多飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49929</StartMilliseconds>
+    <EndMilliseconds>50258</EndMilliseconds>
+    <Text>Nàli yǒu hěn [@duō@] fēijī.
+那里有很[@多@]飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>50259</StartMilliseconds>
+    <EndMilliseconds>51180</EndMilliseconds>
+    <Text>Nàli yǒu hěn duō [@fēijī@].
+那里有很多[@飞机@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>51181</StartMilliseconds>
+    <EndMilliseconds>54571</EndMilliseconds>
+    <Text>Nàli yǒu hěn duō fēijī.
+那里有很多飞机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54572</StartMilliseconds>
+    <EndMilliseconds>56169</EndMilliseconds>
+    <Text>Wǒ kàndào chéngkè.
+我看到乘客。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>56170</StartMilliseconds>
+    <EndMilliseconds>56778</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào chéngkè.
+[@我@]看到乘客。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>56779</StartMilliseconds>
+    <EndMilliseconds>57486</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] chéngkè.
+我[@看到@]乘客。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57487</StartMilliseconds>
+    <EndMilliseconds>58532</EndMilliseconds>
+    <Text>Wǒ kàndào [@chéngkè@].
+我看到[@乘客@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>58533</StartMilliseconds>
+    <EndMilliseconds>62876</EndMilliseconds>
+    <Text>Wǒ kàndào chéngkè.
+我看到乘客。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>62877</StartMilliseconds>
+    <EndMilliseconds>64453</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē xíngli.
+那里有一些行李。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>64454</StartMilliseconds>
+    <EndMilliseconds>65597</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yìxiē xíngli.
+[@那里@]有一些行李。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>65598</StartMilliseconds>
+    <EndMilliseconds>65908</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yìxiē xíngli.
+那里[@有@]一些行李。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>65909</StartMilliseconds>
+    <EndMilliseconds>66436</EndMilliseconds>
+    <Text>Nàli yǒu [@yìxiē@] xíngli.
+那里有[@一些@]行李。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>66437</StartMilliseconds>
+    <EndMilliseconds>67413</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē [@xíngli@].
+那里有一些[@行李@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>67414</StartMilliseconds>
+    <EndMilliseconds>71219</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē xíngli.
+那里有一些行李。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>71220</StartMilliseconds>
+    <EndMilliseconds>72656</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>72657</StartMilliseconds>
+    <EndMilliseconds>73274</EndMilliseconds>
+    <Text>[@Wǒ@] zài nǎli?
+[@我@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>73275</StartMilliseconds>
+    <EndMilliseconds>73484</EndMilliseconds>
+    <Text>Wǒ [@zài@] nǎli?
+我[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>73485</StartMilliseconds>
+    <EndMilliseconds>74388</EndMilliseconds>
+    <Text>Wǒ zài [@nǎli@]?
+我在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>74389</StartMilliseconds>
+    <EndMilliseconds>79249</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>79250</StartMilliseconds>
+    <EndMilliseconds>79782</EndMilliseconds>
+    <Text>Wǒ zài jīchǎng.
+我在机场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>79783</StartMilliseconds>
+    <EndMilliseconds>80297</EndMilliseconds>
+    <Text>[@Wǒ@] zài jīchǎng.
+[@我@]在机场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>80298</StartMilliseconds>
+    <EndMilliseconds>80610</EndMilliseconds>
+    <Text>Wǒ [@zài@] jīchǎng.
+我[@在@]机场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>80611</StartMilliseconds>
+    <EndMilliseconds>81883</EndMilliseconds>
+    <Text>Wǒ zài [@jīchǎng@].
+我在[@机场@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>81884</StartMilliseconds>
+    <EndMilliseconds>87898</EndMilliseconds>
+    <Text>Wǒ zài jīchǎng.
+我在机场。</Text>
+  </Paragraph>
+</Subtitle>

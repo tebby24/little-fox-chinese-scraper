@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9659</StartMilliseconds>
+    <EndMilliseconds>13840</EndMilliseconds>
+    <Text>奥蒂斯：你们好啊，朋友们！
+Àodìsī: Nǐmen hǎo a, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13842</StartMilliseconds>
+    <EndMilliseconds>14110</EndMilliseconds>
+    <Text>奥蒂斯：[@你们@]好啊，朋友们！
+Àodìsī: [@Nǐmen@] hǎo a, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14111</StartMilliseconds>
+    <EndMilliseconds>14354</EndMilliseconds>
+    <Text>奥蒂斯：你们[@好@]啊，朋友们！
+Àodìsī: Nǐmen [@hǎo@] a, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14355</StartMilliseconds>
+    <EndMilliseconds>14597</EndMilliseconds>
+    <Text>奥蒂斯：你们好[@啊@]，朋友们！
+Àodìsī: Nǐmen hǎo [@a@], péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14598</StartMilliseconds>
+    <EndMilliseconds>14819</EndMilliseconds>
+    <Text>奥蒂斯：你们好啊，朋友们！
+Àodìsī: Nǐmen hǎo a, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14820</StartMilliseconds>
+    <EndMilliseconds>15587</EndMilliseconds>
+    <Text>奥蒂斯：你们好啊，[@朋友们@]！
+Àodìsī: Nǐmen hǎo a, [@péngyǒumen@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15588</StartMilliseconds>
+    <EndMilliseconds>15802</EndMilliseconds>
+    <Text>奥蒂斯：你们好啊，朋友们！
+Àodìsī: Nǐmen hǎo a, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15803</StartMilliseconds>
+    <EndMilliseconds>16056</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是我的朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16057</StartMilliseconds>
+    <EndMilliseconds>16225</EndMilliseconds>
+    <Text>奥蒂斯：[@我@]是奥蒂斯，这是我的朋友奥利弗。
+Àodìsī: [@Wǒ@] shì Àodìsī, zhè shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16226</StartMilliseconds>
+    <EndMilliseconds>16376</EndMilliseconds>
+    <Text>奥蒂斯：我[@是@]奥蒂斯，这是我的朋友奥利弗。
+Àodìsī: Wǒ [@shì@] Àodìsī, zhè shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16377</StartMilliseconds>
+    <EndMilliseconds>17151</EndMilliseconds>
+    <Text>奥蒂斯：我是[@奥蒂斯@]，这是我的朋友奥利弗。
+Àodìsī: Wǒ shì [@Àodìsī@], zhè shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17152</StartMilliseconds>
+    <EndMilliseconds>17460</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是我的朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17461</StartMilliseconds>
+    <EndMilliseconds>17600</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，[@这@]是我的朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, [@zhè@] shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>17601</StartMilliseconds>
+    <EndMilliseconds>17734</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这[@是@]我的朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè [@shì@] wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>17735</StartMilliseconds>
+    <EndMilliseconds>17886</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是[@我@]的朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè shì [@wǒ@] de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>17887</StartMilliseconds>
+    <EndMilliseconds>18026</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是我[@的@]朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè shì wǒ [@de@] péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>18027</StartMilliseconds>
+    <EndMilliseconds>18715</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是我的[@朋友@]奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè shì wǒ de [@péngyou@] Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>18716</StartMilliseconds>
+    <EndMilliseconds>19466</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是我的朋友[@奥利弗@]。
+Àodìsī: Wǒ shì Àodìsī, zhè shì wǒ de péngyou [@Àolìfú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>19467</StartMilliseconds>
+    <EndMilliseconds>19911</EndMilliseconds>
+    <Text>奥蒂斯：我是奥蒂斯，这是我的朋友奥利弗。
+Àodìsī: Wǒ shì Àodìsī, zhè shì wǒ de péngyou Àolìfú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>19913</StartMilliseconds>
+    <EndMilliseconds>20174</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，这是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>20175</StartMilliseconds>
+    <EndMilliseconds>20489</EndMilliseconds>
+    <Text>塔克：[@你们@]好！我是塔克，这是马克西。
+Tǎkè: [@Nǐmen@] hǎo! Wǒ shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>20490</StartMilliseconds>
+    <EndMilliseconds>20884</EndMilliseconds>
+    <Text>塔克：你们[@好@]！我是塔克，这是马克西。
+Tǎkè: Nǐmen [@hǎo@]! Wǒ shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>20885</StartMilliseconds>
+    <EndMilliseconds>21141</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，这是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>21142</StartMilliseconds>
+    <EndMilliseconds>21329</EndMilliseconds>
+    <Text>塔克：你们好！[@我@]是塔克，这是马克西。
+Tǎkè: Nǐmen hǎo! [@Wǒ@] shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>21330</StartMilliseconds>
+    <EndMilliseconds>21510</EndMilliseconds>
+    <Text>塔克：你们好！我[@是@]塔克，这是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ [@shì@] Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>21511</StartMilliseconds>
+    <EndMilliseconds>22118</EndMilliseconds>
+    <Text>塔克：你们好！我是[@塔克@]，这是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì [@Tǎkè@], zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>22119</StartMilliseconds>
+    <EndMilliseconds>22350</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，这是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>22351</StartMilliseconds>
+    <EndMilliseconds>22522</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，[@这@]是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, [@zhè@] shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>22523</StartMilliseconds>
+    <EndMilliseconds>22657</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，这[@是@]马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, zhè [@shì@] Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>22658</StartMilliseconds>
+    <EndMilliseconds>23634</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，这是[@马克西@]。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, zhè shì [@Mǎkèxī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>23635</StartMilliseconds>
+    <EndMilliseconds>24761</EndMilliseconds>
+    <Text>塔克：你们好！我是塔克，这是马克西。
+Tǎkè: Nǐmen hǎo! Wǒ shì Tǎkè, zhè shì Mǎkèxī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>24762</StartMilliseconds>
+    <EndMilliseconds>25148</EndMilliseconds>
+    <Text>奥蒂斯：你什么时候吃午餐？
+Àodìsī: Nǐ shénme shíhou chī wǔcān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>25149</StartMilliseconds>
+    <EndMilliseconds>25329</EndMilliseconds>
+    <Text>奥蒂斯：[@你@]什么时候吃午餐？
+Àodìsī: [@Nǐ@] shénme shíhou chī wǔcān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>25330</StartMilliseconds>
+    <EndMilliseconds>25679</EndMilliseconds>
+    <Text>奥蒂斯：你[@什么@]时候吃午餐？
+Àodìsī: Nǐ [@shénme@] shíhou chī wǔcān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>25680</StartMilliseconds>
+    <EndMilliseconds>26043</EndMilliseconds>
+    <Text>奥蒂斯：你什么[@时候@]吃午餐？
+Àodìsī: Nǐ shénme [@shíhou@] chī wǔcān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>26044</StartMilliseconds>
+    <EndMilliseconds>26253</EndMilliseconds>
+    <Text>奥蒂斯：你什么时候[@吃@]午餐？
+Àodìsī: Nǐ shénme shíhou [@chī@] wǔcān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>26254</StartMilliseconds>
+    <EndMilliseconds>26834</EndMilliseconds>
+    <Text>奥蒂斯：你什么时候吃[@午餐@]？
+Àodìsī: Nǐ shénme shíhou chī [@wǔcān@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>26835</StartMilliseconds>
+    <EndMilliseconds>27488</EndMilliseconds>
+    <Text>奥蒂斯：你什么时候吃午餐？
+Àodìsī: Nǐ shénme shíhou chī wǔcān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>27489</StartMilliseconds>
+    <EndMilliseconds>27845</EndMilliseconds>
+    <Text>塔克：我十二点半吃午餐。
+Tǎkè: Wǒ shí'èr diǎn bàn chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>27846</StartMilliseconds>
+    <EndMilliseconds>27984</EndMilliseconds>
+    <Text>塔克：[@我@]十二点半吃午餐。
+Tǎkè: [@Wǒ@] shí'èr diǎn bàn chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>27985</StartMilliseconds>
+    <EndMilliseconds>28407</EndMilliseconds>
+    <Text>塔克：我[@十二@]点半吃午餐。
+Tǎkè: Wǒ [@shí'èr@] diǎn bàn chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>28408</StartMilliseconds>
+    <EndMilliseconds>28729</EndMilliseconds>
+    <Text>塔克：我十二[@点@]半吃午餐。
+Tǎkè: Wǒ shí'èr [@diǎn@] bàn chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>28730</StartMilliseconds>
+    <EndMilliseconds>29034</EndMilliseconds>
+    <Text>塔克：我十二点[@半@]吃午餐。
+Tǎkè: Wǒ shí'èr diǎn [@bàn@] chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>29035</StartMilliseconds>
+    <EndMilliseconds>29291</EndMilliseconds>
+    <Text>塔克：我十二点半[@吃@]午餐。
+Tǎkè: Wǒ shí'èr diǎn bàn [@chī@] wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>29292</StartMilliseconds>
+    <EndMilliseconds>29839</EndMilliseconds>
+    <Text>塔克：我十二点半吃[@午餐@]。
+Tǎkè: Wǒ shí'èr diǎn bàn chī [@wǔcān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>29840</StartMilliseconds>
+    <EndMilliseconds>30229</EndMilliseconds>
+    <Text>塔克：我十二点半吃午餐。
+Tǎkè: Wǒ shí'èr diǎn bàn chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>30230</StartMilliseconds>
+    <EndMilliseconds>30463</EndMilliseconds>
+    <Text>塔克：现在几点了？
+Tǎkè: Xiànzài jǐ diǎn le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>30464</StartMilliseconds>
+    <EndMilliseconds>31088</EndMilliseconds>
+    <Text>塔克：[@现在@]几点了？
+Tǎkè: [@Xiànzài@] jǐ diǎn le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>31089</StartMilliseconds>
+    <EndMilliseconds>31232</EndMilliseconds>
+    <Text>塔克：现在[@几@]点了？
+Tǎkè: Xiànzài [@jǐ@] diǎn le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>31233</StartMilliseconds>
+    <EndMilliseconds>31563</EndMilliseconds>
+    <Text>塔克：现在几[@点@]了？
+Tǎkè: Xiànzài jǐ [@diǎn@] le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>31564</StartMilliseconds>
+    <EndMilliseconds>31834</EndMilliseconds>
+    <Text>塔克：现在几点[@了@]？
+Tǎkè: Xiànzài jǐ diǎn [@le@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>31835</StartMilliseconds>
+    <EndMilliseconds>34831</EndMilliseconds>
+    <Text>塔克：现在几点了？
+Tǎkè: Xiànzài jǐ diǎn le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>34832</StartMilliseconds>
+    <EndMilliseconds>35305</EndMilliseconds>
+    <Text>奥蒂斯：到了吃午餐的时间了。
+Àodìsī: Dào le chī wǔcān de shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>35306</StartMilliseconds>
+    <EndMilliseconds>35493</EndMilliseconds>
+    <Text>奥蒂斯：[@到@]了吃午餐的时间了。
+Àodìsī: [@Dào@] le chī wǔcān de shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>35494</StartMilliseconds>
+    <EndMilliseconds>35639</EndMilliseconds>
+    <Text>奥蒂斯：到[@了@]吃午餐的时间了。
+Àodìsī: Dào [@le@] chī wǔcān de shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>35640</StartMilliseconds>
+    <EndMilliseconds>35869</EndMilliseconds>
+    <Text>奥蒂斯：到了[@吃@]午餐的时间了。
+Àodìsī: Dào le [@chī@] wǔcān de shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>35870</StartMilliseconds>
+    <EndMilliseconds>36291</EndMilliseconds>
+    <Text>奥蒂斯：到了吃[@午餐@]的时间了。
+Àodìsī: Dào le chī [@wǔcān@] de shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>36292</StartMilliseconds>
+    <EndMilliseconds>36420</EndMilliseconds>
+    <Text>奥蒂斯：到了吃午餐[@的@]时间了。
+Àodìsī: Dào le chī wǔcān [@de@] shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>36421</StartMilliseconds>
+    <EndMilliseconds>36944</EndMilliseconds>
+    <Text>奥蒂斯：到了吃午餐的[@时间@]了。
+Àodìsī: Dào le chī wǔcān de [@shíjiān@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>36945</StartMilliseconds>
+    <EndMilliseconds>37246</EndMilliseconds>
+    <Text>奥蒂斯：到了吃午餐的时间[@了@]。
+Àodìsī: Dào le chī wǔcān de shíjiān [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>37247</StartMilliseconds>
+    <EndMilliseconds>38282</EndMilliseconds>
+    <Text>奥蒂斯：到了吃午餐的时间了。
+Àodìsī: Dào le chī wǔcān de shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>38283</StartMilliseconds>
+    <EndMilliseconds>38708</EndMilliseconds>
+    <Text>奥利弗：我们一起吃午餐吧。
+Àolìfú: Wǒmen yìqǐ chī wǔcān ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>38709</StartMilliseconds>
+    <EndMilliseconds>39138</EndMilliseconds>
+    <Text>奥利弗：[@我们@]一起吃午餐吧。
+Àolìfú: [@Wǒmen@] yìqǐ chī wǔcān ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>39139</StartMilliseconds>
+    <EndMilliseconds>39527</EndMilliseconds>
+    <Text>奥利弗：我们[@一起@]吃午餐吧。
+Àolìfú: Wǒmen [@yìqǐ@] chī wǔcān ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>39528</StartMilliseconds>
+    <EndMilliseconds>39754</EndMilliseconds>
+    <Text>奥利弗：我们一起[@吃@]午餐吧。
+Àolìfú: Wǒmen yìqǐ [@chī@] wǔcān ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>39755</StartMilliseconds>
+    <EndMilliseconds>40422</EndMilliseconds>
+    <Text>奥利弗：我们一起吃[@午餐@]吧。
+Àolìfú: Wǒmen yìqǐ chī [@wǔcān@] ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>40423</StartMilliseconds>
+    <EndMilliseconds>40797</EndMilliseconds>
+    <Text>奥利弗：我们一起吃午餐[@吧@]。
+Àolìfú: Wǒmen yìqǐ chī wǔcān [@ba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>40798</StartMilliseconds>
+    <EndMilliseconds>41312</EndMilliseconds>
+    <Text>奥利弗：我们一起吃午餐吧。
+Àolìfú: Wǒmen yìqǐ chī wǔcān ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>41313</StartMilliseconds>
+    <EndMilliseconds>41515</EndMilliseconds>
+    <Text>塔克：谢谢。
+Tǎkè: Xièxie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>41516</StartMilliseconds>
+    <EndMilliseconds>42485</EndMilliseconds>
+    <Text>塔克：[@谢谢@]。
+Tǎkè: [@Xièxie@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>42486</StartMilliseconds>
+    <EndMilliseconds>44108</EndMilliseconds>
+    <Text>塔克：谢谢。
+Tǎkè: Xièxie.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>44109</StartMilliseconds>
+    <EndMilliseconds>44613</EndMilliseconds>
+    <Text>马克西：我们不能在这里吃午餐！
+Mǎkèxī: Wǒmen bù néng zài zhèli chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>44614</StartMilliseconds>
+    <EndMilliseconds>44989</EndMilliseconds>
+    <Text>马克西：[@我们@]不能在这里吃午餐！
+Mǎkèxī: [@Wǒmen@] bù néng zài zhèli chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>44990</StartMilliseconds>
+    <EndMilliseconds>45148</EndMilliseconds>
+    <Text>马克西：我们[@不@]能在这里吃午餐！
+Mǎkèxī: Wǒmen [@bù@] néng zài zhèli chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>45149</StartMilliseconds>
+    <EndMilliseconds>45383</EndMilliseconds>
+    <Text>马克西：我们不[@能@]在这里吃午餐！
+Mǎkèxī: Wǒmen bù [@néng@] zài zhèli chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>45384</StartMilliseconds>
+    <EndMilliseconds>45583</EndMilliseconds>
+    <Text>马克西：我们不能[@在@]这里吃午餐！
+Mǎkèxī: Wǒmen bù néng [@zài@] zhèli chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>45584</StartMilliseconds>
+    <EndMilliseconds>45907</EndMilliseconds>
+    <Text>马克西：我们不能在[@这里@]吃午餐！
+Mǎkèxī: Wǒmen bù néng zài [@zhèli@] chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>45908</StartMilliseconds>
+    <EndMilliseconds>46183</EndMilliseconds>
+    <Text>马克西：我们不能在这里[@吃@]午餐！
+Mǎkèxī: Wǒmen bù néng zài zhèli [@chī@] wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>46184</StartMilliseconds>
+    <EndMilliseconds>46679</EndMilliseconds>
+    <Text>马克西：我们不能在这里吃[@午餐@]！
+Mǎkèxī: Wǒmen bù néng zài zhèli chī [@wǔcān@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>46680</StartMilliseconds>
+    <EndMilliseconds>46834</EndMilliseconds>
+    <Text>马克西：我们不能在这里吃午餐！
+Mǎkèxī: Wǒmen bù néng zài zhèli chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>46835</StartMilliseconds>
+    <EndMilliseconds>47033</EndMilliseconds>
+    <Text>马克西：他们是臭鼬！
+Mǎkèxī: Tāmen shì chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>47034</StartMilliseconds>
+    <EndMilliseconds>47421</EndMilliseconds>
+    <Text>马克西：[@他们@]是臭鼬！
+Mǎkèxī: [@Tāmen@] shì chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>47422</StartMilliseconds>
+    <EndMilliseconds>47633</EndMilliseconds>
+    <Text>马克西：他们[@是@]臭鼬！
+Mǎkèxī: Tāmen [@shì@] chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>47634</StartMilliseconds>
+    <EndMilliseconds>48476</EndMilliseconds>
+    <Text>马克西：他们是[@臭鼬@]！
+Mǎkèxī: Tāmen shì [@chòuyòu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>48477</StartMilliseconds>
+    <EndMilliseconds>48896</EndMilliseconds>
+    <Text>马克西：他们是臭鼬！
+Mǎkèxī: Tāmen shì chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>48897</StartMilliseconds>
+    <EndMilliseconds>49184</EndMilliseconds>
+    <Text>塔克：那又怎么样？
+Tǎkè: Nà yòu zěnmeyàng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>49185</StartMilliseconds>
+    <EndMilliseconds>49489</EndMilliseconds>
+    <Text>塔克：[@那@]又怎么样？
+Tǎkè: [@Nà@] yòu zěnmeyàng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>49490</StartMilliseconds>
+    <EndMilliseconds>49714</EndMilliseconds>
+    <Text>塔克：那[@又@]怎么样？
+Tǎkè: Nà [@yòu@] zěnmeyàng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>49715</StartMilliseconds>
+    <EndMilliseconds>50321</EndMilliseconds>
+    <Text>塔克：那又[@怎么样@]？
+Tǎkè: Nà yòu [@zěnmeyàng@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>50322</StartMilliseconds>
+    <EndMilliseconds>50460</EndMilliseconds>
+    <Text>塔克：那又怎么样？
+Tǎkè: Nà yòu zěnmeyàng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>50461</StartMilliseconds>
+    <EndMilliseconds>50599</EndMilliseconds>
+    <Text>塔克：他们是善良的臭鼬！
+Tǎkè: Tāmen shì shànliáng de chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>50600</StartMilliseconds>
+    <EndMilliseconds>50933</EndMilliseconds>
+    <Text>塔克：[@他们@]是善良的臭鼬！
+Tǎkè: [@Tāmen@] shì shànliáng de chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>50934</StartMilliseconds>
+    <EndMilliseconds>51130</EndMilliseconds>
+    <Text>塔克：他们[@是@]善良的臭鼬！
+Tǎkè: Tāmen [@shì@] shànliáng de chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>51131</StartMilliseconds>
+    <EndMilliseconds>51677</EndMilliseconds>
+    <Text>塔克：他们是[@善良@]的臭鼬！
+Tǎkè: Tāmen shì [@shànliáng@] de chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>51678</StartMilliseconds>
+    <EndMilliseconds>51861</EndMilliseconds>
+    <Text>塔克：他们是善良[@的@]臭鼬！
+Tǎkè: Tāmen shì shànliáng [@de@] chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>51862</StartMilliseconds>
+    <EndMilliseconds>52609</EndMilliseconds>
+    <Text>塔克：他们是善良的[@臭鼬@]！
+Tǎkè: Tāmen shì shànliáng de [@chòuyòu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>52610</StartMilliseconds>
+    <EndMilliseconds>54046</EndMilliseconds>
+    <Text>塔克：他们是善良的臭鼬！
+Tǎkè: Tāmen shì shànliáng de chòuyòu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>54050</StartMilliseconds>
+    <EndMilliseconds>54844</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>54845</StartMilliseconds>
+    <EndMilliseconds>55638</EndMilliseconds>
+    <Text>马克西：[@呃@]！我不喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: [@Ē@]! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>55639</StartMilliseconds>
+    <EndMilliseconds>56086</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>56087</StartMilliseconds>
+    <EndMilliseconds>56301</EndMilliseconds>
+    <Text>马克西：呃！[@我@]不喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! [@Wǒ@] bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>56302</StartMilliseconds>
+    <EndMilliseconds>56484</EndMilliseconds>
+    <Text>马克西：呃！我[@不@]喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ [@bù@] xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>56485</StartMilliseconds>
+    <EndMilliseconds>56916</EndMilliseconds>
+    <Text>马克西：呃！我不[@喜欢@]臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù [@xǐhuan@] chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>56917</StartMilliseconds>
+    <EndMilliseconds>57494</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢[@臭鼬@]，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan [@chòuyòu@], yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>57495</StartMilliseconds>
+    <EndMilliseconds>57832</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>57833</StartMilliseconds>
+    <EndMilliseconds>58129</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，[@因为@]他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, [@yīnwèi@] tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>58130</StartMilliseconds>
+    <EndMilliseconds>58456</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为[@他们@]闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi [@tāmen@] wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>58457</StartMilliseconds>
+    <EndMilliseconds>58671</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们[@闻@]起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen [@wén@] qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>58672</StartMilliseconds>
+    <EndMilliseconds>59022</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻[@起来@]很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén [@qǐlai@] hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>59023</StartMilliseconds>
+    <EndMilliseconds>59412</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻起来[@很@]臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai [@hěn@] chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>59413</StartMilliseconds>
+    <EndMilliseconds>59931</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻起来很[@臭@]。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn [@chòu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>59932</StartMilliseconds>
+    <EndMilliseconds>60908</EndMilliseconds>
+    <Text>马克西：呃！我不喜欢臭鼬，因为他们闻起来很臭。
+Mǎkèxī: Ē! Wǒ bù xǐhuan chòuyòu, yīnwèi tāmen wén qǐlai hěn chòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>60909</StartMilliseconds>
+    <EndMilliseconds>61311</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>61312</StartMilliseconds>
+    <EndMilliseconds>61719</EndMilliseconds>
+    <Text>塔克：[@真@]香！我喜欢臭鼬，因为他们会做饭。
+Tǎkè: [@Zhēn@] xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>61720</StartMilliseconds>
+    <EndMilliseconds>62154</EndMilliseconds>
+    <Text>塔克：真[@香@]！我喜欢臭鼬，因为他们会做饭。
+Tǎkè: Zhēn [@xiāng@]! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>62155</StartMilliseconds>
+    <EndMilliseconds>62445</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>62446</StartMilliseconds>
+    <EndMilliseconds>62572</EndMilliseconds>
+    <Text>塔克：真香！[@我@]喜欢臭鼬，因为他们会做饭。
+Tǎkè: Zhēn xiāng! [@Wǒ@] xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>62573</StartMilliseconds>
+    <EndMilliseconds>63210</EndMilliseconds>
+    <Text>塔克：真香！我[@喜欢@]臭鼬，因为他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ [@xǐhuan@] chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>63211</StartMilliseconds>
+    <EndMilliseconds>63773</EndMilliseconds>
+    <Text>塔克：真香！我喜欢[@臭鼬@]，因为他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan [@chòuyòu@], yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>63774</StartMilliseconds>
+    <EndMilliseconds>64102</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>64103</StartMilliseconds>
+    <EndMilliseconds>64452</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，[@因为@]他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, [@yīnwèi@] tāmen huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>64453</StartMilliseconds>
+    <EndMilliseconds>64931</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为[@他们@]会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi [@tāmen@] huì zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>64932</StartMilliseconds>
+    <EndMilliseconds>65185</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们[@会@]做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen [@huì@] zuò fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>65186</StartMilliseconds>
+    <EndMilliseconds>65464</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们会[@做@]饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì [@zuò@] fàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>65465</StartMilliseconds>
+    <EndMilliseconds>65875</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们会做[@饭@]。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò [@fàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>65876</StartMilliseconds>
+    <EndMilliseconds>75600</EndMilliseconds>
+    <Text>塔克：真香！我喜欢臭鼬，因为他们会做饭。
+Tǎkè: Zhēn xiāng! Wǒ xǐhuan chòuyòu, yīnwèi tāmen huì zuò fàn.</Text>
+  </Paragraph>
+</Subtitle>

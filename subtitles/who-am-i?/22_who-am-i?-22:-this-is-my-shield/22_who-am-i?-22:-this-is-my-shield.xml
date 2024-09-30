@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10855</StartMilliseconds>
+    <EndMilliseconds>12952</EndMilliseconds>
+    <Text>Zhè shì wǒ de dùnpái.
+这是我的盾牌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12784</StartMilliseconds>
+    <EndMilliseconds>13305</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de dùnpái.
+[@这@]是我的盾牌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13305</StartMilliseconds>
+    <EndMilliseconds>13545</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de dùnpái.
+这[@是@]我的盾牌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13545</StartMilliseconds>
+    <EndMilliseconds>13781</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de dùnpái.
+这是[@我@]的盾牌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13781</StartMilliseconds>
+    <EndMilliseconds>13984</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] dùnpái.
+这是我[@的@]盾牌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13984</StartMilliseconds>
+    <EndMilliseconds>14680</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@dùnpái@].
+这是我的[@盾牌@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14680</StartMilliseconds>
+    <EndMilliseconds>20187</EndMilliseconds>
+    <Text>Zhè shì wǒ de dùnpái.
+这是我的盾牌。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>20187</StartMilliseconds>
+    <EndMilliseconds>23834</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ jiàn.
+我有一把剑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23834</StartMilliseconds>
+    <EndMilliseconds>24245</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì bǎ jiàn.
+[@我@]有一把剑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24245</StartMilliseconds>
+    <EndMilliseconds>24459</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì bǎ jiàn.
+我[@有@]一把剑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24460</StartMilliseconds>
+    <EndMilliseconds>24647</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] bǎ jiàn.
+我有[@一@]把剑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24647</StartMilliseconds>
+    <EndMilliseconds>24952</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@bǎ@] jiàn.
+我有一[@把@]剑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24952</StartMilliseconds>
+    <EndMilliseconds>25335</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ [@jiàn@].
+我有一把[@剑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25335</StartMilliseconds>
+    <EndMilliseconds>28802</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ jiàn.
+我有一把剑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>28802</StartMilliseconds>
+    <EndMilliseconds>32061</EndMilliseconds>
+    <Text>Zhè shì yí zuò chéngbǎo.
+这是一座城堡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>32061</StartMilliseconds>
+    <EndMilliseconds>32444</EndMilliseconds>
+    <Text>[@Zhè@] shì yí zuò chéngbǎo.
+[@这@]是一座城堡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32444</StartMilliseconds>
+    <EndMilliseconds>32686</EndMilliseconds>
+    <Text>Zhè [@shì@] yí zuò chéngbǎo.
+这[@是@]一座城堡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32686</StartMilliseconds>
+    <EndMilliseconds>32897</EndMilliseconds>
+    <Text>Zhè shì [@yí@] zuò chéngbǎo.
+这是[@一@]座城堡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32897</StartMilliseconds>
+    <EndMilliseconds>33139</EndMilliseconds>
+    <Text>Zhè shì yí [@zuò@] chéngbǎo.
+这是一[@座@]城堡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33139</StartMilliseconds>
+    <EndMilliseconds>33866</EndMilliseconds>
+    <Text>Zhè shì yí zuò [@chéngbǎo@].
+这是一座[@城堡@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33866</StartMilliseconds>
+    <EndMilliseconds>38594</EndMilliseconds>
+    <Text>Zhè shì yí zuò chéngbǎo.
+这是一座城堡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>38594</StartMilliseconds>
+    <EndMilliseconds>40341</EndMilliseconds>
+    <Text>Wǒ yǒu yì pǐ mǎ.
+我有一匹马。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>40341</StartMilliseconds>
+    <EndMilliseconds>40883</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì pǐ mǎ.
+[@我@]有一匹马。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40883</StartMilliseconds>
+    <EndMilliseconds>41184</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì pǐ mǎ.
+我[@有@]一匹马。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>41184</StartMilliseconds>
+    <EndMilliseconds>41406</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] pǐ mǎ.
+我有[@一@]匹马。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41406</StartMilliseconds>
+    <EndMilliseconds>41731</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@pǐ@] mǎ.
+我有一[@匹@]马。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>41731</StartMilliseconds>
+    <EndMilliseconds>42192</EndMilliseconds>
+    <Text>Wǒ yǒu yì pǐ [@mǎ@].
+我有一匹[@马@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>42192</StartMilliseconds>
+    <EndMilliseconds>46110</EndMilliseconds>
+    <Text>Wǒ yǒu yì pǐ mǎ.
+我有一匹马。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>45082</StartMilliseconds>
+    <EndMilliseconds>48788</EndMilliseconds>
+    <Text>Zhè shì wǒ de pīfēng.
+这是我的披风。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>48788</StartMilliseconds>
+    <EndMilliseconds>49257</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de pīfēng.
+[@这@]是我的披风。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49257</StartMilliseconds>
+    <EndMilliseconds>49497</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de pīfēng.
+这[@是@]我的披风。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49497</StartMilliseconds>
+    <EndMilliseconds>49716</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de pīfēng.
+这是[@我@]的披风。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>49716</StartMilliseconds>
+    <EndMilliseconds>49888</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] pīfēng.
+这是我[@的@]披风。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49888</StartMilliseconds>
+    <EndMilliseconds>50505</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@pīfēng@].
+这是我的[@披风@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>50505</StartMilliseconds>
+    <EndMilliseconds>54570</EndMilliseconds>
+    <Text>Zhè shì wǒ de pīfēng.
+这是我的披风。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>54570</StartMilliseconds>
+    <EndMilliseconds>57107</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge tóukuī.
+我有一个头盔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>57107</StartMilliseconds>
+    <EndMilliseconds>57657</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge tóukuī.
+[@我@]有一个头盔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57658</StartMilliseconds>
+    <EndMilliseconds>57839</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge tóukuī.
+我[@有@]一个头盔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57840</StartMilliseconds>
+    <EndMilliseconds>58058</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge tóukuī.
+我有[@一@]个头盔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>58059</StartMilliseconds>
+    <EndMilliseconds>58215</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] tóukuī.
+我有一[@个@]头盔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>58215</StartMilliseconds>
+    <EndMilliseconds>58970</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@tóukuī@].
+我有一个[@头盔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>58954</StartMilliseconds>
+    <EndMilliseconds>62477</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge tóukuī.
+我有一个头盔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>62477</StartMilliseconds>
+    <EndMilliseconds>65394</EndMilliseconds>
+    <Text>Zhè shì wǒ de kǎijiǎ.
+这是我的铠甲。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>65394</StartMilliseconds>
+    <EndMilliseconds>65876</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de kǎijiǎ.
+[@这@]是我的铠甲。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65876</StartMilliseconds>
+    <EndMilliseconds>66259</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de kǎijiǎ.
+这[@是@]我的铠甲。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>66259</StartMilliseconds>
+    <EndMilliseconds>66392</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de kǎijiǎ.
+这是[@我@]的铠甲。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66392</StartMilliseconds>
+    <EndMilliseconds>66603</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] kǎijiǎ.
+这是我[@的@]铠甲。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66603</StartMilliseconds>
+    <EndMilliseconds>67423</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@kǎijiǎ@].
+这是我的[@铠甲@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>67423</StartMilliseconds>
+    <EndMilliseconds>71016</EndMilliseconds>
+    <Text>Zhè shì wǒ de kǎijiǎ.
+这是我的铠甲。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>71016</StartMilliseconds>
+    <EndMilliseconds>73595</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>73595</StartMilliseconds>
+    <EndMilliseconds>74079</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>74079</StartMilliseconds>
+    <EndMilliseconds>74376</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>74376</StartMilliseconds>
+    <EndMilliseconds>75051</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>75051</StartMilliseconds>
+    <EndMilliseconds>80178</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>80178</StartMilliseconds>
+    <EndMilliseconds>81337</EndMilliseconds>
+    <Text>Wǒ shì qíshì.
+我是骑士。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>81337</StartMilliseconds>
+    <EndMilliseconds>81837</EndMilliseconds>
+    <Text>[@Wǒ@] shì qíshì.
+[@我@]是骑士。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>81837</StartMilliseconds>
+    <EndMilliseconds>82157</EndMilliseconds>
+    <Text>Wǒ [@shì@] qíshì.
+我[@是@]骑士。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>82157</StartMilliseconds>
+    <EndMilliseconds>82874</EndMilliseconds>
+    <Text>Wǒ shì [@qíshì@].
+我是[@骑士@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>82874</StartMilliseconds>
+    <EndMilliseconds>89203</EndMilliseconds>
+    <Text>Wǒ shì qíshì.
+我是骑士。</Text>
+  </Paragraph>
+</Subtitle>

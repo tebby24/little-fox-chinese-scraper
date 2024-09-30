@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13744</StartMilliseconds>
+    <EndMilliseconds>42775</EndMilliseconds>
+    <Text>tùzi: Zǒukāi, xiǎo fēichóng!
+兔子：走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>42776</StartMilliseconds>
+    <EndMilliseconds>43815</EndMilliseconds>
+    <Text>tùzi: [@Zǒukāi@], xiǎo fēichóng!
+兔子：[@走@]开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>43816</StartMilliseconds>
+    <EndMilliseconds>44222</EndMilliseconds>
+    <Text>tùzi: Zǒukāi, [@xiǎo@] fēichóng!
+兔子：走开，[@小@]飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>44223</StartMilliseconds>
+    <EndMilliseconds>45192</EndMilliseconds>
+    <Text>tùzi: Zǒukāi, xiǎo [@fēichóng@]!
+兔子：走开，小[@飞虫@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>45193</StartMilliseconds>
+    <EndMilliseconds>49999</EndMilliseconds>
+    <Text>tùzi: Zǒukāi, xiǎo fēichóng!
+兔子：走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>50000</StartMilliseconds>
+    <EndMilliseconds>50505</EndMilliseconds>
+    <Text>tùzi: Kuài zǒukāi!
+兔子：快走开！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>50506</StartMilliseconds>
+    <EndMilliseconds>50803</EndMilliseconds>
+    <Text>tùzi: [@Kuài@] zǒukāi!
+兔子：[@快@]走开！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>50804</StartMilliseconds>
+    <EndMilliseconds>51704</EndMilliseconds>
+    <Text>tùzi: Kuài [@zǒukāi@]!
+兔子：快[@走@]开！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>51705</StartMilliseconds>
+    <EndMilliseconds>53415</EndMilliseconds>
+    <Text>tùzi: Kuài zǒukāi!
+兔子：快走开！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>53416</StartMilliseconds>
+    <EndMilliseconds>53839</EndMilliseconds>
+    <Text>tùzi: Zhèxiē xiǎo fēichóng bù fēizǒu.
+兔子：这些小飞虫不飞走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>53840</StartMilliseconds>
+    <EndMilliseconds>54572</EndMilliseconds>
+    <Text>tùzi: [@Zhèxiē@] xiǎo fēichóng bù fēizǒu.
+兔子：[@这些@]小飞虫不飞走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>54573</StartMilliseconds>
+    <EndMilliseconds>54905</EndMilliseconds>
+    <Text>tùzi: Zhèxiē [@xiǎo@] fēichóng bù fēizǒu.
+兔子：这些[@小@]飞虫不飞走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>54906</StartMilliseconds>
+    <EndMilliseconds>55702</EndMilliseconds>
+    <Text>tùzi: Zhèxiē xiǎo [@fēichóng@] bù fēizǒu.
+兔子：这些小[@飞虫@]不飞走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>55703</StartMilliseconds>
+    <EndMilliseconds>55961</EndMilliseconds>
+    <Text>tùzi: Zhèxiē xiǎo fēichóng [@bù@] fēizǒu.
+兔子：这些小飞虫[@不@]飞走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>55962</StartMilliseconds>
+    <EndMilliseconds>56954</EndMilliseconds>
+    <Text>tùzi: Zhèxiē xiǎo fēichóng bù [@fēizǒu@].
+兔子：这些小飞虫不[@飞走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>56955</StartMilliseconds>
+    <EndMilliseconds>57638</EndMilliseconds>
+    <Text>tùzi: Zhèxiē xiǎo fēichóng bù fēizǒu.
+兔子：这些小飞虫不飞走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>57639</StartMilliseconds>
+    <EndMilliseconds>58028</EndMilliseconds>
+    <Text>tùzi: Nàme wǒ zǒu.
+兔子：那么我走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>58029</StartMilliseconds>
+    <EndMilliseconds>58851</EndMilliseconds>
+    <Text>tùzi: [@Nàme@] wǒ zǒu.
+兔子：[@那么@]我走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>58852</StartMilliseconds>
+    <EndMilliseconds>59336</EndMilliseconds>
+    <Text>tùzi: Nàme [@wǒ@] zǒu.
+兔子：那么[@我@]走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>59337</StartMilliseconds>
+    <EndMilliseconds>60023</EndMilliseconds>
+    <Text>tùzi: Nàme wǒ [@zǒu@].
+兔子：那么我[@走@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>60024</StartMilliseconds>
+    <EndMilliseconds>66181</EndMilliseconds>
+    <Text>tùzi: Nàme wǒ zǒu.
+兔子：那么我走。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>66182</StartMilliseconds>
+    <EndMilliseconds>68743</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào dà shù shàngmian qù.
+兔子：我要到大树上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>68744</StartMilliseconds>
+    <EndMilliseconds>69091</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yào dào dà shù shàngmian qù.
+兔子：[@我@]要到大树上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>69092</StartMilliseconds>
+    <EndMilliseconds>69348</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yào@] dào dà shù shàngmian qù.
+兔子：我[@要@]到大树上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>69349</StartMilliseconds>
+    <EndMilliseconds>69769</EndMilliseconds>
+    <Text>tùzi: Wǒ yào [@dào@] dà shù shàngmian qù.
+兔子：我要[@到@]大树上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>69770</StartMilliseconds>
+    <EndMilliseconds>70150</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào [@dà@] shù shàngmian qù.
+兔子：我要到[@大@]树上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>70151</StartMilliseconds>
+    <EndMilliseconds>70585</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào dà [@shù@] shàngmian qù.
+兔子：我要到大[@树@]上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>70586</StartMilliseconds>
+    <EndMilliseconds>71091</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào dà shù [@shàngmian@] qù.
+兔子：我要到大树[@上面@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>71092</StartMilliseconds>
+    <EndMilliseconds>71732</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào dà shù shàngmian [@qù@].
+兔子：我要到大树上面[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>71733</StartMilliseconds>
+    <EndMilliseconds>72626</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào dà shù shàngmian qù.
+兔子：我要到大树上面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>72627</StartMilliseconds>
+    <EndMilliseconds>73335</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào shàngmian qù de.
+兔子：小飞虫不会飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>73336</StartMilliseconds>
+    <EndMilliseconds>73822</EndMilliseconds>
+    <Text>tùzi: [@Xiǎo@] fēichóng bú huì fēidào shàngmian qù de.
+兔子：[@小@]飞虫不会飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>73823</StartMilliseconds>
+    <EndMilliseconds>74558</EndMilliseconds>
+    <Text>tùzi: Xiǎo [@fēichóng@] bú huì fēidào shàngmian qù de.
+兔子：小[@飞虫@]不会飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>74559</StartMilliseconds>
+    <EndMilliseconds>74784</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào shàngmian qù de.
+兔子：小飞虫不会飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>74785</StartMilliseconds>
+    <EndMilliseconds>75056</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng [@bú@] huì fēidào shàngmian qù de.
+兔子：小飞虫[@不@]会飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>75057</StartMilliseconds>
+    <EndMilliseconds>75359</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú [@huì@] fēidào shàngmian qù de.
+兔子：小飞虫不[@会@]飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>75360</StartMilliseconds>
+    <EndMilliseconds>75935</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì [@fēidào@] shàngmian qù de.
+兔子：小飞虫不会[@飞到@]上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>75936</StartMilliseconds>
+    <EndMilliseconds>76588</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào [@shàngmian@] qù de.
+兔子：小飞虫不会飞到[@上面@]去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>76589</StartMilliseconds>
+    <EndMilliseconds>76854</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào shàngmian [@qù@] de.
+兔子：小飞虫不会飞到上面[@去@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>76855</StartMilliseconds>
+    <EndMilliseconds>77306</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào shàngmian qù [@de@].
+兔子：小飞虫不会飞到上面去[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>77307</StartMilliseconds>
+    <EndMilliseconds>83289</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào shàngmian qù de.
+兔子：小飞虫不会飞到上面去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>83290</StartMilliseconds>
+    <EndMilliseconds>110802</EndMilliseconds>
+    <Text>tùzi: Kěwù!
+兔子：可恶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>110803</StartMilliseconds>
+    <EndMilliseconds>112223</EndMilliseconds>
+    <Text>tùzi: [@Kěwù@]!
+兔子：[@可恶@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>112224</StartMilliseconds>
+    <EndMilliseconds>112960</EndMilliseconds>
+    <Text>tùzi: Kěwù!
+兔子：可恶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>112961</StartMilliseconds>
+    <EndMilliseconds>113310</EndMilliseconds>
+    <Text>tùzi: Kuài zǒukāi, xiǎo fēichóng!
+兔子：快走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>113311</StartMilliseconds>
+    <EndMilliseconds>113621</EndMilliseconds>
+    <Text>tùzi: [@Kuài@] zǒukāi, xiǎo fēichóng!
+兔子：[@快@]走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>113622</StartMilliseconds>
+    <EndMilliseconds>114798</EndMilliseconds>
+    <Text>tùzi: Kuài [@zǒukāi@], xiǎo fēichóng!
+兔子：快[@走开@]，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>114799</StartMilliseconds>
+    <EndMilliseconds>115165</EndMilliseconds>
+    <Text>tùzi: Kuài zǒukāi, [@xiǎo@] fēichóng!
+兔子：快走开，[@小@]飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>115166</StartMilliseconds>
+    <EndMilliseconds>115982</EndMilliseconds>
+    <Text>tùzi: Kuài zǒukāi, xiǎo [@fēichóng@]!
+兔子：快走开，小[@飞虫@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>115983</StartMilliseconds>
+    <EndMilliseconds>117844</EndMilliseconds>
+    <Text>tùzi: Kuài zǒukāi, xiǎo fēichóng!
+兔子：快走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>117845</StartMilliseconds>
+    <EndMilliseconds>126134</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nà ge shùzhuāng xiàmian qù.
+兔子：我要到那个树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>126135</StartMilliseconds>
+    <EndMilliseconds>126534</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yào dào nà ge shùzhuāng xiàmian qù.
+兔子：[@我@]要到那个树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>126535</StartMilliseconds>
+    <EndMilliseconds>126928</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yào@] dào nà ge shùzhuāng xiàmian qù.
+兔子：我[@要@]到那个树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>126929</StartMilliseconds>
+    <EndMilliseconds>127167</EndMilliseconds>
+    <Text>tùzi: Wǒ yào [@dào@] nà ge shùzhuāng xiàmian qù.
+兔子：我要[@到@]那个树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>127168</StartMilliseconds>
+    <EndMilliseconds>127504</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào [@nà@] ge shùzhuāng xiàmian qù.
+兔子：我要到[@那@]个树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>127505</StartMilliseconds>
+    <EndMilliseconds>127683</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nà [@ge@] shùzhuāng xiàmian qù.
+兔子：我要到那[@个@]树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>127684</StartMilliseconds>
+    <EndMilliseconds>128294</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nà ge [@shùzhuāng@] xiàmian qù.
+兔子：我要到那个[@树桩@]下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>128295</StartMilliseconds>
+    <EndMilliseconds>128872</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nà ge shùzhuāng [@xiàmian@] qù.
+兔子：我要到那个树桩[@下面@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>128873</StartMilliseconds>
+    <EndMilliseconds>129531</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nà ge shùzhuāng xiàmian [@qù@].
+兔子：我要到那个树桩下面[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>129532</StartMilliseconds>
+    <EndMilliseconds>129970</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nà ge shùzhuāng xiàmian qù.
+兔子：我要到那个树桩下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>129971</StartMilliseconds>
+    <EndMilliseconds>130426</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli qù de.
+兔子：小飞虫不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>130427</StartMilliseconds>
+    <EndMilliseconds>130908</EndMilliseconds>
+    <Text>tùzi: [@Xiǎo@] fēichóng bú huì fēidào nàli qù de.
+兔子：[@小@]飞虫不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>130909</StartMilliseconds>
+    <EndMilliseconds>131718</EndMilliseconds>
+    <Text>tùzi: Xiǎo [@fēichóng@] bú huì fēidào nàli qù de.
+兔子：小[@飞虫@]不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>131719</StartMilliseconds>
+    <EndMilliseconds>132062</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng [@bú@] huì fēidào nàli qù de.
+兔子：小飞虫[@不@]会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>132063</StartMilliseconds>
+    <EndMilliseconds>132288</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú [@huì@] fēidào nàli qù de.
+兔子：小飞虫不[@会@]飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>132289</StartMilliseconds>
+    <EndMilliseconds>132838</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì [@fēidào@] nàli qù de.
+兔子：小飞虫不会[@飞到@]那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>132839</StartMilliseconds>
+    <EndMilliseconds>133405</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào [@nàli@] qù de.
+兔子：小飞虫不会飞到[@那里@]去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>133406</StartMilliseconds>
+    <EndMilliseconds>133744</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli [@qù@] de.
+兔子：小飞虫不会飞到那里[@去@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>133745</StartMilliseconds>
+    <EndMilliseconds>134370</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli qù [@de@].
+兔子：小飞虫不会飞到那里去[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>134371</StartMilliseconds>
+    <EndMilliseconds>136384</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli qù de.
+兔子：小飞虫不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>136385</StartMilliseconds>
+    <EndMilliseconds>163065</EndMilliseconds>
+    <Text>tùzi: Kěwù!
+兔子：可恶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>163066</StartMilliseconds>
+    <EndMilliseconds>164341</EndMilliseconds>
+    <Text>tùzi: [@Kěwù@]!
+兔子：[@可恶@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>164342</StartMilliseconds>
+    <EndMilliseconds>171249</EndMilliseconds>
+    <Text>tùzi: Kěwù!
+兔子：可恶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>171250</StartMilliseconds>
+    <EndMilliseconds>171602</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nǎli qù ne?
+兔子：我要到哪里去呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>171603</StartMilliseconds>
+    <EndMilliseconds>171969</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yào dào nǎli qù ne?
+兔子：[@我@]要到哪里去呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>171970</StartMilliseconds>
+    <EndMilliseconds>172177</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yào@] dào nǎli qù ne?
+兔子：我[@要@]到哪里去呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>172178</StartMilliseconds>
+    <EndMilliseconds>172462</EndMilliseconds>
+    <Text>tùzi: Wǒ yào [@dào@] nǎli qù ne?
+兔子：我要[@到@]哪里去呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>172463</StartMilliseconds>
+    <EndMilliseconds>172993</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào [@nǎli@] qù ne?
+兔子：我要到[@哪里@]去呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>172994</StartMilliseconds>
+    <EndMilliseconds>173338</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nǎli [@qù@] ne?
+兔子：我要到哪里[@去@]呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>173339</StartMilliseconds>
+    <EndMilliseconds>173909</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nǎli qù [@ne@]?
+兔子：我要到哪里去[@呢@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>173910</StartMilliseconds>
+    <EndMilliseconds>175277</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào nǎli qù ne?
+兔子：我要到哪里去呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>175278</StartMilliseconds>
+    <EndMilliseconds>178665</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào shuǐ xiàmian qù.
+兔子：我要到水下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>178666</StartMilliseconds>
+    <EndMilliseconds>179073</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] yào dào shuǐ xiàmian qù.
+兔子：[@我@]要到水下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>179074</StartMilliseconds>
+    <EndMilliseconds>179319</EndMilliseconds>
+    <Text>tùzi: Wǒ [@yào@] dào shuǐ xiàmian qù.
+兔子：我[@要@]到水下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>179320</StartMilliseconds>
+    <EndMilliseconds>179686</EndMilliseconds>
+    <Text>tùzi: Wǒ yào [@dào@] shuǐ xiàmian qù.
+兔子：我要[@到@]水下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>179687</StartMilliseconds>
+    <EndMilliseconds>180118</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào [@shuǐ@] xiàmian qù.
+兔子：我要到[@水@]下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>180119</StartMilliseconds>
+    <EndMilliseconds>180800</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào shuǐ [@xiàmian@] qù.
+兔子：我要到水[@下面@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>180801</StartMilliseconds>
+    <EndMilliseconds>181380</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào shuǐ xiàmian [@qù@].
+兔子：我要到水下面[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>181381</StartMilliseconds>
+    <EndMilliseconds>182432</EndMilliseconds>
+    <Text>tùzi: Wǒ yào dào shuǐ xiàmian qù.
+兔子：我要到水下面去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>182433</StartMilliseconds>
+    <EndMilliseconds>183228</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli qù de.
+兔子：小飞虫不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>183229</StartMilliseconds>
+    <EndMilliseconds>183661</EndMilliseconds>
+    <Text>tùzi: [@Xiǎo@] fēichóng bú huì fēidào nàli qù de.
+兔子：[@小@]飞虫不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>183662</StartMilliseconds>
+    <EndMilliseconds>184505</EndMilliseconds>
+    <Text>tùzi: Xiǎo [@fēichóng@] bú huì fēidào nàli qù de.
+兔子：小[@飞虫@]不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>184506</StartMilliseconds>
+    <EndMilliseconds>184797</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng [@bú@] huì fēidào nàli qù de.
+兔子：小飞虫[@不@]会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>184798</StartMilliseconds>
+    <EndMilliseconds>185098</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú [@huì@] fēidào nàli qù de.
+兔子：小飞虫不[@会@]飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>185099</StartMilliseconds>
+    <EndMilliseconds>185705</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì [@fēidào@] nàli qù de.
+兔子：小飞虫不会[@飞到@]那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>185707</StartMilliseconds>
+    <EndMilliseconds>186253</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào [@nàli@] qù de.
+兔子：小飞虫不会飞到[@那里@]去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>186254</StartMilliseconds>
+    <EndMilliseconds>186607</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli [@qù@] de.
+兔子：小飞虫不会飞到那里[@去@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>186608</StartMilliseconds>
+    <EndMilliseconds>187231</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli qù [@de@].
+兔子：小飞虫不会飞到那里去[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>187232</StartMilliseconds>
+    <EndMilliseconds>190087</EndMilliseconds>
+    <Text>tùzi: Xiǎo fēichóng bú huì fēidào nàli qù de.
+兔子：小飞虫不会飞到那里去的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>190088</StartMilliseconds>
+    <EndMilliseconds>201520</EndMilliseconds>
+    <Text>tùzi: Hā hā!
+兔子：哈哈！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>201521</StartMilliseconds>
+    <EndMilliseconds>201759</EndMilliseconds>
+    <Text>tùzi: [@Hā@] hā!
+兔子：[@哈@]哈！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>201760</StartMilliseconds>
+    <EndMilliseconds>202339</EndMilliseconds>
+    <Text>tùzi: Hā [@hā@]!
+兔子：哈[@哈@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>202340</StartMilliseconds>
+    <EndMilliseconds>203337</EndMilliseconds>
+    <Text>tùzi: Hā hā!
+兔子：哈哈！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>203338</StartMilliseconds>
+    <EndMilliseconds>203957</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù zhǎo biérén ba, xiǎo fēichóng!
+兔子：你们去找别人吧，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>203958</StartMilliseconds>
+    <EndMilliseconds>204601</EndMilliseconds>
+    <Text>tùzi: [@Nǐmen@] qù zhǎo biérén ba, xiǎo fēichóng!
+兔子：[@你们@]去找别人吧，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>204602</StartMilliseconds>
+    <EndMilliseconds>204899</EndMilliseconds>
+    <Text>tùzi: Nǐmen [@qù@] zhǎo biérén ba, xiǎo fēichóng!
+兔子：你们[@去@]找别人吧，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>204900</StartMilliseconds>
+    <EndMilliseconds>205155</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù [@zhǎo@] biérén ba, xiǎo fēichóng!
+兔子：你们去[@找@]别人吧，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>205156</StartMilliseconds>
+    <EndMilliseconds>205731</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù zhǎo [@biérén@] ba, xiǎo fēichóng!
+兔子：你们去找[@别人@]吧，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>205732</StartMilliseconds>
+    <EndMilliseconds>206275</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù zhǎo biérén [@ba@], xiǎo fēichóng!
+兔子：你们去找别人[@吧@]，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>206276</StartMilliseconds>
+    <EndMilliseconds>206817</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù zhǎo biérén ba, [@xiǎo@] fēichóng!
+兔子：你们去找别人吧，[@小@]飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>206818</StartMilliseconds>
+    <EndMilliseconds>207836</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù zhǎo biérén ba, xiǎo [@fēichóng@]!
+兔子：你们去找别人吧，小[@飞虫@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>207837</StartMilliseconds>
+    <EndMilliseconds>209067</EndMilliseconds>
+    <Text>tùzi: Nǐmen qù zhǎo biérén ba, xiǎo fēichóng!
+兔子：你们去找别人吧，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>209068</StartMilliseconds>
+    <EndMilliseconds>229316</EndMilliseconds>
+    <Text>wūguī: Ā!
+乌龟：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>229317</StartMilliseconds>
+    <EndMilliseconds>230266</EndMilliseconds>
+    <Text>wūguī: [@Ā@]!
+乌龟：[@啊@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>230267</StartMilliseconds>
+    <EndMilliseconds>233569</EndMilliseconds>
+    <Text>wūguī: Ā!
+乌龟：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>233570</StartMilliseconds>
+    <EndMilliseconds>234253</EndMilliseconds>
+    <Text>wūguī: Kuài zǒukāi, xiǎo fēichóng!
+乌龟：快走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>234254</StartMilliseconds>
+    <EndMilliseconds>234797</EndMilliseconds>
+    <Text>wūguī: [@Kuài@] zǒukāi, xiǎo fēichóng!
+乌龟：[@快@]走开，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>234798</StartMilliseconds>
+    <EndMilliseconds>236276</EndMilliseconds>
+    <Text>wūguī: Kuài [@zǒukāi@], xiǎo fēichóng!
+乌龟：快[@走开@]，小飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>236277</StartMilliseconds>
+    <EndMilliseconds>237073</EndMilliseconds>
+    <Text>wūguī: Kuài zǒukāi, [@xiǎo@] fēichóng!
+乌龟：快走开，[@小@]飞虫！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>237074</StartMilliseconds>
+    <EndMilliseconds>238481</EndMilliseconds>
+    <Text>wūguī: Kuài zǒukāi, xiǎo [@fēichóng@]!
+乌龟：快走开，小[@飞虫@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>238482</StartMilliseconds>
+    <EndMilliseconds>243500</EndMilliseconds>
+    <Text>wūguī: Kuài zǒukāi, xiǎo fēichóng!
+乌龟：快走开，小飞虫！</Text>
+  </Paragraph>
+</Subtitle>

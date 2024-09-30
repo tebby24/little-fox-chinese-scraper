@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7365</StartMilliseconds>
+    <EndMilliseconds>10510</EndMilliseconds>
+    <Text>“小西，吃你的沙拉。”
+"Xiǎoxī, chī nǐ de shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10511</StartMilliseconds>
+    <EndMilliseconds>11350</EndMilliseconds>
+    <Text>“[@小西@]，吃你的沙拉。”
+"[@Xiǎoxī@], chī nǐ de shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>11351</StartMilliseconds>
+    <EndMilliseconds>11647</EndMilliseconds>
+    <Text>“小西，吃你的沙拉。”
+"Xiǎoxī, chī nǐ de shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11648</StartMilliseconds>
+    <EndMilliseconds>12003</EndMilliseconds>
+    <Text>“小西，[@吃@]你的沙拉。”
+"Xiǎoxī, [@chī@] nǐ de shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12004</StartMilliseconds>
+    <EndMilliseconds>12174</EndMilliseconds>
+    <Text>“小西，吃[@你@]的沙拉。”
+"Xiǎoxī, chī [@nǐ@] de shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12175</StartMilliseconds>
+    <EndMilliseconds>12301</EndMilliseconds>
+    <Text>“小西，吃你[@的@]沙拉。”
+"Xiǎoxī, chī nǐ [@de@] shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>12302</StartMilliseconds>
+    <EndMilliseconds>12957</EndMilliseconds>
+    <Text>“小西，吃你的[@沙拉@]。”
+"Xiǎoxī, chī nǐ de [@shālā@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>12958</StartMilliseconds>
+    <EndMilliseconds>13280</EndMilliseconds>
+    <Text>“小西，吃你的沙拉。”
+"Xiǎoxī, chī nǐ de shālā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>13281</StartMilliseconds>
+    <EndMilliseconds>13734</EndMilliseconds>
+    <Text>“我一定要吃吗？”
+"Wǒ yídìng yào chī ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>13735</StartMilliseconds>
+    <EndMilliseconds>14149</EndMilliseconds>
+    <Text>“[@我@]一定要吃吗？”
+"[@Wǒ@] yídìng yào chī ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>14150</StartMilliseconds>
+    <EndMilliseconds>14404</EndMilliseconds>
+    <Text>“[@我@]一定要吃吗？”
+"Wǒ yídìng yào chī ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>14405</StartMilliseconds>
+    <EndMilliseconds>14880</EndMilliseconds>
+    <Text>“我[@一定@]要吃吗？”
+"Wǒ [@yídìng@] yào chī ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>14881</StartMilliseconds>
+    <EndMilliseconds>15144</EndMilliseconds>
+    <Text>“我一定[@要@]吃吗？”
+"Wǒ yídìng [@yào@] chī ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>15145</StartMilliseconds>
+    <EndMilliseconds>15409</EndMilliseconds>
+    <Text>“我一定要[@吃@]吗？”
+"Wǒ yídìng yào [@chī@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>15410</StartMilliseconds>
+    <EndMilliseconds>15802</EndMilliseconds>
+    <Text>“我一定要吃[@吗@]？”
+"Wǒ yídìng yào chī [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>15803</StartMilliseconds>
+    <EndMilliseconds>16350</EndMilliseconds>
+    <Text>“我一定要吃吗？”
+"Wǒ yídìng yào chī ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>16351</StartMilliseconds>
+    <EndMilliseconds>17773</EndMilliseconds>
+    <Text>“卡拉，洗碗。”
+"Kǎlā, xǐ wǎn."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>17774</StartMilliseconds>
+    <EndMilliseconds>18552</EndMilliseconds>
+    <Text>“[@卡拉@]，洗碗。”
+"[@Kǎlā@], xǐ wǎn."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>18553</StartMilliseconds>
+    <EndMilliseconds>18725</EndMilliseconds>
+    <Text>“卡拉，洗碗。”
+"Kǎlā, xǐ wǎn."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>18726</StartMilliseconds>
+    <EndMilliseconds>19066</EndMilliseconds>
+    <Text>“卡拉，[@洗@]碗。”
+"Kǎlā, [@xǐ@] wǎn."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>19067</StartMilliseconds>
+    <EndMilliseconds>19641</EndMilliseconds>
+    <Text>“卡拉，洗[@碗@]。”
+"Kǎlā, xǐ [@wǎn@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>19642</StartMilliseconds>
+    <EndMilliseconds>20036</EndMilliseconds>
+    <Text>“卡拉，洗碗。”
+"Kǎlā, xǐ wǎn."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>20037</StartMilliseconds>
+    <EndMilliseconds>20403</EndMilliseconds>
+    <Text>“我一定要洗吗？”
+"Wǒ yídìng yào xǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>20404</StartMilliseconds>
+    <EndMilliseconds>20654</EndMilliseconds>
+    <Text>“[@我@]一定要洗吗？”
+"[@Wǒ@] yídìng yào xǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>20655</StartMilliseconds>
+    <EndMilliseconds>20987</EndMilliseconds>
+    <Text>“我[@一定@]要洗吗？”
+"Wǒ [@yídìng@] yào xǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>20988</StartMilliseconds>
+    <EndMilliseconds>21369</EndMilliseconds>
+    <Text>“我一定[@要@]洗吗？”
+"Wǒ yídìng [@yào@] xǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>21370</StartMilliseconds>
+    <EndMilliseconds>21623</EndMilliseconds>
+    <Text>“我一定要[@洗@]吗？”
+"Wǒ yídìng yào [@xǐ@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>21624</StartMilliseconds>
+    <EndMilliseconds>22211</EndMilliseconds>
+    <Text>“我一定要洗[@吗@]？”
+"Wǒ yídìng yào xǐ [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>22212</StartMilliseconds>
+    <EndMilliseconds>23095</EndMilliseconds>
+    <Text>“我一定要洗吗？”
+"Wǒ yídìng yào xǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>23096</StartMilliseconds>
+    <EndMilliseconds>25454</EndMilliseconds>
+    <Text>“小西，去扔垃圾！”
+"Xiǎoxī, qù rēng lājī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>25455</StartMilliseconds>
+    <EndMilliseconds>26384</EndMilliseconds>
+    <Text>“[@小西@]，去扔垃圾！”
+"[@Xiǎoxī@], qù rēng lājī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>26385</StartMilliseconds>
+    <EndMilliseconds>26611</EndMilliseconds>
+    <Text>“小西，去扔垃圾！”
+"Xiǎoxī, qù rēng lājī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>26612</StartMilliseconds>
+    <EndMilliseconds>26857</EndMilliseconds>
+    <Text>“小西，[@去@]扔垃圾！”
+"Xiǎoxī, [@qù@] rēng lājī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>26858</StartMilliseconds>
+    <EndMilliseconds>27041</EndMilliseconds>
+    <Text>“小西，去[@扔@]垃圾！”
+"Xiǎoxī, qù [@rēng@] lājī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>27042</StartMilliseconds>
+    <EndMilliseconds>27811</EndMilliseconds>
+    <Text>“小西，去扔[@垃圾@]！”
+"Xiǎoxī, qù rēng [@lājī@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>27812</StartMilliseconds>
+    <EndMilliseconds>27957</EndMilliseconds>
+    <Text>“小西，去扔垃圾！”
+"Xiǎoxī, qù rēng lājī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>27958</StartMilliseconds>
+    <EndMilliseconds>28147</EndMilliseconds>
+    <Text>“我一定要扔吗？”
+"Wǒ yídìng yào rēng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>28148</StartMilliseconds>
+    <EndMilliseconds>28674</EndMilliseconds>
+    <Text>“[@我@]一定要扔吗？”
+"[@Wǒ@] yídìng yào rēng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>28675</StartMilliseconds>
+    <EndMilliseconds>29083</EndMilliseconds>
+    <Text>“我[@一定@]要扔吗？”
+"Wǒ [@yídìng@] yào rēng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>29084</StartMilliseconds>
+    <EndMilliseconds>29347</EndMilliseconds>
+    <Text>“我一定[@要@]扔吗？”
+"Wǒ yídìng [@yào@] rēng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>29348</StartMilliseconds>
+    <EndMilliseconds>29678</EndMilliseconds>
+    <Text>“我一定要[@扔@]吗？”
+"Wǒ yídìng yào [@rēng@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>29679</StartMilliseconds>
+    <EndMilliseconds>30085</EndMilliseconds>
+    <Text>“我一定要扔[@吗@]？”
+"Wǒ yídìng yào rēng [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>30086</StartMilliseconds>
+    <EndMilliseconds>30487</EndMilliseconds>
+    <Text>“我一定要扔吗？”
+"Wǒ yídìng yào rēng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>30488</StartMilliseconds>
+    <EndMilliseconds>31917</EndMilliseconds>
+    <Text>“卡拉，帮你爸爸！”
+"Kǎlā, bāng nǐ bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>31918</StartMilliseconds>
+    <EndMilliseconds>32731</EndMilliseconds>
+    <Text>“[@卡拉@]，帮你爸爸！”
+"[@Kǎlā@], bāng nǐ bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>32732</StartMilliseconds>
+    <EndMilliseconds>33004</EndMilliseconds>
+    <Text>“卡拉，帮你爸爸！”
+"Kǎlā, bāng nǐ bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>33005</StartMilliseconds>
+    <EndMilliseconds>33304</EndMilliseconds>
+    <Text>“卡拉，[@帮@]你爸爸！”
+"Kǎlā, [@bāng@] nǐ bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>33305</StartMilliseconds>
+    <EndMilliseconds>33479</EndMilliseconds>
+    <Text>“卡拉，帮[@你@]爸爸！”
+"Kǎlā, bāng [@nǐ@] bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>33480</StartMilliseconds>
+    <EndMilliseconds>34171</EndMilliseconds>
+    <Text>“卡拉，帮你[@爸爸@]！”
+"Kǎlā, bāng nǐ [@bàba@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>34172</StartMilliseconds>
+    <EndMilliseconds>34709</EndMilliseconds>
+    <Text>“卡拉，帮你爸爸！”
+"Kǎlā, bāng nǐ bàba!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>34710</StartMilliseconds>
+    <EndMilliseconds>35192</EndMilliseconds>
+    <Text>“我一定要帮吗？”
+"Wǒ yídìng yào bāng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>35193</StartMilliseconds>
+    <EndMilliseconds>35518</EndMilliseconds>
+    <Text>“[@我@]一定要帮吗？”
+"[@Wǒ@] yídìng yào bāng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>35519</StartMilliseconds>
+    <EndMilliseconds>35995</EndMilliseconds>
+    <Text>“我[@一定@]要帮吗？”
+"Wǒ [@yídìng@] yào bāng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>35996</StartMilliseconds>
+    <EndMilliseconds>36301</EndMilliseconds>
+    <Text>“我一定[@要@]帮吗？”
+"Wǒ yídìng [@yào@] bāng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>36302</StartMilliseconds>
+    <EndMilliseconds>36639</EndMilliseconds>
+    <Text>“我一定要[@帮@]吗？”
+"Wǒ yídìng yào [@bāng@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>36640</StartMilliseconds>
+    <EndMilliseconds>37130</EndMilliseconds>
+    <Text>“我一定要帮[@吗@]？”
+"Wǒ yídìng yào bāng [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>37131</StartMilliseconds>
+    <EndMilliseconds>37824</EndMilliseconds>
+    <Text>“我一定要帮吗？”
+"Wǒ yídìng yào bāng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>37825</StartMilliseconds>
+    <EndMilliseconds>45081</EndMilliseconds>
+    <Text>“小西，卡拉，整理房间！”
+"Xiǎoxī, Kǎlā, zhěnglǐ fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>45082</StartMilliseconds>
+    <EndMilliseconds>45917</EndMilliseconds>
+    <Text>“[@小西@]，卡拉，整理房间！”
+"[@Xiǎoxī@], Kǎlā, zhěnglǐ fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>45918</StartMilliseconds>
+    <EndMilliseconds>46079</EndMilliseconds>
+    <Text>“小西，卡拉，整理房间！”
+"Xiǎoxī, Kǎlā, zhěnglǐ fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>46080</StartMilliseconds>
+    <EndMilliseconds>46815</EndMilliseconds>
+    <Text>“小西，[@卡拉@]，整理房间！”
+"Xiǎoxī, [@Kǎlā@], zhěnglǐ fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>46816</StartMilliseconds>
+    <EndMilliseconds>47144</EndMilliseconds>
+    <Text>“小西，卡拉，整理房间！”
+"Xiǎoxī, Kǎlā, zhěnglǐ fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>47145</StartMilliseconds>
+    <EndMilliseconds>47564</EndMilliseconds>
+    <Text>“小西，卡拉，[@整理@]房间！”
+"Xiǎoxī, Kǎlā, [@zhěnglǐ@] fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>47565</StartMilliseconds>
+    <EndMilliseconds>48313</EndMilliseconds>
+    <Text>“小西，卡拉，整理[@房间@]！”
+"Xiǎoxī, Kǎlā, zhěnglǐ [@fángjiān@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>48314</StartMilliseconds>
+    <EndMilliseconds>48914</EndMilliseconds>
+    <Text>“小西，卡拉，整理房间！”
+"Xiǎoxī, Kǎlā, zhěnglǐ fángjiān!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>48915</StartMilliseconds>
+    <EndMilliseconds>49336</EndMilliseconds>
+    <Text>“我们一定要整理吗？”
+"Wǒmen yídìng yào zhěnglǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>49337</StartMilliseconds>
+    <EndMilliseconds>49964</EndMilliseconds>
+    <Text>“[@我们@]一定要整理吗？”
+"[@Wǒmen@] yídìng yào zhěnglǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>49965</StartMilliseconds>
+    <EndMilliseconds>50199</EndMilliseconds>
+    <Text>“我们一定要整理吗？”
+"Wǒmen yídìng yào zhěnglǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>50200</StartMilliseconds>
+    <EndMilliseconds>50661</EndMilliseconds>
+    <Text>“我们[@一定@]要整理吗？”
+"Wǒmen [@yídìng@] yào zhěnglǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>50662</StartMilliseconds>
+    <EndMilliseconds>50949</EndMilliseconds>
+    <Text>“我们一定[@要@]整理吗？”
+"Wǒmen yídìng [@yào@] zhěnglǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>50950</StartMilliseconds>
+    <EndMilliseconds>51547</EndMilliseconds>
+    <Text>“我们一定要[@整理@]吗？”
+"Wǒmen yídìng yào [@zhěnglǐ@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>51548</StartMilliseconds>
+    <EndMilliseconds>52149</EndMilliseconds>
+    <Text>“我们一定要整理[@吗@]？”
+"Wǒmen yídìng yào zhěnglǐ [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>52150</StartMilliseconds>
+    <EndMilliseconds>52671</EndMilliseconds>
+    <Text>“我们一定要整理吗？”
+"Wǒmen yídìng yào zhěnglǐ ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>52672</StartMilliseconds>
+    <EndMilliseconds>54300</EndMilliseconds>
+    <Text>“孩子们，听妈妈的话。”
+"Háizimen, tīng māma de huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>54301</StartMilliseconds>
+    <EndMilliseconds>55153</EndMilliseconds>
+    <Text>“[@孩子们@]，听妈妈的话。”
+"[@Háizimen@], tīng māma de huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>55154</StartMilliseconds>
+    <EndMilliseconds>55439</EndMilliseconds>
+    <Text>“孩子们，听妈妈的话。”
+"Háizimen, tīng māma de huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>55440</StartMilliseconds>
+    <EndMilliseconds>55662</EndMilliseconds>
+    <Text>“孩子们，[@听@]妈妈的话。”
+"Háizimen, [@tīng@] māma de huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>55663</StartMilliseconds>
+    <EndMilliseconds>56110</EndMilliseconds>
+    <Text>“孩子们，听[@妈妈@]的话。”
+"Háizimen, tīng [@māma@] de huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>56111</StartMilliseconds>
+    <EndMilliseconds>56260</EndMilliseconds>
+    <Text>“孩子们，听妈妈[@的@]话。”
+"Háizimen, tīng māma [@de@] huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>56261</StartMilliseconds>
+    <EndMilliseconds>56684</EndMilliseconds>
+    <Text>“孩子们，听妈妈的[@话@]。”
+"Háizimen, tīng māma de [@huà@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>56685</StartMilliseconds>
+    <EndMilliseconds>57201</EndMilliseconds>
+    <Text>“孩子们，听妈妈的话。”
+"Háizimen, tīng māma de huà."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>57202</StartMilliseconds>
+    <EndMilliseconds>57319</EndMilliseconds>
+    <Text>“我们一定要听吗？”
+"Wǒmen yídìng yào tīng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>57320</StartMilliseconds>
+    <EndMilliseconds>58089</EndMilliseconds>
+    <Text>“[@我们@]一定要听吗？”
+"[@Wǒmen@] yídìng yào tīng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>58090</StartMilliseconds>
+    <EndMilliseconds>58652</EndMilliseconds>
+    <Text>“我们[@一定@]要听吗？”
+"Wǒmen [@yídìng@] yào tīng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>58653</StartMilliseconds>
+    <EndMilliseconds>58943</EndMilliseconds>
+    <Text>“我们一定[@要@]听吗？”
+"Wǒmen yídìng [@yào@] tīng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>58944</StartMilliseconds>
+    <EndMilliseconds>59234</EndMilliseconds>
+    <Text>“我们一定要[@听@]吗？”
+"Wǒmen yídìng yào [@tīng@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>59235</StartMilliseconds>
+    <EndMilliseconds>59788</EndMilliseconds>
+    <Text>“我们一定要听[@吗@]？”
+"Wǒmen yídìng yào tīng [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>59789</StartMilliseconds>
+    <EndMilliseconds>60277</EndMilliseconds>
+    <Text>“我们一定要听吗？”
+"Wǒmen yídìng yào tīng ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>60278</StartMilliseconds>
+    <EndMilliseconds>61641</EndMilliseconds>
+    <Text>“我们饿了，可以为我们做点心吗？”
+"Wǒmen è le, kěyǐ wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>61642</StartMilliseconds>
+    <EndMilliseconds>62286</EndMilliseconds>
+    <Text>“[@我们@]饿了，可以为我们做点心吗？”
+"[@Wǒmen@] è le, kěyǐ wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>62287</StartMilliseconds>
+    <EndMilliseconds>62768</EndMilliseconds>
+    <Text>“我们[@饿@]了，可以为我们做点心吗？”
+"Wǒmen [@è@] le, kěyǐ wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>62769</StartMilliseconds>
+    <EndMilliseconds>63146</EndMilliseconds>
+    <Text>“我们饿[@了@]，可以为我们做点心吗？”
+"Wǒmen è [@le@], kěyǐ wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>63147</StartMilliseconds>
+    <EndMilliseconds>63475</EndMilliseconds>
+    <Text>“我们饿了，可以为我们做点心吗？”
+"Wǒmen è le, kěyǐ wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>63476</StartMilliseconds>
+    <EndMilliseconds>64258</EndMilliseconds>
+    <Text>“我们饿了，[@可以@]为我们做点心吗？”
+"Wǒmen è le, [@kěyǐ@] wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>64259</StartMilliseconds>
+    <EndMilliseconds>64591</EndMilliseconds>
+    <Text>“我们饿了，可以[@为@]我们做点心吗？”
+"Wǒmen è le, kěyǐ [@wèi@] wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>64592</StartMilliseconds>
+    <EndMilliseconds>65188</EndMilliseconds>
+    <Text>“我们饿了，可以为[@我们@]做点心吗？”
+"Wǒmen è le, kěyǐ wèi [@wǒmen@] zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>65189</StartMilliseconds>
+    <EndMilliseconds>65462</EndMilliseconds>
+    <Text>“我们饿了，可以为我们[@做@]点心吗？”
+"Wǒmen è le, kěyǐ wèi wǒmen [@zuò@] diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>65463</StartMilliseconds>
+    <EndMilliseconds>66091</EndMilliseconds>
+    <Text>“我们饿了，可以为我们做[@点心@]吗？”
+"Wǒmen è le, kěyǐ wèi wǒmen zuò [@diǎnxin@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>66092</StartMilliseconds>
+    <EndMilliseconds>66424</EndMilliseconds>
+    <Text>“我们饿了，可以为我们做点心[@吗@]？”
+"Wǒmen è le, kěyǐ wèi wǒmen zuò diǎnxin [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>66425</StartMilliseconds>
+    <EndMilliseconds>66863</EndMilliseconds>
+    <Text>“我们饿了，可以为我们做点心吗？”
+"Wǒmen è le, kěyǐ wèi wǒmen zuò diǎnxin ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>66864</StartMilliseconds>
+    <EndMilliseconds>67321</EndMilliseconds>
+    <Text>“嗯……我们一定要做吗？”
+"Eng…… Wǒmen yídìng yào zuò ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>67322</StartMilliseconds>
+    <EndMilliseconds>68287</EndMilliseconds>
+    <Text>“[@嗯@]……我们一定要做吗？”
+"[@Eng@]…… Wǒmen yídìng yào zuò ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>68288</StartMilliseconds>
+    <EndMilliseconds>68634</EndMilliseconds>
+    <Text>“嗯……我们一定要做吗？”
+"Eng…… Wǒmen yídìng yào zuò ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>68635</StartMilliseconds>
+    <EndMilliseconds>69361</EndMilliseconds>
+    <Text>“嗯……[@我们@]一定要做吗？”
+"Eng…… [@Wǒmen@] yídìng yào zuò ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>69362</StartMilliseconds>
+    <EndMilliseconds>69939</EndMilliseconds>
+    <Text>“嗯……我们[@一定@]要做吗？”
+"Eng…… Wǒmen [@yídìng@] yào zuò ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>69940</StartMilliseconds>
+    <EndMilliseconds>70260</EndMilliseconds>
+    <Text>“嗯……我们一定[@要@]做吗？”
+"Eng…… Wǒmen yídìng [@yào@] zuò ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>70261</StartMilliseconds>
+    <EndMilliseconds>70585</EndMilliseconds>
+    <Text>“嗯……我们一定要[@做@]吗？”
+"Eng…… Wǒmen yídìng yào [@zuò@] ma?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>70586</StartMilliseconds>
+    <EndMilliseconds>70983</EndMilliseconds>
+    <Text>“嗯……我们一定要做[@吗@]？”
+"Eng…… Wǒmen yídìng yào zuò [@ma@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>70984</StartMilliseconds>
+    <EndMilliseconds>76936</EndMilliseconds>
+    <Text>“嗯……我们一定要做吗？”
+"Eng…… Wǒmen yídìng yào zuò ma?"</Text>
+  </Paragraph>
+</Subtitle>

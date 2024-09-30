@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12705</StartMilliseconds>
+    <EndMilliseconds>14814</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge tuōbǎ.
+我有一个拖把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14815</StartMilliseconds>
+    <EndMilliseconds>15152</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge tuōbǎ.
+[@我@]有一个拖把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15153</StartMilliseconds>
+    <EndMilliseconds>15412</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge tuōbǎ.
+我[@有@]一个拖把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15413</StartMilliseconds>
+    <EndMilliseconds>15623</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge tuōbǎ.
+我有[@一@]个拖把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15624</StartMilliseconds>
+    <EndMilliseconds>15817</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] tuōbǎ.
+我有一[@个@]拖把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15818</StartMilliseconds>
+    <EndMilliseconds>16566</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@tuōbǎ@].
+我有一个[@拖把@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16567</StartMilliseconds>
+    <EndMilliseconds>21847</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge tuōbǎ.
+我有一个拖把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21848</StartMilliseconds>
+    <EndMilliseconds>23658</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge dà tǒng.
+我有一个大桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23659</StartMilliseconds>
+    <EndMilliseconds>24132</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge dà tǒng.
+[@我@]有一个大桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24133</StartMilliseconds>
+    <EndMilliseconds>24306</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge dà tǒng.
+我[@有@]一个大桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24307</StartMilliseconds>
+    <EndMilliseconds>24479</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge dà tǒng.
+我有[@一@]个大桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24480</StartMilliseconds>
+    <EndMilliseconds>24642</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] dà tǒng.
+我有一[@个@]大桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24643</StartMilliseconds>
+    <EndMilliseconds>25025</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@dà@] tǒng.
+我有一个[@大@]桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25026</StartMilliseconds>
+    <EndMilliseconds>25647</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge dà [@tǒng@].
+我有一个大[@桶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25648</StartMilliseconds>
+    <EndMilliseconds>29955</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge dà tǒng.
+我有一个大桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29956</StartMilliseconds>
+    <EndMilliseconds>31998</EndMilliseconds>
+    <Text>Wǒ yǒu hěn duō yàoshi.
+我有很多钥匙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31999</StartMilliseconds>
+    <EndMilliseconds>32353</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu hěn duō yàoshi.
+[@我@]有很多钥匙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32354</StartMilliseconds>
+    <EndMilliseconds>32606</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] hěn duō yàoshi.
+我[@有@]很多钥匙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32607</StartMilliseconds>
+    <EndMilliseconds>33061</EndMilliseconds>
+    <Text>Wǒ yǒu [@hěn@] duō yàoshi.
+我有[@很@]多钥匙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33062</StartMilliseconds>
+    <EndMilliseconds>33314</EndMilliseconds>
+    <Text>Wǒ yǒu hěn [@duō@] yàoshi.
+我有很[@多@]钥匙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33315</StartMilliseconds>
+    <EndMilliseconds>34009</EndMilliseconds>
+    <Text>Wǒ yǒu hěn duō [@yàoshi@].
+我有很多[@钥匙@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34010</StartMilliseconds>
+    <EndMilliseconds>38176</EndMilliseconds>
+    <Text>Wǒ yǒu hěn duō yàoshi.
+我有很多钥匙。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>38177</StartMilliseconds>
+    <EndMilliseconds>40368</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē mābù.
+我有一些抹布。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40369</StartMilliseconds>
+    <EndMilliseconds>40917</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē mābù.
+[@我@]有一些抹布。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>40918</StartMilliseconds>
+    <EndMilliseconds>41174</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē mābù.
+我[@有@]一些抹布。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41175</StartMilliseconds>
+    <EndMilliseconds>41515</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] mābù.
+我有[@一些@]抹布。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>41516</StartMilliseconds>
+    <EndMilliseconds>42122</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@mābù@].
+我有一些[@抹布@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>42123</StartMilliseconds>
+    <EndMilliseconds>46844</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē mābù.
+我有一些抹布。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>46845</StartMilliseconds>
+    <EndMilliseconds>48683</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge pēnshuǐpíng.
+我有一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>48684</StartMilliseconds>
+    <EndMilliseconds>49053</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge pēnshuǐpíng.
+[@我@]有一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49054</StartMilliseconds>
+    <EndMilliseconds>49260</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge pēnshuǐpíng.
+我[@有@]一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49261</StartMilliseconds>
+    <EndMilliseconds>49470</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge pēnshuǐpíng.
+我有[@一@]个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>49471</StartMilliseconds>
+    <EndMilliseconds>49745</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] pēnshuǐpíng.
+我有一[@个@]喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49746</StartMilliseconds>
+    <EndMilliseconds>50703</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@pēnshuǐpíng@].
+我有一个[@喷水瓶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>50704</StartMilliseconds>
+    <EndMilliseconds>55116</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge pēnshuǐpíng.
+我有一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55117</StartMilliseconds>
+    <EndMilliseconds>57008</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge dà sàobǎ.
+我有一个大扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>57009</StartMilliseconds>
+    <EndMilliseconds>57409</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge dà sàobǎ.
+[@我@]有一个大扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57410</StartMilliseconds>
+    <EndMilliseconds>57597</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge dà sàobǎ.
+我[@有@]一个大扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57598</StartMilliseconds>
+    <EndMilliseconds>57790</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge dà sàobǎ.
+我有[@一@]个大扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>57791</StartMilliseconds>
+    <EndMilliseconds>58101</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] dà sàobǎ.
+我有一[@个@]大扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>58102</StartMilliseconds>
+    <EndMilliseconds>58417</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@dà@] sàobǎ.
+我有一个[@大@]扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>58418</StartMilliseconds>
+    <EndMilliseconds>59183</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge dà [@sàobǎ@].
+我有一个大[@扫把@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>59184</StartMilliseconds>
+    <EndMilliseconds>63390</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge dà sàobǎ.
+我有一个大扫把。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63391</StartMilliseconds>
+    <EndMilliseconds>65315</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge lājītǒng.
+我有一个垃圾桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65316</StartMilliseconds>
+    <EndMilliseconds>65677</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge lājītǒng.
+[@我@]有一个垃圾桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65678</StartMilliseconds>
+    <EndMilliseconds>65918</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge lājītǒng.
+我[@有@]一个垃圾桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65919</StartMilliseconds>
+    <EndMilliseconds>66089</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge lājītǒng.
+我有[@一@]个垃圾桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66090</StartMilliseconds>
+    <EndMilliseconds>66410</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] lājītǒng.
+我有一[@个@]垃圾桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66411</StartMilliseconds>
+    <EndMilliseconds>67384</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@lājītǒng@].
+我有一个[@垃圾桶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>67385</StartMilliseconds>
+    <EndMilliseconds>71645</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge lājītǒng.
+我有一个垃圾桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>71646</StartMilliseconds>
+    <EndMilliseconds>73539</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>73540</StartMilliseconds>
+    <EndMilliseconds>73930</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73931</StartMilliseconds>
+    <EndMilliseconds>74183</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>74184</StartMilliseconds>
+    <EndMilliseconds>74642</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>74643</StartMilliseconds>
+    <EndMilliseconds>80244</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>80245</StartMilliseconds>
+    <EndMilliseconds>81378</EndMilliseconds>
+    <Text>Wǒ shì bǎojiéyuán.
+我是保洁员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>81379</StartMilliseconds>
+    <EndMilliseconds>81979</EndMilliseconds>
+    <Text>[@Wǒ@] shì bǎojiéyuán.
+[@我@]是保洁员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81980</StartMilliseconds>
+    <EndMilliseconds>82257</EndMilliseconds>
+    <Text>Wǒ [@shì@] bǎojiéyuán.
+我[@是@]保洁员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>82258</StartMilliseconds>
+    <EndMilliseconds>83267</EndMilliseconds>
+    <Text>Wǒ shì [@bǎojiéyuán@].
+我是[@保洁员@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>83268</StartMilliseconds>
+    <EndMilliseconds>87435</EndMilliseconds>
+    <Text>Wǒ shì bǎojiéyuán.
+我是保洁员。</Text>
+  </Paragraph>
+</Subtitle>

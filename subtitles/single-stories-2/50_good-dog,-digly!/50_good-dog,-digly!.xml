@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6787</StartMilliseconds>
+    <EndMilliseconds>8195</EndMilliseconds>
+    <Text>这是我的宠物。
+Zhè shì wǒ de chǒngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>8196</StartMilliseconds>
+    <EndMilliseconds>8587</EndMilliseconds>
+    <Text>[@这@]是我的宠物。
+[@Zhè@] shì wǒ de chǒngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>8588</StartMilliseconds>
+    <EndMilliseconds>9212</EndMilliseconds>
+    <Text>这[@是@]我的宠物。
+Zhè [@shì@] wǒ de chǒngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>9213</StartMilliseconds>
+    <EndMilliseconds>9758</EndMilliseconds>
+    <Text>这是[@我@]的宠物。
+Zhè shì [@wǒ@] de chǒngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>9759</StartMilliseconds>
+    <EndMilliseconds>10058</EndMilliseconds>
+    <Text>这是我[@的@]宠物。
+Zhè shì wǒ [@de@] chǒngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>10059</StartMilliseconds>
+    <EndMilliseconds>10953</EndMilliseconds>
+    <Text>这是我的[@宠物@]。
+Zhè shì wǒ de [@chǒngwù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>10954</StartMilliseconds>
+    <EndMilliseconds>11438</EndMilliseconds>
+    <Text>这是我的宠物。
+Zhè shì wǒ de chǒngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>11439</StartMilliseconds>
+    <EndMilliseconds>11724</EndMilliseconds>
+    <Text>它叫迪格里。
+Tā jiào Dígélǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>11725</StartMilliseconds>
+    <EndMilliseconds>12076</EndMilliseconds>
+    <Text>[@它@]叫迪格里。
+[@Tā@] jiào Dígélǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>12077</StartMilliseconds>
+    <EndMilliseconds>12656</EndMilliseconds>
+    <Text>它[@叫@]迪格里。
+Tā [@jiào@] Dígélǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>12657</StartMilliseconds>
+    <EndMilliseconds>14106</EndMilliseconds>
+    <Text>它叫[@迪格里@]。
+Tā jiào [@Dígélǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>14107</StartMilliseconds>
+    <EndMilliseconds>14769</EndMilliseconds>
+    <Text>它叫迪格里。
+Tā jiào Dígélǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>14770</StartMilliseconds>
+    <EndMilliseconds>15142</EndMilliseconds>
+    <Text>它能听懂很多话。
+Tā néng tīngdǒng hěn duō huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>15143</StartMilliseconds>
+    <EndMilliseconds>15727</EndMilliseconds>
+    <Text>[@它@]能听懂很多话。
+[@Tā@] néng tīngdǒng hěn duō huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>15728</StartMilliseconds>
+    <EndMilliseconds>16093</EndMilliseconds>
+    <Text>它[@能@]听懂很多话。
+Tā [@néng@] tīngdǒng hěn duō huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>16094</StartMilliseconds>
+    <EndMilliseconds>17007</EndMilliseconds>
+    <Text>它能[@听懂@]很多话。
+Tā néng [@tīngdǒng@] hěn duō huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>17008</StartMilliseconds>
+    <EndMilliseconds>17525</EndMilliseconds>
+    <Text>它能听懂[@很@]多话。
+Tā néng tīngdǒng [@hěn@] duō huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>17526</StartMilliseconds>
+    <EndMilliseconds>17858</EndMilliseconds>
+    <Text>它能听懂很[@多@]话。
+Tā néng tīngdǒng hěn [@duō@] huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>17859</StartMilliseconds>
+    <EndMilliseconds>18458</EndMilliseconds>
+    <Text>它能听懂很多[@话@]。
+Tā néng tīngdǒng hěn duō [@huà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>18459</StartMilliseconds>
+    <EndMilliseconds>21251</EndMilliseconds>
+    <Text>它能听懂很多话。
+Tā néng tīngdǒng hěn duō huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>21252</StartMilliseconds>
+    <EndMilliseconds>21880</EndMilliseconds>
+    <Text>它能坐。
+Tā néng zuò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>21881</StartMilliseconds>
+    <EndMilliseconds>22412</EndMilliseconds>
+    <Text>[@它@]能坐。
+[@Tā@] néng zuò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>22413</StartMilliseconds>
+    <EndMilliseconds>22870</EndMilliseconds>
+    <Text>它[@能@]坐。
+Tā [@néng@] zuò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>22871</StartMilliseconds>
+    <EndMilliseconds>23422</EndMilliseconds>
+    <Text>它能[@坐@]。
+Tā néng [@zuò@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>23423</StartMilliseconds>
+    <EndMilliseconds>23976</EndMilliseconds>
+    <Text>它能坐。
+Tā néng zuò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>23977</StartMilliseconds>
+    <EndMilliseconds>24472</EndMilliseconds>
+    <Text>迪格里，坐！
+Dígélǐ, zuò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>24473</StartMilliseconds>
+    <EndMilliseconds>25724</EndMilliseconds>
+    <Text>[@迪格里@]，坐！
+[@Dígélǐ@], zuò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>25725</StartMilliseconds>
+    <EndMilliseconds>26477</EndMilliseconds>
+    <Text>迪格里，[@坐@]！
+Dígélǐ, [@zuò@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>26478</StartMilliseconds>
+    <EndMilliseconds>30102</EndMilliseconds>
+    <Text>迪格里，坐！
+Dígélǐ, zuò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30103</StartMilliseconds>
+    <EndMilliseconds>30788</EndMilliseconds>
+    <Text>它能站起来。
+Tā néng zhàn qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>30789</StartMilliseconds>
+    <EndMilliseconds>31391</EndMilliseconds>
+    <Text>[@它@]能站起来。
+[@Tā@] néng zhàn qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>31392</StartMilliseconds>
+    <EndMilliseconds>31753</EndMilliseconds>
+    <Text>它[@能@]站起来。
+Tā [@néng@] zhàn qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>31754</StartMilliseconds>
+    <EndMilliseconds>32150</EndMilliseconds>
+    <Text>它能[@站@]起来。
+Tā néng [@zhàn@] qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>32151</StartMilliseconds>
+    <EndMilliseconds>32891</EndMilliseconds>
+    <Text>它能站[@起来@]。
+Tā néng zhàn [@qǐlai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>32892</StartMilliseconds>
+    <EndMilliseconds>33340</EndMilliseconds>
+    <Text>它能站起来。
+Tā néng zhàn qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>33341</StartMilliseconds>
+    <EndMilliseconds>33599</EndMilliseconds>
+    <Text>迪格里，站起来！
+Dígélǐ, zhàn qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>33600</StartMilliseconds>
+    <EndMilliseconds>34845</EndMilliseconds>
+    <Text>[@迪格里@]，站起来！
+[@Dígélǐ@], zhàn qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>34846</StartMilliseconds>
+    <EndMilliseconds>35252</EndMilliseconds>
+    <Text>迪格里，[@站@]起来！
+Dígélǐ, [@zhàn@] qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>35253</StartMilliseconds>
+    <EndMilliseconds>35956</EndMilliseconds>
+    <Text>迪格里，站[@起来@]！
+Dígélǐ, zhàn [@qǐlai@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>35957</StartMilliseconds>
+    <EndMilliseconds>37022</EndMilliseconds>
+    <Text>迪格里，站起来！
+Dígélǐ, zhàn qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>37023</StartMilliseconds>
+    <EndMilliseconds>37388</EndMilliseconds>
+    <Text>好孩子！
+Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>37389</StartMilliseconds>
+    <EndMilliseconds>37877</EndMilliseconds>
+    <Text>[@好@]孩子！
+[@Hǎo@] háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>37878</StartMilliseconds>
+    <EndMilliseconds>38677</EndMilliseconds>
+    <Text>好[@孩子@]！
+Hǎo [@háizi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>38678</StartMilliseconds>
+    <EndMilliseconds>41637</EndMilliseconds>
+    <Text>好孩子！
+Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>41638</StartMilliseconds>
+    <EndMilliseconds>42119</EndMilliseconds>
+    <Text>它能跳到盒子上。
+Tā néng tiàodào hézi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>42120</StartMilliseconds>
+    <EndMilliseconds>42644</EndMilliseconds>
+    <Text>[@它@]能跳到盒子上。
+[@Tā@] néng tiàodào hézi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>42645</StartMilliseconds>
+    <EndMilliseconds>42984</EndMilliseconds>
+    <Text>它[@能@]跳到盒子上。
+Tā [@néng@] tiàodào hézi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>42985</StartMilliseconds>
+    <EndMilliseconds>43820</EndMilliseconds>
+    <Text>它能[@跳到@]盒子上。
+Tā néng [@tiàodào@] hézi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>43821</StartMilliseconds>
+    <EndMilliseconds>44616</EndMilliseconds>
+    <Text>它能跳到[@盒子@]上。
+Tā néng tiàodào [@hézi@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>44617</StartMilliseconds>
+    <EndMilliseconds>45101</EndMilliseconds>
+    <Text>它能跳到盒子[@上@]。
+Tā néng tiàodào hézi [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>45102</StartMilliseconds>
+    <EndMilliseconds>45582</EndMilliseconds>
+    <Text>它能跳到盒子上。
+Tā néng tiàodào hézi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>45583</StartMilliseconds>
+    <EndMilliseconds>45979</EndMilliseconds>
+    <Text>迪格里，跳上来！
+Dígélǐ, tiào shànglai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>45980</StartMilliseconds>
+    <EndMilliseconds>47243</EndMilliseconds>
+    <Text>[@迪格里@]，跳上来！
+[@Dígélǐ@], tiào shànglai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>47244</StartMilliseconds>
+    <EndMilliseconds>47742</EndMilliseconds>
+    <Text>迪格里，[@跳@]上来！
+Dígélǐ, [@tiào@] shànglai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>47743</StartMilliseconds>
+    <EndMilliseconds>48439</EndMilliseconds>
+    <Text>迪格里，跳[@上来@]！
+Dígélǐ, tiào [@shànglai@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>48440</StartMilliseconds>
+    <EndMilliseconds>52102</EndMilliseconds>
+    <Text>迪格里，跳上来！
+Dígélǐ, tiào shànglai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>52103</StartMilliseconds>
+    <EndMilliseconds>53310</EndMilliseconds>
+    <Text>它能跳下去。
+Tā néng tiào xiàqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>53311</StartMilliseconds>
+    <EndMilliseconds>53695</EndMilliseconds>
+    <Text>[@它@]能跳下去。
+[@Tā@] néng tiào xiàqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>53696</StartMilliseconds>
+    <EndMilliseconds>54215</EndMilliseconds>
+    <Text>它[@能@]跳下去。
+Tā [@néng@] tiào xiàqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>54216</StartMilliseconds>
+    <EndMilliseconds>54740</EndMilliseconds>
+    <Text>它能[@跳@]下去。
+Tā néng [@tiào@] xiàqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>54741</StartMilliseconds>
+    <EndMilliseconds>55501</EndMilliseconds>
+    <Text>它能跳[@下去@]。
+Tā néng tiào [@xiàqu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>55502</StartMilliseconds>
+    <EndMilliseconds>55865</EndMilliseconds>
+    <Text>它能跳下去。
+Tā néng tiào xiàqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>55866</StartMilliseconds>
+    <EndMilliseconds>56180</EndMilliseconds>
+    <Text>迪格里，跳下去！
+Dígélǐ, tiào xiàqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>56181</StartMilliseconds>
+    <EndMilliseconds>57496</EndMilliseconds>
+    <Text>[@迪格里@]，跳下去！
+[@Dígélǐ@], tiào xiàqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>57497</StartMilliseconds>
+    <EndMilliseconds>57988</EndMilliseconds>
+    <Text>迪格里，[@跳@]下去！
+Dígélǐ, [@tiào@] xiàqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>57989</StartMilliseconds>
+    <EndMilliseconds>58701</EndMilliseconds>
+    <Text>迪格里，跳[@下去@]！
+Dígélǐ, tiào [@xiàqu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>58702</StartMilliseconds>
+    <EndMilliseconds>59651</EndMilliseconds>
+    <Text>迪格里，跳下去！
+Dígélǐ, tiào xiàqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>59652</StartMilliseconds>
+    <EndMilliseconds>60244</EndMilliseconds>
+    <Text>好孩子！
+Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>60245</StartMilliseconds>
+    <EndMilliseconds>60606</EndMilliseconds>
+    <Text>[@好@]孩子！
+[@Hǎo@] háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>60607</StartMilliseconds>
+    <EndMilliseconds>61351</EndMilliseconds>
+    <Text>好[@孩子@]！
+Hǎo [@háizi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>61352</StartMilliseconds>
+    <EndMilliseconds>64352</EndMilliseconds>
+    <Text>好孩子！
+Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>64353</StartMilliseconds>
+    <EndMilliseconds>65183</EndMilliseconds>
+    <Text>它能走上坡道。
+Tā néng zǒu shàngpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>65184</StartMilliseconds>
+    <EndMilliseconds>65585</EndMilliseconds>
+    <Text>[@它@]能走上坡道。
+[@Tā@] néng zǒu shàngpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>65586</StartMilliseconds>
+    <EndMilliseconds>66030</EndMilliseconds>
+    <Text>它[@能@]走上坡道。
+Tā [@néng@] zǒu shàngpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>66031</StartMilliseconds>
+    <EndMilliseconds>66918</EndMilliseconds>
+    <Text>它能[@走@]上坡道。
+Tā néng [@zǒu@] shàngpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>66919</StartMilliseconds>
+    <EndMilliseconds>68409</EndMilliseconds>
+    <Text>它能走[@上坡道@]。
+Tā néng zǒu [@shàngpōdào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>68410</StartMilliseconds>
+    <EndMilliseconds>68869</EndMilliseconds>
+    <Text>它能走上坡道。
+Tā néng zǒu shàngpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>68870</StartMilliseconds>
+    <EndMilliseconds>69324</EndMilliseconds>
+    <Text>迪格里，走上去！
+Dígélǐ, zǒu shàngqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>69325</StartMilliseconds>
+    <EndMilliseconds>70717</EndMilliseconds>
+    <Text>[@迪格里@]，走上去！
+[@Dígélǐ@], zǒu shàngqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>70718</StartMilliseconds>
+    <EndMilliseconds>71161</EndMilliseconds>
+    <Text>迪格里，[@走@]上去！
+Dígélǐ, [@zǒu@] shàngqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>71162</StartMilliseconds>
+    <EndMilliseconds>71968</EndMilliseconds>
+    <Text>迪格里，走[@上去@]！
+Dígélǐ, zǒu [@shàngqu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>71969</StartMilliseconds>
+    <EndMilliseconds>76553</EndMilliseconds>
+    <Text>迪格里，走上去！
+Dígélǐ, zǒu shàngqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>76554</StartMilliseconds>
+    <EndMilliseconds>78052</EndMilliseconds>
+    <Text>它能走下坡道。
+Tā néng zǒu xiàpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>78053</StartMilliseconds>
+    <EndMilliseconds>78477</EndMilliseconds>
+    <Text>[@它@]能走下坡道。
+[@Tā@] néng zǒu xiàpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>78478</StartMilliseconds>
+    <EndMilliseconds>78851</EndMilliseconds>
+    <Text>它[@能@]走下坡道。
+Tā [@néng@] zǒu xiàpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>78852</StartMilliseconds>
+    <EndMilliseconds>79656</EndMilliseconds>
+    <Text>它能[@走@]下坡道。
+Tā néng [@zǒu@] xiàpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>79657</StartMilliseconds>
+    <EndMilliseconds>81195</EndMilliseconds>
+    <Text>它能走[@下坡道@]。
+Tā néng zǒu [@xiàpōdào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>81196</StartMilliseconds>
+    <EndMilliseconds>81623</EndMilliseconds>
+    <Text>它能走下坡道。
+Tā néng zǒu xiàpōdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>81624</StartMilliseconds>
+    <EndMilliseconds>81986</EndMilliseconds>
+    <Text>迪格里，走下来！
+Dígélǐ, zǒu xiàlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>81987</StartMilliseconds>
+    <EndMilliseconds>83214</EndMilliseconds>
+    <Text>[@迪格里@]，走下来！
+[@Dígélǐ@], zǒu xiàlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>83215</StartMilliseconds>
+    <EndMilliseconds>83530</EndMilliseconds>
+    <Text>迪格里，[@走@]下来！
+Dígélǐ, [@zǒu@] xiàlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>83531</StartMilliseconds>
+    <EndMilliseconds>84361</EndMilliseconds>
+    <Text>迪格里，走[@下来@]！
+Dígélǐ, zǒu [@xiàlai@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>84362</StartMilliseconds>
+    <EndMilliseconds>85252</EndMilliseconds>
+    <Text>迪格里，走下来！
+Dígélǐ, zǒu xiàlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>85253</StartMilliseconds>
+    <EndMilliseconds>85542</EndMilliseconds>
+    <Text>好孩子！
+Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>85543</StartMilliseconds>
+    <EndMilliseconds>85882</EndMilliseconds>
+    <Text>[@好@]孩子！
+[@Hǎo@] háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>85883</StartMilliseconds>
+    <EndMilliseconds>86610</EndMilliseconds>
+    <Text>好[@孩子@]！
+Hǎo [@háizi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>86611</StartMilliseconds>
+    <EndMilliseconds>89899</EndMilliseconds>
+    <Text>好孩子！
+Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>89900</StartMilliseconds>
+    <EndMilliseconds>90887</EndMilliseconds>
+    <Text>它能趴在地板上。
+Tā néng pāzài dìbǎn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>90888</StartMilliseconds>
+    <EndMilliseconds>91356</EndMilliseconds>
+    <Text>[@它@]能趴在地板上。
+[@Tā@] néng pāzài dìbǎn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>91357</StartMilliseconds>
+    <EndMilliseconds>91821</EndMilliseconds>
+    <Text>它[@能@]趴在地板上。
+Tā [@néng@] pāzài dìbǎn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>91822</StartMilliseconds>
+    <EndMilliseconds>92739</EndMilliseconds>
+    <Text>它能[@趴在@]地板上。
+Tā néng [@pāzài@] dìbǎn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>92740</StartMilliseconds>
+    <EndMilliseconds>93404</EndMilliseconds>
+    <Text>它能趴在[@地板@]上。
+Tā néng pāzài [@dìbǎn@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>93405</StartMilliseconds>
+    <EndMilliseconds>93819</EndMilliseconds>
+    <Text>它能趴在地板[@上@]。
+Tā néng pāzài dìbǎn [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>93820</StartMilliseconds>
+    <EndMilliseconds>94175</EndMilliseconds>
+    <Text>它能趴在地板上。
+Tā néng pāzài dìbǎn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>94176</StartMilliseconds>
+    <EndMilliseconds>94658</EndMilliseconds>
+    <Text>迪格里，趴下！
+Dígélǐ, pāxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>94659</StartMilliseconds>
+    <EndMilliseconds>96027</EndMilliseconds>
+    <Text>[@迪格里@]，趴下！
+[@Dígélǐ@], pāxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>96028</StartMilliseconds>
+    <EndMilliseconds>96874</EndMilliseconds>
+    <Text>迪格里，[@趴下@]！
+Dígélǐ, [@pāxià@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>96875</StartMilliseconds>
+    <EndMilliseconds>100517</EndMilliseconds>
+    <Text>迪格里，趴下！
+Dígélǐ, pāxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>100518</StartMilliseconds>
+    <EndMilliseconds>100889</EndMilliseconds>
+    <Text>它能爬起来。
+Tā néng pá qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>100890</StartMilliseconds>
+    <EndMilliseconds>101239</EndMilliseconds>
+    <Text>[@它@]能爬起来。
+[@Tā@] néng pá qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>101240</StartMilliseconds>
+    <EndMilliseconds>101798</EndMilliseconds>
+    <Text>它[@能@]爬起来。
+Tā [@néng@] pá qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>101799</StartMilliseconds>
+    <EndMilliseconds>102234</EndMilliseconds>
+    <Text>它能[@爬@]起来。
+Tā néng [@pá@] qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>102235</StartMilliseconds>
+    <EndMilliseconds>103029</EndMilliseconds>
+    <Text>它能爬[@起来@]。
+Tā néng pá [@qǐlai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>103030</StartMilliseconds>
+    <EndMilliseconds>103462</EndMilliseconds>
+    <Text>它能爬起来。
+Tā néng pá qǐlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>103463</StartMilliseconds>
+    <EndMilliseconds>103774</EndMilliseconds>
+    <Text>迪格里，爬起来！
+Dígélǐ, pá qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>103775</StartMilliseconds>
+    <EndMilliseconds>105205</EndMilliseconds>
+    <Text>[@迪格里@]，爬起来！
+[@Dígélǐ@], pá qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>105206</StartMilliseconds>
+    <EndMilliseconds>105613</EndMilliseconds>
+    <Text>迪格里，[@爬@]起来！
+Dígélǐ, [@pá@] qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>105614</StartMilliseconds>
+    <EndMilliseconds>106267</EndMilliseconds>
+    <Text>迪格里，爬[@起来@]！
+Dígélǐ, pá [@qǐlai@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>106268</StartMilliseconds>
+    <EndMilliseconds>109491</EndMilliseconds>
+    <Text>迪格里，爬起来！
+Dígélǐ, pá qǐlai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>109492</StartMilliseconds>
+    <EndMilliseconds>111751</EndMilliseconds>
+    <Text>迪格里，慢点儿！
+Dígélǐ, màn diǎnr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>111752</StartMilliseconds>
+    <EndMilliseconds>113248</EndMilliseconds>
+    <Text>[@迪格里@]，慢点儿！
+[@Dígélǐ@], màn diǎnr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>113249</StartMilliseconds>
+    <EndMilliseconds>113690</EndMilliseconds>
+    <Text>迪格里，[@慢@]点儿！
+Dígélǐ, [@màn@] diǎnr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>113691</StartMilliseconds>
+    <EndMilliseconds>114583</EndMilliseconds>
+    <Text>迪格里，慢[@点儿@]！
+Dígélǐ, màn [@diǎnr@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>114584</StartMilliseconds>
+    <EndMilliseconds>114927</EndMilliseconds>
+    <Text>迪格里，慢点儿！
+Dígélǐ, màn diǎnr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>114928</StartMilliseconds>
+    <EndMilliseconds>115154</EndMilliseconds>
+    <Text>迪格里，等等！
+Dígélǐ, děngdeng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>115155</StartMilliseconds>
+    <EndMilliseconds>116612</EndMilliseconds>
+    <Text>[@迪格里@]，等等！
+[@Dígélǐ@], děngdeng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>116613</StartMilliseconds>
+    <EndMilliseconds>118109</EndMilliseconds>
+    <Text>迪格里，[@等等@]！
+Dígélǐ, [@děngdeng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>118110</StartMilliseconds>
+    <EndMilliseconds>121068</EndMilliseconds>
+    <Text>迪格里，等等！
+Dígélǐ, děngdeng!</Text>
+  </Paragraph>
+</Subtitle>

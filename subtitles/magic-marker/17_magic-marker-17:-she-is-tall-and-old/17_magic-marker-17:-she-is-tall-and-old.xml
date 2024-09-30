@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9534</StartMilliseconds>
+    <EndMilliseconds>15203</EndMilliseconds>
+    <Text>塔克：你在做什么，马克西？
+Tǎkè: Nǐ zài zuò shénme, Mǎkèxī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>15204</StartMilliseconds>
+    <EndMilliseconds>15463</EndMilliseconds>
+    <Text>塔克：[@你@]在做什么，马克西？
+Tǎkè: [@Nǐ@] zài zuò shénme, Mǎkèxī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15464</StartMilliseconds>
+    <EndMilliseconds>15748</EndMilliseconds>
+    <Text>塔克：你[@在@]做什么，马克西？
+Tǎkè: Nǐ [@zài@] zuò shénme, Mǎkèxī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15749</StartMilliseconds>
+    <EndMilliseconds>15998</EndMilliseconds>
+    <Text>塔克：你在[@做@]什么，马克西？
+Tǎkè: Nǐ zài [@zuò@] shénme, Mǎkèxī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15999</StartMilliseconds>
+    <EndMilliseconds>16738</EndMilliseconds>
+    <Text>塔克：你在做[@什么@]，马克西？
+Tǎkè: Nǐ zài zuò [@shénme@], Mǎkèxī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16739</StartMilliseconds>
+    <EndMilliseconds>17484</EndMilliseconds>
+    <Text>塔克：你在做什么，[@马克西@]？
+Tǎkè: Nǐ zài zuò shénme, [@Mǎkèxī@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17485</StartMilliseconds>
+    <EndMilliseconds>18311</EndMilliseconds>
+    <Text>塔克：你在做什么，马克西？
+Tǎkè: Nǐ zài zuò shénme, Mǎkèxī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>18312</StartMilliseconds>
+    <EndMilliseconds>18613</EndMilliseconds>
+    <Text>马克西：我在画纸杯蛋糕。
+Mǎkèxī: Wǒ zài huà zhǐbēi dàngāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>18614</StartMilliseconds>
+    <EndMilliseconds>18837</EndMilliseconds>
+    <Text>马克西：[@我@]在画纸杯蛋糕。
+Mǎkèxī: [@Wǒ@] zài huà zhǐbēi dàngāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>18838</StartMilliseconds>
+    <EndMilliseconds>19075</EndMilliseconds>
+    <Text>马克西：我[@在@]画纸杯蛋糕。
+Mǎkèxī: Wǒ [@zài@] huà zhǐbēi dàngāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19076</StartMilliseconds>
+    <EndMilliseconds>19443</EndMilliseconds>
+    <Text>马克西：我在[@画@]纸杯蛋糕。
+Mǎkèxī: Wǒ zài [@huà@] zhǐbēi dàngāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>19444</StartMilliseconds>
+    <EndMilliseconds>19994</EndMilliseconds>
+    <Text>马克西：我在画[@纸杯@]蛋糕。
+Mǎkèxī: Wǒ zài huà [@zhǐbēi@] dàngāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19995</StartMilliseconds>
+    <EndMilliseconds>20674</EndMilliseconds>
+    <Text>马克西：我在画纸杯[@蛋糕@]。
+Mǎkèxī: Wǒ zài huà zhǐbēi [@dàngāo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20675</StartMilliseconds>
+    <EndMilliseconds>28728</EndMilliseconds>
+    <Text>马克西：我在画纸杯蛋糕。
+Mǎkèxī: Wǒ zài huà zhǐbēi dàngāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>28729</StartMilliseconds>
+    <EndMilliseconds>29223</EndMilliseconds>
+    <Text>苏：这是谁？
+Sū: Zhè shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29224</StartMilliseconds>
+    <EndMilliseconds>29439</EndMilliseconds>
+    <Text>苏：[@这@]是谁？
+Sū: [@Zhè@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>29440</StartMilliseconds>
+    <EndMilliseconds>29674</EndMilliseconds>
+    <Text>苏：这[@是@]谁？
+Sū: Zhè [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>29675</StartMilliseconds>
+    <EndMilliseconds>29959</EndMilliseconds>
+    <Text>苏：这是[@谁@]？
+Sū: Zhè shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>29960</StartMilliseconds>
+    <EndMilliseconds>30704</EndMilliseconds>
+    <Text>苏：这是谁？
+Sū: Zhè shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>30705</StartMilliseconds>
+    <EndMilliseconds>30866</EndMilliseconds>
+    <Text>马克西：我看不到，我太矮了。
+Mǎkèxī: Wǒ kàn bu dào, wǒ tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>30867</StartMilliseconds>
+    <EndMilliseconds>31077</EndMilliseconds>
+    <Text>马克西：[@我@]看不到，我太矮了。
+Mǎkèxī: [@Wǒ@] kàn bu dào, wǒ tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>31078</StartMilliseconds>
+    <EndMilliseconds>31391</EndMilliseconds>
+    <Text>马克西：我[@看@]不到，我太矮了。
+Mǎkèxī: Wǒ [@kàn@] bu dào, wǒ tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>31392</StartMilliseconds>
+    <EndMilliseconds>31620</EndMilliseconds>
+    <Text>马克西：我看[@不@]到，我太矮了。
+Mǎkèxī: Wǒ kàn [@bu@] dào, wǒ tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>31621</StartMilliseconds>
+    <EndMilliseconds>32163</EndMilliseconds>
+    <Text>马克西：我看不[@到@]，我太矮了。
+Mǎkèxī: Wǒ kàn bu [@dào@], wǒ tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32164</StartMilliseconds>
+    <EndMilliseconds>32376</EndMilliseconds>
+    <Text>马克西：我看不到，[@我@]太矮了。
+Mǎkèxī: Wǒ kàn bu dào, [@wǒ@] tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>32377</StartMilliseconds>
+    <EndMilliseconds>32701</EndMilliseconds>
+    <Text>马克西：我看不到，我[@太@]矮了。
+Mǎkèxī: Wǒ kàn bu dào, wǒ [@tài@] ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>32702</StartMilliseconds>
+    <EndMilliseconds>33066</EndMilliseconds>
+    <Text>马克西：我看不到，我太[@矮@]了。
+Mǎkèxī: Wǒ kàn bu dào, wǒ tài [@ǎi@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>33067</StartMilliseconds>
+    <EndMilliseconds>33400</EndMilliseconds>
+    <Text>马克西：我看不到，我太矮[@了@]。
+Mǎkèxī: Wǒ kàn bu dào, wǒ tài ǎi [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>33401</StartMilliseconds>
+    <EndMilliseconds>34157</EndMilliseconds>
+    <Text>马克西：我看不到，我太矮了。
+Mǎkèxī: Wǒ kàn bu dào, wǒ tài ǎi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>34158</StartMilliseconds>
+    <EndMilliseconds>34485</EndMilliseconds>
+    <Text>塔克：她又高又老。
+Tǎkè: Tā yòu gāo yòu lǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>34486</StartMilliseconds>
+    <EndMilliseconds>34783</EndMilliseconds>
+    <Text>塔克：[@她@]又高又老。
+Tǎkè: [@Tā@] yòu gāo yòu lǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>34784</StartMilliseconds>
+    <EndMilliseconds>35184</EndMilliseconds>
+    <Text>塔克：她[@又@]高又老。
+Tǎkè: Tā [@yòu@] gāo yòu lǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>35185</StartMilliseconds>
+    <EndMilliseconds>35524</EndMilliseconds>
+    <Text>塔克：她又[@高@]又老。
+Tǎkè: Tā yòu [@gāo@] yòu lǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>35525</StartMilliseconds>
+    <EndMilliseconds>35886</EndMilliseconds>
+    <Text>塔克：她又高[@又@]老。
+Tǎkè: Tā yòu gāo [@yòu@] lǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>35887</StartMilliseconds>
+    <EndMilliseconds>36420</EndMilliseconds>
+    <Text>塔克：她又高又[@老@]。
+Tǎkè: Tā yòu gāo yòu [@lǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>36421</StartMilliseconds>
+    <EndMilliseconds>36599</EndMilliseconds>
+    <Text>塔克：她又高又老。
+Tǎkè: Tā yòu gāo yòu lǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>36600</StartMilliseconds>
+    <EndMilliseconds>36777</EndMilliseconds>
+    <Text>塔克：她也很丑！
+Tǎkè: Tā yě hěn chǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>36778</StartMilliseconds>
+    <EndMilliseconds>37093</EndMilliseconds>
+    <Text>塔克：[@她@]也很丑！
+Tǎkè: [@Tā@] yě hěn chǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>37094</StartMilliseconds>
+    <EndMilliseconds>37308</EndMilliseconds>
+    <Text>塔克：她[@也@]很丑！
+Tǎkè: Tā [@yě@] hěn chǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>37309</StartMilliseconds>
+    <EndMilliseconds>37697</EndMilliseconds>
+    <Text>塔克：她也[@很@]丑！
+Tǎkè: Tā yě [@hěn@] chǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>37698</StartMilliseconds>
+    <EndMilliseconds>38287</EndMilliseconds>
+    <Text>塔克：她也很[@丑@]！
+Tǎkè: Tā yě hěn [@chǒu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>38288</StartMilliseconds>
+    <EndMilliseconds>41997</EndMilliseconds>
+    <Text>塔克：她也很丑！
+Tǎkè: Tā yě hěn chǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>41998</StartMilliseconds>
+    <EndMilliseconds>43918</EndMilliseconds>
+    <Text>苏：你好。
+Sū: Nǐ hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>43919</StartMilliseconds>
+    <EndMilliseconds>44172</EndMilliseconds>
+    <Text>苏：[@你@]好。
+Sū: [@Nǐ@] hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>44173</StartMilliseconds>
+    <EndMilliseconds>44630</EndMilliseconds>
+    <Text>苏：你[@好@]。
+Sū: Nǐ [@hǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>44631</StartMilliseconds>
+    <EndMilliseconds>45238</EndMilliseconds>
+    <Text>苏：你好。
+Sū: Nǐ hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>45239</StartMilliseconds>
+    <EndMilliseconds>45527</EndMilliseconds>
+    <Text>布莱克夫人：你好，我是布莱克。
+Bùláikè fūrén: Nǐ hǎo, wǒ shì Bùláikè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>45528</StartMilliseconds>
+    <EndMilliseconds>45765</EndMilliseconds>
+    <Text>布莱克夫人：[@你@]好，我是布莱克。
+Bùláikè fūrén: [@Nǐ@] hǎo, wǒ shì Bùláikè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>45766</StartMilliseconds>
+    <EndMilliseconds>46418</EndMilliseconds>
+    <Text>布莱克夫人：你[@好@]，我是布莱克。
+Bùláikè fūrén: Nǐ [@hǎo@], wǒ shì Bùláikè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>46419</StartMilliseconds>
+    <EndMilliseconds>46644</EndMilliseconds>
+    <Text>布莱克夫人：你好，[@我@]是布莱克。
+Bùláikè fūrén: Nǐ hǎo, [@wǒ@] shì Bùláikè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>46645</StartMilliseconds>
+    <EndMilliseconds>46872</EndMilliseconds>
+    <Text>布莱克夫人：你好，我[@是@]布莱克。
+Bùláikè fūrén: Nǐ hǎo, wǒ [@shì@] Bùláikè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>46873</StartMilliseconds>
+    <EndMilliseconds>47685</EndMilliseconds>
+    <Text>布莱克夫人：你好，我是[@布莱克@]。
+Bùláikè fūrén: Nǐ hǎo, wǒ shì [@Bùláikè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>47686</StartMilliseconds>
+    <EndMilliseconds>48256</EndMilliseconds>
+    <Text>布莱克夫人：你好，我是布莱克。
+Bùláikè fūrén: Nǐ hǎo, wǒ shì Bùláikè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>48257</StartMilliseconds>
+    <EndMilliseconds>48393</EndMilliseconds>
+    <Text>布莱克夫人：请帮帮我。
+Bùláikè fūrén: Qǐng bāngbang wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>48394</StartMilliseconds>
+    <EndMilliseconds>48701</EndMilliseconds>
+    <Text>布莱克夫人：[@请@]帮帮我。
+Bùláikè fūrén: [@Qǐng@] bāngbang wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>48702</StartMilliseconds>
+    <EndMilliseconds>49219</EndMilliseconds>
+    <Text>布莱克夫人：请[@帮帮@]我。
+Bùláikè fūrén: Qǐng [@bāngbang@] wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>49220</StartMilliseconds>
+    <EndMilliseconds>49729</EndMilliseconds>
+    <Text>布莱克夫人：请帮帮[@我@]。
+Bùláikè fūrén: Qǐng bāngbang [@wǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>49730</StartMilliseconds>
+    <EndMilliseconds>50205</EndMilliseconds>
+    <Text>布莱克夫人：请帮帮我。
+Bùláikè fūrén: Qǐng bāngbang wǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>50206</StartMilliseconds>
+    <EndMilliseconds>50463</EndMilliseconds>
+    <Text>布莱克夫人：我的狗很小，是棕色的。
+Bùláikè fūrén: Wǒ de gǒu hěn xiǎo, shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>50464</StartMilliseconds>
+    <EndMilliseconds>50666</EndMilliseconds>
+    <Text>布莱克夫人：[@我@]的狗很小，是棕色的。
+Bùláikè fūrén: [@Wǒ@] de gǒu hěn xiǎo, shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>50667</StartMilliseconds>
+    <EndMilliseconds>50824</EndMilliseconds>
+    <Text>布莱克夫人：我[@的@]狗很小，是棕色的。
+Bùláikè fūrén: Wǒ [@de@] gǒu hěn xiǎo, shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>50825</StartMilliseconds>
+    <EndMilliseconds>51104</EndMilliseconds>
+    <Text>布莱克夫人：我的[@狗@]很小，是棕色的。
+Bùláikè fūrén: Wǒ de [@gǒu@] hěn xiǎo, shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>51105</StartMilliseconds>
+    <EndMilliseconds>51420</EndMilliseconds>
+    <Text>布莱克夫人：我的狗[@很@]小，是棕色的。
+Bùláikè fūrén: Wǒ de gǒu [@hěn@] xiǎo, shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>51421</StartMilliseconds>
+    <EndMilliseconds>52307</EndMilliseconds>
+    <Text>布莱克夫人：我的狗很[@小@]，是棕色的。
+Bùláikè fūrén: Wǒ de gǒu hěn [@xiǎo@], shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>52308</StartMilliseconds>
+    <EndMilliseconds>52603</EndMilliseconds>
+    <Text>布莱克夫人：我的狗很小，[@是@]棕色的。
+Bùláikè fūrén: Wǒ de gǒu hěn xiǎo, [@shì@] zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>52604</StartMilliseconds>
+    <EndMilliseconds>53388</EndMilliseconds>
+    <Text>布莱克夫人：我的狗很小，是[@棕色@]的。
+Bùláikè fūrén: Wǒ de gǒu hěn xiǎo, shì [@zōngsè@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>53389</StartMilliseconds>
+    <EndMilliseconds>53655</EndMilliseconds>
+    <Text>布莱克夫人：我的狗很小，是棕色[@的@]。
+Bùláikè fūrén: Wǒ de gǒu hěn xiǎo, shì zōngsè [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>53656</StartMilliseconds>
+    <EndMilliseconds>54095</EndMilliseconds>
+    <Text>布莱克夫人：我的狗很小，是棕色的。
+Bùláikè fūrén: Wǒ de gǒu hěn xiǎo, shì zōngsè de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>54096</StartMilliseconds>
+    <EndMilliseconds>54288</EndMilliseconds>
+    <Text>布莱克夫人：我的狗在哪里？
+Bùláikè fūrén: Wǒ de gǒu zài nǎli?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>54289</StartMilliseconds>
+    <EndMilliseconds>54485</EndMilliseconds>
+    <Text>布莱克夫人：[@我@]的狗在哪里？
+Bùláikè fūrén: [@Wǒ@] de gǒu zài nǎli?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>54486</StartMilliseconds>
+    <EndMilliseconds>54660</EndMilliseconds>
+    <Text>布莱克夫人：我[@的@]狗在哪里？
+Bùláikè fūrén: Wǒ [@de@] gǒu zài nǎli?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>54661</StartMilliseconds>
+    <EndMilliseconds>55000</EndMilliseconds>
+    <Text>布莱克夫人：我的[@狗@]在哪里？
+Bùláikè fūrén: Wǒ de [@gǒu@] zài nǎli?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>55001</StartMilliseconds>
+    <EndMilliseconds>55242</EndMilliseconds>
+    <Text>布莱克夫人：我的狗[@在@]哪里？
+Bùláikè fūrén: Wǒ de gǒu [@zài@] nǎli?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>55243</StartMilliseconds>
+    <EndMilliseconds>55997</EndMilliseconds>
+    <Text>布莱克夫人：我的狗在[@哪里@]？
+Bùláikè fūrén: Wǒ de gǒu zài [@nǎli@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>55998</StartMilliseconds>
+    <EndMilliseconds>58098</EndMilliseconds>
+    <Text>布莱克夫人：我的狗在哪里？
+Bùláikè fūrén: Wǒ de gǒu zài nǎli?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>58099</StartMilliseconds>
+    <EndMilliseconds>58352</EndMilliseconds>
+    <Text>苏：我不知道。
+Sū: Wǒ bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>58353</StartMilliseconds>
+    <EndMilliseconds>58569</EndMilliseconds>
+    <Text>苏：[@我@]不知道。
+Sū: [@Wǒ@] bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>58570</StartMilliseconds>
+    <EndMilliseconds>58743</EndMilliseconds>
+    <Text>苏：我[@不@]知道。
+Sū: Wǒ [@bù@] zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>58744</StartMilliseconds>
+    <EndMilliseconds>59304</EndMilliseconds>
+    <Text>苏：我不[@知道@]。
+Sū: Wǒ bù [@zhīdào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>59305</StartMilliseconds>
+    <EndMilliseconds>60705</EndMilliseconds>
+    <Text>苏：我不知道。
+Sū: Wǒ bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>60706</StartMilliseconds>
+    <EndMilliseconds>61041</EndMilliseconds>
+    <Text>布莱克夫人：我很伤心。
+Bùláikè fūrén: Wǒ hěn shāngxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>61042</StartMilliseconds>
+    <EndMilliseconds>61387</EndMilliseconds>
+    <Text>布莱克夫人：[@我@]很伤心。
+Bùláikè fūrén: [@Wǒ@] hěn shāngxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>61388</StartMilliseconds>
+    <EndMilliseconds>61594</EndMilliseconds>
+    <Text>布莱克夫人：我[@很@]伤心。
+Bùláikè fūrén: Wǒ [@hěn@] shāngxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>61595</StartMilliseconds>
+    <EndMilliseconds>62407</EndMilliseconds>
+    <Text>布莱克夫人：我很[@伤心@]。
+Bùláikè fūrén: Wǒ hěn [@shāngxīn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>62408</StartMilliseconds>
+    <EndMilliseconds>65930</EndMilliseconds>
+    <Text>布莱克夫人：我很伤心。
+Bùláikè fūrén: Wǒ hěn shāngxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>65931</StartMilliseconds>
+    <EndMilliseconds>67819</EndMilliseconds>
+    <Text>布莱克夫人：阿嚏！
+Bùláikè fūrén: Ātì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>67820</StartMilliseconds>
+    <EndMilliseconds>68741</EndMilliseconds>
+    <Text>布莱克夫人：[@阿嚏@]！
+Bùláikè fūrén: [@Ātì@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>68742</StartMilliseconds>
+    <EndMilliseconds>69827</EndMilliseconds>
+    <Text>布莱克夫人：阿嚏！
+Bùláikè fūrén: Ātì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>69828</StartMilliseconds>
+    <EndMilliseconds>70227</EndMilliseconds>
+    <Text>塔克：马克西！她是谁？
+Tǎkè: Mǎkèxī! Tā shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>70228</StartMilliseconds>
+    <EndMilliseconds>71221</EndMilliseconds>
+    <Text>塔克：[@马克西@]！她是谁？
+Tǎkè: [@Mǎkèxī@]! Tā shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>71222</StartMilliseconds>
+    <EndMilliseconds>71545</EndMilliseconds>
+    <Text>塔克：马克西！[@她@]是谁？
+Tǎkè: Mǎkèxī! [@Tā@] shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>71546</StartMilliseconds>
+    <EndMilliseconds>71782</EndMilliseconds>
+    <Text>塔克：马克西！她[@是@]谁？
+Tǎkè: Mǎkèxī! Tā [@shì@] shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>71783</StartMilliseconds>
+    <EndMilliseconds>72280</EndMilliseconds>
+    <Text>塔克：马克西！她是[@谁@]？
+Tǎkè: Mǎkèxī! Tā shì [@shuí@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>72284</StartMilliseconds>
+    <EndMilliseconds>79337</EndMilliseconds>
+    <Text>塔克：马克西！她是谁？
+Tǎkè: Mǎkèxī! Tā shì shuí?</Text>
+  </Paragraph>
+</Subtitle>

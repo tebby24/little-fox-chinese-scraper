@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9818</StartMilliseconds>
+    <EndMilliseconds>23818</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn nàr!
+浣熊：快看那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>23819</StartMilliseconds>
+    <EndMilliseconds>24138</EndMilliseconds>
+    <Text>huànxióng: [@Kuài@] kàn nàr!
+浣熊：[@快@]看那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>24139</StartMilliseconds>
+    <EndMilliseconds>24571</EndMilliseconds>
+    <Text>huànxióng: Kuài [@kàn@] nàr!
+浣熊：快[@看@]那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>24572</StartMilliseconds>
+    <EndMilliseconds>25085</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn [@nàr@]!
+浣熊：快看[@那儿@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>25086</StartMilliseconds>
+    <EndMilliseconds>26007</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn nàr!
+浣熊：快看那儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>26008</StartMilliseconds>
+    <EndMilliseconds>26376</EndMilliseconds>
+    <Text>huànxióng: Kàn nà zhī húdié!
+浣熊：看那只蝴蝶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>26377</StartMilliseconds>
+    <EndMilliseconds>26944</EndMilliseconds>
+    <Text>huànxióng: [@Kàn@] nà zhī húdié!
+浣熊：[@看@]那只蝴蝶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>26945</StartMilliseconds>
+    <EndMilliseconds>27561</EndMilliseconds>
+    <Text>huànxióng: Kàn [@nà@] zhī húdié!
+浣熊：看[@那@]只蝴蝶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>27562</StartMilliseconds>
+    <EndMilliseconds>27885</EndMilliseconds>
+    <Text>huànxióng: Kàn nà [@zhī@] húdié!
+浣熊：看那[@只@]蝴蝶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>27886</StartMilliseconds>
+    <EndMilliseconds>28880</EndMilliseconds>
+    <Text>huànxióng: Kàn nà zhī [@húdié@]!
+浣熊：看那只[@蝴蝶@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>28881</StartMilliseconds>
+    <EndMilliseconds>37277</EndMilliseconds>
+    <Text>huànxióng: Kàn nà zhī húdié!
+浣熊：看那只蝴蝶！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>37278</StartMilliseconds>
+    <EndMilliseconds>42253</EndMilliseconds>
+    <Text>tùzi: Kuài kàn zhèr!
+兔子：快看这儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>42254</StartMilliseconds>
+    <EndMilliseconds>42624</EndMilliseconds>
+    <Text>tùzi: [@Kuài@] kàn zhèr!
+兔子：[@快@]看这儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>42625</StartMilliseconds>
+    <EndMilliseconds>42940</EndMilliseconds>
+    <Text>tùzi: Kuài [@kàn@] zhèr!
+兔子：快[@看@]这儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>42941</StartMilliseconds>
+    <EndMilliseconds>43583</EndMilliseconds>
+    <Text>tùzi: Kuài kàn [@zhèr@]!
+兔子：快看[@这儿@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>43584</StartMilliseconds>
+    <EndMilliseconds>45518</EndMilliseconds>
+    <Text>tùzi: Kuài kàn zhèr!
+兔子：快看这儿！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>45519</StartMilliseconds>
+    <EndMilliseconds>46952</EndMilliseconds>
+    <Text>tùzi: Kàn zhè zhī máomaochóng.
+兔子：看这只毛毛虫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>46953</StartMilliseconds>
+    <EndMilliseconds>47454</EndMilliseconds>
+    <Text>tùzi: [@Kàn@] zhè zhī máomaochóng.
+兔子：[@看@]这只毛毛虫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>47455</StartMilliseconds>
+    <EndMilliseconds>47818</EndMilliseconds>
+    <Text>tùzi: Kàn [@zhè@] zhī máomaochóng.
+兔子：看[@这@]只毛毛虫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>47819</StartMilliseconds>
+    <EndMilliseconds>48132</EndMilliseconds>
+    <Text>tùzi: Kàn zhè [@zhī@] máomaochóng.
+兔子：看这[@只@]毛毛虫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>48133</StartMilliseconds>
+    <EndMilliseconds>49206</EndMilliseconds>
+    <Text>tùzi: Kàn zhè zhī [@máomaochóng@].
+兔子：看这只[@毛毛虫@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>49207</StartMilliseconds>
+    <EndMilliseconds>53696</EndMilliseconds>
+    <Text>tùzi: Kàn zhè zhī máomaochóng.
+兔子：看这只毛毛虫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>53697</StartMilliseconds>
+    <EndMilliseconds>56387</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn shàngmian!
+松鼠：快看上面！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>56388</StartMilliseconds>
+    <EndMilliseconds>56734</EndMilliseconds>
+    <Text>sōngshǔ: [@Kuài@] kàn shàngmian!
+松鼠：[@快@]看上面！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>56735</StartMilliseconds>
+    <EndMilliseconds>57028</EndMilliseconds>
+    <Text>sōngshǔ: Kuài [@kàn@] shàngmian!
+松鼠：快[@看@]上面！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>57029</StartMilliseconds>
+    <EndMilliseconds>58255</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn [@shàngmian@]!
+松鼠：快看[@上面@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>58256</StartMilliseconds>
+    <EndMilliseconds>60051</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn shàngmian!
+松鼠：快看上面！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>60052</StartMilliseconds>
+    <EndMilliseconds>60520</EndMilliseconds>
+    <Text>sōngshǔ: Kàn nàxiē xiǎo niǎor.
+松鼠：看那些小鸟儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>60521</StartMilliseconds>
+    <EndMilliseconds>60828</EndMilliseconds>
+    <Text>sōngshǔ: [@Kàn@] nàxiē xiǎo niǎor.
+松鼠：[@看@]那些小鸟儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>60829</StartMilliseconds>
+    <EndMilliseconds>61484</EndMilliseconds>
+    <Text>sōngshǔ: Kàn [@nàxiē@] xiǎo niǎor.
+松鼠：看[@那些@]小鸟儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>61485</StartMilliseconds>
+    <EndMilliseconds>62025</EndMilliseconds>
+    <Text>sōngshǔ: Kàn nàxiē [@xiǎo@] niǎor.
+松鼠：看那些[@小@]鸟儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>62026</StartMilliseconds>
+    <EndMilliseconds>62993</EndMilliseconds>
+    <Text>sōngshǔ: Kàn nàxiē xiǎo [@niǎor@].
+松鼠：看那些小[@鸟儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>62994</StartMilliseconds>
+    <EndMilliseconds>70158</EndMilliseconds>
+    <Text>sōngshǔ: Kàn nàxiē xiǎo niǎor.
+松鼠：看那些小鸟儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>70159</StartMilliseconds>
+    <EndMilliseconds>73887</EndMilliseconds>
+    <Text>wūguī: Bù hǎo le!
+乌龟：不好了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>73888</StartMilliseconds>
+    <EndMilliseconds>74390</EndMilliseconds>
+    <Text>wūguī: [@Bù@] hǎo le!
+乌龟：[@不@]好了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>74391</StartMilliseconds>
+    <EndMilliseconds>75062</EndMilliseconds>
+    <Text>wūguī: Bù [@hǎo@] le!
+乌龟：不[@好@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>75063</StartMilliseconds>
+    <EndMilliseconds>75855</EndMilliseconds>
+    <Text>wūguī: Bù hǎo [@le@]!
+乌龟：不好[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>75856</StartMilliseconds>
+    <EndMilliseconds>76684</EndMilliseconds>
+    <Text>wūguī: Bù hǎo le!
+乌龟：不好了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>76685</StartMilliseconds>
+    <EndMilliseconds>76688</EndMilliseconds>
+    <Text>wūguī: Kuài kàn tiānkōng!
+乌龟：快看天空！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>76688</StartMilliseconds>
+    <EndMilliseconds>77450</EndMilliseconds>
+    <Text>wūguī: [@Kuài@] kàn tiānkōng!
+乌龟：[@快@]看天空！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>77451</StartMilliseconds>
+    <EndMilliseconds>77998</EndMilliseconds>
+    <Text>wūguī: Kuài [@kàn@] tiānkōng!
+乌龟：快[@看@]天空！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>77999</StartMilliseconds>
+    <EndMilliseconds>79529</EndMilliseconds>
+    <Text>wūguī: Kuài kàn [@tiānkōng@]!
+乌龟：快看[@天空@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>79530</StartMilliseconds>
+    <EndMilliseconds>81478</EndMilliseconds>
+    <Text>wūguī: Kuài kàn tiānkōng!
+乌龟：快看天空！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>81479</StartMilliseconds>
+    <EndMilliseconds>82023</EndMilliseconds>
+    <Text>wūguī: Kàn nàxiē yún.
+乌龟：看那些云。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>82024</StartMilliseconds>
+    <EndMilliseconds>82724</EndMilliseconds>
+    <Text>wūguī: [@Kàn@] nàxiē yún.
+乌龟：[@看@]那些云。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>82725</StartMilliseconds>
+    <EndMilliseconds>83692</EndMilliseconds>
+    <Text>wūguī: Kàn [@nàxiē@] yún.
+乌龟：看[@那些@]云。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>83693</StartMilliseconds>
+    <EndMilliseconds>84699</EndMilliseconds>
+    <Text>wūguī: Kàn nàxiē [@yún@].
+乌龟：看那些[@云@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>84700</StartMilliseconds>
+    <EndMilliseconds>87768</EndMilliseconds>
+    <Text>wūguī: Kàn nàxiē yún.
+乌龟：看那些云。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>87769</StartMilliseconds>
+    <EndMilliseconds>94067</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn, nàli yǒu ge dòngxué.
+松鼠：快看，那里有个洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>94068</StartMilliseconds>
+    <EndMilliseconds>94470</EndMilliseconds>
+    <Text>sōngshǔ: [@Kuài@] kàn, nàli yǒu ge dòngxué.
+松鼠：[@快@]看，那里有个洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>94471</StartMilliseconds>
+    <EndMilliseconds>95529</EndMilliseconds>
+    <Text>sōngshǔ: Kuài [@kàn@], nàli yǒu ge dòngxué.
+松鼠：快[@看@]，那里有个洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>95530</StartMilliseconds>
+    <EndMilliseconds>96356</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn, [@nàli@] yǒu ge dòngxué.
+松鼠：快看，[@那里@]有个洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>96357</StartMilliseconds>
+    <EndMilliseconds>96732</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn, nàli [@yǒu@] ge dòngxué.
+松鼠：快看，那里[@有@]个洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>96733</StartMilliseconds>
+    <EndMilliseconds>97186</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn, nàli yǒu [@ge@] dòngxué.
+松鼠：快看，那里有[@个@]洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>97194</StartMilliseconds>
+    <EndMilliseconds>97884</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn, nàli yǒu ge [@dòngxué@].
+松鼠：快看，那里有个[@洞穴@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>97885</StartMilliseconds>
+    <EndMilliseconds>98362</EndMilliseconds>
+    <Text>sōngshǔ: Kuài kàn, nàli yǒu ge dòngxué.
+松鼠：快看，那里有个洞穴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>98365</StartMilliseconds>
+    <EndMilliseconds>98726</EndMilliseconds>
+    <Text>sōngshǔ: Kuài jìnqu ba!
+松鼠：快进去吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>98727</StartMilliseconds>
+    <EndMilliseconds>99136</EndMilliseconds>
+    <Text>sōngshǔ: [@Kuài@] jìnqu ba!
+松鼠：[@快@]进去吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>99137</StartMilliseconds>
+    <EndMilliseconds>99758</EndMilliseconds>
+    <Text>sōngshǔ: Kuài [@jìnqu@] ba!
+松鼠：快[@进去@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>99759</StartMilliseconds>
+    <EndMilliseconds>100269</EndMilliseconds>
+    <Text>sōngshǔ: Kuài jìnqu [@ba@]!
+松鼠：快进去[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>100270</StartMilliseconds>
+    <EndMilliseconds>103659</EndMilliseconds>
+    <Text>sōngshǔ: Kuài jìnqu ba!
+松鼠：快进去吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>103660</StartMilliseconds>
+    <EndMilliseconds>111574</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn zhè yǔ.
+浣熊：快看这雨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>111575</StartMilliseconds>
+    <EndMilliseconds>111988</EndMilliseconds>
+    <Text>huànxióng: [@Kuài@] kàn zhè yǔ.
+浣熊：[@快@]看这雨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>111989</StartMilliseconds>
+    <EndMilliseconds>112567</EndMilliseconds>
+    <Text>huànxióng: Kuài [@kàn@] zhè yǔ.
+浣熊：快[@看@]这雨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>112568</StartMilliseconds>
+    <EndMilliseconds>113149</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn [@zhè@] yǔ.
+浣熊：快看[@这@]雨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>113150</StartMilliseconds>
+    <EndMilliseconds>113869</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn zhè [@yǔ@].
+浣熊：快看这[@雨@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>113870</StartMilliseconds>
+    <EndMilliseconds>115418</EndMilliseconds>
+    <Text>huànxióng: Kuài kàn zhè yǔ.
+浣熊：快看这雨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>115419</StartMilliseconds>
+    <EndMilliseconds>116510</EndMilliseconds>
+    <Text>tùzi: Kuài kàn zhè ní.
+兔子：快看这泥。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>116511</StartMilliseconds>
+    <EndMilliseconds>116830</EndMilliseconds>
+    <Text>tùzi: [@Kuài@] kàn zhè ní.
+兔子：[@快@]看这泥。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>116831</StartMilliseconds>
+    <EndMilliseconds>117234</EndMilliseconds>
+    <Text>tùzi: Kuài [@kàn@] zhè ní.
+兔子：快[@看@]这泥。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>117235</StartMilliseconds>
+    <EndMilliseconds>117611</EndMilliseconds>
+    <Text>tùzi: Kuài kàn [@zhè@] ní.
+兔子：快看[@这@]泥。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>117612</StartMilliseconds>
+    <EndMilliseconds>118277</EndMilliseconds>
+    <Text>tùzi: Kuài kàn zhè [@ní@].
+兔子：快看这[@泥@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>118278</StartMilliseconds>
+    <EndMilliseconds>121005</EndMilliseconds>
+    <Text>tùzi: Kuài kàn zhè ní.
+兔子：快看这泥。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>121006</StartMilliseconds>
+    <EndMilliseconds>122470</EndMilliseconds>
+    <Text>sōngshǔ: Kànkan wǒmen.
+松鼠：看看我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>122471</StartMilliseconds>
+    <EndMilliseconds>123146</EndMilliseconds>
+    <Text>sōngshǔ: [@Kànkan@] wǒmen.
+松鼠：[@看看@]我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>123147</StartMilliseconds>
+    <EndMilliseconds>124282</EndMilliseconds>
+    <Text>sōngshǔ: Kànkan [@wǒmen@].
+松鼠：看看[@我们@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>124283</StartMilliseconds>
+    <EndMilliseconds>124455</EndMilliseconds>
+    <Text>sōngshǔ: Kànkan wǒmen.
+松鼠：看看我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>124456</StartMilliseconds>
+    <EndMilliseconds>124591</EndMilliseconds>
+    <Text>sōngshǔ: Yìdiǎnr dōu méiyǒu shī ne!
+松鼠：一点儿都没有湿呢！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>124592</StartMilliseconds>
+    <EndMilliseconds>125431</EndMilliseconds>
+    <Text>sōngshǔ: [@Yìdiǎnr@] dōu méiyǒu shī ne!
+松鼠：[@一点儿@]都没有湿呢！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>125432</StartMilliseconds>
+    <EndMilliseconds>125684</EndMilliseconds>
+    <Text>sōngshǔ: Yìdiǎnr [@dōu@] méiyǒu shī ne!
+松鼠：一点儿[@都@]没有湿呢！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>125685</StartMilliseconds>
+    <EndMilliseconds>126061</EndMilliseconds>
+    <Text>sōngshǔ: Yìdiǎnr dōu [@méiyǒu@] shī ne!
+松鼠：一点儿都[@没有@]湿呢！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>126062</StartMilliseconds>
+    <EndMilliseconds>126524</EndMilliseconds>
+    <Text>sōngshǔ: Yìdiǎnr dōu méiyǒu [@shī@] ne!
+松鼠：一点儿都没有[@湿@]呢！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>126525</StartMilliseconds>
+    <EndMilliseconds>127157</EndMilliseconds>
+    <Text>sōngshǔ: Yìdiǎnr dōu méiyǒu shī [@ne@]!
+松鼠：一点儿都没有湿[@呢@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>127158</StartMilliseconds>
+    <EndMilliseconds>143270</EndMilliseconds>
+    <Text>sōngshǔ: Yìdiǎnr dōu méiyǒu shī ne!
+松鼠：一点儿都没有湿呢！</Text>
+  </Paragraph>
+</Subtitle>

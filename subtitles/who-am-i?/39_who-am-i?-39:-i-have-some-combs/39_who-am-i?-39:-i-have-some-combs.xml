@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10820</StartMilliseconds>
+    <EndMilliseconds>13086</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē shūzi.
+我有一些梳子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13086</StartMilliseconds>
+    <EndMilliseconds>13492</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē shūzi.
+[@我@]有一些梳子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13492</StartMilliseconds>
+    <EndMilliseconds>13750</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē shūzi.
+我[@有@]一些梳子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13750</StartMilliseconds>
+    <EndMilliseconds>14344</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] shūzi.
+我有[@一些@]梳子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14344</StartMilliseconds>
+    <EndMilliseconds>15031</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@shūzi@].
+我有一些[@梳子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15031</StartMilliseconds>
+    <EndMilliseconds>22292</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē shūzi.
+我有一些梳子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>22292</StartMilliseconds>
+    <EndMilliseconds>23753</EndMilliseconds>
+    <Text>Zhè shì yí ge pēnshuǐpíng.
+这是一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>23753</StartMilliseconds>
+    <EndMilliseconds>24081</EndMilliseconds>
+    <Text>[@Zhè@] shì yí ge pēnshuǐpíng.
+[@这@]是一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>24081</StartMilliseconds>
+    <EndMilliseconds>24355</EndMilliseconds>
+    <Text>Zhè [@shì@] yí ge pēnshuǐpíng.
+这[@是@]一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24355</StartMilliseconds>
+    <EndMilliseconds>24530</EndMilliseconds>
+    <Text>Zhè shì [@yí@] ge pēnshuǐpíng.
+这是[@一@]个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24530</StartMilliseconds>
+    <EndMilliseconds>24941</EndMilliseconds>
+    <Text>Zhè shì yí [@ge@] pēnshuǐpíng.
+这是一[@个@]喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24941</StartMilliseconds>
+    <EndMilliseconds>26261</EndMilliseconds>
+    <Text>Zhè shì yí ge [@pēnshuǐpíng@].
+这是一个[@喷水瓶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>26261</StartMilliseconds>
+    <EndMilliseconds>30480</EndMilliseconds>
+    <Text>Zhè shì yí ge pēnshuǐpíng.
+这是一个喷水瓶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>30480</StartMilliseconds>
+    <EndMilliseconds>32066</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē jiǎndāo.
+我有一些剪刀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>32066</StartMilliseconds>
+    <EndMilliseconds>32394</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē jiǎndāo.
+[@我@]有一些剪刀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>32394</StartMilliseconds>
+    <EndMilliseconds>32636</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē jiǎndāo.
+我[@有@]一些剪刀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32636</StartMilliseconds>
+    <EndMilliseconds>33319</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] jiǎndāo.
+我有[@一些@]剪刀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>33319</StartMilliseconds>
+    <EndMilliseconds>34230</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@jiǎndāo@].
+我有一些[@剪刀@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>34230</StartMilliseconds>
+    <EndMilliseconds>38891</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē jiǎndāo.
+我有一些剪刀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>38891</StartMilliseconds>
+    <EndMilliseconds>40433</EndMilliseconds>
+    <Text>Zhè shì yí ge chuīfēngjī.
+这是一个吹风机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>40433</StartMilliseconds>
+    <EndMilliseconds>40664</EndMilliseconds>
+    <Text>[@Zhè@] shì yí ge chuīfēngjī.
+[@这@]是一个吹风机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>40664</StartMilliseconds>
+    <EndMilliseconds>40860</EndMilliseconds>
+    <Text>Zhè [@shì@] yí ge chuīfēngjī.
+这[@是@]一个吹风机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>40860</StartMilliseconds>
+    <EndMilliseconds>41063</EndMilliseconds>
+    <Text>Zhè shì [@yí@] ge chuīfēngjī.
+这是[@一@]个吹风机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>41063</StartMilliseconds>
+    <EndMilliseconds>41492</EndMilliseconds>
+    <Text>Zhè shì yí [@ge@] chuīfēngjī.
+这是一[@个@]吹风机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>41492</StartMilliseconds>
+    <EndMilliseconds>42703</EndMilliseconds>
+    <Text>Zhè shì yí ge [@chuīfēngjī@].
+这是一个[@吹风机@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>42703</StartMilliseconds>
+    <EndMilliseconds>47953</EndMilliseconds>
+    <Text>Zhè shì yí ge chuīfēngjī.
+这是一个吹风机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>47953</StartMilliseconds>
+    <EndMilliseconds>49563</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge xǐtóuchuáng.
+我有一个洗头床。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>49563</StartMilliseconds>
+    <EndMilliseconds>49867</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge xǐtóuchuáng.
+[@我@]有一个洗头床。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>49867</StartMilliseconds>
+    <EndMilliseconds>50117</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge xǐtóuchuáng.
+我[@有@]一个洗头床。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>50117</StartMilliseconds>
+    <EndMilliseconds>50274</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge xǐtóuchuáng.
+我有[@一@]个洗头床。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>50274</StartMilliseconds>
+    <EndMilliseconds>50649</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] xǐtóuchuáng.
+我有一[@个@]洗头床。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>50649</StartMilliseconds>
+    <EndMilliseconds>52055</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@xǐtóuchuáng@].
+我有一个[@洗头床@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>52055</StartMilliseconds>
+    <EndMilliseconds>56291</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge xǐtóuchuáng.
+我有一个洗头床。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>56291</StartMilliseconds>
+    <EndMilliseconds>57877</EndMilliseconds>
+    <Text>Zhè shì xǐfàshuǐ.
+这是洗发水。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>57877</StartMilliseconds>
+    <EndMilliseconds>58197</EndMilliseconds>
+    <Text>[@Zhè@] shì xǐfàshuǐ.
+[@这@]是洗发水。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>58197</StartMilliseconds>
+    <EndMilliseconds>58596</EndMilliseconds>
+    <Text>Zhè [@shì@] xǐfàshuǐ.
+这[@是@]洗发水。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>58596</StartMilliseconds>
+    <EndMilliseconds>59939</EndMilliseconds>
+    <Text>Zhè shì [@xǐfàshuǐ@].
+这是[@洗发水@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>59939</StartMilliseconds>
+    <EndMilliseconds>64713</EndMilliseconds>
+    <Text>Zhè shì xǐfàshuǐ.
+这是洗发水。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>64713</StartMilliseconds>
+    <EndMilliseconds>66197</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge diàntuīzi.
+我有一个电推子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>66197</StartMilliseconds>
+    <EndMilliseconds>66518</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge diàntuīzi.
+[@我@]有一个电推子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>66518</StartMilliseconds>
+    <EndMilliseconds>66807</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge diàntuīzi.
+我[@有@]一个电推子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>66807</StartMilliseconds>
+    <EndMilliseconds>67010</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge diàntuīzi.
+我有[@一@]个电推子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>67010</StartMilliseconds>
+    <EndMilliseconds>67471</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] diàntuīzi.
+我有一[@个@]电推子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>67471</StartMilliseconds>
+    <EndMilliseconds>68619</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@diàntuīzi@].
+我有一个[@电推子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>68619</StartMilliseconds>
+    <EndMilliseconds>73940</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge diàntuīzi.
+我有一个电推子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>73940</StartMilliseconds>
+    <EndMilliseconds>75418</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>75418</StartMilliseconds>
+    <EndMilliseconds>75915</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>75915</StartMilliseconds>
+    <EndMilliseconds>76275</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>76275</StartMilliseconds>
+    <EndMilliseconds>76767</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>76767</StartMilliseconds>
+    <EndMilliseconds>81376</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>81376</StartMilliseconds>
+    <EndMilliseconds>83306</EndMilliseconds>
+    <Text>Wǒ shì měifàshī.
+我是美发师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>83306</StartMilliseconds>
+    <EndMilliseconds>83571</EndMilliseconds>
+    <Text>[@Wǒ@] shì měifàshī.
+[@我@]是美发师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>83571</StartMilliseconds>
+    <EndMilliseconds>84220</EndMilliseconds>
+    <Text>Wǒ [@shì@] měifàshī.
+我[@是@]美发师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>84220</StartMilliseconds>
+    <EndMilliseconds>85611</EndMilliseconds>
+    <Text>Wǒ shì [@měifàshī@].
+我是[@美发师@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>85611</StartMilliseconds>
+    <EndMilliseconds>90540</EndMilliseconds>
+    <Text>Wǒ shì měifàshī.
+我是美发师。</Text>
+  </Paragraph>
+</Subtitle>

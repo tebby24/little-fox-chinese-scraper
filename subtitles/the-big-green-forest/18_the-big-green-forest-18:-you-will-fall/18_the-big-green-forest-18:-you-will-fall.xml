@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13135</StartMilliseconds>
+    <EndMilliseconds>26632</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng mùtou shàng diào xiàlai de.
+熊：你会从木头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>26633</StartMilliseconds>
+    <EndMilliseconds>27196</EndMilliseconds>
+    <Text>xióng: [@Nǐ@] huì cóng mùtou shàng diào xiàlai de.
+熊：[@你@]会从木头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>27197</StartMilliseconds>
+    <EndMilliseconds>27793</EndMilliseconds>
+    <Text>xióng: Nǐ [@huì@] cóng mùtou shàng diào xiàlai de.
+熊：你[@会@]从木头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>27794</StartMilliseconds>
+    <EndMilliseconds>28331</EndMilliseconds>
+    <Text>xióng: Nǐ huì [@cóng@] mùtou shàng diào xiàlai de.
+熊：你会[@从@]木头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>28332</StartMilliseconds>
+    <EndMilliseconds>29313</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng [@mùtou@] shàng diào xiàlai de.
+熊：你会从[@木头@]上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>29314</StartMilliseconds>
+    <EndMilliseconds>30140</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng mùtou [@shàng@] diào xiàlai de.
+熊：你会从木头[@上@]掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>30141</StartMilliseconds>
+    <EndMilliseconds>30713</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng mùtou shàng [@diào@] xiàlai de.
+熊：你会从木头上[@掉@]下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>30714</StartMilliseconds>
+    <EndMilliseconds>31391</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng mùtou shàng diào [@xiàlai@] de.
+熊：你会从木头上掉[@下来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>31392</StartMilliseconds>
+    <EndMilliseconds>32096</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng mùtou shàng diào xiàlai [@de@].
+熊：你会从木头上掉下来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>32097</StartMilliseconds>
+    <EndMilliseconds>33070</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng mùtou shàng diào xiàlai de.
+熊：你会从木头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>33071</StartMilliseconds>
+    <EndMilliseconds>34073</EndMilliseconds>
+    <Text>tùzi: Wǒ bú huì diào xiàlai de.
+兔子：我不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>34074</StartMilliseconds>
+    <EndMilliseconds>35168</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] bú huì diào xiàlai de.
+兔子：[@我@]不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>35169</StartMilliseconds>
+    <EndMilliseconds>35621</EndMilliseconds>
+    <Text>tùzi: Wǒ [@bú@] huì diào xiàlai de.
+兔子：我[@不@]会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>35622</StartMilliseconds>
+    <EndMilliseconds>36111</EndMilliseconds>
+    <Text>tùzi: Wǒ bú [@huì@] diào xiàlai de.
+兔子：我不[@会@]掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>36112</StartMilliseconds>
+    <EndMilliseconds>36574</EndMilliseconds>
+    <Text>tùzi: Wǒ bú huì [@diào@] xiàlai de.
+兔子：我不会[@掉@]下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>36575</StartMilliseconds>
+    <EndMilliseconds>37169</EndMilliseconds>
+    <Text>tùzi: Wǒ bú huì diào [@xiàlai@] de.
+兔子：我不会掉[@下来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>37170</StartMilliseconds>
+    <EndMilliseconds>37826</EndMilliseconds>
+    <Text>tùzi: Wǒ bú huì diào xiàlai [@de@].
+兔子：我不会掉下来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>37827</StartMilliseconds>
+    <EndMilliseconds>39182</EndMilliseconds>
+    <Text>tùzi: Wǒ bú huì diào xiàlai de.
+兔子：我不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>39183</StartMilliseconds>
+    <EndMilliseconds>49992</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou shàng diào xiàlai le.
+兔子：哦！我从木头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>49993</StartMilliseconds>
+    <EndMilliseconds>51582</EndMilliseconds>
+    <Text>tùzi: [@Ó@]! Wǒ cóng mùtou shàng diào xiàlai le.
+兔子：[@哦@]！我从木头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>51583</StartMilliseconds>
+    <EndMilliseconds>56216</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou shàng diào xiàlai le.
+兔子：哦！我从木头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>56217</StartMilliseconds>
+    <EndMilliseconds>57269</EndMilliseconds>
+    <Text>tùzi: Ó! [@Wǒ@] cóng mùtou shàng diào xiàlai le.
+兔子：哦！[@我@]从木头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>57270</StartMilliseconds>
+    <EndMilliseconds>57906</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ [@cóng@] mùtou shàng diào xiàlai le.
+兔子：哦！我[@从@]木头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>57907</StartMilliseconds>
+    <EndMilliseconds>58652</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng [@mùtou@] shàng diào xiàlai le.
+兔子：哦！我从[@木头@]上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>58653</StartMilliseconds>
+    <EndMilliseconds>59300</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou [@shàng@] diào xiàlai le.
+兔子：哦！我从木头[@上@]掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>59301</StartMilliseconds>
+    <EndMilliseconds>59888</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou shàng [@diào@] xiàlai le.
+兔子：哦！我从木头上[@掉@]下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>59889</StartMilliseconds>
+    <EndMilliseconds>60650</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou shàng diào [@xiàlai@] le.
+兔子：哦！我从木头上掉[@下来@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>60651</StartMilliseconds>
+    <EndMilliseconds>61254</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou shàng diào xiàlai [@le@].
+兔子：哦！我从木头上掉下来[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>61255</StartMilliseconds>
+    <EndMilliseconds>68444</EndMilliseconds>
+    <Text>tùzi: Ó! Wǒ cóng mùtou shàng diào xiàlai le.
+兔子：哦！我从木头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>68445</StartMilliseconds>
+    <EndMilliseconds>74831</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng shítou shàng diào xiàlai de.
+熊：你会从石头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>74832</StartMilliseconds>
+    <EndMilliseconds>75431</EndMilliseconds>
+    <Text>xióng: [@Nǐ@] huì cóng shítou shàng diào xiàlai de.
+熊：[@你@]会从石头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>75432</StartMilliseconds>
+    <EndMilliseconds>76165</EndMilliseconds>
+    <Text>xióng: Nǐ [@huì@] cóng shítou shàng diào xiàlai de.
+熊：你[@会@]从石头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>76166</StartMilliseconds>
+    <EndMilliseconds>76584</EndMilliseconds>
+    <Text>xióng: Nǐ huì [@cóng@] shítou shàng diào xiàlai de.
+熊：你会[@从@]石头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>76585</StartMilliseconds>
+    <EndMilliseconds>77444</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng [@shítou@] shàng diào xiàlai de.
+熊：你会从[@石头@]上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>77445</StartMilliseconds>
+    <EndMilliseconds>78249</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng shítou [@shàng@] diào xiàlai de.
+熊：你会从石头[@上@]掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>78250</StartMilliseconds>
+    <EndMilliseconds>78811</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng shítou shàng [@diào@] xiàlai de.
+熊：你会从石头上[@掉@]下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>78812</StartMilliseconds>
+    <EndMilliseconds>79486</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng shítou shàng diào [@xiàlai@] de.
+熊：你会从石头上掉[@下来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>79487</StartMilliseconds>
+    <EndMilliseconds>80248</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng shítou shàng diào xiàlai [@de@].
+熊：你会从石头上掉下来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>80249</StartMilliseconds>
+    <EndMilliseconds>84607</EndMilliseconds>
+    <Text>xióng: Nǐ huì cóng shítou shàng diào xiàlai de.
+熊：你会从石头上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>84608</StartMilliseconds>
+    <EndMilliseconds>85980</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì diào xiàlai de.
+乌龟：我不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>85981</StartMilliseconds>
+    <EndMilliseconds>86697</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] bú huì diào xiàlai de.
+乌龟：[@我@]不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>86698</StartMilliseconds>
+    <EndMilliseconds>87215</EndMilliseconds>
+    <Text>wūguī: Wǒ [@bú@] huì diào xiàlai de.
+乌龟：我[@不@]会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>87216</StartMilliseconds>
+    <EndMilliseconds>87867</EndMilliseconds>
+    <Text>wūguī: Wǒ bú [@huì@] diào xiàlai de.
+乌龟：我不[@会@]掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>87868</StartMilliseconds>
+    <EndMilliseconds>88371</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì [@diào@] xiàlai de.
+乌龟：我不会[@掉@]下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>88372</StartMilliseconds>
+    <EndMilliseconds>89166</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì diào [@xiàlai@] de.
+乌龟：我不会掉[@下来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>89167</StartMilliseconds>
+    <EndMilliseconds>89839</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì diào xiàlai [@de@].
+乌龟：我不会掉下来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>89840</StartMilliseconds>
+    <EndMilliseconds>95828</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì diào xiàlai de.
+乌龟：我不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>95829</StartMilliseconds>
+    <EndMilliseconds>99315</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou shàng diào xiàlai le.
+乌龟：哦！我从石头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>99316</StartMilliseconds>
+    <EndMilliseconds>101608</EndMilliseconds>
+    <Text>wūguī: [@Ó@]! Wǒ cóng shítou shàng diào xiàlai le.
+乌龟：[@哦@]！我从石头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>101609</StartMilliseconds>
+    <EndMilliseconds>107224</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou shàng diào xiàlai le.
+乌龟：哦！我从石头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>107225</StartMilliseconds>
+    <EndMilliseconds>107819</EndMilliseconds>
+    <Text>wūguī: Ó! [@Wǒ@] cóng shítou shàng diào xiàlai le.
+乌龟：哦！[@我@]从石头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>107820</StartMilliseconds>
+    <EndMilliseconds>108658</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ [@cóng@] shítou shàng diào xiàlai le.
+乌龟：哦！我[@从@]石头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>108659</StartMilliseconds>
+    <EndMilliseconds>109566</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng [@shítou@] shàng diào xiàlai le.
+乌龟：哦！我从[@石头@]上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>109567</StartMilliseconds>
+    <EndMilliseconds>110376</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou [@shàng@] diào xiàlai le.
+乌龟：哦！我从石头[@上@]掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>110377</StartMilliseconds>
+    <EndMilliseconds>111017</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou shàng [@diào@] xiàlai le.
+乌龟：哦！我从石头上[@掉@]下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>111018</StartMilliseconds>
+    <EndMilliseconds>111847</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou shàng diào [@xiàlai@] le.
+乌龟：哦！我从石头上掉[@下来@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>111848</StartMilliseconds>
+    <EndMilliseconds>112589</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou shàng diào xiàlai [@le@].
+乌龟：哦！我从石头上掉下来[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>112590</StartMilliseconds>
+    <EndMilliseconds>127050</EndMilliseconds>
+    <Text>wūguī: Ó! Wǒ cóng shítou shàng diào xiàlai le.
+乌龟：哦！我从石头上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>127051</StartMilliseconds>
+    <EndMilliseconds>135099</EndMilliseconds>
+    <Text>xióng: Nǐ huì diào xiàlai de,
+熊：你会掉下来的，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>135100</StartMilliseconds>
+    <EndMilliseconds>135576</EndMilliseconds>
+    <Text>xióng: [@Nǐ@] huì diào xiàlai de,
+熊：[@你@]会掉下来的，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>135577</StartMilliseconds>
+    <EndMilliseconds>136122</EndMilliseconds>
+    <Text>xióng: Nǐ [@huì@] diào xiàlai de,
+熊：你[@会@]掉下来的，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>136123</StartMilliseconds>
+    <EndMilliseconds>136573</EndMilliseconds>
+    <Text>xióng: Nǐ huì [@diào@] xiàlai de,
+熊：你会[@掉@]下来的，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>136574</StartMilliseconds>
+    <EndMilliseconds>137072</EndMilliseconds>
+    <Text>xióng: Nǐ huì diào [@xiàlai@] de,
+熊：你会掉[@下来@]的，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>137073</StartMilliseconds>
+    <EndMilliseconds>137735</EndMilliseconds>
+    <Text>xióng: Nǐ huì diào xiàlai [@de@],
+熊：你会掉下来[@的@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>137736</StartMilliseconds>
+    <EndMilliseconds>141513</EndMilliseconds>
+    <Text>xióng: Nǐ huì diào xiàlai de,
+熊：你会掉下来的，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>141514</StartMilliseconds>
+    <EndMilliseconds>141828</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng shù shàng diào xiàlai de.
+熊：你会从树上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>141829</StartMilliseconds>
+    <EndMilliseconds>142126</EndMilliseconds>
+    <Text>xióng: [@nǐ@] huì cóng shù shàng diào xiàlai de.
+熊：[@你@]会从树上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>142127</StartMilliseconds>
+    <EndMilliseconds>142385</EndMilliseconds>
+    <Text>xióng: nǐ [@huì@] cóng shù shàng diào xiàlai de.
+熊：你[@会@]从树上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>142386</StartMilliseconds>
+    <EndMilliseconds>142954</EndMilliseconds>
+    <Text>xióng: nǐ huì [@cóng@] shù shàng diào xiàlai de.
+熊：你会[@从@]树上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>142955</StartMilliseconds>
+    <EndMilliseconds>143378</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng [@shù@] shàng diào xiàlai de.
+熊：你会从[@树@]上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>143379</StartMilliseconds>
+    <EndMilliseconds>144398</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng shù [@shàng@] diào xiàlai de.
+熊：你会从树[@上@]掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>144399</StartMilliseconds>
+    <EndMilliseconds>144981</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng shù shàng [@diào@] xiàlai de.
+熊：你会从树上[@掉@]下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>144982</StartMilliseconds>
+    <EndMilliseconds>145546</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng shù shàng diào [@xiàlai@] de.
+熊：你会从树上掉[@下来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>145547</StartMilliseconds>
+    <EndMilliseconds>146338</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng shù shàng diào xiàlai [@de@].
+熊：你会从树上掉下来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>146339</StartMilliseconds>
+    <EndMilliseconds>147664</EndMilliseconds>
+    <Text>xióng: nǐ huì cóng shù shàng diào xiàlai de.
+熊：你会从树上掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>147665</StartMilliseconds>
+    <EndMilliseconds>148485</EndMilliseconds>
+    <Text>huànxióng: Wǒ bú huì diào xiàlai de.
+浣熊：我不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>148486</StartMilliseconds>
+    <EndMilliseconds>149419</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] bú huì diào xiàlai de.
+浣熊：[@我@]不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>149420</StartMilliseconds>
+    <EndMilliseconds>149919</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@bú@] huì diào xiàlai de.
+浣熊：我[@不@]会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>149920</StartMilliseconds>
+    <EndMilliseconds>150451</EndMilliseconds>
+    <Text>huànxióng: Wǒ bú [@huì@] diào xiàlai de.
+浣熊：我不[@会@]掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>150452</StartMilliseconds>
+    <EndMilliseconds>150868</EndMilliseconds>
+    <Text>huànxióng: Wǒ bú huì [@diào@] xiàlai de.
+浣熊：我不会[@掉@]下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>150869</StartMilliseconds>
+    <EndMilliseconds>151429</EndMilliseconds>
+    <Text>huànxióng: Wǒ bú huì diào [@xiàlai@] de.
+浣熊：我不会掉[@下来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>151430</StartMilliseconds>
+    <EndMilliseconds>151987</EndMilliseconds>
+    <Text>huànxióng: Wǒ bú huì diào xiàlai [@de@].
+浣熊：我不会掉下来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>151988</StartMilliseconds>
+    <EndMilliseconds>155582</EndMilliseconds>
+    <Text>huànxióng: Wǒ bú huì diào xiàlai de.
+浣熊：我不会掉下来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>155583</StartMilliseconds>
+    <EndMilliseconds>162931</EndMilliseconds>
+    <Text>huànxióng: Ó! Ó! Āiyā!
+浣熊：哦！哦！哎呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>162932</StartMilliseconds>
+    <EndMilliseconds>163330</EndMilliseconds>
+    <Text>huànxióng: [@Ó@]! Ó! Āiyā!
+浣熊：[@哦@]！哦！哎呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>163331</StartMilliseconds>
+    <EndMilliseconds>163733</EndMilliseconds>
+    <Text>huànxióng: Ó! [@Ó@]! Āiyā!
+浣熊：哦！[@哦@]！哎呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>163734</StartMilliseconds>
+    <EndMilliseconds>164984</EndMilliseconds>
+    <Text>huànxióng: Ó! Ó! [@Āiyā@]!
+浣熊：哦！哦！[@哎呀@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>164985</StartMilliseconds>
+    <EndMilliseconds>170645</EndMilliseconds>
+    <Text>huànxióng: Ó! Ó! Āiyā!
+浣熊：哦！哦！哎呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>170646</StartMilliseconds>
+    <EndMilliseconds>170819</EndMilliseconds>
+    <Text>xióng: Ā!
+熊：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>170820</StartMilliseconds>
+    <EndMilliseconds>171905</EndMilliseconds>
+    <Text>xióng: [@Ā@]!
+熊：[@啊@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>171906</StartMilliseconds>
+    <EndMilliseconds>174050</EndMilliseconds>
+    <Text>xióng: Ā!
+熊：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>174051</StartMilliseconds>
+    <EndMilliseconds>175038</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng shù shàng diào xiàlai le.
+浣熊：我从树上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>175039</StartMilliseconds>
+    <EndMilliseconds>175602</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] cóng shù shàng diào xiàlai le.
+浣熊：[@我@]从树上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>175603</StartMilliseconds>
+    <EndMilliseconds>175962</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@cóng@] shù shàng diào xiàlai le.
+浣熊：我[@从@]树上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>175963</StartMilliseconds>
+    <EndMilliseconds>176404</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng [@shù@] shàng diào xiàlai le.
+浣熊：我从[@树@]上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>176405</StartMilliseconds>
+    <EndMilliseconds>177140</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng shù [@shàng@] diào xiàlai le.
+浣熊：我从树[@上@]掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>177141</StartMilliseconds>
+    <EndMilliseconds>177862</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng shù shàng [@diào@] xiàlai le.
+浣熊：我从树上[@掉@]下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>177863</StartMilliseconds>
+    <EndMilliseconds>178557</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng shù shàng diào [@xiàlai@] le.
+浣熊：我从树上掉[@下来@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>178558</StartMilliseconds>
+    <EndMilliseconds>179284</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng shù shàng diào xiàlai [@le@].
+浣熊：我从树上掉下来[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>179285</StartMilliseconds>
+    <EndMilliseconds>183342</EndMilliseconds>
+    <Text>huànxióng: Wǒ cóng shù shàng diào xiàlai le.
+浣熊：我从树上掉下来了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>183343</StartMilliseconds>
+    <EndMilliseconds>184169</EndMilliseconds>
+    <Text>xióng: Nǐ zádao wǒ le!
+熊：你砸到我了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>184170</StartMilliseconds>
+    <EndMilliseconds>184810</EndMilliseconds>
+    <Text>xióng: [@Nǐ@] zádao wǒ le!
+熊：[@你@]砸到我了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>184811</StartMilliseconds>
+    <EndMilliseconds>185766</EndMilliseconds>
+    <Text>xióng: Nǐ [@zádao@] wǒ le!
+熊：你[@砸到@]我了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>185767</StartMilliseconds>
+    <EndMilliseconds>186220</EndMilliseconds>
+    <Text>xióng: Nǐ zádao [@wǒ@] le!
+熊：你砸到[@我@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>186221</StartMilliseconds>
+    <EndMilliseconds>186792</EndMilliseconds>
+    <Text>xióng: Nǐ zádao wǒ [@le@]!
+熊：你砸到我[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>186793</StartMilliseconds>
+    <EndMilliseconds>195135</EndMilliseconds>
+    <Text>xióng: Nǐ zádao wǒ le!
+熊：你砸到我了！</Text>
+  </Paragraph>
+</Subtitle>

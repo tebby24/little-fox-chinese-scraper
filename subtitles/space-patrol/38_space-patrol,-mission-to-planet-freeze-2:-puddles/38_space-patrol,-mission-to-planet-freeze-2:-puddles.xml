@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12077</StartMilliseconds>
+    <EndMilliseconds>15305</EndMilliseconds>
+    <Text>“我看到冰冻星球了。” 小布说。
+"Wǒ kàndào Bīngdòng Xīngqiú le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>15305</StartMilliseconds>
+    <EndMilliseconds>15528</EndMilliseconds>
+    <Text>“[@我@]看到冰冻星球了。” 小布说。
+"[@Wǒ@] kàndào Bīngdòng Xīngqiú le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15528</StartMilliseconds>
+    <EndMilliseconds>15890</EndMilliseconds>
+    <Text>“我[@看到@]冰冻星球了。” 小布说。
+"Wǒ [@kàndào@] Bīngdòng Xīngqiú le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15890</StartMilliseconds>
+    <EndMilliseconds>16295</EndMilliseconds>
+    <Text>“我看到[@冰冻@]星球了。” 小布说。
+"Wǒ kàndào [@Bīngdòng@] Xīngqiú le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16295</StartMilliseconds>
+    <EndMilliseconds>16816</EndMilliseconds>
+    <Text>“我看到冰冻[@星球@]了。” 小布说。
+"Wǒ kàndào Bīngdòng [@Xīngqiú@] le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16816</StartMilliseconds>
+    <EndMilliseconds>17555</EndMilliseconds>
+    <Text>“我看到冰冻星球[@了@]。” 小布说。
+"Wǒ kàndào Bīngdòng Xīngqiú [@le@]." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17555</StartMilliseconds>
+    <EndMilliseconds>18036</EndMilliseconds>
+    <Text>“我看到冰冻星球了。” [@小布@]说。
+"Wǒ kàndào Bīngdòng Xīngqiú le." [@Xiǎobù@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>18036</StartMilliseconds>
+    <EndMilliseconds>18546</EndMilliseconds>
+    <Text>“我看到冰冻星球了。” 小布[@说@]。
+"Wǒ kàndào Bīngdòng Xīngqiú le." Xiǎobù [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>18546</StartMilliseconds>
+    <EndMilliseconds>19846</EndMilliseconds>
+    <Text>“我看到冰冻星球了。” 小布说。
+"Wǒ kàndào Bīngdòng Xīngqiú le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>19846</StartMilliseconds>
+    <EndMilliseconds>19936</EndMilliseconds>
+    <Text>灵果抖了抖。“那里有很多冰。”
+Língguǒ dǒu le dǒu. "Nàli yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19936</StartMilliseconds>
+    <EndMilliseconds>20416</EndMilliseconds>
+    <Text>[@灵果@]抖了抖。“那里有很多冰。”
+[@Língguǒ@] dǒu le dǒu. "Nàli yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>20416</StartMilliseconds>
+    <EndMilliseconds>20708</EndMilliseconds>
+    <Text>灵果[@抖@]了抖。“那里有很多冰。”
+Língguǒ [@dǒu@] le dǒu. "Nàli yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>20708</StartMilliseconds>
+    <EndMilliseconds>20878</EndMilliseconds>
+    <Text>灵果抖[@了@]抖。“那里有很多冰。”
+Língguǒ dǒu [@le@] dǒu. "Nàli yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20878</StartMilliseconds>
+    <EndMilliseconds>23521</EndMilliseconds>
+    <Text>灵果抖了[@抖@]。“那里有很多冰。”
+Língguǒ dǒu le [@dǒu@]. "Nàli yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>23521</StartMilliseconds>
+    <EndMilliseconds>24115</EndMilliseconds>
+    <Text>灵果抖了抖。“[@那里@]有很多冰。”
+Língguǒ dǒu le dǒu. "[@Nàli@] yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>24115</StartMilliseconds>
+    <EndMilliseconds>24262</EndMilliseconds>
+    <Text>灵果抖了抖。“那里[@有@]很多冰。”
+Língguǒ dǒu le dǒu. "Nàli [@yǒu@] hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>24262</StartMilliseconds>
+    <EndMilliseconds>24487</EndMilliseconds>
+    <Text>灵果抖了抖。“那里有[@很@]多冰。”
+Língguǒ dǒu le dǒu. "Nàli yǒu [@hěn@] duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>24487</StartMilliseconds>
+    <EndMilliseconds>24689</EndMilliseconds>
+    <Text>灵果抖了抖。“那里有很[@多@]冰。”
+Língguǒ dǒu le dǒu. "Nàli yǒu hěn [@duō@] bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24689</StartMilliseconds>
+    <EndMilliseconds>25159</EndMilliseconds>
+    <Text>灵果抖了抖。“那里有很多[@冰@]。”
+Língguǒ dǒu le dǒu. "Nàli yǒu hěn duō [@bīng@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>25159</StartMilliseconds>
+    <EndMilliseconds>26071</EndMilliseconds>
+    <Text>灵果抖了抖。“那里有很多冰。”
+Língguǒ dǒu le dǒu. "Nàli yǒu hěn duō bīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>26071</StartMilliseconds>
+    <EndMilliseconds>26179</EndMilliseconds>
+    <Text>小布点了点头。“那个星球是个冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26179</StartMilliseconds>
+    <EndMilliseconds>26854</EndMilliseconds>
+    <Text>[@小布@]点了点头。“那个星球是个冰冻的海洋。”
+[@Xiǎobù@] diǎn le diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>26854</StartMilliseconds>
+    <EndMilliseconds>27055</EndMilliseconds>
+    <Text>小布[@点@]了点头。“那个星球是个冰冻的海洋。”
+Xiǎobù [@diǎn@] le diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>27055</StartMilliseconds>
+    <EndMilliseconds>27173</EndMilliseconds>
+    <Text>小布点[@了@]点头。“那个星球是个冰冻的海洋。”
+Xiǎobù diǎn [@le@] diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>27173</StartMilliseconds>
+    <EndMilliseconds>27422</EndMilliseconds>
+    <Text>小布点了[@点@]头。“那个星球是个冰冻的海洋。”
+Xiǎobù diǎn le [@diǎn@] tóu. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>27422</StartMilliseconds>
+    <EndMilliseconds>28289</EndMilliseconds>
+    <Text>小布点了点[@头@]。“那个星球是个冰冻的海洋。”
+Xiǎobù diǎn le diǎn [@tóu@]. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28289</StartMilliseconds>
+    <EndMilliseconds>28574</EndMilliseconds>
+    <Text>小布点了点头。“[@那@]个星球是个冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "[@Nà@] ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>28574</StartMilliseconds>
+    <EndMilliseconds>28666</EndMilliseconds>
+    <Text>小布点了点头。“那[@个@]星球是个冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà [@ge@] Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>28666</StartMilliseconds>
+    <EndMilliseconds>29448</EndMilliseconds>
+    <Text>小布点了点头。“那个[@星球@]是个冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge [@Xīngqiú@] shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>29448</StartMilliseconds>
+    <EndMilliseconds>29658</EndMilliseconds>
+    <Text>小布点了点头。“那个星球[@是@]个冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú [@shì@] ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>29658</StartMilliseconds>
+    <EndMilliseconds>29786</EndMilliseconds>
+    <Text>小布点了点头。“那个星球是[@个@]冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú shì [@ge@] bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>29786</StartMilliseconds>
+    <EndMilliseconds>30196</EndMilliseconds>
+    <Text>小布点了点头。“那个星球是个[@冰冻@]的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú shì ge [@bīngdòng@] de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>30196</StartMilliseconds>
+    <EndMilliseconds>30325</EndMilliseconds>
+    <Text>小布点了点头。“那个星球是个冰冻[@的@]海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng [@de@] hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>30325</StartMilliseconds>
+    <EndMilliseconds>31238</EndMilliseconds>
+    <Text>小布点了点头。“那个星球是个冰冻的[@海洋@]。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng de [@hǎiyáng@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>31238</StartMilliseconds>
+    <EndMilliseconds>34285</EndMilliseconds>
+    <Text>小布点了点头。“那个星球是个冰冻的海洋。”
+Xiǎobù diǎn le diǎn tóu. "Nà ge Xīngqiú shì ge bīngdòng de hǎiyáng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>34286</StartMilliseconds>
+    <EndMilliseconds>34356</EndMilliseconds>
+    <Text>“我还看到水了！” 灵果说。
+"Wǒ hái kàndào shuǐ le!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>34356</StartMilliseconds>
+    <EndMilliseconds>34545</EndMilliseconds>
+    <Text>“[@我@]还看到水了！” 灵果说。
+"[@Wǒ@] hái kàndào shuǐ le!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>34545</StartMilliseconds>
+    <EndMilliseconds>34787</EndMilliseconds>
+    <Text>“我[@还@]看到水了！” 灵果说。
+"Wǒ [@hái@] kàndào shuǐ le!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>34787</StartMilliseconds>
+    <EndMilliseconds>35128</EndMilliseconds>
+    <Text>“我还[@看到@]水了！” 灵果说。
+"Wǒ hái [@kàndào@] shuǐ le!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>35128</StartMilliseconds>
+    <EndMilliseconds>35360</EndMilliseconds>
+    <Text>“我还看到[@水@]了！” 灵果说。
+"Wǒ hái kàndào [@shuǐ@] le!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>35360</StartMilliseconds>
+    <EndMilliseconds>36025</EndMilliseconds>
+    <Text>“我还看到水[@了@]！” 灵果说。
+"Wǒ hái kàndào shuǐ [@le@]!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>36025</StartMilliseconds>
+    <EndMilliseconds>36467</EndMilliseconds>
+    <Text>“我还看到水了！” [@灵果@]说。
+"Wǒ hái kàndào shuǐ le!" [@Língguǒ@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>36467</StartMilliseconds>
+    <EndMilliseconds>36953</EndMilliseconds>
+    <Text>“我还看到水了！” 灵果[@说@]。
+"Wǒ hái kàndào shuǐ le!" Língguǒ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>36953</StartMilliseconds>
+    <EndMilliseconds>40269</EndMilliseconds>
+    <Text>“我还看到水了！” 灵果说。
+"Wǒ hái kàndào shuǐ le!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>40269</StartMilliseconds>
+    <EndMilliseconds>40354</EndMilliseconds>
+    <Text>小布指着一个大大的太阳。
+Xiǎobù zhǐzhe yí ge dàdà de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>40354</StartMilliseconds>
+    <EndMilliseconds>41022</EndMilliseconds>
+    <Text>[@小布@]指着一个大大的太阳。
+[@Xiǎobù@] zhǐzhe yí ge dàdà de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>41023</StartMilliseconds>
+    <EndMilliseconds>41410</EndMilliseconds>
+    <Text>小布[@指着@]一个大大的太阳。
+Xiǎobù [@zhǐzhe@] yí ge dàdà de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>41410</StartMilliseconds>
+    <EndMilliseconds>41536</EndMilliseconds>
+    <Text>小布指着[@一@]个大大的太阳。
+Xiǎobù zhǐzhe [@yí@] ge dàdà de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>41536</StartMilliseconds>
+    <EndMilliseconds>41723</EndMilliseconds>
+    <Text>小布指着一[@个@]大大的太阳。
+Xiǎobù zhǐzhe yí [@ge@] dàdà de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>41723</StartMilliseconds>
+    <EndMilliseconds>42172</EndMilliseconds>
+    <Text>小布指着一个[@大大@]的太阳。
+Xiǎobù zhǐzhe yí ge [@dàdà@] de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>42172</StartMilliseconds>
+    <EndMilliseconds>42315</EndMilliseconds>
+    <Text>小布指着一个大大[@的@]太阳。
+Xiǎobù zhǐzhe yí ge dàdà [@de@] tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>42316</StartMilliseconds>
+    <EndMilliseconds>43021</EndMilliseconds>
+    <Text>小布指着一个大大的[@太阳@]。
+Xiǎobù zhǐzhe yí ge dàdà de [@tàiyáng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>43021</StartMilliseconds>
+    <EndMilliseconds>44511</EndMilliseconds>
+    <Text>小布指着一个大大的太阳。
+Xiǎobù zhǐzhe yí ge dàdà de tàiyáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>44512</StartMilliseconds>
+    <EndMilliseconds>44592</EndMilliseconds>
+    <Text>“冰冻星球的太阳看起来真大。
+"Bīngdòng Xīngqiú de tàiyáng kàn qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>44592</StartMilliseconds>
+    <EndMilliseconds>44993</EndMilliseconds>
+    <Text>“[@冰冻@]星球的太阳看起来真大。
+"[@Bīngdòng@] Xīngqiú de tàiyáng kàn qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>44993</StartMilliseconds>
+    <EndMilliseconds>45414</EndMilliseconds>
+    <Text>“冰冻[@星球@]的太阳看起来真大。
+"Bīngdòng [@Xīngqiú@] de tàiyáng kàn qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>45414</StartMilliseconds>
+    <EndMilliseconds>45529</EndMilliseconds>
+    <Text>“冰冻星球[@的@]太阳看起来真大。
+"Bīngdòng Xīngqiú [@de@] tàiyáng kàn qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>45530</StartMilliseconds>
+    <EndMilliseconds>46194</EndMilliseconds>
+    <Text>“冰冻星球的[@太阳@]看起来真大。
+"Bīngdòng Xīngqiú de [@tàiyáng@] kàn qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>46194</StartMilliseconds>
+    <EndMilliseconds>46437</EndMilliseconds>
+    <Text>“冰冻星球的太阳[@看@]起来真大。
+"Bīngdòng Xīngqiú de tàiyáng [@kàn@] qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>46437</StartMilliseconds>
+    <EndMilliseconds>46811</EndMilliseconds>
+    <Text>“冰冻星球的太阳看[@起来@]真大。
+"Bīngdòng Xīngqiú de tàiyáng kàn [@qǐlai@] zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>46811</StartMilliseconds>
+    <EndMilliseconds>47051</EndMilliseconds>
+    <Text>“冰冻星球的太阳看起来[@真@]大。
+"Bīngdòng Xīngqiú de tàiyáng kàn qǐlai [@zhēn@] dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>47051</StartMilliseconds>
+    <EndMilliseconds>47635</EndMilliseconds>
+    <Text>“冰冻星球的太阳看起来真[@大@]。
+"Bīngdòng Xīngqiú de tàiyáng kàn qǐlai zhēn [@dà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>47635</StartMilliseconds>
+    <EndMilliseconds>48844</EndMilliseconds>
+    <Text>“冰冻星球的太阳看起来真大。
+"Bīngdòng Xīngqiú de tàiyáng kàn qǐlai zhēn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>48844</StartMilliseconds>
+    <EndMilliseconds>48929</EndMilliseconds>
+    <Text>它应该没这么大的。”
+Tā yīnggāi méi zhème dà de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>48929</StartMilliseconds>
+    <EndMilliseconds>49133</EndMilliseconds>
+    <Text>[@它@]应该没这么大的。”
+[@Tā@] yīnggāi méi zhème dà de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>49133</StartMilliseconds>
+    <EndMilliseconds>49459</EndMilliseconds>
+    <Text>它[@应该@]没这么大的。”
+Tā [@yīnggāi@] méi zhème dà de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>49460</StartMilliseconds>
+    <EndMilliseconds>49791</EndMilliseconds>
+    <Text>它应该[@没@]这么大的。”
+Tā yīnggāi [@méi@] zhème dà de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>49791</StartMilliseconds>
+    <EndMilliseconds>50162</EndMilliseconds>
+    <Text>它应该没[@这么@]大的。”
+Tā yīnggāi méi [@zhème@] dà de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>50162</StartMilliseconds>
+    <EndMilliseconds>50482</EndMilliseconds>
+    <Text>它应该没这么[@大@]的。”
+Tā yīnggāi méi zhème [@dà@] de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>50482</StartMilliseconds>
+    <EndMilliseconds>50939</EndMilliseconds>
+    <Text>它应该没这么大[@的@]。”
+Tā yīnggāi méi zhème dà [@de@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>50940</StartMilliseconds>
+    <EndMilliseconds>52575</EndMilliseconds>
+    <Text>它应该没这么大的。”
+Tā yīnggāi méi zhème dà de."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>52576</StartMilliseconds>
+    <EndMilliseconds>52651</EndMilliseconds>
+    <Text>“啊哈！” 灵果大喊，
+"Ā hā!" Língguǒ dà hǎn,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>52651</StartMilliseconds>
+    <EndMilliseconds>53008</EndMilliseconds>
+    <Text>“[@啊@]哈！” 灵果大喊，
+"[@Ā@] hā!" Língguǒ dà hǎn,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>53008</StartMilliseconds>
+    <EndMilliseconds>53658</EndMilliseconds>
+    <Text>“啊[@哈@]！” 灵果大喊，
+"Ā [@hā@]!" Língguǒ dà hǎn,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>53658</StartMilliseconds>
+    <EndMilliseconds>54187</EndMilliseconds>
+    <Text>“啊哈！” [@灵果@]大喊，
+"Ā hā!" [@Língguǒ@] dà hǎn,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>54187</StartMilliseconds>
+    <EndMilliseconds>54469</EndMilliseconds>
+    <Text>“啊哈！” 灵果[@大@]喊，
+"Ā hā!" Língguǒ [@dà@] hǎn,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>54469</StartMilliseconds>
+    <EndMilliseconds>54897</EndMilliseconds>
+    <Text>“啊哈！” 灵果大[@喊@]，
+"Ā hā!" Língguǒ dà [@hǎn@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>54897</StartMilliseconds>
+    <EndMilliseconds>55161</EndMilliseconds>
+    <Text>“啊哈！” 灵果大喊，
+"Ā hā!" Língguǒ dà hǎn,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>55161</StartMilliseconds>
+    <EndMilliseconds>55242</EndMilliseconds>
+    <Text>“这就是冰冻星球在融化的原因！”
+"Zhè jiù shì Bīngdòng Xīngqiú zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>55242</StartMilliseconds>
+    <EndMilliseconds>55486</EndMilliseconds>
+    <Text>“[@这@]就是冰冻星球在融化的原因！”
+"[@Zhè@] jiù shì Bīngdòng Xīngqiú zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>55486</StartMilliseconds>
+    <EndMilliseconds>55598</EndMilliseconds>
+    <Text>“这[@就@]是冰冻星球在融化的原因！”
+"Zhè [@jiù@] shì Bīngdòng Xīngqiú zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>55598</StartMilliseconds>
+    <EndMilliseconds>55720</EndMilliseconds>
+    <Text>“这就[@是@]冰冻星球在融化的原因！”
+"Zhè jiù [@shì@] Bīngdòng Xīngqiú zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>55720</StartMilliseconds>
+    <EndMilliseconds>56014</EndMilliseconds>
+    <Text>“这就是[@冰冻@]星球在融化的原因！”
+"Zhè jiù shì [@Bīngdòng@] Xīngqiú zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>56014</StartMilliseconds>
+    <EndMilliseconds>56482</EndMilliseconds>
+    <Text>“这就是冰冻[@星球@]在融化的原因！”
+"Zhè jiù shì Bīngdòng [@Xīngqiú@] zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>56482</StartMilliseconds>
+    <EndMilliseconds>56666</EndMilliseconds>
+    <Text>“这就是冰冻星球[@在@]融化的原因！”
+"Zhè jiù shì Bīngdòng Xīngqiú [@zài@] rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>56667</StartMilliseconds>
+    <EndMilliseconds>57002</EndMilliseconds>
+    <Text>“这就是冰冻星球在[@融化@]的原因！”
+"Zhè jiù shì Bīngdòng Xīngqiú zài [@rónghuà@] de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>57002</StartMilliseconds>
+    <EndMilliseconds>57162</EndMilliseconds>
+    <Text>“这就是冰冻星球在融化[@的@]原因！”
+"Zhè jiù shì Bīngdòng Xīngqiú zài rónghuà [@de@] yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>57162</StartMilliseconds>
+    <EndMilliseconds>57633</EndMilliseconds>
+    <Text>“这就是冰冻星球在融化的[@原因@]！”
+"Zhè jiù shì Bīngdòng Xīngqiú zài rónghuà de [@yuányīn@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>57634</StartMilliseconds>
+    <EndMilliseconds>62715</EndMilliseconds>
+    <Text>“这就是冰冻星球在融化的原因！”
+"Zhè jiù shì Bīngdòng Xīngqiú zài rónghuà de yuányīn!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>62715</StartMilliseconds>
+    <EndMilliseconds>62796</EndMilliseconds>
+    <Text>飞船向着冰冻星球降落。
+Fēichuán xiàngzhe Bīngdòng Xīngqiú jiàngluò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>62796</StartMilliseconds>
+    <EndMilliseconds>63346</EndMilliseconds>
+    <Text>[@飞船@]向着冰冻星球降落。
+[@Fēichuán@] xiàngzhe Bīngdòng Xīngqiú jiàngluò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>63346</StartMilliseconds>
+    <EndMilliseconds>63669</EndMilliseconds>
+    <Text>飞船[@向着@]冰冻星球降落。
+Fēichuán [@xiàngzhe@] Bīngdòng Xīngqiú jiàngluò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>63669</StartMilliseconds>
+    <EndMilliseconds>64085</EndMilliseconds>
+    <Text>飞船向着[@冰冻@]星球降落。
+Fēichuán xiàngzhe [@Bīngdòng@] Xīngqiú jiàngluò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>64085</StartMilliseconds>
+    <EndMilliseconds>64498</EndMilliseconds>
+    <Text>飞船向着冰冻[@星球@]降落。
+Fēichuán xiàngzhe Bīngdòng [@Xīngqiú@] jiàngluò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>64498</StartMilliseconds>
+    <EndMilliseconds>65133</EndMilliseconds>
+    <Text>飞船向着冰冻星球[@降落@]。
+Fēichuán xiàngzhe Bīngdòng Xīngqiú [@jiàngluò@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>65133</StartMilliseconds>
+    <EndMilliseconds>73913</EndMilliseconds>
+    <Text>飞船向着冰冻星球降落。
+Fēichuán xiàngzhe Bīngdòng Xīngqiú jiàngluò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>73913</StartMilliseconds>
+    <EndMilliseconds>73994</EndMilliseconds>
+    <Text>灵果和小布找到了冰冻星人的小镇。
+Língguǒ hé Xiǎobù zhǎodào le Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>73995</StartMilliseconds>
+    <EndMilliseconds>74358</EndMilliseconds>
+    <Text>[@灵果@]和小布找到了冰冻星人的小镇。
+[@Língguǒ@] hé Xiǎobù zhǎodào le Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>74358</StartMilliseconds>
+    <EndMilliseconds>74519</EndMilliseconds>
+    <Text>灵果[@和@]小布找到了冰冻星人的小镇。
+Língguǒ [@hé@] Xiǎobù zhǎodào le Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>74519</StartMilliseconds>
+    <EndMilliseconds>75135</EndMilliseconds>
+    <Text>灵果和[@小布@]找到了冰冻星人的小镇。
+Língguǒ hé [@Xiǎobù@] zhǎodào le Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>75135</StartMilliseconds>
+    <EndMilliseconds>75733</EndMilliseconds>
+    <Text>灵果和小布[@找到@]了冰冻星人的小镇。
+Língguǒ hé Xiǎobù [@zhǎodào@] le Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>75733</StartMilliseconds>
+    <EndMilliseconds>75877</EndMilliseconds>
+    <Text>灵果和小布找到[@了@]冰冻星人的小镇。
+Língguǒ hé Xiǎobù zhǎodào [@le@] Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>75877</StartMilliseconds>
+    <EndMilliseconds>76220</EndMilliseconds>
+    <Text>灵果和小布找到了[@冰冻@]星人的小镇。
+Língguǒ hé Xiǎobù zhǎodào le [@Bīngdòng@] Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>76221</StartMilliseconds>
+    <EndMilliseconds>76615</EndMilliseconds>
+    <Text>灵果和小布找到了冰冻[@星人@]的小镇。
+Língguǒ hé Xiǎobù zhǎodào le Bīngdòng [@Xīngrén@] de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>76615</StartMilliseconds>
+    <EndMilliseconds>76718</EndMilliseconds>
+    <Text>灵果和小布找到了冰冻星人[@的@]小镇。
+Língguǒ hé Xiǎobù zhǎodào le Bīngdòng Xīngrén [@de@] xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>76718</StartMilliseconds>
+    <EndMilliseconds>77426</EndMilliseconds>
+    <Text>灵果和小布找到了冰冻星人的[@小镇@]。
+Língguǒ hé Xiǎobù zhǎodào le Bīngdòng Xīngrén de [@xiǎozhèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>77426</StartMilliseconds>
+    <EndMilliseconds>87139</EndMilliseconds>
+    <Text>灵果和小布找到了冰冻星人的小镇。
+Língguǒ hé Xiǎobù zhǎodào le Bīngdòng Xīngrén de xiǎozhèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>87139</StartMilliseconds>
+    <EndMilliseconds>87233</EndMilliseconds>
+    <Text>他们的房子都是圆顶的。
+Tāmen de fángzi dōu shì yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>87234</StartMilliseconds>
+    <EndMilliseconds>87463</EndMilliseconds>
+    <Text>[@他们@]的房子都是圆顶的。
+[@Tāmen@] de fángzi dōu shì yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>87463</StartMilliseconds>
+    <EndMilliseconds>87661</EndMilliseconds>
+    <Text>他们[@的@]房子都是圆顶的。
+Tāmen [@de@] fángzi dōu shì yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>87661</StartMilliseconds>
+    <EndMilliseconds>88398</EndMilliseconds>
+    <Text>他们的[@房子@]都是圆顶的。
+Tāmen de [@fángzi@] dōu shì yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>88398</StartMilliseconds>
+    <EndMilliseconds>88578</EndMilliseconds>
+    <Text>他们的房子[@都@]是圆顶的。
+Tāmen de fángzi [@dōu@] shì yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>88579</StartMilliseconds>
+    <EndMilliseconds>88738</EndMilliseconds>
+    <Text>他们的房子都[@是@]圆顶的。
+Tāmen de fángzi dōu [@shì@] yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>88738</StartMilliseconds>
+    <EndMilliseconds>89490</EndMilliseconds>
+    <Text>他们的房子都是[@圆顶@]的。
+Tāmen de fángzi dōu shì [@yuándǐng@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>89490</StartMilliseconds>
+    <EndMilliseconds>89833</EndMilliseconds>
+    <Text>他们的房子都是圆顶[@的@]。
+Tāmen de fángzi dōu shì yuándǐng [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>89833</StartMilliseconds>
+    <EndMilliseconds>93207</EndMilliseconds>
+    <Text>他们的房子都是圆顶的。
+Tāmen de fángzi dōu shì yuándǐng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>93208</StartMilliseconds>
+    <EndMilliseconds>93292</EndMilliseconds>
+    <Text>灵果看到了一些冰山。
+Língguǒ kàndào le yìxiē bīngshān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>93292</StartMilliseconds>
+    <EndMilliseconds>94004</EndMilliseconds>
+    <Text>[@灵果@]看到了一些冰山。
+[@Língguǒ@] kàndào le yìxiē bīngshān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>94004</StartMilliseconds>
+    <EndMilliseconds>94392</EndMilliseconds>
+    <Text>灵果[@看到@]了一些冰山。
+Língguǒ [@kàndào@] le yìxiē bīngshān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>94392</StartMilliseconds>
+    <EndMilliseconds>94514</EndMilliseconds>
+    <Text>灵果看到[@了@]一些冰山。
+Língguǒ kàndào [@le@] yìxiē bīngshān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>94514</StartMilliseconds>
+    <EndMilliseconds>94880</EndMilliseconds>
+    <Text>灵果看到了[@一些@]冰山。
+Língguǒ kàndào le [@yìxiē@] bīngshān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>94881</StartMilliseconds>
+    <EndMilliseconds>95544</EndMilliseconds>
+    <Text>灵果看到了一些[@冰山@]。
+Língguǒ kàndào le yìxiē [@bīngshān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>95544</StartMilliseconds>
+    <EndMilliseconds>99594</EndMilliseconds>
+    <Text>灵果看到了一些冰山。
+Língguǒ kàndào le yìxiē bīngshān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>99594</StartMilliseconds>
+    <EndMilliseconds>99692</EndMilliseconds>
+    <Text>“这个星球上的冰和雪真多呀！”
+"Zhè ge Xīngqiú shàng de bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>99692</StartMilliseconds>
+    <EndMilliseconds>99857</EndMilliseconds>
+    <Text>“[@这@]个星球上的冰和雪真多呀！”
+"[@Zhè@] ge Xīngqiú shàng de bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>99857</StartMilliseconds>
+    <EndMilliseconds>99997</EndMilliseconds>
+    <Text>“这[@个@]星球上的冰和雪真多呀！”
+"Zhè [@ge@] Xīngqiú shàng de bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>99997</StartMilliseconds>
+    <EndMilliseconds>100292</EndMilliseconds>
+    <Text>“这个[@星球@]上的冰和雪真多呀！”
+"Zhè ge [@Xīngqiú@] shàng de bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>100293</StartMilliseconds>
+    <EndMilliseconds>100467</EndMilliseconds>
+    <Text>“这个星球[@上@]的冰和雪真多呀！”
+"Zhè ge Xīngqiú [@shàng@] de bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>100467</StartMilliseconds>
+    <EndMilliseconds>100571</EndMilliseconds>
+    <Text>“这个星球上[@的@]冰和雪真多呀！”
+"Zhè ge Xīngqiú shàng [@de@] bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>100571</StartMilliseconds>
+    <EndMilliseconds>100759</EndMilliseconds>
+    <Text>“这个星球上的[@冰@]和雪真多呀！”
+"Zhè ge Xīngqiú shàng de [@bīng@] hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>100759</StartMilliseconds>
+    <EndMilliseconds>100956</EndMilliseconds>
+    <Text>“这个星球上的冰[@和@]雪真多呀！”
+"Zhè ge Xīngqiú shàng de bīng [@hé@] xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>100956</StartMilliseconds>
+    <EndMilliseconds>101265</EndMilliseconds>
+    <Text>“这个星球上的冰和[@雪@]真多呀！”
+"Zhè ge Xīngqiú shàng de bīng hé [@xuě@] zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>101265</StartMilliseconds>
+    <EndMilliseconds>101575</EndMilliseconds>
+    <Text>“这个星球上的冰和雪[@真@]多呀！”
+"Zhè ge Xīngqiú shàng de bīng hé xuě [@zhēn@] duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>101576</StartMilliseconds>
+    <EndMilliseconds>101822</EndMilliseconds>
+    <Text>“这个星球上的冰和雪真[@多@]呀！”
+"Zhè ge Xīngqiú shàng de bīng hé xuě zhēn [@duō@] ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>101822</StartMilliseconds>
+    <EndMilliseconds>102232</EndMilliseconds>
+    <Text>“这个星球上的冰和雪真多[@呀@]！”
+"Zhè ge Xīngqiú shàng de bīng hé xuě zhēn duō [@ya@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>102232</StartMilliseconds>
+    <EndMilliseconds>103873</EndMilliseconds>
+    <Text>“这个星球上的冰和雪真多呀！”
+"Zhè ge Xīngqiú shàng de bīng hé xuě zhēn duō ya!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>103873</StartMilliseconds>
+    <EndMilliseconds>103968</EndMilliseconds>
+    <Text>灵果走了一步，哗啦！
+Língguǒ zǒu le yíbù, huālā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>103968</StartMilliseconds>
+    <EndMilliseconds>104356</EndMilliseconds>
+    <Text>[@灵果@]走了一步，哗啦！
+[@Língguǒ@] zǒu le yíbù, huālā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>104356</StartMilliseconds>
+    <EndMilliseconds>104594</EndMilliseconds>
+    <Text>灵果[@走@]了一步，哗啦！
+Língguǒ [@zǒu@] le yíbù, huālā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>104594</StartMilliseconds>
+    <EndMilliseconds>104846</EndMilliseconds>
+    <Text>灵果走[@了@]一步，哗啦！
+Língguǒ zǒu [@le@] yíbù, huālā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>104847</StartMilliseconds>
+    <EndMilliseconds>105976</EndMilliseconds>
+    <Text>灵果走了[@一步@]，哗啦！
+Língguǒ zǒu le [@yíbù@], huālā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>105976</StartMilliseconds>
+    <EndMilliseconds>106827</EndMilliseconds>
+    <Text>灵果走了一步，[@哗啦@]！
+Língguǒ zǒu le yíbù, [@huālā@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>106828</StartMilliseconds>
+    <EndMilliseconds>107292</EndMilliseconds>
+    <Text>灵果走了一步，哗啦！
+Língguǒ zǒu le yíbù, huālā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>107293</StartMilliseconds>
+    <EndMilliseconds>107372</EndMilliseconds>
+    <Text>“水坑也多！”
+"Shuǐkēng yě duō!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>107372</StartMilliseconds>
+    <EndMilliseconds>108098</EndMilliseconds>
+    <Text>“[@水坑@]也多！”
+"[@Shuǐkēng@] yě duō!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>108098</StartMilliseconds>
+    <EndMilliseconds>108316</EndMilliseconds>
+    <Text>“水坑[@也@]多！”
+"Shuǐkēng [@yě@] duō!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>108316</StartMilliseconds>
+    <EndMilliseconds>108760</EndMilliseconds>
+    <Text>“水坑也[@多@]！”
+"Shuǐkēng yě [@duō@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>108760</StartMilliseconds>
+    <EndMilliseconds>111725</EndMilliseconds>
+    <Text>“水坑也多！”
+"Shuǐkēng yě duō!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>111725</StartMilliseconds>
+    <EndMilliseconds>111796</EndMilliseconds>
+    <Text>小布看着地面。
+Xiǎobù kànzhe dìmiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>111796</StartMilliseconds>
+    <EndMilliseconds>112434</EndMilliseconds>
+    <Text>[@小布@]看着地面。
+[@Xiǎobù@] kànzhe dìmiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>112434</StartMilliseconds>
+    <EndMilliseconds>112806</EndMilliseconds>
+    <Text>小布[@看着@]地面。
+Xiǎobù [@kànzhe@] dìmiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>112806</StartMilliseconds>
+    <EndMilliseconds>113394</EndMilliseconds>
+    <Text>小布看着[@地面@]。
+Xiǎobù kànzhe [@dìmiàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>113394</StartMilliseconds>
+    <EndMilliseconds>115048</EndMilliseconds>
+    <Text>小布看着地面。
+Xiǎobù kànzhe dìmiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>115048</StartMilliseconds>
+    <EndMilliseconds>115128</EndMilliseconds>
+    <Text>“冰上有裂缝。” 小布说。
+"Bīng shàng yǒu lièfèng." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>115128</StartMilliseconds>
+    <EndMilliseconds>115296</EndMilliseconds>
+    <Text>“[@冰@]上有裂缝。” 小布说。
+"[@Bīng@] shàng yǒu lièfèng." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>115297</StartMilliseconds>
+    <EndMilliseconds>115505</EndMilliseconds>
+    <Text>“冰[@上@]有裂缝。” 小布说。
+"Bīng [@shàng@] yǒu lièfèng." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>115505</StartMilliseconds>
+    <EndMilliseconds>115697</EndMilliseconds>
+    <Text>“冰上[@有@]裂缝。” 小布说。
+"Bīng shàng [@yǒu@] lièfèng." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>115697</StartMilliseconds>
+    <EndMilliseconds>116679</EndMilliseconds>
+    <Text>“冰上有[@裂缝@]。” 小布说。
+"Bīng shàng yǒu [@lièfèng@]." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>116680</StartMilliseconds>
+    <EndMilliseconds>117194</EndMilliseconds>
+    <Text>“冰上有裂缝。” [@小布@]说。
+"Bīng shàng yǒu lièfèng." [@Xiǎobù@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>117194</StartMilliseconds>
+    <EndMilliseconds>117747</EndMilliseconds>
+    <Text>“冰上有裂缝。” 小布[@说@]。
+"Bīng shàng yǒu lièfèng." Xiǎobù [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>117747</StartMilliseconds>
+    <EndMilliseconds>120374</EndMilliseconds>
+    <Text>“冰上有裂缝。” 小布说。
+"Bīng shàng yǒu lièfèng." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>120375</StartMilliseconds>
+    <EndMilliseconds>120445</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个冰冻星人跑了过来。
+"Tàikōng Xúnluóduì!" Yí ge Bīngdòng Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>120445</StartMilliseconds>
+    <EndMilliseconds>121071</EndMilliseconds>
+    <Text>“[@太空@]巡逻队！” 一个冰冻星人跑了过来。
+"[@Tàikōng@] Xúnluóduì!" Yí ge Bīngdòng Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>121071</StartMilliseconds>
+    <EndMilliseconds>122388</EndMilliseconds>
+    <Text>“太空[@巡逻队@]！” 一个冰冻星人跑了过来。
+"Tàikōng [@Xúnluóduì@]!" Yí ge Bīngdòng Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>122388</StartMilliseconds>
+    <EndMilliseconds>122546</EndMilliseconds>
+    <Text>“太空巡逻队！” [@一@]个冰冻星人跑了过来。
+"Tàikōng Xúnluóduì!" [@Yí@] ge Bīngdòng Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>122546</StartMilliseconds>
+    <EndMilliseconds>122726</EndMilliseconds>
+    <Text>“太空巡逻队！” 一[@个@]冰冻星人跑了过来。
+"Tàikōng Xúnluóduì!" Yí [@ge@] Bīngdòng Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>122726</StartMilliseconds>
+    <EndMilliseconds>123097</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个[@冰冻@]星人跑了过来。
+"Tàikōng Xúnluóduì!" Yí ge [@Bīngdòng@] Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>123098</StartMilliseconds>
+    <EndMilliseconds>123645</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个冰冻[@星人@]跑了过来。
+"Tàikōng Xúnluóduì!" Yí ge Bīngdòng [@Xīngrén@] pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>123645</StartMilliseconds>
+    <EndMilliseconds>123921</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个冰冻星人[@跑@]了过来。
+"Tàikōng Xúnluóduì!" Yí ge Bīngdòng Xīngrén [@pǎo@] le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>123922</StartMilliseconds>
+    <EndMilliseconds>124042</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个冰冻星人跑[@了@]过来。
+"Tàikōng Xúnluóduì!" Yí ge Bīngdòng Xīngrén pǎo [@le@] guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>124042</StartMilliseconds>
+    <EndMilliseconds>124594</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个冰冻星人跑了[@过来@]。
+"Tàikōng Xúnluóduì!" Yí ge Bīngdòng Xīngrén pǎo le [@guòlai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>124594</StartMilliseconds>
+    <EndMilliseconds>125438</EndMilliseconds>
+    <Text>“太空巡逻队！” 一个冰冻星人跑了过来。
+"Tàikōng Xúnluóduì!" Yí ge Bīngdòng Xīngrén pǎo le guòlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>125438</StartMilliseconds>
+    <EndMilliseconds>125537</EndMilliseconds>
+    <Text>他踩过一个个水坑。
+Tā cǎiguò yí ge ge shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>125537</StartMilliseconds>
+    <EndMilliseconds>125902</EndMilliseconds>
+    <Text>[@他@]踩过一个个水坑。
+[@Tā@] cǎiguò yí ge ge shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>125902</StartMilliseconds>
+    <EndMilliseconds>126526</EndMilliseconds>
+    <Text>他[@踩过@]一个个水坑。
+Tā [@cǎiguò@] yí ge ge shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>126527</StartMilliseconds>
+    <EndMilliseconds>126748</EndMilliseconds>
+    <Text>他踩过[@一@]个个水坑。
+Tā cǎiguò [@yí@] ge ge shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>126748</StartMilliseconds>
+    <EndMilliseconds>126940</EndMilliseconds>
+    <Text>他踩过一[@个@]个水坑。
+Tā cǎiguò yí [@ge@] ge shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>126940</StartMilliseconds>
+    <EndMilliseconds>127109</EndMilliseconds>
+    <Text>他踩过一个[@个@]水坑。
+Tā cǎiguò yí ge [@ge@] shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>127109</StartMilliseconds>
+    <EndMilliseconds>127820</EndMilliseconds>
+    <Text>他踩过一个个[@水坑@]。
+Tā cǎiguò yí ge ge [@shuǐkēng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>127820</StartMilliseconds>
+    <EndMilliseconds>129939</EndMilliseconds>
+    <Text>他踩过一个个水坑。
+Tā cǎiguò yí ge ge shuǐkēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>129939</StartMilliseconds>
+    <EndMilliseconds>130024</EndMilliseconds>
+    <Text>“我是冰冻星人的首领卓普。”
+"Wǒ shì Bīngdòng Xīngrén de shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>130024</StartMilliseconds>
+    <EndMilliseconds>130284</EndMilliseconds>
+    <Text>“[@我@]是冰冻星人的首领卓普。”
+"[@Wǒ@] shì Bīngdòng Xīngrén de shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>130284</StartMilliseconds>
+    <EndMilliseconds>130492</EndMilliseconds>
+    <Text>“我[@是@]冰冻星人的首领卓普。”
+"Wǒ [@shì@] Bīngdòng Xīngrén de shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>130492</StartMilliseconds>
+    <EndMilliseconds>130879</EndMilliseconds>
+    <Text>“我是[@冰冻@]星人的首领卓普。”
+"Wǒ shì [@Bīngdòng@] Xīngrén de shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>130880</StartMilliseconds>
+    <EndMilliseconds>131251</EndMilliseconds>
+    <Text>“我是冰冻[@星人@]的首领卓普。”
+"Wǒ shì Bīngdòng [@Xīngrén@] de shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>131251</StartMilliseconds>
+    <EndMilliseconds>131396</EndMilliseconds>
+    <Text>“我是冰冻星人[@的@]首领卓普。”
+"Wǒ shì Bīngdòng Xīngrén [@de@] shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>131397</StartMilliseconds>
+    <EndMilliseconds>131899</EndMilliseconds>
+    <Text>“我是冰冻星人的[@首领@]卓普。”
+"Wǒ shì Bīngdòng Xīngrén de [@shǒulǐng@] Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>131899</StartMilliseconds>
+    <EndMilliseconds>132721</EndMilliseconds>
+    <Text>“我是冰冻星人的首领[@卓普@]。”
+"Wǒ shì Bīngdòng Xīngrén de shǒulǐng [@Zhuópǔ@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>132721</StartMilliseconds>
+    <EndMilliseconds>134305</EndMilliseconds>
+    <Text>“我是冰冻星人的首领卓普。”
+"Wǒ shì Bīngdòng Xīngrén de shǒulǐng Zhuópǔ."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>134306</StartMilliseconds>
+    <EndMilliseconds>134380</EndMilliseconds>
+    <Text>灵果告诉了卓普太阳的事情。
+Língguǒ gàosu le Zhuópǔ tàiyáng de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>134380</StartMilliseconds>
+    <EndMilliseconds>134858</EndMilliseconds>
+    <Text>[@灵果@]告诉了卓普太阳的事情。
+[@Língguǒ@] gàosu le Zhuópǔ tàiyáng de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>134858</StartMilliseconds>
+    <EndMilliseconds>135261</EndMilliseconds>
+    <Text>灵果[@告诉@]了卓普太阳的事情。
+Língguǒ [@gàosu@] le Zhuópǔ tàiyáng de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>135262</StartMilliseconds>
+    <EndMilliseconds>135392</EndMilliseconds>
+    <Text>灵果告诉[@了@]卓普太阳的事情。
+Língguǒ gàosu [@le@] Zhuópǔ tàiyáng de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>135392</StartMilliseconds>
+    <EndMilliseconds>135836</EndMilliseconds>
+    <Text>灵果告诉了[@卓普@]太阳的事情。
+Língguǒ gàosu le [@Zhuópǔ@] tàiyáng de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>135836</StartMilliseconds>
+    <EndMilliseconds>136220</EndMilliseconds>
+    <Text>灵果告诉了卓普[@太阳@]的事情。
+Língguǒ gàosu le Zhuópǔ [@tàiyáng@] de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>136221</StartMilliseconds>
+    <EndMilliseconds>136331</EndMilliseconds>
+    <Text>灵果告诉了卓普太阳[@的@]事情。
+Língguǒ gàosu le Zhuópǔ tàiyáng [@de@] shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>136331</StartMilliseconds>
+    <EndMilliseconds>136954</EndMilliseconds>
+    <Text>灵果告诉了卓普太阳的[@事情@]。
+Língguǒ gàosu le Zhuópǔ tàiyáng de [@shìqing@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>136954</StartMilliseconds>
+    <EndMilliseconds>138357</EndMilliseconds>
+    <Text>灵果告诉了卓普太阳的事情。
+Língguǒ gàosu le Zhuópǔ tàiyáng de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>138357</StartMilliseconds>
+    <EndMilliseconds>138414</EndMilliseconds>
+    <Text>卓普皱了皱眉。“原来是因为太阳！”
+Zhuópǔ zhòu le zhòu méi. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>138414</StartMilliseconds>
+    <EndMilliseconds>139016</EndMilliseconds>
+    <Text>[@卓普@]皱了皱眉。“原来是因为太阳！”
+[@Zhuópǔ@] zhòu le zhòu méi. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>139016</StartMilliseconds>
+    <EndMilliseconds>139227</EndMilliseconds>
+    <Text>卓普[@皱@]了皱眉。“原来是因为太阳！”
+Zhuópǔ [@zhòu@] le zhòu méi. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>139227</StartMilliseconds>
+    <EndMilliseconds>139363</EndMilliseconds>
+    <Text>卓普皱[@了@]皱眉。“原来是因为太阳！”
+Zhuópǔ zhòu [@le@] zhòu méi. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>139363</StartMilliseconds>
+    <EndMilliseconds>139594</EndMilliseconds>
+    <Text>卓普皱了[@皱@]眉。“原来是因为太阳！”
+Zhuópǔ zhòu le [@zhòu@] méi. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>139594</StartMilliseconds>
+    <EndMilliseconds>142159</EndMilliseconds>
+    <Text>卓普皱了皱[@眉@]。“原来是因为太阳！”
+Zhuópǔ zhòu le zhòu [@méi@]. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>142159</StartMilliseconds>
+    <EndMilliseconds>142753</EndMilliseconds>
+    <Text>卓普皱了皱眉。“[@原来@]是因为太阳！”
+Zhuópǔ zhòu le zhòu méi. "[@Yuánlái@] shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>142754</StartMilliseconds>
+    <EndMilliseconds>142938</EndMilliseconds>
+    <Text>卓普皱了皱眉。“原来[@是@]因为太阳！”
+Zhuópǔ zhòu le zhòu méi. "Yuánlái [@shì@] yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>142938</StartMilliseconds>
+    <EndMilliseconds>143359</EndMilliseconds>
+    <Text>卓普皱了皱眉。“原来是[@因为@]太阳！”
+Zhuópǔ zhòu le zhòu méi. "Yuánlái shì [@yīnwèi@] tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>143359</StartMilliseconds>
+    <EndMilliseconds>144332</EndMilliseconds>
+    <Text>卓普皱了皱眉。“原来是因为[@太阳@]！”
+Zhuópǔ zhòu le zhòu méi. "Yuánlái shì yīnwèi [@tàiyáng@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>209</Number>
+    <StartMilliseconds>144333</StartMilliseconds>
+    <EndMilliseconds>145447</EndMilliseconds>
+    <Text>卓普皱了皱眉。“原来是因为太阳！”
+Zhuópǔ zhòu le zhòu méi. "Yuánlái shì yīnwèi tàiyáng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>210</Number>
+    <StartMilliseconds>145448</StartMilliseconds>
+    <EndMilliseconds>145523</EndMilliseconds>
+    <Text>“这里融化得太快了。” 小布说。
+"Zhèli rónghuà de tài kuài le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>211</Number>
+    <StartMilliseconds>145524</StartMilliseconds>
+    <EndMilliseconds>145902</EndMilliseconds>
+    <Text>“[@这里@]融化得太快了。” 小布说。
+"[@Zhèli@] rónghuà de tài kuài le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>212</Number>
+    <StartMilliseconds>145902</StartMilliseconds>
+    <EndMilliseconds>146257</EndMilliseconds>
+    <Text>“这里[@融化@]得太快了。” 小布说。
+"Zhèli [@rónghuà@] de tài kuài le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>213</Number>
+    <StartMilliseconds>146257</StartMilliseconds>
+    <EndMilliseconds>146414</EndMilliseconds>
+    <Text>“这里融化[@得@]太快了。” 小布说。
+"Zhèli rónghuà [@de@] tài kuài le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>214</Number>
+    <StartMilliseconds>146414</StartMilliseconds>
+    <EndMilliseconds>146741</EndMilliseconds>
+    <Text>“这里融化得[@太@]快了。” 小布说。
+"Zhèli rónghuà de [@tài@] kuài le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>215</Number>
+    <StartMilliseconds>146741</StartMilliseconds>
+    <EndMilliseconds>147079</EndMilliseconds>
+    <Text>“这里融化得太[@快@]了。” 小布说。
+"Zhèli rónghuà de tài [@kuài@] le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>216</Number>
+    <StartMilliseconds>147080</StartMilliseconds>
+    <EndMilliseconds>147773</EndMilliseconds>
+    <Text>“这里融化得太快[@了@]。” 小布说。
+"Zhèli rónghuà de tài kuài [@le@]." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>217</Number>
+    <StartMilliseconds>147773</StartMilliseconds>
+    <EndMilliseconds>148343</EndMilliseconds>
+    <Text>“这里融化得太快了。” [@小布@]说。
+"Zhèli rónghuà de tài kuài le." [@Xiǎobù@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>218</Number>
+    <StartMilliseconds>148343</StartMilliseconds>
+    <EndMilliseconds>148794</EndMilliseconds>
+    <Text>“这里融化得太快了。” 小布[@说@]。
+"Zhèli rónghuà de tài kuài le." Xiǎobù [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>219</Number>
+    <StartMilliseconds>148794</StartMilliseconds>
+    <EndMilliseconds>149827</EndMilliseconds>
+    <Text>“这里融化得太快了。” 小布说。
+"Zhèli rónghuà de tài kuài le." Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>220</Number>
+    <StartMilliseconds>149827</StartMilliseconds>
+    <EndMilliseconds>149912</EndMilliseconds>
+    <Text>卓普摇了摇头。“糟糕了。
+Zhuópǔ yáo le yáo tóu. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>221</Number>
+    <StartMilliseconds>149912</StartMilliseconds>
+    <EndMilliseconds>150640</EndMilliseconds>
+    <Text>[@卓普@]摇了摇头。“糟糕了。
+[@Zhuópǔ@] yáo le yáo tóu. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>222</Number>
+    <StartMilliseconds>150640</StartMilliseconds>
+    <EndMilliseconds>150865</EndMilliseconds>
+    <Text>卓普[@摇@]了摇头。“糟糕了。
+Zhuópǔ [@yáo@] le yáo tóu. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>223</Number>
+    <StartMilliseconds>150865</StartMilliseconds>
+    <EndMilliseconds>151026</EndMilliseconds>
+    <Text>卓普摇[@了@]摇头。“糟糕了。
+Zhuópǔ yáo [@le@] yáo tóu. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>224</Number>
+    <StartMilliseconds>151026</StartMilliseconds>
+    <EndMilliseconds>151255</EndMilliseconds>
+    <Text>卓普摇了[@摇@]头。“糟糕了。
+Zhuópǔ yáo le [@yáo@] tóu. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>225</Number>
+    <StartMilliseconds>151255</StartMilliseconds>
+    <EndMilliseconds>152016</EndMilliseconds>
+    <Text>卓普摇了摇[@头@]。“糟糕了。
+Zhuópǔ yáo le yáo [@tóu@]. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>226</Number>
+    <StartMilliseconds>152016</StartMilliseconds>
+    <EndMilliseconds>152625</EndMilliseconds>
+    <Text>卓普摇了摇头。“[@糟糕@]了。
+Zhuópǔ yáo le yáo tóu. "[@Zāogāo@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>227</Number>
+    <StartMilliseconds>152625</StartMilliseconds>
+    <EndMilliseconds>152995</EndMilliseconds>
+    <Text>卓普摇了摇头。“糟糕[@了@]。
+Zhuópǔ yáo le yáo tóu. "Zāogāo [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>228</Number>
+    <StartMilliseconds>152995</StartMilliseconds>
+    <EndMilliseconds>154110</EndMilliseconds>
+    <Text>卓普摇了摇头。“糟糕了。
+Zhuópǔ yáo le yáo tóu. "Zāogāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>229</Number>
+    <StartMilliseconds>154110</StartMilliseconds>
+    <EndMilliseconds>154200</EndMilliseconds>
+    <Text>冰冻星人喜欢寒冷的地方。
+Bīngdòng Xīngrén xǐhuan hánlěng de dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>230</Number>
+    <StartMilliseconds>154201</StartMilliseconds>
+    <EndMilliseconds>154631</EndMilliseconds>
+    <Text>[@冰冻@]星人喜欢寒冷的地方。
+[@Bīngdòng@] Xīngrén xǐhuan hánlěng de dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>231</Number>
+    <StartMilliseconds>154631</StartMilliseconds>
+    <EndMilliseconds>155092</EndMilliseconds>
+    <Text>冰冻[@星人@]喜欢寒冷的地方。
+Bīngdòng [@Xīngrén@] xǐhuan hánlěng de dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>232</Number>
+    <StartMilliseconds>155092</StartMilliseconds>
+    <EndMilliseconds>155547</EndMilliseconds>
+    <Text>冰冻星人[@喜欢@]寒冷的地方。
+Bīngdòng Xīngrén [@xǐhuan@] hánlěng de dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>233</Number>
+    <StartMilliseconds>155548</StartMilliseconds>
+    <EndMilliseconds>156058</EndMilliseconds>
+    <Text>冰冻星人喜欢[@寒冷@]的地方。
+Bīngdòng Xīngrén xǐhuan [@hánlěng@] de dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>234</Number>
+    <StartMilliseconds>156058</StartMilliseconds>
+    <EndMilliseconds>156218</EndMilliseconds>
+    <Text>冰冻星人喜欢寒冷[@的@]地方。
+Bīngdòng Xīngrén xǐhuan hánlěng [@de@] dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>235</Number>
+    <StartMilliseconds>156218</StartMilliseconds>
+    <EndMilliseconds>156821</EndMilliseconds>
+    <Text>冰冻星人喜欢寒冷的[@地方@]。
+Bīngdòng Xīngrén xǐhuan hánlěng de [@dìfang@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>236</Number>
+    <StartMilliseconds>156821</StartMilliseconds>
+    <EndMilliseconds>157411</EndMilliseconds>
+    <Text>冰冻星人喜欢寒冷的地方。
+Bīngdòng Xīngrén xǐhuan hánlěng de dìfang.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>237</Number>
+    <StartMilliseconds>157412</StartMilliseconds>
+    <EndMilliseconds>157500</EndMilliseconds>
+    <Text>我们要马上离开冰冻星球！”
+Wǒmen yào mǎshàng líkāi Bīngdòng Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>238</Number>
+    <StartMilliseconds>157501</StartMilliseconds>
+    <EndMilliseconds>157876</EndMilliseconds>
+    <Text>[@我们@]要马上离开冰冻星球！”
+[@Wǒmen@] yào mǎshàng líkāi Bīngdòng Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>239</Number>
+    <StartMilliseconds>157876</StartMilliseconds>
+    <EndMilliseconds>158126</EndMilliseconds>
+    <Text>我们[@要@]马上离开冰冻星球！”
+Wǒmen [@yào@] mǎshàng líkāi Bīngdòng Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>240</Number>
+    <StartMilliseconds>158126</StartMilliseconds>
+    <EndMilliseconds>158579</EndMilliseconds>
+    <Text>我们要[@马上@]离开冰冻星球！”
+Wǒmen yào [@mǎshàng@] líkāi Bīngdòng Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>241</Number>
+    <StartMilliseconds>158579</StartMilliseconds>
+    <EndMilliseconds>159025</EndMilliseconds>
+    <Text>我们要马上[@离开@]冰冻星球！”
+Wǒmen yào mǎshàng [@líkāi@] Bīngdòng Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>242</Number>
+    <StartMilliseconds>159025</StartMilliseconds>
+    <EndMilliseconds>159453</EndMilliseconds>
+    <Text>我们要马上离开[@冰冻@]星球！”
+Wǒmen yào mǎshàng líkāi [@Bīngdòng@] Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>243</Number>
+    <StartMilliseconds>159453</StartMilliseconds>
+    <EndMilliseconds>160244</EndMilliseconds>
+    <Text>我们要马上离开冰冻[@星球@]！”
+Wǒmen yào mǎshàng líkāi Bīngdòng [@Xīngqiú@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>244</Number>
+    <StartMilliseconds>160245</StartMilliseconds>
+    <EndMilliseconds>161741</EndMilliseconds>
+    <Text>我们要马上离开冰冻星球！”
+Wǒmen yào mǎshàng líkāi Bīngdòng Xīngqiú!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>245</Number>
+    <StartMilliseconds>161741</StartMilliseconds>
+    <EndMilliseconds>161826</EndMilliseconds>
+    <Text>“你们要去哪儿？” 灵果问。
+"Nǐmen yào qù nǎr?" Língguǒ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>246</Number>
+    <StartMilliseconds>161826</StartMilliseconds>
+    <EndMilliseconds>162096</EndMilliseconds>
+    <Text>“[@你们@]要去哪儿？” 灵果问。
+"[@Nǐmen@] yào qù nǎr?" Língguǒ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>247</Number>
+    <StartMilliseconds>162096</StartMilliseconds>
+    <EndMilliseconds>162289</EndMilliseconds>
+    <Text>“你们[@要@]去哪儿？” 灵果问。
+"Nǐmen [@yào@] qù nǎr?" Língguǒ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>248</Number>
+    <StartMilliseconds>162289</StartMilliseconds>
+    <EndMilliseconds>162449</EndMilliseconds>
+    <Text>“你们要[@去@]哪儿？” 灵果问。
+"Nǐmen yào [@qù@] nǎr?" Língguǒ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>249</Number>
+    <StartMilliseconds>162450</StartMilliseconds>
+    <EndMilliseconds>163227</EndMilliseconds>
+    <Text>“你们要去[@哪儿@]？” 灵果问。
+"Nǐmen yào qù [@nǎr@]?" Língguǒ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>250</Number>
+    <StartMilliseconds>163227</StartMilliseconds>
+    <EndMilliseconds>163688</EndMilliseconds>
+    <Text>“你们要去哪儿？” [@灵果@]问。
+"Nǐmen yào qù nǎr?" [@Língguǒ@] wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>251</Number>
+    <StartMilliseconds>163689</StartMilliseconds>
+    <EndMilliseconds>164130</EndMilliseconds>
+    <Text>“你们要去哪儿？” 灵果[@问@]。
+"Nǐmen yào qù nǎr?" Língguǒ [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>252</Number>
+    <StartMilliseconds>164130</StartMilliseconds>
+    <EndMilliseconds>165292</EndMilliseconds>
+    <Text>“你们要去哪儿？” 灵果问。
+"Nǐmen yào qù nǎr?" Língguǒ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>253</Number>
+    <StartMilliseconds>165292</StartMilliseconds>
+    <EndMilliseconds>165391</EndMilliseconds>
+    <Text>卓普抬头看着天空。
+Zhuópǔ tái tóu kànzhe tiānkōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>254</Number>
+    <StartMilliseconds>165392</StartMilliseconds>
+    <EndMilliseconds>165836</EndMilliseconds>
+    <Text>[@卓普@]抬头看着天空。
+[@Zhuópǔ@] tái tóu kànzhe tiānkōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>255</Number>
+    <StartMilliseconds>165836</StartMilliseconds>
+    <EndMilliseconds>166055</EndMilliseconds>
+    <Text>卓普[@抬@]头看着天空。
+Zhuópǔ [@tái@] tóu kànzhe tiānkōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>256</Number>
+    <StartMilliseconds>166055</StartMilliseconds>
+    <EndMilliseconds>166499</EndMilliseconds>
+    <Text>卓普抬[@头@]看着天空。
+Zhuópǔ tái [@tóu@] kànzhe tiānkōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>257</Number>
+    <StartMilliseconds>166499</StartMilliseconds>
+    <EndMilliseconds>166873</EndMilliseconds>
+    <Text>卓普抬头[@看着@]天空。
+Zhuópǔ tái tóu [@kànzhe@] tiānkōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>258</Number>
+    <StartMilliseconds>166873</StartMilliseconds>
+    <EndMilliseconds>167557</EndMilliseconds>
+    <Text>卓普抬头看着[@天空@]。
+Zhuópǔ tái tóu kànzhe [@tiānkōng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>259</Number>
+    <StartMilliseconds>167557</StartMilliseconds>
+    <EndMilliseconds>168098</EndMilliseconds>
+    <Text>卓普抬头看着天空。
+Zhuópǔ tái tóu kànzhe tiānkōng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>260</Number>
+    <StartMilliseconds>168098</StartMilliseconds>
+    <EndMilliseconds>168164</EndMilliseconds>
+    <Text>“冰冻星人要搬去冰星。”
+"Bīngdòng Xīngrén yào bānqù bīngxīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>261</Number>
+    <StartMilliseconds>168164</StartMilliseconds>
+    <EndMilliseconds>168775</EndMilliseconds>
+    <Text>“[@冰冻@]星人要搬去冰星。”
+"[@Bīngdòng@] Xīngrén yào bānqù bīngxīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>262</Number>
+    <StartMilliseconds>168776</StartMilliseconds>
+    <EndMilliseconds>169238</EndMilliseconds>
+    <Text>“冰冻[@星人@]要搬去冰星。”
+"Bīngdòng [@Xīngrén@] yào bānqù bīngxīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>263</Number>
+    <StartMilliseconds>169238</StartMilliseconds>
+    <EndMilliseconds>169489</EndMilliseconds>
+    <Text>“冰冻星人[@要@]搬去冰星。”
+"Bīngdòng Xīngrén [@yào@] bānqù bīngxīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>264</Number>
+    <StartMilliseconds>169489</StartMilliseconds>
+    <EndMilliseconds>169947</EndMilliseconds>
+    <Text>“冰冻星人要[@搬去@]冰星。”
+"Bīngdòng Xīngrén yào [@bānqù@] bīngxīng."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>265</Number>
+    <StartMilliseconds>169948</StartMilliseconds>
+    <EndMilliseconds>170919</EndMilliseconds>
+    <Text>“冰冻星人要搬去[@冰星@]。”
+"Bīngdòng Xīngrén yào bānqù [@bīngxīng@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>266</Number>
+    <StartMilliseconds>170919</StartMilliseconds>
+    <EndMilliseconds>172185</EndMilliseconds>
+    <Text>“冰冻星人要搬去冰星。”
+"Bīngdòng Xīngrén yào bānqù bīngxīng."</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10000</StartMilliseconds>
+    <EndMilliseconds>12253</EndMilliseconds>
+    <Text>小鸟飞到基普的洞里。
+Xiǎoniǎo fēidào Jīpǔ de dòng li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12254</StartMilliseconds>
+    <EndMilliseconds>13150</EndMilliseconds>
+    <Text>[@小鸟@]飞到基普的洞里。
+[@Xiǎoniǎo@] fēidào Jīpǔ de dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13151</StartMilliseconds>
+    <EndMilliseconds>13716</EndMilliseconds>
+    <Text>小鸟[@飞到@]基普的洞里。
+Xiǎoniǎo [@fēidào@] Jīpǔ de dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13717</StartMilliseconds>
+    <EndMilliseconds>14173</EndMilliseconds>
+    <Text>小鸟飞到[@基普@]的洞里。
+Xiǎoniǎo fēidào [@Jīpǔ@] de dòng li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14174</StartMilliseconds>
+    <EndMilliseconds>14384</EndMilliseconds>
+    <Text>小鸟飞到基普[@的@]洞里。
+Xiǎoniǎo fēidào Jīpǔ [@de@] dòng li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14385</StartMilliseconds>
+    <EndMilliseconds>14750</EndMilliseconds>
+    <Text>小鸟飞到基普的[@洞@]里。
+Xiǎoniǎo fēidào Jīpǔ de [@dòng@] li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14751</StartMilliseconds>
+    <EndMilliseconds>15207</EndMilliseconds>
+    <Text>小鸟飞到基普的洞[@里@]。
+Xiǎoniǎo fēidào Jīpǔ de dòng [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15208</StartMilliseconds>
+    <EndMilliseconds>20645</EndMilliseconds>
+    <Text>小鸟飞到基普的洞里。
+Xiǎoniǎo fēidào Jīpǔ de dòng li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>20646</StartMilliseconds>
+    <EndMilliseconds>20983</EndMilliseconds>
+    <Text>“你还好吗？”小鸟问。
+"Nǐ hái hǎo ma?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20984</StartMilliseconds>
+    <EndMilliseconds>21254</EndMilliseconds>
+    <Text>“[@你@]还好吗？”小鸟问。
+"[@Nǐ@] hái hǎo ma?" Xiǎoniǎo wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>21255</StartMilliseconds>
+    <EndMilliseconds>21507</EndMilliseconds>
+    <Text>“你[@还@]好吗？”小鸟问。
+"Nǐ [@hái@] hǎo ma?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>21508</StartMilliseconds>
+    <EndMilliseconds>21881</EndMilliseconds>
+    <Text>“你还[@好@]吗？”小鸟问。
+"Nǐ hái [@hǎo@] ma?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>21882</StartMilliseconds>
+    <EndMilliseconds>22255</EndMilliseconds>
+    <Text>“你还好[@吗@]？”小鸟问。
+"Nǐ hái hǎo [@ma@]?" Xiǎoniǎo wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>22256</StartMilliseconds>
+    <EndMilliseconds>22552</EndMilliseconds>
+    <Text>“你还好吗？”小鸟问。
+"Nǐ hái hǎo ma?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>22553</StartMilliseconds>
+    <EndMilliseconds>23176</EndMilliseconds>
+    <Text>“你还好吗？”[@小鸟@]问。
+"Nǐ hái hǎo ma?" [@Xiǎoniǎo@] wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>23177</StartMilliseconds>
+    <EndMilliseconds>23585</EndMilliseconds>
+    <Text>“你还好吗？”小鸟[@问@]。
+"Nǐ hái hǎo ma?" Xiǎoniǎo [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>23586</StartMilliseconds>
+    <EndMilliseconds>25759</EndMilliseconds>
+    <Text>“你还好吗？”小鸟问。
+"Nǐ hái hǎo ma?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>25760</StartMilliseconds>
+    <EndMilliseconds>25897</EndMilliseconds>
+    <Text>“我正在看一本恐怖的书。”基普说。
+"Wǒ zhèngzài kàn yì běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>25898</StartMilliseconds>
+    <EndMilliseconds>26394</EndMilliseconds>
+    <Text>“[@我@]正在看一本恐怖的书。”基普说。
+"[@Wǒ@] zhèngzài kàn yì běn kǒngbù de shū." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>26395</StartMilliseconds>
+    <EndMilliseconds>26582</EndMilliseconds>
+    <Text>“我正在看一本恐怖的书。”基普说。
+"Wǒ zhèngzài kàn yì běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>26583</StartMilliseconds>
+    <EndMilliseconds>27090</EndMilliseconds>
+    <Text>“我[@正在@]看一本恐怖的书。”基普说。
+"Wǒ [@zhèngzài@] kàn yì běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27091</StartMilliseconds>
+    <EndMilliseconds>27357</EndMilliseconds>
+    <Text>“我正在[@看@]一本恐怖的书。”基普说。
+"Wǒ zhèngzài [@kàn@] yì běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>27358</StartMilliseconds>
+    <EndMilliseconds>27564</EndMilliseconds>
+    <Text>“我正在看[@一@]本恐怖的书。”基普说。
+"Wǒ zhèngzài kàn [@yì@] běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>27565</StartMilliseconds>
+    <EndMilliseconds>28001</EndMilliseconds>
+    <Text>“我正在看一[@本@]恐怖的书。”基普说。
+"Wǒ zhèngzài kàn yì [@běn@] kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>28002</StartMilliseconds>
+    <EndMilliseconds>28614</EndMilliseconds>
+    <Text>“我正在看一本[@恐怖@]的书。”基普说。
+"Wǒ zhèngzài kàn yì běn [@kǒngbù@] de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>28615</StartMilliseconds>
+    <EndMilliseconds>28790</EndMilliseconds>
+    <Text>“我正在看一本恐怖[@的@]书。”基普说。
+"Wǒ zhèngzài kàn yì běn kǒngbù [@de@] shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28791</StartMilliseconds>
+    <EndMilliseconds>29284</EndMilliseconds>
+    <Text>“我正在看一本恐怖的[@书@]。”基普说。
+"Wǒ zhèngzài kàn yì běn kǒngbù de [@shū@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>29285</StartMilliseconds>
+    <EndMilliseconds>29522</EndMilliseconds>
+    <Text>“我正在看一本恐怖的书。”基普说。
+"Wǒ zhèngzài kàn yì běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>29523</StartMilliseconds>
+    <EndMilliseconds>30064</EndMilliseconds>
+    <Text>“我正在看一本恐怖的书。”[@基普@]说。
+"Wǒ zhèngzài kàn yì běn kǒngbù de shū." [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30065</StartMilliseconds>
+    <EndMilliseconds>30667</EndMilliseconds>
+    <Text>“我正在看一本恐怖的书。”基普[@说@]。
+"Wǒ zhèngzài kàn yì běn kǒngbù de shū." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>30668</StartMilliseconds>
+    <EndMilliseconds>35575</EndMilliseconds>
+    <Text>“我正在看一本恐怖的书。”基普说。
+"Wǒ zhèngzài kàn yì běn kǒngbù de shū." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>35576</StartMilliseconds>
+    <EndMilliseconds>35872</EndMilliseconds>
+    <Text>“都深更半夜了。”小鸟说。
+"Dōu shēngēng bànyè le." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>35873</StartMilliseconds>
+    <EndMilliseconds>36192</EndMilliseconds>
+    <Text>“[@都@]深更半夜了。”小鸟说。
+"[@Dōu@] shēngēng bànyè le." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>36193</StartMilliseconds>
+    <EndMilliseconds>36716</EndMilliseconds>
+    <Text>“都[@深更@]半夜了。”小鸟说。
+"Dōu [@shēngēng@] bànyè le." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>36717</StartMilliseconds>
+    <EndMilliseconds>37247</EndMilliseconds>
+    <Text>“都深更[@半夜@]了。”小鸟说。
+"Dōu shēngēng [@bànyè@] le." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>37248</StartMilliseconds>
+    <EndMilliseconds>37792</EndMilliseconds>
+    <Text>“都深更半夜[@了@]。”小鸟说。
+"Dōu shēngēng bànyè [@le@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>37793</StartMilliseconds>
+    <EndMilliseconds>38122</EndMilliseconds>
+    <Text>“都深更半夜了。”小鸟说。
+"Dōu shēngēng bànyè le." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>38123</StartMilliseconds>
+    <EndMilliseconds>38796</EndMilliseconds>
+    <Text>“都深更半夜了。”[@小鸟@]说。
+"Dōu shēngēng bànyè le." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>38797</StartMilliseconds>
+    <EndMilliseconds>39274</EndMilliseconds>
+    <Text>“都深更半夜了。”小鸟[@说@]。
+"Dōu shēngēng bànyè le." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>39275</StartMilliseconds>
+    <EndMilliseconds>40272</EndMilliseconds>
+    <Text>“都深更半夜了。”小鸟说。
+"Dōu shēngēng bànyè le." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>40273</StartMilliseconds>
+    <EndMilliseconds>40686</EndMilliseconds>
+    <Text>“你怎么还不睡？”
+"Nǐ zěnme hái bú shuì?" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>40687</StartMilliseconds>
+    <EndMilliseconds>40967</EndMilliseconds>
+    <Text>“[@你@]怎么还不睡？”
+"[@Nǐ@] zěnme hái bú shuì?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>40968</StartMilliseconds>
+    <EndMilliseconds>41625</EndMilliseconds>
+    <Text>“你[@怎么@]还不睡？”
+"Nǐ [@zěnme@] hái bú shuì?" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>41626</StartMilliseconds>
+    <EndMilliseconds>41949</EndMilliseconds>
+    <Text>“你怎么[@还@]不睡？”
+"Nǐ zěnme [@hái@] bú shuì?" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>41950</StartMilliseconds>
+    <EndMilliseconds>42181</EndMilliseconds>
+    <Text>“你怎么还[@不@]睡？”
+"Nǐ zěnme hái [@bú@] shuì?" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>42182</StartMilliseconds>
+    <EndMilliseconds>42776</EndMilliseconds>
+    <Text>“你怎么还不[@睡@]？”
+"Nǐ zěnme hái bú [@shuì@]?"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>42777</StartMilliseconds>
+    <EndMilliseconds>43792</EndMilliseconds>
+    <Text>“你怎么还不睡？”
+"Nǐ zěnme hái bú shuì?" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>43793</StartMilliseconds>
+    <EndMilliseconds>44106</EndMilliseconds>
+    <Text>“我正在熬夜。”基普说。
+"Wǒ zhèngzài áo yè." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>44107</StartMilliseconds>
+    <EndMilliseconds>44429</EndMilliseconds>
+    <Text>“[@我@]正在熬夜。”基普说。
+"[@Wǒ@] zhèngzài áo yè." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>44430</StartMilliseconds>
+    <EndMilliseconds>44951</EndMilliseconds>
+    <Text>“我[@正在@]熬夜。”基普说。
+"Wǒ [@zhèngzài@] áo yè." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>44952</StartMilliseconds>
+    <EndMilliseconds>45230</EndMilliseconds>
+    <Text>“我正在[@熬@]夜。”基普说。
+"Wǒ zhèngzài [@áo@] yè." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>45231</StartMilliseconds>
+    <EndMilliseconds>45851</EndMilliseconds>
+    <Text>“我正在熬[@夜@]。”基普说。
+"Wǒ zhèngzài áo [@yè@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>45852</StartMilliseconds>
+    <EndMilliseconds>46449</EndMilliseconds>
+    <Text>“我正在熬夜。”[@基普@]说。
+"Wǒ zhèngzài áo yè." [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>46450</StartMilliseconds>
+    <EndMilliseconds>46978</EndMilliseconds>
+    <Text>“我正在熬夜。”基普[@说@]。
+"Wǒ zhèngzài áo yè." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>46979</StartMilliseconds>
+    <EndMilliseconds>48780</EndMilliseconds>
+    <Text>“我正在熬夜。”基普说。
+"Wǒ zhèngzài áo yè." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>48781</StartMilliseconds>
+    <EndMilliseconds>49381</EndMilliseconds>
+    <Text>“祝你玩儿得开心。”小鸟说。
+"Zhù nǐ wánr dé kāixīn." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>49382</StartMilliseconds>
+    <EndMilliseconds>49747</EndMilliseconds>
+    <Text>“[@祝@]你玩儿得开心。”小鸟说。
+"[@Zhù@] nǐ wánr dé kāixīn." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>49748</StartMilliseconds>
+    <EndMilliseconds>50164</EndMilliseconds>
+    <Text>“祝[@你@]玩儿得开心。”小鸟说。
+"Zhù [@nǐ@] wánr dé kāixīn." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>50165</StartMilliseconds>
+    <EndMilliseconds>50454</EndMilliseconds>
+    <Text>“祝你[@玩儿@]得开心。”小鸟说。
+"Zhù nǐ [@wánr@] dé kāixīn." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>50455</StartMilliseconds>
+    <EndMilliseconds>50633</EndMilliseconds>
+    <Text>“祝你玩儿[@得@]开心。”小鸟说。
+"Zhù nǐ wánr [@dé@] kāixīn." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>50634</StartMilliseconds>
+    <EndMilliseconds>51423</EndMilliseconds>
+    <Text>“祝你玩儿得[@开心@]。”小鸟说。
+"Zhù nǐ wánr dé [@kāixīn@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>51424</StartMilliseconds>
+    <EndMilliseconds>52181</EndMilliseconds>
+    <Text>“祝你玩儿得开心。”[@小鸟@]说。
+"Zhù nǐ wánr dé kāixīn." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>52182</StartMilliseconds>
+    <EndMilliseconds>52790</EndMilliseconds>
+    <Text>“祝你玩儿得开心。”小鸟[@说@]。
+"Zhù nǐ wánr dé kāixīn." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>52791</StartMilliseconds>
+    <EndMilliseconds>53322</EndMilliseconds>
+    <Text>“祝你玩儿得开心。”小鸟说。
+"Zhù nǐ wánr dé kāixīn." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>53323</StartMilliseconds>
+    <EndMilliseconds>53648</EndMilliseconds>
+    <Text>“我要回去睡觉了。”
+"Wǒ yào huíqù shuìjiào le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>53649</StartMilliseconds>
+    <EndMilliseconds>53885</EndMilliseconds>
+    <Text>“[@我@]要回去睡觉了。”
+"[@Wǒ@] yào huíqù shuìjiào le."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>53886</StartMilliseconds>
+    <EndMilliseconds>54140</EndMilliseconds>
+    <Text>“我[@要@]回去睡觉了。”
+"Wǒ [@yào@] huíqù shuìjiào le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>54141</StartMilliseconds>
+    <EndMilliseconds>54716</EndMilliseconds>
+    <Text>“我要[@回去@]睡觉了。”
+"Wǒ yào [@huíqù@] shuìjiào le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>54717</StartMilliseconds>
+    <EndMilliseconds>55325</EndMilliseconds>
+    <Text>“我要回去[@睡觉@]了。”
+"Wǒ yào huíqù [@shuìjiào@] le."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>55326</StartMilliseconds>
+    <EndMilliseconds>55766</EndMilliseconds>
+    <Text>“我要回去睡觉[@了@]。”
+"Wǒ yào huíqù shuìjiào [@le@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>55767</StartMilliseconds>
+    <EndMilliseconds>59937</EndMilliseconds>
+    <Text>“我要回去睡觉了。”
+"Wǒ yào huíqù shuìjiào le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>59938</StartMilliseconds>
+    <EndMilliseconds>60184</EndMilliseconds>
+    <Text>小鸟飞回了鸟窝。
+Xiǎoniǎo fēihuí le niǎo wō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>60185</StartMilliseconds>
+    <EndMilliseconds>61089</EndMilliseconds>
+    <Text>[@小鸟@]飞回了鸟窝。
+[@Xiǎoniǎo@] fēihuí le niǎo wō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>61090</StartMilliseconds>
+    <EndMilliseconds>61704</EndMilliseconds>
+    <Text>小鸟[@飞回@]了鸟窝。
+Xiǎoniǎo [@fēihuí@] le niǎo wō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>61705</StartMilliseconds>
+    <EndMilliseconds>61918</EndMilliseconds>
+    <Text>小鸟飞回[@了@]鸟窝。
+Xiǎoniǎo fēihuí [@le@] niǎo wō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>61919</StartMilliseconds>
+    <EndMilliseconds>62311</EndMilliseconds>
+    <Text>小鸟飞回了[@鸟@]窝。
+Xiǎoniǎo fēihuí le [@niǎo@] wō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>62312</StartMilliseconds>
+    <EndMilliseconds>63079</EndMilliseconds>
+    <Text>小鸟飞回了鸟[@窝@]。
+Xiǎoniǎo fēihuí le niǎo [@wō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>63080</StartMilliseconds>
+    <EndMilliseconds>66327</EndMilliseconds>
+    <Text>小鸟飞回了鸟窝。
+Xiǎoniǎo fēihuí le niǎo wō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>66328</StartMilliseconds>
+    <EndMilliseconds>66611</EndMilliseconds>
+    <Text>她去睡觉了。
+Tā qù shuìjiào le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>66612</StartMilliseconds>
+    <EndMilliseconds>67013</EndMilliseconds>
+    <Text>[@她@]去睡觉了。
+[@Tā@] qù shuìjiào le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>67014</StartMilliseconds>
+    <EndMilliseconds>67312</EndMilliseconds>
+    <Text>她[@去@]睡觉了。
+Tā [@qù@] shuìjiào le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>67313</StartMilliseconds>
+    <EndMilliseconds>68017</EndMilliseconds>
+    <Text>她去[@睡觉@]了。
+Tā qù [@shuìjiào@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>68018</StartMilliseconds>
+    <EndMilliseconds>68457</EndMilliseconds>
+    <Text>她去睡觉[@了@]。
+Tā qù shuìjiào [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>68458</StartMilliseconds>
+    <EndMilliseconds>73457</EndMilliseconds>
+    <Text>她去睡觉了。
+Tā qù shuìjiào le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>73458</StartMilliseconds>
+    <EndMilliseconds>73946</EndMilliseconds>
+    <Text>“小鸟！”基普喊道。
+"Xiǎoniǎo!" Jīpǔ hǎndào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>73947</StartMilliseconds>
+    <EndMilliseconds>75021</EndMilliseconds>
+    <Text>“[@小鸟@]！”基普喊道。
+"[@Xiǎoniǎo@]!" Jīpǔ hǎndào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>75022</StartMilliseconds>
+    <EndMilliseconds>75201</EndMilliseconds>
+    <Text>“小鸟！”基普喊道。
+"Xiǎoniǎo!" Jīpǔ hǎndào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>75202</StartMilliseconds>
+    <EndMilliseconds>75855</EndMilliseconds>
+    <Text>“小鸟！”[@基普@]喊道。
+"Xiǎoniǎo!" [@Jīpǔ@] hǎndào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>75856</StartMilliseconds>
+    <EndMilliseconds>76591</EndMilliseconds>
+    <Text>“小鸟！”基普[@喊道@]。
+"Xiǎoniǎo!" Jīpǔ [@hǎndào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>76592</StartMilliseconds>
+    <EndMilliseconds>77223</EndMilliseconds>
+    <Text>“小鸟！”基普喊道。
+"Xiǎoniǎo!" Jīpǔ hǎndào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>77224</StartMilliseconds>
+    <EndMilliseconds>77528</EndMilliseconds>
+    <Text>“怎么了？”小鸟问。
+"Zěnme le?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>77529</StartMilliseconds>
+    <EndMilliseconds>77889</EndMilliseconds>
+    <Text>“[@怎么@]了？”小鸟问。
+"[@Zěnme@] le?" Xiǎoniǎo wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>77890</StartMilliseconds>
+    <EndMilliseconds>78357</EndMilliseconds>
+    <Text>“怎么[@了@]？”小鸟问。
+"Zěnme [@le@]?" Xiǎoniǎo wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>78358</StartMilliseconds>
+    <EndMilliseconds>78944</EndMilliseconds>
+    <Text>“怎么了？”[@小鸟@]问。
+"Zěnme le?" [@Xiǎoniǎo@] wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>78945</StartMilliseconds>
+    <EndMilliseconds>79381</EndMilliseconds>
+    <Text>“怎么了？”小鸟[@问@]。
+"Zěnme le?" Xiǎoniǎo [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>79382</StartMilliseconds>
+    <EndMilliseconds>79939</EndMilliseconds>
+    <Text>“怎么了？”小鸟问。
+"Zěnme le?" Xiǎoniǎo wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>79940</StartMilliseconds>
+    <EndMilliseconds>80663</EndMilliseconds>
+    <Text>“我还是很害怕。”基普说。
+"Wǒ háishi hěn hàipà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>80664</StartMilliseconds>
+    <EndMilliseconds>81057</EndMilliseconds>
+    <Text>“[@我@]还是很害怕。”基普说。
+"[@Wǒ@] háishi hěn hàipà." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>81058</StartMilliseconds>
+    <EndMilliseconds>81859</EndMilliseconds>
+    <Text>“我[@还是@]很害怕。”基普说。
+"Wǒ [@háishi@] hěn hàipà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>81860</StartMilliseconds>
+    <EndMilliseconds>82175</EndMilliseconds>
+    <Text>“我还是[@很@]害怕。”基普说。
+"Wǒ háishi [@hěn@] hàipà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>82176</StartMilliseconds>
+    <EndMilliseconds>83072</EndMilliseconds>
+    <Text>“我还是很[@害怕@]。”基普说。
+"Wǒ háishi hěn [@hàipà@]." Jīpǔ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>83073</StartMilliseconds>
+    <EndMilliseconds>83260</EndMilliseconds>
+    <Text>“我还是很害怕。”基普说。
+"Wǒ háishi hěn hàipà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>83261</StartMilliseconds>
+    <EndMilliseconds>83804</EndMilliseconds>
+    <Text>“我还是很害怕。”[@基普@]说。
+"Wǒ háishi hěn hàipà." [@Jīpǔ@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>83805</StartMilliseconds>
+    <EndMilliseconds>84429</EndMilliseconds>
+    <Text>“我还是很害怕。”基普[@说@]。
+"Wǒ háishi hěn hàipà." Jīpǔ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>84430</StartMilliseconds>
+    <EndMilliseconds>84964</EndMilliseconds>
+    <Text>“我还是很害怕。”基普说。
+"Wǒ háishi hěn hàipà." Jīpǔ shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>84965</StartMilliseconds>
+    <EndMilliseconds>85443</EndMilliseconds>
+    <Text>“那本书太恐怖了。”
+"Nà běn shū tài kǒngbù le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>85444</StartMilliseconds>
+    <EndMilliseconds>85755</EndMilliseconds>
+    <Text>“[@那@]本书太恐怖了。”
+"[@Nà@] běn shū tài kǒngbù le."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>85756</StartMilliseconds>
+    <EndMilliseconds>86014</EndMilliseconds>
+    <Text>“那[@本@]书太恐怖了。”
+"Nà [@běn@] shū tài kǒngbù le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>86015</StartMilliseconds>
+    <EndMilliseconds>86517</EndMilliseconds>
+    <Text>“那本[@书@]太恐怖了。”
+"Nà běn [@shū@] tài kǒngbù le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>86518</StartMilliseconds>
+    <EndMilliseconds>86681</EndMilliseconds>
+    <Text>“那本书太恐怖了。”
+"Nà běn shū tài kǒngbù le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>86682</StartMilliseconds>
+    <EndMilliseconds>87172</EndMilliseconds>
+    <Text>“那本书[@太@]恐怖了。”
+"Nà běn shū [@tài@] kǒngbù le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>87173</StartMilliseconds>
+    <EndMilliseconds>87905</EndMilliseconds>
+    <Text>“那本书太[@恐怖@]了。”
+"Nà běn shū tài [@kǒngbù@] le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>87906</StartMilliseconds>
+    <EndMilliseconds>88454</EndMilliseconds>
+    <Text>“那本书太恐怖[@了@]。”
+"Nà běn shū tài kǒngbù [@le@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>88455</StartMilliseconds>
+    <EndMilliseconds>90870</EndMilliseconds>
+    <Text>“那本书太恐怖了。”
+"Nà běn shū tài kǒngbù le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>90871</StartMilliseconds>
+    <EndMilliseconds>91843</EndMilliseconds>
+    <Text>“没什么可怕的。”小鸟说。
+"Méi shénme kěpà de." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>91844</StartMilliseconds>
+    <EndMilliseconds>92311</EndMilliseconds>
+    <Text>“[@没@]什么可怕的。”小鸟说。
+"[@Méi@] shénme kěpà de." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>92312</StartMilliseconds>
+    <EndMilliseconds>92848</EndMilliseconds>
+    <Text>“没[@什么@]可怕的。”小鸟说。
+"Méi [@shénme@] kěpà de." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>92849</StartMilliseconds>
+    <EndMilliseconds>93452</EndMilliseconds>
+    <Text>“没什么[@可怕@]的。”小鸟说。
+"Méi shénme [@kěpà@] de." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>93453</StartMilliseconds>
+    <EndMilliseconds>93956</EndMilliseconds>
+    <Text>“没什么可怕[@的@]。”小鸟说。
+"Méi shénme kěpà [@de@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>93957</StartMilliseconds>
+    <EndMilliseconds>94749</EndMilliseconds>
+    <Text>“没什么可怕的。”[@小鸟@]说。
+"Méi shénme kěpà de." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>94750</StartMilliseconds>
+    <EndMilliseconds>95344</EndMilliseconds>
+    <Text>“没什么可怕的。”小鸟[@说@]。
+"Méi shénme kěpà de." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>95345</StartMilliseconds>
+    <EndMilliseconds>97465</EndMilliseconds>
+    <Text>“没什么可怕的。”小鸟说。
+"Méi shénme kěpà de." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>97466</StartMilliseconds>
+    <EndMilliseconds>97727</EndMilliseconds>
+    <Text>“你能陪我吗？”基普问。
+"Nǐ néng péi wǒ ma?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>97728</StartMilliseconds>
+    <EndMilliseconds>97996</EndMilliseconds>
+    <Text>“[@你@]能陪我吗？”基普问。
+"[@Nǐ@] néng péi wǒ ma?" Jīpǔ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>97997</StartMilliseconds>
+    <EndMilliseconds>98446</EndMilliseconds>
+    <Text>“你[@能@]陪我吗？”基普问。
+"Nǐ [@néng@] péi wǒ ma?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>98447</StartMilliseconds>
+    <EndMilliseconds>98909</EndMilliseconds>
+    <Text>“你能[@陪@]我吗？”基普问。
+"Nǐ néng [@péi@] wǒ ma?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>98910</StartMilliseconds>
+    <EndMilliseconds>99249</EndMilliseconds>
+    <Text>“你能陪[@我@]吗？”基普问。
+"Nǐ néng péi [@wǒ@] ma?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>99250</StartMilliseconds>
+    <EndMilliseconds>99765</EndMilliseconds>
+    <Text>“你能陪我[@吗@]？”基普问。
+"Nǐ néng péi wǒ [@ma@]?" Jīpǔ wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>99766</StartMilliseconds>
+    <EndMilliseconds>99949</EndMilliseconds>
+    <Text>“你能陪我吗？”基普问。
+"Nǐ néng péi wǒ ma?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>99950</StartMilliseconds>
+    <EndMilliseconds>100499</EndMilliseconds>
+    <Text>“你能陪我吗？”[@基普@]问。
+"Nǐ néng péi wǒ ma?" [@Jīpǔ@] wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>100500</StartMilliseconds>
+    <EndMilliseconds>100944</EndMilliseconds>
+    <Text>“你能陪我吗？”基普[@问@]。
+"Nǐ néng péi wǒ ma?" Jīpǔ [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>100945</StartMilliseconds>
+    <EndMilliseconds>101356</EndMilliseconds>
+    <Text>“你能陪我吗？”基普问。
+"Nǐ néng péi wǒ ma?" Jīpǔ wèn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>101357</StartMilliseconds>
+    <EndMilliseconds>101577</EndMilliseconds>
+    <Text>“不行。”小鸟说，“我累了。
+"Bù xíng." Xiǎoniǎo shuō, "Wǒ lèi le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>101578</StartMilliseconds>
+    <EndMilliseconds>101866</EndMilliseconds>
+    <Text>“[@不@]行。”小鸟说，“我累了。
+"[@Bù@] xíng." Xiǎoniǎo shuō, "Wǒ lèi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>101867</StartMilliseconds>
+    <EndMilliseconds>102751</EndMilliseconds>
+    <Text>“不[@行@]。”小鸟说，“我累了。
+"Bù [@xíng@]." Xiǎoniǎo shuō, "Wǒ lèi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>102752</StartMilliseconds>
+    <EndMilliseconds>103367</EndMilliseconds>
+    <Text>“不行。”[@小鸟@]说，“我累了。
+"Bù xíng." [@Xiǎoniǎo@] shuō, "Wǒ lèi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>103368</StartMilliseconds>
+    <EndMilliseconds>103897</EndMilliseconds>
+    <Text>“不行。”小鸟[@说@]，“我累了。
+"Bù xíng." Xiǎoniǎo [@shuō@], "Wǒ lèi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>103898</StartMilliseconds>
+    <EndMilliseconds>104172</EndMilliseconds>
+    <Text>“不行。”小鸟说，“我累了。
+"Bù xíng." Xiǎoniǎo shuō, "Wǒ lèi le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>104173</StartMilliseconds>
+    <EndMilliseconds>104476</EndMilliseconds>
+    <Text>“不行。”小鸟说，“[@我@]累了。
+"Bù xíng." Xiǎoniǎo shuō, "[@Wǒ@] lèi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>104477</StartMilliseconds>
+    <EndMilliseconds>104916</EndMilliseconds>
+    <Text>“不行。”小鸟说，“我[@累@]了。
+"Bù xíng." Xiǎoniǎo shuō, "Wǒ [@lèi@] le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>104917</StartMilliseconds>
+    <EndMilliseconds>105594</EndMilliseconds>
+    <Text>“不行。”小鸟说，“我累[@了@]。
+"Bù xíng." Xiǎoniǎo shuō, "Wǒ lèi [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>105595</StartMilliseconds>
+    <EndMilliseconds>111038</EndMilliseconds>
+    <Text>“不行。”小鸟说，“我累了。
+"Bù xíng." Xiǎoniǎo shuō, "Wǒ lèi le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>111039</StartMilliseconds>
+    <EndMilliseconds>111635</EndMilliseconds>
+    <Text>你读一本有趣的书吧。
+Nǐ dú yì běn yǒuqù de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>111636</StartMilliseconds>
+    <EndMilliseconds>111944</EndMilliseconds>
+    <Text>[@你@]读一本有趣的书吧。
+[@Nǐ@] dú yì běn yǒuqù de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>111945</StartMilliseconds>
+    <EndMilliseconds>112161</EndMilliseconds>
+    <Text>你[@读@]一本有趣的书吧。
+Nǐ [@dú@] yì běn yǒuqù de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>112162</StartMilliseconds>
+    <EndMilliseconds>112399</EndMilliseconds>
+    <Text>你读[@一@]本有趣的书吧。
+Nǐ dú [@yì@] běn yǒuqù de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>112400</StartMilliseconds>
+    <EndMilliseconds>112809</EndMilliseconds>
+    <Text>你读一[@本@]有趣的书吧。
+Nǐ dú yì [@běn@] yǒuqù de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>112810</StartMilliseconds>
+    <EndMilliseconds>113427</EndMilliseconds>
+    <Text>你读一本[@有趣@]的书吧。
+Nǐ dú yì běn [@yǒuqù@] de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>113428</StartMilliseconds>
+    <EndMilliseconds>113634</EndMilliseconds>
+    <Text>你读一本有趣[@的@]书吧。
+Nǐ dú yì běn yǒuqù [@de@] shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>113635</StartMilliseconds>
+    <EndMilliseconds>113934</EndMilliseconds>
+    <Text>你读一本有趣的[@书@]吧。
+Nǐ dú yì běn yǒuqù de [@shū@] ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>113935</StartMilliseconds>
+    <EndMilliseconds>114529</EndMilliseconds>
+    <Text>你读一本有趣的书[@吧@]。
+Nǐ dú yì běn yǒuqù de shū [@ba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>114530</StartMilliseconds>
+    <EndMilliseconds>114708</EndMilliseconds>
+    <Text>你读一本有趣的书吧。
+Nǐ dú yì běn yǒuqù de shū ba. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>114709</StartMilliseconds>
+    <EndMilliseconds>114948</EndMilliseconds>
+    <Text>那样你就不会害怕了。”
+Nàyàng nǐ jiù bú huì hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>114949</StartMilliseconds>
+    <EndMilliseconds>115904</EndMilliseconds>
+    <Text>[@那样@]你就不会害怕了。”
+[@Nàyàng@] nǐ jiù bú huì hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>115905</StartMilliseconds>
+    <EndMilliseconds>116096</EndMilliseconds>
+    <Text>那样[@你@]就不会害怕了。”
+Nàyàng [@nǐ@] jiù bú huì hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>116097</StartMilliseconds>
+    <EndMilliseconds>116500</EndMilliseconds>
+    <Text>那样你[@就@]不会害怕了。”
+Nàyàng nǐ [@jiù@] bú huì hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>116501</StartMilliseconds>
+    <EndMilliseconds>116710</EndMilliseconds>
+    <Text>那样你就[@不@]会害怕了。”
+Nàyàng nǐ jiù [@bú@] huì hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>116711</StartMilliseconds>
+    <EndMilliseconds>116955</EndMilliseconds>
+    <Text>那样你就不[@会@]害怕了。”
+Nàyàng nǐ jiù bú [@huì@] hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>116956</StartMilliseconds>
+    <EndMilliseconds>117579</EndMilliseconds>
+    <Text>那样你就不会[@害怕@]了。”
+Nàyàng nǐ jiù bú huì [@hàipà@] le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>117580</StartMilliseconds>
+    <EndMilliseconds>118308</EndMilliseconds>
+    <Text>那样你就不会害怕[@了@]。”
+Nàyàng nǐ jiù bú huì hàipà [@le@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>118309</StartMilliseconds>
+    <EndMilliseconds>127636</EndMilliseconds>
+    <Text>那样你就不会害怕了。”
+Nàyàng nǐ jiù bú huì hàipà le." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>127637</StartMilliseconds>
+    <EndMilliseconds>127996</EndMilliseconds>
+    <Text>小鸟睡觉了。
+Xiǎoniǎo shuìjiào le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>127997</StartMilliseconds>
+    <EndMilliseconds>128768</EndMilliseconds>
+    <Text>[@小鸟@]睡觉了。
+[@Xiǎoniǎo@] shuìjiào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>128769</StartMilliseconds>
+    <EndMilliseconds>129612</EndMilliseconds>
+    <Text>小鸟[@睡觉@]了。
+Xiǎoniǎo [@shuìjiào@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>129613</StartMilliseconds>
+    <EndMilliseconds>130334</EndMilliseconds>
+    <Text>小鸟睡觉[@了@]。
+Xiǎoniǎo shuìjiào [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>130335</StartMilliseconds>
+    <EndMilliseconds>132190</EndMilliseconds>
+    <Text>小鸟睡觉了。
+Xiǎoniǎo shuìjiào le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>132191</StartMilliseconds>
+    <EndMilliseconds>138963</EndMilliseconds>
+    <Text>基普找到了一本有趣的书。
+Jīpǔ zhǎodào le yì běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>138964</StartMilliseconds>
+    <EndMilliseconds>139840</EndMilliseconds>
+    <Text>[@基普@]找到了一本有趣的书。
+[@Jīpǔ@] zhǎodào le yì běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>139841</StartMilliseconds>
+    <EndMilliseconds>139982</EndMilliseconds>
+    <Text>基普找到了一本有趣的书。
+Jīpǔ zhǎodào le yì běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>139983</StartMilliseconds>
+    <EndMilliseconds>140500</EndMilliseconds>
+    <Text>基普[@找到@]了一本有趣的书。
+Jīpǔ [@zhǎodào@] le yì běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>140501</StartMilliseconds>
+    <EndMilliseconds>140687</EndMilliseconds>
+    <Text>基普找到[@了@]一本有趣的书。
+Jīpǔ zhǎodào [@le@] yì běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>140688</StartMilliseconds>
+    <EndMilliseconds>140886</EndMilliseconds>
+    <Text>基普找到了[@一@]本有趣的书。
+Jīpǔ zhǎodào le [@yì@] běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>140887</StartMilliseconds>
+    <EndMilliseconds>141384</EndMilliseconds>
+    <Text>基普找到了一[@本@]有趣的书。
+Jīpǔ zhǎodào le yì [@běn@] yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>141385</StartMilliseconds>
+    <EndMilliseconds>142096</EndMilliseconds>
+    <Text>基普找到了一本[@有趣@]的书。
+Jīpǔ zhǎodào le yì běn [@yǒuqù@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>142097</StartMilliseconds>
+    <EndMilliseconds>142320</EndMilliseconds>
+    <Text>基普找到了一本有趣[@的@]书。
+Jīpǔ zhǎodào le yì běn yǒuqù [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>142321</StartMilliseconds>
+    <EndMilliseconds>142971</EndMilliseconds>
+    <Text>基普找到了一本有趣的[@书@]。
+Jīpǔ zhǎodào le yì běn yǒuqù de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>142972</StartMilliseconds>
+    <EndMilliseconds>144358</EndMilliseconds>
+    <Text>基普找到了一本有趣的书。
+Jīpǔ zhǎodào le yì běn yǒuqù de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>144359</StartMilliseconds>
+    <EndMilliseconds>144628</EndMilliseconds>
+    <Text>他坐下来。
+Tā zuò xiàlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>144629</StartMilliseconds>
+    <EndMilliseconds>144998</EndMilliseconds>
+    <Text>[@他@]坐下来。
+[@Tā@] zuò xiàlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>144999</StartMilliseconds>
+    <EndMilliseconds>145257</EndMilliseconds>
+    <Text>他[@坐@]下来。
+Tā [@zuò@] xiàlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>145258</StartMilliseconds>
+    <EndMilliseconds>146141</EndMilliseconds>
+    <Text>他坐[@下来@]。
+Tā zuò [@xiàlai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>146142</StartMilliseconds>
+    <EndMilliseconds>148112</EndMilliseconds>
+    <Text>他坐下来。
+Tā zuò xiàlai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>148113</StartMilliseconds>
+    <EndMilliseconds>148730</EndMilliseconds>
+    <Text>他吃了点爆米花。
+Tā chī le diǎn bàomǐhuā. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>148731</StartMilliseconds>
+    <EndMilliseconds>148914</EndMilliseconds>
+    <Text>[@他@]吃了点爆米花。
+[@Tā@] chī le diǎn bàomǐhuā. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>148915</StartMilliseconds>
+    <EndMilliseconds>149147</EndMilliseconds>
+    <Text>他[@吃@]了点爆米花。
+Tā [@chī@] le diǎn bàomǐhuā. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>149148</StartMilliseconds>
+    <EndMilliseconds>149299</EndMilliseconds>
+    <Text>他吃[@了@]点爆米花。
+Tā chī [@le@] diǎn bàomǐhuā. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>149300</StartMilliseconds>
+    <EndMilliseconds>149730</EndMilliseconds>
+    <Text>他吃了[@点@]爆米花。
+Tā chī le [@diǎn@] bàomǐhuā. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>149731</StartMilliseconds>
+    <EndMilliseconds>150715</EndMilliseconds>
+    <Text>他吃了点[@爆米花@]。
+Tā chī le diǎn [@bàomǐhuā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>150716</StartMilliseconds>
+    <EndMilliseconds>153120</EndMilliseconds>
+    <Text>他吃了点爆米花。
+Tā chī le diǎn bàomǐhuā. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>153121</StartMilliseconds>
+    <EndMilliseconds>153638</EndMilliseconds>
+    <Text>基普翻开了一本书。
+Jīpǔ fānkāi le yì běn shū. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>153639</StartMilliseconds>
+    <EndMilliseconds>154379</EndMilliseconds>
+    <Text>[@基普@]翻开了一本书。
+[@Jīpǔ@] fānkāi le yì běn shū. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>154380</StartMilliseconds>
+    <EndMilliseconds>154916</EndMilliseconds>
+    <Text>基普[@翻开@]了一本书。
+Jīpǔ [@fānkāi@] le yì běn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>154917</StartMilliseconds>
+    <EndMilliseconds>155157</EndMilliseconds>
+    <Text>基普翻开[@了@]一本书。
+Jīpǔ fānkāi [@le@] yì běn shū. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>155158</StartMilliseconds>
+    <EndMilliseconds>155364</EndMilliseconds>
+    <Text>基普翻开了[@一@]本书。
+Jīpǔ fānkāi le [@yì@] běn shū. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>155365</StartMilliseconds>
+    <EndMilliseconds>155602</EndMilliseconds>
+    <Text>基普翻开了一[@本@]书。
+Jīpǔ fānkāi le yì [@běn@] shū. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>155603</StartMilliseconds>
+    <EndMilliseconds>156163</EndMilliseconds>
+    <Text>基普翻开了一本[@书@]。
+Jīpǔ fānkāi le yì běn [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>156164</StartMilliseconds>
+    <EndMilliseconds>159501</EndMilliseconds>
+    <Text>基普翻开了一本书。
+Jīpǔ fānkāi le yì běn shū. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>159502</StartMilliseconds>
+    <EndMilliseconds>159881</EndMilliseconds>
+    <Text>“哈哈！”基普大笑起来，“哈哈！”
+"Hāhā!" Jīpǔ dà xiào qǐlai, "Hāhā!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>159882</StartMilliseconds>
+    <EndMilliseconds>161571</EndMilliseconds>
+    <Text>“[@哈哈@]！”基普大笑起来，“哈哈！”
+"[@Hāhā@]!" Jīpǔ dà xiào qǐlai, "Hāhā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>161572</StartMilliseconds>
+    <EndMilliseconds>162259</EndMilliseconds>
+    <Text>“哈哈！”[@基普@]大笑起来，“哈哈！”
+"Hāhā!" [@Jīpǔ@] dà xiào qǐlai, "Hāhā!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>162260</StartMilliseconds>
+    <EndMilliseconds>162599</EndMilliseconds>
+    <Text>“哈哈！”基普[@大@]笑起来，“哈哈！”
+"Hāhā!" Jīpǔ [@dà@] xiào qǐlai, "Hāhā!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>162600</StartMilliseconds>
+    <EndMilliseconds>162907</EndMilliseconds>
+    <Text>“哈哈！”基普大[@笑@]起来，“哈哈！”
+"Hāhā!" Jīpǔ dà [@xiào@] qǐlai, "Hāhā!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>162908</StartMilliseconds>
+    <EndMilliseconds>163635</EndMilliseconds>
+    <Text>“哈哈！”基普大笑[@起来@]，“哈哈！”
+"Hāhā!" Jīpǔ dà xiào [@qǐlai@], "Hāhā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>163636</StartMilliseconds>
+    <EndMilliseconds>163941</EndMilliseconds>
+    <Text>“哈哈！”基普大笑起来，“哈哈！”
+"Hāhā!" Jīpǔ dà xiào qǐlai, "Hāhā!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>163942</StartMilliseconds>
+    <EndMilliseconds>165627</EndMilliseconds>
+    <Text>“哈哈！”基普大笑起来，“[@哈哈@]！”
+"Hāhā!" Jīpǔ dà xiào qǐlai, "[@Hāhā@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>165628</StartMilliseconds>
+    <EndMilliseconds>168037</EndMilliseconds>
+    <Text>“哈哈！”基普大笑起来，“哈哈！”
+"Hāhā!" Jīpǔ dà xiào qǐlai, "Hāhā!" </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>168038</StartMilliseconds>
+    <EndMilliseconds>168488</EndMilliseconds>
+    <Text>小鸟又被吵醒了。
+Xiǎoniǎo yòu bèi chǎoxǐng le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>168489</StartMilliseconds>
+    <EndMilliseconds>169452</EndMilliseconds>
+    <Text>[@小鸟@]又被吵醒了。
+[@Xiǎoniǎo@] yòu bèi chǎoxǐng le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>209</Number>
+    <StartMilliseconds>169453</StartMilliseconds>
+    <EndMilliseconds>169790</EndMilliseconds>
+    <Text>小鸟[@又@]被吵醒了。
+Xiǎoniǎo [@yòu@] bèi chǎoxǐng le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>210</Number>
+    <StartMilliseconds>169791</StartMilliseconds>
+    <EndMilliseconds>170144</EndMilliseconds>
+    <Text>小鸟又[@被@]吵醒了。
+Xiǎoniǎo yòu [@bèi@] chǎoxǐng le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>211</Number>
+    <StartMilliseconds>170145</StartMilliseconds>
+    <EndMilliseconds>170833</EndMilliseconds>
+    <Text>小鸟又被[@吵醒@]了。
+Xiǎoniǎo yòu bèi [@chǎoxǐng@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>212</Number>
+    <StartMilliseconds>170834</StartMilliseconds>
+    <EndMilliseconds>171774</EndMilliseconds>
+    <Text>小鸟又被吵醒[@了@]。
+Xiǎoniǎo yòu bèi chǎoxǐng [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>213</Number>
+    <StartMilliseconds>171775</StartMilliseconds>
+    <EndMilliseconds>176089</EndMilliseconds>
+    <Text>小鸟又被吵醒了。
+Xiǎoniǎo yòu bèi chǎoxǐng le. </Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6260</StartMilliseconds>
+    <EndMilliseconds>6815</EndMilliseconds>
+    <Text>我可以开门。我是什么？
+Wǒ kěyǐ kāi mén. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>6815</StartMilliseconds>
+    <EndMilliseconds>7203</EndMilliseconds>
+    <Text>[@我@]可以开门。我是什么？
+[@Wǒ@] kěyǐ kāi mén. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>7203</StartMilliseconds>
+    <EndMilliseconds>7793</EndMilliseconds>
+    <Text>我[@可以@]开门。我是什么？
+Wǒ [@kěyǐ@] kāi mén. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>7793</StartMilliseconds>
+    <EndMilliseconds>8147</EndMilliseconds>
+    <Text>我可以[@开@]门。我是什么？
+Wǒ kěyǐ [@kāi@] mén. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>8147</StartMilliseconds>
+    <EndMilliseconds>9127</EndMilliseconds>
+    <Text>我可以开[@门@]。我是什么？
+Wǒ kěyǐ kāi [@mén@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>9127</StartMilliseconds>
+    <EndMilliseconds>9491</EndMilliseconds>
+    <Text>我可以开门。[@我@]是什么？
+Wǒ kěyǐ kāi mén. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>9491</StartMilliseconds>
+    <EndMilliseconds>9854</EndMilliseconds>
+    <Text>我可以开门。我[@是@]什么？
+Wǒ kěyǐ kāi mén. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>9854</StartMilliseconds>
+    <EndMilliseconds>10623</EndMilliseconds>
+    <Text>我可以开门。我是[@什么@]？
+Wǒ kěyǐ kāi mén. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>10623</StartMilliseconds>
+    <EndMilliseconds>11772</EndMilliseconds>
+    <Text>我可以开门。我是什么？
+Wǒ kěyǐ kāi mén. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>11772</StartMilliseconds>
+    <EndMilliseconds>12049</EndMilliseconds>
+    <Text>我是钥匙。
+Wǒ shì yàoshi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>12049</StartMilliseconds>
+    <EndMilliseconds>12346</EndMilliseconds>
+    <Text>[@我@]是钥匙。
+[@Wǒ@] shì yàoshi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>12346</StartMilliseconds>
+    <EndMilliseconds>12632</EndMilliseconds>
+    <Text>我[@是@]钥匙。
+Wǒ [@shì@] yàoshi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>12632</StartMilliseconds>
+    <EndMilliseconds>13480</EndMilliseconds>
+    <Text>我是[@钥匙@]。
+Wǒ shì [@yàoshi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>13480</StartMilliseconds>
+    <EndMilliseconds>14452</EndMilliseconds>
+    <Text>我是钥匙。
+Wǒ shì yàoshi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>14452</StartMilliseconds>
+    <EndMilliseconds>14870</EndMilliseconds>
+    <Text>我可以照亮房间。我是什么？
+Wǒ kěyǐ zhàoliàng fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>14870</StartMilliseconds>
+    <EndMilliseconds>15193</EndMilliseconds>
+    <Text>[@我@]可以照亮房间。我是什么？
+[@Wǒ@] kěyǐ zhàoliàng fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>15193</StartMilliseconds>
+    <EndMilliseconds>15760</EndMilliseconds>
+    <Text>我[@可以@]照亮房间。我是什么？
+Wǒ [@kěyǐ@] zhàoliàng fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>15760</StartMilliseconds>
+    <EndMilliseconds>16264</EndMilliseconds>
+    <Text>我可以[@照亮@]房间。我是什么？
+Wǒ kěyǐ [@zhàoliàng@] fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>16265</StartMilliseconds>
+    <EndMilliseconds>18076</EndMilliseconds>
+    <Text>我可以照亮[@房间@]。我是什么？
+Wǒ kěyǐ zhàoliàng [@fángjiān@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>18077</StartMilliseconds>
+    <EndMilliseconds>18317</EndMilliseconds>
+    <Text>我可以照亮房间。[@我@]是什么？
+Wǒ kěyǐ zhàoliàng fángjiān. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>18318</StartMilliseconds>
+    <EndMilliseconds>18616</EndMilliseconds>
+    <Text>我可以照亮房间。我[@是@]什么？
+Wǒ kěyǐ zhàoliàng fángjiān. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>18616</StartMilliseconds>
+    <EndMilliseconds>19360</EndMilliseconds>
+    <Text>我可以照亮房间。我是[@什么@]？
+Wǒ kěyǐ zhàoliàng fángjiān. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>19360</StartMilliseconds>
+    <EndMilliseconds>20300</EndMilliseconds>
+    <Text>我可以照亮房间。我是什么？
+Wǒ kěyǐ zhàoliàng fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>20300</StartMilliseconds>
+    <EndMilliseconds>20600</EndMilliseconds>
+    <Text>我是灯。
+Wǒ shì dēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>20601</StartMilliseconds>
+    <EndMilliseconds>20897</EndMilliseconds>
+    <Text>[@我@]是灯。
+[@Wǒ@] shì dēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>20897</StartMilliseconds>
+    <EndMilliseconds>21276</EndMilliseconds>
+    <Text>我[@是@]灯。
+Wǒ [@shì@] dēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>21276</StartMilliseconds>
+    <EndMilliseconds>21866</EndMilliseconds>
+    <Text>我是[@灯@]。
+Wǒ shì [@dēng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>21867</StartMilliseconds>
+    <EndMilliseconds>22774</EndMilliseconds>
+    <Text>我是灯。
+Wǒ shì dēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>22774</StartMilliseconds>
+    <EndMilliseconds>23205</EndMilliseconds>
+    <Text>我可以打扫房间。我是什么？
+Wǒ kěyǐ dǎsǎo fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>23205</StartMilliseconds>
+    <EndMilliseconds>23491</EndMilliseconds>
+    <Text>[@我@]可以打扫房间。我是什么？
+[@Wǒ@] kěyǐ dǎsǎo fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>23491</StartMilliseconds>
+    <EndMilliseconds>24167</EndMilliseconds>
+    <Text>我[@可以@]打扫房间。我是什么？
+Wǒ [@kěyǐ@] dǎsǎo fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>24167</StartMilliseconds>
+    <EndMilliseconds>24780</EndMilliseconds>
+    <Text>我可以[@打扫@]房间。我是什么？
+Wǒ kěyǐ [@dǎsǎo@] fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>24780</StartMilliseconds>
+    <EndMilliseconds>26288</EndMilliseconds>
+    <Text>我可以打扫[@房间@]。我是什么？
+Wǒ kěyǐ dǎsǎo [@fángjiān@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>26288</StartMilliseconds>
+    <EndMilliseconds>26564</EndMilliseconds>
+    <Text>我可以打扫房间。[@我@]是什么？
+Wǒ kěyǐ dǎsǎo fángjiān. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>26564</StartMilliseconds>
+    <EndMilliseconds>26943</EndMilliseconds>
+    <Text>我可以打扫房间。我[@是@]什么？
+Wǒ kěyǐ dǎsǎo fángjiān. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>26943</StartMilliseconds>
+    <EndMilliseconds>27607</EndMilliseconds>
+    <Text>我可以打扫房间。我是[@什么@]？
+Wǒ kěyǐ dǎsǎo fángjiān. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>27607</StartMilliseconds>
+    <EndMilliseconds>30074</EndMilliseconds>
+    <Text>我可以打扫房间。我是什么？
+Wǒ kěyǐ dǎsǎo fángjiān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>30074</StartMilliseconds>
+    <EndMilliseconds>30273</EndMilliseconds>
+    <Text>我是吸尘器。
+Wǒ shì xīchénqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>30273</StartMilliseconds>
+    <EndMilliseconds>30489</EndMilliseconds>
+    <Text>[@我@]是吸尘器。
+[@Wǒ@] shì xīchénqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>30489</StartMilliseconds>
+    <EndMilliseconds>31015</EndMilliseconds>
+    <Text>我[@是@]吸尘器。
+Wǒ [@shì@] xīchénqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>31015</StartMilliseconds>
+    <EndMilliseconds>32359</EndMilliseconds>
+    <Text>我是[@吸尘器@]。
+Wǒ shì [@xīchénqì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>32360</StartMilliseconds>
+    <EndMilliseconds>33594</EndMilliseconds>
+    <Text>我是吸尘器。
+Wǒ shì xīchénqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>33594</StartMilliseconds>
+    <EndMilliseconds>33957</EndMilliseconds>
+    <Text>我可以保存食物。我是什么？
+Wǒ kěyǐ bǎocún shíwù. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>33958</StartMilliseconds>
+    <EndMilliseconds>34271</EndMilliseconds>
+    <Text>[@我@]可以保存食物。我是什么？
+[@Wǒ@] kěyǐ bǎocún shíwù. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>34271</StartMilliseconds>
+    <EndMilliseconds>34953</EndMilliseconds>
+    <Text>我[@可以@]保存食物。我是什么？
+Wǒ [@kěyǐ@] bǎocún shíwù. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>34953</StartMilliseconds>
+    <EndMilliseconds>35626</EndMilliseconds>
+    <Text>我可以[@保存@]食物。我是什么？
+Wǒ kěyǐ [@bǎocún@] shíwù. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>35626</StartMilliseconds>
+    <EndMilliseconds>37069</EndMilliseconds>
+    <Text>我可以保存[@食物@]。我是什么？
+Wǒ kěyǐ bǎocún [@shíwù@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>37069</StartMilliseconds>
+    <EndMilliseconds>37267</EndMilliseconds>
+    <Text>我可以保存食物。[@我@]是什么？
+Wǒ kěyǐ bǎocún shíwù. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>37267</StartMilliseconds>
+    <EndMilliseconds>37586</EndMilliseconds>
+    <Text>我可以保存食物。我[@是@]什么？
+Wǒ kěyǐ bǎocún shíwù. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>37586</StartMilliseconds>
+    <EndMilliseconds>38411</EndMilliseconds>
+    <Text>我可以保存食物。我是[@什么@]？
+Wǒ kěyǐ bǎocún shíwù. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>38411</StartMilliseconds>
+    <EndMilliseconds>39550</EndMilliseconds>
+    <Text>我可以保存食物。我是什么？
+Wǒ kěyǐ bǎocún shíwù. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>39550</StartMilliseconds>
+    <EndMilliseconds>39734</EndMilliseconds>
+    <Text>我是冰箱。
+Wǒ shì bīngxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>39734</StartMilliseconds>
+    <EndMilliseconds>40017</EndMilliseconds>
+    <Text>[@我@]是冰箱。
+[@Wǒ@] shì bīngxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>40018</StartMilliseconds>
+    <EndMilliseconds>40550</EndMilliseconds>
+    <Text>我[@是@]冰箱。
+Wǒ [@shì@] bīngxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>40550</StartMilliseconds>
+    <EndMilliseconds>41415</EndMilliseconds>
+    <Text>我是[@冰箱@]。
+Wǒ shì [@bīngxiāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>41415</StartMilliseconds>
+    <EndMilliseconds>42170</EndMilliseconds>
+    <Text>我是冰箱。
+Wǒ shì bīngxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>42170</StartMilliseconds>
+    <EndMilliseconds>42588</EndMilliseconds>
+    <Text>我可以做好吃的吐司。我是什么？
+Wǒ kěyǐ zuò hǎochī de tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>42588</StartMilliseconds>
+    <EndMilliseconds>42900</EndMilliseconds>
+    <Text>[@我@]可以做好吃的吐司。我是什么？
+[@Wǒ@] kěyǐ zuò hǎochī de tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>42900</StartMilliseconds>
+    <EndMilliseconds>43350</EndMilliseconds>
+    <Text>我[@可以@]做好吃的吐司。我是什么？
+Wǒ [@kěyǐ@] zuò hǎochī de tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>43351</StartMilliseconds>
+    <EndMilliseconds>43814</EndMilliseconds>
+    <Text>我可以[@做@]好吃的吐司。我是什么？
+Wǒ kěyǐ [@zuò@] hǎochī de tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>43814</StartMilliseconds>
+    <EndMilliseconds>44470</EndMilliseconds>
+    <Text>我可以做[@好吃@]的吐司。我是什么？
+Wǒ kěyǐ zuò [@hǎochī@] de tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>44470</StartMilliseconds>
+    <EndMilliseconds>44755</EndMilliseconds>
+    <Text>我可以做好吃[@的@]吐司。我是什么？
+Wǒ kěyǐ zuò hǎochī [@de@] tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>44755</StartMilliseconds>
+    <EndMilliseconds>46064</EndMilliseconds>
+    <Text>我可以做好吃的[@吐司@]。我是什么？
+Wǒ kěyǐ zuò hǎochī de [@tǔsī@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>46064</StartMilliseconds>
+    <EndMilliseconds>46294</EndMilliseconds>
+    <Text>我可以做好吃的吐司。[@我@]是什么？
+Wǒ kěyǐ zuò hǎochī de tǔsī. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>46294</StartMilliseconds>
+    <EndMilliseconds>46571</EndMilliseconds>
+    <Text>我可以做好吃的吐司。我[@是@]什么？
+Wǒ kěyǐ zuò hǎochī de tǔsī. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>46571</StartMilliseconds>
+    <EndMilliseconds>47418</EndMilliseconds>
+    <Text>我可以做好吃的吐司。我是[@什么@]？
+Wǒ kěyǐ zuò hǎochī de tǔsī. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>47418</StartMilliseconds>
+    <EndMilliseconds>48309</EndMilliseconds>
+    <Text>我可以做好吃的吐司。我是什么？
+Wǒ kěyǐ zuò hǎochī de tǔsī. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>48309</StartMilliseconds>
+    <EndMilliseconds>48516</EndMilliseconds>
+    <Text>我是烤面包机。
+Wǒ shì kǎomiànbāojī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>48516</StartMilliseconds>
+    <EndMilliseconds>48767</EndMilliseconds>
+    <Text>[@我@]是烤面包机。
+[@Wǒ@] shì kǎomiànbāojī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>48768</StartMilliseconds>
+    <EndMilliseconds>49330</EndMilliseconds>
+    <Text>我[@是@]烤面包机。
+Wǒ [@shì@] kǎomiànbāojī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>49330</StartMilliseconds>
+    <EndMilliseconds>50889</EndMilliseconds>
+    <Text>我是[@烤面包机@]。
+Wǒ shì [@kǎomiànbāojī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>50890</StartMilliseconds>
+    <EndMilliseconds>51792</EndMilliseconds>
+    <Text>我是烤面包机。
+Wǒ shì kǎomiànbāojī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>51792</StartMilliseconds>
+    <EndMilliseconds>52140</EndMilliseconds>
+    <Text>我可以做好吃的饼干。我是什么？
+Wǒ kěyǐ zuò hǎochī de bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>52141</StartMilliseconds>
+    <EndMilliseconds>52473</EndMilliseconds>
+    <Text>[@我@]可以做好吃的饼干。我是什么？
+[@Wǒ@] kěyǐ zuò hǎochī de bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>52473</StartMilliseconds>
+    <EndMilliseconds>52889</EndMilliseconds>
+    <Text>我[@可以@]做好吃的饼干。我是什么？
+Wǒ [@kěyǐ@] zuò hǎochī de bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>52889</StartMilliseconds>
+    <EndMilliseconds>53393</EndMilliseconds>
+    <Text>我可以[@做@]好吃的饼干。我是什么？
+Wǒ kěyǐ [@zuò@] hǎochī de bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>53394</StartMilliseconds>
+    <EndMilliseconds>53950</EndMilliseconds>
+    <Text>我可以做[@好吃@]的饼干。我是什么？
+Wǒ kěyǐ zuò [@hǎochī@] de bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>53950</StartMilliseconds>
+    <EndMilliseconds>54141</EndMilliseconds>
+    <Text>我可以做好吃[@的@]饼干。我是什么？
+Wǒ kěyǐ zuò hǎochī [@de@] bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>54141</StartMilliseconds>
+    <EndMilliseconds>55528</EndMilliseconds>
+    <Text>我可以做好吃的[@饼干@]。我是什么？
+Wǒ kěyǐ zuò hǎochī de [@bǐnggān@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>55528</StartMilliseconds>
+    <EndMilliseconds>55735</EndMilliseconds>
+    <Text>我可以做好吃的饼干。[@我@]是什么？
+Wǒ kěyǐ zuò hǎochī de bǐnggān. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>55735</StartMilliseconds>
+    <EndMilliseconds>56028</EndMilliseconds>
+    <Text>我可以做好吃的饼干。我[@是@]什么？
+Wǒ kěyǐ zuò hǎochī de bǐnggān. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>56028</StartMilliseconds>
+    <EndMilliseconds>56790</EndMilliseconds>
+    <Text>我可以做好吃的饼干。我是[@什么@]？
+Wǒ kěyǐ zuò hǎochī de bǐnggān. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>56790</StartMilliseconds>
+    <EndMilliseconds>57390</EndMilliseconds>
+    <Text>我可以做好吃的饼干。我是什么？
+Wǒ kěyǐ zuò hǎochī de bǐnggān. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>57390</StartMilliseconds>
+    <EndMilliseconds>57683</EndMilliseconds>
+    <Text>我是烤箱。
+Wǒ shì kǎoxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>57684</StartMilliseconds>
+    <EndMilliseconds>58058</EndMilliseconds>
+    <Text>[@我@]是烤箱。
+[@Wǒ@] shì kǎoxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>58058</StartMilliseconds>
+    <EndMilliseconds>58594</EndMilliseconds>
+    <Text>我[@是@]烤箱。
+Wǒ [@shì@] kǎoxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>58594</StartMilliseconds>
+    <EndMilliseconds>59519</EndMilliseconds>
+    <Text>我是[@烤箱@]。
+Wǒ shì [@kǎoxiāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>59520</StartMilliseconds>
+    <EndMilliseconds>60191</EndMilliseconds>
+    <Text>我是烤箱。
+Wǒ shì kǎoxiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>60191</StartMilliseconds>
+    <EndMilliseconds>60586</EndMilliseconds>
+    <Text>我可以洗衣服。我是什么？
+Wǒ kěyǐ xǐ yīfu. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>60587</StartMilliseconds>
+    <EndMilliseconds>60936</EndMilliseconds>
+    <Text>[@我@]可以洗衣服。我是什么？
+[@Wǒ@] kěyǐ xǐ yīfu. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>60936</StartMilliseconds>
+    <EndMilliseconds>61491</EndMilliseconds>
+    <Text>我[@可以@]洗衣服。我是什么？
+Wǒ [@kěyǐ@] xǐ yīfu. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>61491</StartMilliseconds>
+    <EndMilliseconds>61846</EndMilliseconds>
+    <Text>我可以[@洗@]衣服。我是什么？
+Wǒ kěyǐ [@xǐ@] yīfu. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>61846</StartMilliseconds>
+    <EndMilliseconds>63209</EndMilliseconds>
+    <Text>我可以洗[@衣服@]。我是什么？
+Wǒ kěyǐ xǐ [@yīfu@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>63209</StartMilliseconds>
+    <EndMilliseconds>63471</EndMilliseconds>
+    <Text>我可以洗衣服。[@我@]是什么？
+Wǒ kěyǐ xǐ yīfu. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>63471</StartMilliseconds>
+    <EndMilliseconds>63795</EndMilliseconds>
+    <Text>我可以洗衣服。我[@是@]什么？
+Wǒ kěyǐ xǐ yīfu. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>63795</StartMilliseconds>
+    <EndMilliseconds>64596</EndMilliseconds>
+    <Text>我可以洗衣服。我是[@什么@]？
+Wǒ kěyǐ xǐ yīfu. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>64596</StartMilliseconds>
+    <EndMilliseconds>66861</EndMilliseconds>
+    <Text>我可以洗衣服。我是什么？
+Wǒ kěyǐ xǐ yīfu. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>66861</StartMilliseconds>
+    <EndMilliseconds>66998</EndMilliseconds>
+    <Text>我是洗衣机。
+Wǒ shì xǐyījī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>66998</StartMilliseconds>
+    <EndMilliseconds>67264</EndMilliseconds>
+    <Text>[@我@]是洗衣机。
+[@Wǒ@] shì xǐyījī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>67265</StartMilliseconds>
+    <EndMilliseconds>67776</EndMilliseconds>
+    <Text>我[@是@]洗衣机。
+Wǒ [@shì@] xǐyījī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>67776</StartMilliseconds>
+    <EndMilliseconds>69256</EndMilliseconds>
+    <Text>我是[@洗衣机@]。
+Wǒ shì [@xǐyījī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>69256</StartMilliseconds>
+    <EndMilliseconds>70261</EndMilliseconds>
+    <Text>我是洗衣机。
+Wǒ shì xǐyījī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>70262</StartMilliseconds>
+    <EndMilliseconds>70975</EndMilliseconds>
+    <Text>我可以拍照。我是什么？
+Wǒ kěyǐ pāi zhào. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>70975</StartMilliseconds>
+    <EndMilliseconds>71353</EndMilliseconds>
+    <Text>[@我@]可以拍照。我是什么？
+[@Wǒ@] kěyǐ pāi zhào. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>71353</StartMilliseconds>
+    <EndMilliseconds>71810</EndMilliseconds>
+    <Text>我[@可以@]拍照。我是什么？
+Wǒ [@kěyǐ@] pāi zhào. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>71810</StartMilliseconds>
+    <EndMilliseconds>72102</EndMilliseconds>
+    <Text>我可以[@拍@]照。我是什么？
+Wǒ kěyǐ [@pāi@] zhào. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>72102</StartMilliseconds>
+    <EndMilliseconds>73540</EndMilliseconds>
+    <Text>我可以拍[@照@]。我是什么？
+Wǒ kěyǐ pāi [@zhào@]. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>73540</StartMilliseconds>
+    <EndMilliseconds>73775</EndMilliseconds>
+    <Text>我可以拍照。[@我@]是什么？
+Wǒ kěyǐ pāi zhào. [@Wǒ@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>73776</StartMilliseconds>
+    <EndMilliseconds>74021</EndMilliseconds>
+    <Text>我可以拍照。我[@是@]什么？
+Wǒ kěyǐ pāi zhào. Wǒ [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>74021</StartMilliseconds>
+    <EndMilliseconds>74883</EndMilliseconds>
+    <Text>我可以拍照。我是[@什么@]？
+Wǒ kěyǐ pāi zhào. Wǒ shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>74883</StartMilliseconds>
+    <EndMilliseconds>75600</EndMilliseconds>
+    <Text>我可以拍照。我是什么？
+Wǒ kěyǐ pāi zhào. Wǒ shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>75600</StartMilliseconds>
+    <EndMilliseconds>75822</EndMilliseconds>
+    <Text>我是照相机。
+Wǒ shì zhàoxiàngjī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>75822</StartMilliseconds>
+    <EndMilliseconds>76083</EndMilliseconds>
+    <Text>[@我@]是照相机。
+[@Wǒ@] shì zhàoxiàngjī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>76083</StartMilliseconds>
+    <EndMilliseconds>76600</EndMilliseconds>
+    <Text>我[@是@]照相机。
+Wǒ [@shì@] zhàoxiàngjī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>76600</StartMilliseconds>
+    <EndMilliseconds>77960</EndMilliseconds>
+    <Text>我是[@照相机@]。
+Wǒ shì [@zhàoxiàngjī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>77960</StartMilliseconds>
+    <EndMilliseconds>82753</EndMilliseconds>
+    <Text>我是照相机。
+Wǒ shì zhàoxiàngjī.</Text>
+  </Paragraph>
+</Subtitle>

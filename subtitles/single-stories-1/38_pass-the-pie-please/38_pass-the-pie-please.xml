@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>8096</StartMilliseconds>
+    <EndMilliseconds>9939</EndMilliseconds>
+    <Text>Qǐng gěi wǒ miànbāo.
+请给我面包。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>9940</StartMilliseconds>
+    <EndMilliseconds>10439</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ miànbāo.
+[@请@]给我面包。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>10440</StartMilliseconds>
+    <EndMilliseconds>10801</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ miànbāo.
+请[@给@]我面包。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>10802</StartMilliseconds>
+    <EndMilliseconds>11307</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] miànbāo.
+请给[@我@]面包。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>11308</StartMilliseconds>
+    <EndMilliseconds>11554</EndMilliseconds>
+    <Text>Qǐng gěi wǒ miànbāo.
+请给我面包。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>11555</StartMilliseconds>
+    <EndMilliseconds>12595</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@miànbāo@].
+请给我[@面包@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>12596</StartMilliseconds>
+    <EndMilliseconds>18312</EndMilliseconds>
+    <Text>Qǐng gěi wǒ miànbāo.
+请给我面包。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>18313</StartMilliseconds>
+    <EndMilliseconds>20473</EndMilliseconds>
+    <Text>Qǐng gěi wǒ huángyóu.
+请给我黄油。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>20474</StartMilliseconds>
+    <EndMilliseconds>21046</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ huángyóu.
+[@请@]给我黄油。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>21047</StartMilliseconds>
+    <EndMilliseconds>21480</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ huángyóu.
+请[@给@]我黄油。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>21481</StartMilliseconds>
+    <EndMilliseconds>22044</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] huángyóu.
+请给[@我@]黄油。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22045</StartMilliseconds>
+    <EndMilliseconds>22302</EndMilliseconds>
+    <Text>Qǐng gěi wǒ huángyóu.
+请给我黄油。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>22303</StartMilliseconds>
+    <EndMilliseconds>23488</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@huángyóu@].
+请给我[@黄油@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>23489</StartMilliseconds>
+    <EndMilliseconds>30260</EndMilliseconds>
+    <Text>Qǐng gěi wǒ huángyóu.
+请给我黄油。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>30261</StartMilliseconds>
+    <EndMilliseconds>31819</EndMilliseconds>
+    <Text>Qǐng gěi wǒ jīròu.
+请给我鸡肉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>31820</StartMilliseconds>
+    <EndMilliseconds>32328</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ jīròu.
+[@请@]给我鸡肉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32329</StartMilliseconds>
+    <EndMilliseconds>32726</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ jīròu.
+请[@给@]我鸡肉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32727</StartMilliseconds>
+    <EndMilliseconds>33309</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] jīròu.
+请给[@我@]鸡肉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>33310</StartMilliseconds>
+    <EndMilliseconds>33611</EndMilliseconds>
+    <Text>Qǐng gěi wǒ jīròu.
+请给我鸡肉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33612</StartMilliseconds>
+    <EndMilliseconds>34468</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@jīròu@].
+请给我[@鸡肉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>34469</StartMilliseconds>
+    <EndMilliseconds>40319</EndMilliseconds>
+    <Text>Qǐng gěi wǒ jīròu.
+请给我鸡肉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>40320</StartMilliseconds>
+    <EndMilliseconds>42465</EndMilliseconds>
+    <Text>Qǐng gěi wǒ mǐfàn.
+请给我米饭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>42466</StartMilliseconds>
+    <EndMilliseconds>43023</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ mǐfàn.
+[@请@]给我米饭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>43024</StartMilliseconds>
+    <EndMilliseconds>43412</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ mǐfàn.
+请[@给@]我米饭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>43413</StartMilliseconds>
+    <EndMilliseconds>44021</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] mǐfàn.
+请给[@我@]米饭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>44022</StartMilliseconds>
+    <EndMilliseconds>44234</EndMilliseconds>
+    <Text>Qǐng gěi wǒ mǐfàn.
+请给我米饭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>44235</StartMilliseconds>
+    <EndMilliseconds>45203</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@mǐfàn@].
+请给我[@米饭@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>45204</StartMilliseconds>
+    <EndMilliseconds>49785</EndMilliseconds>
+    <Text>Qǐng gěi wǒ mǐfàn.
+请给我米饭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>49786</StartMilliseconds>
+    <EndMilliseconds>51475</EndMilliseconds>
+    <Text>Qǐng gěi wǒ yùmǐ.
+请给我玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>51476</StartMilliseconds>
+    <EndMilliseconds>52029</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ yùmǐ.
+[@请@]给我玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>52030</StartMilliseconds>
+    <EndMilliseconds>52412</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ yùmǐ.
+请[@给@]我玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>52413</StartMilliseconds>
+    <EndMilliseconds>53039</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] yùmǐ.
+请给[@我@]玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>53040</StartMilliseconds>
+    <EndMilliseconds>53407</EndMilliseconds>
+    <Text>Qǐng gěi wǒ yùmǐ.
+请给我玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>53408</StartMilliseconds>
+    <EndMilliseconds>54584</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@yùmǐ@].
+请给我[@玉米@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54585</StartMilliseconds>
+    <EndMilliseconds>60713</EndMilliseconds>
+    <Text>Qǐng gěi wǒ yùmǐ.
+请给我玉米。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>60714</StartMilliseconds>
+    <EndMilliseconds>62393</EndMilliseconds>
+    <Text>Qǐng gěi wǒ niúnǎi.
+请给我牛奶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>62394</StartMilliseconds>
+    <EndMilliseconds>62977</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ niúnǎi.
+[@请@]给我牛奶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>62978</StartMilliseconds>
+    <EndMilliseconds>63455</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ niúnǎi.
+请[@给@]我牛奶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>63456</StartMilliseconds>
+    <EndMilliseconds>64081</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] niúnǎi.
+请给[@我@]牛奶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>64082</StartMilliseconds>
+    <EndMilliseconds>64314</EndMilliseconds>
+    <Text>Qǐng gěi wǒ niúnǎi.
+请给我牛奶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>64315</StartMilliseconds>
+    <EndMilliseconds>65682</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@niúnǎi@].
+请给我[@牛奶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>65683</StartMilliseconds>
+    <EndMilliseconds>71667</EndMilliseconds>
+    <Text>Qǐng gěi wǒ niúnǎi.
+请给我牛奶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>71668</StartMilliseconds>
+    <EndMilliseconds>72546</EndMilliseconds>
+    <Text>Qǐng gěi wǒ xiànbǐng.
+请给我馅饼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>72547</StartMilliseconds>
+    <EndMilliseconds>73028</EndMilliseconds>
+    <Text>[@Qǐng@] gěi wǒ xiànbǐng.
+[@请@]给我馅饼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>73029</StartMilliseconds>
+    <EndMilliseconds>73566</EndMilliseconds>
+    <Text>Qǐng [@gěi@] wǒ xiànbǐng.
+请[@给@]我馅饼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>73567</StartMilliseconds>
+    <EndMilliseconds>74164</EndMilliseconds>
+    <Text>Qǐng gěi [@wǒ@] xiànbǐng.
+请给[@我@]馅饼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>74165</StartMilliseconds>
+    <EndMilliseconds>74415</EndMilliseconds>
+    <Text>Qǐng gěi wǒ xiànbǐng.
+请给我馅饼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>74416</StartMilliseconds>
+    <EndMilliseconds>75602</EndMilliseconds>
+    <Text>Qǐng gěi wǒ [@xiànbǐng@].
+请给我[@馅饼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>75603</StartMilliseconds>
+    <EndMilliseconds>78800</EndMilliseconds>
+    <Text>Qǐng gěi wǒ xiànbǐng.
+请给我馅饼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>78801</StartMilliseconds>
+    <EndMilliseconds>80796</EndMilliseconds>
+    <Text>Xièxie.
+谢谢。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>80797</StartMilliseconds>
+    <EndMilliseconds>81642</EndMilliseconds>
+    <Text>[@Xièxie@].
+[@谢谢@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>81643</StartMilliseconds>
+    <EndMilliseconds>84932</EndMilliseconds>
+    <Text>Xièxie.
+谢谢。</Text>
+  </Paragraph>
+</Subtitle>

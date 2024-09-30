@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10316</StartMilliseconds>
+    <EndMilliseconds>14642</EndMilliseconds>
+    <Text>里奇：你们好，朋友们！
+Lǐqí: Nǐmen hǎo, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14643</StartMilliseconds>
+    <EndMilliseconds>15187</EndMilliseconds>
+    <Text>里奇：[@你们@]好，朋友们！
+Lǐqí: [@Nǐmen@] hǎo, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15188</StartMilliseconds>
+    <EndMilliseconds>15512</EndMilliseconds>
+    <Text>里奇：你们[@好@]，朋友们！
+Lǐqí: Nǐmen [@hǎo@], péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15513</StartMilliseconds>
+    <EndMilliseconds>16191</EndMilliseconds>
+    <Text>里奇：你们好，[@朋友们@]！
+Lǐqí: Nǐmen hǎo, [@péngyǒumen@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16192</StartMilliseconds>
+    <EndMilliseconds>16320</EndMilliseconds>
+    <Text>里奇：你们好，朋友们！
+Lǐqí: Nǐmen hǎo, péngyǒumen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16321</StartMilliseconds>
+    <EndMilliseconds>16521</EndMilliseconds>
+    <Text>里奇：发生什么事了？
+Lǐqí: Fāshēng shénme shì le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16522</StartMilliseconds>
+    <EndMilliseconds>16932</EndMilliseconds>
+    <Text>里奇：[@发生@]什么事了？
+Lǐqí: [@Fāshēng@] shénme shì le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16933</StartMilliseconds>
+    <EndMilliseconds>17215</EndMilliseconds>
+    <Text>里奇：发生[@什么@]事了？
+Lǐqí: Fāshēng [@shénme@] shì le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17216</StartMilliseconds>
+    <EndMilliseconds>17514</EndMilliseconds>
+    <Text>里奇：发生什么[@事@]了？
+Lǐqí: Fāshēng shénme [@shì@] le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17515</StartMilliseconds>
+    <EndMilliseconds>17944</EndMilliseconds>
+    <Text>里奇：发生什么事[@了@]？
+Lǐqí: Fāshēng shénme shì [@le@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17945</StartMilliseconds>
+    <EndMilliseconds>18367</EndMilliseconds>
+    <Text>里奇：发生什么事了？
+Lǐqí: Fāshēng shénme shì le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18368</StartMilliseconds>
+    <EndMilliseconds>18716</EndMilliseconds>
+    <Text>甜娜：你的女朋友呢，理查德？
+Tiánnà: Nǐ de nǚ péngyou ne, Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18717</StartMilliseconds>
+    <EndMilliseconds>18898</EndMilliseconds>
+    <Text>甜娜：[@你@]的女朋友呢，理查德？
+Tiánnà: [@Nǐ@] de nǚ péngyou ne, Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18899</StartMilliseconds>
+    <EndMilliseconds>19029</EndMilliseconds>
+    <Text>甜娜：你[@的@]女朋友呢，理查德？
+Tiánnà: Nǐ [@de@] nǚ péngyou ne, Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19030</StartMilliseconds>
+    <EndMilliseconds>19228</EndMilliseconds>
+    <Text>甜娜：你的[@女@]朋友呢，理查德？
+Tiánnà: Nǐ de [@nǚ@] péngyou ne, Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19229</StartMilliseconds>
+    <EndMilliseconds>19615</EndMilliseconds>
+    <Text>甜娜：你的女[@朋友@]呢，理查德？
+Tiánnà: Nǐ de nǚ [@péngyou@] ne, Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>19616</StartMilliseconds>
+    <EndMilliseconds>20093</EndMilliseconds>
+    <Text>甜娜：你的女朋友[@呢@]，理查德？
+Tiánnà: Nǐ de nǚ péngyou [@ne@], Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>20094</StartMilliseconds>
+    <EndMilliseconds>21121</EndMilliseconds>
+    <Text>甜娜：你的女朋友呢，[@理查德@]？
+Tiánnà: Nǐ de nǚ péngyou ne, [@Lǐchádé@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21122</StartMilliseconds>
+    <EndMilliseconds>26426</EndMilliseconds>
+    <Text>甜娜：你的女朋友呢，理查德？
+Tiánnà: Nǐ de nǚ péngyou ne, Lǐchádé?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>26427</StartMilliseconds>
+    <EndMilliseconds>35253</EndMilliseconds>
+    <Text>里奇：为什么大家都在笑我？
+Lǐqí: Wèishénme dàjiā dōu zài xiào wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>35254</StartMilliseconds>
+    <EndMilliseconds>36307</EndMilliseconds>
+    <Text>里奇：[@为什么@]大家都在笑我？
+Lǐqí: [@Wèishénme@] dàjiā dōu zài xiào wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>36308</StartMilliseconds>
+    <EndMilliseconds>36832</EndMilliseconds>
+    <Text>里奇：为什么[@大家@]都在笑我？
+Lǐqí: Wèishénme [@dàjiā@] dōu zài xiào wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>36833</StartMilliseconds>
+    <EndMilliseconds>37041</EndMilliseconds>
+    <Text>里奇：为什么大家[@都@]在笑我？
+Lǐqí: Wèishénme dàjiā [@dōu@] zài xiào wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>37042</StartMilliseconds>
+    <EndMilliseconds>37229</EndMilliseconds>
+    <Text>里奇：为什么大家都[@在@]笑我？
+Lǐqí: Wèishénme dàjiā dōu [@zài@] xiào wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>37230</StartMilliseconds>
+    <EndMilliseconds>37540</EndMilliseconds>
+    <Text>里奇：为什么大家都在[@笑@]我？
+Lǐqí: Wèishénme dàjiā dōu zài [@xiào@] wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>37541</StartMilliseconds>
+    <EndMilliseconds>38138</EndMilliseconds>
+    <Text>里奇：为什么大家都在笑[@我@]？
+Lǐqí: Wèishénme dàjiā dōu zài xiào [@wǒ@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>38139</StartMilliseconds>
+    <EndMilliseconds>38797</EndMilliseconds>
+    <Text>里奇：为什么大家都在笑我？
+Lǐqí: Wèishénme dàjiā dōu zài xiào wǒ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>38798</StartMilliseconds>
+    <EndMilliseconds>39313</EndMilliseconds>
+    <Text>安迪：那个……有个关于你的事儿。
+Āndí: Nàge…… Yǒu ge guānyú nǐ de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>39314</StartMilliseconds>
+    <EndMilliseconds>40226</EndMilliseconds>
+    <Text>安迪：[@那个@]……有个关于你的事儿。
+Āndí: [@Nàge@]…… Yǒu ge guānyú nǐ de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>40227</StartMilliseconds>
+    <EndMilliseconds>40673</EndMilliseconds>
+    <Text>安迪：那个……[@有@]个关于你的事儿。
+Āndí: Nàge…… [@Yǒu@] ge guānyú nǐ de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>40674</StartMilliseconds>
+    <EndMilliseconds>41271</EndMilliseconds>
+    <Text>安迪：那个……有[@个@]关于你的事儿。
+Āndí: Nàge…… Yǒu [@ge@] guānyú nǐ de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>41272</StartMilliseconds>
+    <EndMilliseconds>41677</EndMilliseconds>
+    <Text>安迪：那个……有个[@关于@]你的事儿。
+Āndí: Nàge…… Yǒu ge [@guānyú@] nǐ de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>41678</StartMilliseconds>
+    <EndMilliseconds>41889</EndMilliseconds>
+    <Text>安迪：那个……有个关于[@你@]的事儿。
+Āndí: Nàge…… Yǒu ge guānyú [@nǐ@] de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>41890</StartMilliseconds>
+    <EndMilliseconds>42032</EndMilliseconds>
+    <Text>安迪：那个……有个关于你[@的@]事儿。
+Āndí: Nàge…… Yǒu ge guānyú nǐ [@de@] shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>42033</StartMilliseconds>
+    <EndMilliseconds>42593</EndMilliseconds>
+    <Text>安迪：那个……有个关于你的[@事儿@]。
+Āndí: Nàge…… Yǒu ge guānyú nǐ de [@shìr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>42594</StartMilliseconds>
+    <EndMilliseconds>43845</EndMilliseconds>
+    <Text>安迪：那个……有个关于你的事儿。
+Āndí: Nàge…… Yǒu ge guānyú nǐ de shìr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>43846</StartMilliseconds>
+    <EndMilliseconds>44783</EndMilliseconds>
+    <Text>里奇：什么事儿？
+Lǐqí: Shénme shìr?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>44784</StartMilliseconds>
+    <EndMilliseconds>45241</EndMilliseconds>
+    <Text>里奇：[@什么@]事儿？
+Lǐqí: [@Shénme@] shìr?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>45242</StartMilliseconds>
+    <EndMilliseconds>45836</EndMilliseconds>
+    <Text>里奇：什么[@事儿@]？
+Lǐqí: Shénme [@shìr@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>45837</StartMilliseconds>
+    <EndMilliseconds>46381</EndMilliseconds>
+    <Text>里奇：什么事儿？
+Lǐqí: Shénme shìr?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>46382</StartMilliseconds>
+    <EndMilliseconds>46740</EndMilliseconds>
+    <Text>安迪：那个……说你喜欢基蒂。
+Āndí: Nàge…… Shuō nǐ xǐhuan Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>46741</StartMilliseconds>
+    <EndMilliseconds>47869</EndMilliseconds>
+    <Text>安迪：[@那个@]……说你喜欢基蒂。
+Āndí: [@Nàge@]…… Shuō nǐ xǐhuan Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>47870</StartMilliseconds>
+    <EndMilliseconds>48311</EndMilliseconds>
+    <Text>安迪：那个……说你喜欢基蒂。
+Āndí: Nàge…… Shuō nǐ xǐhuan Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>48312</StartMilliseconds>
+    <EndMilliseconds>49131</EndMilliseconds>
+    <Text>安迪：那个……[@说@]你喜欢基蒂。
+Āndí: Nàge…… [@Shuō@] nǐ xǐhuan Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>49132</StartMilliseconds>
+    <EndMilliseconds>49395</EndMilliseconds>
+    <Text>安迪：那个……说[@你@]喜欢基蒂。
+Āndí: Nàge…… Shuō [@nǐ@] xǐhuan Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>49396</StartMilliseconds>
+    <EndMilliseconds>49777</EndMilliseconds>
+    <Text>安迪：那个……说你[@喜欢@]基蒂。
+Āndí: Nàge…… Shuō nǐ [@xǐhuan@] Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>49778</StartMilliseconds>
+    <EndMilliseconds>50398</EndMilliseconds>
+    <Text>安迪：那个……说你喜欢[@基蒂@]。
+Āndí: Nàge…… Shuō nǐ xǐhuan [@Jīdì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>50399</StartMilliseconds>
+    <EndMilliseconds>52052</EndMilliseconds>
+    <Text>安迪：那个……说你喜欢基蒂。
+Āndí: Nàge…… Shuō nǐ xǐhuan Jīdì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>52053</StartMilliseconds>
+    <EndMilliseconds>53820</EndMilliseconds>
+    <Text>里奇：什么？我不喜欢基蒂！
+Lǐqí: Shénme? Wǒ bù xǐhuan Jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>53821</StartMilliseconds>
+    <EndMilliseconds>55121</EndMilliseconds>
+    <Text>里奇：[@什么@]？我不喜欢基蒂！
+Lǐqí: [@Shénme@]? Wǒ bù xǐhuan Jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>55122</StartMilliseconds>
+    <EndMilliseconds>55484</EndMilliseconds>
+    <Text>里奇：什么？[@我@]不喜欢基蒂！
+Lǐqí: Shénme? [@Wǒ@] bù xǐhuan Jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>55485</StartMilliseconds>
+    <EndMilliseconds>55784</EndMilliseconds>
+    <Text>里奇：什么？我[@不@]喜欢基蒂！
+Lǐqí: Shénme? Wǒ [@bù@] xǐhuan Jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>55785</StartMilliseconds>
+    <EndMilliseconds>56268</EndMilliseconds>
+    <Text>里奇：什么？我不[@喜欢@]基蒂！
+Lǐqí: Shénme? Wǒ bù [@xǐhuan@] Jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>56269</StartMilliseconds>
+    <EndMilliseconds>57037</EndMilliseconds>
+    <Text>里奇：什么？我不喜欢[@基蒂@]！
+Lǐqí: Shénme? Wǒ bù xǐhuan [@Jīdì@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>57038</StartMilliseconds>
+    <EndMilliseconds>57345</EndMilliseconds>
+    <Text>里奇：什么？我不喜欢基蒂！
+Lǐqí: Shénme? Wǒ bù xǐhuan Jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>57346</StartMilliseconds>
+    <EndMilliseconds>57925</EndMilliseconds>
+    <Text>里奇：谁说我喜欢她了？
+Lǐqí: Shéi shuō wǒ xǐhuan tā le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>57926</StartMilliseconds>
+    <EndMilliseconds>58363</EndMilliseconds>
+    <Text>里奇：[@谁@]说我喜欢她了？
+Lǐqí: [@Shéi@] shuō wǒ xǐhuan tā le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>58364</StartMilliseconds>
+    <EndMilliseconds>58598</EndMilliseconds>
+    <Text>里奇：谁[@说@]我喜欢她了？
+Lǐqí: Shéi [@shuō@] wǒ xǐhuan tā le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>58599</StartMilliseconds>
+    <EndMilliseconds>58779</EndMilliseconds>
+    <Text>里奇：谁说[@我@]喜欢她了？
+Lǐqí: Shéi shuō [@wǒ@] xǐhuan tā le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>58780</StartMilliseconds>
+    <EndMilliseconds>59184</EndMilliseconds>
+    <Text>里奇：谁说我[@喜欢@]她了？
+Lǐqí: Shéi shuō wǒ [@xǐhuan@] tā le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>59185</StartMilliseconds>
+    <EndMilliseconds>59465</EndMilliseconds>
+    <Text>里奇：谁说我喜欢[@她@]了？
+Lǐqí: Shéi shuō wǒ xǐhuan [@tā@] le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>59466</StartMilliseconds>
+    <EndMilliseconds>59846</EndMilliseconds>
+    <Text>里奇：谁说我喜欢她[@了@]？
+Lǐqí: Shéi shuō wǒ xǐhuan tā [@le@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>59847</StartMilliseconds>
+    <EndMilliseconds>64012</EndMilliseconds>
+    <Text>里奇：谁说我喜欢她了？
+Lǐqí: Shéi shuō wǒ xǐhuan tā le?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>64013</StartMilliseconds>
+    <EndMilliseconds>67639</EndMilliseconds>
+    <Text>比尔：你为什么不和女朋友一起走？
+Bǐ'ěr: Nǐ wèishénme bù hé nǚ péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>67640</StartMilliseconds>
+    <EndMilliseconds>67956</EndMilliseconds>
+    <Text>比尔：[@你@]为什么不和女朋友一起走？
+Bǐ'ěr: [@Nǐ@] wèishénme bù hé nǚ péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>67957</StartMilliseconds>
+    <EndMilliseconds>68537</EndMilliseconds>
+    <Text>比尔：你[@为什么@]不和女朋友一起走？
+Bǐ'ěr: Nǐ [@wèishénme@] bù hé nǚ péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>68538</StartMilliseconds>
+    <EndMilliseconds>68719</EndMilliseconds>
+    <Text>比尔：你为什么[@不@]和女朋友一起走？
+Bǐ'ěr: Nǐ wèishénme [@bù@] hé nǚ péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>68720</StartMilliseconds>
+    <EndMilliseconds>68898</EndMilliseconds>
+    <Text>比尔：你为什么不[@和@]女朋友一起走？
+Bǐ'ěr: Nǐ wèishénme bù [@hé@] nǚ péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>68899</StartMilliseconds>
+    <EndMilliseconds>69078</EndMilliseconds>
+    <Text>比尔：你为什么不和[@女@]朋友一起走？
+Bǐ'ěr: Nǐ wèishénme bù hé [@nǚ@] péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>69079</StartMilliseconds>
+    <EndMilliseconds>69458</EndMilliseconds>
+    <Text>比尔：你为什么不和女[@朋友@]一起走？
+Bǐ'ěr: Nǐ wèishénme bù hé nǚ [@péngyou@] yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>69459</StartMilliseconds>
+    <EndMilliseconds>69956</EndMilliseconds>
+    <Text>比尔：你为什么不和女朋友[@一起@]走？
+Bǐ'ěr: Nǐ wèishénme bù hé nǚ péngyou [@yìqǐ@] zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>69957</StartMilliseconds>
+    <EndMilliseconds>70493</EndMilliseconds>
+    <Text>比尔：你为什么不和女朋友一起[@走@]？
+Bǐ'ěr: Nǐ wèishénme bù hé nǚ péngyou yìqǐ [@zǒu@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>70494</StartMilliseconds>
+    <EndMilliseconds>70791</EndMilliseconds>
+    <Text>比尔：你为什么不和女朋友一起走？
+Bǐ'ěr: Nǐ wèishénme bù hé nǚ péngyou yìqǐ zǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>70792</StartMilliseconds>
+    <EndMilliseconds>71232</EndMilliseconds>
+    <Text>汤姆：对啊，你的女朋友呢？
+Tāngmǔ: Duì a, nǐ de nǚ péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>71233</StartMilliseconds>
+    <EndMilliseconds>71530</EndMilliseconds>
+    <Text>汤姆：[@对@]啊，你的女朋友呢？
+Tāngmǔ: [@Duì@] a, nǐ de nǚ péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>71531</StartMilliseconds>
+    <EndMilliseconds>71940</EndMilliseconds>
+    <Text>汤姆：对[@啊@]，你的女朋友呢？
+Tāngmǔ: Duì [@a@], nǐ de nǚ péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>71941</StartMilliseconds>
+    <EndMilliseconds>72233</EndMilliseconds>
+    <Text>汤姆：对啊，[@你@]的女朋友呢？
+Tāngmǔ: Duì a, [@nǐ@] de nǚ péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>72234</StartMilliseconds>
+    <EndMilliseconds>72395</EndMilliseconds>
+    <Text>汤姆：对啊，你[@的@]女朋友呢？
+Tāngmǔ: Duì a, nǐ [@de@] nǚ péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>72396</StartMilliseconds>
+    <EndMilliseconds>72555</EndMilliseconds>
+    <Text>汤姆：对啊，你的[@女@]朋友呢？
+Tāngmǔ: Duì a, nǐ de [@nǚ@] péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>72556</StartMilliseconds>
+    <EndMilliseconds>73003</EndMilliseconds>
+    <Text>汤姆：对啊，你的女[@朋友@]呢？
+Tāngmǔ: Duì a, nǐ de nǚ [@péngyou@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>73004</StartMilliseconds>
+    <EndMilliseconds>73523</EndMilliseconds>
+    <Text>汤姆：对啊，你的女朋友[@呢@]？
+Tāngmǔ: Duì a, nǐ de nǚ péngyou [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>73524</StartMilliseconds>
+    <EndMilliseconds>74404</EndMilliseconds>
+    <Text>汤姆：对啊，你的女朋友呢？
+Tāngmǔ: Duì a, nǐ de nǚ péngyou ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>74405</StartMilliseconds>
+    <EndMilliseconds>75637</EndMilliseconds>
+    <Text>比尔：嘿，你的男朋友叫你。
+Bǐ'ěr: Hēi, nǐ de nán péngyou jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>75638</StartMilliseconds>
+    <EndMilliseconds>76402</EndMilliseconds>
+    <Text>比尔：[@嘿@]，你的男朋友叫你。
+Bǐ'ěr: [@Hēi@], nǐ de nán péngyou jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>76403</StartMilliseconds>
+    <EndMilliseconds>76594</EndMilliseconds>
+    <Text>比尔：嘿，[@你@]的男朋友叫你。
+Bǐ'ěr: Hēi, [@nǐ@] de nán péngyou jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>76595</StartMilliseconds>
+    <EndMilliseconds>76707</EndMilliseconds>
+    <Text>比尔：嘿，你[@的@]男朋友叫你。
+Bǐ'ěr: Hēi, nǐ [@de@] nán péngyou jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>76708</StartMilliseconds>
+    <EndMilliseconds>76909</EndMilliseconds>
+    <Text>比尔：嘿，你的[@男@]朋友叫你。
+Bǐ'ěr: Hēi, nǐ de [@nán@] péngyou jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>76910</StartMilliseconds>
+    <EndMilliseconds>77258</EndMilliseconds>
+    <Text>比尔：嘿，你的男[@朋友@]叫你。
+Bǐ'ěr: Hēi, nǐ de nán [@péngyou@] jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>77259</StartMilliseconds>
+    <EndMilliseconds>77635</EndMilliseconds>
+    <Text>比尔：嘿，你的男朋友[@叫@]你。
+Bǐ'ěr: Hēi, nǐ de nán péngyou [@jiào@] nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>77636</StartMilliseconds>
+    <EndMilliseconds>78255</EndMilliseconds>
+    <Text>比尔：嘿，你的男朋友叫[@你@]。
+Bǐ'ěr: Hēi, nǐ de nán péngyou jiào [@nǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>78256</StartMilliseconds>
+    <EndMilliseconds>78685</EndMilliseconds>
+    <Text>比尔：嘿，你的男朋友叫你。
+Bǐ'ěr: Hēi, nǐ de nán péngyou jiào nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>78686</StartMilliseconds>
+    <EndMilliseconds>79036</EndMilliseconds>
+    <Text>基蒂：他不是我的男朋友！
+Jīdì: Tā bú shì wǒ de nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>79037</StartMilliseconds>
+    <EndMilliseconds>79293</EndMilliseconds>
+    <Text>基蒂：[@他@]不是我的男朋友！
+Jīdì: [@Tā@] bú shì wǒ de nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>79294</StartMilliseconds>
+    <EndMilliseconds>79539</EndMilliseconds>
+    <Text>基蒂：他[@不@]是我的男朋友！
+Jīdì: Tā [@bú@] shì wǒ de nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>79540</StartMilliseconds>
+    <EndMilliseconds>79746</EndMilliseconds>
+    <Text>基蒂：他不[@是@]我的男朋友！
+Jīdì: Tā bú [@shì@] wǒ de nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>79747</StartMilliseconds>
+    <EndMilliseconds>79951</EndMilliseconds>
+    <Text>基蒂：他不是[@我@]的男朋友！
+Jīdì: Tā bú shì [@wǒ@] de nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>79952</StartMilliseconds>
+    <EndMilliseconds>80050</EndMilliseconds>
+    <Text>基蒂：他不是我[@的@]男朋友！
+Jīdì: Tā bú shì wǒ [@de@] nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>80051</StartMilliseconds>
+    <EndMilliseconds>80210</EndMilliseconds>
+    <Text>基蒂：他不是我的[@男@]朋友！
+Jīdì: Tā bú shì wǒ de [@nán@] péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>80211</StartMilliseconds>
+    <EndMilliseconds>81063</EndMilliseconds>
+    <Text>基蒂：他不是我的男[@朋友@]！
+Jīdì: Tā bú shì wǒ de nán [@péngyou@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>81064</StartMilliseconds>
+    <EndMilliseconds>84824</EndMilliseconds>
+    <Text>基蒂：他不是我的男朋友！
+Jīdì: Tā bú shì wǒ de nán péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>84825</StartMilliseconds>
+    <EndMilliseconds>90229</EndMilliseconds>
+    <Text>里奇：是甜娜到处乱说的。
+Lǐqí: Shì Tiánnà dàochù luàn shuō de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>90230</StartMilliseconds>
+    <EndMilliseconds>90606</EndMilliseconds>
+    <Text>里奇：[@是@]甜娜到处乱说的。
+Lǐqí: [@Shì@] Tiánnà dàochù luàn shuō de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>90607</StartMilliseconds>
+    <EndMilliseconds>91490</EndMilliseconds>
+    <Text>里奇：是[@甜娜@]到处乱说的。
+Lǐqí: Shì [@Tiánnà@] dàochù luàn shuō de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>91491</StartMilliseconds>
+    <EndMilliseconds>92012</EndMilliseconds>
+    <Text>里奇：是甜娜[@到处@]乱说的。
+Lǐqí: Shì Tiánnà [@dàochù@] luàn shuō de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>92013</StartMilliseconds>
+    <EndMilliseconds>92289</EndMilliseconds>
+    <Text>里奇：是甜娜到处[@乱@]说的。
+Lǐqí: Shì Tiánnà dàochù [@luàn@] shuō de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>92290</StartMilliseconds>
+    <EndMilliseconds>92528</EndMilliseconds>
+    <Text>里奇：是甜娜到处乱[@说@]的。
+Lǐqí: Shì Tiánnà dàochù luàn [@shuō@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>92529</StartMilliseconds>
+    <EndMilliseconds>92856</EndMilliseconds>
+    <Text>里奇：是甜娜到处乱说[@的@]。
+Lǐqí: Shì Tiánnà dàochù luàn shuō [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>92857</StartMilliseconds>
+    <EndMilliseconds>93339</EndMilliseconds>
+    <Text>里奇：是甜娜到处乱说的。
+Lǐqí: Shì Tiánnà dàochù luàn shuō de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>93340</StartMilliseconds>
+    <EndMilliseconds>93802</EndMilliseconds>
+    <Text>里奇：我就知道！
+Lǐqí: Wŏ jiù zhīdào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>93803</StartMilliseconds>
+    <EndMilliseconds>94084</EndMilliseconds>
+    <Text>里奇：[@我@]就知道！
+Lǐqí: [@Wŏ@] jiù zhīdào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>94085</StartMilliseconds>
+    <EndMilliseconds>94301</EndMilliseconds>
+    <Text>里奇：我[@就@]知道！
+Lǐqí: Wŏ [@jiù@] zhīdào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>94302</StartMilliseconds>
+    <EndMilliseconds>94884</EndMilliseconds>
+    <Text>里奇：我就[@知道@]！
+Lǐqí: Wŏ jiù [@zhīdào@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>94885</StartMilliseconds>
+    <EndMilliseconds>96327</EndMilliseconds>
+    <Text>里奇：我就知道！
+Lǐqí: Wŏ jiù zhīdào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>96328</StartMilliseconds>
+    <EndMilliseconds>97218</EndMilliseconds>
+    <Text>安迪：你打算怎么办呢，里奇？
+Āndí: Nǐ dǎsuan zěnmebàn ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>97219</StartMilliseconds>
+    <EndMilliseconds>97476</EndMilliseconds>
+    <Text>安迪：[@你@]打算怎么办呢，里奇？
+Āndí: [@Nǐ@] dǎsuan zěnmebàn ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>97477</StartMilliseconds>
+    <EndMilliseconds>97996</EndMilliseconds>
+    <Text>安迪：你[@打算@]怎么办呢，里奇？
+Āndí: Nǐ [@dǎsuan@] zěnmebàn ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>97997</StartMilliseconds>
+    <EndMilliseconds>98656</EndMilliseconds>
+    <Text>安迪：你打算[@怎么办@]呢，里奇？
+Āndí: Nǐ dǎsuan [@zěnmebàn@] ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>98657</StartMilliseconds>
+    <EndMilliseconds>98996</EndMilliseconds>
+    <Text>安迪：你打算怎么办[@呢@]，里奇？
+Āndí: Nǐ dǎsuan zěnmebàn [@ne@], Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>98997</StartMilliseconds>
+    <EndMilliseconds>99842</EndMilliseconds>
+    <Text>安迪：你打算怎么办呢，[@里奇@]？
+Āndí: Nǐ dǎsuan zěnmebàn ne, [@Lǐqí@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>99843</StartMilliseconds>
+    <EndMilliseconds>100674</EndMilliseconds>
+    <Text>安迪：你打算怎么办呢，里奇？
+Āndí: Nǐ dǎsuan zěnmebàn ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>100675</StartMilliseconds>
+    <EndMilliseconds>100962</EndMilliseconds>
+    <Text>里奇：我不知道。
+Lǐqí: Wǒ bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>100963</StartMilliseconds>
+    <EndMilliseconds>101325</EndMilliseconds>
+    <Text>里奇：[@我@]不知道。
+Lǐqí: [@Wǒ@] bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>101326</StartMilliseconds>
+    <EndMilliseconds>101567</EndMilliseconds>
+    <Text>里奇：我[@不@]知道。
+Lǐqí: Wǒ [@bù@] zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>101568</StartMilliseconds>
+    <EndMilliseconds>102208</EndMilliseconds>
+    <Text>里奇：我不[@知道@]。
+Lǐqí: Wǒ bù [@zhīdào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>102209</StartMilliseconds>
+    <EndMilliseconds>104598</EndMilliseconds>
+    <Text>里奇：我不知道。
+Lǐqí: Wǒ bù zhīdào.</Text>
+  </Paragraph>
+</Subtitle>

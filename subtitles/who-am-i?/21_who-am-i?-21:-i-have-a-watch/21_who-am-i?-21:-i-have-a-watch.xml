@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10901</StartMilliseconds>
+    <EndMilliseconds>12912</EndMilliseconds>
+    <Text>Wǒ yǒu yí kuài shǒubiǎo.
+我有一块手表。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12913</StartMilliseconds>
+    <EndMilliseconds>13183</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí kuài shǒubiǎo.
+[@我@]有一块手表。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13184</StartMilliseconds>
+    <EndMilliseconds>13612</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí kuài shǒubiǎo.
+我[@有@]一块手表。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13613</StartMilliseconds>
+    <EndMilliseconds>13818</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] kuài shǒubiǎo.
+我有[@一@]块手表。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13819</StartMilliseconds>
+    <EndMilliseconds>14109</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@kuài@] shǒubiǎo.
+我有一[@块@]手表。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14110</StartMilliseconds>
+    <EndMilliseconds>15025</EndMilliseconds>
+    <Text>Wǒ yǒu yí kuài [@shǒubiǎo@].
+我有一块[@手表@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15026</StartMilliseconds>
+    <EndMilliseconds>22126</EndMilliseconds>
+    <Text>Wǒ yǒu yí kuài shǒubiǎo.
+我有一块手表。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>22127</StartMilliseconds>
+    <EndMilliseconds>23776</EndMilliseconds>
+    <Text>Zhè shì wǒ de sàichǎng.
+这是我的赛场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23777</StartMilliseconds>
+    <EndMilliseconds>24109</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de sàichǎng.
+[@这@]是我的赛场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24110</StartMilliseconds>
+    <EndMilliseconds>24406</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de sàichǎng.
+这[@是@]我的赛场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24407</StartMilliseconds>
+    <EndMilliseconds>24617</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de sàichǎng.
+这是[@我@]的赛场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24618</StartMilliseconds>
+    <EndMilliseconds>24906</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] sàichǎng.
+这是我[@的@]赛场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24907</StartMilliseconds>
+    <EndMilliseconds>26006</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@sàichǎng@].
+这是我的[@赛场@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>26007</StartMilliseconds>
+    <EndMilliseconds>29909</EndMilliseconds>
+    <Text>Zhè shì wǒ de sàichǎng.
+这是我的赛场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>29910</StartMilliseconds>
+    <EndMilliseconds>32062</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge qiú.
+我有一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>32063</StartMilliseconds>
+    <EndMilliseconds>32506</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge qiú.
+[@我@]有一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32507</StartMilliseconds>
+    <EndMilliseconds>33100</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge qiú.
+我[@有@]一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>33101</StartMilliseconds>
+    <EndMilliseconds>33350</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge qiú.
+我有[@一@]个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>33351</StartMilliseconds>
+    <EndMilliseconds>33733</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] qiú.
+我有一[@个@]球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33734</StartMilliseconds>
+    <EndMilliseconds>34422</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@qiú@].
+我有一个[@球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>34424</StartMilliseconds>
+    <EndMilliseconds>39245</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge qiú.
+我有一个球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>39246</StartMilliseconds>
+    <EndMilliseconds>40336</EndMilliseconds>
+    <Text>Zhè shì yí miàn qí.
+这是一面旗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>40337</StartMilliseconds>
+    <EndMilliseconds>40992</EndMilliseconds>
+    <Text>[@Zhè@] shì yí miàn qí.
+[@这@]是一面旗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40993</StartMilliseconds>
+    <EndMilliseconds>41351</EndMilliseconds>
+    <Text>Zhè [@shì@] yí miàn qí.
+这[@是@]一面旗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>41352</StartMilliseconds>
+    <EndMilliseconds>41617</EndMilliseconds>
+    <Text>Zhè shì [@yí@] miàn qí.
+这是[@一@]面旗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41618</StartMilliseconds>
+    <EndMilliseconds>42015</EndMilliseconds>
+    <Text>Zhè shì yí [@miàn@] qí.
+这是一[@面@]旗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>42016</StartMilliseconds>
+    <EndMilliseconds>42890</EndMilliseconds>
+    <Text>Zhè shì yí miàn [@qí@].
+这是一面[@旗@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>42891</StartMilliseconds>
+    <EndMilliseconds>46973</EndMilliseconds>
+    <Text>Zhè shì yí miàn qí.
+这是一面旗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>46974</StartMilliseconds>
+    <EndMilliseconds>48760</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn huángsè de chènshān.
+我有一件黄色的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>48761</StartMilliseconds>
+    <EndMilliseconds>49179</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí jiàn huángsè de chènshān.
+[@我@]有一件黄色的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49180</StartMilliseconds>
+    <EndMilliseconds>49351</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí jiàn huángsè de chènshān.
+我[@有@]一件黄色的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49352</StartMilliseconds>
+    <EndMilliseconds>49562</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] jiàn huángsè de chènshān.
+我有[@一@]件黄色的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>49563</StartMilliseconds>
+    <EndMilliseconds>50234</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@jiàn@] huángsè de chènshān.
+我有一[@件@]黄色的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>50235</StartMilliseconds>
+    <EndMilliseconds>51031</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn [@huángsè@] de chènshān.
+我有一件[@黄色@]的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>51032</StartMilliseconds>
+    <EndMilliseconds>51508</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn huángsè [@de@] chènshān.
+我有一件黄色[@的@]衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>51509</StartMilliseconds>
+    <EndMilliseconds>52583</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn huángsè de [@chènshān@].
+我有一件黄色的[@衬衫@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>52584</StartMilliseconds>
+    <EndMilliseconds>55378</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn huángsè de chènshān.
+我有一件黄色的衬衫。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>55379</StartMilliseconds>
+    <EndMilliseconds>57099</EndMilliseconds>
+    <Text>Zhèxiē shì kǎpiàn.
+这些是卡片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57100</StartMilliseconds>
+    <EndMilliseconds>58003</EndMilliseconds>
+    <Text>[@Zhèxiē@] shì kǎpiàn.
+[@这些@]是卡片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>58004</StartMilliseconds>
+    <EndMilliseconds>58550</EndMilliseconds>
+    <Text>Zhèxiē [@shì@] kǎpiàn.
+这些[@是@]卡片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>58551</StartMilliseconds>
+    <EndMilliseconds>59573</EndMilliseconds>
+    <Text>Zhèxiē shì [@kǎpiàn@].
+这些是[@卡片@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>59574</StartMilliseconds>
+    <EndMilliseconds>63979</EndMilliseconds>
+    <Text>Zhèxiē shì kǎpiàn.
+这些是卡片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63980</StartMilliseconds>
+    <EndMilliseconds>65401</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhī shàozi.
+我有一只哨子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>65402</StartMilliseconds>
+    <EndMilliseconds>65764</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì zhī shàozi.
+[@我@]有一只哨子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65765</StartMilliseconds>
+    <EndMilliseconds>66342</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì zhī shàozi.
+我[@有@]一只哨子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>66343</StartMilliseconds>
+    <EndMilliseconds>66672</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] zhī shàozi.
+我有[@一@]只哨子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66674</StartMilliseconds>
+    <EndMilliseconds>67029</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@zhī@] shàozi.
+我有一[@只@]哨子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>67030</StartMilliseconds>
+    <EndMilliseconds>67832</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhī [@shàozi@].
+我有一只[@哨子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>67833</StartMilliseconds>
+    <EndMilliseconds>72538</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhī shàozi.
+我有一只哨子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>72539</StartMilliseconds>
+    <EndMilliseconds>74393</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>74394</StartMilliseconds>
+    <EndMilliseconds>75229</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>75230</StartMilliseconds>
+    <EndMilliseconds>75580</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>75581</StartMilliseconds>
+    <EndMilliseconds>76424</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>76425</StartMilliseconds>
+    <EndMilliseconds>81049</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>81050</StartMilliseconds>
+    <EndMilliseconds>82271</EndMilliseconds>
+    <Text>Wǒ shì zúqiú cáipàn.
+我是足球裁判。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>82272</StartMilliseconds>
+    <EndMilliseconds>82659</EndMilliseconds>
+    <Text>[@Wǒ@] shì zúqiú cáipàn.
+[@我@]是足球裁判。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>82660</StartMilliseconds>
+    <EndMilliseconds>83296</EndMilliseconds>
+    <Text>Wǒ [@shì@] zúqiú cáipàn.
+我[@是@]足球裁判。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>83297</StartMilliseconds>
+    <EndMilliseconds>84265</EndMilliseconds>
+    <Text>Wǒ shì [@zúqiú@] cáipàn.
+我是[@足球@]裁判。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>84266</StartMilliseconds>
+    <EndMilliseconds>85404</EndMilliseconds>
+    <Text>Wǒ shì zúqiú [@cáipàn@].
+我是足球[@裁判@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>85405</StartMilliseconds>
+    <EndMilliseconds>89377</EndMilliseconds>
+    <Text>Wǒ shì zúqiú cáipàn.
+我是足球裁判。</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>8119</StartMilliseconds>
+    <EndMilliseconds>9624</EndMilliseconds>
+    <Text>Pítè: Lǎoshī, xiànzài jǐ diǎn le?
+皮特：老师，现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>9625</StartMilliseconds>
+    <EndMilliseconds>11180</EndMilliseconds>
+    <Text>Pítè: [@Lǎoshī@], xiànzài jǐ diǎn le?
+皮特：[@老师@]，现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>11181</StartMilliseconds>
+    <EndMilliseconds>12497</EndMilliseconds>
+    <Text>Pítè: Lǎoshī, [@xiànzài@] jǐ diǎn le?
+皮特：老师，[@现在@]几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12498</StartMilliseconds>
+    <EndMilliseconds>12957</EndMilliseconds>
+    <Text>Pítè: Lǎoshī, xiànzài [@jǐ@] diǎn le?
+皮特：老师，现在[@几@]点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12958</StartMilliseconds>
+    <EndMilliseconds>13379</EndMilliseconds>
+    <Text>Pítè: Lǎoshī, xiànzài jǐ [@diǎn@] le?
+皮特：老师，现在几[@点@]了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13380</StartMilliseconds>
+    <EndMilliseconds>13942</EndMilliseconds>
+    <Text>Pítè: Lǎoshī, xiànzài jǐ diǎn [@le@]?
+皮特：老师，现在几点[@了@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13943</StartMilliseconds>
+    <EndMilliseconds>14476</EndMilliseconds>
+    <Text>Pítè: Lǎoshī, xiànzài jǐ diǎn le?
+皮特：老师，现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14477</StartMilliseconds>
+    <EndMilliseconds>15033</EndMilliseconds>
+    <Text>lǎoshī: Xiànzài shíyī diǎn le. 
+老师：现在十一点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15034</StartMilliseconds>
+    <EndMilliseconds>15992</EndMilliseconds>
+    <Text>lǎoshī: [@Xiànzài@] shíyī diǎn le. 
+老师：[@现在@]十一点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15993</StartMilliseconds>
+    <EndMilliseconds>16673</EndMilliseconds>
+    <Text>lǎoshī: Xiànzài [@shíyī@] diǎn le. 
+老师：现在[@十一@]点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16674</StartMilliseconds>
+    <EndMilliseconds>17058</EndMilliseconds>
+    <Text>lǎoshī: Xiànzài shíyī [@diǎn@] le. 
+老师：现在十一[@点@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17059</StartMilliseconds>
+    <EndMilliseconds>17592</EndMilliseconds>
+    <Text>lǎoshī: Xiànzài shíyī diǎn [@le@]. 
+老师：现在十一点[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17593</StartMilliseconds>
+    <EndMilliseconds>18368</EndMilliseconds>
+    <Text>lǎoshī: Xiànzài shíyī diǎn le. 
+老师：现在十一点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18369</StartMilliseconds>
+    <EndMilliseconds>19228</EndMilliseconds>
+    <Text>lǎoshī: Wǒmen páiduì ba.
+老师：我们排队吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19229</StartMilliseconds>
+    <EndMilliseconds>20229</EndMilliseconds>
+    <Text>lǎoshī: [@Wǒmen@] páiduì ba.
+老师：[@我们@]排队吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20230</StartMilliseconds>
+    <EndMilliseconds>20955</EndMilliseconds>
+    <Text>lǎoshī: Wǒmen [@páiduì@] ba.
+老师：我们[@排队@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20956</StartMilliseconds>
+    <EndMilliseconds>21455</EndMilliseconds>
+    <Text>lǎoshī: Wǒmen páiduì [@ba@].
+老师：我们排队[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21456</StartMilliseconds>
+    <EndMilliseconds>23547</EndMilliseconds>
+    <Text>lǎoshī: Wǒmen páiduì ba.
+老师：我们排队吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>23548</StartMilliseconds>
+    <EndMilliseconds>26918</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, qǐngwèn xiànzài jǐ diǎn le?
+敏宇：不好意思，请问现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>26919</StartMilliseconds>
+    <EndMilliseconds>27489</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Bù@] hǎoyìsi, qǐngwèn xiànzài jǐ diǎn le?
+敏宇：[@不@]好意思，请问现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>27490</StartMilliseconds>
+    <EndMilliseconds>29061</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù [@hǎoyìsi@], qǐngwèn xiànzài jǐ diǎn le?
+敏宇：不[@好意思@]，请问现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>29061</StartMilliseconds>
+    <EndMilliseconds>30116</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, [@qǐngwèn@] xiànzài jǐ diǎn le?
+敏宇：不好意思，[@请问@]现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>30117</StartMilliseconds>
+    <EndMilliseconds>31090</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, qǐngwèn [@xiànzài@] jǐ diǎn le?
+敏宇：不好意思，请问[@现在@]几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>31091</StartMilliseconds>
+    <EndMilliseconds>31469</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, qǐngwèn xiànzài [@jǐ@] diǎn le?
+敏宇：不好意思，请问现在[@几@]点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>31470</StartMilliseconds>
+    <EndMilliseconds>31785</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, qǐngwèn xiànzài jǐ [@diǎn@] le?
+敏宇：不好意思，请问现在几[@点@]了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>31786</StartMilliseconds>
+    <EndMilliseconds>32442</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, qǐngwèn xiànzài jǐ diǎn [@le@]?
+敏宇：不好意思，请问现在几点[@了@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>32443</StartMilliseconds>
+    <EndMilliseconds>33906</EndMilliseconds>
+    <Text>Mǐnyǔ: Bù hǎoyìsi, qǐngwèn xiànzài jǐ diǎn le?
+敏宇：不好意思，请问现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>33907</StartMilliseconds>
+    <EndMilliseconds>35129</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 1: Xiànzài shí'èr diǎn le.
+动物园管理员1：现在十二点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>35130</StartMilliseconds>
+    <EndMilliseconds>36137</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 1: [@Xiànzài@] shí'èr diǎn le.
+动物园管理员1：[@现在@]十二点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>36138</StartMilliseconds>
+    <EndMilliseconds>36965</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 1: Xiànzài [@shí'èr@] diǎn le.
+动物园管理员1：现在[@十二@]点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>36966</StartMilliseconds>
+    <EndMilliseconds>37374</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 1: Xiànzài shí'èr [@diǎn@] le.
+动物园管理员1：现在十二[@点@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>37375</StartMilliseconds>
+    <EndMilliseconds>38048</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 1: Xiànzài shí'èr diǎn [@le@].
+动物园管理员1：现在十二点[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>38049</StartMilliseconds>
+    <EndMilliseconds>42587</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 1: Xiànzài shí'èr diǎn le.
+动物园管理员1：现在十二点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>42588</StartMilliseconds>
+    <EndMilliseconds>45747</EndMilliseconds>
+    <Text>Pítè: Xiànzài jǐ diǎn le?
+皮特：现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>45748</StartMilliseconds>
+    <EndMilliseconds>47122</EndMilliseconds>
+    <Text>Pítè: [@Xiànzài@] jǐ diǎn le?
+皮特：[@现在@]几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>47123</StartMilliseconds>
+    <EndMilliseconds>47511</EndMilliseconds>
+    <Text>Pítè: Xiànzài [@jǐ@] diǎn le?
+皮特：现在[@几@]点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>47512</StartMilliseconds>
+    <EndMilliseconds>47907</EndMilliseconds>
+    <Text>Pítè: Xiànzài jǐ [@diǎn@] le?
+皮特：现在几[@点@]了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>47908</StartMilliseconds>
+    <EndMilliseconds>48509</EndMilliseconds>
+    <Text>Pítè: Xiànzài jǐ diǎn [@le@]?
+皮特：现在几点[@了@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>48510</StartMilliseconds>
+    <EndMilliseconds>49960</EndMilliseconds>
+    <Text>Pítè: Xiànzài jǐ diǎn le?
+皮特：现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>49961</StartMilliseconds>
+    <EndMilliseconds>51600</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 2: Xiànzài yī diǎn le.
+动物园管理员2：现在一点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>51601</StartMilliseconds>
+    <EndMilliseconds>52980</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 2: [@Xiànzài@] yī diǎn le.
+动物园管理员2：[@现在@]一点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>52981</StartMilliseconds>
+    <EndMilliseconds>53455</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 2: Xiànzài [@yī@] diǎn le.
+动物园管理员2：现在[@一@]点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>53456</StartMilliseconds>
+    <EndMilliseconds>53794</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 2: Xiànzài yī [@diǎn@] le.
+动物园管理员2：现在一[@点@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>53795</StartMilliseconds>
+    <EndMilliseconds>54568</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 2: Xiànzài yī diǎn [@le@].
+动物园管理员2：现在一点[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>54569</StartMilliseconds>
+    <EndMilliseconds>56561</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán 2: Xiànzài yī diǎn le.
+动物园管理员2：现在一点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>56562</StartMilliseconds>
+    <EndMilliseconds>58926</EndMilliseconds>
+    <Text>Shālì: Xiànzài jǐ diǎn le?
+莎莉：现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>58927</StartMilliseconds>
+    <EndMilliseconds>60106</EndMilliseconds>
+    <Text>Shālì: [@Xiànzài@] jǐ diǎn le?
+莎莉：[@现在@]几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>60107</StartMilliseconds>
+    <EndMilliseconds>60572</EndMilliseconds>
+    <Text>Shālì: Xiànzài [@jǐ@] diǎn le?
+莎莉：现在[@几@]点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>60573</StartMilliseconds>
+    <EndMilliseconds>60862</EndMilliseconds>
+    <Text>Shālì: Xiànzài jǐ [@diǎn@] le?
+莎莉：现在几[@点@]了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>60863</StartMilliseconds>
+    <EndMilliseconds>61434</EndMilliseconds>
+    <Text>Shālì: Xiànzài jǐ diǎn [@le@]?
+莎莉：现在几点[@了@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>61435</StartMilliseconds>
+    <EndMilliseconds>62733</EndMilliseconds>
+    <Text>Shālì: Xiànzài jǐ diǎn le?
+莎莉：现在几点了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>62734</StartMilliseconds>
+    <EndMilliseconds>64058</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiànzài liǎng diǎn le!
+敏宇：现在两点了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>64059</StartMilliseconds>
+    <EndMilliseconds>65249</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Xiànzài@] liǎng diǎn le!
+敏宇：[@现在@]两点了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>65250</StartMilliseconds>
+    <EndMilliseconds>65713</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiànzài [@liǎng@] diǎn le!
+敏宇：现在[@两@]点了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>65714</StartMilliseconds>
+    <EndMilliseconds>66073</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiànzài liǎng [@diǎn@] le!
+敏宇：现在两[@点@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>66074</StartMilliseconds>
+    <EndMilliseconds>66651</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiànzài liǎng diǎn [@le@]!
+敏宇：现在两点[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>66652</StartMilliseconds>
+    <EndMilliseconds>68730</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiànzài liǎng diǎn le!
+敏宇：现在两点了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>68731</StartMilliseconds>
+    <EndMilliseconds>72269</EndMilliseconds>
+    <Text>lǎoshī: Háizimen, xiànzài sān diǎn le.
+老师：孩子们，现在三点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>72270</StartMilliseconds>
+    <EndMilliseconds>73661</EndMilliseconds>
+    <Text>lǎoshī: [@Háizimen@], xiànzài sān diǎn le.
+老师：[@孩子们@]，现在三点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>73662</StartMilliseconds>
+    <EndMilliseconds>74583</EndMilliseconds>
+    <Text>lǎoshī: Háizimen, [@xiànzài@] sān diǎn le.
+老师：孩子们，[@现在@]三点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>74584</StartMilliseconds>
+    <EndMilliseconds>74925</EndMilliseconds>
+    <Text>lǎoshī: Háizimen, xiànzài [@sān@] diǎn le.
+老师：孩子们，现在[@三@]点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>74926</StartMilliseconds>
+    <EndMilliseconds>75258</EndMilliseconds>
+    <Text>lǎoshī: Háizimen, xiànzài sān [@diǎn@] le.
+老师：孩子们，现在三[@点@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>75259</StartMilliseconds>
+    <EndMilliseconds>75826</EndMilliseconds>
+    <Text>lǎoshī: Háizimen, xiànzài sān diǎn le.
+老师：孩子们，现在三点了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>75827</StartMilliseconds>
+    <EndMilliseconds>76310</EndMilliseconds>
+    <Text>lǎoshī: Gāi huí jiā le.
+老师：该回家了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>76311</StartMilliseconds>
+    <EndMilliseconds>76717</EndMilliseconds>
+    <Text>lǎoshī: [@Gāi@] huí jiā le.
+老师：[@该@]回家了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>76718</StartMilliseconds>
+    <EndMilliseconds>77210</EndMilliseconds>
+    <Text>lǎoshī: Gāi [@huí@] jiā le.
+老师：该[@回@]家了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>77211</StartMilliseconds>
+    <EndMilliseconds>77853</EndMilliseconds>
+    <Text>lǎoshī: Gāi huí [@jiā@] le.
+老师：该回[@家@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>77854</StartMilliseconds>
+    <EndMilliseconds>78650</EndMilliseconds>
+    <Text>lǎoshī: Gāi huí jiā [@le@].
+老师：该回家[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>78651</StartMilliseconds>
+    <EndMilliseconds>80179</EndMilliseconds>
+    <Text>lǎoshī: Gāi huí jiā le.
+老师：该回家了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>80180</StartMilliseconds>
+    <EndMilliseconds>81691</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán3: Zàijiàn!
+动物园管理员3：再见！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>81692</StartMilliseconds>
+    <EndMilliseconds>83052</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán3: [@Zàijiàn@]!
+动物园管理员3：[@再见@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>83053</StartMilliseconds>
+    <EndMilliseconds>86662</EndMilliseconds>
+    <Text>dòngwùyuán guǎnlǐyuán3: Zàijiàn!
+动物园管理员3：再见！</Text>
+  </Paragraph>
+</Subtitle>

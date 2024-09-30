@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6598</StartMilliseconds>
+    <EndMilliseconds>7086</EndMilliseconds>
+    <Text>这双鞋子是跑步时穿的。
+Zhè shuāng xiézi shì pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>7087</StartMilliseconds>
+    <EndMilliseconds>7332</EndMilliseconds>
+    <Text>[@这@]双鞋子是跑步时穿的。
+[@Zhè@] shuāng xiézi shì pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>7333</StartMilliseconds>
+    <EndMilliseconds>7640</EndMilliseconds>
+    <Text>这[@双@]鞋子是跑步时穿的。
+Zhè [@shuāng@] xiézi shì pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>7641</StartMilliseconds>
+    <EndMilliseconds>8394</EndMilliseconds>
+    <Text>这双[@鞋子@]是跑步时穿的。
+Zhè shuāng [@xiézi@] shì pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>8395</StartMilliseconds>
+    <EndMilliseconds>8647</EndMilliseconds>
+    <Text>这双鞋子是跑步时穿的。
+Zhè shuāng xiézi shì pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>8648</StartMilliseconds>
+    <EndMilliseconds>8953</EndMilliseconds>
+    <Text>这双鞋子[@是@]跑步时穿的。
+Zhè shuāng xiézi [@shì@] pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>8954</StartMilliseconds>
+    <EndMilliseconds>9632</EndMilliseconds>
+    <Text>这双鞋子是[@跑步@]时穿的。
+Zhè shuāng xiézi shì [@pǎobù@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>9633</StartMilliseconds>
+    <EndMilliseconds>10067</EndMilliseconds>
+    <Text>这双鞋子是跑步[@时@]穿的。
+Zhè shuāng xiézi shì pǎobù [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>10068</StartMilliseconds>
+    <EndMilliseconds>10407</EndMilliseconds>
+    <Text>这双鞋子是跑步时[@穿@]的。
+Zhè shuāng xiézi shì pǎobù shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>10408</StartMilliseconds>
+    <EndMilliseconds>10696</EndMilliseconds>
+    <Text>这双鞋子是跑步时穿[@的@]。
+Zhè shuāng xiézi shì pǎobù shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>10697</StartMilliseconds>
+    <EndMilliseconds>14739</EndMilliseconds>
+    <Text>这双鞋子是跑步时穿的。
+Zhè shuāng xiézi shì pǎobù shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>14740</StartMilliseconds>
+    <EndMilliseconds>15192</EndMilliseconds>
+    <Text>这双鞋子是游泳时穿的。
+Zhè shuāng xiézi shì yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>15193</StartMilliseconds>
+    <EndMilliseconds>15569</EndMilliseconds>
+    <Text>[@这@]双鞋子是游泳时穿的。
+[@Zhè@] shuāng xiézi shì yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>15570</StartMilliseconds>
+    <EndMilliseconds>15866</EndMilliseconds>
+    <Text>这[@双@]鞋子是游泳时穿的。
+Zhè [@shuāng@] xiézi shì yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>15867</StartMilliseconds>
+    <EndMilliseconds>16532</EndMilliseconds>
+    <Text>这双[@鞋子@]是游泳时穿的。
+Zhè shuāng [@xiézi@] shì yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>16533</StartMilliseconds>
+    <EndMilliseconds>16893</EndMilliseconds>
+    <Text>这双鞋子是游泳时穿的。
+Zhè shuāng xiézi shì yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>16894</StartMilliseconds>
+    <EndMilliseconds>17210</EndMilliseconds>
+    <Text>这双鞋子[@是@]游泳时穿的。
+Zhè shuāng xiézi [@shì@] yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>17211</StartMilliseconds>
+    <EndMilliseconds>17532</EndMilliseconds>
+    <Text>这双鞋子是[@游@]泳时穿的。
+Zhè shuāng xiézi shì [@yóu@] yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>17533</StartMilliseconds>
+    <EndMilliseconds>17882</EndMilliseconds>
+    <Text>这双鞋子是游[@泳@]时穿的。
+Zhè shuāng xiézi shì yóu [@yǒng@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>17883</StartMilliseconds>
+    <EndMilliseconds>18233</EndMilliseconds>
+    <Text>这双鞋子是游泳[@时@]穿的。
+Zhè shuāng xiézi shì yóu yǒng [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>18234</StartMilliseconds>
+    <EndMilliseconds>18567</EndMilliseconds>
+    <Text>这双鞋子是游泳时[@穿@]的。
+Zhè shuāng xiézi shì yóu yǒng shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>18568</StartMilliseconds>
+    <EndMilliseconds>18838</EndMilliseconds>
+    <Text>这双鞋子是游泳时穿[@的@]。
+Zhè shuāng xiézi shì yóu yǒng shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>18839</StartMilliseconds>
+    <EndMilliseconds>24982</EndMilliseconds>
+    <Text>这双鞋子是游泳时穿的。
+Zhè shuāng xiézi shì yóu yǒng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>24983</StartMilliseconds>
+    <EndMilliseconds>25420</EndMilliseconds>
+    <Text>这双鞋子是滑冰时穿的。
+Zhè shuāng xiézi shì huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>25421</StartMilliseconds>
+    <EndMilliseconds>25699</EndMilliseconds>
+    <Text>[@这@]双鞋子是滑冰时穿的。
+[@Zhè@] shuāng xiézi shì huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>25700</StartMilliseconds>
+    <EndMilliseconds>25995</EndMilliseconds>
+    <Text>这[@双@]鞋子是滑冰时穿的。
+Zhè [@shuāng@] xiézi shì huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>25996</StartMilliseconds>
+    <EndMilliseconds>26712</EndMilliseconds>
+    <Text>这双[@鞋子@]是滑冰时穿的。
+Zhè shuāng [@xiézi@] shì huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>26713</StartMilliseconds>
+    <EndMilliseconds>27066</EndMilliseconds>
+    <Text>这双鞋子是滑冰时穿的。
+Zhè shuāng xiézi shì huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>27067</StartMilliseconds>
+    <EndMilliseconds>27400</EndMilliseconds>
+    <Text>这双鞋子[@是@]滑冰时穿的。
+Zhè shuāng xiézi [@shì@] huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>27401</StartMilliseconds>
+    <EndMilliseconds>27985</EndMilliseconds>
+    <Text>这双鞋子是[@滑冰@]时穿的。
+Zhè shuāng xiézi shì [@huábīng@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>27986</StartMilliseconds>
+    <EndMilliseconds>28315</EndMilliseconds>
+    <Text>这双鞋子是滑冰[@时@]穿的。
+Zhè shuāng xiézi shì huábīng [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>28316</StartMilliseconds>
+    <EndMilliseconds>28646</EndMilliseconds>
+    <Text>这双鞋子是滑冰时[@穿@]的。
+Zhè shuāng xiézi shì huábīng shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28647</StartMilliseconds>
+    <EndMilliseconds>28901</EndMilliseconds>
+    <Text>这双鞋子是滑冰时穿[@的@]。
+Zhè shuāng xiézi shì huábīng shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>28902</StartMilliseconds>
+    <EndMilliseconds>33659</EndMilliseconds>
+    <Text>这双鞋子是滑冰时穿的。
+Zhè shuāng xiézi shì huábīng shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>33660</StartMilliseconds>
+    <EndMilliseconds>34081</EndMilliseconds>
+    <Text>这双鞋子是跳舞时穿的。
+Zhè shuāng xiézi shì tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>34082</StartMilliseconds>
+    <EndMilliseconds>34444</EndMilliseconds>
+    <Text>[@这@]双鞋子是跳舞时穿的。
+[@Zhè@] shuāng xiézi shì tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>34445</StartMilliseconds>
+    <EndMilliseconds>34718</EndMilliseconds>
+    <Text>这[@双@]鞋子是跳舞时穿的。
+Zhè [@shuāng@] xiézi shì tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>34719</StartMilliseconds>
+    <EndMilliseconds>35381</EndMilliseconds>
+    <Text>这双[@鞋子@]是跳舞时穿的。
+Zhè shuāng [@xiézi@] shì tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>35382</StartMilliseconds>
+    <EndMilliseconds>35669</EndMilliseconds>
+    <Text>这双鞋子是跳舞时穿的。
+Zhè shuāng xiézi shì tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>35670</StartMilliseconds>
+    <EndMilliseconds>36013</EndMilliseconds>
+    <Text>这双鞋子[@是@]跳舞时穿的。
+Zhè shuāng xiézi [@shì@] tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>36014</StartMilliseconds>
+    <EndMilliseconds>36326</EndMilliseconds>
+    <Text>这双鞋子是[@跳@]舞时穿的。
+Zhè shuāng xiézi shì [@tiào@] wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>36327</StartMilliseconds>
+    <EndMilliseconds>36604</EndMilliseconds>
+    <Text>这双鞋子是跳[@舞@]时穿的。
+Zhè shuāng xiézi shì tiào [@wǔ@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>36605</StartMilliseconds>
+    <EndMilliseconds>36973</EndMilliseconds>
+    <Text>这双鞋子是跳舞[@时@]穿的。
+Zhè shuāng xiézi shì tiào wǔ [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>36974</StartMilliseconds>
+    <EndMilliseconds>37330</EndMilliseconds>
+    <Text>这双鞋子是跳舞时[@穿@]的。
+Zhè shuāng xiézi shì tiào wǔ shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>37331</StartMilliseconds>
+    <EndMilliseconds>37563</EndMilliseconds>
+    <Text>这双鞋子是跳舞时穿[@的@]。
+Zhè shuāng xiézi shì tiào wǔ shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>37564</StartMilliseconds>
+    <EndMilliseconds>43996</EndMilliseconds>
+    <Text>这双鞋子是跳舞时穿的。
+Zhè shuāng xiézi shì tiào wǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>43997</StartMilliseconds>
+    <EndMilliseconds>44565</EndMilliseconds>
+    <Text>这双鞋子是踢足球时穿的。
+Zhè shuāng xiézi shì tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>44566</StartMilliseconds>
+    <EndMilliseconds>44870</EndMilliseconds>
+    <Text>[@这@]双鞋子是踢足球时穿的。
+[@Zhè@] shuāng xiézi shì tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>44871</StartMilliseconds>
+    <EndMilliseconds>45198</EndMilliseconds>
+    <Text>这[@双@]鞋子是踢足球时穿的。
+Zhè [@shuāng@] xiézi shì tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>45199</StartMilliseconds>
+    <EndMilliseconds>45920</EndMilliseconds>
+    <Text>这双[@鞋子@]是踢足球时穿的。
+Zhè shuāng [@xiézi@] shì tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>45921</StartMilliseconds>
+    <EndMilliseconds>46323</EndMilliseconds>
+    <Text>这双鞋子是踢足球时穿的。
+Zhè shuāng xiézi shì tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>46324</StartMilliseconds>
+    <EndMilliseconds>46655</EndMilliseconds>
+    <Text>这双鞋子[@是@]踢足球时穿的。
+Zhè shuāng xiézi [@shì@] tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>46656</StartMilliseconds>
+    <EndMilliseconds>46978</EndMilliseconds>
+    <Text>这双鞋子是[@踢@]足球时穿的。
+Zhè shuāng xiézi shì [@tī@] zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>46979</StartMilliseconds>
+    <EndMilliseconds>47654</EndMilliseconds>
+    <Text>这双鞋子是踢[@足球@]时穿的。
+Zhè shuāng xiézi shì tī [@zúqiú@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>47655</StartMilliseconds>
+    <EndMilliseconds>48026</EndMilliseconds>
+    <Text>这双鞋子是踢足球[@时@]穿的。
+Zhè shuāng xiézi shì tī zúqiú [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>48027</StartMilliseconds>
+    <EndMilliseconds>48339</EndMilliseconds>
+    <Text>这双鞋子是踢足球时[@穿@]的。
+Zhè shuāng xiézi shì tī zúqiú shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>48340</StartMilliseconds>
+    <EndMilliseconds>48625</EndMilliseconds>
+    <Text>这双鞋子是踢足球时穿[@的@]。
+Zhè shuāng xiézi shì tī zúqiú shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>48626</StartMilliseconds>
+    <EndMilliseconds>53375</EndMilliseconds>
+    <Text>这双鞋子是踢足球时穿的。
+Zhè shuāng xiézi shì tī zúqiú shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>53376</StartMilliseconds>
+    <EndMilliseconds>53906</EndMilliseconds>
+    <Text>这双鞋子是下雨时穿的。
+Zhè shuāng xiézi shì xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>53907</StartMilliseconds>
+    <EndMilliseconds>54293</EndMilliseconds>
+    <Text>[@这@]双鞋子是下雨时穿的。
+[@Zhè@] shuāng xiézi shì xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>54294</StartMilliseconds>
+    <EndMilliseconds>54549</EndMilliseconds>
+    <Text>这[@双@]鞋子是下雨时穿的。
+Zhè [@shuāng@] xiézi shì xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>54550</StartMilliseconds>
+    <EndMilliseconds>55245</EndMilliseconds>
+    <Text>这双[@鞋子@]是下雨时穿的。
+Zhè shuāng [@xiézi@] shì xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>55246</StartMilliseconds>
+    <EndMilliseconds>55674</EndMilliseconds>
+    <Text>这双鞋子是下雨时穿的。
+Zhè shuāng xiézi shì xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>55675</StartMilliseconds>
+    <EndMilliseconds>56030</EndMilliseconds>
+    <Text>这双鞋子[@是@]下雨时穿的。
+Zhè shuāng xiézi [@shì@] xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>56031</StartMilliseconds>
+    <EndMilliseconds>56412</EndMilliseconds>
+    <Text>这双鞋子是[@下@]雨时穿的。
+Zhè shuāng xiézi shì [@xià@] yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>56413</StartMilliseconds>
+    <EndMilliseconds>56723</EndMilliseconds>
+    <Text>这双鞋子是下[@雨@]时穿的。
+Zhè shuāng xiézi shì xià [@yǔ@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>56724</StartMilliseconds>
+    <EndMilliseconds>57115</EndMilliseconds>
+    <Text>这双鞋子是下雨[@时@]穿的。
+Zhè shuāng xiézi shì xià yǔ [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>57116</StartMilliseconds>
+    <EndMilliseconds>57455</EndMilliseconds>
+    <Text>这双鞋子是下雨时[@穿@]的。
+Zhè shuāng xiézi shì xià yǔ shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>57456</StartMilliseconds>
+    <EndMilliseconds>57766</EndMilliseconds>
+    <Text>这双鞋子是下雨时穿[@的@]。
+Zhè shuāng xiézi shì xià yǔ shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>57767</StartMilliseconds>
+    <EndMilliseconds>63021</EndMilliseconds>
+    <Text>这双鞋子是下雨时穿的。
+Zhè shuāng xiézi shì xià yǔ shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>63022</StartMilliseconds>
+    <EndMilliseconds>63474</EndMilliseconds>
+    <Text>这双鞋子是天热时穿的。
+Zhè shuāng xiézi shì tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>63475</StartMilliseconds>
+    <EndMilliseconds>63733</EndMilliseconds>
+    <Text>[@这@]双鞋子是天热时穿的。
+[@Zhè@] shuāng xiézi shì tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>63734</StartMilliseconds>
+    <EndMilliseconds>64052</EndMilliseconds>
+    <Text>这[@双@]鞋子是天热时穿的。
+Zhè [@shuāng@] xiézi shì tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>64053</StartMilliseconds>
+    <EndMilliseconds>64787</EndMilliseconds>
+    <Text>这双[@鞋子@]是天热时穿的。
+Zhè shuāng [@xiézi@] shì tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>64788</StartMilliseconds>
+    <EndMilliseconds>65143</EndMilliseconds>
+    <Text>这双鞋子是天热时穿的。
+Zhè shuāng xiézi shì tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>65144</StartMilliseconds>
+    <EndMilliseconds>65471</EndMilliseconds>
+    <Text>这双鞋子[@是@]天热时穿的。
+Zhè shuāng xiézi [@shì@] tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>65472</StartMilliseconds>
+    <EndMilliseconds>65902</EndMilliseconds>
+    <Text>这双鞋子是[@天@]热时穿的。
+Zhè shuāng xiézi shì [@tiān@] rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>65903</StartMilliseconds>
+    <EndMilliseconds>66224</EndMilliseconds>
+    <Text>这双鞋子是天[@热@]时穿的。
+Zhè shuāng xiézi shì tiān [@rè@] shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>66225</StartMilliseconds>
+    <EndMilliseconds>66589</EndMilliseconds>
+    <Text>这双鞋子是天热[@时@]穿的。
+Zhè shuāng xiézi shì tiān rè [@shí@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>66590</StartMilliseconds>
+    <EndMilliseconds>66924</EndMilliseconds>
+    <Text>这双鞋子是天热时[@穿@]的。
+Zhè shuāng xiézi shì tiān rè shí [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>66925</StartMilliseconds>
+    <EndMilliseconds>67222</EndMilliseconds>
+    <Text>这双鞋子是天热时穿[@的@]。
+Zhè shuāng xiézi shì tiān rè shí chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>67223</StartMilliseconds>
+    <EndMilliseconds>72974</EndMilliseconds>
+    <Text>这双鞋子是天热时穿的。
+Zhè shuāng xiézi shì tiān rè shí chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>72975</StartMilliseconds>
+    <EndMilliseconds>73378</EndMilliseconds>
+    <Text>这双鞋子是给我小弟弟穿的。
+Zhè shuāng xiézi shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>73379</StartMilliseconds>
+    <EndMilliseconds>73692</EndMilliseconds>
+    <Text>[@这@]双鞋子是给我小弟弟穿的。
+[@Zhè@] shuāng xiézi shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>73693</StartMilliseconds>
+    <EndMilliseconds>74002</EndMilliseconds>
+    <Text>这[@双@]鞋子是给我小弟弟穿的。
+Zhè [@shuāng@] xiézi shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>74003</StartMilliseconds>
+    <EndMilliseconds>74713</EndMilliseconds>
+    <Text>这双[@鞋子@]是给我小弟弟穿的。
+Zhè shuāng [@xiézi@] shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>74714</StartMilliseconds>
+    <EndMilliseconds>75102</EndMilliseconds>
+    <Text>这双鞋子是给我小弟弟穿的。
+Zhè shuāng xiézi shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>75103</StartMilliseconds>
+    <EndMilliseconds>75455</EndMilliseconds>
+    <Text>这双鞋子[@是@]给我小弟弟穿的。
+Zhè shuāng xiézi [@shì@] gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>75456</StartMilliseconds>
+    <EndMilliseconds>75694</EndMilliseconds>
+    <Text>这双鞋子是[@给@]我小弟弟穿的。
+Zhè shuāng xiézi shì [@gěi@] wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>75695</StartMilliseconds>
+    <EndMilliseconds>76004</EndMilliseconds>
+    <Text>这双鞋子是给[@我@]小弟弟穿的。
+Zhè shuāng xiézi shì gěi [@wǒ@] xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>76005</StartMilliseconds>
+    <EndMilliseconds>76210</EndMilliseconds>
+    <Text>这双鞋子是给我小弟弟穿的。
+Zhè shuāng xiézi shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>76211</StartMilliseconds>
+    <EndMilliseconds>76635</EndMilliseconds>
+    <Text>这双鞋子是给我[@小@]弟弟穿的。
+Zhè shuāng xiézi shì gěi wǒ [@xiǎo@] dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>76636</StartMilliseconds>
+    <EndMilliseconds>77161</EndMilliseconds>
+    <Text>这双鞋子是给我小[@弟弟@]穿的。
+Zhè shuāng xiézi shì gěi wǒ xiǎo [@dìdi@] chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>77162</StartMilliseconds>
+    <EndMilliseconds>77496</EndMilliseconds>
+    <Text>这双鞋子是给我小弟弟[@穿@]的。
+Zhè shuāng xiézi shì gěi wǒ xiǎo dìdi [@chuān@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>77497</StartMilliseconds>
+    <EndMilliseconds>77811</EndMilliseconds>
+    <Text>这双鞋子是给我小弟弟穿[@的@]。
+Zhè shuāng xiézi shì gěi wǒ xiǎo dìdi chuān [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>77812</StartMilliseconds>
+    <EndMilliseconds>80517</EndMilliseconds>
+    <Text>这双鞋子是给我小弟弟穿的。
+Zhè shuāng xiézi shì gěi wǒ xiǎo dìdi chuān de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>80518</StartMilliseconds>
+    <EndMilliseconds>82034</EndMilliseconds>
+    <Text>“慢慢走，别急！”
+"Mànmān zǒu, bié jí!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>82035</StartMilliseconds>
+    <EndMilliseconds>82644</EndMilliseconds>
+    <Text>“[@慢慢@]走，别急！”
+"[@Mànmān@] zǒu, bié jí!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>82645</StartMilliseconds>
+    <EndMilliseconds>83157</EndMilliseconds>
+    <Text>“慢慢[@走@]，别急！”
+"Mànmān [@zǒu@], bié jí!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>83158</StartMilliseconds>
+    <EndMilliseconds>83620</EndMilliseconds>
+    <Text>“慢慢走，别急！”
+"Mànmān zǒu, bié jí!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>83621</StartMilliseconds>
+    <EndMilliseconds>83888</EndMilliseconds>
+    <Text>“慢慢走，[@别@]急！”
+"Mànmān zǒu, [@bié@] jí!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>83889</StartMilliseconds>
+    <EndMilliseconds>84370</EndMilliseconds>
+    <Text>“慢慢走，别[@急@]！”
+"Mànmān zǒu, bié [@jí@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>84374</StartMilliseconds>
+    <EndMilliseconds>89964</EndMilliseconds>
+    <Text>“慢慢走，别急！”
+"Mànmān zǒu, bié jí!"</Text>
+  </Paragraph>
+</Subtitle>

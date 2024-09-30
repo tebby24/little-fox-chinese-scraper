@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10301</StartMilliseconds>
+    <EndMilliseconds>13919</EndMilliseconds>
+    <Text>Lǎoshǔmen tiàojìn tāmen de dòng li.
+老鼠们跳进他们的洞里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13920</StartMilliseconds>
+    <EndMilliseconds>15160</EndMilliseconds>
+    <Text>[@Lǎoshǔmen@] tiàojìn tāmen de dòng li.
+[@老鼠们@]跳进他们的洞里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>15161</StartMilliseconds>
+    <EndMilliseconds>15894</EndMilliseconds>
+    <Text>Lǎoshǔmen [@tiàojìn@] tāmen de dòng li.
+老鼠们[@跳进@]他们的洞里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15895</StartMilliseconds>
+    <EndMilliseconds>16272</EndMilliseconds>
+    <Text>Lǎoshǔmen tiàojìn [@tāmen@] de dòng li.
+老鼠们跳进[@他们@]的洞里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16273</StartMilliseconds>
+    <EndMilliseconds>16395</EndMilliseconds>
+    <Text>Lǎoshǔmen tiàojìn tāmen [@de@] dòng li.
+老鼠们跳进他们[@的@]洞里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16396</StartMilliseconds>
+    <EndMilliseconds>16605</EndMilliseconds>
+    <Text>Lǎoshǔmen tiàojìn tāmen de [@dòng@] li.
+老鼠们跳进他们的[@洞@]里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16606</StartMilliseconds>
+    <EndMilliseconds>17011</EndMilliseconds>
+    <Text>Lǎoshǔmen tiàojìn tāmen de dòng [@li@].
+老鼠们跳进他们的洞[@里@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17012</StartMilliseconds>
+    <EndMilliseconds>17244</EndMilliseconds>
+    <Text>Lǎoshǔmen tiàojìn tāmen de dòng li.
+老鼠们跳进他们的洞里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17245</StartMilliseconds>
+    <EndMilliseconds>17970</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen de yīnyuè." Duōduo shuō.
+“他们不喜欢我们的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17971</StartMilliseconds>
+    <EndMilliseconds>18690</EndMilliseconds>
+    <Text>"[@Tāmen@] bù xǐhuan wǒmen de yīnyuè." Duōduo shuō.
+“[@他们@]不喜欢我们的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18691</StartMilliseconds>
+    <EndMilliseconds>18970</EndMilliseconds>
+    <Text>"Tāmen [@bù@] xǐhuan wǒmen de yīnyuè." Duōduo shuō.
+“他们[@不@]喜欢我们的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18971</StartMilliseconds>
+    <EndMilliseconds>19601</EndMilliseconds>
+    <Text>"Tāmen bù [@xǐhuan@] wǒmen de yīnyuè." Duōduo shuō.
+“他们不[@喜欢@]我们的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19602</StartMilliseconds>
+    <EndMilliseconds>19910</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan [@wǒmen@] de yīnyuè." Duōduo shuō.
+“他们不喜欢[@我们@]的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19911</StartMilliseconds>
+    <EndMilliseconds>20086</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen [@de@] yīnyuè." Duōduo shuō.
+“他们不喜欢我们[@的@]音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>20087</StartMilliseconds>
+    <EndMilliseconds>20750</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen de [@yīnyuè@]." Duōduo shuō.
+“他们不喜欢我们的[@音乐@]。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20751</StartMilliseconds>
+    <EndMilliseconds>20984</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen de yīnyuè." Duōduo shuō.
+“他们不喜欢我们的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20985</StartMilliseconds>
+    <EndMilliseconds>21447</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen de yīnyuè." [@Duōduo@] shuō.
+“他们不喜欢我们的音乐。”[@多多@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21448</StartMilliseconds>
+    <EndMilliseconds>21865</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen de yīnyuè." Duōduo [@shuō@].
+“他们不喜欢我们的音乐。”多多[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21866</StartMilliseconds>
+    <EndMilliseconds>22457</EndMilliseconds>
+    <Text>"Tāmen bù xǐhuan wǒmen de yīnyuè." Duōduo shuō.
+“他们不喜欢我们的音乐。”多多说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>22458</StartMilliseconds>
+    <EndMilliseconds>22966</EndMilliseconds>
+    <Text>Shāsha diǎn le diǎn tóu.
+莎莎点了点头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22967</StartMilliseconds>
+    <EndMilliseconds>23699</EndMilliseconds>
+    <Text>[@Shāsha@] diǎn le diǎn tóu.
+[@莎莎@]点了点头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>23700</StartMilliseconds>
+    <EndMilliseconds>23918</EndMilliseconds>
+    <Text>Shāsha [@diǎn@] le diǎn tóu.
+莎莎[@点@]了点头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>23919</StartMilliseconds>
+    <EndMilliseconds>24051</EndMilliseconds>
+    <Text>Shāsha diǎn [@le@] diǎn tóu.
+莎莎点[@了@]点头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>24052</StartMilliseconds>
+    <EndMilliseconds>24282</EndMilliseconds>
+    <Text>Shāsha diǎn le [@diǎn@] tóu.
+莎莎点了[@点@]头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>24283</StartMilliseconds>
+    <EndMilliseconds>24824</EndMilliseconds>
+    <Text>Shāsha diǎn le diǎn [@tóu@].
+莎莎点了点[@头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>24825</StartMilliseconds>
+    <EndMilliseconds>25021</EndMilliseconds>
+    <Text>Shāsha diǎn le diǎn tóu.
+莎莎点了点头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>25022</StartMilliseconds>
+    <EndMilliseconds>25209</EndMilliseconds>
+    <Text>"Wǒmen qù bié de dìfang ba."
+“我们去别的地方吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>25210</StartMilliseconds>
+    <EndMilliseconds>25909</EndMilliseconds>
+    <Text>"[@Wǒmen@] qù bié de dìfang ba."
+“[@我们@]去别的地方吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>25910</StartMilliseconds>
+    <EndMilliseconds>26202</EndMilliseconds>
+    <Text>"Wǒmen [@qù@] bié de dìfang ba."
+“我们[@去@]别的地方吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>26203</StartMilliseconds>
+    <EndMilliseconds>26523</EndMilliseconds>
+    <Text>"Wǒmen qù [@bié@] de dìfang ba."
+“我们去[@别@]的地方吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>26524</StartMilliseconds>
+    <EndMilliseconds>26700</EndMilliseconds>
+    <Text>"Wǒmen qù bié [@de@] dìfang ba."
+“我们去别[@的@]地方吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>26701</StartMilliseconds>
+    <EndMilliseconds>27153</EndMilliseconds>
+    <Text>"Wǒmen qù bié de [@dìfang@] ba."
+“我们去别的[@地方@]吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>27154</StartMilliseconds>
+    <EndMilliseconds>27597</EndMilliseconds>
+    <Text>"Wǒmen qù bié de dìfang [@ba@]."
+“我们去别的地方[@吧@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>27598</StartMilliseconds>
+    <EndMilliseconds>28945</EndMilliseconds>
+    <Text>"Wǒmen qù bié de dìfang ba."
+“我们去别的地方吧。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>28946</StartMilliseconds>
+    <EndMilliseconds>31137</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo zǒu le yíhuìr.
+莎莎、涂涂和多多走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>31138</StartMilliseconds>
+    <EndMilliseconds>32243</EndMilliseconds>
+    <Text>[@Shāsha@]、Tútu hé Duōduo zǒu le yíhuìr.
+[@莎莎@]、涂涂和多多走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>32244</StartMilliseconds>
+    <EndMilliseconds>32992</EndMilliseconds>
+    <Text>Shāsha、[@Tútu@] hé Duōduo zǒu le yíhuìr.
+莎莎、[@涂涂@]和多多走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>32993</StartMilliseconds>
+    <EndMilliseconds>33276</EndMilliseconds>
+    <Text>Shāsha、Tútu [@hé@] Duōduo zǒu le yíhuìr.
+莎莎、涂涂[@和@]多多走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>33277</StartMilliseconds>
+    <EndMilliseconds>34159</EndMilliseconds>
+    <Text>Shāsha、Tútu hé [@Duōduo@] zǒu le yíhuìr.
+莎莎、涂涂和[@多多@]走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>34160</StartMilliseconds>
+    <EndMilliseconds>34479</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo [@zǒu@] le yíhuìr.
+莎莎、涂涂和多多[@走@]了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>34480</StartMilliseconds>
+    <EndMilliseconds>34673</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo zǒu [@le@] yíhuìr.
+莎莎、涂涂和多多走[@了@]一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>34674</StartMilliseconds>
+    <EndMilliseconds>35170</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo zǒu le [@yíhuìr@].
+莎莎、涂涂和多多走了一[@会儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>35171</StartMilliseconds>
+    <EndMilliseconds>37681</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo zǒu le yíhuìr.
+莎莎、涂涂和多多走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>37682</StartMilliseconds>
+    <EndMilliseconds>38266</EndMilliseconds>
+    <Text>Shāsha yáozhe dòujiá.
+莎莎摇着豆荚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>38267</StartMilliseconds>
+    <EndMilliseconds>38998</EndMilliseconds>
+    <Text>[@Shāsha@] yáozhe dòujiá.
+[@莎莎@]摇着豆荚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>38999</StartMilliseconds>
+    <EndMilliseconds>39374</EndMilliseconds>
+    <Text>Shāsha [@yáozhe@] dòujiá.
+莎莎[@摇着@]豆荚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>39375</StartMilliseconds>
+    <EndMilliseconds>40061</EndMilliseconds>
+    <Text>Shāsha yáozhe [@dòujiá@].
+莎莎摇着[@豆荚@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>40062</StartMilliseconds>
+    <EndMilliseconds>41231</EndMilliseconds>
+    <Text>Shāsha yáozhe dòujiá.
+莎莎摇着豆荚。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>41232</StartMilliseconds>
+    <EndMilliseconds>41643</EndMilliseconds>
+    <Text>Duōduo chuīzhe chángdí.
+多多吹着长笛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>41644</StartMilliseconds>
+    <EndMilliseconds>42465</EndMilliseconds>
+    <Text>[@Duōduo@] chuīzhe chángdí.
+[@多多@]吹着长笛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>42466</StartMilliseconds>
+    <EndMilliseconds>42917</EndMilliseconds>
+    <Text>Duōduo [@chuīzhe@] chángdí.
+多多[@吹着@]长笛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>42918</StartMilliseconds>
+    <EndMilliseconds>43770</EndMilliseconds>
+    <Text>Duōduo chuīzhe [@chángdí@].
+多多吹着[@长笛@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>43771</StartMilliseconds>
+    <EndMilliseconds>44320</EndMilliseconds>
+    <Text>Duōduo chuīzhe chángdí.
+多多吹着长笛。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>44321</StartMilliseconds>
+    <EndMilliseconds>44702</EndMilliseconds>
+    <Text>Háiyǒu Tútu pāidǎzhe wěiba.
+还有涂涂拍打着尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>44703</StartMilliseconds>
+    <EndMilliseconds>45319</EndMilliseconds>
+    <Text>[@Háiyǒu@] Tútu pāidǎzhe wěiba.
+[@还有@]涂涂拍打着尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>45320</StartMilliseconds>
+    <EndMilliseconds>46309</EndMilliseconds>
+    <Text>Háiyǒu [@Tútu@] pāidǎzhe wěiba.
+还有[@涂涂@]拍打着尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>46310</StartMilliseconds>
+    <EndMilliseconds>46979</EndMilliseconds>
+    <Text>Háiyǒu Tútu [@pāidǎzhe@] wěiba.
+还有涂涂[@拍打着@]尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>46980</StartMilliseconds>
+    <EndMilliseconds>47770</EndMilliseconds>
+    <Text>Háiyǒu Tútu pāidǎzhe [@wěiba@].
+还有涂涂拍打着[@尾巴@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>47771</StartMilliseconds>
+    <EndMilliseconds>51656</EndMilliseconds>
+    <Text>Háiyǒu Tútu pāidǎzhe wěiba.
+还有涂涂拍打着尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>51657</StartMilliseconds>
+    <EndMilliseconds>52138</EndMilliseconds>
+    <Text>Tútu pāidǎ le yì gēn dà mùtou.
+涂涂拍打了一根大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>52139</StartMilliseconds>
+    <EndMilliseconds>53019</EndMilliseconds>
+    <Text>[@Tútu@] pāidǎ le yì gēn dà mùtou.
+[@涂涂@]拍打了一根大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>53020</StartMilliseconds>
+    <EndMilliseconds>53617</EndMilliseconds>
+    <Text>Tútu [@pāidǎ@] le yì gēn dà mùtou.
+涂涂[@拍打@]了一根大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>53618</StartMilliseconds>
+    <EndMilliseconds>53757</EndMilliseconds>
+    <Text>Tútu pāidǎ [@le@] yì gēn dà mùtou.
+涂涂拍打[@了@]一根大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>53758</StartMilliseconds>
+    <EndMilliseconds>53898</EndMilliseconds>
+    <Text>Tútu pāidǎ le [@yì@] gēn dà mùtou.
+涂涂拍打了[@一@]根大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>53899</StartMilliseconds>
+    <EndMilliseconds>54219</EndMilliseconds>
+    <Text>Tútu pāidǎ le yì [@gēn@] dà mùtou.
+涂涂拍打了一[@根@]大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>54220</StartMilliseconds>
+    <EndMilliseconds>54509</EndMilliseconds>
+    <Text>Tútu pāidǎ le yì gēn [@dà@] mùtou.
+涂涂拍打了一根[@大@]木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>54510</StartMilliseconds>
+    <EndMilliseconds>55237</EndMilliseconds>
+    <Text>Tútu pāidǎ le yì gēn dà [@mùtou@].
+涂涂拍打了一根大[@木头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>55238</StartMilliseconds>
+    <EndMilliseconds>55595</EndMilliseconds>
+    <Text>Tútu pāidǎ le yì gēn dà mùtou.
+涂涂拍打了一根大木头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>55596</StartMilliseconds>
+    <EndMilliseconds>55946</EndMilliseconds>
+    <Text>Dōng! Dōng!
+咚！咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>55947</StartMilliseconds>
+    <EndMilliseconds>57082</EndMilliseconds>
+    <Text>[@Dōng@]! Dōng!
+[@咚@]！咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>57083</StartMilliseconds>
+    <EndMilliseconds>58419</EndMilliseconds>
+    <Text>Dōng! [@Dōng@]!
+咚！[@咚@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>58420</StartMilliseconds>
+    <EndMilliseconds>58755</EndMilliseconds>
+    <Text>Dōng! Dōng!
+咚！咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>58756</StartMilliseconds>
+    <EndMilliseconds>59049</EndMilliseconds>
+    <Text>Mùtou fāchū "dōng" de shēngyīn.
+木头发出“咚”的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>59050</StartMilliseconds>
+    <EndMilliseconds>59764</EndMilliseconds>
+    <Text>[@Mùtou@] fāchū "dōng" de shēngyīn.
+[@木头@]发出“咚”的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>59765</StartMilliseconds>
+    <EndMilliseconds>60345</EndMilliseconds>
+    <Text>Mùtou [@fāchū@] "dōng" de shēngyīn.
+木头[@发出@]“咚”的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>60346</StartMilliseconds>
+    <EndMilliseconds>60710</EndMilliseconds>
+    <Text>Mùtou fāchū "[@dōng@]" de shēngyīn.
+木头发出“[@咚@]”的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>60711</StartMilliseconds>
+    <EndMilliseconds>60893</EndMilliseconds>
+    <Text>Mùtou fāchū "dōng" [@de@] shēngyīn.
+木头发出“咚”[@的@]声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>60894</StartMilliseconds>
+    <EndMilliseconds>61384</EndMilliseconds>
+    <Text>Mùtou fāchū "dōng" de [@shēngyīn@].
+木头发出“咚”的[@声音@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>61385</StartMilliseconds>
+    <EndMilliseconds>63764</EndMilliseconds>
+    <Text>Mùtou fāchū "dōng" de shēngyīn.
+木头发出“咚”的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>63765</StartMilliseconds>
+    <EndMilliseconds>64206</EndMilliseconds>
+    <Text>"Hǎo bàng de shēngyīn!" Shāsha shuō.
+“好棒的声音！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>64207</StartMilliseconds>
+    <EndMilliseconds>64629</EndMilliseconds>
+    <Text>"[@Hǎo@] bàng de shēngyīn!" Shāsha shuō.
+“[@好@]棒的声音！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>64630</StartMilliseconds>
+    <EndMilliseconds>64898</EndMilliseconds>
+    <Text>"Hǎo [@bàng@] de shēngyīn!" Shāsha shuō.
+“好[@棒@]的声音！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>64899</StartMilliseconds>
+    <EndMilliseconds>65085</EndMilliseconds>
+    <Text>"Hǎo bàng [@de@] shēngyīn!" Shāsha shuō.
+“好棒[@的@]声音！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>65086</StartMilliseconds>
+    <EndMilliseconds>65882</EndMilliseconds>
+    <Text>"Hǎo bàng de [@shēngyīn@]!" Shāsha shuō.
+“好棒的[@声音@]！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>65883</StartMilliseconds>
+    <EndMilliseconds>66068</EndMilliseconds>
+    <Text>"Hǎo bàng de shēngyīn!" Shāsha shuō.
+“好棒的声音！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>66069</StartMilliseconds>
+    <EndMilliseconds>66577</EndMilliseconds>
+    <Text>"Hǎo bàng de shēngyīn!" [@Shāsha@] shuō.
+“好棒的声音！”[@莎莎@]说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>66578</StartMilliseconds>
+    <EndMilliseconds>67113</EndMilliseconds>
+    <Text>"Hǎo bàng de shēngyīn!" Shāsha [@shuō@].
+“好棒的声音！”莎莎[@说@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>67114</StartMilliseconds>
+    <EndMilliseconds>67588</EndMilliseconds>
+    <Text>"Hǎo bàng de shēngyīn!" Shāsha shuō.
+“好棒的声音！”莎莎说。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>67589</StartMilliseconds>
+    <EndMilliseconds>68071</EndMilliseconds>
+    <Text>Shāshā, shāshā, dīdī, dōng!
+沙沙，沙沙，嘀嘀，咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>68072</StartMilliseconds>
+    <EndMilliseconds>69084</EndMilliseconds>
+    <Text>[@Shāshā@], shāshā, dīdī, dōng!
+[@沙沙@]，沙沙，嘀嘀，咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>69085</StartMilliseconds>
+    <EndMilliseconds>70031</EndMilliseconds>
+    <Text>Shāshā, [@shāshā@], dīdī, dōng!
+沙沙，[@沙沙@]，嘀嘀，咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>70032</StartMilliseconds>
+    <EndMilliseconds>70820</EndMilliseconds>
+    <Text>Shāshā, shāshā, [@dīdī@], dōng!
+沙沙，沙沙，[@嘀嘀@]，咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>70821</StartMilliseconds>
+    <EndMilliseconds>71633</EndMilliseconds>
+    <Text>Shāshā, shāshā, dīdī, [@dōng@]!
+沙沙，沙沙，嘀嘀，[@咚@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>71634</StartMilliseconds>
+    <EndMilliseconds>72856</EndMilliseconds>
+    <Text>Shāshā, shāshā, dīdī, dōng!
+沙沙，沙沙，嘀嘀，咚！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>72857</StartMilliseconds>
+    <EndMilliseconds>75832</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn mùtou li tiào le chūlai.
+蜥蜴们从那根木头里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>75833</StartMilliseconds>
+    <EndMilliseconds>76858</EndMilliseconds>
+    <Text>[@Xīyìmen@] cóng nà gēn mùtou li tiào le chūlai.
+[@蜥蜴们@]从那根木头里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>76859</StartMilliseconds>
+    <EndMilliseconds>77193</EndMilliseconds>
+    <Text>Xīyìmen [@cóng@] nà gēn mùtou li tiào le chūlai.
+蜥蜴们[@从@]那根木头里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>77194</StartMilliseconds>
+    <EndMilliseconds>77427</EndMilliseconds>
+    <Text>Xīyìmen cóng [@nà@] gēn mùtou li tiào le chūlai.
+蜥蜴们从[@那@]根木头里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>77428</StartMilliseconds>
+    <EndMilliseconds>77699</EndMilliseconds>
+    <Text>Xīyìmen cóng nà [@gēn@] mùtou li tiào le chūlai.
+蜥蜴们从那[@根@]木头里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>77700</StartMilliseconds>
+    <EndMilliseconds>78051</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn [@mùtou@] li tiào le chūlai.
+蜥蜴们从那根[@木头@]里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>78052</StartMilliseconds>
+    <EndMilliseconds>78289</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn mùtou [@li@] tiào le chūlai.
+蜥蜴们从那根木头[@里@]跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>78290</StartMilliseconds>
+    <EndMilliseconds>78559</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn mùtou li [@tiào@] le chūlai.
+蜥蜴们从那根木头里[@跳@]了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>78560</StartMilliseconds>
+    <EndMilliseconds>78698</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn mùtou li tiào [@le@] chūlai.
+蜥蜴们从那根木头里跳[@了@]出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>78699</StartMilliseconds>
+    <EndMilliseconds>79291</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn mùtou li tiào le [@chūlai@].
+蜥蜴们从那根木头里跳了[@出来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>79292</StartMilliseconds>
+    <EndMilliseconds>79564</EndMilliseconds>
+    <Text>Xīyìmen cóng nà gēn mùtou li tiào le chūlai.
+蜥蜴们从那根木头里跳了出来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>79565</StartMilliseconds>
+    <EndMilliseconds>79852</EndMilliseconds>
+    <Text>Xīyìmen pǎozǒu le.
+蜥蜴们跑走了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>79853</StartMilliseconds>
+    <EndMilliseconds>80884</EndMilliseconds>
+    <Text>[@Xīyìmen@] pǎozǒu le.
+[@蜥蜴们@]跑走了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>80885</StartMilliseconds>
+    <EndMilliseconds>81425</EndMilliseconds>
+    <Text>Xīyìmen [@pǎozǒu@] le.
+蜥蜴们[@跑走@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>81426</StartMilliseconds>
+    <EndMilliseconds>81671</EndMilliseconds>
+    <Text>Xīyìmen pǎozǒu [@le@].
+蜥蜴们跑走[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>81672</StartMilliseconds>
+    <EndMilliseconds>82424</EndMilliseconds>
+    <Text>Xīyìmen pǎozǒu le.
+蜥蜴们跑走了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>82425</StartMilliseconds>
+    <EndMilliseconds>82815</EndMilliseconds>
+    <Text>Tútu juéde duìbuqǐ xīyìmen.
+涂涂觉得对不起蜥蜴们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>82816</StartMilliseconds>
+    <EndMilliseconds>83384</EndMilliseconds>
+    <Text>[@Tútu@] juéde duìbuqǐ xīyìmen.
+[@涂涂@]觉得对不起蜥蜴们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>83385</StartMilliseconds>
+    <EndMilliseconds>83878</EndMilliseconds>
+    <Text>Tútu [@juéde@] duìbuqǐ xīyìmen.
+涂涂[@觉得@]对不起蜥蜴们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>83879</StartMilliseconds>
+    <EndMilliseconds>84452</EndMilliseconds>
+    <Text>Tútu juéde [@duìbuqǐ@] xīyìmen.
+涂涂觉得[@对不起@]蜥蜴们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>84453</StartMilliseconds>
+    <EndMilliseconds>85347</EndMilliseconds>
+    <Text>Tútu juéde duìbuqǐ [@xīyìmen@].
+涂涂觉得对不起[@蜥蜴们@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>85348</StartMilliseconds>
+    <EndMilliseconds>86481</EndMilliseconds>
+    <Text>Tútu juéde duìbuqǐ xīyìmen.
+涂涂觉得对不起蜥蜴们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>86482</StartMilliseconds>
+    <EndMilliseconds>86801</EndMilliseconds>
+    <Text>"Duìbuqǐ!" Tā dà hǎn.
+“对不起！”他大喊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>86802</StartMilliseconds>
+    <EndMilliseconds>88449</EndMilliseconds>
+    <Text>"[@Duìbuqǐ@]!" Tā dà hǎn.
+“[@对不起@]！”他大喊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>88450</StartMilliseconds>
+    <EndMilliseconds>88639</EndMilliseconds>
+    <Text>"Duìbuqǐ!" Tā dà hǎn.
+“对不起！”他大喊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>88640</StartMilliseconds>
+    <EndMilliseconds>88917</EndMilliseconds>
+    <Text>"Duìbuqǐ!" [@Tā@] dà hǎn.
+“对不起！”[@他@]大喊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>88918</StartMilliseconds>
+    <EndMilliseconds>89162</EndMilliseconds>
+    <Text>"Duìbuqǐ!" Tā [@dà@] hǎn.
+“对不起！”他[@大@]喊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>89163</StartMilliseconds>
+    <EndMilliseconds>89724</EndMilliseconds>
+    <Text>"Duìbuqǐ!" Tā dà [@hǎn@].
+“对不起！”他大[@喊@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>89725</StartMilliseconds>
+    <EndMilliseconds>90119</EndMilliseconds>
+    <Text>"Duìbuqǐ!" Tā dà hǎn.
+“对不起！”他大喊。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>90120</StartMilliseconds>
+    <EndMilliseconds>90335</EndMilliseconds>
+    <Text>Kěshì, xīyìmen yǐjing bú jiàn le.
+可是，蜥蜴们已经不见了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>90336</StartMilliseconds>
+    <EndMilliseconds>91216</EndMilliseconds>
+    <Text>[@Kěshì@], xīyìmen yǐjing bú jiàn le.
+[@可是@]，蜥蜴们已经不见了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>91217</StartMilliseconds>
+    <EndMilliseconds>92227</EndMilliseconds>
+    <Text>Kěshì, [@xīyìmen@] yǐjing bú jiàn le.
+可是，[@蜥蜴们@]已经不见了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>92228</StartMilliseconds>
+    <EndMilliseconds>92794</EndMilliseconds>
+    <Text>Kěshì, xīyìmen [@yǐjing@] bú jiàn le.
+可是，蜥蜴们[@已经@]不见了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>92795</StartMilliseconds>
+    <EndMilliseconds>92948</EndMilliseconds>
+    <Text>Kěshì, xīyìmen yǐjing [@bú@] jiàn le.
+可是，蜥蜴们已经[@不@]见了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>92949</StartMilliseconds>
+    <EndMilliseconds>93207</EndMilliseconds>
+    <Text>Kěshì, xīyìmen yǐjing bú [@jiàn@] le.
+可是，蜥蜴们已经不[@见@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>93208</StartMilliseconds>
+    <EndMilliseconds>93583</EndMilliseconds>
+    <Text>Kěshì, xīyìmen yǐjing bú jiàn [@le@].
+可是，蜥蜴们已经不见[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>93584</StartMilliseconds>
+    <EndMilliseconds>96443</EndMilliseconds>
+    <Text>Kěshì, xīyìmen yǐjing bú jiàn le.
+可是，蜥蜴们已经不见了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>96444</StartMilliseconds>
+    <EndMilliseconds>98707</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo yòu zǒu le yíhuìr.
+莎莎、涂涂和多多又走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>98708</StartMilliseconds>
+    <EndMilliseconds>99682</EndMilliseconds>
+    <Text>[@Shāsha@]、Tútu hé Duōduo yòu zǒu le yíhuìr.
+[@莎莎@]、涂涂和多多又走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>99683</StartMilliseconds>
+    <EndMilliseconds>100379</EndMilliseconds>
+    <Text>Shāsha、[@Tútu@] hé Duōduo yòu zǒu le yíhuìr.
+莎莎、[@涂涂@]和多多又走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>100380</StartMilliseconds>
+    <EndMilliseconds>100575</EndMilliseconds>
+    <Text>Shāsha、Tútu [@hé@] Duōduo yòu zǒu le yíhuìr.
+莎莎、涂涂[@和@]多多又走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>100576</StartMilliseconds>
+    <EndMilliseconds>101310</EndMilliseconds>
+    <Text>Shāsha、Tútu hé [@Duōduo@] yòu zǒu le yíhuìr.
+莎莎、涂涂和[@多多@]又走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>101311</StartMilliseconds>
+    <EndMilliseconds>101786</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo [@yòu@] zǒu le yíhuìr.
+莎莎、涂涂和多多[@又@]走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>101787</StartMilliseconds>
+    <EndMilliseconds>102025</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo yòu [@zǒu@] le yíhuìr.
+莎莎、涂涂和多多又[@走@]了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>102026</StartMilliseconds>
+    <EndMilliseconds>102186</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo yòu zǒu [@le@] yíhuìr.
+莎莎、涂涂和多多又走[@了@]一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>102187</StartMilliseconds>
+    <EndMilliseconds>102626</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo yòu zǒu le [@yíhuìr@].
+莎莎、涂涂和多多又走了[@一会儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>102627</StartMilliseconds>
+    <EndMilliseconds>103189</EndMilliseconds>
+    <Text>Shāsha、Tútu hé Duōduo yòu zǒu le yíhuìr.
+莎莎、涂涂和多多又走了一会儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>103190</StartMilliseconds>
+    <EndMilliseconds>103438</EndMilliseconds>
+    <Text>Hěn kuài, tāmen fāxiàn le Lèle.
+很快，他们发现了乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>103439</StartMilliseconds>
+    <EndMilliseconds>103658</EndMilliseconds>
+    <Text>[@Hěn@] kuài, tāmen fāxiàn le Lèle.
+[@很@]快，他们发现了乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>103659</StartMilliseconds>
+    <EndMilliseconds>104287</EndMilliseconds>
+    <Text>Hěn [@kuài@], tāmen fāxiàn le Lèle.
+很[@快@]，他们发现了乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>104288</StartMilliseconds>
+    <EndMilliseconds>105026</EndMilliseconds>
+    <Text>Hěn kuài, [@tāmen@] fāxiàn le Lèle.
+很快，[@他们@]发现了乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>105027</StartMilliseconds>
+    <EndMilliseconds>105471</EndMilliseconds>
+    <Text>Hěn kuài, tāmen [@fāxiàn@] le Lèle.
+很快，他们[@发现@]了乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>105472</StartMilliseconds>
+    <EndMilliseconds>105613</EndMilliseconds>
+    <Text>Hěn kuài, tāmen fāxiàn [@le@] Lèle.
+很快，他们发现[@了@]乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>105614</StartMilliseconds>
+    <EndMilliseconds>106212</EndMilliseconds>
+    <Text>Hěn kuài, tāmen fāxiàn le [@Lèle@].
+很快，他们发现了[@乐乐@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>106213</StartMilliseconds>
+    <EndMilliseconds>106733</EndMilliseconds>
+    <Text>Hěn kuài, tāmen fāxiàn le Lèle.
+很快，他们发现了乐乐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>106734</StartMilliseconds>
+    <EndMilliseconds>107133</EndMilliseconds>
+    <Text>Lèle hái zài duī tǎ.
+乐乐还在堆塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>107134</StartMilliseconds>
+    <EndMilliseconds>107813</EndMilliseconds>
+    <Text>[@Lèle@] hái zài duī tǎ.
+[@乐乐@]还在堆塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>107814</StartMilliseconds>
+    <EndMilliseconds>108137</EndMilliseconds>
+    <Text>Lèle [@hái@] zài duī tǎ.
+乐乐[@还@]在堆塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>108138</StartMilliseconds>
+    <EndMilliseconds>108421</EndMilliseconds>
+    <Text>Lèle hái [@zài@] duī tǎ.
+乐乐还[@在@]堆塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>108422</StartMilliseconds>
+    <EndMilliseconds>108626</EndMilliseconds>
+    <Text>Lèle hái zài [@duī@] tǎ.
+乐乐还在[@堆@]塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>108627</StartMilliseconds>
+    <EndMilliseconds>109212</EndMilliseconds>
+    <Text>Lèle hái zài duī [@tǎ@].
+乐乐还在堆[@塔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>109213</StartMilliseconds>
+    <EndMilliseconds>111005</EndMilliseconds>
+    <Text>Lèle hái zài duī tǎ.
+乐乐还在堆塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>111006</StartMilliseconds>
+    <EndMilliseconds>111494</EndMilliseconds>
+    <Text>"Hēi, Lèle." Tútu shuō,
+“嘿，乐乐。”涂涂说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>111495</StartMilliseconds>
+    <EndMilliseconds>112179</EndMilliseconds>
+    <Text>"[@Hēi@], Lèle." Tútu shuō,
+“[@嘿@]，乐乐。”涂涂说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>112180</StartMilliseconds>
+    <EndMilliseconds>113158</EndMilliseconds>
+    <Text>"Hēi, [@Lèle@]." Tútu shuō,
+“嘿，[@乐乐@]。”涂涂说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>113159</StartMilliseconds>
+    <EndMilliseconds>113257</EndMilliseconds>
+    <Text>"Hēi, Lèle." Tútu shuō,
+“嘿，乐乐。”涂涂说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>113258</StartMilliseconds>
+    <EndMilliseconds>113688</EndMilliseconds>
+    <Text>"Hēi, Lèle." [@Tútu@] shuō,
+“嘿，乐乐。”[@涂涂@]说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>113689</StartMilliseconds>
+    <EndMilliseconds>114177</EndMilliseconds>
+    <Text>"Hēi, Lèle." Tútu [@shuō@],
+“嘿，乐乐。”涂涂[@说@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>114178</StartMilliseconds>
+    <EndMilliseconds>114787</EndMilliseconds>
+    <Text>"Hēi, Lèle." Tútu shuō,
+“嘿，乐乐。”涂涂说，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>114788</StartMilliseconds>
+    <EndMilliseconds>115077</EndMilliseconds>
+    <Text>"Wǒmen zài yǎnzòu yīnyuè."
+“我们在演奏音乐。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>115078</StartMilliseconds>
+    <EndMilliseconds>115704</EndMilliseconds>
+    <Text>"[@Wǒmen@] zài yǎnzòu yīnyuè."
+“[@我们@]在演奏音乐。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>115705</StartMilliseconds>
+    <EndMilliseconds>115935</EndMilliseconds>
+    <Text>"Wǒmen [@zài@] yǎnzòu yīnyuè."
+“我们[@在@]演奏音乐。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>115936</StartMilliseconds>
+    <EndMilliseconds>116431</EndMilliseconds>
+    <Text>"Wǒmen zài [@yǎnzòu@] yīnyuè."
+“我们在[@演奏@]音乐。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>116432</StartMilliseconds>
+    <EndMilliseconds>117363</EndMilliseconds>
+    <Text>"Wǒmen zài yǎnzòu [@yīnyuè@]."
+“我们在演奏[@音乐@]。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>117364</StartMilliseconds>
+    <EndMilliseconds>124367</EndMilliseconds>
+    <Text>"Wǒmen zài yǎnzòu yīnyuè."
+“我们在演奏音乐。”</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>124368</StartMilliseconds>
+    <EndMilliseconds>126973</EndMilliseconds>
+    <Text>Tútu gēnzhe jiézòu yáo wěiba.
+涂涂跟着节奏摇尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>126974</StartMilliseconds>
+    <EndMilliseconds>127608</EndMilliseconds>
+    <Text>[@Tútu@] gēnzhe jiézòu yáo wěiba.
+[@涂涂@]跟着节奏摇尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>127609</StartMilliseconds>
+    <EndMilliseconds>128000</EndMilliseconds>
+    <Text>Tútu [@gēnzhe@] jiézòu yáo wěiba.
+涂涂[@跟着@]节奏摇尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>128001</StartMilliseconds>
+    <EndMilliseconds>128605</EndMilliseconds>
+    <Text>Tútu gēnzhe [@jiézòu@] yáo wěiba.
+涂涂跟着[@节奏@]摇尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>128606</StartMilliseconds>
+    <EndMilliseconds>128919</EndMilliseconds>
+    <Text>Tútu gēnzhe jiézòu [@yáo@] wěiba.
+涂涂跟着节奏[@摇@]尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>128920</StartMilliseconds>
+    <EndMilliseconds>129415</EndMilliseconds>
+    <Text>Tútu gēnzhe jiézòu yáo [@wěiba@].
+涂涂跟着节奏摇[@尾巴@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>129416</StartMilliseconds>
+    <EndMilliseconds>131898</EndMilliseconds>
+    <Text>Tútu gēnzhe jiézòu yáo wěiba.
+涂涂跟着节奏摇尾巴。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>131899</StartMilliseconds>
+    <EndMilliseconds>132243</EndMilliseconds>
+    <Text>Tā nòngchū bù tóng de shēngyīn.
+他弄出不同的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>132244</StartMilliseconds>
+    <EndMilliseconds>132511</EndMilliseconds>
+    <Text>[@Tā@] nòngchū bù tóng de shēngyīn.
+[@他@]弄出不同的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>132512</StartMilliseconds>
+    <EndMilliseconds>132979</EndMilliseconds>
+    <Text>Tā [@nòngchū@] bù tóng de shēngyīn.
+他[@弄出@]不同的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>132980</StartMilliseconds>
+    <EndMilliseconds>133161</EndMilliseconds>
+    <Text>Tā nòngchū [@bù@] tóng de shēngyīn.
+他弄出[@不@]同的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>133162</StartMilliseconds>
+    <EndMilliseconds>133459</EndMilliseconds>
+    <Text>Tā nòngchū bù [@tóng@] de shēngyīn.
+他弄出不[@同@]的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>133460</StartMilliseconds>
+    <EndMilliseconds>133624</EndMilliseconds>
+    <Text>Tā nòngchū bù tóng [@de@] shēngyīn.
+他弄出不同[@的@]声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>133625</StartMilliseconds>
+    <EndMilliseconds>133994</EndMilliseconds>
+    <Text>Tā nòngchū bù tóng de [@shēngyīn@].
+他弄出不同的[@声音@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>133995</StartMilliseconds>
+    <EndMilliseconds>134750</EndMilliseconds>
+    <Text>Tā nòngchū bù tóng de shēngyīn.
+他弄出不同的声音。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>134751</StartMilliseconds>
+    <EndMilliseconds>136475</EndMilliseconds>
+    <Text>Tútu pāidǎ le shítou、shùmù hé guànmù.
+涂涂拍打了石头、树木和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>136476</StartMilliseconds>
+    <EndMilliseconds>137187</EndMilliseconds>
+    <Text>[@Tútu@] pāidǎ le shítou、shùmù hé guànmù.
+[@涂涂@]拍打了石头、树木和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>137188</StartMilliseconds>
+    <EndMilliseconds>137645</EndMilliseconds>
+    <Text>Tútu [@pāidǎ@] le shítou、shùmù hé guànmù.
+涂涂[@拍打@]了石头、树木和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>137646</StartMilliseconds>
+    <EndMilliseconds>137832</EndMilliseconds>
+    <Text>Tútu pāidǎ [@le@] shítou、shùmù hé guànmù.
+涂涂拍打[@了@]石头、树木和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>137833</StartMilliseconds>
+    <EndMilliseconds>138676</EndMilliseconds>
+    <Text>Tútu pāidǎ le [@shítou@]、shùmù hé guànmù.
+涂涂拍打了[@石头@]、树木和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>138677</StartMilliseconds>
+    <EndMilliseconds>140071</EndMilliseconds>
+    <Text>Tútu pāidǎ le shítou、[@shùmù@] hé guànmù.
+涂涂拍打了石头、[@树木@]和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>140072</StartMilliseconds>
+    <EndMilliseconds>140409</EndMilliseconds>
+    <Text>Tútu pāidǎ le shítou、shùmù [@hé@] guànmù.
+涂涂拍打了石头、树木[@和@]灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>140410</StartMilliseconds>
+    <EndMilliseconds>141146</EndMilliseconds>
+    <Text>Tútu pāidǎ le shítou、shùmù hé [@guànmù@].
+涂涂拍打了石头、树木和[@灌木@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>141147</StartMilliseconds>
+    <EndMilliseconds>142086</EndMilliseconds>
+    <Text>Tútu pāidǎ le shítou、shùmù hé guànmù.
+涂涂拍打了石头、树木和灌木。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>142087</StartMilliseconds>
+    <EndMilliseconds>142582</EndMilliseconds>
+    <Text>Ránhòu……sōu!
+然后……嗖！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>142583</StartMilliseconds>
+    <EndMilliseconds>143879</EndMilliseconds>
+    <Text>[@Ránhòu@]……sōu!
+[@然后@]……嗖！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>143880</StartMilliseconds>
+    <EndMilliseconds>147308</EndMilliseconds>
+    <Text>Ránhòu……sōu!
+然后……嗖！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>147309</StartMilliseconds>
+    <EndMilliseconds>148158</EndMilliseconds>
+    <Text>Ránhòu……[@sōu@]!
+然后……[@嗖@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>148159</StartMilliseconds>
+    <EndMilliseconds>148725</EndMilliseconds>
+    <Text>Ránhòu……sōu!
+然后……嗖！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>148726</StartMilliseconds>
+    <EndMilliseconds>149346</EndMilliseconds>
+    <Text>Tā dǎdào le Lèle de tǎ.
+他打到了乐乐的塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>149347</StartMilliseconds>
+    <EndMilliseconds>149666</EndMilliseconds>
+    <Text>[@Tā@] dǎdào le Lèle de tǎ.
+[@他@]打到了乐乐的塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>149667</StartMilliseconds>
+    <EndMilliseconds>150076</EndMilliseconds>
+    <Text>Tā [@dǎdào@] le Lèle de tǎ.
+他[@打到@]了乐乐的塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>150077</StartMilliseconds>
+    <EndMilliseconds>150326</EndMilliseconds>
+    <Text>Tā dǎdào [@le@] Lèle de tǎ.
+他打到[@了@]乐乐的塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>150327</StartMilliseconds>
+    <EndMilliseconds>150652</EndMilliseconds>
+    <Text>Tā dǎdào le [@Lèle@] de tǎ.
+他打到了[@乐乐@]的塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>150653</StartMilliseconds>
+    <EndMilliseconds>150894</EndMilliseconds>
+    <Text>Tā dǎdào le Lèle [@de@] tǎ.
+他打到了乐乐[@的@]塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>150895</StartMilliseconds>
+    <EndMilliseconds>151536</EndMilliseconds>
+    <Text>Tā dǎdào le Lèle de [@tǎ@].
+他打到了乐乐的[@塔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>151537</StartMilliseconds>
+    <EndMilliseconds>152046</EndMilliseconds>
+    <Text>Tā dǎdào le Lèle de tǎ.
+他打到了乐乐的塔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>152047</StartMilliseconds>
+    <EndMilliseconds>152390</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>152391</StartMilliseconds>
+    <EndMilliseconds>153342</EndMilliseconds>
+    <Text>[@Kuāng@]!
+[@哐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>209</Number>
+    <StartMilliseconds>153343</StartMilliseconds>
+    <EndMilliseconds>155146</EndMilliseconds>
+    <Text>Kuāng!
+哐！</Text>
+  </Paragraph>
+</Subtitle>

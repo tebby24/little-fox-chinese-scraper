@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7422</StartMilliseconds>
+    <EndMilliseconds>15696</EndMilliseconds>
+    <Text>这是谁的球？
+Zhè shì shéi de qiú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>15696</StartMilliseconds>
+    <EndMilliseconds>16020</EndMilliseconds>
+    <Text>[@这@]是谁的球？
+[@Zhè@] shì shéi de qiú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>16020</StartMilliseconds>
+    <EndMilliseconds>16550</EndMilliseconds>
+    <Text>这[@是@]谁的球？
+Zhè [@shì@] shéi de qiú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>16550</StartMilliseconds>
+    <EndMilliseconds>16937</EndMilliseconds>
+    <Text>这是[@谁@]的球？
+Zhè shì [@shéi@] de qiú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>16937</StartMilliseconds>
+    <EndMilliseconds>17150</EndMilliseconds>
+    <Text>这是谁[@的@]球？
+Zhè shì shéi [@de@] qiú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>17150</StartMilliseconds>
+    <EndMilliseconds>17956</EndMilliseconds>
+    <Text>这是谁的[@球@]？
+Zhè shì shéi de [@qiú@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>17956</StartMilliseconds>
+    <EndMilliseconds>22421</EndMilliseconds>
+    <Text>这是谁的球？
+Zhè shì shéi de qiú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>22421</StartMilliseconds>
+    <EndMilliseconds>22731</EndMilliseconds>
+    <Text>这是他的球。
+Zhè shì tā de qiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22731</StartMilliseconds>
+    <EndMilliseconds>22962</EndMilliseconds>
+    <Text>[@这@]是他的球。
+[@Zhè@] shì tā de qiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22962</StartMilliseconds>
+    <EndMilliseconds>23683</EndMilliseconds>
+    <Text>这[@是@]他的球。
+Zhè [@shì@] tā de qiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>23683</StartMilliseconds>
+    <EndMilliseconds>24081</EndMilliseconds>
+    <Text>这是[@他@]的球。
+Zhè shì [@tā@] de qiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24081</StartMilliseconds>
+    <EndMilliseconds>24323</EndMilliseconds>
+    <Text>这是他[@的@]球。
+Zhè shì tā [@de@] qiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24323</StartMilliseconds>
+    <EndMilliseconds>25083</EndMilliseconds>
+    <Text>这是他的[@球@]。
+Zhè shì tā de [@qiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25083</StartMilliseconds>
+    <EndMilliseconds>27848</EndMilliseconds>
+    <Text>这是他的球。
+Zhè shì tā de qiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27848</StartMilliseconds>
+    <EndMilliseconds>31013</EndMilliseconds>
+    <Text>这是谁的自行车？
+Zhè shì shéi de zìxíngchē?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>31013</StartMilliseconds>
+    <EndMilliseconds>31308</EndMilliseconds>
+    <Text>[@这@]是谁的自行车？
+[@Zhè@] shì shéi de zìxíngchē?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31308</StartMilliseconds>
+    <EndMilliseconds>31685</EndMilliseconds>
+    <Text>这[@是@]谁的自行车？
+Zhè [@shì@] shéi de zìxíngchē?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31685</StartMilliseconds>
+    <EndMilliseconds>32035</EndMilliseconds>
+    <Text>这是[@谁@]的自行车？
+Zhè shì [@shéi@] de zìxíngchē?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32035</StartMilliseconds>
+    <EndMilliseconds>32420</EndMilliseconds>
+    <Text>这是谁[@的@]自行车？
+Zhè shì shéi [@de@] zìxíngchē?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32420</StartMilliseconds>
+    <EndMilliseconds>33991</EndMilliseconds>
+    <Text>这是谁的[@自行车@]？
+Zhè shì shéi de [@zìxíngchē@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33991</StartMilliseconds>
+    <EndMilliseconds>37505</EndMilliseconds>
+    <Text>这是谁的自行车？
+Zhè shì shéi de zìxíngchē?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>37505</StartMilliseconds>
+    <EndMilliseconds>37766</EndMilliseconds>
+    <Text>这是她的自行车。
+Zhè shì tā de zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>37766</StartMilliseconds>
+    <EndMilliseconds>38085</EndMilliseconds>
+    <Text>[@这@]是她的自行车。
+[@Zhè@] shì tā de zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>38085</StartMilliseconds>
+    <EndMilliseconds>38454</EndMilliseconds>
+    <Text>这[@是@]她的自行车。
+Zhè [@shì@] tā de zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>38454</StartMilliseconds>
+    <EndMilliseconds>38899</EndMilliseconds>
+    <Text>这是[@她@]的自行车。
+Zhè shì [@tā@] de zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>38899</StartMilliseconds>
+    <EndMilliseconds>39336</EndMilliseconds>
+    <Text>这是她[@的@]自行车。
+Zhè shì tā [@de@] zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>39336</StartMilliseconds>
+    <EndMilliseconds>41031</EndMilliseconds>
+    <Text>这是她的[@自行车@]。
+Zhè shì tā de [@zìxíngchē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41031</StartMilliseconds>
+    <EndMilliseconds>43241</EndMilliseconds>
+    <Text>这是她的自行车。
+Zhè shì tā de zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>43241</StartMilliseconds>
+    <EndMilliseconds>44956</EndMilliseconds>
+    <Text>这是谁的轮滑鞋？
+Zhè shì shéi de lúnhuáxié?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>44956</StartMilliseconds>
+    <EndMilliseconds>45294</EndMilliseconds>
+    <Text>[@这@]是谁的轮滑鞋？
+[@Zhè@] shì shéi de lúnhuáxié?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>45294</StartMilliseconds>
+    <EndMilliseconds>45571</EndMilliseconds>
+    <Text>这[@是@]谁的轮滑鞋？
+Zhè [@shì@] shéi de lúnhuáxié?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>45571</StartMilliseconds>
+    <EndMilliseconds>45828</EndMilliseconds>
+    <Text>这是[@谁@]的轮滑鞋？
+Zhè shì [@shéi@] de lúnhuáxié?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>45828</StartMilliseconds>
+    <EndMilliseconds>46257</EndMilliseconds>
+    <Text>这是谁[@的@]轮滑鞋？
+Zhè shì shéi [@de@] lúnhuáxié?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>46257</StartMilliseconds>
+    <EndMilliseconds>47745</EndMilliseconds>
+    <Text>这是谁的[@轮滑鞋@]？
+Zhè shì shéi de [@lúnhuáxié@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>47745</StartMilliseconds>
+    <EndMilliseconds>55198</EndMilliseconds>
+    <Text>这是谁的轮滑鞋？
+Zhè shì shéi de lúnhuáxié?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55198</StartMilliseconds>
+    <EndMilliseconds>55441</EndMilliseconds>
+    <Text>这是他的轮滑鞋。
+Zhè shì tā de lúnhuáxié.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>55441</StartMilliseconds>
+    <EndMilliseconds>55806</EndMilliseconds>
+    <Text>[@这@]是他的轮滑鞋。
+[@Zhè@] shì tā de lúnhuáxié.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>55806</StartMilliseconds>
+    <EndMilliseconds>56254</EndMilliseconds>
+    <Text>这[@是@]他的轮滑鞋。
+Zhè [@shì@] tā de lúnhuáxié.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>56254</StartMilliseconds>
+    <EndMilliseconds>56635</EndMilliseconds>
+    <Text>这是[@他@]的轮滑鞋。
+Zhè shì [@tā@] de lúnhuáxié.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56635</StartMilliseconds>
+    <EndMilliseconds>57026</EndMilliseconds>
+    <Text>这是他[@的@]轮滑鞋。
+Zhè shì tā [@de@] lúnhuáxié.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57026</StartMilliseconds>
+    <EndMilliseconds>58190</EndMilliseconds>
+    <Text>这是他的[@轮滑鞋@]。
+Zhè shì tā de [@lúnhuáxié@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>58190</StartMilliseconds>
+    <EndMilliseconds>58709</EndMilliseconds>
+    <Text>这是他的轮滑鞋。
+Zhè shì tā de lúnhuáxié.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>58709</StartMilliseconds>
+    <EndMilliseconds>60141</EndMilliseconds>
+    <Text>这是谁的呼啦圈？
+Zhè shì shéi de hūlāquān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>60141</StartMilliseconds>
+    <EndMilliseconds>60473</EndMilliseconds>
+    <Text>[@这@]是谁的呼啦圈？
+[@Zhè@] shì shéi de hūlāquān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>60473</StartMilliseconds>
+    <EndMilliseconds>60764</EndMilliseconds>
+    <Text>这[@是@]谁的呼啦圈？
+Zhè [@shì@] shéi de hūlāquān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>60764</StartMilliseconds>
+    <EndMilliseconds>61079</EndMilliseconds>
+    <Text>这是[@谁@]的呼啦圈？
+Zhè shì [@shéi@] de hūlāquān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>61079</StartMilliseconds>
+    <EndMilliseconds>61499</EndMilliseconds>
+    <Text>这是谁[@的@]呼啦圈？
+Zhè shì shéi [@de@] hūlāquān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>61499</StartMilliseconds>
+    <EndMilliseconds>62926</EndMilliseconds>
+    <Text>这是谁的[@呼啦圈@]？
+Zhè shì shéi de [@hūlāquān@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>62926</StartMilliseconds>
+    <EndMilliseconds>70486</EndMilliseconds>
+    <Text>这是谁的呼啦圈？
+Zhè shì shéi de hūlāquān?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>70486</StartMilliseconds>
+    <EndMilliseconds>70852</EndMilliseconds>
+    <Text>这是她的呼啦圈。
+Zhè shì tā de hūlāquān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>70852</StartMilliseconds>
+    <EndMilliseconds>71095</EndMilliseconds>
+    <Text>[@这@]是她的呼啦圈。
+[@Zhè@] shì tā de hūlāquān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>71095</StartMilliseconds>
+    <EndMilliseconds>71512</EndMilliseconds>
+    <Text>这[@是@]她的呼啦圈。
+Zhè [@shì@] tā de hūlāquān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>71512</StartMilliseconds>
+    <EndMilliseconds>71894</EndMilliseconds>
+    <Text>这是[@她@]的呼啦圈。
+Zhè shì [@tā@] de hūlāquān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>71894</StartMilliseconds>
+    <EndMilliseconds>72307</EndMilliseconds>
+    <Text>这是她[@的@]呼啦圈。
+Zhè shì tā [@de@] hūlāquān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>72308</StartMilliseconds>
+    <EndMilliseconds>73400</EndMilliseconds>
+    <Text>这是她的[@呼啦圈@]。
+Zhè shì tā de [@hūlāquān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>73400</StartMilliseconds>
+    <EndMilliseconds>73727</EndMilliseconds>
+    <Text>这是她的呼啦圈。
+Zhè shì tā de hūlāquān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>73727</StartMilliseconds>
+    <EndMilliseconds>76720</EndMilliseconds>
+    <Text>这是谁的铁环？
+Zhè shì shéi de tiěhuán?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>76720</StartMilliseconds>
+    <EndMilliseconds>77059</EndMilliseconds>
+    <Text>[@这@]是谁的铁环？
+[@Zhè@] shì shéi de tiěhuán?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>77059</StartMilliseconds>
+    <EndMilliseconds>77430</EndMilliseconds>
+    <Text>这[@是@]谁的铁环？
+Zhè [@shì@] shéi de tiěhuán?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>77430</StartMilliseconds>
+    <EndMilliseconds>77698</EndMilliseconds>
+    <Text>这是[@谁@]的铁环？
+Zhè shì [@shéi@] de tiěhuán?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>77698</StartMilliseconds>
+    <EndMilliseconds>78084</EndMilliseconds>
+    <Text>这是谁[@的@]铁环？
+Zhè shì shéi [@de@] tiěhuán?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>78084</StartMilliseconds>
+    <EndMilliseconds>79357</EndMilliseconds>
+    <Text>这是谁的[@铁环@]？
+Zhè shì shéi de [@tiěhuán@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>79357</StartMilliseconds>
+    <EndMilliseconds>88071</EndMilliseconds>
+    <Text>这是谁的铁环？
+Zhè shì shéi de tiěhuán?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>88071</StartMilliseconds>
+    <EndMilliseconds>88291</EndMilliseconds>
+    <Text>这是他的铁环。
+Zhè shì tā de tiěhuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>88291</StartMilliseconds>
+    <EndMilliseconds>88581</EndMilliseconds>
+    <Text>[@这@]是他的铁环。
+[@Zhè@] shì tā de tiěhuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>88581</StartMilliseconds>
+    <EndMilliseconds>89054</EndMilliseconds>
+    <Text>这[@是@]他的铁环。
+Zhè [@shì@] tā de tiěhuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>89054</StartMilliseconds>
+    <EndMilliseconds>89561</EndMilliseconds>
+    <Text>这是[@他@]的铁环。
+Zhè shì [@tā@] de tiěhuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>89561</StartMilliseconds>
+    <EndMilliseconds>89891</EndMilliseconds>
+    <Text>这是他[@的@]铁环。
+Zhè shì tā [@de@] tiěhuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>89891</StartMilliseconds>
+    <EndMilliseconds>90902</EndMilliseconds>
+    <Text>这是他的[@铁环@]。
+Zhè shì tā de [@tiěhuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>90902</StartMilliseconds>
+    <EndMilliseconds>91185</EndMilliseconds>
+    <Text>这是他的铁环。
+Zhè shì tā de tiěhuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>91185</StartMilliseconds>
+    <EndMilliseconds>94569</EndMilliseconds>
+    <Text>这些是谁的刀？
+Zhèxiē shì shéi de dāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>94569</StartMilliseconds>
+    <EndMilliseconds>95606</EndMilliseconds>
+    <Text>[@这些@]是谁的刀？
+[@Zhèxiē@] shì shéi de dāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>95606</StartMilliseconds>
+    <EndMilliseconds>95929</EndMilliseconds>
+    <Text>这些[@是@]谁的刀？
+Zhèxiē [@shì@] shéi de dāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>95929</StartMilliseconds>
+    <EndMilliseconds>96223</EndMilliseconds>
+    <Text>这些是[@谁@]的刀？
+Zhèxiē shì [@shéi@] de dāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>96223</StartMilliseconds>
+    <EndMilliseconds>96414</EndMilliseconds>
+    <Text>这些是谁[@的@]刀？
+Zhèxiē shì shéi [@de@] dāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>96414</StartMilliseconds>
+    <EndMilliseconds>97180</EndMilliseconds>
+    <Text>这些是谁的[@刀@]？
+Zhèxiē shì shéi de [@dāo@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>97180</StartMilliseconds>
+    <EndMilliseconds>103551</EndMilliseconds>
+    <Text>这些是谁的刀？
+Zhèxiē shì shéi de dāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>103551</StartMilliseconds>
+    <EndMilliseconds>103926</EndMilliseconds>
+    <Text>这些是她的刀。
+Zhèxiē shì tā de dāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>103926</StartMilliseconds>
+    <EndMilliseconds>104712</EndMilliseconds>
+    <Text>[@这些@]是她的刀。
+[@Zhèxiē@] shì tā de dāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>104712</StartMilliseconds>
+    <EndMilliseconds>105086</EndMilliseconds>
+    <Text>这些[@是@]她的刀。
+Zhèxiē [@shì@] tā de dāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>105086</StartMilliseconds>
+    <EndMilliseconds>105512</EndMilliseconds>
+    <Text>这些是[@她@]的刀。
+Zhèxiē shì [@tā@] de dāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>105512</StartMilliseconds>
+    <EndMilliseconds>105700</EndMilliseconds>
+    <Text>这些是她[@的@]刀。
+Zhèxiē shì tā [@de@] dāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>105700</StartMilliseconds>
+    <EndMilliseconds>106414</EndMilliseconds>
+    <Text>这些是她的[@刀@]。
+Zhèxiē shì tā de [@dāo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>106414</StartMilliseconds>
+    <EndMilliseconds>107042</EndMilliseconds>
+    <Text>这些是她的刀。
+Zhèxiē shì tā de dāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>107042</StartMilliseconds>
+    <EndMilliseconds>108258</EndMilliseconds>
+    <Text>这些是谁的花？
+Zhèxiē shì shéi de huā?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>108258</StartMilliseconds>
+    <EndMilliseconds>108968</EndMilliseconds>
+    <Text>[@这些@]是谁的花？
+[@Zhèxiē@] shì shéi de huā?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>108968</StartMilliseconds>
+    <EndMilliseconds>109337</EndMilliseconds>
+    <Text>这些[@是@]谁的花？
+Zhèxiē [@shì@] shéi de huā?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>109337</StartMilliseconds>
+    <EndMilliseconds>109675</EndMilliseconds>
+    <Text>这些是[@谁@]的花？
+Zhèxiē shì [@shéi@] de huā?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>109675</StartMilliseconds>
+    <EndMilliseconds>109846</EndMilliseconds>
+    <Text>这些是谁[@的@]花？
+Zhèxiē shì shéi [@de@] huā?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>109846</StartMilliseconds>
+    <EndMilliseconds>110610</EndMilliseconds>
+    <Text>这些是谁的[@花@]？
+Zhèxiē shì shéi de [@huā@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>110610</StartMilliseconds>
+    <EndMilliseconds>121617</EndMilliseconds>
+    <Text>这些是谁的花？
+Zhèxiē shì shéi de huā?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>121617</StartMilliseconds>
+    <EndMilliseconds>121967</EndMilliseconds>
+    <Text>这些是他的花。
+Zhèxiē shì tā de huā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>121967</StartMilliseconds>
+    <EndMilliseconds>122952</EndMilliseconds>
+    <Text>[@这些@]是他的花。
+[@Zhèxiē@] shì tā de huā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>122952</StartMilliseconds>
+    <EndMilliseconds>123293</EndMilliseconds>
+    <Text>这些[@是@]他的花。
+Zhèxiē [@shì@] tā de huā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>123293</StartMilliseconds>
+    <EndMilliseconds>123683</EndMilliseconds>
+    <Text>这些是[@他@]的花。
+Zhèxiē shì [@tā@] de huā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>123683</StartMilliseconds>
+    <EndMilliseconds>123890</EndMilliseconds>
+    <Text>这些是他[@的@]花。
+Zhèxiē shì tā [@de@] huā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>123890</StartMilliseconds>
+    <EndMilliseconds>124600</EndMilliseconds>
+    <Text>这些是他的[@花@]。
+Zhèxiē shì tā de [@huā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>124600</StartMilliseconds>
+    <EndMilliseconds>125392</EndMilliseconds>
+    <Text>这些是他的花。
+Zhèxiē shì tā de huā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>125392</StartMilliseconds>
+    <EndMilliseconds>126300</EndMilliseconds>
+    <Text>这是谁的大炮？
+Zhè shì shéi de dàpào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>126300</StartMilliseconds>
+    <EndMilliseconds>126624</EndMilliseconds>
+    <Text>[@这@]是谁的大炮？
+[@Zhè@] shì shéi de dàpào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>126624</StartMilliseconds>
+    <EndMilliseconds>126855</EndMilliseconds>
+    <Text>这[@是@]谁的大炮？
+Zhè [@shì@] shéi de dàpào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>126855</StartMilliseconds>
+    <EndMilliseconds>127139</EndMilliseconds>
+    <Text>这是[@谁@]的大炮？
+Zhè shì [@shéi@] de dàpào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>127139</StartMilliseconds>
+    <EndMilliseconds>127314</EndMilliseconds>
+    <Text>这是谁[@的@]大炮？
+Zhè shì shéi [@de@] dàpào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>127314</StartMilliseconds>
+    <EndMilliseconds>128278</EndMilliseconds>
+    <Text>这是谁的[@大炮@]？
+Zhè shì shéi de [@dàpào@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>128278</StartMilliseconds>
+    <EndMilliseconds>136133</EndMilliseconds>
+    <Text>这是谁的大炮？
+Zhè shì shéi de dàpào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>136133</StartMilliseconds>
+    <EndMilliseconds>136388</EndMilliseconds>
+    <Text>这是我的大炮！
+Zhè shì wǒ de dàpào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>136388</StartMilliseconds>
+    <EndMilliseconds>136624</EndMilliseconds>
+    <Text>[@这@]是我的大炮！
+[@Zhè@] shì wǒ de dàpào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>136624</StartMilliseconds>
+    <EndMilliseconds>137002</EndMilliseconds>
+    <Text>这[@是@]我的大炮！
+Zhè [@shì@] wǒ de dàpào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>137002</StartMilliseconds>
+    <EndMilliseconds>137583</EndMilliseconds>
+    <Text>这是[@我@]的大炮！
+Zhè shì [@wǒ@] de dàpào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>137583</StartMilliseconds>
+    <EndMilliseconds>137823</EndMilliseconds>
+    <Text>这是我[@的@]大炮！
+Zhè shì wǒ [@de@] dàpào!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>137823</StartMilliseconds>
+    <EndMilliseconds>139023</EndMilliseconds>
+    <Text>这是我的[@大炮@]！
+Zhè shì wǒ de [@dàpào@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>139023</StartMilliseconds>
+    <EndMilliseconds>142738</EndMilliseconds>
+    <Text>这是我的大炮！
+Zhè shì wǒ de dàpào!</Text>
+  </Paragraph>
+</Subtitle>

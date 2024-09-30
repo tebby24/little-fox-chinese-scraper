@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10820</StartMilliseconds>
+    <EndMilliseconds>11531</EndMilliseconds>
+    <Text>Nàli yǒu yí liàng gōnggòng qìchē.
+那里有一辆公共汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11532</StartMilliseconds>
+    <EndMilliseconds>12781</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yí liàng gōnggòng qìchē.
+[@那里@]有一辆公共汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12782</StartMilliseconds>
+    <EndMilliseconds>13224</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yí liàng gōnggòng qìchē.
+那里[@有@]一辆公共汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13229</StartMilliseconds>
+    <EndMilliseconds>13468</EndMilliseconds>
+    <Text>Nàli yǒu [@yí@] liàng gōnggòng qìchē.
+那里有[@一@]辆公共汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13469</StartMilliseconds>
+    <EndMilliseconds>13999</EndMilliseconds>
+    <Text>Nàli yǒu yí [@liàng@] gōnggòng qìchē.
+那里有一[@辆@]公共汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14000</StartMilliseconds>
+    <EndMilliseconds>14647</EndMilliseconds>
+    <Text>Nàli yǒu yí liàng [@gōnggòng@] qìchē.
+那里有一辆[@公共@]汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14648</StartMilliseconds>
+    <EndMilliseconds>15801</EndMilliseconds>
+    <Text>Nàli yǒu yí liàng gōnggòng [@qìchē@].
+那里有一辆公共[@汽车@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15802</StartMilliseconds>
+    <EndMilliseconds>19316</EndMilliseconds>
+    <Text>Nàli yǒu yí liàng gōnggòng qìchē.
+那里有一辆公共汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>19317</StartMilliseconds>
+    <EndMilliseconds>20766</EndMilliseconds>
+    <Text>Nàli yǒu qìchē.
+那里有汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20767</StartMilliseconds>
+    <EndMilliseconds>21966</EndMilliseconds>
+    <Text>[@Nàli@] yǒu qìchē.
+[@那里@]有汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>21967</StartMilliseconds>
+    <EndMilliseconds>22553</EndMilliseconds>
+    <Text>Nàli [@yǒu@] qìchē.
+那里[@有@]汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22557</StartMilliseconds>
+    <EndMilliseconds>23928</EndMilliseconds>
+    <Text>Nàli yǒu [@qìchē@].
+那里有[@汽车@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>23929</StartMilliseconds>
+    <EndMilliseconds>27669</EndMilliseconds>
+    <Text>Nàli yǒu qìchē.
+那里有汽车。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>27670</StartMilliseconds>
+    <EndMilliseconds>29082</EndMilliseconds>
+    <Text>Nàli yǒu gāolóu.
+那里有高楼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>29083</StartMilliseconds>
+    <EndMilliseconds>30321</EndMilliseconds>
+    <Text>[@Nàli@] yǒu gāolóu.
+[@那里@]有高楼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30322</StartMilliseconds>
+    <EndMilliseconds>30756</EndMilliseconds>
+    <Text>Nàli [@yǒu@] gāolóu.
+那里[@有@]高楼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30757</StartMilliseconds>
+    <EndMilliseconds>32055</EndMilliseconds>
+    <Text>Nàli yǒu [@gāolóu@].
+那里有[@高楼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32056</StartMilliseconds>
+    <EndMilliseconds>35701</EndMilliseconds>
+    <Text>Nàli yǒu gāolóu.
+那里有高楼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>35702</StartMilliseconds>
+    <EndMilliseconds>37370</EndMilliseconds>
+    <Text>Nàli yǒu hěn duō shāngdiàn.
+那里有很多商店。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>37371</StartMilliseconds>
+    <EndMilliseconds>38495</EndMilliseconds>
+    <Text>[@Nàli@] yǒu hěn duō shāngdiàn.
+[@那里@]有很多商店。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>38496</StartMilliseconds>
+    <EndMilliseconds>38909</EndMilliseconds>
+    <Text>Nàli [@yǒu@] hěn duō shāngdiàn.
+那里[@有@]很多商店。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>38910</StartMilliseconds>
+    <EndMilliseconds>39448</EndMilliseconds>
+    <Text>Nàli yǒu [@hěn@] duō shāngdiàn.
+那里有[@很@]多商店。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39449</StartMilliseconds>
+    <EndMilliseconds>39755</EndMilliseconds>
+    <Text>Nàli yǒu hěn [@duō@] shāngdiàn.
+那里有很[@多@]商店。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>39756</StartMilliseconds>
+    <EndMilliseconds>41033</EndMilliseconds>
+    <Text>Nàli yǒu hěn duō [@shāngdiàn@].
+那里有很多[@商店@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>41034</StartMilliseconds>
+    <EndMilliseconds>44269</EndMilliseconds>
+    <Text>Nàli yǒu hěn duō shāngdiàn.
+那里有很多商店。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>44270</StartMilliseconds>
+    <EndMilliseconds>45720</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē shíwù.
+那里有一些食物。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>45721</StartMilliseconds>
+    <EndMilliseconds>46786</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yìxiē shíwù.
+[@那里@]有一些食物。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>46787</StartMilliseconds>
+    <EndMilliseconds>47194</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yìxiē shíwù.
+那里[@有@]一些食物。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>47195</StartMilliseconds>
+    <EndMilliseconds>47842</EndMilliseconds>
+    <Text>Nàli yǒu [@yìxiē@] shíwù.
+那里有[@一些@]食物。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>47843</StartMilliseconds>
+    <EndMilliseconds>49146</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē [@shíwù@].
+那里有一些[@食物@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49147</StartMilliseconds>
+    <EndMilliseconds>52569</EndMilliseconds>
+    <Text>Nàli yǒu yìxiē shíwù.
+那里有一些食物。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>52570</StartMilliseconds>
+    <EndMilliseconds>54048</EndMilliseconds>
+    <Text>Nàli yǒu yì zhī gēzi.
+那里有一只鸽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>54049</StartMilliseconds>
+    <EndMilliseconds>55202</EndMilliseconds>
+    <Text>[@Nàli@] yǒu yì zhī gēzi.
+[@那里@]有一只鸽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>55203</StartMilliseconds>
+    <EndMilliseconds>55682</EndMilliseconds>
+    <Text>Nàli [@yǒu@] yì zhī gēzi.
+那里[@有@]一只鸽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>55685</StartMilliseconds>
+    <EndMilliseconds>55935</EndMilliseconds>
+    <Text>Nàli yǒu [@yì@] zhī gēzi.
+那里有[@一@]只鸽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55936</StartMilliseconds>
+    <EndMilliseconds>56307</EndMilliseconds>
+    <Text>Nàli yǒu yì [@zhī@] gēzi.
+那里有一[@只@]鸽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>56308</StartMilliseconds>
+    <EndMilliseconds>57589</EndMilliseconds>
+    <Text>Nàli yǒu yì zhī [@gēzi@].
+那里有一只[@鸽子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57590</StartMilliseconds>
+    <EndMilliseconds>60880</EndMilliseconds>
+    <Text>Nàli yǒu yì zhī gēzi.
+那里有一只鸽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>60881</StartMilliseconds>
+    <EndMilliseconds>62311</EndMilliseconds>
+    <Text>Wǒ kàndào le hěn duō rén.
+我看到了很多人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>62312</StartMilliseconds>
+    <EndMilliseconds>62998</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào le hěn duō rén.
+[@我@]看到了很多人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>62999</StartMilliseconds>
+    <EndMilliseconds>63579</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] le hěn duō rén.
+我[@看到@]了很多人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>63580</StartMilliseconds>
+    <EndMilliseconds>63875</EndMilliseconds>
+    <Text>Wǒ kàndào [@le@] hěn duō rén.
+我看到[@了@]很多人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63876</StartMilliseconds>
+    <EndMilliseconds>64418</EndMilliseconds>
+    <Text>Wǒ kàndào le [@hěn@] duō rén.
+我看到了[@很@]多人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64419</StartMilliseconds>
+    <EndMilliseconds>64774</EndMilliseconds>
+    <Text>Wǒ kàndào le hěn [@duō@] rén.
+我看到了很[@多@]人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64775</StartMilliseconds>
+    <EndMilliseconds>65212</EndMilliseconds>
+    <Text>Wǒ kàndào le hěn duō [@rén@].
+我看到了很多[@人@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65213</StartMilliseconds>
+    <EndMilliseconds>69228</EndMilliseconds>
+    <Text>Wǒ kàndào le hěn duō rén.
+我看到了很多人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>69229</StartMilliseconds>
+    <EndMilliseconds>70783</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>70784</StartMilliseconds>
+    <EndMilliseconds>71578</EndMilliseconds>
+    <Text>[@Wǒ@] zài nǎli?
+[@我@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>71579</StartMilliseconds>
+    <EndMilliseconds>71808</EndMilliseconds>
+    <Text>Wǒ [@zài@] nǎli?
+我[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>71809</StartMilliseconds>
+    <EndMilliseconds>73106</EndMilliseconds>
+    <Text>Wǒ zài [@nǎli@]?
+我在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>73107</StartMilliseconds>
+    <EndMilliseconds>77380</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>77381</StartMilliseconds>
+    <EndMilliseconds>78268</EndMilliseconds>
+    <Text>Wǒ zài chéngshì li.
+我在城市里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>78269</StartMilliseconds>
+    <EndMilliseconds>78886</EndMilliseconds>
+    <Text>[@Wǒ@] zài chéngshì li.
+[@我@]在城市里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>78889</StartMilliseconds>
+    <EndMilliseconds>79445</EndMilliseconds>
+    <Text>Wǒ [@zài@] chéngshì li.
+我[@在@]城市里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>79446</StartMilliseconds>
+    <EndMilliseconds>80273</EndMilliseconds>
+    <Text>Wǒ zài [@chéngshì@] li.
+我在[@城市@]里。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>80274</StartMilliseconds>
+    <EndMilliseconds>80888</EndMilliseconds>
+    <Text>Wǒ zài chéngshì [@li@].
+我在城市[@里@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>80889</StartMilliseconds>
+    <EndMilliseconds>85580</EndMilliseconds>
+    <Text>Wǒ zài chéngshì li.
+我在城市里。</Text>
+  </Paragraph>
+</Subtitle>

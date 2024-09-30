@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9102</StartMilliseconds>
+    <EndMilliseconds>14352</EndMilliseconds>
+    <Text>山姆：狗狗不能入内，
+Shānmǔ: Gǒugou bù néng rù nèi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14352</StartMilliseconds>
+    <EndMilliseconds>14875</EndMilliseconds>
+    <Text>山姆：[@狗狗@]不能入内，
+Shānmǔ: [@Gǒugou@] bù néng rù nèi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14875</StartMilliseconds>
+    <EndMilliseconds>15200</EndMilliseconds>
+    <Text>山姆：狗狗[@不@]能入内，
+Shānmǔ: Gǒugou [@bù@] néng rù nèi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15203</StartMilliseconds>
+    <EndMilliseconds>15611</EndMilliseconds>
+    <Text>山姆：狗狗不[@能@]入内，
+Shānmǔ: Gǒugou bù [@néng@] rù nèi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15613</StartMilliseconds>
+    <EndMilliseconds>15839</EndMilliseconds>
+    <Text>山姆：狗狗不能[@入@]内，
+Shānmǔ: Gǒugou bù néng [@rù@] nèi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15840</StartMilliseconds>
+    <EndMilliseconds>16401</EndMilliseconds>
+    <Text>山姆：狗狗不能入[@内@]，
+Shānmǔ: Gǒugou bù néng rù [@nèi@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16401</StartMilliseconds>
+    <EndMilliseconds>17303</EndMilliseconds>
+    <Text>山姆：狗狗不能入内，
+Shānmǔ: Gǒugou bù néng rù nèi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17303</StartMilliseconds>
+    <EndMilliseconds>18198</EndMilliseconds>
+    <Text>山姆：邮局写着。
+Shānmǔ: yóujú xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>18198</StartMilliseconds>
+    <EndMilliseconds>18733</EndMilliseconds>
+    <Text>山姆：[@邮局@]写着。
+Shānmǔ: [@yóujú@] xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>18735</StartMilliseconds>
+    <EndMilliseconds>19551</EndMilliseconds>
+    <Text>山姆：邮局[@写着@]。
+Shānmǔ: yóujú [@xiězhe@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19551</StartMilliseconds>
+    <EndMilliseconds>22352</EndMilliseconds>
+    <Text>山姆：邮局写着。
+Shānmǔ: yóujú xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22352</StartMilliseconds>
+    <EndMilliseconds>24851</EndMilliseconds>
+    <Text>山姆：看！超市也写着。
+Shānmǔ: Kàn! Chāoshì yě xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24851</StartMilliseconds>
+    <EndMilliseconds>25440</EndMilliseconds>
+    <Text>山姆：[@看@]！超市也写着。
+Shānmǔ: [@Kàn@]! Chāoshì yě xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25439</StartMilliseconds>
+    <EndMilliseconds>26224</EndMilliseconds>
+    <Text>山姆：看！[@超市@]也写着。
+Shānmǔ: Kàn! [@Chāoshì@] yě xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>26225</StartMilliseconds>
+    <EndMilliseconds>26428</EndMilliseconds>
+    <Text>山姆：看！超市[@也@]写着。
+Shānmǔ: Kàn! Chāoshì [@yě@] xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>26435</StartMilliseconds>
+    <EndMilliseconds>27302</EndMilliseconds>
+    <Text>山姆：看！超市也[@写着@]。
+Shānmǔ: Kàn! Chāoshì yě [@xiězhe@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>27302</StartMilliseconds>
+    <EndMilliseconds>28997</EndMilliseconds>
+    <Text>山姆：看！超市也写着。
+Shānmǔ: Kàn! Chāoshì yě xiězhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>28997</StartMilliseconds>
+    <EndMilliseconds>30883</EndMilliseconds>
+    <Text>山姆：幸运是多么好的狗啊！
+Shānmǔ: Xìngyùn shì duōme hǎo de gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>30884</StartMilliseconds>
+    <EndMilliseconds>31518</EndMilliseconds>
+    <Text>山姆：[@幸运@]是多么好的狗啊！
+Shānmǔ: [@Xìngyùn@] shì duōme hǎo de gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>31517</StartMilliseconds>
+    <EndMilliseconds>31811</EndMilliseconds>
+    <Text>山姆：幸运[@是@]多么好的狗啊！
+Shānmǔ: Xìngyùn [@shì@] duōme hǎo de gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>31809</StartMilliseconds>
+    <EndMilliseconds>32097</EndMilliseconds>
+    <Text>山姆：幸运是[@多么@]好的狗啊！
+Shānmǔ: Xìngyùn shì [@duōme@] hǎo de gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>32098</StartMilliseconds>
+    <EndMilliseconds>32285</EndMilliseconds>
+    <Text>山姆：幸运是多么[@好@]的狗啊！
+Shānmǔ: Xìngyùn shì duōme [@hǎo@] de gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>32286</StartMilliseconds>
+    <EndMilliseconds>32437</EndMilliseconds>
+    <Text>山姆：幸运是多么好[@的@]狗啊！
+Shānmǔ: Xìngyùn shì duōme hǎo [@de@] gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>32438</StartMilliseconds>
+    <EndMilliseconds>32873</EndMilliseconds>
+    <Text>山姆：幸运是多么好的[@狗@]啊！
+Shānmǔ: Xìngyùn shì duōme hǎo de [@gǒu@] a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32874</StartMilliseconds>
+    <EndMilliseconds>33255</EndMilliseconds>
+    <Text>山姆：幸运是多么好的狗[@啊@]！
+Shānmǔ: Xìngyùn shì duōme hǎo de gǒu [@a@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>33256</StartMilliseconds>
+    <EndMilliseconds>36750</EndMilliseconds>
+    <Text>山姆：幸运是多么好的狗啊！
+Shānmǔ: Xìngyùn shì duōme hǎo de gǒu a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>36750</StartMilliseconds>
+    <EndMilliseconds>40250</EndMilliseconds>
+    <Text>山姆：为什么就不能进去呢？
+hānmǔ: Wèishénme jiù bù néng jìnqu ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>40257</StartMilliseconds>
+    <EndMilliseconds>41002</EndMilliseconds>
+    <Text>山姆：[@为什么@]就不能进去呢？
+hānmǔ: [@Wèishénme@] jiù bù néng jìnqu ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>41003</StartMilliseconds>
+    <EndMilliseconds>41171</EndMilliseconds>
+    <Text>山姆：为什么[@就@]不能进去呢？
+hānmǔ: Wèishénme [@jiù@] bù néng jìnqu ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>41172</StartMilliseconds>
+    <EndMilliseconds>41370</EndMilliseconds>
+    <Text>山姆：为什么就[@不@]能进去呢？
+hānmǔ: Wèishénme jiù [@bù@] néng jìnqu ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>41373</StartMilliseconds>
+    <EndMilliseconds>41666</EndMilliseconds>
+    <Text>山姆：为什么就不[@能@]进去呢？
+hānmǔ: Wèishénme jiù bù [@néng@] jìnqu ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>41667</StartMilliseconds>
+    <EndMilliseconds>42217</EndMilliseconds>
+    <Text>山姆：为什么就不能[@进去@]呢？
+hānmǔ: Wèishénme jiù bù néng [@jìnqu@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>42218</StartMilliseconds>
+    <EndMilliseconds>42658</EndMilliseconds>
+    <Text>山姆：为什么就不能进去[@呢@]？
+hānmǔ: Wèishénme jiù bù néng jìnqu [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>42658</StartMilliseconds>
+    <EndMilliseconds>45218</EndMilliseconds>
+    <Text>山姆：为什么就不能进去呢？
+hānmǔ: Wèishénme jiù bù néng jìnqu ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>45219</StartMilliseconds>
+    <EndMilliseconds>47237</EndMilliseconds>
+    <Text>爸爸：有些人觉得狗应该呆在家里。
+bàba: Yǒuxiē rén juéde gǒu yīnggāi dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>47238</StartMilliseconds>
+    <EndMilliseconds>47513</EndMilliseconds>
+    <Text>爸爸：[@有些@]人觉得狗应该呆在家里。
+bàba: [@Yǒuxiē@] rén juéde gǒu yīnggāi dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>47513</StartMilliseconds>
+    <EndMilliseconds>47786</EndMilliseconds>
+    <Text>爸爸：有些[@人@]觉得狗应该呆在家里。
+bàba: Yǒuxiē [@rén@] juéde gǒu yīnggāi dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>47786</StartMilliseconds>
+    <EndMilliseconds>48215</EndMilliseconds>
+    <Text>爸爸：有些人[@觉得@]狗应该呆在家里。
+bàba: Yǒuxiē rén [@juéde@] gǒu yīnggāi dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>48215</StartMilliseconds>
+    <EndMilliseconds>48550</EndMilliseconds>
+    <Text>爸爸：有些人觉得[@狗@]应该呆在家里。
+bàba: Yǒuxiē rén juéde [@gǒu@] yīnggāi dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>48551</StartMilliseconds>
+    <EndMilliseconds>48825</EndMilliseconds>
+    <Text>爸爸：有些人觉得狗[@应该@]呆在家里。
+bàba: Yǒuxiē rén juéde gǒu [@yīnggāi@] dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>48824</StartMilliseconds>
+    <EndMilliseconds>49262</EndMilliseconds>
+    <Text>爸爸：有些人觉得狗应该[@呆在@]家里。
+bàba: Yǒuxiē rén juéde gǒu yīnggāi [@dāizài@] jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>49269</StartMilliseconds>
+    <EndMilliseconds>49464</EndMilliseconds>
+    <Text>爸爸：有些人觉得狗应该呆在[@家@]里。
+bàba: Yǒuxiē rén juéde gǒu yīnggāi dāizài [@jiā@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>49464</StartMilliseconds>
+    <EndMilliseconds>50085</EndMilliseconds>
+    <Text>爸爸：有些人觉得狗应该呆在家[@里@]。
+bàba: Yǒuxiē rén juéde gǒu yīnggāi dāizài jiā [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>50085</StartMilliseconds>
+    <EndMilliseconds>51834</EndMilliseconds>
+    <Text>爸爸：有些人觉得狗应该呆在家里。
+bàba: Yǒuxiē rén juéde gǒu yīnggāi dāizài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>51834</StartMilliseconds>
+    <EndMilliseconds>52669</EndMilliseconds>
+    <Text>莉莉：不，幸运！别亲我！
+Lìli: Bù,Xìngyùn! Bié qīn wǒ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>52669</StartMilliseconds>
+    <EndMilliseconds>53179</EndMilliseconds>
+    <Text>莉莉：[@不@]，幸运！别亲我！
+Lìli: [@Bù@],Xìngyùn! Bié qīn wǒ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>53179</StartMilliseconds>
+    <EndMilliseconds>54085</EndMilliseconds>
+    <Text>莉莉：不，[@幸运@]！别亲我！
+Lìli: Bù,[@Xìngyùn@]! Bié qīn wǒ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>54085</StartMilliseconds>
+    <EndMilliseconds>54437</EndMilliseconds>
+    <Text>莉莉：不，幸运！[@别@]亲我！
+Lìli: Bù,Xìngyùn! [@Bié@] qīn wǒ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>54437</StartMilliseconds>
+    <EndMilliseconds>54756</EndMilliseconds>
+    <Text>莉莉：不，幸运！别[@亲@]我！
+Lìli: Bù,Xìngyùn! Bié [@qīn@] wǒ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>54756</StartMilliseconds>
+    <EndMilliseconds>55435</EndMilliseconds>
+    <Text>莉莉：不，幸运！别亲[@我@]！
+Lìli: Bù,Xìngyùn! Bié qīn [@wǒ@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>55435</StartMilliseconds>
+    <EndMilliseconds>60407</EndMilliseconds>
+    <Text>莉莉：不，幸运！别亲我！
+Lìli: Bù,Xìngyùn! Bié qīn wǒ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>60407</StartMilliseconds>
+    <EndMilliseconds>62918</EndMilliseconds>
+    <Text>妈妈：有些人对狗过敏。
+māma: Yǒuxiē rén duì gǒu guòmǐn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>62918</StartMilliseconds>
+    <EndMilliseconds>63357</EndMilliseconds>
+    <Text>妈妈：[@有些@]人对狗过敏。
+māma: [@Yǒuxiē@] rén duì gǒu guòmǐn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>63356</StartMilliseconds>
+    <EndMilliseconds>63835</EndMilliseconds>
+    <Text>妈妈：有些[@人@]对狗过敏。
+māma: Yǒuxiē [@rén@] duì gǒu guòmǐn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>63836</StartMilliseconds>
+    <EndMilliseconds>64011</EndMilliseconds>
+    <Text>妈妈：有些人[@对@]狗过敏。
+māma: Yǒuxiē rén [@duì@] gǒu guòmǐn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>64012</StartMilliseconds>
+    <EndMilliseconds>64382</EndMilliseconds>
+    <Text>妈妈：有些人对[@狗@]过敏。
+māma: Yǒuxiē rén duì [@gǒu@] guòmǐn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>64383</StartMilliseconds>
+    <EndMilliseconds>65035</EndMilliseconds>
+    <Text>妈妈：有些人对狗[@过敏@]。
+māma: Yǒuxiē rén duì gǒu [@guòmǐn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>65035</StartMilliseconds>
+    <EndMilliseconds>65584</EndMilliseconds>
+    <Text>妈妈：有些人对狗过敏。
+māma: Yǒuxiē rén duì gǒu guòmǐn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>65584</StartMilliseconds>
+    <EndMilliseconds>66521</EndMilliseconds>
+    <Text>莉莉：阿——嚏！
+Lìli: Ā——tì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>66521</StartMilliseconds>
+    <EndMilliseconds>68052</EndMilliseconds>
+    <Text>莉莉：[@阿——嚏@]！
+Lìli: [@Ā——tì@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>68052</StartMilliseconds>
+    <EndMilliseconds>68693</EndMilliseconds>
+    <Text>莉莉：阿——嚏！
+Lìli: Ā——tì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>68693</StartMilliseconds>
+    <EndMilliseconds>69858</EndMilliseconds>
+    <Text>爸爸：也有些人怕狗。
+bàba: Yě yǒuxiē rén pà gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>69858</StartMilliseconds>
+    <EndMilliseconds>70215</EndMilliseconds>
+    <Text>爸爸：[@也@]有些人怕狗。
+bàba: [@Yě@] yǒuxiē rén pà gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>70214</StartMilliseconds>
+    <EndMilliseconds>70427</EndMilliseconds>
+    <Text>爸爸：也[@有些@]人怕狗。
+bàba: Yě [@yǒuxiē@] rén pà gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>70430</StartMilliseconds>
+    <EndMilliseconds>70640</EndMilliseconds>
+    <Text>爸爸：也有些[@人@]怕狗。
+bàba: Yě yǒuxiē [@rén@] pà gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>70647</StartMilliseconds>
+    <EndMilliseconds>70956</EndMilliseconds>
+    <Text>爸爸：也有些人[@怕@]狗。
+bàba: Yě yǒuxiē rén [@pà@] gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>70956</StartMilliseconds>
+    <EndMilliseconds>71421</EndMilliseconds>
+    <Text>爸爸：也有些人怕[@狗@]。
+bàba: Yě yǒuxiē rén pà [@gǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>71421</StartMilliseconds>
+    <EndMilliseconds>72604</EndMilliseconds>
+    <Text>爸爸：也有些人怕狗。
+bàba: Yě yǒuxiē rén pà gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>72604</StartMilliseconds>
+    <EndMilliseconds>74298</EndMilliseconds>
+    <Text>山姆：什么？有些人怕狗？
+Shānmǔ: Shénme? Yǒuxiē rén pà gǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>74298</StartMilliseconds>
+    <EndMilliseconds>75175</EndMilliseconds>
+    <Text>山姆：[@什么@]？有些人怕狗？
+Shānmǔ: [@Shénme@]? Yǒuxiē rén pà gǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>75175</StartMilliseconds>
+    <EndMilliseconds>75602</EndMilliseconds>
+    <Text>山姆：什么？[@有些@]人怕狗？
+Shānmǔ: Shénme? [@Yǒuxiē@] rén pà gǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>75602</StartMilliseconds>
+    <EndMilliseconds>75935</EndMilliseconds>
+    <Text>山姆：什么？有些[@人@]怕狗？
+Shānmǔ: Shénme? Yǒuxiē [@rén@] pà gǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>75935</StartMilliseconds>
+    <EndMilliseconds>76429</EndMilliseconds>
+    <Text>山姆：什么？有些人[@怕@]狗？
+Shānmǔ: Shénme? Yǒuxiē rén [@pà@] gǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>76430</StartMilliseconds>
+    <EndMilliseconds>76902</EndMilliseconds>
+    <Text>山姆：什么？有些人怕[@狗@]？
+Shānmǔ: Shénme? Yǒuxiē rén pà [@gǒu@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>76902</StartMilliseconds>
+    <EndMilliseconds>78152</EndMilliseconds>
+    <Text>山姆：什么？有些人怕狗？
+Shānmǔ: Shénme? Yǒuxiē rén pà gǒu?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>78152</StartMilliseconds>
+    <EndMilliseconds>79827</EndMilliseconds>
+    <Text>爸爸：是的，有些人只是不喜欢狗。
+bàba: Shìde, yǒuxiē rén zhǐshì bù xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>79827</StartMilliseconds>
+    <EndMilliseconds>80560</EndMilliseconds>
+    <Text>爸爸：[@是的@]，有些人只是不喜欢狗。
+bàba: [@Shìde@], yǒuxiē rén zhǐshì bù xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>80560</StartMilliseconds>
+    <EndMilliseconds>80952</EndMilliseconds>
+    <Text>爸爸：是的，[@有些@]人只是不喜欢狗。
+bàba: Shìde, [@yǒuxiē@] rén zhǐshì bù xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>80952</StartMilliseconds>
+    <EndMilliseconds>81292</EndMilliseconds>
+    <Text>爸爸：是的，有些[@人@]只是不喜欢狗。
+bàba: Shìde, yǒuxiē [@rén@] zhǐshì bù xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>81293</StartMilliseconds>
+    <EndMilliseconds>81647</EndMilliseconds>
+    <Text>爸爸：是的，有些人[@只是@]不喜欢狗。
+bàba: Shìde, yǒuxiē rén [@zhǐshì@] bù xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>81646</StartMilliseconds>
+    <EndMilliseconds>81796</EndMilliseconds>
+    <Text>爸爸：是的，有些人只是[@不@]喜欢狗。
+bàba: Shìde, yǒuxiē rén zhǐshì [@bù@] xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>81796</StartMilliseconds>
+    <EndMilliseconds>82217</EndMilliseconds>
+    <Text>爸爸：是的，有些人只是不[@喜欢@]狗。
+bàba: Shìde, yǒuxiē rén zhǐshì bù [@xǐhuan@] gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>82217</StartMilliseconds>
+    <EndMilliseconds>82802</EndMilliseconds>
+    <Text>爸爸：是的，有些人只是不喜欢[@狗@]。
+bàba: Shìde, yǒuxiē rén zhǐshì bù xǐhuan [@gǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>82802</StartMilliseconds>
+    <EndMilliseconds>84052</EndMilliseconds>
+    <Text>爸爸：是的，有些人只是不喜欢狗。
+bàba: Shìde, yǒuxiē rén zhǐshì bù xǐhuan gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>84052</StartMilliseconds>
+    <EndMilliseconds>86206</EndMilliseconds>
+    <Text>山姆：嗯……真为那些人难过，
+Shānmǔ: Eng……Zhēn wèi nàxiē rén nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>86206</StartMilliseconds>
+    <EndMilliseconds>87052</EndMilliseconds>
+    <Text>山姆：[@嗯@]……真为那些人难过，
+Shānmǔ: [@Eng@]……Zhēn wèi nàxiē rén nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>87053</StartMilliseconds>
+    <EndMilliseconds>87470</EndMilliseconds>
+    <Text>山姆：嗯……[@真@]为那些人难过，
+Shānmǔ: Eng……[@Zhēn@] wèi nàxiē rén nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>87468</StartMilliseconds>
+    <EndMilliseconds>87652</EndMilliseconds>
+    <Text>山姆：嗯……真[@为@]那些人难过，
+Shānmǔ: Eng……Zhēn [@wèi@] nàxiē rén nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>87653</StartMilliseconds>
+    <EndMilliseconds>88113</EndMilliseconds>
+    <Text>山姆：嗯……真为[@那些@]人难过，
+Shānmǔ: Eng……Zhēn wèi [@nàxiē@] rén nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>88114</StartMilliseconds>
+    <EndMilliseconds>88401</EndMilliseconds>
+    <Text>山姆：嗯……真为那些[@人@]难过，
+Shānmǔ: Eng……Zhēn wèi nàxiē [@rén@] nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>88402</StartMilliseconds>
+    <EndMilliseconds>89152</EndMilliseconds>
+    <Text>山姆：嗯……真为那些人[@难过@]，
+Shānmǔ: Eng……Zhēn wèi nàxiē rén [@nánguò@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>89152</StartMilliseconds>
+    <EndMilliseconds>89902</EndMilliseconds>
+    <Text>山姆：嗯……真为那些人难过，
+Shānmǔ: Eng……Zhēn wèi nàxiē rén nánguò,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>89902</StartMilliseconds>
+    <EndMilliseconds>92014</EndMilliseconds>
+    <Text>山姆：也为小狗们难过！
+Shānmǔ: yě wèi xiǎogǒumen nánguò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>92015</StartMilliseconds>
+    <EndMilliseconds>92224</EndMilliseconds>
+    <Text>山姆：[@也@]为小狗们难过！
+Shānmǔ: [@yě@] wèi xiǎogǒumen nánguò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>92224</StartMilliseconds>
+    <EndMilliseconds>92492</EndMilliseconds>
+    <Text>山姆：也[@为@]小狗们难过！
+Shānmǔ: yě [@wèi@] xiǎogǒumen nánguò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>92492</StartMilliseconds>
+    <EndMilliseconds>93223</EndMilliseconds>
+    <Text>山姆：也为[@小狗们@]难过！
+Shānmǔ: yě wèi [@xiǎogǒumen@] nánguò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>93224</StartMilliseconds>
+    <EndMilliseconds>94065</EndMilliseconds>
+    <Text>山姆：也为小狗们[@难过@]！
+Shānmǔ: yě wèi xiǎogǒumen [@nánguò@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>94064</StartMilliseconds>
+    <EndMilliseconds>104602</EndMilliseconds>
+    <Text>山姆：也为小狗们难过！
+Shānmǔ: yě wèi xiǎogǒumen nánguò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>104602</StartMilliseconds>
+    <EndMilliseconds>117101</EndMilliseconds>
+    <Text>山姆：啊！我有个好主意。
+Shānmǔ: Ā! Wǒ yǒu ge hǎo zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>117102</StartMilliseconds>
+    <EndMilliseconds>117853</EndMilliseconds>
+    <Text>山姆：[@啊@]！我有个好主意。
+Shānmǔ: [@Ā@]! Wǒ yǒu ge hǎo zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>117854</StartMilliseconds>
+    <EndMilliseconds>118258</EndMilliseconds>
+    <Text>山姆：啊！[@我@]有个好主意。
+Shānmǔ: Ā! [@Wǒ@] yǒu ge hǎo zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>118258</StartMilliseconds>
+    <EndMilliseconds>118439</EndMilliseconds>
+    <Text>山姆：啊！我[@有@]个好主意。
+Shānmǔ: Ā! Wǒ [@yǒu@] ge hǎo zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>118439</StartMilliseconds>
+    <EndMilliseconds>118586</EndMilliseconds>
+    <Text>山姆：啊！我有[@个@]好主意。
+Shānmǔ: Ā! Wǒ yǒu [@ge@] hǎo zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>118586</StartMilliseconds>
+    <EndMilliseconds>118918</EndMilliseconds>
+    <Text>山姆：啊！我有个[@好@]主意。
+Shānmǔ: Ā! Wǒ yǒu ge [@hǎo@] zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>118917</StartMilliseconds>
+    <EndMilliseconds>119567</EndMilliseconds>
+    <Text>山姆：啊！我有个好[@主意@]。
+Shānmǔ: Ā! Wǒ yǒu ge hǎo [@zhǔyi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>119568</StartMilliseconds>
+    <EndMilliseconds>120231</EndMilliseconds>
+    <Text>山姆：啊！我有个好主意。
+Shānmǔ: Ā! Wǒ yǒu ge hǎo zhǔyi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>120231</StartMilliseconds>
+    <EndMilliseconds>121346</EndMilliseconds>
+    <Text>山姆：呆在这儿。
+Shānmǔ: Dāizài zhèr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>121346</StartMilliseconds>
+    <EndMilliseconds>121770</EndMilliseconds>
+    <Text>山姆：[@呆在@]这儿。
+Shānmǔ: [@Dāizài@] zhèr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>121771</StartMilliseconds>
+    <EndMilliseconds>122146</EndMilliseconds>
+    <Text>山姆：呆在[@这儿@]。
+Shānmǔ: Dāizài [@zhèr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>122147</StartMilliseconds>
+    <EndMilliseconds>122340</EndMilliseconds>
+    <Text>山姆：呆在这儿。
+Shānmǔ: Dāizài zhèr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>122340</StartMilliseconds>
+    <EndMilliseconds>122404</EndMilliseconds>
+    <Text>山姆：我很快回来。
+Shānmǔ: Wǒ hěn kuài huílai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>122405</StartMilliseconds>
+    <EndMilliseconds>122608</EndMilliseconds>
+    <Text>山姆：[@我@]很快回来。
+Shānmǔ: [@Wǒ@] hěn kuài huílai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>122610</StartMilliseconds>
+    <EndMilliseconds>122819</EndMilliseconds>
+    <Text>山姆：我[@很@]快回来。
+Shānmǔ: Wǒ [@hěn@] kuài huílai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>122818</StartMilliseconds>
+    <EndMilliseconds>123212</EndMilliseconds>
+    <Text>山姆：我很[@快@]回来。
+Shānmǔ: Wǒ hěn [@kuài@] huílai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>123213</StartMilliseconds>
+    <EndMilliseconds>123898</EndMilliseconds>
+    <Text>山姆：我很快[@回来@]。
+Shānmǔ: Wǒ hěn kuài [@huílai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>123897</StartMilliseconds>
+    <EndMilliseconds>133718</EndMilliseconds>
+    <Text>山姆：我很快回来。
+Shānmǔ: Wǒ hěn kuài huílai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>133718</StartMilliseconds>
+    <EndMilliseconds>138089</EndMilliseconds>
+    <Text>妈妈：这里跟那些地方不一样！
+māma: Zhèli gēn nàxiē dìfang bù yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>138089</StartMilliseconds>
+    <EndMilliseconds>138702</EndMilliseconds>
+    <Text>妈妈：[@这里@]跟那些地方不一样！
+māma: [@Zhèli@] gēn nàxiē dìfang bù yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>138703</StartMilliseconds>
+    <EndMilliseconds>138917</EndMilliseconds>
+    <Text>妈妈：这里[@跟@]那些地方不一样！
+māma: Zhèli [@gēn@] nàxiē dìfang bù yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>138918</StartMilliseconds>
+    <EndMilliseconds>139224</EndMilliseconds>
+    <Text>妈妈：这里跟[@那些@]地方不一样！
+māma: Zhèli gēn [@nàxiē@] dìfang bù yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>139224</StartMilliseconds>
+    <EndMilliseconds>139947</EndMilliseconds>
+    <Text>妈妈：这里跟那些[@地方@]不一样！
+māma: Zhèli gēn nàxiē [@dìfang@] bù yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>139949</StartMilliseconds>
+    <EndMilliseconds>140267</EndMilliseconds>
+    <Text>妈妈：这里跟那些地方[@不@]一样！
+māma: Zhèli gēn nàxiē dìfang [@bù@] yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>140268</StartMilliseconds>
+    <EndMilliseconds>141018</EndMilliseconds>
+    <Text>妈妈：这里跟那些地方不[@一样@]！
+māma: Zhèli gēn nàxiē dìfang bù [@yíyàng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>141018</StartMilliseconds>
+    <EndMilliseconds>141386</EndMilliseconds>
+    <Text>妈妈：这里跟那些地方不一样！
+māma: Zhèli gēn nàxiē dìfang bù yíyàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>141386</StartMilliseconds>
+    <EndMilliseconds>142012</EndMilliseconds>
+    <Text>山姆：是的！这里欢迎所有的狗！
+Shānmǔ: Shìde! Zhèli huānyíng suǒyǒu de gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>142012</StartMilliseconds>
+    <EndMilliseconds>142952</EndMilliseconds>
+    <Text>山姆：[@是的@]！这里欢迎所有的狗！
+Shānmǔ: [@Shìde@]! Zhèli huānyíng suǒyǒu de gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>142952</StartMilliseconds>
+    <EndMilliseconds>143482</EndMilliseconds>
+    <Text>山姆：是的！[@这里@]欢迎所有的狗！
+Shānmǔ: Shìde! [@Zhèli@] huānyíng suǒyǒu de gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>143481</StartMilliseconds>
+    <EndMilliseconds>143961</EndMilliseconds>
+    <Text>山姆：是的！这里[@欢迎@]所有的狗！
+Shānmǔ: Shìde! Zhèli [@huānyíng@] suǒyǒu de gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>143962</StartMilliseconds>
+    <EndMilliseconds>144457</EndMilliseconds>
+    <Text>山姆：是的！这里欢迎[@所有@]的狗！
+Shānmǔ: Shìde! Zhèli huānyíng [@suǒyǒu@] de gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>144461</StartMilliseconds>
+    <EndMilliseconds>144685</EndMilliseconds>
+    <Text>山姆：是的！这里欢迎所有[@的@]狗！
+Shānmǔ: Shìde! Zhèli huānyíng suǒyǒu [@de@] gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>144686</StartMilliseconds>
+    <EndMilliseconds>145111</EndMilliseconds>
+    <Text>山姆：是的！这里欢迎所有的[@狗@]！
+Shānmǔ: Shìde! Zhèli huānyíng suǒyǒu de [@gǒu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>145112</StartMilliseconds>
+    <EndMilliseconds>145820</EndMilliseconds>
+    <Text>山姆：是的！这里欢迎所有的狗！
+Shānmǔ: Shìde! Zhèli huānyíng suǒyǒu de gǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>145820</StartMilliseconds>
+    <EndMilliseconds>147613</EndMilliseconds>
+    <Text>山姆：快进来，幸运！
+Shānmǔ: Kuài jìnlai, Xìngyùn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>147613</StartMilliseconds>
+    <EndMilliseconds>147934</EndMilliseconds>
+    <Text>山姆：[@快@]进来，幸运！
+Shānmǔ: [@Kuài@] jìnlai, Xìngyùn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>147934</StartMilliseconds>
+    <EndMilliseconds>148700</EndMilliseconds>
+    <Text>山姆：快[@进来@]，幸运！
+Shānmǔ: Kuài [@jìnlai@], Xìngyùn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>148701</StartMilliseconds>
+    <EndMilliseconds>149734</EndMilliseconds>
+    <Text>山姆：快进来，[@幸运@]！
+Shānmǔ: Kuài jìnlai, [@Xìngyùn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>149735</StartMilliseconds>
+    <EndMilliseconds>155485</EndMilliseconds>
+    <Text>山姆：快进来，幸运！
+Shānmǔ: Kuài jìnlai, Xìngyùn!</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10095</StartMilliseconds>
+    <EndMilliseconds>12896</EndMilliseconds>
+    <Text>苏：今天是星期一！
+Sū: Jīntiān shì xīngqīyī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12898</StartMilliseconds>
+    <EndMilliseconds>13507</EndMilliseconds>
+    <Text>苏：[@今天@]是星期一！
+Sū: [@Jīntiān@] shì xīngqīyī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13508</StartMilliseconds>
+    <EndMilliseconds>13727</EndMilliseconds>
+    <Text>苏：今天[@是@]星期一！
+Sū: Jīntiān [@shì@] xīngqīyī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13728</StartMilliseconds>
+    <EndMilliseconds>14468</EndMilliseconds>
+    <Text>苏：今天是[@星期一@]！
+Sū: Jīntiān shì [@xīngqīyī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14469</StartMilliseconds>
+    <EndMilliseconds>15231</EndMilliseconds>
+    <Text>苏：今天是星期一！
+Sū: Jīntiān shì xīngqīyī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15232</StartMilliseconds>
+    <EndMilliseconds>15408</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，今天是星期二！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15409</StartMilliseconds>
+    <EndMilliseconds>15808</EndMilliseconds>
+    <Text>马克西：[@不@]！昨天是星期一，今天是星期二！
+Mǎkèxī: [@Bù@]! Zuótiān shì xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15809</StartMilliseconds>
+    <EndMilliseconds>16173</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，今天是星期二！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16174</StartMilliseconds>
+    <EndMilliseconds>16660</EndMilliseconds>
+    <Text>马克西：不！[@昨天@]是星期一，今天是星期二！
+Mǎkèxī: Bù! [@Zuótiān@] shì xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16661</StartMilliseconds>
+    <EndMilliseconds>16850</EndMilliseconds>
+    <Text>马克西：不！昨天[@是@]星期一，今天是星期二！
+Mǎkèxī: Bù! Zuótiān [@shì@] xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16851</StartMilliseconds>
+    <EndMilliseconds>17642</EndMilliseconds>
+    <Text>马克西：不！昨天是[@星期一@]，今天是星期二！
+Mǎkèxī: Bù! Zuótiān shì [@xīngqīyī@], jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17643</StartMilliseconds>
+    <EndMilliseconds>18146</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，今天是星期二！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18147</StartMilliseconds>
+    <EndMilliseconds>18633</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，[@今天@]是星期二！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, [@jīntiān@] shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18634</StartMilliseconds>
+    <EndMilliseconds>18938</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，今天[@是@]星期二！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, jīntiān [@shì@] xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>18939</StartMilliseconds>
+    <EndMilliseconds>19872</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，今天是[@星期二@]！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, jīntiān shì [@xīngqī'èr@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19873</StartMilliseconds>
+    <EndMilliseconds>20921</EndMilliseconds>
+    <Text>马克西：不！昨天是星期一，今天是星期二！
+Mǎkèxī: Bù! Zuótiān shì xīngqīyī, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20922</StartMilliseconds>
+    <EndMilliseconds>21089</EndMilliseconds>
+    <Text>苏：星期二？哎呀。
+Sū: Xīngqī'èr? Āiyā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21090</StartMilliseconds>
+    <EndMilliseconds>22826</EndMilliseconds>
+    <Text>苏：[@星期二@]？哎呀。
+Sū: [@Xīngqī'èr@]? Āiyā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>22827</StartMilliseconds>
+    <EndMilliseconds>23455</EndMilliseconds>
+    <Text>苏：星期二？[@哎呀@]。
+Sū: Xīngqī'èr? [@Āiyā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>23456</StartMilliseconds>
+    <EndMilliseconds>27398</EndMilliseconds>
+    <Text>苏：星期二？哎呀。
+Sū: Xīngqī'èr? Āiyā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>27399</StartMilliseconds>
+    <EndMilliseconds>28230</EndMilliseconds>
+    <Text>亚历克斯：今天是星期三！
+Yàlìkèsī: Jīntiān shì xīngqīsān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>28231</StartMilliseconds>
+    <EndMilliseconds>28688</EndMilliseconds>
+    <Text>亚历克斯：[@今天@]是星期三！
+Yàlìkèsī: [@Jīntiān@] shì xīngqīsān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>28689</StartMilliseconds>
+    <EndMilliseconds>28955</EndMilliseconds>
+    <Text>亚历克斯：今天[@是@]星期三！
+Yàlìkèsī: Jīntiān [@shì@] xīngqīsān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>28956</StartMilliseconds>
+    <EndMilliseconds>29725</EndMilliseconds>
+    <Text>亚历克斯：今天是[@星期三@]！
+Yàlìkèsī: Jīntiān shì [@xīngqīsān@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>29726</StartMilliseconds>
+    <EndMilliseconds>29990</EndMilliseconds>
+    <Text>亚历克斯：今天是星期三！
+Yàlìkèsī: Jīntiān shì xīngqīsān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>29991</StartMilliseconds>
+    <EndMilliseconds>30100</EndMilliseconds>
+    <Text>亚历克斯：该去看医生了！
+Yàlìkèsī: Gāi qù kàn yīshēng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>30101</StartMilliseconds>
+    <EndMilliseconds>30314</EndMilliseconds>
+    <Text>亚历克斯：[@该@]去看医生了！
+Yàlìkèsī: [@Gāi@] qù kàn yīshēng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>30315</StartMilliseconds>
+    <EndMilliseconds>30465</EndMilliseconds>
+    <Text>亚历克斯：该[@去@]看医生了！
+Yàlìkèsī: Gāi [@qù@] kàn yīshēng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>30466</StartMilliseconds>
+    <EndMilliseconds>30702</EndMilliseconds>
+    <Text>亚历克斯：该去[@看@]医生了！
+Yàlìkèsī: Gāi qù [@kàn@] yīshēng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30703</StartMilliseconds>
+    <EndMilliseconds>31159</EndMilliseconds>
+    <Text>亚历克斯：该去看[@医生@]了！
+Yàlìkèsī: Gāi qù kàn [@yīshēng@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>31160</StartMilliseconds>
+    <EndMilliseconds>31384</EndMilliseconds>
+    <Text>亚历克斯：该去看医生[@了@]！
+Yàlìkèsī: Gāi qù kàn yīshēng [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>31385</StartMilliseconds>
+    <EndMilliseconds>32585</EndMilliseconds>
+    <Text>亚历克斯：该去看医生了！
+Yàlìkèsī: Gāi qù kàn yīshēng le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>32586</StartMilliseconds>
+    <EndMilliseconds>32728</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，今天是星期二！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>32729</StartMilliseconds>
+    <EndMilliseconds>33192</EndMilliseconds>
+    <Text>马克西：[@不@]！今天不是星期三，今天是星期二！
+Mǎkèxī: [@Bù@]! Jīntiān bú shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>33193</StartMilliseconds>
+    <EndMilliseconds>33529</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，今天是星期二！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>33530</StartMilliseconds>
+    <EndMilliseconds>34070</EndMilliseconds>
+    <Text>马克西：不！[@今天@]不是星期三，今天是星期二！
+Mǎkèxī: Bù! [@Jīntiān@] bú shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>34071</StartMilliseconds>
+    <EndMilliseconds>34281</EndMilliseconds>
+    <Text>马克西：不！今天[@不@]是星期三，今天是星期二！
+Mǎkèxī: Bù! Jīntiān [@bú@] shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>34282</StartMilliseconds>
+    <EndMilliseconds>34413</EndMilliseconds>
+    <Text>马克西：不！今天不[@是@]星期三，今天是星期二！
+Mǎkèxī: Bù! Jīntiān bú [@shì@] xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>34414</StartMilliseconds>
+    <EndMilliseconds>35229</EndMilliseconds>
+    <Text>马克西：不！今天不是[@星期三@]，今天是星期二！
+Mǎkèxī: Bù! Jīntiān bú shì [@xīngqīsān@], jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>35230</StartMilliseconds>
+    <EndMilliseconds>35681</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，今天是星期二！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>35682</StartMilliseconds>
+    <EndMilliseconds>36163</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，[@今天@]是星期二！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, [@jīntiān@] shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>36164</StartMilliseconds>
+    <EndMilliseconds>36403</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，今天[@是@]星期二！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, jīntiān [@shì@] xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>36404</StartMilliseconds>
+    <EndMilliseconds>37279</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，今天是[@星期二@]！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, jīntiān shì [@xīngqī'èr@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>37280</StartMilliseconds>
+    <EndMilliseconds>40356</EndMilliseconds>
+    <Text>马克西：不！今天不是星期三，今天是星期二！
+Mǎkèxī: Bù! Jīntiān bú shì xīngqīsān, jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>40357</StartMilliseconds>
+    <EndMilliseconds>42685</EndMilliseconds>
+    <Text>塔克：嘿，马克西！
+Tǎkè: Hēi, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>42686</StartMilliseconds>
+    <EndMilliseconds>43358</EndMilliseconds>
+    <Text>塔克：[@嘿@]，马克西！
+Tǎkè: [@Hēi@], Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>43359</StartMilliseconds>
+    <EndMilliseconds>44139</EndMilliseconds>
+    <Text>塔克：嘿，[@马克西@]！
+Tǎkè: Hēi, [@Mǎkèxī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>44140</StartMilliseconds>
+    <EndMilliseconds>44311</EndMilliseconds>
+    <Text>塔克：嘿，马克西！
+Tǎkè: Hēi, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>44312</StartMilliseconds>
+    <EndMilliseconds>44371</EndMilliseconds>
+    <Text>塔克：今天是星期几？
+Tǎkè: Jīntiān shì xīngqī jǐ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>44372</StartMilliseconds>
+    <EndMilliseconds>44972</EndMilliseconds>
+    <Text>塔克：[@今天@]是星期几？
+Tǎkè: [@Jīntiān@] shì xīngqī jǐ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>44973</StartMilliseconds>
+    <EndMilliseconds>45133</EndMilliseconds>
+    <Text>塔克：今天[@是@]星期几？
+Tǎkè: Jīntiān [@shì@] xīngqī jǐ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>45134</StartMilliseconds>
+    <EndMilliseconds>45537</EndMilliseconds>
+    <Text>塔克：今天是[@星期@]几？
+Tǎkè: Jīntiān shì [@xīngqī@] jǐ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>45538</StartMilliseconds>
+    <EndMilliseconds>46088</EndMilliseconds>
+    <Text>塔克：今天是星期[@几@]？
+Tǎkè: Jīntiān shì xīngqī [@jǐ@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>46089</StartMilliseconds>
+    <EndMilliseconds>47125</EndMilliseconds>
+    <Text>塔克：今天是星期几？
+Tǎkè: Jīntiān shì xīngqī jǐ?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>47126</StartMilliseconds>
+    <EndMilliseconds>47480</EndMilliseconds>
+    <Text>马克西：今天是星期二！
+Mǎkèxī: Jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>47481</StartMilliseconds>
+    <EndMilliseconds>48002</EndMilliseconds>
+    <Text>马克西：[@今天@]是星期二！
+Mǎkèxī: [@Jīntiān@] shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>48003</StartMilliseconds>
+    <EndMilliseconds>48470</EndMilliseconds>
+    <Text>马克西：今天[@是@]星期二！
+Mǎkèxī: Jīntiān [@shì@] xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>48471</StartMilliseconds>
+    <EndMilliseconds>49537</EndMilliseconds>
+    <Text>马克西：今天是[@星期二@]！
+Mǎkèxī: Jīntiān shì [@xīngqī'èr@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>49538</StartMilliseconds>
+    <EndMilliseconds>49915</EndMilliseconds>
+    <Text>马克西：今天是星期二！
+Mǎkèxī: Jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>49916</StartMilliseconds>
+    <EndMilliseconds>50029</EndMilliseconds>
+    <Text>马克西：不是星期一，
+Mǎkèxī: Bú shì xīngqīyī, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>50030</StartMilliseconds>
+    <EndMilliseconds>50297</EndMilliseconds>
+    <Text>马克西：[@不@]是星期一，
+Mǎkèxī: [@Bú@] shì xīngqīyī, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>50298</StartMilliseconds>
+    <EndMilliseconds>50576</EndMilliseconds>
+    <Text>马克西：不[@是@]星期一，
+Mǎkèxī: Bú [@shì@] xīngqīyī, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>50577</StartMilliseconds>
+    <EndMilliseconds>51625</EndMilliseconds>
+    <Text>马克西：不是[@星期一@]，
+Mǎkèxī: Bú shì [@xīngqīyī@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>51626</StartMilliseconds>
+    <EndMilliseconds>51942</EndMilliseconds>
+    <Text>马克西：不是星期一，
+Mǎkèxī: Bú shì xīngqīyī, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>51943</StartMilliseconds>
+    <EndMilliseconds>52114</EndMilliseconds>
+    <Text>马克西：不是星期三，
+Mǎkèxī: bú shì xīngqīsān, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>52115</StartMilliseconds>
+    <EndMilliseconds>52314</EndMilliseconds>
+    <Text>马克西：[@不@]是星期三，
+Mǎkèxī: [@bú@] shì xīngqīsān, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>52315</StartMilliseconds>
+    <EndMilliseconds>52563</EndMilliseconds>
+    <Text>马克西：不[@是@]星期三，
+Mǎkèxī: bú [@shì@] xīngqīsān, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>52564</StartMilliseconds>
+    <EndMilliseconds>53503</EndMilliseconds>
+    <Text>马克西：不是[@星期三@]，
+Mǎkèxī: bú shì [@xīngqīsān@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>53504</StartMilliseconds>
+    <EndMilliseconds>53855</EndMilliseconds>
+    <Text>马克西：不是星期三，
+Mǎkèxī: bú shì xīngqīsān, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>53856</StartMilliseconds>
+    <EndMilliseconds>53994</EndMilliseconds>
+    <Text>马克西：不是星期四，
+Mǎkèxī: bú shì xīngqīsì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>53995</StartMilliseconds>
+    <EndMilliseconds>54209</EndMilliseconds>
+    <Text>马克西：[@不@]是星期四，
+Mǎkèxī: [@bú@] shì xīngqīsì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>54210</StartMilliseconds>
+    <EndMilliseconds>54469</EndMilliseconds>
+    <Text>马克西：不[@是@]星期四，
+Mǎkèxī: bú [@shì@] xīngqīsì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>54470</StartMilliseconds>
+    <EndMilliseconds>55602</EndMilliseconds>
+    <Text>马克西：不是[@星期四@]，
+Mǎkèxī: bú shì [@xīngqīsì@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>55603</StartMilliseconds>
+    <EndMilliseconds>55910</EndMilliseconds>
+    <Text>马克西：不是星期四，
+Mǎkèxī: bú shì xīngqīsì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>55911</StartMilliseconds>
+    <EndMilliseconds>56059</EndMilliseconds>
+    <Text>马克西：不是星期五，
+Mǎkèxī: bú shì xīngqīwǔ,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>56060</StartMilliseconds>
+    <EndMilliseconds>56306</EndMilliseconds>
+    <Text>马克西：[@不@]是星期五，
+Mǎkèxī: [@bú@] shì xīngqīwǔ,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>56307</StartMilliseconds>
+    <EndMilliseconds>56487</EndMilliseconds>
+    <Text>马克西：不[@是@]星期五，
+Mǎkèxī: bú [@shì@] xīngqīwǔ,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>56488</StartMilliseconds>
+    <EndMilliseconds>57702</EndMilliseconds>
+    <Text>马克西：不是[@星期五@]，
+Mǎkèxī: bú shì [@xīngqīwǔ@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>57703</StartMilliseconds>
+    <EndMilliseconds>58010</EndMilliseconds>
+    <Text>马克西：不是星期五，
+Mǎkèxī: bú shì xīngqīwǔ,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>58011</StartMilliseconds>
+    <EndMilliseconds>58172</EndMilliseconds>
+    <Text>马克西：不是星期六，
+Mǎkèxī: bú shì xīngqīliù,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>58173</StartMilliseconds>
+    <EndMilliseconds>58394</EndMilliseconds>
+    <Text>马克西：[@不@]是星期六，
+Mǎkèxī: [@bú@] shì xīngqīliù,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>58395</StartMilliseconds>
+    <EndMilliseconds>58601</EndMilliseconds>
+    <Text>马克西：不[@是@]星期六，
+Mǎkèxī: bú [@shì@] xīngqīliù,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>58602</StartMilliseconds>
+    <EndMilliseconds>59654</EndMilliseconds>
+    <Text>马克西：不是[@星期六@]，
+Mǎkèxī: bú shì [@xīngqīliù@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>59655</StartMilliseconds>
+    <EndMilliseconds>59905</EndMilliseconds>
+    <Text>马克西：不是星期六，
+Mǎkèxī: bú shì xīngqīliù,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>59906</StartMilliseconds>
+    <EndMilliseconds>60029</EndMilliseconds>
+    <Text>马克西：也不是星期天。
+Mǎkèxī: yě bú shì xīngqītiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>60030</StartMilliseconds>
+    <EndMilliseconds>60339</EndMilliseconds>
+    <Text>马克西：[@也@]不是星期天。
+Mǎkèxī: [@yě@] bú shì xīngqītiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>60340</StartMilliseconds>
+    <EndMilliseconds>60511</EndMilliseconds>
+    <Text>马克西：也[@不@]是星期天。
+Mǎkèxī: yě [@bú@] shì xīngqītiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>60512</StartMilliseconds>
+    <EndMilliseconds>60657</EndMilliseconds>
+    <Text>马克西：也不[@是@]星期天。
+Mǎkèxī: yě bú [@shì@] xīngqītiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>60658</StartMilliseconds>
+    <EndMilliseconds>61768</EndMilliseconds>
+    <Text>马克西：也不是[@星期天@]。
+Mǎkèxī: yě bú shì [@xīngqītiān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>61769</StartMilliseconds>
+    <EndMilliseconds>62152</EndMilliseconds>
+    <Text>马克西：也不是星期天。
+Mǎkèxī: yě bú shì xīngqītiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>62153</StartMilliseconds>
+    <EndMilliseconds>62289</EndMilliseconds>
+    <Text>马克西：今天是星期二！
+Mǎkèxī: Jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>62290</StartMilliseconds>
+    <EndMilliseconds>62880</EndMilliseconds>
+    <Text>马克西：[@今天@]是星期二！
+Mǎkèxī: [@Jīntiān@] shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>62881</StartMilliseconds>
+    <EndMilliseconds>63429</EndMilliseconds>
+    <Text>马克西：今天[@是@]星期二！
+Mǎkèxī: Jīntiān [@shì@] xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>63430</StartMilliseconds>
+    <EndMilliseconds>64759</EndMilliseconds>
+    <Text>马克西：今天是[@星期二@]！
+Mǎkèxī: Jīntiān shì [@xīngqī'èr@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>64760</StartMilliseconds>
+    <EndMilliseconds>66465</EndMilliseconds>
+    <Text>马克西：今天是星期二！
+Mǎkèxī: Jīntiān shì xīngqī'èr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>66466</StartMilliseconds>
+    <EndMilliseconds>67001</EndMilliseconds>
+    <Text>塔克：好了！别喊得这么大声。
+Tǎkè: Hǎo le! Bié hǎn de zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>67002</StartMilliseconds>
+    <EndMilliseconds>67498</EndMilliseconds>
+    <Text>塔克：[@好@]了！别喊得这么大声。
+Tǎkè: [@Hǎo@] le! Bié hǎn de zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>67499</StartMilliseconds>
+    <EndMilliseconds>68082</EndMilliseconds>
+    <Text>塔克：好[@了@]！别喊得这么大声。
+Tǎkè: Hǎo [@le@]! Bié hǎn de zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>68083</StartMilliseconds>
+    <EndMilliseconds>68328</EndMilliseconds>
+    <Text>塔克：好了！[@别@]喊得这么大声。
+Tǎkè: Hǎo le![@ Bié@] hǎn de zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>68329</StartMilliseconds>
+    <EndMilliseconds>68658</EndMilliseconds>
+    <Text>塔克：好了！别[@喊@]得这么大声。
+Tǎkè: Hǎo le! Bié [@hǎn@] de zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>68659</StartMilliseconds>
+    <EndMilliseconds>68819</EndMilliseconds>
+    <Text>塔克：好了！别喊[@得@]这么大声。
+Tǎkè: Hǎo le! Bié hǎn [@de@] zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>68820</StartMilliseconds>
+    <EndMilliseconds>69158</EndMilliseconds>
+    <Text>塔克：好了！别喊得[@这么@]大声。
+Tǎkè: Hǎo le! Bié hǎn de [@zhème@] dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>69159</StartMilliseconds>
+    <EndMilliseconds>69489</EndMilliseconds>
+    <Text>塔克：好了！别喊得这么[@大@]声。
+Tǎkè: Hǎo le! Bié hǎn de zhème [@dà@] shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>69490</StartMilliseconds>
+    <EndMilliseconds>69826</EndMilliseconds>
+    <Text>塔克：好了！别喊得这么大[@声@]。
+Tǎkè: Hǎo le! Bié hǎn de zhème dà [@shēng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>69827</StartMilliseconds>
+    <EndMilliseconds>73347</EndMilliseconds>
+    <Text>塔克：好了！别喊得这么大声。
+Tǎkè: Hǎo le! Bié hǎn de zhème dà shēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>73348</StartMilliseconds>
+    <EndMilliseconds>73743</EndMilliseconds>
+    <Text>马克西：看！
+Mǎkèxī: Kàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>73744</StartMilliseconds>
+    <EndMilliseconds>74156</EndMilliseconds>
+    <Text>马克西：[@看@]！
+Mǎkèxī: [@Kàn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>74157</StartMilliseconds>
+    <EndMilliseconds>74861</EndMilliseconds>
+    <Text>马克西：看！
+Mǎkèxī: Kàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>74862</StartMilliseconds>
+    <EndMilliseconds>75143</EndMilliseconds>
+    <Text>马克西：今天是星期二，该浇花了。
+Mǎkèxī: Jīntiān shì xīngqī'èr, gāi jiāo huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>75144</StartMilliseconds>
+    <EndMilliseconds>75587</EndMilliseconds>
+    <Text>马克西：[@今天@]是星期二，该浇花了。
+Mǎkèxī: [@Jīntiān@] shì xīngqī'èr, gāi jiāo huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>75588</StartMilliseconds>
+    <EndMilliseconds>75884</EndMilliseconds>
+    <Text>马克西：今天[@是@]星期二，该浇花了。
+Mǎkèxī: Jīntiān [@shì@] xīngqī'èr, gāi jiāo huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>75885</StartMilliseconds>
+    <EndMilliseconds>76737</EndMilliseconds>
+    <Text>马克西：今天是[@星期二@]，该浇花了。
+Mǎkèxī: Jīntiān shì [@xīngqī'èr@], gāi jiāo huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>76738</StartMilliseconds>
+    <EndMilliseconds>77578</EndMilliseconds>
+    <Text>马克西：今天是星期二，该浇花了。
+Mǎkèxī: Jīntiān shì xīngqī'èr, gāi jiāo huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>77579</StartMilliseconds>
+    <EndMilliseconds>77788</EndMilliseconds>
+    <Text>马克西：今天是星期二，[@该@]浇花了。
+Mǎkèxī: Jīntiān shì xīngqī'èr, [@gāi@] jiāo huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>77789</StartMilliseconds>
+    <EndMilliseconds>78063</EndMilliseconds>
+    <Text>马克西：今天是星期二，该[@浇@]花了。
+Mǎkèxī: Jīntiān shì xīngqī'èr, gāi [@jiāo@] huā le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>78064</StartMilliseconds>
+    <EndMilliseconds>78374</EndMilliseconds>
+    <Text>马克西：今天是星期二，该浇[@花@]了。
+Mǎkèxī: Jīntiān shì xīngqī'èr, gāi jiāo [@huā@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>78375</StartMilliseconds>
+    <EndMilliseconds>78681</EndMilliseconds>
+    <Text>马克西：今天是星期二，该浇花[@了@]。
+Mǎkèxī: Jīntiān shì xīngqī'èr, gāi jiāo huā [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>78682</StartMilliseconds>
+    <EndMilliseconds>84190</EndMilliseconds>
+    <Text>马克西：今天是星期二，该浇花了。
+Mǎkèxī: Jīntiān shì xīngqī'èr, gāi jiāo huā le.</Text>
+  </Paragraph>
+</Subtitle>

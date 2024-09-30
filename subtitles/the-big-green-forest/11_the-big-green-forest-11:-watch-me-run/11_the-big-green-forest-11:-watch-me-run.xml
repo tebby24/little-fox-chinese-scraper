@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13120</StartMilliseconds>
+    <EndMilliseconds>18896</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎo.
+兔子：看我跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>18897</StartMilliseconds>
+    <EndMilliseconds>19160</EndMilliseconds>
+    <Text>tùzi: [@Kàn@] wǒ pǎo.
+兔子：[@看@]我跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>19161</StartMilliseconds>
+    <EndMilliseconds>19512</EndMilliseconds>
+    <Text>tùzi: Kàn [@wǒ@] pǎo.
+兔子：看[@我@]跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>19513</StartMilliseconds>
+    <EndMilliseconds>20397</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ [@pǎo@].
+兔子：看我[@跑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>20398</StartMilliseconds>
+    <EndMilliseconds>30616</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎo.
+兔子：看我跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>30617</StartMilliseconds>
+    <EndMilliseconds>33768</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng ràozhe shítou pǎo ma?
+青蛙：你能绕着石头跑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>33769</StartMilliseconds>
+    <EndMilliseconds>34172</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] néng ràozhe shítou pǎo ma?
+青蛙：[@你@]能绕着石头跑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>34173</StartMilliseconds>
+    <EndMilliseconds>34589</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@néng@] ràozhe shítou pǎo ma?
+青蛙：你[@能@]绕着石头跑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>34590</StartMilliseconds>
+    <EndMilliseconds>35164</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng [@ràozhe@] shítou pǎo ma?
+青蛙：你能[@绕着@]石头跑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>35165</StartMilliseconds>
+    <EndMilliseconds>35831</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng ràozhe [@shítou@] pǎo ma?
+青蛙：你能绕着[@石头@]跑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>35832</StartMilliseconds>
+    <EndMilliseconds>36185</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng ràozhe shítou [@pǎo@] ma?
+青蛙：你能绕着石头[@跑@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>36186</StartMilliseconds>
+    <EndMilliseconds>36728</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng ràozhe shítou pǎo [@ma@]?
+青蛙：你能绕着石头跑[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>36729</StartMilliseconds>
+    <EndMilliseconds>36899</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng ràozhe shítou pǎo ma?
+青蛙：你能绕着石头跑吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>36900</StartMilliseconds>
+    <EndMilliseconds>37532</EndMilliseconds>
+    <Text>tùzi: Wǒ néng ràozhe shítou pǎo.
+兔子：我能绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>37533</StartMilliseconds>
+    <EndMilliseconds>38007</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] néng ràozhe shítou pǎo.
+兔子：[@我@]能绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>38008</StartMilliseconds>
+    <EndMilliseconds>38306</EndMilliseconds>
+    <Text>tùzi: Wǒ [@néng@] ràozhe shítou pǎo.
+兔子：我[@能@]绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>38307</StartMilliseconds>
+    <EndMilliseconds>38850</EndMilliseconds>
+    <Text>tùzi: Wǒ néng [@ràozhe@] shítou pǎo.
+兔子：我能[@绕着@]石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>38852</StartMilliseconds>
+    <EndMilliseconds>39537</EndMilliseconds>
+    <Text>tùzi: Wǒ néng ràozhe [@shítou@] pǎo.
+兔子：我能绕着[@石头@]跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>39538</StartMilliseconds>
+    <EndMilliseconds>40246</EndMilliseconds>
+    <Text>tùzi: Wǒ néng ràozhe shítou [@pǎo@].
+兔子：我能绕着石头[@跑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>40247</StartMilliseconds>
+    <EndMilliseconds>40759</EndMilliseconds>
+    <Text>tùzi: Wǒ néng ràozhe shítou pǎo.
+兔子：我能绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>40760</StartMilliseconds>
+    <EndMilliseconds>41602</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ ràozhe shítou pǎo.
+兔子：看我绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>41603</StartMilliseconds>
+    <EndMilliseconds>41830</EndMilliseconds>
+    <Text>tùzi: [@Kàn@] wǒ ràozhe shítou pǎo.
+兔子：[@看@]我绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>41831</StartMilliseconds>
+    <EndMilliseconds>42640</EndMilliseconds>
+    <Text>tùzi: Kàn [@wǒ@] ràozhe shítou pǎo.
+兔子：看[@我@]绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>42641</StartMilliseconds>
+    <EndMilliseconds>43254</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ [@ràozhe@] shítou pǎo.
+兔子：看我[@绕着@]石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>43261</StartMilliseconds>
+    <EndMilliseconds>43765</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ ràozhe [@shítou@] pǎo.
+兔子：看我绕着[@石头@]跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>43766</StartMilliseconds>
+    <EndMilliseconds>44449</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ ràozhe shítou [@pǎo@].
+兔子：看我绕着石头[@跑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>44450</StartMilliseconds>
+    <EndMilliseconds>56392</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ ràozhe shítou pǎo.
+兔子：看我绕着石头跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>56393</StartMilliseconds>
+    <EndMilliseconds>62614</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoshàng shānpō ma?
+青蛙：你能跑上山坡吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>62615</StartMilliseconds>
+    <EndMilliseconds>62864</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] néng pǎoshàng shānpō ma?
+青蛙：[@你@]能跑上山坡吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>62865</StartMilliseconds>
+    <EndMilliseconds>63353</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@néng@] pǎoshàng shānpō ma?
+青蛙：你[@能@]跑上山坡吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>63354</StartMilliseconds>
+    <EndMilliseconds>64145</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng [@pǎoshàng@] shānpō ma?
+青蛙：你能[@跑上@]山坡吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>64146</StartMilliseconds>
+    <EndMilliseconds>64907</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoshàng [@shānpō@] ma?
+青蛙：你能跑上[@山坡@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>64908</StartMilliseconds>
+    <EndMilliseconds>65398</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoshàng shānpō [@ma@]?
+青蛙：你能跑上山坡[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>65399</StartMilliseconds>
+    <EndMilliseconds>66033</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoshàng shānpō ma?
+青蛙：你能跑上山坡吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>66034</StartMilliseconds>
+    <EndMilliseconds>66608</EndMilliseconds>
+    <Text>tùzi: Wǒ néng pǎoshàng shānpō.
+兔子：我能跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>66609</StartMilliseconds>
+    <EndMilliseconds>66877</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] néng pǎoshàng shānpō.
+兔子：[@我@]能跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>66878</StartMilliseconds>
+    <EndMilliseconds>67411</EndMilliseconds>
+    <Text>tùzi: Wǒ [@néng@] pǎoshàng shānpō.
+兔子：我[@能@]跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>67412</StartMilliseconds>
+    <EndMilliseconds>67969</EndMilliseconds>
+    <Text>tùzi: Wǒ néng [@pǎoshàng@] shānpō.
+兔子：我能[@跑上@]山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>67970</StartMilliseconds>
+    <EndMilliseconds>69091</EndMilliseconds>
+    <Text>tùzi: Wǒ néng pǎoshàng [@shānpō@].
+兔子：我能跑上[@山坡@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>69092</StartMilliseconds>
+    <EndMilliseconds>69991</EndMilliseconds>
+    <Text>tùzi: Wǒ néng pǎoshàng shānpō.
+兔子：我能跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>69992</StartMilliseconds>
+    <EndMilliseconds>70667</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎoshàng shānpō.
+兔子：看我跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>70668</StartMilliseconds>
+    <EndMilliseconds>70967</EndMilliseconds>
+    <Text>tùzi: [@Kàn@] wǒ pǎoshàng shānpō.
+兔子：[@看@]我跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>70968</StartMilliseconds>
+    <EndMilliseconds>71655</EndMilliseconds>
+    <Text>tùzi: Kàn [@wǒ@] pǎoshàng shānpō.
+兔子：看[@我@]跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>71656</StartMilliseconds>
+    <EndMilliseconds>72369</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ [@pǎoshàng@] shānpō.
+兔子：看我[@跑上@]山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>72370</StartMilliseconds>
+    <EndMilliseconds>73201</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎoshàng [@shānpō@].
+兔子：看我跑上[@山坡@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>73202</StartMilliseconds>
+    <EndMilliseconds>89196</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎoshàng shānpō.
+兔子：看我跑上山坡。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>89197</StartMilliseconds>
+    <EndMilliseconds>92440</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoguò shùzhuāng ma?
+青蛙：你能跑过树桩吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>92441</StartMilliseconds>
+    <EndMilliseconds>92643</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] néng pǎoguò shùzhuāng ma?
+青蛙：[@你@]能跑过树桩吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>92644</StartMilliseconds>
+    <EndMilliseconds>93022</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@néng@] pǎoguò shùzhuāng ma?
+青蛙：你[@能@]跑过树桩吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>93023</StartMilliseconds>
+    <EndMilliseconds>93735</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng [@pǎoguò@] shùzhuāng ma?
+青蛙：你能[@跑过@]树桩吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>93736</StartMilliseconds>
+    <EndMilliseconds>94383</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoguò [@shùzhuāng@] ma?
+青蛙：你能跑过[@树桩@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>94384</StartMilliseconds>
+    <EndMilliseconds>94932</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoguò shùzhuāng [@ma@]?
+青蛙：你能跑过树桩[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>94933</StartMilliseconds>
+    <EndMilliseconds>99617</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng pǎoguò shùzhuāng ma?
+青蛙：你能跑过树桩吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>99618</StartMilliseconds>
+    <EndMilliseconds>100239</EndMilliseconds>
+    <Text>tùzi: Wǒ néng pǎoguò shùzhuāng.
+兔子：我能跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>100240</StartMilliseconds>
+    <EndMilliseconds>100512</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] néng pǎoguò shùzhuāng.
+兔子：[@我@]能跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>100513</StartMilliseconds>
+    <EndMilliseconds>101015</EndMilliseconds>
+    <Text>tùzi: Wǒ [@néng@] pǎoguò shùzhuāng.
+兔子：我[@能@]跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>101016</StartMilliseconds>
+    <EndMilliseconds>101846</EndMilliseconds>
+    <Text>tùzi: Wǒ néng [@pǎoguò@] shùzhuāng.
+兔子：我能[@跑过@]树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>101847</StartMilliseconds>
+    <EndMilliseconds>102642</EndMilliseconds>
+    <Text>tùzi: Wǒ néng pǎoguò [@shùzhuāng@].
+兔子：我能跑过[@树桩@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>102643</StartMilliseconds>
+    <EndMilliseconds>103395</EndMilliseconds>
+    <Text>tùzi: Wǒ néng pǎoguò shùzhuāng.
+兔子：我能跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>103396</StartMilliseconds>
+    <EndMilliseconds>104327</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎoguò shùzhuāng.
+兔子：看我跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>104328</StartMilliseconds>
+    <EndMilliseconds>104588</EndMilliseconds>
+    <Text>tùzi: [@Kàn@] wǒ pǎoguò shùzhuāng.
+兔子：[@看@]我跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>104589</StartMilliseconds>
+    <EndMilliseconds>105129</EndMilliseconds>
+    <Text>tùzi: Kàn [@wǒ@] pǎoguò shùzhuāng.
+兔子：看[@我@]跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>105130</StartMilliseconds>
+    <EndMilliseconds>105794</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ [@pǎoguò@] shùzhuāng.
+兔子：看我[@跑过@]树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>105795</StartMilliseconds>
+    <EndMilliseconds>106469</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎoguò [@shùzhuāng@].
+兔子：看我跑过[@树桩@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>106470</StartMilliseconds>
+    <EndMilliseconds>114343</EndMilliseconds>
+    <Text>tùzi: Kàn wǒ pǎoguò shùzhuāng.
+兔子：看我跑过树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>114344</StartMilliseconds>
+    <EndMilliseconds>115223</EndMilliseconds>
+    <Text>yú: Wā!
+鱼：哇！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>115224</StartMilliseconds>
+    <EndMilliseconds>115812</EndMilliseconds>
+    <Text>yú: [@Wā@]!
+鱼：[@哇@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>115813</StartMilliseconds>
+    <EndMilliseconds>118949</EndMilliseconds>
+    <Text>yú: Wā!
+鱼：哇！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>118950</StartMilliseconds>
+    <EndMilliseconds>119459</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng yóu yǒng ma?
+青蛙：你能游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>119460</StartMilliseconds>
+    <EndMilliseconds>119727</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] néng yóu yǒng ma?
+青蛙：[@你@]能游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>119728</StartMilliseconds>
+    <EndMilliseconds>120144</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@néng@] yóu yǒng ma?
+青蛙：你[@能@]游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>120145</StartMilliseconds>
+    <EndMilliseconds>120461</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng [@yóu@] yǒng ma?
+青蛙：你能[@游@]泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>120462</StartMilliseconds>
+    <EndMilliseconds>120778</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng yóu [@yǒng@] ma?
+青蛙：你能游[@泳@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>120779</StartMilliseconds>
+    <EndMilliseconds>121421</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng yóu yǒng [@ma@]?
+青蛙：你能游泳[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>121422</StartMilliseconds>
+    <EndMilliseconds>122355</EndMilliseconds>
+    <Text>qīngwā: Nǐ néng yóu yǒng ma?
+青蛙：你能游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>122356</StartMilliseconds>
+    <EndMilliseconds>123210</EndMilliseconds>
+    <Text>tùzi: Wǒ néng yóu yǒng.
+兔子：我能游泳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>123211</StartMilliseconds>
+    <EndMilliseconds>123523</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] néng yóu yǒng.
+兔子：[@我@]能游泳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>123524</StartMilliseconds>
+    <EndMilliseconds>123958</EndMilliseconds>
+    <Text>tùzi: Wǒ [@néng@] yóu yǒng.
+兔子：我[@能@]游泳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>123959</StartMilliseconds>
+    <EndMilliseconds>124322</EndMilliseconds>
+    <Text>tùzi: Wǒ néng [@yóu@] yǒng.
+兔子：我能[@游@]泳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>124323</StartMilliseconds>
+    <EndMilliseconds>124987</EndMilliseconds>
+    <Text>tùzi: Wǒ néng yóu [@yǒng@].
+兔子：我能游[@泳@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>124988</StartMilliseconds>
+    <EndMilliseconds>135819</EndMilliseconds>
+    <Text>tùzi: Wǒ néng yóu yǒng.
+兔子：我能游泳。</Text>
+  </Paragraph>
+</Subtitle>

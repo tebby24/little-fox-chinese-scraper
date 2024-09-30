@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6698</StartMilliseconds>
+    <EndMilliseconds>11179</EndMilliseconds>
+    <Text>我十岁了。
+Wǒ shí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11180</StartMilliseconds>
+    <EndMilliseconds>11545</EndMilliseconds>
+    <Text>[@我@]十岁了。
+[@Wǒ@] shí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>11546</StartMilliseconds>
+    <EndMilliseconds>11873</EndMilliseconds>
+    <Text>我[@十@]岁了。
+Wǒ [@shí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11874</StartMilliseconds>
+    <EndMilliseconds>12234</EndMilliseconds>
+    <Text>我十[@岁@]了。
+Wǒ shí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12235</StartMilliseconds>
+    <EndMilliseconds>12703</EndMilliseconds>
+    <Text>我十岁[@了@]。
+Wǒ shí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12704</StartMilliseconds>
+    <EndMilliseconds>13858</EndMilliseconds>
+    <Text>我十岁了。
+Wǒ shí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13859</StartMilliseconds>
+    <EndMilliseconds>15347</EndMilliseconds>
+    <Text>我的表哥二十岁了。
+Wǒ de biǎogē èrshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15348</StartMilliseconds>
+    <EndMilliseconds>15649</EndMilliseconds>
+    <Text>[@我@]的表哥二十岁了。
+[@Wǒ@] de biǎogē èrshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15650</StartMilliseconds>
+    <EndMilliseconds>15876</EndMilliseconds>
+    <Text>我[@的@]表哥二十岁了。
+Wǒ [@de@] biǎogē èrshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15877</StartMilliseconds>
+    <EndMilliseconds>16773</EndMilliseconds>
+    <Text>我的[@表哥@]二十岁了。
+Wǒ de [@biǎogē@] èrshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16774</StartMilliseconds>
+    <EndMilliseconds>17589</EndMilliseconds>
+    <Text>我的表哥[@二十@]岁了。
+Wǒ de biǎogē [@èrshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17590</StartMilliseconds>
+    <EndMilliseconds>17960</EndMilliseconds>
+    <Text>我的表哥二十[@岁@]了。
+Wǒ de biǎogē èrshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17961</StartMilliseconds>
+    <EndMilliseconds>18397</EndMilliseconds>
+    <Text>我的表哥二十岁[@了@]。
+Wǒ de biǎogē èrshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18398</StartMilliseconds>
+    <EndMilliseconds>19047</EndMilliseconds>
+    <Text>我的表哥二十岁了。
+Wǒ de biǎogē èrshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19048</StartMilliseconds>
+    <EndMilliseconds>23628</EndMilliseconds>
+    <Text>我的妈妈三十岁了。
+Wǒ de māma sānshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>23629</StartMilliseconds>
+    <EndMilliseconds>23985</EndMilliseconds>
+    <Text>[@我@]的妈妈三十岁了。
+[@Wǒ@] de māma sānshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>23986</StartMilliseconds>
+    <EndMilliseconds>24275</EndMilliseconds>
+    <Text>我[@的@]妈妈三十岁了。
+Wǒ [@de@] māma sānshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>24276</StartMilliseconds>
+    <EndMilliseconds>25114</EndMilliseconds>
+    <Text>我的[@妈妈@]三十岁了。
+Wǒ de [@māma@] sānshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>25115</StartMilliseconds>
+    <EndMilliseconds>26010</EndMilliseconds>
+    <Text>我的妈妈[@三十@]岁了。
+Wǒ de māma [@sānshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>26011</StartMilliseconds>
+    <EndMilliseconds>26436</EndMilliseconds>
+    <Text>我的妈妈三十[@岁@]了。
+Wǒ de māma sānshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>26437</StartMilliseconds>
+    <EndMilliseconds>26738</EndMilliseconds>
+    <Text>我的妈妈三十岁[@了@]。
+Wǒ de māma sānshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26739</StartMilliseconds>
+    <EndMilliseconds>28367</EndMilliseconds>
+    <Text>我的妈妈三十岁了。
+Wǒ de māma sānshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>28368</StartMilliseconds>
+    <EndMilliseconds>30364</EndMilliseconds>
+    <Text>我的爸爸四十岁了。
+Wǒ de bàba sìshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>30365</StartMilliseconds>
+    <EndMilliseconds>30727</EndMilliseconds>
+    <Text>[@我@]的爸爸四十岁了。
+[@Wǒ@] de bàba sìshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>30728</StartMilliseconds>
+    <EndMilliseconds>30966</EndMilliseconds>
+    <Text>我[@的@]爸爸四十岁了。
+Wǒ [@de@] bàba sìshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>30967</StartMilliseconds>
+    <EndMilliseconds>31844</EndMilliseconds>
+    <Text>我的[@爸爸@]四十岁了。
+Wǒ de [@bàba@] sìshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>31845</StartMilliseconds>
+    <EndMilliseconds>32755</EndMilliseconds>
+    <Text>我的爸爸[@四十@]岁了。
+Wǒ de bàba [@sìshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>32756</StartMilliseconds>
+    <EndMilliseconds>33142</EndMilliseconds>
+    <Text>我的爸爸四十[@岁@]了。
+Wǒ de bàba sìshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>33143</StartMilliseconds>
+    <EndMilliseconds>33499</EndMilliseconds>
+    <Text>我的爸爸四十岁[@了@]。
+Wǒ de bàba sìshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>33500</StartMilliseconds>
+    <EndMilliseconds>34242</EndMilliseconds>
+    <Text>我的爸爸四十岁了。
+Wǒ de bàba sìshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>34243</StartMilliseconds>
+    <EndMilliseconds>36042</EndMilliseconds>
+    <Text>我的姑姑五十岁了。
+Wǒ de gūgu wǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36043</StartMilliseconds>
+    <EndMilliseconds>36456</EndMilliseconds>
+    <Text>[@我@]的姑姑五十岁了。
+[@Wǒ@] de gūgu wǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>36457</StartMilliseconds>
+    <EndMilliseconds>36787</EndMilliseconds>
+    <Text>我[@的@]姑姑五十岁了。
+Wǒ [@de@] gūgu wǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>36788</StartMilliseconds>
+    <EndMilliseconds>37777</EndMilliseconds>
+    <Text>我的[@姑姑@]五十岁了。
+Wǒ de [@gūgu@] wǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>37778</StartMilliseconds>
+    <EndMilliseconds>38518</EndMilliseconds>
+    <Text>我的姑姑[@五十@]岁了。
+Wǒ de gūgu [@wǔshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38519</StartMilliseconds>
+    <EndMilliseconds>38935</EndMilliseconds>
+    <Text>我的姑姑五十[@岁@]了。
+Wǒ de gūgu wǔshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>38936</StartMilliseconds>
+    <EndMilliseconds>39282</EndMilliseconds>
+    <Text>我的姑姑五十岁[@了@]。
+Wǒ de gūgu wǔshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>39283</StartMilliseconds>
+    <EndMilliseconds>40188</EndMilliseconds>
+    <Text>我的姑姑五十岁了。
+Wǒ de gūgu wǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>40189</StartMilliseconds>
+    <EndMilliseconds>40767</EndMilliseconds>
+    <Text>我的姑父六十岁了。
+Wǒ de gūfu liùshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>40768</StartMilliseconds>
+    <EndMilliseconds>41152</EndMilliseconds>
+    <Text>[@我@]的姑父六十岁了。
+[@Wǒ@] de gūfu liùshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>41153</StartMilliseconds>
+    <EndMilliseconds>41458</EndMilliseconds>
+    <Text>我[@的@]姑父六十岁了。
+Wǒ [@de@] gūfu liùshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>41459</StartMilliseconds>
+    <EndMilliseconds>42449</EndMilliseconds>
+    <Text>我的[@姑父@]六十岁了。
+Wǒ de [@gūfu@] liùshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>42450</StartMilliseconds>
+    <EndMilliseconds>43242</EndMilliseconds>
+    <Text>我的姑父[@六十@]岁了。
+Wǒ de gūfu [@liùshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>43243</StartMilliseconds>
+    <EndMilliseconds>43645</EndMilliseconds>
+    <Text>我的姑父六十[@岁@]了。
+Wǒ de gūfu liùshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>43646</StartMilliseconds>
+    <EndMilliseconds>44128</EndMilliseconds>
+    <Text>我的姑父六十岁[@了@]。
+Wǒ de gūfu liùshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>44129</StartMilliseconds>
+    <EndMilliseconds>45963</EndMilliseconds>
+    <Text>我的姑父六十岁了。
+Wǒ de gūfu liùshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>45964</StartMilliseconds>
+    <EndMilliseconds>48507</EndMilliseconds>
+    <Text>我的奶奶七十岁了。
+Wǒ de nǎinai qīshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>48508</StartMilliseconds>
+    <EndMilliseconds>48971</EndMilliseconds>
+    <Text>[@我@]的奶奶七十岁了。
+[@Wǒ@] de nǎinai qīshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>48972</StartMilliseconds>
+    <EndMilliseconds>49201</EndMilliseconds>
+    <Text>我[@的@]奶奶七十岁了。
+Wǒ [@de@] nǎinai qīshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>49202</StartMilliseconds>
+    <EndMilliseconds>50246</EndMilliseconds>
+    <Text>我的[@奶奶@]七十岁了。
+Wǒ de [@nǎinai@] qīshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>50247</StartMilliseconds>
+    <EndMilliseconds>51071</EndMilliseconds>
+    <Text>我的奶奶[@七十@]岁了。
+Wǒ de nǎinai [@qīshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>51072</StartMilliseconds>
+    <EndMilliseconds>51432</EndMilliseconds>
+    <Text>我的奶奶七十[@岁@]了。
+Wǒ de nǎinai qīshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>51433</StartMilliseconds>
+    <EndMilliseconds>51848</EndMilliseconds>
+    <Text>我的奶奶七十岁[@了@]。
+Wǒ de nǎinai qīshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>51849</StartMilliseconds>
+    <EndMilliseconds>52817</EndMilliseconds>
+    <Text>我的奶奶七十岁了。
+Wǒ de nǎinai qīshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>52818</StartMilliseconds>
+    <EndMilliseconds>54095</EndMilliseconds>
+    <Text>我的爷爷八十岁了。
+Wǒ de yéye bāshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>54096</StartMilliseconds>
+    <EndMilliseconds>54564</EndMilliseconds>
+    <Text>[@我@]的爷爷八十岁了。
+[@Wǒ@] de yéye bāshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>54565</StartMilliseconds>
+    <EndMilliseconds>54821</EndMilliseconds>
+    <Text>我[@的@]爷爷八十岁了。
+Wǒ [@de@] yéye bāshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>54822</StartMilliseconds>
+    <EndMilliseconds>55871</EndMilliseconds>
+    <Text>我的[@爷爷@]八十岁了。
+Wǒ de [@yéye@] bāshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>55872</StartMilliseconds>
+    <EndMilliseconds>56598</EndMilliseconds>
+    <Text>我的爷爷[@八十@]岁了。
+Wǒ de yéye [@bāshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>56599</StartMilliseconds>
+    <EndMilliseconds>56994</EndMilliseconds>
+    <Text>我的爷爷八十[@岁@]了。
+Wǒ de yéye bāshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>56995</StartMilliseconds>
+    <EndMilliseconds>57442</EndMilliseconds>
+    <Text>我的爷爷八十岁[@了@]。
+Wǒ de yéye bāshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>57443</StartMilliseconds>
+    <EndMilliseconds>58446</EndMilliseconds>
+    <Text>我的爷爷八十岁了。
+Wǒ de yéye bāshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>58447</StartMilliseconds>
+    <EndMilliseconds>59829</EndMilliseconds>
+    <Text>我的外曾祖母九十岁了。
+Wǒ de wàizēngzǔmǔ jiǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>59830</StartMilliseconds>
+    <EndMilliseconds>60229</EndMilliseconds>
+    <Text>[@我@]的外曾祖母九十岁了。
+[@Wǒ@] de wàizēngzǔmǔ jiǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>60230</StartMilliseconds>
+    <EndMilliseconds>60779</EndMilliseconds>
+    <Text>我[@的@]外曾祖母九十岁了。
+Wǒ [@de@] wàizēngzǔmǔ jiǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>60780</StartMilliseconds>
+    <EndMilliseconds>62487</EndMilliseconds>
+    <Text>我的[@外曾祖母@]九十岁了。
+Wǒ de [@wàizēngzǔmǔ@] jiǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>62488</StartMilliseconds>
+    <EndMilliseconds>63282</EndMilliseconds>
+    <Text>我的外曾祖母[@九十@]岁了。
+Wǒ de wàizēngzǔmǔ [@jiǔshí@] suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>63283</StartMilliseconds>
+    <EndMilliseconds>63698</EndMilliseconds>
+    <Text>我的外曾祖母九十[@岁@]了。
+Wǒ de wàizēngzǔmǔ jiǔshí [@suì@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>63699</StartMilliseconds>
+    <EndMilliseconds>64096</EndMilliseconds>
+    <Text>我的外曾祖母九十岁[@了@]。
+Wǒ de wàizēngzǔmǔ jiǔshí suì [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>64097</StartMilliseconds>
+    <EndMilliseconds>65180</EndMilliseconds>
+    <Text>我的外曾祖母九十岁了。
+Wǒ de wàizēngzǔmǔ jiǔshí suì le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>65181</StartMilliseconds>
+    <EndMilliseconds>70411</EndMilliseconds>
+    <Text>我的鹦鹉一百岁了！
+Wǒ de yīngwǔ yìbǎi suì le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>70412</StartMilliseconds>
+    <EndMilliseconds>70808</EndMilliseconds>
+    <Text>[@我@]的鹦鹉一百岁了！
+[@Wǒ@] de yīngwǔ yìbǎi suì le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>70809</StartMilliseconds>
+    <EndMilliseconds>71096</EndMilliseconds>
+    <Text>我[@的@]鹦鹉一百岁了！
+Wǒ [@de@] yīngwǔ yìbǎi suì le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>71097</StartMilliseconds>
+    <EndMilliseconds>72258</EndMilliseconds>
+    <Text>我的[@鹦鹉@]一百岁了！
+Wǒ de [@yīngwǔ@] yìbǎi suì le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>72259</StartMilliseconds>
+    <EndMilliseconds>72979</EndMilliseconds>
+    <Text>我的鹦鹉[@一百@]岁了！
+Wǒ de yīngwǔ [@yìbǎi@] suì le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>72980</StartMilliseconds>
+    <EndMilliseconds>73414</EndMilliseconds>
+    <Text>我的鹦鹉一百[@岁@]了！
+Wǒ de yīngwǔ yìbǎi [@suì@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>73415</StartMilliseconds>
+    <EndMilliseconds>73786</EndMilliseconds>
+    <Text>我的鹦鹉一百岁[@了@]！
+Wǒ de yīngwǔ yìbǎi suì [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>73787</StartMilliseconds>
+    <EndMilliseconds>74797</EndMilliseconds>
+    <Text>我的鹦鹉一百岁了！
+Wǒ de yīngwǔ yìbǎi suì le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>74798</StartMilliseconds>
+    <EndMilliseconds>75592</EndMilliseconds>
+    <Text>它是最老的！
+Tā shì zuì lǎo de!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>75593</StartMilliseconds>
+    <EndMilliseconds>75899</EndMilliseconds>
+    <Text>[@它@]是最老的！
+[@Tā@] shì zuì lǎo de!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>75900</StartMilliseconds>
+    <EndMilliseconds>76404</EndMilliseconds>
+    <Text>它[@是@]最老的！
+Tā [@shì@] zuì lǎo de!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>76405</StartMilliseconds>
+    <EndMilliseconds>76884</EndMilliseconds>
+    <Text>它是[@最@]老的！
+Tā shì [@zuì@] lǎo de!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>76885</StartMilliseconds>
+    <EndMilliseconds>77318</EndMilliseconds>
+    <Text>它是最[@老@]的！
+Tā shì zuì [@lǎo@] de!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>77319</StartMilliseconds>
+    <EndMilliseconds>77618</EndMilliseconds>
+    <Text>它是最老[@的@]！
+Tā shì zuì lǎo [@de@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>77619</StartMilliseconds>
+    <EndMilliseconds>77721</EndMilliseconds>
+    <Text>它是最老的！
+Tā shì zuì lǎo de!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>77722</StartMilliseconds>
+    <EndMilliseconds>77861</EndMilliseconds>
+    <Text>“你好！”
+"Nǐ hǎo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>77862</StartMilliseconds>
+    <EndMilliseconds>78114</EndMilliseconds>
+    <Text>“[@你@]好！”
+"[@Nǐ@] hǎo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>78115</StartMilliseconds>
+    <EndMilliseconds>78767</EndMilliseconds>
+    <Text>“你[@好@]！”
+"Nǐ [@hǎo@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>78768</StartMilliseconds>
+    <EndMilliseconds>84535</EndMilliseconds>
+    <Text>“你好！”
+"Nǐ hǎo!"</Text>
+  </Paragraph>
+</Subtitle>

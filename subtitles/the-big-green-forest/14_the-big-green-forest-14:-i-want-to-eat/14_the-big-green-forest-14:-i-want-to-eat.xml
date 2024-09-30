@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13839</StartMilliseconds>
+    <EndMilliseconds>36011</EndMilliseconds>
+    <Text>huànxióng: Wǒ xiǎng chī dōngxi.
+浣熊：我想吃东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>36012</StartMilliseconds>
+    <EndMilliseconds>36403</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] xiǎng chī dōngxi.
+浣熊：[@我@]想吃东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>36404</StartMilliseconds>
+    <EndMilliseconds>37131</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@xiǎng@] chī dōngxi.
+浣熊：我[@想@]吃东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>37132</StartMilliseconds>
+    <EndMilliseconds>37677</EndMilliseconds>
+    <Text>huànxióng: Wǒ xiǎng [@chī@] dōngxi.
+浣熊：我想[@吃@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>37678</StartMilliseconds>
+    <EndMilliseconds>38999</EndMilliseconds>
+    <Text>huànxióng: Wǒ xiǎng chī [@dōngxi@].
+浣熊：我想吃[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>39000</StartMilliseconds>
+    <EndMilliseconds>39515</EndMilliseconds>
+    <Text>huànxióng: Wǒ xiǎng chī dōngxi.
+浣熊：我想吃东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>39516</StartMilliseconds>
+    <EndMilliseconds>44732</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ xiǎng chī shénme?
+松鼠：你想吃什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>44733</StartMilliseconds>
+    <EndMilliseconds>45111</EndMilliseconds>
+    <Text>sōngshǔ: [@Nǐ@] xiǎng chī shénme?
+松鼠：[@你@]想吃什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>45112</StartMilliseconds>
+    <EndMilliseconds>46009</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ [@xiǎng@] chī shénme?
+松鼠：你[@想@]吃什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>46010</StartMilliseconds>
+    <EndMilliseconds>46311</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ xiǎng [@chī@] shénme?
+松鼠：你想[@吃@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>46312</StartMilliseconds>
+    <EndMilliseconds>47146</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ xiǎng chī [@shénme@]?
+松鼠：你想吃[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>47147</StartMilliseconds>
+    <EndMilliseconds>50164</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ xiǎng chī shénme?
+松鼠：你想吃什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>50165</StartMilliseconds>
+    <EndMilliseconds>50939</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù zhīdào.
+浣熊：我不知道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>50940</StartMilliseconds>
+    <EndMilliseconds>51630</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] bù zhīdào.
+浣熊：[@我@]不知道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>51631</StartMilliseconds>
+    <EndMilliseconds>51867</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@bù@] zhīdào.
+浣熊：我[@不@]知道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>51868</StartMilliseconds>
+    <EndMilliseconds>53118</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù [@zhīdào@].
+浣熊：我不[@知道@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>53119</StartMilliseconds>
+    <EndMilliseconds>55984</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù zhīdào.
+浣熊：我不知道。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>55985</StartMilliseconds>
+    <EndMilliseconds>73062</EndMilliseconds>
+    <Text>wūguī: Nǐ chī yèzi ma?
+乌龟：你吃叶子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>73063</StartMilliseconds>
+    <EndMilliseconds>73769</EndMilliseconds>
+    <Text>wūguī: [@Nǐ@] chī yèzi ma?
+乌龟：[@你@]吃叶子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>73770</StartMilliseconds>
+    <EndMilliseconds>74460</EndMilliseconds>
+    <Text>wūguī: Nǐ [@chī@] yèzi ma?
+乌龟：你[@吃@]叶子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>74461</StartMilliseconds>
+    <EndMilliseconds>75217</EndMilliseconds>
+    <Text>wūguī: Nǐ chī [@yèzi@] ma?
+乌龟：你吃[@叶子@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>75218</StartMilliseconds>
+    <EndMilliseconds>75910</EndMilliseconds>
+    <Text>wūguī: Nǐ chī yèzi [@ma@]?
+乌龟：你吃叶子[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>75911</StartMilliseconds>
+    <EndMilliseconds>76451</EndMilliseconds>
+    <Text>wūguī: Nǐ chī yèzi ma?
+乌龟：你吃叶子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>76452</StartMilliseconds>
+    <EndMilliseconds>77141</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī yèzi.
+浣熊：我不吃叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>77142</StartMilliseconds>
+    <EndMilliseconds>78208</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] bù chī yèzi.
+浣熊：[@我@]不吃叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>78209</StartMilliseconds>
+    <EndMilliseconds>78740</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@bù@] chī yèzi.
+浣熊：我[@不@]吃叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>78741</StartMilliseconds>
+    <EndMilliseconds>79194</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù [@chī@] yèzi.
+浣熊：我不[@吃@]叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>79195</StartMilliseconds>
+    <EndMilliseconds>80381</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī [@yèzi@].
+浣熊：我不吃[@叶子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>80382</StartMilliseconds>
+    <EndMilliseconds>82779</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī yèzi.
+浣熊：我不吃叶子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>82780</StartMilliseconds>
+    <EndMilliseconds>106802</EndMilliseconds>
+    <Text>tùzi: Nǐ chī cǎo ma?
+兔子：你吃草吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>106803</StartMilliseconds>
+    <EndMilliseconds>107836</EndMilliseconds>
+    <Text>tùzi: [@Nǐ@] chī cǎo ma?
+兔子：[@你@]吃草吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>107837</StartMilliseconds>
+    <EndMilliseconds>108391</EndMilliseconds>
+    <Text>tùzi: Nǐ [@chī@] cǎo ma?
+兔子：你[@吃@]草吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>108392</StartMilliseconds>
+    <EndMilliseconds>108996</EndMilliseconds>
+    <Text>tùzi: Nǐ chī [@cǎo@] ma?
+兔子：你吃[@草@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>108997</StartMilliseconds>
+    <EndMilliseconds>109549</EndMilliseconds>
+    <Text>tùzi: Nǐ chī cǎo [@ma@]?
+兔子：你吃草[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>109550</StartMilliseconds>
+    <EndMilliseconds>110198</EndMilliseconds>
+    <Text>tùzi: Nǐ chī cǎo ma?
+兔子：你吃草吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>110199</StartMilliseconds>
+    <EndMilliseconds>110948</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī cǎo.
+浣熊：我不吃草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>110949</StartMilliseconds>
+    <EndMilliseconds>112057</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] bù chī cǎo.
+浣熊：[@我@]不吃草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>112058</StartMilliseconds>
+    <EndMilliseconds>112750</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@bù@] chī cǎo.
+浣熊：我[@不@]吃草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>112751</StartMilliseconds>
+    <EndMilliseconds>113273</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù [@chī@] cǎo.
+浣熊：我不[@吃@]草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>113274</StartMilliseconds>
+    <EndMilliseconds>114348</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī [@cǎo@].
+浣熊：我不吃[@草@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>114349</StartMilliseconds>
+    <EndMilliseconds>128559</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī cǎo.
+浣熊：我不吃草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>128560</StartMilliseconds>
+    <EndMilliseconds>137038</EndMilliseconds>
+    <Text>qīngwā: Nǐ chī chóngzi ma?
+青蛙：你吃虫子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>137039</StartMilliseconds>
+    <EndMilliseconds>137551</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] chī chóngzi ma?
+青蛙：[@你@]吃虫子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>137552</StartMilliseconds>
+    <EndMilliseconds>138211</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@chī@] chóngzi ma?
+青蛙：你[@吃@]虫子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>138212</StartMilliseconds>
+    <EndMilliseconds>139086</EndMilliseconds>
+    <Text>qīngwā: Nǐ chī [@chóngzi@] ma?
+青蛙：你吃[@虫子@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>139087</StartMilliseconds>
+    <EndMilliseconds>139861</EndMilliseconds>
+    <Text>qīngwā: Nǐ chī chóngzi [@ma@]?
+青蛙：你吃虫子[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>139862</StartMilliseconds>
+    <EndMilliseconds>148928</EndMilliseconds>
+    <Text>qīngwā: Nǐ chī chóngzi ma?
+青蛙：你吃虫子吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>148929</StartMilliseconds>
+    <EndMilliseconds>150174</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī chóngzi.
+浣熊：我不吃虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>150175</StartMilliseconds>
+    <EndMilliseconds>151322</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] bù chī chóngzi.
+浣熊：[@我@]不吃虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>151323</StartMilliseconds>
+    <EndMilliseconds>151871</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@bù@] chī chóngzi.
+浣熊：我[@不@]吃虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>151872</StartMilliseconds>
+    <EndMilliseconds>152318</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù [@chī@] chóngzi.
+浣熊：我不[@吃@]虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>152319</StartMilliseconds>
+    <EndMilliseconds>153579</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī [@chóngzi@].
+浣熊：我不吃[@虫子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>153580</StartMilliseconds>
+    <EndMilliseconds>154780</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī chóngzi.
+浣熊：我不吃虫子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>154781</StartMilliseconds>
+    <EndMilliseconds>174141</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ yào chī diǎn nítǔ ma?
+蚯蚓：你要吃点泥土吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>174142</StartMilliseconds>
+    <EndMilliseconds>174595</EndMilliseconds>
+    <Text>qiūyǐn: [@Nǐ@] yào chī diǎn nítǔ ma?
+蚯蚓：[@你@]要吃点泥土吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>174596</StartMilliseconds>
+    <EndMilliseconds>175148</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ [@yào@] chī diǎn nítǔ ma?
+蚯蚓：你[@要@]吃点泥土吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>175149</StartMilliseconds>
+    <EndMilliseconds>175473</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ yào [@chī@] diǎn nítǔ ma?
+蚯蚓：你要[@吃@]点泥土吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>175474</StartMilliseconds>
+    <EndMilliseconds>176108</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ yào chī [@diǎn@] nítǔ ma?
+蚯蚓：你要吃[@点@]泥土吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>176109</StartMilliseconds>
+    <EndMilliseconds>176920</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ yào chī diǎn [@nítǔ@] ma?
+蚯蚓：你要吃点[@泥土@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>176921</StartMilliseconds>
+    <EndMilliseconds>177503</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ yào chī diǎn nítǔ [@ma@]?
+蚯蚓：你要吃点泥土[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>177504</StartMilliseconds>
+    <EndMilliseconds>177900</EndMilliseconds>
+    <Text>qiūyǐn: Nǐ yào chī diǎn nítǔ ma?
+蚯蚓：你要吃点泥土吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>177901</StartMilliseconds>
+    <EndMilliseconds>178385</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī nítǔ.
+浣熊：我不吃泥土。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>178386</StartMilliseconds>
+    <EndMilliseconds>179462</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] bù chī nítǔ.
+浣熊：[@我@]不吃泥土。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>179463</StartMilliseconds>
+    <EndMilliseconds>179981</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@bù@] chī nítǔ.
+浣熊：我[@不@]吃泥土。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>179982</StartMilliseconds>
+    <EndMilliseconds>180396</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù [@chī@] nítǔ.
+浣熊：我不[@吃@]泥土。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>180397</StartMilliseconds>
+    <EndMilliseconds>181649</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī [@nítǔ@].
+浣熊：我不吃[@泥土@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>181650</StartMilliseconds>
+    <EndMilliseconds>184274</EndMilliseconds>
+    <Text>huànxióng: Wǒ bù chī nítǔ.
+浣熊：我不吃泥土。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>184275</StartMilliseconds>
+    <EndMilliseconds>187003</EndMilliseconds>
+    <Text>huànxióng: Ā hā! Wǒ yào chī shùméi!
+浣熊：啊哈！我要吃树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>187004</StartMilliseconds>
+    <EndMilliseconds>187634</EndMilliseconds>
+    <Text>huànxióng: [@Ā@] hā! Wǒ yào chī shùméi!
+浣熊：[@啊@]哈！我要吃树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>187635</StartMilliseconds>
+    <EndMilliseconds>188749</EndMilliseconds>
+    <Text>huànxióng: Ā [@hā@]! Wǒ yào chī shùméi!
+浣熊：啊[@哈@]！我要吃树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>188750</StartMilliseconds>
+    <EndMilliseconds>189096</EndMilliseconds>
+    <Text>huànxióng: Ā hā! [@Wǒ@] yào chī shùméi!
+浣熊：啊哈！[@我@]要吃树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>189097</StartMilliseconds>
+    <EndMilliseconds>189698</EndMilliseconds>
+    <Text>huànxióng: Ā hā! Wǒ [@yào@] chī shùméi!
+浣熊：啊哈！我[@要@]吃树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>189699</StartMilliseconds>
+    <EndMilliseconds>190052</EndMilliseconds>
+    <Text>huànxióng: Ā hā! Wǒ yào [@chī@] shùméi!
+浣熊：啊哈！我要[@吃@]树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>190053</StartMilliseconds>
+    <EndMilliseconds>191084</EndMilliseconds>
+    <Text>huànxióng: Ā hā! Wǒ yào chī [@shùméi@]!
+浣熊：啊哈！我要吃[@树莓@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>191085</StartMilliseconds>
+    <EndMilliseconds>204198</EndMilliseconds>
+    <Text>huànxióng: Ā hā! Wǒ yào chī shùméi!
+浣熊：啊哈！我要吃树莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>204199</StartMilliseconds>
+    <EndMilliseconds>206346</EndMilliseconds>
+    <Text>sōngshǔ: Bú yào dōu chīguāng le.
+松鼠：不要都吃光了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>206347</StartMilliseconds>
+    <EndMilliseconds>206592</EndMilliseconds>
+    <Text>sōngshǔ: [@Bú@] yào dōu chīguāng le.
+松鼠：[@不@]要都吃光了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>206593</StartMilliseconds>
+    <EndMilliseconds>207054</EndMilliseconds>
+    <Text>sōngshǔ: Bú [@yào@] dōu chīguāng le.
+松鼠：不[@要@]都吃光了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>207055</StartMilliseconds>
+    <EndMilliseconds>207439</EndMilliseconds>
+    <Text>sōngshǔ: Bú yào [@dōu@] chīguāng le.
+松鼠：不要[@都@]吃光了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>207440</StartMilliseconds>
+    <EndMilliseconds>208211</EndMilliseconds>
+    <Text>sōngshǔ: Bú yào dōu [@chīguāng@] le.
+松鼠：不要都[@吃光@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>208214</StartMilliseconds>
+    <EndMilliseconds>208914</EndMilliseconds>
+    <Text>sōngshǔ: Bú yào dōu chīguāng [@le@].
+松鼠：不要都吃光[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>208915</StartMilliseconds>
+    <EndMilliseconds>210173</EndMilliseconds>
+    <Text>sōngshǔ: Bú yào dōu chīguāng le.
+松鼠：不要都吃光了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>210174</StartMilliseconds>
+    <EndMilliseconds>210784</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě yào chī!
+松鼠：我也要吃！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>210785</StartMilliseconds>
+    <EndMilliseconds>211265</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] yě yào chī!
+松鼠：[@我@]也要吃！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>211266</StartMilliseconds>
+    <EndMilliseconds>211645</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@yě@] yào chī!
+松鼠：我[@也@]要吃！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>211646</StartMilliseconds>
+    <EndMilliseconds>212077</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě [@yào@] chī!
+松鼠：我也[@要@]吃！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>212078</StartMilliseconds>
+    <EndMilliseconds>212845</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě yào [@chī@]!
+松鼠：我也要[@吃@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>212846</StartMilliseconds>
+    <EndMilliseconds>226460</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě yào chī!
+松鼠：我也要吃！</Text>
+  </Paragraph>
+</Subtitle>

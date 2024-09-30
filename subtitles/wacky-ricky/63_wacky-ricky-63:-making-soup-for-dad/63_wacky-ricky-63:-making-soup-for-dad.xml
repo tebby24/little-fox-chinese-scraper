@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10353</StartMilliseconds>
+    <EndMilliseconds>12978</EndMilliseconds>
+    <Text>里奇：我们应该给爸爸做些鸡肉面汤。
+Lǐqí: Wǒmen yīnggāi gěi bàba zuò xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12978</StartMilliseconds>
+    <EndMilliseconds>13479</EndMilliseconds>
+    <Text>里奇：[@我们@]应该给爸爸做些鸡肉面汤。
+Lǐqí: [@Wǒmen@] yīnggāi gěi bàba zuò xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13479</StartMilliseconds>
+    <EndMilliseconds>14170</EndMilliseconds>
+    <Text>里奇：我们[@应该@]给爸爸做些鸡肉面汤。
+Lǐqí: Wǒmen [@yīnggāi@] gěi bàba zuò xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14170</StartMilliseconds>
+    <EndMilliseconds>14485</EndMilliseconds>
+    <Text>里奇：我们应该[@给@]爸爸做些鸡肉面汤。
+Lǐqí: Wǒmen yīnggāi [@gěi@] bàba zuò xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14485</StartMilliseconds>
+    <EndMilliseconds>14987</EndMilliseconds>
+    <Text>里奇：我们应该给[@爸爸@]做些鸡肉面汤。
+Lǐqí: Wǒmen yīnggāi gěi [@bàba@] zuò xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14987</StartMilliseconds>
+    <EndMilliseconds>15240</EndMilliseconds>
+    <Text>里奇：我们应该给爸爸[@做@]些鸡肉面汤。
+Lǐqí: Wǒmen yīnggāi gěi bàba [@zuò@] xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15240</StartMilliseconds>
+    <EndMilliseconds>15563</EndMilliseconds>
+    <Text>里奇：我们应该给爸爸做[@些@]鸡肉面汤。
+Lǐqí: Wǒmen yīnggāi gěi bàba zuò [@xiē@] jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15563</StartMilliseconds>
+    <EndMilliseconds>15962</EndMilliseconds>
+    <Text>里奇：我们应该给爸爸做些[@鸡肉@]面汤。
+Lǐqí: Wǒmen yīnggāi gěi bàba zuò xiē [@jīròu@] miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15962</StartMilliseconds>
+    <EndMilliseconds>16836</EndMilliseconds>
+    <Text>里奇：我们应该给爸爸做些鸡肉[@面汤@]。
+Lǐqí: Wǒmen yīnggāi gěi bàba zuò xiē jīròu [@miàntāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16836</StartMilliseconds>
+    <EndMilliseconds>17014</EndMilliseconds>
+    <Text>里奇：我们应该给爸爸做些鸡肉面汤。
+Lǐqí: Wǒmen yīnggāi gěi bàba zuò xiē jīròu miàntāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17014</StartMilliseconds>
+    <EndMilliseconds>17417</EndMilliseconds>
+    <Text>里安：好主意，哥哥。
+Lǐ'ān: Hǎo zhǔyi, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17417</StartMilliseconds>
+    <EndMilliseconds>17685</EndMilliseconds>
+    <Text>里安：[@好@]主意，哥哥。
+Lǐ'ān: [@Hǎo@] zhǔyi, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17685</StartMilliseconds>
+    <EndMilliseconds>18361</EndMilliseconds>
+    <Text>里安：好[@主意@]，哥哥。
+Lǐ'ān: Hǎo [@zhǔyi@], gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18361</StartMilliseconds>
+    <EndMilliseconds>19224</EndMilliseconds>
+    <Text>里安：好主意，[@哥哥@]。
+Lǐ'ān: Hǎo zhǔyi, [@gēge@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19224</StartMilliseconds>
+    <EndMilliseconds>20974</EndMilliseconds>
+    <Text>里安：好主意，哥哥。
+Lǐ'ān: Hǎo zhǔyi, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20974</StartMilliseconds>
+    <EndMilliseconds>22314</EndMilliseconds>
+    <Text>里安：我找不到鸡肉汤。
+Lǐ'ān: Wǒ zhǎo bu dào jīròu tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>22314</StartMilliseconds>
+    <EndMilliseconds>22547</EndMilliseconds>
+    <Text>里安：[@我@]找不到鸡肉汤。
+Lǐ'ān: [@Wǒ@] zhǎo bu dào jīròu tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>22547</StartMilliseconds>
+    <EndMilliseconds>22769</EndMilliseconds>
+    <Text>里安：我[@找@]不到鸡肉汤。
+Lǐ'ān: Wǒ [@zhǎo@] bu dào jīròu tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>22770</StartMilliseconds>
+    <EndMilliseconds>23038</EndMilliseconds>
+    <Text>里安：我找[@不@]到鸡肉汤。
+Lǐ'ān: Wǒ zhǎo [@bu@] dào jīròu tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>23038</StartMilliseconds>
+    <EndMilliseconds>23309</EndMilliseconds>
+    <Text>里安：我找不[@到@]鸡肉汤。
+Lǐ'ān: Wǒ zhǎo bu [@dào@] jīròu tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>23309</StartMilliseconds>
+    <EndMilliseconds>23784</EndMilliseconds>
+    <Text>里安：我找不到[@鸡肉@]汤。
+Lǐ'ān: Wǒ zhǎo bu dào [@jīròu@] tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>23784</StartMilliseconds>
+    <EndMilliseconds>24535</EndMilliseconds>
+    <Text>里安：我找不到鸡肉[@汤@]。
+Lǐ'ān: Wǒ zhǎo bu dào jīròu [@tāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>24535</StartMilliseconds>
+    <EndMilliseconds>24773</EndMilliseconds>
+    <Text>里安：我找不到鸡肉汤。
+Lǐ'ān: Wǒ zhǎo bu dào jīròu tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>24773</StartMilliseconds>
+    <EndMilliseconds>25567</EndMilliseconds>
+    <Text>里奇：没关系，我们可以用西红柿汤。
+Lǐqí: Méi guānxi, wǒmen kěyǐ yòng xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>25567</StartMilliseconds>
+    <EndMilliseconds>25751</EndMilliseconds>
+    <Text>里奇：[@没@]关系，我们可以用西红柿汤。
+Lǐqí: [@Méi@] guānxi, wǒmen kěyǐ yòng xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>25751</StartMilliseconds>
+    <EndMilliseconds>26685</EndMilliseconds>
+    <Text>里奇：没[@关系@]，我们可以用西红柿汤。
+Lǐqí: Méi [@guānxi@], wǒmen kěyǐ yòng xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>26685</StartMilliseconds>
+    <EndMilliseconds>27037</EndMilliseconds>
+    <Text>里奇：没关系，[@我们@]可以用西红柿汤。
+Lǐqí: Méi guānxi, [@wǒmen@] kěyǐ yòng xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>27037</StartMilliseconds>
+    <EndMilliseconds>27785</EndMilliseconds>
+    <Text>里奇：没关系，我们[@可以@]用西红柿汤。
+Lǐqí: Méi guānxi, wǒmen [@kěyǐ@] yòng xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>27785</StartMilliseconds>
+    <EndMilliseconds>28015</EndMilliseconds>
+    <Text>里奇：没关系，我们可以[@用@]西红柿汤。
+Lǐqí: Méi guānxi, wǒmen kěyǐ [@yòng@] xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>28015</StartMilliseconds>
+    <EndMilliseconds>28837</EndMilliseconds>
+    <Text>里奇：没关系，我们可以用[@西红柿@]汤。
+Lǐqí: Méi guānxi, wǒmen kěyǐ yòng [@xīhóngshì@] tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>28837</StartMilliseconds>
+    <EndMilliseconds>29385</EndMilliseconds>
+    <Text>里奇：没关系，我们可以用西红柿[@汤@]。
+Lǐqí: Méi guānxi, wǒmen kěyǐ yòng xīhóngshì [@tāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>29386</StartMilliseconds>
+    <EndMilliseconds>33635</EndMilliseconds>
+    <Text>里奇：没关系，我们可以用西红柿汤。
+Lǐqí: Méi guānxi, wǒmen kěyǐ yòng xīhóngshì tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>33635</StartMilliseconds>
+    <EndMilliseconds>35219</EndMilliseconds>
+    <Text>里奇：嗯……也许我们可以加一点东西。
+Lǐqí: Eng……Yěxǔ wǒmen kěyǐ jiā yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>35219</StartMilliseconds>
+    <EndMilliseconds>36452</EndMilliseconds>
+    <Text>里奇：[@嗯@]……也许我们可以加一点东西。
+Lǐqí: [@Eng@]……Yěxǔ wǒmen kěyǐ jiā yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>36452</StartMilliseconds>
+    <EndMilliseconds>37453</EndMilliseconds>
+    <Text>里奇：嗯……[@也许@]我们可以加一点东西。
+Lǐqí: Eng……[@Yěxǔ@] wǒmen kěyǐ jiā yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>37453</StartMilliseconds>
+    <EndMilliseconds>37797</EndMilliseconds>
+    <Text>里奇：嗯……也许[@我们@]可以加一点东西。
+Lǐqí: Eng……Yěxǔ [@wǒmen@] kěyǐ jiā yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>37797</StartMilliseconds>
+    <EndMilliseconds>38383</EndMilliseconds>
+    <Text>里奇：嗯……也许我们[@可以@]加一点东西。
+Lǐqí: Eng……Yěxǔ wǒmen [@kěyǐ@] jiā yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>38382</StartMilliseconds>
+    <EndMilliseconds>38507</EndMilliseconds>
+    <Text>里奇：嗯……也许我们可以[@加@]一点东西。
+Lǐqí: Eng……Yěxǔ wǒmen kěyǐ [@jiā@] yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>38507</StartMilliseconds>
+    <EndMilliseconds>38903</EndMilliseconds>
+    <Text>里奇：嗯……也许我们可以加[@一点@]东西。
+Lǐqí: Eng……Yěxǔ wǒmen kěyǐ jiā [@yìdiǎn@] dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>38903</StartMilliseconds>
+    <EndMilliseconds>39652</EndMilliseconds>
+    <Text>里奇：嗯……也许我们可以加一点[@东西@]。
+Lǐqí: Eng……Yěxǔ wǒmen kěyǐ jiā yìdiǎn [@dōngxi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>39652</StartMilliseconds>
+    <EndMilliseconds>40058</EndMilliseconds>
+    <Text>里奇：嗯……也许我们可以加一点东西。
+Lǐqí: Eng……Yěxǔ wǒmen kěyǐ jiā yìdiǎn dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>40058</StartMilliseconds>
+    <EndMilliseconds>40423</EndMilliseconds>
+    <Text>里安：我找不到鸡肉，哥哥。
+Lǐ'ān: Wǒ zhǎo bu dào jīròu, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>40424</StartMilliseconds>
+    <EndMilliseconds>40589</EndMilliseconds>
+    <Text>里安：[@我@]找不到鸡肉，哥哥。
+Lǐ'ān: [@Wǒ@] zhǎo bu dào jīròu, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>40589</StartMilliseconds>
+    <EndMilliseconds>40830</EndMilliseconds>
+    <Text>里安：我[@找@]不到鸡肉，哥哥。
+Lǐ'ān: Wǒ [@zhǎo@] bu dào jīròu, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>40832</StartMilliseconds>
+    <EndMilliseconds>41051</EndMilliseconds>
+    <Text>里安：我找[@不@]到鸡肉，哥哥。
+Lǐ'ān: Wǒ zhǎo [@bu@] dào jīròu, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>41055</StartMilliseconds>
+    <EndMilliseconds>41522</EndMilliseconds>
+    <Text>里安：我找不[@到@]鸡肉，哥哥。
+Lǐ'ān: Wǒ zhǎo bu [@dào@] jīròu, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>41522</StartMilliseconds>
+    <EndMilliseconds>42304</EndMilliseconds>
+    <Text>里安：我找不到[@鸡肉@]，哥哥。
+Lǐ'ān: Wǒ zhǎo bu dào [@jīròu@], gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>42304</StartMilliseconds>
+    <EndMilliseconds>43402</EndMilliseconds>
+    <Text>里安：我找不到鸡肉，[@哥哥@]。
+Lǐ'ān: Wǒ zhǎo bu dào jīròu, [@gēge@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>43402</StartMilliseconds>
+    <EndMilliseconds>43881</EndMilliseconds>
+    <Text>里安：我找不到鸡肉，哥哥。
+Lǐ'ān: Wǒ zhǎo bu dào jīròu, gēge.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>43881</StartMilliseconds>
+    <EndMilliseconds>51002</EndMilliseconds>
+    <Text>里奇：我们可以用热狗。
+Lǐqí: Wǒmen kěyǐ yòng règǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>51002</StartMilliseconds>
+    <EndMilliseconds>52002</EndMilliseconds>
+    <Text>里奇：[@我们@]可以用热狗。
+Lǐqí: [@Wǒmen@] kěyǐ yòng règǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>52002</StartMilliseconds>
+    <EndMilliseconds>52468</EndMilliseconds>
+    <Text>里奇：我们[@可以@]用热狗。
+Lǐqí: Wǒmen [@kěyǐ@] yòng règǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>52468</StartMilliseconds>
+    <EndMilliseconds>52758</EndMilliseconds>
+    <Text>里奇：我们可以[@用@]热狗。
+Lǐqí: Wǒmen kěyǐ [@yòng@] règǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>52758</StartMilliseconds>
+    <EndMilliseconds>53518</EndMilliseconds>
+    <Text>里奇：我们可以用[@热狗@]。
+Lǐqí: Wǒmen kěyǐ yòng [@règǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>53518</StartMilliseconds>
+    <EndMilliseconds>55019</EndMilliseconds>
+    <Text>里奇：我们可以用热狗。
+Lǐqí: Wǒmen kěyǐ yòng règǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>55019</StartMilliseconds>
+    <EndMilliseconds>56219</EndMilliseconds>
+    <Text>里安：我们还可以放点什么呢？
+Lǐ'ān: Wǒmen hái kěyǐ fàng diǎn shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>56219</StartMilliseconds>
+    <EndMilliseconds>56716</EndMilliseconds>
+    <Text>里安：[@我们@]还可以放点什么呢？
+Lǐ'ān: [@Wǒmen@] hái kěyǐ fàng diǎn shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>56716</StartMilliseconds>
+    <EndMilliseconds>57018</EndMilliseconds>
+    <Text>里安：我们[@还@]可以放点什么呢？
+Lǐ'ān: Wǒmen [@hái@] kěyǐ fàng diǎn shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>57018</StartMilliseconds>
+    <EndMilliseconds>57416</EndMilliseconds>
+    <Text>里安：我们还[@可以@]放点什么呢？
+Lǐ'ān: Wǒmen hái [@kěyǐ@] fàng diǎn shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>57416</StartMilliseconds>
+    <EndMilliseconds>57757</EndMilliseconds>
+    <Text>里安：我们还可以[@放@]点什么呢？
+Lǐ'ān: Wǒmen hái kěyǐ [@fàng@] diǎn shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>57758</StartMilliseconds>
+    <EndMilliseconds>58001</EndMilliseconds>
+    <Text>里安：我们还可以放[@点@]什么呢？
+Lǐ'ān: Wǒmen hái kěyǐ fàng [@diǎn@] shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>58001</StartMilliseconds>
+    <EndMilliseconds>58318</EndMilliseconds>
+    <Text>里安：我们还可以放点[@什么@]呢？
+Lǐ'ān: Wǒmen hái kěyǐ fàng diǎn [@shénme@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>58318</StartMilliseconds>
+    <EndMilliseconds>58774</EndMilliseconds>
+    <Text>里安：我们还可以放点什么[@呢@]？
+Lǐ'ān: Wǒmen hái kěyǐ fàng diǎn shénme [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>58774</StartMilliseconds>
+    <EndMilliseconds>59320</EndMilliseconds>
+    <Text>里安：我们还可以放点什么呢？
+Lǐ'ān: Wǒmen hái kěyǐ fàng diǎn shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>59320</StartMilliseconds>
+    <EndMilliseconds>60367</EndMilliseconds>
+    <Text>里奇：我不喜欢汤里放蔬菜。
+Lǐqí: Wǒ bù xǐhuan tāng li fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>60367</StartMilliseconds>
+    <EndMilliseconds>60718</EndMilliseconds>
+    <Text>里奇：[@我@]不喜欢汤里放蔬菜。
+Lǐqí: [@Wǒ@] bù xǐhuan tāng li fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>60718</StartMilliseconds>
+    <EndMilliseconds>60898</EndMilliseconds>
+    <Text>里奇：我[@不@]喜欢汤里放蔬菜。
+Lǐqí: Wǒ [@bù@] xǐhuan tāng li fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>60898</StartMilliseconds>
+    <EndMilliseconds>61574</EndMilliseconds>
+    <Text>里奇：我不[@喜欢@]汤里放蔬菜。
+Lǐqí: Wǒ bù [@xǐhuan@] tāng li fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>61574</StartMilliseconds>
+    <EndMilliseconds>61818</EndMilliseconds>
+    <Text>里奇：我不喜欢[@汤@]里放蔬菜。
+Lǐqí: Wǒ bù xǐhuan [@tāng@] li fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>61818</StartMilliseconds>
+    <EndMilliseconds>62032</EndMilliseconds>
+    <Text>里奇：我不喜欢汤[@里@]放蔬菜。
+Lǐqí: Wǒ bù xǐhuan tāng [@li@] fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>62032</StartMilliseconds>
+    <EndMilliseconds>62317</EndMilliseconds>
+    <Text>里奇：我不喜欢汤里[@放@]蔬菜。
+Lǐqí: Wǒ bù xǐhuan tāng li [@fàng@] shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>62317</StartMilliseconds>
+    <EndMilliseconds>63068</EndMilliseconds>
+    <Text>里奇：我不喜欢汤里放[@蔬菜@]。
+Lǐqí: Wǒ bù xǐhuan tāng li fàng [@shūcài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>63068</StartMilliseconds>
+    <EndMilliseconds>63392</EndMilliseconds>
+    <Text>里奇：我不喜欢汤里放蔬菜。
+Lǐqí: Wǒ bù xǐhuan tāng li fàng shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>63393</StartMilliseconds>
+    <EndMilliseconds>64122</EndMilliseconds>
+    <Text>里安：我也是。
+Lǐ'ān: Wǒ yě shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>64123</StartMilliseconds>
+    <EndMilliseconds>64519</EndMilliseconds>
+    <Text>里安：[@我@]也是。
+Lǐ'ān: [@Wǒ@] yě shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>64519</StartMilliseconds>
+    <EndMilliseconds>64773</EndMilliseconds>
+    <Text>里安：我[@也@]是。
+Lǐ'ān: Wǒ [@yě@] shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>64773</StartMilliseconds>
+    <EndMilliseconds>65385</EndMilliseconds>
+    <Text>里安：我也[@是@]。
+Lǐ'ān: Wǒ yě [@shì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>65385</StartMilliseconds>
+    <EndMilliseconds>65448</EndMilliseconds>
+    <Text>里安：我也是。
+Lǐ'ān: Wǒ yě shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>65448</StartMilliseconds>
+    <EndMilliseconds>65817</EndMilliseconds>
+    <Text>里安：我们放些水果吧。
+Lǐ'ān: Wǒmen fàng xiē shuǐguǒ ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>65817</StartMilliseconds>
+    <EndMilliseconds>66431</EndMilliseconds>
+    <Text>里安：[@我们@]放些水果吧。
+Lǐ'ān: [@Wǒmen@] fàng xiē shuǐguǒ ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>66431</StartMilliseconds>
+    <EndMilliseconds>66735</EndMilliseconds>
+    <Text>里安：我们[@放@]些水果吧。
+Lǐ'ān: Wǒmen [@fàng@] xiē shuǐguǒ ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>66735</StartMilliseconds>
+    <EndMilliseconds>66886</EndMilliseconds>
+    <Text>里安：我们放[@些@]水果吧。
+Lǐ'ān: Wǒmen fàng [@xiē@] shuǐguǒ ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>66887</StartMilliseconds>
+    <EndMilliseconds>67535</EndMilliseconds>
+    <Text>里安：我们放些[@水果@]吧。
+Lǐ'ān: Wǒmen fàng xiē [@shuǐguǒ@] ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>67536</StartMilliseconds>
+    <EndMilliseconds>67951</EndMilliseconds>
+    <Text>里安：我们放些水果[@吧@]。
+Lǐ'ān: Wǒmen fàng xiē shuǐguǒ [@ba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>67951</StartMilliseconds>
+    <EndMilliseconds>76246</EndMilliseconds>
+    <Text>里安：我们放些水果吧。
+Lǐ'ān: Wǒmen fàng xiē shuǐguǒ ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>76246</StartMilliseconds>
+    <EndMilliseconds>77970</EndMilliseconds>
+    <Text>里奇：现在，只需要把汤加热就可以了。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ tāng jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>77970</StartMilliseconds>
+    <EndMilliseconds>79085</EndMilliseconds>
+    <Text>里奇：[@现在@]，只需要把汤加热就可以了。
+Lǐqí: [@Xiànzài@], zhǐ xūyào bǎ tāng jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>79085</StartMilliseconds>
+    <EndMilliseconds>79391</EndMilliseconds>
+    <Text>里奇：现在，[@只@]需要把汤加热就可以了。
+Lǐqí: Xiànzài, [@zhǐ@] xūyào bǎ tāng jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>79391</StartMilliseconds>
+    <EndMilliseconds>79742</EndMilliseconds>
+    <Text>里奇：现在，只[@需要@]把汤加热就可以了。
+Lǐqí: Xiànzài, zhǐ [@xūyào@] bǎ tāng jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>79742</StartMilliseconds>
+    <EndMilliseconds>80085</EndMilliseconds>
+    <Text>里奇：现在，只需要[@把@]汤加热就可以了。
+Lǐqí: Xiànzài, zhǐ xūyào [@bǎ@] tāng jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>80085</StartMilliseconds>
+    <EndMilliseconds>80548</EndMilliseconds>
+    <Text>里奇：现在，只需要把[@汤@]加热就可以了。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ [@tāng@] jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>80549</StartMilliseconds>
+    <EndMilliseconds>80882</EndMilliseconds>
+    <Text>里奇：现在，只需要把汤[@加热@]就可以了。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ tāng [@jiārè@] jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>80882</StartMilliseconds>
+    <EndMilliseconds>81284</EndMilliseconds>
+    <Text>里奇：现在，只需要把汤加热[@就@]可以了。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ tāng jiārè [@jiù@] kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>81284</StartMilliseconds>
+    <EndMilliseconds>81499</EndMilliseconds>
+    <Text>里奇：现在，只需要把汤加热就[@可以@]了。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ tāng jiārè jiù [@kěyǐ@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>81500</StartMilliseconds>
+    <EndMilliseconds>82168</EndMilliseconds>
+    <Text>里奇：现在，只需要把汤加热就可以[@了@]。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ tāng jiārè jiù kěyǐ [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>82168</StartMilliseconds>
+    <EndMilliseconds>89289</EndMilliseconds>
+    <Text>里奇：现在，只需要把汤加热就可以了。
+Lǐqí: Xiànzài, zhǐ xūyào bǎ tāng jiārè jiù kěyǐ le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>89289</StartMilliseconds>
+    <EndMilliseconds>90879</EndMilliseconds>
+    <Text>里安：那是什么声音，哥哥？
+Lǐ'ān: Nà shì shénme shēngyīn, gēge?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>90879</StartMilliseconds>
+    <EndMilliseconds>91018</EndMilliseconds>
+    <Text>里安：[@那@]是什么声音，哥哥？
+Lǐ'ān: [@Nà@] shì shénme shēngyīn, gēge?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>91025</StartMilliseconds>
+    <EndMilliseconds>91351</EndMilliseconds>
+    <Text>里安：那[@是@]什么声音，哥哥？
+Lǐ'ān: Nà [@shì@] shénme shēngyīn, gēge?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>91351</StartMilliseconds>
+    <EndMilliseconds>91689</EndMilliseconds>
+    <Text>里安：那是[@什么@]声音，哥哥？
+Lǐ'ān: Nà shì [@shénme@] shēngyīn, gēge?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>91689</StartMilliseconds>
+    <EndMilliseconds>92317</EndMilliseconds>
+    <Text>里安：那是什么[@声音@]，哥哥？
+Lǐ'ān: Nà shì shénme [@shēngyīn@], gēge?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>92317</StartMilliseconds>
+    <EndMilliseconds>93368</EndMilliseconds>
+    <Text>里安：那是什么声音，[@哥哥@]？
+Lǐ'ān: Nà shì shénme shēngyīn, [@gēge@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>93368</StartMilliseconds>
+    <EndMilliseconds>96047</EndMilliseconds>
+    <Text>里安：那是什么声音，哥哥？
+Lǐ'ān: Nà shì shénme shēngyīn, gēge?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>96047</StartMilliseconds>
+    <EndMilliseconds>97251</EndMilliseconds>
+    <Text>里奇和里安：哦，不！好脏啊！
+Lǐqí hé Lǐ'ān: Ò, bù! Hǎo zāng a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>97251</StartMilliseconds>
+    <EndMilliseconds>97707</EndMilliseconds>
+    <Text>里奇和里安：[@哦@]，不！好脏啊！
+Lǐqí hé Lǐ'ān: [@Ò@], bù! Hǎo zāng a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>97707</StartMilliseconds>
+    <EndMilliseconds>98516</EndMilliseconds>
+    <Text>里奇和里安：哦，[@不@]！好脏啊！
+Lǐqí hé Lǐ'ān: Ò, [@bù@]! Hǎo zāng a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>98516</StartMilliseconds>
+    <EndMilliseconds>98773</EndMilliseconds>
+    <Text>里奇和里安：哦，不！[@好@]脏啊！
+Lǐqí hé Lǐ'ān: Ò, bù! [@Hǎo@] zāng a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>98773</StartMilliseconds>
+    <EndMilliseconds>99174</EndMilliseconds>
+    <Text>里奇和里安：哦，不！好[@脏@]啊！
+Lǐqí hé Lǐ'ān: Ò, bù! Hǎo [@zāng@] a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>99174</StartMilliseconds>
+    <EndMilliseconds>99952</EndMilliseconds>
+    <Text>里奇和里安：哦，不！好脏[@啊@]！
+Lǐqí hé Lǐ'ān: Ò, bù! Hǎo zāng [@a@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>99952</StartMilliseconds>
+    <EndMilliseconds>102158</EndMilliseconds>
+    <Text>里奇和里安：哦，不！好脏啊！
+Lǐqí hé Lǐ'ān: Ò, bù! Hǎo zāng a!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>102158</StartMilliseconds>
+    <EndMilliseconds>103682</EndMilliseconds>
+    <Text>里奇：我来清理。
+Lǐqí: Wǒ lái qīnglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>103682</StartMilliseconds>
+    <EndMilliseconds>104002</EndMilliseconds>
+    <Text>里奇：[@我@]来清理。
+Lǐqí: [@Wǒ@] lái qīnglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>104002</StartMilliseconds>
+    <EndMilliseconds>104258</EndMilliseconds>
+    <Text>里奇：我[@来@]清理。
+Lǐqí: Wǒ [@lái@] qīnglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>104258</StartMilliseconds>
+    <EndMilliseconds>105302</EndMilliseconds>
+    <Text>里奇：我来[@清理@]。
+Lǐqí: Wǒ lái [@qīnglǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>105302</StartMilliseconds>
+    <EndMilliseconds>106556</EndMilliseconds>
+    <Text>里奇：我来清理。
+Lǐqí: Wǒ lái qīnglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>106556</StartMilliseconds>
+    <EndMilliseconds>107810</EndMilliseconds>
+    <Text>里奇和里安：我们为你做了汤，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen wèi nǐ zuò le tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>107810</StartMilliseconds>
+    <EndMilliseconds>108480</EndMilliseconds>
+    <Text>里奇和里安：[@我们@]为你做了汤，爸爸。
+Lǐqí hé Lǐ'ān: [@Wǒmen@] wèi nǐ zuò le tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>108480</StartMilliseconds>
+    <EndMilliseconds>108811</EndMilliseconds>
+    <Text>里奇和里安：我们[@为@]你做了汤，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen [@wèi@] nǐ zuò le tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>108811</StartMilliseconds>
+    <EndMilliseconds>109086</EndMilliseconds>
+    <Text>里奇和里安：我们为[@你@]做了汤，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen wèi [@nǐ@] zuò le tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>109085</StartMilliseconds>
+    <EndMilliseconds>109302</EndMilliseconds>
+    <Text>里奇和里安：我们为你[@做@]了汤，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen wèi nǐ [@zuò@] le tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>109302</StartMilliseconds>
+    <EndMilliseconds>109564</EndMilliseconds>
+    <Text>里奇和里安：我们为你做[@了@]汤，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen wèi nǐ zuò [@le@] tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>109564</StartMilliseconds>
+    <EndMilliseconds>109852</EndMilliseconds>
+    <Text>里奇和里安：我们为你做了[@汤@]，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen wèi nǐ zuò le [@tāng@], bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>109852</StartMilliseconds>
+    <EndMilliseconds>110863</EndMilliseconds>
+    <Text>里奇和里安：我们为你做了汤，[@爸爸@]。
+Lǐqí hé Lǐ'ān: Wǒmen wèi nǐ zuò le tāng, [@bàba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>110863</StartMilliseconds>
+    <EndMilliseconds>111736</EndMilliseconds>
+    <Text>里奇和里安：我们为你做了汤，爸爸。
+Lǐqí hé Lǐ'ān: Wǒmen wèi nǐ zuò le tāng, bàba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>111736</StartMilliseconds>
+    <EndMilliseconds>116689</EndMilliseconds>
+    <Text>爸爸：这是我喝过的最美味的汤。
+bàba: Zhè shì wǒ hēguo de zuì měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>116689</StartMilliseconds>
+    <EndMilliseconds>116890</EndMilliseconds>
+    <Text>爸爸：[@这@]是我喝过的最美味的汤。
+bàba: [@Zhè@] shì wǒ hēguo de zuì měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>116890</StartMilliseconds>
+    <EndMilliseconds>117036</EndMilliseconds>
+    <Text>爸爸：这[@是@]我喝过的最美味的汤。
+bàba: Zhè [@shì@] wǒ hēguo de zuì měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>117036</StartMilliseconds>
+    <EndMilliseconds>117541</EndMilliseconds>
+    <Text>爸爸：这是[@我@]喝过的最美味的汤。
+bàba: Zhè shì [@wǒ@] hēguo de zuì měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>117541</StartMilliseconds>
+    <EndMilliseconds>117839</EndMilliseconds>
+    <Text>爸爸：这是我[@喝过@]的最美味的汤。
+bàba: Zhè shì wǒ [@hēguo@] de zuì měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>117840</StartMilliseconds>
+    <EndMilliseconds>118534</EndMilliseconds>
+    <Text>爸爸：这是我喝过[@的@]最美味的汤。
+bàba: Zhè shì wǒ hēguo [@de@] zuì měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>118534</StartMilliseconds>
+    <EndMilliseconds>118764</EndMilliseconds>
+    <Text>爸爸：这是我喝过的[@最@]美味的汤。
+bàba: Zhè shì wǒ hēguo de [@zuì@] měiwèi de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>118764</StartMilliseconds>
+    <EndMilliseconds>119218</EndMilliseconds>
+    <Text>爸爸：这是我喝过的最[@美味@]的汤。
+bàba: Zhè shì wǒ hēguo de zuì [@měiwèi@] de tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>119218</StartMilliseconds>
+    <EndMilliseconds>119501</EndMilliseconds>
+    <Text>爸爸：这是我喝过的最美味[@的@]汤。
+bàba: Zhè shì wǒ hēguo de zuì měiwèi [@de@] tāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>119501</StartMilliseconds>
+    <EndMilliseconds>120215</EndMilliseconds>
+    <Text>爸爸：这是我喝过的最美味的[@汤@]。
+bàba: Zhè shì wǒ hēguo de zuì měiwèi de [@tāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>120215</StartMilliseconds>
+    <EndMilliseconds>122986</EndMilliseconds>
+    <Text>爸爸：这是我喝过的最美味的汤。
+bàba: Zhè shì wǒ hēguo de zuì měiwèi de tāng.</Text>
+  </Paragraph>
+</Subtitle>

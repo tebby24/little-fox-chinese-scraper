@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13119</StartMilliseconds>
+    <EndMilliseconds>39593</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zǒuzou ba.
+乌龟：我们一起走走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>39594</StartMilliseconds>
+    <EndMilliseconds>40932</EndMilliseconds>
+    <Text>wūguī: [@Wǒmen@] yìqǐ zǒuzou ba.
+乌龟：[@我们@]一起走走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>40933</StartMilliseconds>
+    <EndMilliseconds>42197</EndMilliseconds>
+    <Text>wūguī: Wǒmen [@yìqǐ@] zǒuzou ba.
+乌龟：我们[@一起@]走走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>42198</StartMilliseconds>
+    <EndMilliseconds>43312</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ [@zǒuzou@] ba.
+乌龟：我们一起[@走走@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>43313</StartMilliseconds>
+    <EndMilliseconds>43991</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zǒuzou [@ba@].
+乌龟：我们一起走走[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>43992</StartMilliseconds>
+    <EndMilliseconds>47106</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zǒuzou ba.
+乌龟：我们一起走走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>47107</StartMilliseconds>
+    <EndMilliseconds>47975</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zài xiǎolù shàng zǒu ba.
+乌龟：我们一起在小路上走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>47976</StartMilliseconds>
+    <EndMilliseconds>49099</EndMilliseconds>
+    <Text>wūguī: [@Wǒmen@] yìqǐ zài xiǎolù shàng zǒu ba.
+乌龟：[@我们@]一起在小路上走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>49100</StartMilliseconds>
+    <EndMilliseconds>50002</EndMilliseconds>
+    <Text>wūguī: Wǒmen [@yìqǐ@] zài xiǎolù shàng zǒu ba.
+乌龟：我们[@一起@]在小路上走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>50003</StartMilliseconds>
+    <EndMilliseconds>50817</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ [@zài@] xiǎolù shàng zǒu ba.
+乌龟：我们一起[@在@]小路上走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>50818</StartMilliseconds>
+    <EndMilliseconds>52119</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zài [@xiǎolù@] shàng zǒu ba.
+乌龟：我们一起在[@小路@]上走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>52120</StartMilliseconds>
+    <EndMilliseconds>52567</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zài xiǎolù [@shàng@] zǒu ba.
+乌龟：我们一起在小路[@上@]走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>52568</StartMilliseconds>
+    <EndMilliseconds>53086</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zài xiǎolù shàng [@zǒu@] ba.
+乌龟：我们一起在小路上[@走@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>53087</StartMilliseconds>
+    <EndMilliseconds>53868</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zài xiǎolù shàng zǒu [@ba@].
+乌龟：我们一起在小路上走[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>53869</StartMilliseconds>
+    <EndMilliseconds>65354</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ zài xiǎolù shàng zǒu ba.
+乌龟：我们一起在小路上走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>65355</StartMilliseconds>
+    <EndMilliseconds>72044</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yì tiáo xiǎoxī.
+浣熊：这里有一条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>72045</StartMilliseconds>
+    <EndMilliseconds>73268</EndMilliseconds>
+    <Text>huànxióng: [@Zhèli@] yǒu yì tiáo xiǎoxī.
+浣熊：[@这里@]有一条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>73269</StartMilliseconds>
+    <EndMilliseconds>73928</EndMilliseconds>
+    <Text>huànxióng: Zhèli [@yǒu@] yì tiáo xiǎoxī.
+浣熊：这里[@有@]一条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>73929</StartMilliseconds>
+    <EndMilliseconds>74171</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu [@yì@] tiáo xiǎoxī.
+浣熊：这里有[@一@]条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>74172</StartMilliseconds>
+    <EndMilliseconds>74810</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yì [@tiáo@] xiǎoxī.
+浣熊：这里有一[@条@]小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>74811</StartMilliseconds>
+    <EndMilliseconds>75922</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yì tiáo [@xiǎoxī@].
+浣熊：这里有一条[@小溪@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>75923</StartMilliseconds>
+    <EndMilliseconds>77357</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yì tiáo xiǎoxī.
+浣熊：这里有一条小溪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>77358</StartMilliseconds>
+    <EndMilliseconds>78881</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zài xīshuǐ li zǒu ba.
+浣熊：我们一起在溪水里走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>78882</StartMilliseconds>
+    <EndMilliseconds>80108</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] yìqǐ zài xīshuǐ li zǒu ba.
+浣熊：[@我们@]一起在溪水里走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>80109</StartMilliseconds>
+    <EndMilliseconds>80706</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@yìqǐ@] zài xīshuǐ li zǒu ba.
+浣熊：我们[@一起@]在溪水里走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>80707</StartMilliseconds>
+    <EndMilliseconds>81182</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ [@zài@] xīshuǐ li zǒu ba.
+浣熊：我们一起[@在@]溪水里走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>81183</StartMilliseconds>
+    <EndMilliseconds>82005</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zài [@xīshuǐ@] li zǒu ba.
+浣熊：我们一起在[@溪水@]里走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>82006</StartMilliseconds>
+    <EndMilliseconds>82393</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zài xīshuǐ [@li@] zǒu ba.
+浣熊：我们一起在溪水[@里@]走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>82394</StartMilliseconds>
+    <EndMilliseconds>82787</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zài xīshuǐ li [@zǒu@] ba.
+浣熊：我们一起在溪水里[@走@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>82788</StartMilliseconds>
+    <EndMilliseconds>83332</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zài xīshuǐ li zǒu [@ba@].
+浣熊：我们一起在溪水里走[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>83333</StartMilliseconds>
+    <EndMilliseconds>113783</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ zài xīshuǐ li zǒu ba.
+浣熊：我们一起在溪水里走吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>113784</StartMilliseconds>
+    <EndMilliseconds>121944</EndMilliseconds>
+    <Text>wūguī: Zhèli yǒu yí ge shùzhuāng.
+乌龟：这里有一个树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>121945</StartMilliseconds>
+    <EndMilliseconds>123313</EndMilliseconds>
+    <Text>wūguī: [@Zhèli@] yǒu yí ge shùzhuāng.
+乌龟：[@这里@]有一个树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>123314</StartMilliseconds>
+    <EndMilliseconds>123818</EndMilliseconds>
+    <Text>wūguī: Zhèli [@yǒu@] yí ge shùzhuāng.
+乌龟：这里[@有@]一个树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>123819</StartMilliseconds>
+    <EndMilliseconds>124182</EndMilliseconds>
+    <Text>wūguī: Zhèli yǒu [@yí@] ge shùzhuāng.
+乌龟：这里有[@一@]个树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>124183</StartMilliseconds>
+    <EndMilliseconds>124695</EndMilliseconds>
+    <Text>wūguī: Zhèli yǒu yí [@ge@] shùzhuāng.
+乌龟：这里有一[@个@]树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>124696</StartMilliseconds>
+    <EndMilliseconds>126409</EndMilliseconds>
+    <Text>wūguī: Zhèli yǒu yí ge [@shùzhuāng@].
+乌龟：这里有一个[@树桩@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>126410</StartMilliseconds>
+    <EndMilliseconds>128793</EndMilliseconds>
+    <Text>wūguī: Zhèli yǒu yí ge shùzhuāng.
+乌龟：这里有一个树桩。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>128794</StartMilliseconds>
+    <EndMilliseconds>130876</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng tā shàngmian zǒu guòqu ba.
+乌龟：我们一起从它上面走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>130877</StartMilliseconds>
+    <EndMilliseconds>132003</EndMilliseconds>
+    <Text>wūguī: [@Wǒmen@] yìqǐ cóng tā shàngmian zǒu guòqu ba.
+乌龟：[@我们@]一起从它上面走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>132004</StartMilliseconds>
+    <EndMilliseconds>133028</EndMilliseconds>
+    <Text>wūguī: Wǒmen [@yìqǐ@] cóng tā shàngmian zǒu guòqu ba.
+乌龟：我们[@一起@]从它上面走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>133029</StartMilliseconds>
+    <EndMilliseconds>133449</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ [@cóng@] tā shàngmian zǒu guòqu ba.
+乌龟：我们一起[@从@]它上面走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>133450</StartMilliseconds>
+    <EndMilliseconds>133780</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng [@tā@] shàngmian zǒu guòqu ba.
+乌龟：我们一起从[@它@]上面走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>133781</StartMilliseconds>
+    <EndMilliseconds>135064</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng tā [@shàngmian@] zǒu guòqu ba.
+乌龟：我们一起从它[@上面@]走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>135065</StartMilliseconds>
+    <EndMilliseconds>135740</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng tā shàngmian [@zǒu@] guòqu ba.
+乌龟：我们一起从它上面[@走@]过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>135741</StartMilliseconds>
+    <EndMilliseconds>136422</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng tā shàngmian zǒu [@guòqu@] ba.
+乌龟：我们一起从它上面走[@过去@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>136423</StartMilliseconds>
+    <EndMilliseconds>137139</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng tā shàngmian zǒu guòqu [@ba@].
+乌龟：我们一起从它上面走过去[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>137140</StartMilliseconds>
+    <EndMilliseconds>166937</EndMilliseconds>
+    <Text>wūguī: Wǒmen yìqǐ cóng tā shàngmian zǒu guòqu ba.
+乌龟：我们一起从它上面走过去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>166938</StartMilliseconds>
+    <EndMilliseconds>175969</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yí zuò shān.
+浣熊：这里有一座山。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>175970</StartMilliseconds>
+    <EndMilliseconds>177500</EndMilliseconds>
+    <Text>huànxióng: [@Zhèli@] yǒu yí zuò shān.
+浣熊：[@这里@]有一座山。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>177501</StartMilliseconds>
+    <EndMilliseconds>178025</EndMilliseconds>
+    <Text>huànxióng: Zhèli [@yǒu@] yí zuò shān.
+浣熊：这里[@有@]一座山。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>178026</StartMilliseconds>
+    <EndMilliseconds>178248</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu [@yí@] zuò shān.
+浣熊：这里有[@一@]座山。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>178249</StartMilliseconds>
+    <EndMilliseconds>178544</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yí [@zuò@] shān.
+浣熊：这里有一[@座@]山。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>178545</StartMilliseconds>
+    <EndMilliseconds>179354</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yí zuò [@shān@].
+浣熊：这里有一座[@山@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>179355</StartMilliseconds>
+    <EndMilliseconds>180304</EndMilliseconds>
+    <Text>huànxióng: Zhèli yǒu yí zuò shān.
+浣熊：这里有一座山。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>180305</StartMilliseconds>
+    <EndMilliseconds>182524</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ pá shàngqu ba.
+浣熊：我们一起爬上去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>182525</StartMilliseconds>
+    <EndMilliseconds>183774</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] yìqǐ pá shàngqu ba.
+浣熊：[@我们@]一起爬上去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>183775</StartMilliseconds>
+    <EndMilliseconds>184548</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@yìqǐ@] pá shàngqu ba.
+浣熊：我们[@一起@]爬上去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>184549</StartMilliseconds>
+    <EndMilliseconds>184990</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ [@pá@] shàngqu ba.
+浣熊：我们一起[@爬@]上去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>184991</StartMilliseconds>
+    <EndMilliseconds>185644</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ pá [@shàngqu@] ba.
+浣熊：我们一起爬[@上去@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>185645</StartMilliseconds>
+    <EndMilliseconds>186458</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ pá shàngqu [@ba@].
+浣熊：我们一起爬上去[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>186459</StartMilliseconds>
+    <EndMilliseconds>193165</EndMilliseconds>
+    <Text>huànxióng: Wǒmen yìqǐ pá shàngqu ba.
+浣熊：我们一起爬上去吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>193166</StartMilliseconds>
+    <EndMilliseconds>203586</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài wǎng shàng pá, pá, pá.
+乌龟：我们正在往上爬，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>203587</StartMilliseconds>
+    <EndMilliseconds>204621</EndMilliseconds>
+    <Text>wūguī: [@Wǒmen@] zhèngzài wǎng shàng pá, pá, pá.
+乌龟：[@我们@]正在往上爬，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>204622</StartMilliseconds>
+    <EndMilliseconds>205746</EndMilliseconds>
+    <Text>wūguī: Wǒmen [@zhèngzài@] wǎng shàng pá, pá, pá.
+乌龟：我们[@正在@]往上爬，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>205747</StartMilliseconds>
+    <EndMilliseconds>206320</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài [@wǎng@] shàng pá, pá, pá.
+乌龟：我们正在[@往@]上爬，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>206321</StartMilliseconds>
+    <EndMilliseconds>206966</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài wǎng [@shàng@] pá, pá, pá.
+乌龟：我们正在往[@上@]爬，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>206967</StartMilliseconds>
+    <EndMilliseconds>208000</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài wǎng shàng [@pá@], pá, pá.
+乌龟：我们正在往上[@爬@]，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>208001</StartMilliseconds>
+    <EndMilliseconds>209578</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài wǎng shàng pá, [@pá@], pá.
+乌龟：我们正在往上爬，[@爬@]，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>209579</StartMilliseconds>
+    <EndMilliseconds>210771</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài wǎng shàng pá, pá, [@pá@].
+乌龟：我们正在往上爬，爬，[@爬@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>210772</StartMilliseconds>
+    <EndMilliseconds>211328</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhèngzài wǎng shàng pá, pá, pá.
+乌龟：我们正在往上爬，爬，爬。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>211329</StartMilliseconds>
+    <EndMilliseconds>212114</EndMilliseconds>
+    <Text>huànxióng: Jìxù pá!
+浣熊：继续爬！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>212115</StartMilliseconds>
+    <EndMilliseconds>213086</EndMilliseconds>
+    <Text>huànxióng: [@Jìxù@] pá!
+浣熊：[@继续@]爬！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>213087</StartMilliseconds>
+    <EndMilliseconds>214124</EndMilliseconds>
+    <Text>huànxióng: Jìxù [@pá@]!
+浣熊：继续[@爬@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>214125</StartMilliseconds>
+    <EndMilliseconds>231784</EndMilliseconds>
+    <Text>huànxióng: Jìxù pá!
+浣熊：继续爬！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>231785</StartMilliseconds>
+    <EndMilliseconds>232514</EndMilliseconds>
+    <Text>huànxióng: Wǒmen chénggōng le!
+浣熊：我们成功了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>232515</StartMilliseconds>
+    <EndMilliseconds>233566</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] chénggōng le!
+浣熊：[@我们@]成功了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>233567</StartMilliseconds>
+    <EndMilliseconds>234553</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@chénggōng@] le!
+浣熊：我们[@成功@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>234554</StartMilliseconds>
+    <EndMilliseconds>235237</EndMilliseconds>
+    <Text>huànxióng: Wǒmen chénggōng [@le@]!
+浣熊：我们成功[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>235238</StartMilliseconds>
+    <EndMilliseconds>235791</EndMilliseconds>
+    <Text>huànxióng: Wǒmen chénggōng le!
+浣熊：我们成功了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>235792</StartMilliseconds>
+    <EndMilliseconds>236495</EndMilliseconds>
+    <Text>huànxióng: Wǒmen zǒushàng shāndǐng le.
+浣熊：我们走上山顶了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>236496</StartMilliseconds>
+    <EndMilliseconds>237733</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] zǒushàng shāndǐng le.
+浣熊：[@我们@]走上山顶了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>237734</StartMilliseconds>
+    <EndMilliseconds>238673</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@zǒushàng@] shāndǐng le.
+浣熊：我们[@走上@]山顶了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>238674</StartMilliseconds>
+    <EndMilliseconds>239699</EndMilliseconds>
+    <Text>huànxióng: Wǒmen zǒushàng [@shāndǐng@] le.
+浣熊：我们走上[@山顶@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>239700</StartMilliseconds>
+    <EndMilliseconds>240478</EndMilliseconds>
+    <Text>huànxióng: Wǒmen zǒushàng shāndǐng [@le@].
+浣熊：我们走上山顶[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>240479</StartMilliseconds>
+    <EndMilliseconds>242744</EndMilliseconds>
+    <Text>huànxióng: Wǒmen zǒushàng shāndǐng le.
+浣熊：我们走上山顶了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>242745</StartMilliseconds>
+    <EndMilliseconds>243522</EndMilliseconds>
+    <Text>huànxióng: Wǒmen xiànzài zǒu xiàqu ba?
+浣熊：我们现在走下去吧？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>243523</StartMilliseconds>
+    <EndMilliseconds>244617</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] xiànzài zǒu xiàqu ba?
+浣熊：[@我们@]现在走下去吧？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>244618</StartMilliseconds>
+    <EndMilliseconds>245770</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@xiànzài@] zǒu xiàqu ba?
+浣熊：我们[@现在@]走下去吧？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>245771</StartMilliseconds>
+    <EndMilliseconds>246245</EndMilliseconds>
+    <Text>huànxióng: Wǒmen xiànzài [@zǒu@] xiàqu ba?
+浣熊：我们现在[@走@]下去吧？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>246246</StartMilliseconds>
+    <EndMilliseconds>246882</EndMilliseconds>
+    <Text>huànxióng: Wǒmen xiànzài zǒu [@xiàqu@] ba?
+浣熊：我们现在走[@下去@]吧？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>246883</StartMilliseconds>
+    <EndMilliseconds>247600</EndMilliseconds>
+    <Text>huànxióng: Wǒmen xiànzài zǒu xiàqu [@ba@]?
+浣熊：我们现在走下去[@吧@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>247601</StartMilliseconds>
+    <EndMilliseconds>247968</EndMilliseconds>
+    <Text>huànxióng: Wǒmen xiànzài zǒu xiàqu ba?
+浣熊：我们现在走下去吧？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>247969</StartMilliseconds>
+    <EndMilliseconds>248723</EndMilliseconds>
+    <Text>wūguī: Wǒ bù xiǎng zài zǒu lù le.
+乌龟：我不想再走路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>248724</StartMilliseconds>
+    <EndMilliseconds>249463</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] bù xiǎng zài zǒu lù le.
+乌龟：[@我@]不想再走路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>249464</StartMilliseconds>
+    <EndMilliseconds>249843</EndMilliseconds>
+    <Text>wūguī: Wǒ [@bù@] xiǎng zài zǒu lù le.
+乌龟：我[@不@]想再走路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>249844</StartMilliseconds>
+    <EndMilliseconds>250469</EndMilliseconds>
+    <Text>wūguī: Wǒ bù [@xiǎng@] zài zǒu lù le.
+乌龟：我不[@想@]再走路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>250470</StartMilliseconds>
+    <EndMilliseconds>251029</EndMilliseconds>
+    <Text>wūguī: Wǒ bù xiǎng [@zài@] zǒu lù le.
+乌龟：我不想[@再@]走路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>251030</StartMilliseconds>
+    <EndMilliseconds>251473</EndMilliseconds>
+    <Text>wūguī: Wǒ bù xiǎng zài [@zǒu@] lù le.
+乌龟：我不想再[@走@]路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>251474</StartMilliseconds>
+    <EndMilliseconds>252145</EndMilliseconds>
+    <Text>wūguī: Wǒ bù xiǎng zài zǒu [@lù@] le.
+乌龟：我不想再走[@路@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>252146</StartMilliseconds>
+    <EndMilliseconds>252827</EndMilliseconds>
+    <Text>wūguī: Wǒ bù xiǎng zài zǒu lù [@le@].
+乌龟：我不想再走路[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>252828</StartMilliseconds>
+    <EndMilliseconds>254346</EndMilliseconds>
+    <Text>wūguī: Wǒ bù xiǎng zài zǒu lù le.
+乌龟：我不想再走路了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>254347</StartMilliseconds>
+    <EndMilliseconds>256910</EndMilliseconds>
+    <Text>huànxióng: Bù xiǎng zài zǒu lù le?
+浣熊：不想再走路了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>256911</StartMilliseconds>
+    <EndMilliseconds>257398</EndMilliseconds>
+    <Text>huànxióng: [@Bù@] xiǎng zài zǒu lù le?
+浣熊：[@不@]想再走路了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>257399</StartMilliseconds>
+    <EndMilliseconds>258360</EndMilliseconds>
+    <Text>huànxióng: Bù [@xiǎng@] zài zǒu lù le?
+浣熊：不[@想@]再走路了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>258361</StartMilliseconds>
+    <EndMilliseconds>258833</EndMilliseconds>
+    <Text>huànxióng: Bù xiǎng [@zài@] zǒu lù le?
+浣熊：不想[@再@]走路了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>258834</StartMilliseconds>
+    <EndMilliseconds>259288</EndMilliseconds>
+    <Text>huànxióng: Bù xiǎng zài [@zǒu@] lù le?
+浣熊：不想再[@走@]路了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>259289</StartMilliseconds>
+    <EndMilliseconds>259691</EndMilliseconds>
+    <Text>huànxióng: Bù xiǎng zài zǒu [@lù@] le?
+浣熊：不想再走[@路@]了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>259692</StartMilliseconds>
+    <EndMilliseconds>260277</EndMilliseconds>
+    <Text>huànxióng: Bù xiǎng zài zǒu lù [@le@]?
+浣熊：不想再走路[@了@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>260278</StartMilliseconds>
+    <EndMilliseconds>261139</EndMilliseconds>
+    <Text>huànxióng: Bù xiǎng zài zǒu lù le?
+浣熊：不想再走路了？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>261140</StartMilliseconds>
+    <EndMilliseconds>262085</EndMilliseconds>
+    <Text>wūguī: Shìde, wǒ yào gǔn xiàqu.
+乌龟：是的，我要滚下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>262086</StartMilliseconds>
+    <EndMilliseconds>263928</EndMilliseconds>
+    <Text>wūguī: [@Shìde@], wǒ yào gǔn xiàqu.
+乌龟：[@是的@]，我要滚下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>263929</StartMilliseconds>
+    <EndMilliseconds>264680</EndMilliseconds>
+    <Text>wūguī: Shìde, [@wǒ@] yào gǔn xiàqu.
+乌龟：是的，[@我@]要滚下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>264681</StartMilliseconds>
+    <EndMilliseconds>265540</EndMilliseconds>
+    <Text>wūguī: Shìde, wǒ [@yào@] gǔn xiàqu.
+乌龟：是的，我[@要@]滚下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>265541</StartMilliseconds>
+    <EndMilliseconds>266062</EndMilliseconds>
+    <Text>wūguī: Shìde, wǒ yào [@gǔn@] xiàqu.
+乌龟：是的，我要[@滚@]下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>266063</StartMilliseconds>
+    <EndMilliseconds>267338</EndMilliseconds>
+    <Text>wūguī: Shìde, wǒ yào gǔn [@xiàqu@].
+乌龟：是的，我要滚[@下去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>267339</StartMilliseconds>
+    <EndMilliseconds>295175</EndMilliseconds>
+    <Text>wūguī: Shìde, wǒ yào gǔn xiàqu.
+乌龟：是的，我要滚下去。</Text>
+  </Paragraph>
+</Subtitle>

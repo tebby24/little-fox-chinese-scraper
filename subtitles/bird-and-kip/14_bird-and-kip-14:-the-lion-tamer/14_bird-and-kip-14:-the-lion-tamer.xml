@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10009</StartMilliseconds>
+    <EndMilliseconds>12986</EndMilliseconds>
+    <Text>小鸟很喜欢看马戏。
+Xiǎoniǎo hěn xǐhuan kàn mǎxì. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12987</StartMilliseconds>
+    <EndMilliseconds>13809</EndMilliseconds>
+    <Text>[@小鸟@]很喜欢看马戏。
+[@Xiǎoniǎo@] hěn xǐhuan kàn mǎxì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13810</StartMilliseconds>
+    <EndMilliseconds>14094</EndMilliseconds>
+    <Text>小鸟[@很@]喜欢看马戏。
+Xiǎoniǎo [@hěn@] xǐhuan kàn mǎxì. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14095</StartMilliseconds>
+    <EndMilliseconds>14787</EndMilliseconds>
+    <Text>小鸟很[@喜欢@]看马戏。
+Xiǎoniǎo hěn [@xǐhuan@] kàn mǎxì. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14788</StartMilliseconds>
+    <EndMilliseconds>15138</EndMilliseconds>
+    <Text>小鸟很喜欢[@看@]马戏。
+Xiǎoniǎo hěn xǐhuan [@kàn@] mǎxì. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15139</StartMilliseconds>
+    <EndMilliseconds>15856</EndMilliseconds>
+    <Text>小鸟很喜欢看[@马戏@]。
+Xiǎoniǎo hěn xǐhuan kàn [@mǎxì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15857</StartMilliseconds>
+    <EndMilliseconds>16439</EndMilliseconds>
+    <Text>小鸟很喜欢看马戏。
+Xiǎoniǎo hěn xǐhuan kàn mǎxì. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16440</StartMilliseconds>
+    <EndMilliseconds>16886</EndMilliseconds>
+    <Text>基普也很喜欢看。
+Jīpǔ yě hěn xǐhuan kàn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16887</StartMilliseconds>
+    <EndMilliseconds>17724</EndMilliseconds>
+    <Text>[@基普@]也很喜欢看。
+[@Jīpǔ@] yě hěn xǐhuan kàn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17725</StartMilliseconds>
+    <EndMilliseconds>18137</EndMilliseconds>
+    <Text>基普[@也@]很喜欢看。
+Jīpǔ [@yě@] hěn xǐhuan kàn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18138</StartMilliseconds>
+    <EndMilliseconds>18398</EndMilliseconds>
+    <Text>基普也[@很@]喜欢看。
+Jīpǔ yě [@hěn@] xǐhuan kàn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18399</StartMilliseconds>
+    <EndMilliseconds>18925</EndMilliseconds>
+    <Text>基普也很[@喜欢@]看。
+Jīpǔ yě hěn [@xǐhuan@] kàn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18926</StartMilliseconds>
+    <EndMilliseconds>19270</EndMilliseconds>
+    <Text>基普也很喜欢[@看@]。
+Jīpǔ yě hěn xǐhuan [@kàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19271</StartMilliseconds>
+    <EndMilliseconds>21622</EndMilliseconds>
+    <Text>基普也很喜欢看。
+Jīpǔ yě hěn xǐhuan kàn. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>21623</StartMilliseconds>
+    <EndMilliseconds>22357</EndMilliseconds>
+    <Text>其实，基普更想参加马戏团！
+Qíshí, Jīpǔ gèng xiǎng cānjiā mǎxìtuán! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>22358</StartMilliseconds>
+    <EndMilliseconds>23382</EndMilliseconds>
+    <Text>[@其实@]，基普更想参加马戏团！
+[@Qíshí@], Jīpǔ gèng xiǎng cānjiā mǎxìtuán!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>23383</StartMilliseconds>
+    <EndMilliseconds>24314</EndMilliseconds>
+    <Text>其实，[@基普@]更想参加马戏团！
+Qíshí, [@Jīpǔ@] gèng xiǎng cānjiā mǎxìtuán! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>24315</StartMilliseconds>
+    <EndMilliseconds>24538</EndMilliseconds>
+    <Text>其实，基普[@更@]想参加马戏团！
+Qíshí, Jīpǔ [@gèng@] xiǎng cānjiā mǎxìtuán! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24539</StartMilliseconds>
+    <EndMilliseconds>24885</EndMilliseconds>
+    <Text>其实，基普更[@想@]参加马戏团！
+Qíshí, Jīpǔ gèng [@xiǎng@] cānjiā mǎxìtuán! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>24886</StartMilliseconds>
+    <EndMilliseconds>25548</EndMilliseconds>
+    <Text>其实，基普更想[@参加@]马戏团！
+Qíshí, Jīpǔ gèng xiǎng [@cānjiā@] mǎxìtuán! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>25549</StartMilliseconds>
+    <EndMilliseconds>26541</EndMilliseconds>
+    <Text>其实，基普更想参加[@马戏团@]！
+Qíshí, Jīpǔ gèng xiǎng cānjiā [@mǎxìtuán@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26542</StartMilliseconds>
+    <EndMilliseconds>28822</EndMilliseconds>
+    <Text>其实，基普更想参加马戏团！
+Qíshí, Jīpǔ gèng xiǎng cānjiā mǎxìtuán! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>28823</StartMilliseconds>
+    <EndMilliseconds>29715</EndMilliseconds>
+    <Text>基普想要成为一名杂技演员。
+Jīpǔ xiǎng yào chéngwéi yì míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>29716</StartMilliseconds>
+    <EndMilliseconds>30497</EndMilliseconds>
+    <Text>[@基普@]想要成为一名杂技演员。
+[@Jīpǔ@] xiǎng yào chéngwéi yì míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>30498</StartMilliseconds>
+    <EndMilliseconds>30897</EndMilliseconds>
+    <Text>基普[@想@]要成为一名杂技演员。
+Jīpǔ [@xiǎng@] yào chéngwéi yì míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>30898</StartMilliseconds>
+    <EndMilliseconds>31205</EndMilliseconds>
+    <Text>基普想[@要@]成为一名杂技演员。
+Jīpǔ xiǎng [@yào@] chéngwéi yì míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>31206</StartMilliseconds>
+    <EndMilliseconds>31785</EndMilliseconds>
+    <Text>基普想要[@成为@]一名杂技演员。
+Jīpǔ xiǎng yào [@chéngwéi@] yì míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>31786</StartMilliseconds>
+    <EndMilliseconds>31952</EndMilliseconds>
+    <Text>基普想要成为[@一@]名杂技演员。
+Jīpǔ xiǎng yào chéngwéi [@yì@] míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>31953</StartMilliseconds>
+    <EndMilliseconds>32442</EndMilliseconds>
+    <Text>基普想要成为一[@名@]杂技演员。
+Jīpǔ xiǎng yào chéngwéi yì [@míng@] zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>32443</StartMilliseconds>
+    <EndMilliseconds>33146</EndMilliseconds>
+    <Text>基普想要成为一名[@杂技@]演员。
+Jīpǔ xiǎng yào chéngwéi yì míng [@zájì@] yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>33147</StartMilliseconds>
+    <EndMilliseconds>33961</EndMilliseconds>
+    <Text>基普想要成为一名杂技[@演员@]。
+Jīpǔ xiǎng yào chéngwéi yì míng zájì [@yǎnyuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>33962</StartMilliseconds>
+    <EndMilliseconds>37097</EndMilliseconds>
+    <Text>基普想要成为一名杂技演员。
+Jīpǔ xiǎng yào chéngwéi yì míng zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>37098</StartMilliseconds>
+    <EndMilliseconds>37681</EndMilliseconds>
+    <Text>他还想成为一名会走钢丝的杂技演员。
+Tā hái xiǎng chéngwéi yì míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37682</StartMilliseconds>
+    <EndMilliseconds>38010</EndMilliseconds>
+    <Text>[@他@]还想成为一名会走钢丝的杂技演员。
+[@Tā@] hái xiǎng chéngwéi yì míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>38011</StartMilliseconds>
+    <EndMilliseconds>38196</EndMilliseconds>
+    <Text>他[@还@]想成为一名会走钢丝的杂技演员。
+Tā [@hái@] xiǎng chéngwéi yì míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38197</StartMilliseconds>
+    <EndMilliseconds>38678</EndMilliseconds>
+    <Text>他还[@想@]成为一名会走钢丝的杂技演员。
+Tā hái [@xiǎng@] chéngwéi yì míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>38679</StartMilliseconds>
+    <EndMilliseconds>39059</EndMilliseconds>
+    <Text>他还想[@成为@]一名会走钢丝的杂技演员。
+Tā hái xiǎng [@chéngwéi@] yì míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>39060</StartMilliseconds>
+    <EndMilliseconds>39239</EndMilliseconds>
+    <Text>他还想成为[@一@]名会走钢丝的杂技演员。
+Tā hái xiǎng chéngwéi [@yì@] míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>39240</StartMilliseconds>
+    <EndMilliseconds>39917</EndMilliseconds>
+    <Text>他还想成为一[@名@]会走钢丝的杂技演员。
+Tā hái xiǎng chéngwéi yì [@míng@] huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>39918</StartMilliseconds>
+    <EndMilliseconds>40208</EndMilliseconds>
+    <Text>他还想成为一名[@会@]走钢丝的杂技演员。
+Tā hái xiǎng chéngwéi yì míng [@huì@] zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>40209</StartMilliseconds>
+    <EndMilliseconds>40536</EndMilliseconds>
+    <Text>他还想成为一名会[@走@]钢丝的杂技演员。
+Tā hái xiǎng chéngwéi yì míng huì [@zǒu@] gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>40537</StartMilliseconds>
+    <EndMilliseconds>41018</EndMilliseconds>
+    <Text>他还想成为一名会走[@钢丝@]的杂技演员。
+Tā hái xiǎng chéngwéi yì míng huì zǒu [@gāngsī@] de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>41019</StartMilliseconds>
+    <EndMilliseconds>41520</EndMilliseconds>
+    <Text>他还想成为一名会走钢丝[@的@]杂技演员。
+Tā hái xiǎng chéngwéi yì míng huì zǒu gāngsī [@de@] zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>41521</StartMilliseconds>
+    <EndMilliseconds>42113</EndMilliseconds>
+    <Text>他还想成为一名会走钢丝的[@杂技@]演员。
+Tā hái xiǎng chéngwéi yì míng huì zǒu gāngsī de [@zájì@] yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>42114</StartMilliseconds>
+    <EndMilliseconds>42795</EndMilliseconds>
+    <Text>他还想成为一名会走钢丝的杂技[@演员@]。
+Tā hái xiǎng chéngwéi yì míng huì zǒu gāngsī de zájì [@yǎnyuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>42796</StartMilliseconds>
+    <EndMilliseconds>45640</EndMilliseconds>
+    <Text>他还想成为一名会走钢丝的杂技演员。
+Tā hái xiǎng chéngwéi yì míng huì zǒu gāngsī de zájì yǎnyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>45641</StartMilliseconds>
+    <EndMilliseconds>49384</EndMilliseconds>
+    <Text>很快，一头狮子走上了舞台。
+Hěn kuài, yì tóu shīzi zǒushàng le wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>49385</StartMilliseconds>
+    <EndMilliseconds>49746</EndMilliseconds>
+    <Text>[@很@]快，一头狮子走上了舞台。
+[@Hěn@] kuài, yì tóu shīzi zǒushàng le wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>49747</StartMilliseconds>
+    <EndMilliseconds>50410</EndMilliseconds>
+    <Text>很[@快@]，一头狮子走上了舞台。
+Hěn [@kuài@], yì tóu shīzi zǒushàng le wǔtái.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>50411</StartMilliseconds>
+    <EndMilliseconds>50655</EndMilliseconds>
+    <Text>很快，[@一@]头狮子走上了舞台。
+Hěn kuài, [@yì@] tóu shīzi zǒushàng le wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>50656</StartMilliseconds>
+    <EndMilliseconds>50982</EndMilliseconds>
+    <Text>很快，一[@头@]狮子走上了舞台。
+Hěn kuài, yì [@tóu@] shīzi zǒushàng le wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>50983</StartMilliseconds>
+    <EndMilliseconds>51980</EndMilliseconds>
+    <Text>很快，一头[@狮子@]走上了舞台。
+Hěn kuài, yì tóu [@shīzi@] zǒushàng le wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>51981</StartMilliseconds>
+    <EndMilliseconds>52533</EndMilliseconds>
+    <Text>很快，一头狮子[@走上@]了舞台。
+Hěn kuài, yì tóu shīzi [@zǒushàng@] le wǔtái.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>52534</StartMilliseconds>
+    <EndMilliseconds>52774</EndMilliseconds>
+    <Text>很快，一头狮子走上[@了@]舞台。
+Hěn kuài, yì tóu shīzi zǒushàng [@le@] wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>52775</StartMilliseconds>
+    <EndMilliseconds>53607</EndMilliseconds>
+    <Text>很快，一头狮子走上了[@舞台@]。
+Hěn kuài, yì tóu shīzi zǒushàng le [@wǔtái@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>53608</StartMilliseconds>
+    <EndMilliseconds>53953</EndMilliseconds>
+    <Text>很快，一头狮子走上了舞台。
+Hěn kuài, yì tóu shīzi zǒushàng le wǔtái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>53954</StartMilliseconds>
+    <EndMilliseconds>54270</EndMilliseconds>
+    <Text>大家变得很安静。
+Dàjiā biàn de hěn ānjìng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>54271</StartMilliseconds>
+    <EndMilliseconds>55007</EndMilliseconds>
+    <Text>[@大家@]变得很安静。
+[@Dàjiā@] biàn de hěn ānjìng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>55008</StartMilliseconds>
+    <EndMilliseconds>55319</EndMilliseconds>
+    <Text>大家[@变@]得很安静。
+Dàjiā [@biàn@] de hěn ānjìng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>55320</StartMilliseconds>
+    <EndMilliseconds>55514</EndMilliseconds>
+    <Text>大家变[@得@]很安静。
+Dàjiā biàn [@de@] hěn ānjìng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>55515</StartMilliseconds>
+    <EndMilliseconds>55842</EndMilliseconds>
+    <Text>大家变得[@很@]安静。
+Dàjiā biàn de [@hěn@] ānjìng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>55843</StartMilliseconds>
+    <EndMilliseconds>56536</EndMilliseconds>
+    <Text>大家变得很[@安静@]。
+Dàjiā biàn de hěn [@ānjìng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>56537</StartMilliseconds>
+    <EndMilliseconds>56999</EndMilliseconds>
+    <Text>大家变得很安静。
+Dàjiā biàn de hěn ānjìng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>57000</StartMilliseconds>
+    <EndMilliseconds>57513</EndMilliseconds>
+    <Text>那头狮子很庞大也很恐怖。
+Nà tóu shīzi hěn pángdà yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>57514</StartMilliseconds>
+    <EndMilliseconds>57821</EndMilliseconds>
+    <Text>[@那@]头狮子很庞大也很恐怖。
+[@Nà@] tóu shīzi hěn pángdà yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>57822</StartMilliseconds>
+    <EndMilliseconds>58057</EndMilliseconds>
+    <Text>那[@头@]狮子很庞大也很恐怖。
+Nà [@tóu@] shīzi hěn pángdà yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>58058</StartMilliseconds>
+    <EndMilliseconds>58926</EndMilliseconds>
+    <Text>那头[@狮子@]很庞大也很恐怖。
+Nà tóu [@shīzi@] hěn pángdà yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>58927</StartMilliseconds>
+    <EndMilliseconds>59269</EndMilliseconds>
+    <Text>那头狮子[@很@]庞大也很恐怖。
+Nà tóu shīzi [@hěn@] pángdà yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>59270</StartMilliseconds>
+    <EndMilliseconds>60353</EndMilliseconds>
+    <Text>那头狮子很[@庞大@]也很恐怖。
+Nà tóu shīzi hěn [@pángdà@] yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>60354</StartMilliseconds>
+    <EndMilliseconds>60692</EndMilliseconds>
+    <Text>那头狮子很庞大[@也@]很恐怖。
+Nà tóu shīzi hěn pángdà [@yě@] hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>60693</StartMilliseconds>
+    <EndMilliseconds>61048</EndMilliseconds>
+    <Text>那头狮子很庞大也[@很@]恐怖。
+Nà tóu shīzi hěn pángdà yě [@hěn@] kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>61049</StartMilliseconds>
+    <EndMilliseconds>61788</EndMilliseconds>
+    <Text>那头狮子很庞大也很[@恐怖@]。
+Nà tóu shīzi hěn pángdà yě hěn [@kǒngbù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>61789</StartMilliseconds>
+    <EndMilliseconds>62450</EndMilliseconds>
+    <Text>那头狮子很庞大也很恐怖。
+Nà tóu shīzi hěn pángdà yě hěn kǒngbù. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>62451</StartMilliseconds>
+    <EndMilliseconds>62780</EndMilliseconds>
+    <Text>狮子大吼着。
+Shīzi dà hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>62781</StartMilliseconds>
+    <EndMilliseconds>63652</EndMilliseconds>
+    <Text>[@狮子@]大吼着。
+[@Shīzi@] dà hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>63653</StartMilliseconds>
+    <EndMilliseconds>64031</EndMilliseconds>
+    <Text>狮子[@大@]吼着。
+Shīzi [@dà@] hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>64032</StartMilliseconds>
+    <EndMilliseconds>64762</EndMilliseconds>
+    <Text>狮子大[@吼着@]。
+Shīzi dà [@hǒuzhe@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>64763</StartMilliseconds>
+    <EndMilliseconds>67249</EndMilliseconds>
+    <Text>狮子大吼着。
+Shīzi dà hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>67250</StartMilliseconds>
+    <EndMilliseconds>71912</EndMilliseconds>
+    <Text>一个人突然站到狮子前面。
+Yí ge rén tūrán zhàndào shīzi qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>71913</StartMilliseconds>
+    <EndMilliseconds>72109</EndMilliseconds>
+    <Text>[@一@]个人突然站到狮子前面。
+[@Yí@] ge rén tūrán zhàndào shīzi qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>72110</StartMilliseconds>
+    <EndMilliseconds>72258</EndMilliseconds>
+    <Text>一[@个@]人突然站到狮子前面。
+Yí [@ge@] rén tūrán zhàndào shīzi qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>72259</StartMilliseconds>
+    <EndMilliseconds>72867</EndMilliseconds>
+    <Text>一个[@人@]突然站到狮子前面。
+Yí ge [@rén@] tūrán zhàndào shīzi qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>72868</StartMilliseconds>
+    <EndMilliseconds>73618</EndMilliseconds>
+    <Text>一个人[@突然@]站到狮子前面。
+Yí ge rén [@tūrán@] zhàndào shīzi qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>73619</StartMilliseconds>
+    <EndMilliseconds>74201</EndMilliseconds>
+    <Text>一个人突然[@站到@]狮子前面。
+Yí ge rén tūrán [@zhàndào@] shīzi qiánmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>74202</StartMilliseconds>
+    <EndMilliseconds>74683</EndMilliseconds>
+    <Text>一个人突然站到[@狮子@]前面。
+Yí ge rén tūrán zhàndào [@shīzi@] qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>74684</StartMilliseconds>
+    <EndMilliseconds>75383</EndMilliseconds>
+    <Text>一个人突然站到狮子[@前面@]。
+Yí ge rén tūrán zhàndào shīzi [@qiánmian@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>75384</StartMilliseconds>
+    <EndMilliseconds>75847</EndMilliseconds>
+    <Text>一个人突然站到狮子前面。
+Yí ge rén tūrán zhàndào shīzi qiánmian. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>75848</StartMilliseconds>
+    <EndMilliseconds>76269</EndMilliseconds>
+    <Text>那个人拿着一把椅子。
+Nà ge rén názhe yì bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>76270</StartMilliseconds>
+    <EndMilliseconds>76422</EndMilliseconds>
+    <Text>[@那@]个人拿着一把椅子。
+[@Nà@] ge rén názhe yì bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>76423</StartMilliseconds>
+    <EndMilliseconds>76568</EndMilliseconds>
+    <Text>那[@个@]人拿着一把椅子。
+Nà [@ge@] rén názhe yì bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>76569</StartMilliseconds>
+    <EndMilliseconds>77254</EndMilliseconds>
+    <Text>那个[@人@]拿着一把椅子。
+Nà ge [@rén@] názhe yì bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>77255</StartMilliseconds>
+    <EndMilliseconds>77726</EndMilliseconds>
+    <Text>那个人[@拿着@]一把椅子。
+Nà ge rén [@názhe@] yì bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>77727</StartMilliseconds>
+    <EndMilliseconds>77913</EndMilliseconds>
+    <Text>那个人拿着[@一@]把椅子。
+Nà ge rén názhe [@yì@] bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>77914</StartMilliseconds>
+    <EndMilliseconds>78177</EndMilliseconds>
+    <Text>那个人拿着一[@把@]椅子。
+Nà ge rén názhe yì [@bǎ@] yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>78178</StartMilliseconds>
+    <EndMilliseconds>78885</EndMilliseconds>
+    <Text>那个人拿着一把[@椅子@]。
+Nà ge rén názhe yì bǎ [@yǐzi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>78886</StartMilliseconds>
+    <EndMilliseconds>79514</EndMilliseconds>
+    <Text>那个人拿着一把椅子。
+Nà ge rén názhe yì bǎ yǐzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>79515</StartMilliseconds>
+    <EndMilliseconds>79873</EndMilliseconds>
+    <Text>他是一名驯兽员。
+Tā shì yì míng xùnshòuyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>79874</StartMilliseconds>
+    <EndMilliseconds>80329</EndMilliseconds>
+    <Text>[@他@]是一名驯兽员。
+[@Tā@] shì yì míng xùnshòuyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>80330</StartMilliseconds>
+    <EndMilliseconds>80717</EndMilliseconds>
+    <Text>他[@是@]一名驯兽员。
+Tā [@shì@] yì míng xùnshòuyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>80718</StartMilliseconds>
+    <EndMilliseconds>80865</EndMilliseconds>
+    <Text>他是[@一@]名驯兽员。
+Tā shì [@yì@] míng xùnshòuyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>80866</StartMilliseconds>
+    <EndMilliseconds>81404</EndMilliseconds>
+    <Text>他是一[@名@]驯兽员。
+Tā shì yì [@míng@] xùnshòuyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>81405</StartMilliseconds>
+    <EndMilliseconds>82666</EndMilliseconds>
+    <Text>他是一名[@驯兽员@]。
+Tā shì yì míng [@xùnshòuyuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>82667</StartMilliseconds>
+    <EndMilliseconds>83798</EndMilliseconds>
+    <Text>他是一名驯兽员。
+Tā shì yì míng xùnshòuyuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>83799</StartMilliseconds>
+    <EndMilliseconds>84186</EndMilliseconds>
+    <Text>狮子向驯兽员吼着。
+Shīzi xiàng xùnshòuyuán hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>84187</StartMilliseconds>
+    <EndMilliseconds>84873</EndMilliseconds>
+    <Text>[@狮子@]向驯兽员吼着。
+[@Shīzi@] xiàng xùnshòuyuán hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>84874</StartMilliseconds>
+    <EndMilliseconds>85170</EndMilliseconds>
+    <Text>狮子[@向@]驯兽员吼着。
+Shīzi [@xiàng@] xùnshòuyuán hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>85171</StartMilliseconds>
+    <EndMilliseconds>86224</EndMilliseconds>
+    <Text>狮子向[@驯兽员@]吼着。
+Shīzi xiàng [@xùnshòuyuán@] hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>86225</StartMilliseconds>
+    <EndMilliseconds>87002</EndMilliseconds>
+    <Text>狮子向驯兽员[@吼着@]。
+Shīzi xiàng xùnshòuyuán [@hǒuzhe@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>87003</StartMilliseconds>
+    <EndMilliseconds>87980</EndMilliseconds>
+    <Text>狮子向驯兽员吼着。
+Shīzi xiàng xùnshòuyuán hǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>87981</StartMilliseconds>
+    <EndMilliseconds>88648</EndMilliseconds>
+    <Text>狮子向驯兽员咆哮着。
+Shīzi xiàng xùnshòuyuán páoxiàozhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>88649</StartMilliseconds>
+    <EndMilliseconds>89384</EndMilliseconds>
+    <Text>[@狮子@]向驯兽员咆哮着。
+[@Shīzi@] xiàng xùnshòuyuán páoxiàozhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>89385</StartMilliseconds>
+    <EndMilliseconds>89678</EndMilliseconds>
+    <Text>狮子[@向@]驯兽员咆哮着。
+Shīzi [@xiàng@] xùnshòuyuán páoxiàozhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>89679</StartMilliseconds>
+    <EndMilliseconds>90744</EndMilliseconds>
+    <Text>狮子向[@驯兽员@]咆哮着。
+Shīzi xiàng [@xùnshòuyuán@] páoxiàozhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>90745</StartMilliseconds>
+    <EndMilliseconds>91955</EndMilliseconds>
+    <Text>狮子向驯兽员[@咆哮着@]。
+Shīzi xiàng xùnshòuyuán [@páoxiàozhe@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>91956</StartMilliseconds>
+    <EndMilliseconds>93067</EndMilliseconds>
+    <Text>狮子向驯兽员咆哮着。
+Shīzi xiàng xùnshòuyuán páoxiàozhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>93068</StartMilliseconds>
+    <EndMilliseconds>93714</EndMilliseconds>
+    <Text>但是驯兽员却一点儿也不害怕。
+Dànshì xùnshòuyuán què yìdiǎnr yě bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>93715</StartMilliseconds>
+    <EndMilliseconds>94575</EndMilliseconds>
+    <Text>[@但是@]驯兽员却一点儿也不害怕。
+[@Dànshì@] xùnshòuyuán què yìdiǎnr yě bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>94576</StartMilliseconds>
+    <EndMilliseconds>95564</EndMilliseconds>
+    <Text>但是[@驯兽员@]却一点儿也不害怕。
+Dànshì [@xùnshòuyuán@] què yìdiǎnr yě bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>95565</StartMilliseconds>
+    <EndMilliseconds>96002</EndMilliseconds>
+    <Text>但是驯兽员[@却@]一点儿也不害怕。
+Dànshì xùnshòuyuán [@què@] yìdiǎnr yě bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>96003</StartMilliseconds>
+    <EndMilliseconds>96599</EndMilliseconds>
+    <Text>但是驯兽员却[@一点儿@]也不害怕。
+Dànshì xùnshòuyuán què [@yìdiǎnr@] yě bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>96600</StartMilliseconds>
+    <EndMilliseconds>96832</EndMilliseconds>
+    <Text>但是驯兽员却一点儿[@也@]不害怕。
+Dànshì xùnshòuyuán què yìdiǎnr [@yě@] bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>96833</StartMilliseconds>
+    <EndMilliseconds>97134</EndMilliseconds>
+    <Text>但是驯兽员却一点儿也[@不@]害怕。
+Dànshì xùnshòuyuán què yìdiǎnr yě [@bú@] hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>97135</StartMilliseconds>
+    <EndMilliseconds>97755</EndMilliseconds>
+    <Text>但是驯兽员却一点儿也不[@害怕@]。
+Dànshì xùnshòuyuán què yìdiǎnr yě bú [@hàipà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>97756</StartMilliseconds>
+    <EndMilliseconds>99459</EndMilliseconds>
+    <Text>但是驯兽员却一点儿也不害怕。
+Dànshì xùnshòuyuán què yìdiǎnr yě bú hàipà. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>99460</StartMilliseconds>
+    <EndMilliseconds>100547</EndMilliseconds>
+    <Text>“坐下。”驯兽员说。
+"Zuòxià." Xùnshòuyuán shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>100548</StartMilliseconds>
+    <EndMilliseconds>101251</EndMilliseconds>
+    <Text>“[@坐下@]。”驯兽员说。
+"[@Zuòxià@]." Xùnshòuyuán shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>101252</StartMilliseconds>
+    <EndMilliseconds>101702</EndMilliseconds>
+    <Text>“坐下。”驯兽员说。
+"Zuòxià." Xùnshòuyuán shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>101703</StartMilliseconds>
+    <EndMilliseconds>102563</EndMilliseconds>
+    <Text>“坐下。”[@驯兽员@]说。
+"Zuòxià." [@Xùnshòuyuán@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>102564</StartMilliseconds>
+    <EndMilliseconds>102993</EndMilliseconds>
+    <Text>“坐下。”驯兽员[@说@]。
+"Zuòxià." Xùnshòuyuán [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>102994</StartMilliseconds>
+    <EndMilliseconds>103641</EndMilliseconds>
+    <Text>“坐下。”驯兽员说。
+"Zuòxià." Xùnshòuyuán shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>103642</StartMilliseconds>
+    <EndMilliseconds>104042</EndMilliseconds>
+    <Text>狮子坐下了！
+Shīzi zuòxià le! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>104043</StartMilliseconds>
+    <EndMilliseconds>104731</EndMilliseconds>
+    <Text>[@狮子@]坐下了！
+[@Shīzi@] zuòxià le! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>104732</StartMilliseconds>
+    <EndMilliseconds>105313</EndMilliseconds>
+    <Text>狮子[@坐下@]了！
+Shīzi [@zuòxià@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>105314</StartMilliseconds>
+    <EndMilliseconds>105802</EndMilliseconds>
+    <Text>狮子坐下[@了@]！
+Shīzi zuòxià [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>105803</StartMilliseconds>
+    <EndMilliseconds>110252</EndMilliseconds>
+    <Text>狮子坐下了！
+Shīzi zuòxià le! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>110253</StartMilliseconds>
+    <EndMilliseconds>110640</EndMilliseconds>
+    <Text>“打滚儿。”驯兽员说。
+"Dǎgǔnr." Xùnshòuyuán shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>110641</StartMilliseconds>
+    <EndMilliseconds>111504</EndMilliseconds>
+    <Text>“[@打滚儿@]。”驯兽员说。
+"[@Dǎgǔnr@]." Xùnshòuyuán shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>111505</StartMilliseconds>
+    <EndMilliseconds>112151</EndMilliseconds>
+    <Text>“打滚儿。”驯兽员说。
+"Dǎgǔnr." Xùnshòuyuán shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>112152</StartMilliseconds>
+    <EndMilliseconds>112951</EndMilliseconds>
+    <Text>“打滚儿。”[@驯兽员@]说。
+"Dǎgǔnr." [@Xùnshòuyuán@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>112952</StartMilliseconds>
+    <EndMilliseconds>113419</EndMilliseconds>
+    <Text>“打滚儿。”驯兽员[@说@]。
+"Dǎgǔnr." Xùnshòuyuán [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>113420</StartMilliseconds>
+    <EndMilliseconds>114513</EndMilliseconds>
+    <Text>“打滚儿。”驯兽员说。
+"Dǎgǔnr." Xùnshòuyuán shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>114514</StartMilliseconds>
+    <EndMilliseconds>115068</EndMilliseconds>
+    <Text>狮子打了个滚儿。
+Shīzi dǎ le gè gǔnr. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>115069</StartMilliseconds>
+    <EndMilliseconds>115762</EndMilliseconds>
+    <Text>[@狮子@]打了个滚儿。
+[@Shīzi@] dǎ le gè gǔnr. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>115763</StartMilliseconds>
+    <EndMilliseconds>116044</EndMilliseconds>
+    <Text>狮子[@打@]了个滚儿。
+Shīzi [@dǎ@] le gè gǔnr. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>116045</StartMilliseconds>
+    <EndMilliseconds>116211</EndMilliseconds>
+    <Text>狮子打[@了@]个滚儿。
+Shīzi dǎ [@le@] gè gǔnr. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>116212</StartMilliseconds>
+    <EndMilliseconds>116404</EndMilliseconds>
+    <Text>狮子打了[@个@]滚儿。
+Shīzi dǎ le [@gè@] gǔnr. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>116405</StartMilliseconds>
+    <EndMilliseconds>117106</EndMilliseconds>
+    <Text>狮子打了个[@滚儿@]。
+Shīzi dǎ le gè [@gǔnr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>117107</StartMilliseconds>
+    <EndMilliseconds>119526</EndMilliseconds>
+    <Text>狮子打了个滚儿。
+Shīzi dǎ le gè gǔnr. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>119527</StartMilliseconds>
+    <EndMilliseconds>120180</EndMilliseconds>
+    <Text>“喂，小鸟。”基普小声说。
+"Wèi, Xiǎoniǎo." Jīpǔ xiǎo shēng shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>120181</StartMilliseconds>
+    <EndMilliseconds>120598</EndMilliseconds>
+    <Text>“[@喂@]，小鸟。”基普小声说。
+"[@Wèi@], Xiǎoniǎo." Jīpǔ xiǎo shēng shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>120599</StartMilliseconds>
+    <EndMilliseconds>121131</EndMilliseconds>
+    <Text>“喂，小鸟。”基普小声说。
+"Wèi, Xiǎoniǎo." Jīpǔ xiǎo shēng shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>121132</StartMilliseconds>
+    <EndMilliseconds>121949</EndMilliseconds>
+    <Text>“喂，[@小鸟@]。”基普小声说。
+"Wèi, [@Xiǎoniǎo@]." Jīpǔ xiǎo shēng shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>121950</StartMilliseconds>
+    <EndMilliseconds>122417</EndMilliseconds>
+    <Text>“喂，小鸟。”基普小声说。
+"Wèi, Xiǎoniǎo." Jīpǔ xiǎo shēng shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>122418</StartMilliseconds>
+    <EndMilliseconds>123115</EndMilliseconds>
+    <Text>“喂，小鸟。”[@基普@]小声说。
+"Wèi, Xiǎoniǎo." [@Jīpǔ@] xiǎo shēng shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>123116</StartMilliseconds>
+    <EndMilliseconds>123483</EndMilliseconds>
+    <Text>“喂，小鸟。”基普[@小@]声说。
+"Wèi, Xiǎoniǎo." Jīpǔ [@xiǎo@] shēng shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>123484</StartMilliseconds>
+    <EndMilliseconds>123867</EndMilliseconds>
+    <Text>“喂，小鸟。”基普小[@声@]说。
+"Wèi, Xiǎoniǎo." Jīpǔ xiǎo [@shēng@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>123868</StartMilliseconds>
+    <EndMilliseconds>124468</EndMilliseconds>
+    <Text>“喂，小鸟。”基普小声[@说@]。
+"Wèi, Xiǎoniǎo." Jīpǔ xiǎo shēng [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>124469</StartMilliseconds>
+    <EndMilliseconds>124694</EndMilliseconds>
+    <Text>“喂，小鸟。”基普小声说。
+"Wèi, Xiǎoniǎo." Jīpǔ xiǎo shēng shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>124695</StartMilliseconds>
+    <EndMilliseconds>124933</EndMilliseconds>
+    <Text>“我很想参加马戏团，
+"Wǒ hěn xiǎng cānjiā mǎxìtuán, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>124934</StartMilliseconds>
+    <EndMilliseconds>125226</EndMilliseconds>
+    <Text>“[@我@]很想参加马戏团，
+"[@Wǒ@] hěn xiǎng cānjiā mǎxìtuán,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>125227</StartMilliseconds>
+    <EndMilliseconds>125613</EndMilliseconds>
+    <Text>“我[@很@]想参加马戏团，
+"Wǒ [@hěn@] xiǎng cānjiā mǎxìtuán, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>125614</StartMilliseconds>
+    <EndMilliseconds>126305</EndMilliseconds>
+    <Text>“我很[@想@]参加马戏团，
+"Wǒ hěn [@xiǎng@] cānjiā mǎxìtuán, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>126306</StartMilliseconds>
+    <EndMilliseconds>126932</EndMilliseconds>
+    <Text>“我很想[@参加@]马戏团，
+"Wǒ hěn xiǎng [@cānjiā@] mǎxìtuán, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>126933</StartMilliseconds>
+    <EndMilliseconds>128082</EndMilliseconds>
+    <Text>“我很想参加[@马戏团@]，
+"Wǒ hěn xiǎng cānjiā [@mǎxìtuán@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>128083</StartMilliseconds>
+    <EndMilliseconds>133312</EndMilliseconds>
+    <Text>“我很想参加马戏团，
+"Wǒ hěn xiǎng cānjiā mǎxìtuán, </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>133313</StartMilliseconds>
+    <EndMilliseconds>134427</EndMilliseconds>
+    <Text>但是我绝不会想干这个！”
+dànshì wǒ jué bú huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>134428</StartMilliseconds>
+    <EndMilliseconds>135185</EndMilliseconds>
+    <Text>[@但是@]我绝不会想干这个！”
+[@dànshì@] wǒ jué bú huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>135186</StartMilliseconds>
+    <EndMilliseconds>135659</EndMilliseconds>
+    <Text>但是我绝不会想干这个！”
+dànshì wǒ jué bú huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>135660</StartMilliseconds>
+    <EndMilliseconds>135954</EndMilliseconds>
+    <Text>但是[@我@]绝不会想干这个！”
+dànshì [@wǒ@] jué bú huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>135955</StartMilliseconds>
+    <EndMilliseconds>136355</EndMilliseconds>
+    <Text>但是我[@绝@]不会想干这个！”
+dànshì wǒ [@jué@] bú huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>136356</StartMilliseconds>
+    <EndMilliseconds>136579</EndMilliseconds>
+    <Text>但是我绝[@不@]会想干这个！”
+dànshì wǒ jué [@bú@] huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>136580</StartMilliseconds>
+    <EndMilliseconds>137126</EndMilliseconds>
+    <Text>但是我绝不[@会@]想干这个！”
+dànshì wǒ jué bú [@huì@] xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>137127</StartMilliseconds>
+    <EndMilliseconds>137579</EndMilliseconds>
+    <Text>但是我绝不会[@想@]干这个！”
+dànshì wǒ jué bú huì [@xiǎng@] gàn zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>137580</StartMilliseconds>
+    <EndMilliseconds>137824</EndMilliseconds>
+    <Text>但是我绝不会想[@干@]这个！”
+dànshì wǒ jué bú huì xiǎng [@gàn@] zhèi ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>137825</StartMilliseconds>
+    <EndMilliseconds>138155</EndMilliseconds>
+    <Text>但是我绝不会想干[@这@]个！”
+dànshì wǒ jué bú huì xiǎng gàn [@zhèi@] ge!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>138156</StartMilliseconds>
+    <EndMilliseconds>138445</EndMilliseconds>
+    <Text>但是我绝不会想干这[@个@]！”
+dànshì wǒ jué bú huì xiǎng gàn zhèi [@ge@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>138446</StartMilliseconds>
+    <EndMilliseconds>141727</EndMilliseconds>
+    <Text>但是我绝不会想干这个！”
+dànshì wǒ jué bú huì xiǎng gàn zhèi ge!"</Text>
+  </Paragraph>
+</Subtitle>

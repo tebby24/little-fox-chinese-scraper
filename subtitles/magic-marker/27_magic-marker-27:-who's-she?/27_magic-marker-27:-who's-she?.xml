@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10203</StartMilliseconds>
+    <EndMilliseconds>12767</EndMilliseconds>
+    <Text>亚历克斯：马克西！塔克！看看这个！
+Yàlìkèsī: Mǎkèxī! Tǎkè! Kànkan zhège!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12768</StartMilliseconds>
+    <EndMilliseconds>13751</EndMilliseconds>
+    <Text>亚历克斯：[@马克西@]！塔克！看看这个！
+Yàlìkèsī: [@Mǎkèxī@]! Tǎkè! Kànkan zhège!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13752</StartMilliseconds>
+    <EndMilliseconds>14672</EndMilliseconds>
+    <Text>亚历克斯：马克西！[@塔克@]！看看这个！
+Yàlìkèsī: Mǎkèxī! [@Tǎkè@]! Kànkan zhège!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14673</StartMilliseconds>
+    <EndMilliseconds>15031</EndMilliseconds>
+    <Text>亚历克斯：马克西！塔克！[@看看@]这个！
+Yàlìkèsī: Mǎkèxī! Tǎkè! [@Kànkan@] zhège!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15032</StartMilliseconds>
+    <EndMilliseconds>15523</EndMilliseconds>
+    <Text>亚历克斯：马克西！塔克！看看[@这个@]！
+Yàlìkèsī: Mǎkèxī! Tǎkè! Kànkan [@zhège@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15524</StartMilliseconds>
+    <EndMilliseconds>16834</EndMilliseconds>
+    <Text>亚历克斯：马克西！塔克！看看这个！
+Yàlìkèsī: Mǎkèxī! Tǎkè! Kànkan zhège!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16835</StartMilliseconds>
+    <EndMilliseconds>17469</EndMilliseconds>
+    <Text>马克西：她是谁？
+Mǎkèxī: Tā shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17470</StartMilliseconds>
+    <EndMilliseconds>17772</EndMilliseconds>
+    <Text>马克西：[@她@]是谁？
+Mǎkèxī: [@Tā@] shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17773</StartMilliseconds>
+    <EndMilliseconds>17959</EndMilliseconds>
+    <Text>马克西：她[@是@]谁？
+Mǎkèxī: Tā [@shì@] shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17960</StartMilliseconds>
+    <EndMilliseconds>18409</EndMilliseconds>
+    <Text>马克西：她是[@谁@]？
+Mǎkèxī: Tā shì [@shuí@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18410</StartMilliseconds>
+    <EndMilliseconds>19416</EndMilliseconds>
+    <Text>马克西：她是谁？
+Mǎkèxī: Tā shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>19417</StartMilliseconds>
+    <EndMilliseconds>19597</EndMilliseconds>
+    <Text>苏：她是我的奶奶。
+Sū: Tā shì wǒ de nǎinai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19598</StartMilliseconds>
+    <EndMilliseconds>19814</EndMilliseconds>
+    <Text>苏：[@她@]是我的奶奶。
+Sū: [@Tā@] shì wǒ de nǎinai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19815</StartMilliseconds>
+    <EndMilliseconds>20004</EndMilliseconds>
+    <Text>苏：她[@是@]我的奶奶。
+Sū: Tā [@shì@] wǒ de nǎinai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>20005</StartMilliseconds>
+    <EndMilliseconds>20195</EndMilliseconds>
+    <Text>苏：她是[@我@]的奶奶。
+Sū: Tā shì [@wǒ@] de nǎinai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20196</StartMilliseconds>
+    <EndMilliseconds>20382</EndMilliseconds>
+    <Text>苏：她是我[@的@]奶奶。
+Sū: Tā shì wǒ [@de@] nǎinai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20383</StartMilliseconds>
+    <EndMilliseconds>20995</EndMilliseconds>
+    <Text>苏：她是我的[@奶奶@]。
+Sū: Tā shì wǒ de [@nǎinai@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>20996</StartMilliseconds>
+    <EndMilliseconds>24353</EndMilliseconds>
+    <Text>苏：她是我的奶奶。
+Sū: Tā shì wǒ de nǎinai.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24354</StartMilliseconds>
+    <EndMilliseconds>24798</EndMilliseconds>
+    <Text>塔克：他是谁？
+Tǎkè: Tā shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>24799</StartMilliseconds>
+    <EndMilliseconds>25132</EndMilliseconds>
+    <Text>塔克：[@他@]是谁？
+Tǎkè: [@Tā@] shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>25133</StartMilliseconds>
+    <EndMilliseconds>25453</EndMilliseconds>
+    <Text>塔克：他[@是@]谁？
+Tǎkè: Tā [@shì@] shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>25454</StartMilliseconds>
+    <EndMilliseconds>25867</EndMilliseconds>
+    <Text>塔克：他是[@谁@]？
+Tǎkè: Tā shì [@shuí@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>25868</StartMilliseconds>
+    <EndMilliseconds>26768</EndMilliseconds>
+    <Text>塔克：他是谁？
+Tǎkè: Tā shì shuí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>26769</StartMilliseconds>
+    <EndMilliseconds>27086</EndMilliseconds>
+    <Text>亚历克斯：他是我的爷爷。
+Yàlìkèsī: Tā shì wǒ de yéye.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>27087</StartMilliseconds>
+    <EndMilliseconds>27282</EndMilliseconds>
+    <Text>亚历克斯：[@他@]是我的爷爷。
+Yàlìkèsī: [@Tā@] shì wǒ de yéye.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>27283</StartMilliseconds>
+    <EndMilliseconds>27483</EndMilliseconds>
+    <Text>亚历克斯：他[@是@]我的爷爷。
+Yàlìkèsī: Tā [@shì@] wǒ de yéye.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>27484</StartMilliseconds>
+    <EndMilliseconds>27635</EndMilliseconds>
+    <Text>亚历克斯：他是[@我@]的爷爷。
+Yàlìkèsī: Tā shì [@wǒ@] de yéye.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>27636</StartMilliseconds>
+    <EndMilliseconds>27811</EndMilliseconds>
+    <Text>亚历克斯：他是我[@的@]爷爷。
+Yàlìkèsī: Tā shì wǒ [@de@] yéye.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>27812</StartMilliseconds>
+    <EndMilliseconds>28382</EndMilliseconds>
+    <Text>亚历克斯：他是我的[@爷爷@]。
+Yàlìkèsī: Tā shì wǒ de [@yéye@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>28383</StartMilliseconds>
+    <EndMilliseconds>33572</EndMilliseconds>
+    <Text>亚历克斯：他是我的爷爷。
+Yàlìkèsī: Tā shì wǒ de yéye.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>33573</StartMilliseconds>
+    <EndMilliseconds>34136</EndMilliseconds>
+    <Text>马克西：他们是我的堂兄妹。
+Mǎkèxī: Tāmen shì wǒ de tángxiōngmèi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>34137</StartMilliseconds>
+    <EndMilliseconds>34529</EndMilliseconds>
+    <Text>马克西：[@他们@]是我的堂兄妹。
+Mǎkèxī: [@Tāmen@] shì wǒ de tángxiōngmèi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>34530</StartMilliseconds>
+    <EndMilliseconds>34688</EndMilliseconds>
+    <Text>马克西：他们[@是@]我的堂兄妹。
+Mǎkèxī: Tāmen [@shì@] wǒ de tángxiōngmèi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>34689</StartMilliseconds>
+    <EndMilliseconds>34879</EndMilliseconds>
+    <Text>马克西：他们是[@我@]的堂兄妹。
+Mǎkèxī: Tāmen shì [@wǒ@] de tángxiōngmèi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>34880</StartMilliseconds>
+    <EndMilliseconds>35039</EndMilliseconds>
+    <Text>马克西：他们是我[@的@]堂兄妹。
+Mǎkèxī: Tāmen shì wǒ [@de@] tángxiōngmèi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>35040</StartMilliseconds>
+    <EndMilliseconds>36089</EndMilliseconds>
+    <Text>马克西：他们是我的[@堂兄妹@]。
+Mǎkèxī: Tāmen shì wǒ de [@tángxiōngmèi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>36090</StartMilliseconds>
+    <EndMilliseconds>36387</EndMilliseconds>
+    <Text>马克西：他们是我的堂兄妹。
+Mǎkèxī: Tāmen shì wǒ de tángxiōngmèi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>36388</StartMilliseconds>
+    <EndMilliseconds>36527</EndMilliseconds>
+    <Text>马克西：这是我的叔叔和婶婶。
+Mǎkèxī: Zhè shì wǒ de shūshu hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>36528</StartMilliseconds>
+    <EndMilliseconds>36689</EndMilliseconds>
+    <Text>马克西：[@这@]是我的叔叔和婶婶。
+Mǎkèxī: [@Zhè@] shì wǒ de shūshu hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>36690</StartMilliseconds>
+    <EndMilliseconds>36902</EndMilliseconds>
+    <Text>马克西：这[@是@]我的叔叔和婶婶。
+Mǎkèxī: Zhè [@shì@] wǒ de shūshu hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>36903</StartMilliseconds>
+    <EndMilliseconds>37083</EndMilliseconds>
+    <Text>马克西：这是[@我@]的叔叔和婶婶。
+Mǎkèxī: Zhè shì [@wǒ@] de shūshu hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>37084</StartMilliseconds>
+    <EndMilliseconds>37228</EndMilliseconds>
+    <Text>马克西：这是我[@的@]叔叔和婶婶。
+Mǎkèxī: Zhè shì wǒ [@de@] shūshu hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>37229</StartMilliseconds>
+    <EndMilliseconds>38111</EndMilliseconds>
+    <Text>马克西：这是我的[@叔叔@]和婶婶。
+Mǎkèxī: Zhè shì wǒ de [@shūshu@] hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>38112</StartMilliseconds>
+    <EndMilliseconds>38232</EndMilliseconds>
+    <Text>马克西：这是我的叔叔[@和@]婶婶。
+Mǎkèxī: Zhè shì wǒ de shūshu [@hé@] shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>38233</StartMilliseconds>
+    <EndMilliseconds>39059</EndMilliseconds>
+    <Text>马克西：这是我的叔叔和[@婶婶@]。
+Mǎkèxī: Zhè shì wǒ de shūshu hé [@shěnshen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>39060</StartMilliseconds>
+    <EndMilliseconds>43480</EndMilliseconds>
+    <Text>马克西：这是我的叔叔和婶婶。
+Mǎkèxī: Zhè shì wǒ de shūshu hé shěnshen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>43481</StartMilliseconds>
+    <EndMilliseconds>44007</EndMilliseconds>
+    <Text>亚历克斯：马克西！我的奶奶到了。
+Yàlìkèsī: Mǎkèxī! Wǒ de nǎinai dào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>44008</StartMilliseconds>
+    <EndMilliseconds>45022</EndMilliseconds>
+    <Text>亚历克斯：[@马克西@]！我的奶奶到了。
+Yàlìkèsī: [@Mǎkèxī@]! Wǒ de nǎinai dào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>45023</StartMilliseconds>
+    <EndMilliseconds>45193</EndMilliseconds>
+    <Text>亚历克斯：马克西！[@我@]的奶奶到了。
+Yàlìkèsī: Mǎkèxī! [@Wǒ@] de nǎinai dào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>45194</StartMilliseconds>
+    <EndMilliseconds>45321</EndMilliseconds>
+    <Text>亚历克斯：马克西！我[@的@]奶奶到了。
+Yàlìkèsī: Mǎkèxī! Wǒ [@de@] nǎinai dào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>45322</StartMilliseconds>
+    <EndMilliseconds>45724</EndMilliseconds>
+    <Text>亚历克斯：马克西！我的[@奶奶@]到了。
+Yàlìkèsī: Mǎkèxī! Wǒ de [@nǎinai@] dào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>45725</StartMilliseconds>
+    <EndMilliseconds>45981</EndMilliseconds>
+    <Text>亚历克斯：马克西！我的奶奶[@到@]了。
+Yàlìkèsī: Mǎkèxī! Wǒ de nǎinai [@dào@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>45982</StartMilliseconds>
+    <EndMilliseconds>46222</EndMilliseconds>
+    <Text>亚历克斯：马克西！我的奶奶到[@了@]。
+Yàlìkèsī: Mǎkèxī! Wǒ de nǎinai dào [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>46223</StartMilliseconds>
+    <EndMilliseconds>47146</EndMilliseconds>
+    <Text>亚历克斯：马克西！我的奶奶到了。
+Yàlìkèsī: Mǎkèxī! Wǒ de nǎinai dào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>47147</StartMilliseconds>
+    <EndMilliseconds>47441</EndMilliseconds>
+    <Text>亚历克斯和苏：您好，奶奶！
+Yàlìkèsī hé Sū: Nín hǎo, nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>47442</StartMilliseconds>
+    <EndMilliseconds>47659</EndMilliseconds>
+    <Text>亚历克斯和苏：[@您@]好，奶奶！
+Yàlìkèsī hé Sū: [@Nín@] hǎo, nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>47660</StartMilliseconds>
+    <EndMilliseconds>48155</EndMilliseconds>
+    <Text>亚历克斯和苏：您[@好@]，奶奶！
+Yàlìkèsī hé Sū: Nín [@hǎo@], nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>48156</StartMilliseconds>
+    <EndMilliseconds>48678</EndMilliseconds>
+    <Text>亚历克斯和苏：您好，[@奶奶@]！
+Yàlìkèsī hé Sū: Nín hǎo, [@nǎinai@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>48679</StartMilliseconds>
+    <EndMilliseconds>49383</EndMilliseconds>
+    <Text>亚历克斯和苏：您好，奶奶！
+Yàlìkèsī hé Sū: Nín hǎo, nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>49384</StartMilliseconds>
+    <EndMilliseconds>49580</EndMilliseconds>
+    <Text>奶奶：你们好，孩子们！
+nǎinai: Nǐmen hǎo, háizimen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>49581</StartMilliseconds>
+    <EndMilliseconds>49959</EndMilliseconds>
+    <Text>奶奶：[@你们@]好，孩子们！
+nǎinai: [@Nǐmen@] hǎo, háizimen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>49960</StartMilliseconds>
+    <EndMilliseconds>50767</EndMilliseconds>
+    <Text>奶奶：你们[@好@]，孩子们！
+nǎinai: Nǐmen [@hǎo@], háizimen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>50768</StartMilliseconds>
+    <EndMilliseconds>51804</EndMilliseconds>
+    <Text>奶奶：你们好，[@孩子们@]！
+nǎinai: Nǐmen hǎo, [@háizimen@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>51805</StartMilliseconds>
+    <EndMilliseconds>54361</EndMilliseconds>
+    <Text>奶奶：你们好，孩子们！
+nǎinai: Nǐmen hǎo, háizimen!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>54362</StartMilliseconds>
+    <EndMilliseconds>54694</EndMilliseconds>
+    <Text>苏：这是马克西和塔克。
+Sū: Zhè shì Mǎkèxī hé Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>54695</StartMilliseconds>
+    <EndMilliseconds>54915</EndMilliseconds>
+    <Text>苏：[@这@]是马克西和塔克。
+Sū: [@Zhè@] shì Mǎkèxī hé Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>54916</StartMilliseconds>
+    <EndMilliseconds>55054</EndMilliseconds>
+    <Text>苏：这[@是@]马克西和塔克。
+Sū: Zhè [@shì@] Mǎkèxī hé Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>55055</StartMilliseconds>
+    <EndMilliseconds>55804</EndMilliseconds>
+    <Text>苏：这是[@马克西@]和塔克。
+Sū: Zhè shì [@Mǎkèxī@] hé Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>55805</StartMilliseconds>
+    <EndMilliseconds>55982</EndMilliseconds>
+    <Text>苏：这是马克西[@和@]塔克。
+Sū: Zhè shì Mǎkèxī [@hé@] Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>55983</StartMilliseconds>
+    <EndMilliseconds>56607</EndMilliseconds>
+    <Text>苏：这是马克西和[@塔克@]。
+Sū: Zhè shì Mǎkèxī hé [@Tǎkè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>56608</StartMilliseconds>
+    <EndMilliseconds>57327</EndMilliseconds>
+    <Text>苏：这是马克西和塔克。
+Sū: Zhè shì Mǎkèxī hé Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>57328</StartMilliseconds>
+    <EndMilliseconds>57457</EndMilliseconds>
+    <Text>马克西和塔克：欢迎您，奶奶！
+Mǎkèxī hé Tǎkè: Huānyíng nín, nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>57458</StartMilliseconds>
+    <EndMilliseconds>58007</EndMilliseconds>
+    <Text>马克西和塔克：[@欢迎@]您，奶奶！
+Mǎkèxī hé Tǎkè: [@Huānyíng@] nín, nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>58008</StartMilliseconds>
+    <EndMilliseconds>58460</EndMilliseconds>
+    <Text>马克西和塔克：欢迎[@您@]，奶奶！
+Mǎkèxī hé Tǎkè: Huānyíng [@nín@], nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>58461</StartMilliseconds>
+    <EndMilliseconds>59137</EndMilliseconds>
+    <Text>马克西和塔克：欢迎您，[@奶奶@]！
+Mǎkèxī hé Tǎkè: Huānyíng nín, [@nǎinai@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>59138</StartMilliseconds>
+    <EndMilliseconds>60156</EndMilliseconds>
+    <Text>马克西和塔克：欢迎您，奶奶！
+Mǎkèxī hé Tǎkè: Huānyíng nín, nǎinai!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>60157</StartMilliseconds>
+    <EndMilliseconds>60298</EndMilliseconds>
+    <Text>奶奶：你们好。
+nǎinai: Nǐmen hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>60299</StartMilliseconds>
+    <EndMilliseconds>60738</EndMilliseconds>
+    <Text>奶奶：[@你们@]好。
+nǎinai: [@Nǐmen@] hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>60739</StartMilliseconds>
+    <EndMilliseconds>61493</EndMilliseconds>
+    <Text>奶奶：你们[@好@]。
+nǎinai: Nǐmen [@hǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>61494</StartMilliseconds>
+    <EndMilliseconds>61755</EndMilliseconds>
+    <Text>奶奶：你们好。
+nǎinai: Nǐmen hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>61756</StartMilliseconds>
+    <EndMilliseconds>61935</EndMilliseconds>
+    <Text>奶奶：阿……阿嚏！
+nǎinai: Ā……Ātì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>61936</StartMilliseconds>
+    <EndMilliseconds>62647</EndMilliseconds>
+    <Text>奶奶：[@阿@]……阿嚏！
+nǎinai: [@Ā@]……Ātì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>62648</StartMilliseconds>
+    <EndMilliseconds>63727</EndMilliseconds>
+    <Text>奶奶：阿……[@阿嚏@]！
+nǎinai: Ā……[@Ātì@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>63728</StartMilliseconds>
+    <EndMilliseconds>67626</EndMilliseconds>
+    <Text>奶奶：阿……阿嚏！
+nǎinai: Ā……Ātì!</Text>
+  </Paragraph>
+</Subtitle>

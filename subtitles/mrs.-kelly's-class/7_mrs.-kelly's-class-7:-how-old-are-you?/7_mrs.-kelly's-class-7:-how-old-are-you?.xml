@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>8427</StartMilliseconds>
+    <EndMilliseconds>11023</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, nǐ jǐ suì?
+莎莉：敏宇，你几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11024</StartMilliseconds>
+    <EndMilliseconds>12757</EndMilliseconds>
+    <Text>Shālì: [@Mǐnyǔ@], nǐ jǐ suì?
+莎莉：[@敏宇@]，你几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12758</StartMilliseconds>
+    <EndMilliseconds>13143</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, [@nǐ@] jǐ suì?
+莎莉：敏宇，[@你@]几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13144</StartMilliseconds>
+    <EndMilliseconds>13537</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, nǐ [@jǐ@] suì?
+莎莉：敏宇，你[@几@]岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13538</StartMilliseconds>
+    <EndMilliseconds>13980</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, nǐ jǐ [@suì@]?
+莎莉：敏宇，你几[@岁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13981</StartMilliseconds>
+    <EndMilliseconds>14770</EndMilliseconds>
+    <Text>Shālì: Mǐnyǔ, nǐ jǐ suì?
+莎莉：敏宇，你几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14771</StartMilliseconds>
+    <EndMilliseconds>15442</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ wǔ suì.
+敏宇：我五岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15443</StartMilliseconds>
+    <EndMilliseconds>16220</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Wǒ@] wǔ suì.
+敏宇：[@我@]五岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16221</StartMilliseconds>
+    <EndMilliseconds>16715</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ [@wǔ@] suì.
+敏宇：我[@五@]岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16716</StartMilliseconds>
+    <EndMilliseconds>17243</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ wǔ [@suì@].
+敏宇：我五[@岁@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17244</StartMilliseconds>
+    <EndMilliseconds>18631</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒ wǔ suì.
+敏宇：我五岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18632</StartMilliseconds>
+    <EndMilliseconds>20249</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ jǐ suì?
+敏宇：皮特，你几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>20250</StartMilliseconds>
+    <EndMilliseconds>21732</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Pítè@], nǐ jǐ suì?
+敏宇：[@皮特@]，你几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>21733</StartMilliseconds>
+    <EndMilliseconds>22308</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, [@nǐ@] jǐ suì?
+敏宇：皮特，[@你@]几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>22309</StartMilliseconds>
+    <EndMilliseconds>22672</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ [@jǐ@] suì?
+敏宇：皮特，你[@几@]岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>22673</StartMilliseconds>
+    <EndMilliseconds>23223</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ jǐ [@suì@]?
+敏宇：皮特，你几[@岁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>23224</StartMilliseconds>
+    <EndMilliseconds>23941</EndMilliseconds>
+    <Text>Mǐnyǔ: Pítè, nǐ jǐ suì?
+敏宇：皮特，你几岁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>23942</StartMilliseconds>
+    <EndMilliseconds>24609</EndMilliseconds>
+    <Text>Pítè: Wǒ liù suì.
+皮特：我六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24610</StartMilliseconds>
+    <EndMilliseconds>25514</EndMilliseconds>
+    <Text>Pítè: [@Wǒ@] liù suì.
+皮特：[@我@]六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>25515</StartMilliseconds>
+    <EndMilliseconds>26062</EndMilliseconds>
+    <Text>Pítè: Wǒ [@liù@] suì.
+皮特：我[@六@]岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>26063</StartMilliseconds>
+    <EndMilliseconds>26599</EndMilliseconds>
+    <Text>Pítè: Wǒ liù [@suì@].
+皮特：我六[@岁@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26600</StartMilliseconds>
+    <EndMilliseconds>27901</EndMilliseconds>
+    <Text>Pítè: Wǒ liù suì.
+皮特：我六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>27902</StartMilliseconds>
+    <EndMilliseconds>28938</EndMilliseconds>
+    <Text>Shālì: Wǒ yě liù suì.
+莎莉：我也六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>28939</StartMilliseconds>
+    <EndMilliseconds>29346</EndMilliseconds>
+    <Text>Shālì: [@Wǒ@] yě liù suì.
+莎莉：[@我@]也六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>29347</StartMilliseconds>
+    <EndMilliseconds>30283</EndMilliseconds>
+    <Text>Shālì: Wǒ [@yě@] liù suì.
+莎莉：我[@也@]六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>30284</StartMilliseconds>
+    <EndMilliseconds>30789</EndMilliseconds>
+    <Text>Shālì: Wǒ yě [@liù@] suì.
+莎莉：我也[@六@]岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>30790</StartMilliseconds>
+    <EndMilliseconds>31307</EndMilliseconds>
+    <Text>Shālì: Wǒ yě liù [@suì@].
+莎莉：我也六[@岁@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>31308</StartMilliseconds>
+    <EndMilliseconds>32261</EndMilliseconds>
+    <Text>Shālì: Wǒ yě liù suì.
+莎莉：我也六岁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>32262</StartMilliseconds>
+    <EndMilliseconds>33076</EndMilliseconds>
+    <Text>Mǐnyǔ: Lǎoshī, nín duōdà?
+敏宇：老师，您多大？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>33077</StartMilliseconds>
+    <EndMilliseconds>33781</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Lǎoshī@], nín duōdà?
+敏宇：[@老师@]，您多大？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>33781</StartMilliseconds>
+    <EndMilliseconds>34603</EndMilliseconds>
+    <Text>Mǐnyǔ: Lǎoshī, [@nín@] duōdà?
+敏宇：老师，[@您@]多大？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>34603</StartMilliseconds>
+    <EndMilliseconds>36114</EndMilliseconds>
+    <Text>Mǐnyǔ: Lǎoshī, nín [@duōdà@]?
+敏宇：老师，您[@多大@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>36114</StartMilliseconds>
+    <EndMilliseconds>37313</EndMilliseconds>
+    <Text>Mǐnyǔ: Lǎoshī, nín duōdà?
+敏宇：老师，您多大？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37314</StartMilliseconds>
+    <EndMilliseconds>38018</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā èr, jiā sān, jiā sì,
+老师：我一加二，加三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>38019</StartMilliseconds>
+    <EndMilliseconds>39649</EndMilliseconds>
+    <Text>Lǎoshī: [@Wǒ@] yī jiā èr, jiā sān, jiā sì,
+老师：[@我@]一加二，加三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>39650</StartMilliseconds>
+    <EndMilliseconds>40287</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ [@yī@] jiā èr, jiā sān, jiā sì,
+老师：我[@一@]加二，加三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>40288</StartMilliseconds>
+    <EndMilliseconds>40751</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī [@jiā@] èr, jiā sān, jiā sì,
+老师：我一[@加@]二，加三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>40752</StartMilliseconds>
+    <EndMilliseconds>42005</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā [@èr@], jiā sān, jiā sì,
+老师：我一加[@二@]，加三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>42006</StartMilliseconds>
+    <EndMilliseconds>42574</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā èr, [@jiā@] sān, jiā sì,
+老师：我一加二，[@加@]三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>42575</StartMilliseconds>
+    <EndMilliseconds>43917</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā èr, jiā [@sān@], jiā sì,
+老师：我一加二，加[@三@]，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>43918</StartMilliseconds>
+    <EndMilliseconds>44531</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā èr, jiā sān, [@jiā@] sì,
+老师：我一加二，加三，[@加@]四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>44532</StartMilliseconds>
+    <EndMilliseconds>45374</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā èr, jiā sān, jiā [@sì@],
+老师：我一加二，加三，加[@四@]，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>45375</StartMilliseconds>
+    <EndMilliseconds>45666</EndMilliseconds>
+    <Text>Lǎoshī: Wǒ yī jiā èr, jiā sān, jiā sì,
+老师：我一加二，加三，加四，</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>45667</StartMilliseconds>
+    <EndMilliseconds>45994</EndMilliseconds>
+    <Text>Lǎoshī: jiā wǔ, jiā liù, jiā qī......
+老师：加五，加六，加七......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>45995</StartMilliseconds>
+    <EndMilliseconds>46644</EndMilliseconds>
+    <Text>Lǎoshī: [@jiā@] wǔ, jiā liù, jiā qī......
+老师：[@加@]五，加六，加七......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>46645</StartMilliseconds>
+    <EndMilliseconds>48101</EndMilliseconds>
+    <Text>Lǎoshī: jiā [@wǔ@], jiā liù, jiā qī......
+老师：加[@五@]，加六，加七......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>48102</StartMilliseconds>
+    <EndMilliseconds>48767</EndMilliseconds>
+    <Text>Lǎoshī: jiā wǔ, [@jiā@] liù, jiā qī......
+老师：加五，[@加@]六，加七......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>48768</StartMilliseconds>
+    <EndMilliseconds>50127</EndMilliseconds>
+    <Text>Lǎoshī: jiā wǔ, jiā [@liù@], jiā qī......
+老师：加五，加[@六@]，加七......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>50128</StartMilliseconds>
+    <EndMilliseconds>50723</EndMilliseconds>
+    <Text>Lǎoshī: jiā wǔ, jiā liù, [@jiā@] qī......
+老师：加五，加六，[@加@]七......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>50724</StartMilliseconds>
+    <EndMilliseconds>51503</EndMilliseconds>
+    <Text>Lǎoshī: jiā wǔ, jiā liù, jiā [@qī@]......
+老师：加五，加六，加[@七@]......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>51504</StartMilliseconds>
+    <EndMilliseconds>54099</EndMilliseconds>
+    <Text>Lǎoshī: jiā wǔ, jiā liù, jiā qī......
+老师：加五，加六，加七......</Text>
+  </Paragraph>
+</Subtitle>

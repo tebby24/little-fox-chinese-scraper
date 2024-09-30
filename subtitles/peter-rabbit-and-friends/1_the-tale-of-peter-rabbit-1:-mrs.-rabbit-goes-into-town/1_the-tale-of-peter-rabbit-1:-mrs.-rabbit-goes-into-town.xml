@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10255</StartMilliseconds>
+    <EndMilliseconds>11557</EndMilliseconds>
+    <Text>兔子太太有四个孩子。
+Tùzi tàitai yǒu sì ge háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11558</StartMilliseconds>
+    <EndMilliseconds>12072</EndMilliseconds>
+    <Text>[@兔子@]太太有四个孩子。
+[@Tùzi@] tàitai yǒu sì ge háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12073</StartMilliseconds>
+    <EndMilliseconds>12717</EndMilliseconds>
+    <Text>兔子[@太太@]有四个孩子。
+Tùzi [@tàitai@] yǒu sì ge háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12718</StartMilliseconds>
+    <EndMilliseconds>13139</EndMilliseconds>
+    <Text>兔子太太[@有@]四个孩子。
+Tùzi tàitai [@yǒu@] sì ge háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13140</StartMilliseconds>
+    <EndMilliseconds>13474</EndMilliseconds>
+    <Text>兔子太太有[@四@]个孩子。
+Tùzi tàitai yǒu [@sì@] ge háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13475</StartMilliseconds>
+    <EndMilliseconds>13618</EndMilliseconds>
+    <Text>兔子太太有四[@个@]孩子。
+Tùzi tàitai yǒu sì [@ge@] háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13619</StartMilliseconds>
+    <EndMilliseconds>14384</EndMilliseconds>
+    <Text>兔子太太有四个[@孩子@]。
+Tùzi tàitai yǒu sì ge [@háizi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14385</StartMilliseconds>
+    <EndMilliseconds>14599</EndMilliseconds>
+    <Text>兔子太太有四个孩子。
+Tùzi tàitai yǒu sì ge háizi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>14600</StartMilliseconds>
+    <EndMilliseconds>14802</EndMilliseconds>
+    <Text>他们的名字叫西西，洛洛，球球和彼得。
+Tāmen de míngzi jiào Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>14803</StartMilliseconds>
+    <EndMilliseconds>15222</EndMilliseconds>
+    <Text>[@他们@]的名字叫西西，洛洛，球球和彼得。
+[@Tāmen@] de míngzi jiào Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>15223</StartMilliseconds>
+    <EndMilliseconds>15338</EndMilliseconds>
+    <Text>他们[@的@]名字叫西西，洛洛，球球和彼得。
+Tāmen [@de@] míngzi jiào Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>15339</StartMilliseconds>
+    <EndMilliseconds>16186</EndMilliseconds>
+    <Text>他们的[@名字@]叫西西，洛洛，球球和彼得。
+Tāmen de [@míngzi@] jiào Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>16187</StartMilliseconds>
+    <EndMilliseconds>16686</EndMilliseconds>
+    <Text>他们的名字[@叫@]西西，洛洛，球球和彼得。
+Tāmen de míngzi [@jiào@] Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>16687</StartMilliseconds>
+    <EndMilliseconds>17746</EndMilliseconds>
+    <Text>他们的名字叫[@西西@]，洛洛，球球和彼得。
+Tāmen de míngzi jiào [@Xīxī@], Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>17747</StartMilliseconds>
+    <EndMilliseconds>18891</EndMilliseconds>
+    <Text>他们的名字叫西西，[@洛洛@]，球球和彼得。
+Tāmen de míngzi jiào Xīxī, [@Luòluo@], Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>18892</StartMilliseconds>
+    <EndMilliseconds>20279</EndMilliseconds>
+    <Text>他们的名字叫西西，洛洛，[@球球@]和彼得。
+Tāmen de míngzi jiào Xīxī, Luòluo, [@Qiúqiu@] hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>20280</StartMilliseconds>
+    <EndMilliseconds>22727</EndMilliseconds>
+    <Text>他们的名字叫西西，洛洛，球球和彼得。
+Tāmen de míngzi jiào Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>22728</StartMilliseconds>
+    <EndMilliseconds>23108</EndMilliseconds>
+    <Text>他们的名字叫西西，洛洛，球球[@和@]彼得。
+Tāmen de míngzi jiào Xīxī, Luòluo, Qiúqiu [@hé@] Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>23109</StartMilliseconds>
+    <EndMilliseconds>24177</EndMilliseconds>
+    <Text>他们的名字叫西西，洛洛，球球和[@彼得@]。
+Tāmen de míngzi jiào Xīxī, Luòluo, Qiúqiu hé [@Bǐdé@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>24178</StartMilliseconds>
+    <EndMilliseconds>24844</EndMilliseconds>
+    <Text>他们的名字叫西西，洛洛，球球和彼得。
+Tāmen de míngzi jiào Xīxī, Luòluo, Qiúqiu hé Bǐdé.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>24845</StartMilliseconds>
+    <EndMilliseconds>25545</EndMilliseconds>
+    <Text>他们住在一个树洞里。
+Tāmen zhùzài yí ge shù dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>25546</StartMilliseconds>
+    <EndMilliseconds>26347</EndMilliseconds>
+    <Text>[@他们@]住在一个树洞里。
+[@Tāmen@] zhùzài yí ge shù dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>26348</StartMilliseconds>
+    <EndMilliseconds>26770</EndMilliseconds>
+    <Text>他们[@住在@]一个树洞里。
+Tāmen [@zhùzài@] yí ge shù dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>26771</StartMilliseconds>
+    <EndMilliseconds>26920</EndMilliseconds>
+    <Text>他们住在[@一@]个树洞里。
+Tāmen zhùzài [@yí@] ge shù dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>26921</StartMilliseconds>
+    <EndMilliseconds>27177</EndMilliseconds>
+    <Text>他们住在一[@个@]树洞里。
+Tāmen zhùzài yí [@ge@] shù dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>27178</StartMilliseconds>
+    <EndMilliseconds>27475</EndMilliseconds>
+    <Text>他们住在一个[@树@]洞里。
+Tāmen zhùzài yí ge [@shù@] dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>27476</StartMilliseconds>
+    <EndMilliseconds>27752</EndMilliseconds>
+    <Text>他们住在一个树[@洞@]里。
+Tāmen zhùzài yí ge shù [@dòng@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>27753</StartMilliseconds>
+    <EndMilliseconds>28193</EndMilliseconds>
+    <Text>他们住在一个树洞[@里@]。
+Tāmen zhùzài yí ge shù dòng [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>28194</StartMilliseconds>
+    <EndMilliseconds>29905</EndMilliseconds>
+    <Text>他们住在一个树洞里。
+Tāmen zhùzài yí ge shù dòng li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>29906</StartMilliseconds>
+    <EndMilliseconds>32973</EndMilliseconds>
+    <Text>有一天，兔子太太说：
+Yǒu yìtiān, Tùzi tàitai shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>32974</StartMilliseconds>
+    <EndMilliseconds>33193</EndMilliseconds>
+    <Text>[@有@]一天，兔子太太说：
+[@Yǒu@] yìtiān, Tùzi tàitai shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>33194</StartMilliseconds>
+    <EndMilliseconds>33929</EndMilliseconds>
+    <Text>有[@一天@]，兔子太太说：
+Yǒu [@yìtiān@], Tùzi tàitai shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>33929</StartMilliseconds>
+    <EndMilliseconds>34324</EndMilliseconds>
+    <Text>有一天，兔子太太说：
+Yǒu yìtiān, Tùzi tàitai shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>34325</StartMilliseconds>
+    <EndMilliseconds>34909</EndMilliseconds>
+    <Text>有一天，[@兔子@]太太说：
+Yǒu yìtiān, [@Tùzi@] tàitai shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>34910</StartMilliseconds>
+    <EndMilliseconds>35335</EndMilliseconds>
+    <Text>有一天，兔子[@太太@]说：
+Yǒu yìtiān, Tùzi [@tàitai@] shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>35336</StartMilliseconds>
+    <EndMilliseconds>35780</EndMilliseconds>
+    <Text>有一天，兔子太太[@说@]：
+Yǒu yìtiān, Tùzi tàitai [@shuō@]:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>35781</StartMilliseconds>
+    <EndMilliseconds>36000</EndMilliseconds>
+    <Text>有一天，兔子太太说：
+Yǒu yìtiān, Tùzi tàitai shuō:</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>36001</StartMilliseconds>
+    <EndMilliseconds>36127</EndMilliseconds>
+    <Text>“我们没有面包了。
+"Wǒmen méiyǒu miànbāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>36128</StartMilliseconds>
+    <EndMilliseconds>36382</EndMilliseconds>
+    <Text>“[@我们@]没有面包了。
+"[@Wǒmen@] méiyǒu miànbāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>36383</StartMilliseconds>
+    <EndMilliseconds>36647</EndMilliseconds>
+    <Text>“我们[@没有@]面包了。
+"Wǒmen [@méiyǒu@] miànbāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>36648</StartMilliseconds>
+    <EndMilliseconds>37098</EndMilliseconds>
+    <Text>“我们没有[@面包@]了。
+"Wǒmen méiyǒu [@miànbāo@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>37099</StartMilliseconds>
+    <EndMilliseconds>37516</EndMilliseconds>
+    <Text>“我们没有面包[@了@]。
+"Wǒmen méiyǒu miànbāo [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>37517</StartMilliseconds>
+    <EndMilliseconds>37917</EndMilliseconds>
+    <Text>“我们没有面包了。
+"Wǒmen méiyǒu miànbāo le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>37918</StartMilliseconds>
+    <EndMilliseconds>38615</EndMilliseconds>
+    <Text>我要去城里买一些。”
+Wǒ yào qù chénglǐ mǎi yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>38616</StartMilliseconds>
+    <EndMilliseconds>38795</EndMilliseconds>
+    <Text>[@我@]要去城里买一些。”
+[@Wǒ@] yào qù chénglǐ mǎi yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>38796</StartMilliseconds>
+    <EndMilliseconds>38890</EndMilliseconds>
+    <Text>我[@要@]去城里买一些。”
+Wǒ [@yào@] qù chénglǐ mǎi yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>38891</StartMilliseconds>
+    <EndMilliseconds>39045</EndMilliseconds>
+    <Text>我要[@去@]城里买一些。”
+Wǒ yào [@qù@] chénglǐ mǎi yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>39046</StartMilliseconds>
+    <EndMilliseconds>39352</EndMilliseconds>
+    <Text>我要去[@城里@]买一些。”
+Wǒ yào qù [@chénglǐ@] mǎi yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>39353</StartMilliseconds>
+    <EndMilliseconds>39546</EndMilliseconds>
+    <Text>我要去城里[@买@]一些。”
+Wǒ yào qù chénglǐ [@mǎi@] yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>39547</StartMilliseconds>
+    <EndMilliseconds>40164</EndMilliseconds>
+    <Text>我要去城里买[@一些@]。”
+Wǒ yào qù chénglǐ mǎi [@yìxiē@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>40165</StartMilliseconds>
+    <EndMilliseconds>40728</EndMilliseconds>
+    <Text>我要去城里买一些。”
+Wǒ yào qù chénglǐ mǎi yìxiē."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>40729</StartMilliseconds>
+    <EndMilliseconds>41569</EndMilliseconds>
+    <Text>兔子太太拿起篮子和雨伞。
+Tùzi tàitai náqǐ lánzi hé yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>41570</StartMilliseconds>
+    <EndMilliseconds>42012</EndMilliseconds>
+    <Text>[@兔子@]太太拿起篮子和雨伞。
+[@Tùzi@] tàitai náqǐ lánzi hé yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>42013</StartMilliseconds>
+    <EndMilliseconds>42628</EndMilliseconds>
+    <Text>兔子[@太太@]拿起篮子和雨伞。
+Tùzi [@tàitai@] náqǐ lánzi hé yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>42629</StartMilliseconds>
+    <EndMilliseconds>43066</EndMilliseconds>
+    <Text>兔子太太[@拿起@]篮子和雨伞。
+Tùzi tàitai [@náqǐ@] lánzi hé yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>43067</StartMilliseconds>
+    <EndMilliseconds>43752</EndMilliseconds>
+    <Text>兔子太太拿起[@篮子@]和雨伞。
+Tùzi tàitai náqǐ [@lánzi@] hé yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>43753</StartMilliseconds>
+    <EndMilliseconds>43968</EndMilliseconds>
+    <Text>兔子太太拿起篮子[@和@]雨伞。
+Tùzi tàitai náqǐ lánzi [@hé@] yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>43969</StartMilliseconds>
+    <EndMilliseconds>44693</EndMilliseconds>
+    <Text>兔子太太拿起篮子和[@雨伞@]。
+Tùzi tàitai náqǐ lánzi hé [@yǔsǎn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>44694</StartMilliseconds>
+    <EndMilliseconds>44898</EndMilliseconds>
+    <Text>兔子太太拿起篮子和雨伞。
+Tùzi tàitai náqǐ lánzi hé yǔsǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>44899</StartMilliseconds>
+    <EndMilliseconds>45122</EndMilliseconds>
+    <Text>她看向她的孩子们。
+Tā kànxiàng tā de háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>45123</StartMilliseconds>
+    <EndMilliseconds>45348</EndMilliseconds>
+    <Text>[@她@]看向她的孩子们。
+[@Tā@] kànxiàng tā de háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>45349</StartMilliseconds>
+    <EndMilliseconds>46026</EndMilliseconds>
+    <Text>她[@看向@]她的孩子们。
+Tā [@kànxiàng@] tā de háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>46027</StartMilliseconds>
+    <EndMilliseconds>46312</EndMilliseconds>
+    <Text>她看向[@她@]的孩子们。
+Tā kànxiàng [@tā@] de háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>46313</StartMilliseconds>
+    <EndMilliseconds>46461</EndMilliseconds>
+    <Text>她看向她[@的@]孩子们。
+Tā kànxiàng tā [@de@] háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>46462</StartMilliseconds>
+    <EndMilliseconds>47300</EndMilliseconds>
+    <Text>她看向她的[@孩子们@]。
+Tā kànxiàng tā de [@háizimen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>47301</StartMilliseconds>
+    <EndMilliseconds>47840</EndMilliseconds>
+    <Text>她看向她的孩子们。
+Tā kànxiàng tā de háizimen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>47841</StartMilliseconds>
+    <EndMilliseconds>48512</EndMilliseconds>
+    <Text>“我马上就回来。”她说。
+"Wǒ mǎshàng jiù huílai." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>48513</StartMilliseconds>
+    <EndMilliseconds>48694</EndMilliseconds>
+    <Text>“[@我@]马上就回来。”她说。
+"[@Wǒ@] mǎshàng jiù huílai." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>48695</StartMilliseconds>
+    <EndMilliseconds>49035</EndMilliseconds>
+    <Text>“我[@马上@]就回来。”她说。
+"Wǒ [@mǎshàng@] jiù huílai." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>49036</StartMilliseconds>
+    <EndMilliseconds>49210</EndMilliseconds>
+    <Text>“我马上[@就@]回来。”她说。
+"Wǒ mǎshàng [@jiù@] huílai." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>49211</StartMilliseconds>
+    <EndMilliseconds>49766</EndMilliseconds>
+    <Text>“我马上就[@回来@]。”她说。
+"Wǒ mǎshàng jiù [@huílai@]." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>49767</StartMilliseconds>
+    <EndMilliseconds>50357</EndMilliseconds>
+    <Text>“我马上就回来。”她说。
+"Wǒ mǎshàng jiù huílai." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>50358</StartMilliseconds>
+    <EndMilliseconds>50654</EndMilliseconds>
+    <Text>“我马上就回来。”[@她@]说。
+"Wǒ mǎshàng jiù huílai." [@Tā@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>50655</StartMilliseconds>
+    <EndMilliseconds>51227</EndMilliseconds>
+    <Text>“我马上就回来。”她[@说@]。
+"Wǒ mǎshàng jiù huílai." Tā [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>51228</StartMilliseconds>
+    <EndMilliseconds>51658</EndMilliseconds>
+    <Text>“我马上就回来。”她说。
+"Wǒ mǎshàng jiù huílai." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>51659</StartMilliseconds>
+    <EndMilliseconds>52136</EndMilliseconds>
+    <Text>“我们可以出去吗？”彼得问。
+"Wǒmen kěyǐ chūqu ma?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>52137</StartMilliseconds>
+    <EndMilliseconds>52456</EndMilliseconds>
+    <Text>“[@我们@]可以出去吗？”彼得问。
+"[@Wǒmen@] kěyǐ chūqu ma?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>52457</StartMilliseconds>
+    <EndMilliseconds>52771</EndMilliseconds>
+    <Text>“我们[@可以@]出去吗？”彼得问。
+"Wǒmen [@kěyǐ@] chūqu ma?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>52772</StartMilliseconds>
+    <EndMilliseconds>53258</EndMilliseconds>
+    <Text>“我们可以[@出去@]吗？”彼得问。
+"Wǒmen kěyǐ [@chūqu@] ma?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>53259</StartMilliseconds>
+    <EndMilliseconds>53599</EndMilliseconds>
+    <Text>“我们可以出去[@吗@]？”彼得问。
+"Wǒmen kěyǐ chūqu [@ma@]?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>53600</StartMilliseconds>
+    <EndMilliseconds>54329</EndMilliseconds>
+    <Text>“我们可以出去吗？”彼得问。
+"Wǒmen kěyǐ chūqu ma?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>54330</StartMilliseconds>
+    <EndMilliseconds>54898</EndMilliseconds>
+    <Text>“我们可以出去吗？”[@彼得@]问。
+"Wǒmen kěyǐ chūqu ma?" [@Bǐdé@] wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>54899</StartMilliseconds>
+    <EndMilliseconds>55390</EndMilliseconds>
+    <Text>“我们可以出去吗？”彼得[@问@]。
+"Wǒmen kěyǐ chūqu ma?" Bǐdé [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>55391</StartMilliseconds>
+    <EndMilliseconds>55981</EndMilliseconds>
+    <Text>“我们可以出去吗？”彼得问。
+"Wǒmen kěyǐ chūqu ma?" Bǐdé wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>55982</StartMilliseconds>
+    <EndMilliseconds>56659</EndMilliseconds>
+    <Text>“可以。”兔妈妈说，
+"Kěyǐ." Tù māma shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>56660</StartMilliseconds>
+    <EndMilliseconds>57320</EndMilliseconds>
+    <Text>“[@可以@]。”兔妈妈说，
+"[@Kěyǐ@]." Tù māma shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>57321</StartMilliseconds>
+    <EndMilliseconds>58252</EndMilliseconds>
+    <Text>“可以。”兔妈妈说，
+"Kěyǐ." Tù māma shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>58253</StartMilliseconds>
+    <EndMilliseconds>58576</EndMilliseconds>
+    <Text>“可以。”[@兔@]妈妈说，
+"Kěyǐ." [@Tù@] māma shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>58577</StartMilliseconds>
+    <EndMilliseconds>59110</EndMilliseconds>
+    <Text>“可以。”兔[@妈妈@]说，
+"Kěyǐ." Tù [@māma@] shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>59111</StartMilliseconds>
+    <EndMilliseconds>59869</EndMilliseconds>
+    <Text>“可以。”兔妈妈[@说@]，
+"Kěyǐ." Tù māma [@shuō@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>59870</StartMilliseconds>
+    <EndMilliseconds>60704</EndMilliseconds>
+    <Text>“可以。”兔妈妈说，
+"Kěyǐ." Tù māma shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>60705</StartMilliseconds>
+    <EndMilliseconds>61639</EndMilliseconds>
+    <Text>“但是不要去农夫的菜园。
+"Dànshì bú yào qù nóngfū de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>61640</StartMilliseconds>
+    <EndMilliseconds>62458</EndMilliseconds>
+    <Text>“[@但是@]不要去农夫的菜园。
+"[@Dànshì@] bú yào qù nóngfū de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>62459</StartMilliseconds>
+    <EndMilliseconds>62632</EndMilliseconds>
+    <Text>“但是[@不@]要去农夫的菜园。
+"Dànshì [@bú@] yào qù nóngfū de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>62633</StartMilliseconds>
+    <EndMilliseconds>62778</EndMilliseconds>
+    <Text>“但是不[@要@]去农夫的菜园。
+"Dànshì bú [@yào@] qù nóngfū de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>62779</StartMilliseconds>
+    <EndMilliseconds>62946</EndMilliseconds>
+    <Text>“但是不要[@去@]农夫的菜园。
+"Dànshì bú yào [@qù@] nóngfū de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>62947</StartMilliseconds>
+    <EndMilliseconds>63279</EndMilliseconds>
+    <Text>“但是不要去[@农夫@]的菜园。
+"Dànshì bú yào qù [@nóngfū@] de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>63280</StartMilliseconds>
+    <EndMilliseconds>63419</EndMilliseconds>
+    <Text>“但是不要去农夫[@的@]菜园。
+"Dànshì bú yào qù nóngfū [@de@] càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>63420</StartMilliseconds>
+    <EndMilliseconds>64243</EndMilliseconds>
+    <Text>“但是不要去农夫的[@菜园@]。
+"Dànshì bú yào qù nóngfū de [@càiyuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>64244</StartMilliseconds>
+    <EndMilliseconds>64830</EndMilliseconds>
+    <Text>“但是不要去农夫的菜园。
+"Dànshì bú yào qù nóngfū de càiyuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>64831</StartMilliseconds>
+    <EndMilliseconds>65503</EndMilliseconds>
+    <Text>你们的爸爸去过那儿。
+Nǐmen de bàba qùguo nàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>65504</StartMilliseconds>
+    <EndMilliseconds>65795</EndMilliseconds>
+    <Text>[@你们@]的爸爸去过那儿。
+[@Nǐmen@] de bàba qùguo nàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>65796</StartMilliseconds>
+    <EndMilliseconds>65926</EndMilliseconds>
+    <Text>你们[@的@]爸爸去过那儿。
+Nǐmen [@de@] bàba qùguo nàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>65927</StartMilliseconds>
+    <EndMilliseconds>66266</EndMilliseconds>
+    <Text>你们的[@爸爸@]去过那儿。
+Nǐmen de [@bàba@] qùguo nàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>66267</StartMilliseconds>
+    <EndMilliseconds>66627</EndMilliseconds>
+    <Text>你们的爸爸[@去过@]那儿。
+Nǐmen de bàba [@qùguo@] nàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>66628</StartMilliseconds>
+    <EndMilliseconds>67114</EndMilliseconds>
+    <Text>你们的爸爸去过[@那儿@]。
+Nǐmen de bàba qùguo [@nàr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>67115</StartMilliseconds>
+    <EndMilliseconds>67397</EndMilliseconds>
+    <Text>你们的爸爸去过那儿。
+Nǐmen de bàba qùguo nàr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>67398</StartMilliseconds>
+    <EndMilliseconds>67631</EndMilliseconds>
+    <Text>之后就再也没有回家。”
+Zhīhòu jiù zài yě méiyǒu huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>67632</StartMilliseconds>
+    <EndMilliseconds>68130</EndMilliseconds>
+    <Text>[@之后@]就再也没有回家。”
+[@Zhīhòu@] jiù zài yě méiyǒu huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>68131</StartMilliseconds>
+    <EndMilliseconds>68284</EndMilliseconds>
+    <Text>之后[@就@]再也没有回家。”
+Zhīhòu [@jiù@] zài yě méiyǒu huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>68285</StartMilliseconds>
+    <EndMilliseconds>68479</EndMilliseconds>
+    <Text>之后就[@再@]也没有回家。”
+Zhīhòu jiù [@zài@] yě méiyǒu huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>68480</StartMilliseconds>
+    <EndMilliseconds>68597</EndMilliseconds>
+    <Text>之后就再[@也@]没有回家。”
+Zhīhòu jiù zài [@yě@] méiyǒu huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>68598</StartMilliseconds>
+    <EndMilliseconds>68912</EndMilliseconds>
+    <Text>之后就再也[@没有@]回家。”
+Zhīhòu jiù zài yě [@méiyǒu@] huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>68913</StartMilliseconds>
+    <EndMilliseconds>69098</EndMilliseconds>
+    <Text>之后就再也没有[@回@]家。”
+Zhīhòu jiù zài yě méiyǒu [@huí@] jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>69099</StartMilliseconds>
+    <EndMilliseconds>69593</EndMilliseconds>
+    <Text>之后就再也没有回[@家@]。”
+Zhīhòu jiù zài yě méiyǒu huí [@jiā@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>69594</StartMilliseconds>
+    <EndMilliseconds>73055</EndMilliseconds>
+    <Text>之后就再也没有回家。”
+Zhīhòu jiù zài yě méiyǒu huí jiā."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>73056</StartMilliseconds>
+    <EndMilliseconds>75182</EndMilliseconds>
+    <Text>“好的，妈妈。”小兔子们回答道。
+"Hǎode, māma." Xiǎotùzimen huídá dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>75183</StartMilliseconds>
+    <EndMilliseconds>75837</EndMilliseconds>
+    <Text>“[@好的@]，妈妈。”小兔子们回答道。
+"[@Hǎode@], māma." Xiǎotùzimen huídá dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>75838</StartMilliseconds>
+    <EndMilliseconds>76581</EndMilliseconds>
+    <Text>“好的，[@妈妈@]。”小兔子们回答道。
+"Hǎode, [@māma@]." Xiǎotùzimen huídá dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>76582</StartMilliseconds>
+    <EndMilliseconds>77047</EndMilliseconds>
+    <Text>“好的，妈妈。”小兔子们回答道。
+"Hǎode, māma." Xiǎotùzimen huídá dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>77048</StartMilliseconds>
+    <EndMilliseconds>78344</EndMilliseconds>
+    <Text>“好的，妈妈。”[@小兔子们@]回答道。
+"Hǎode, māma." [@Xiǎotùzimen@] huídá dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>78344</StartMilliseconds>
+    <EndMilliseconds>78908</EndMilliseconds>
+    <Text>“好的，妈妈。”小兔子们[@回答@]道。
+"Hǎode, māma." Xiǎotùzimen [@huídá@] dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>78909</StartMilliseconds>
+    <EndMilliseconds>79333</EndMilliseconds>
+    <Text>“好的，妈妈。”小兔子们回答[@道@]。
+"Hǎode, māma." Xiǎotùzimen huídá [@dào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>79334</StartMilliseconds>
+    <EndMilliseconds>79960</EndMilliseconds>
+    <Text>“好的，妈妈。”小兔子们回答道。
+"Hǎode, māma." Xiǎotùzimen huídá dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>79961</StartMilliseconds>
+    <EndMilliseconds>80570</EndMilliseconds>
+    <Text>兔子太太去了城里。
+Tùzi tàitai qù le chénglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>80571</StartMilliseconds>
+    <EndMilliseconds>81036</EndMilliseconds>
+    <Text>[@兔子@]太太去了城里。
+[@Tùzi@] tàitai qù le chénglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>81037</StartMilliseconds>
+    <EndMilliseconds>81844</EndMilliseconds>
+    <Text>兔子[@太太@]去了城里。
+Tùzi [@tàitai@] qù le chénglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>81845</StartMilliseconds>
+    <EndMilliseconds>82144</EndMilliseconds>
+    <Text>兔子太太[@去@]了城里。
+Tùzi tàitai [@qù@] le chénglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>82145</StartMilliseconds>
+    <EndMilliseconds>82289</EndMilliseconds>
+    <Text>兔子太太去[@了@]城里。
+Tùzi tàitai qù [@le@] chénglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>82290</StartMilliseconds>
+    <EndMilliseconds>83086</EndMilliseconds>
+    <Text>兔子太太去了[@城里@]。
+Tùzi tàitai qù le [@chénglǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>83087</StartMilliseconds>
+    <EndMilliseconds>86333</EndMilliseconds>
+    <Text>兔子太太去了城里。
+Tùzi tàitai qù le chénglǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>86334</StartMilliseconds>
+    <EndMilliseconds>89326</EndMilliseconds>
+    <Text>小兔子们穿上外衣和鞋子。
+Xiǎotùzimen chuānshàng wàiyī hé xiézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>89327</StartMilliseconds>
+    <EndMilliseconds>90581</EndMilliseconds>
+    <Text>[@小兔子们@]穿上外衣和鞋子。
+[@Xiǎotùzimen@] chuānshàng wàiyī hé xiézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>90581</StartMilliseconds>
+    <EndMilliseconds>91306</EndMilliseconds>
+    <Text>小兔子们[@穿上@]外衣和鞋子。
+Xiǎotùzimen [@chuānshàng@] wàiyī hé xiézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>91307</StartMilliseconds>
+    <EndMilliseconds>92016</EndMilliseconds>
+    <Text>小兔子们穿上[@外衣@]和鞋子。
+Xiǎotùzimen chuānshàng [@wàiyī@] hé xiézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>92017</StartMilliseconds>
+    <EndMilliseconds>92230</EndMilliseconds>
+    <Text>小兔子们穿上外衣[@和@]鞋子。
+Xiǎotùzimen chuānshàng wàiyī [@hé@] xiézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>92231</StartMilliseconds>
+    <EndMilliseconds>93036</EndMilliseconds>
+    <Text>小兔子们穿上外衣和[@鞋子@]。
+Xiǎotùzimen chuānshàng wàiyī hé [@xiézi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>93037</StartMilliseconds>
+    <EndMilliseconds>93396</EndMilliseconds>
+    <Text>小兔子们穿上外衣和鞋子。
+Xiǎotùzimen chuānshàng wàiyī hé xiézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>93397</StartMilliseconds>
+    <EndMilliseconds>93820</EndMilliseconds>
+    <Text>然后，他们出去了。
+Ránhòu, tāmen chūqu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>93821</StartMilliseconds>
+    <EndMilliseconds>94537</EndMilliseconds>
+    <Text>[@然后@]，他们出去了。
+[@Ránhòu@], tāmen chūqu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>94538</StartMilliseconds>
+    <EndMilliseconds>95290</EndMilliseconds>
+    <Text>然后，[@他们@]出去了。
+Ránhòu, [@tāmen@] chūqu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>95291</StartMilliseconds>
+    <EndMilliseconds>95993</EndMilliseconds>
+    <Text>然后，他们[@出去@]了。
+Ránhòu, tāmen [@chūqu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>95994</StartMilliseconds>
+    <EndMilliseconds>96316</EndMilliseconds>
+    <Text>然后，他们出去[@了@]。
+Ránhòu, tāmen chūqu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>96317</StartMilliseconds>
+    <EndMilliseconds>96777</EndMilliseconds>
+    <Text>然后，他们出去了。
+Ránhòu, tāmen chūqu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>96778</StartMilliseconds>
+    <EndMilliseconds>97096</EndMilliseconds>
+    <Text>四只小兔子一路蹦跳。
+Sì zhī xiǎotùzi yílù bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>97097</StartMilliseconds>
+    <EndMilliseconds>97545</EndMilliseconds>
+    <Text>[@四@]只小兔子一路蹦跳。
+[@Sì@] zhī xiǎotùzi yílù bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>97546</StartMilliseconds>
+    <EndMilliseconds>97894</EndMilliseconds>
+    <Text>四[@只@]小兔子一路蹦跳。
+Sì [@zhī@] xiǎotùzi yílù bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>97895</StartMilliseconds>
+    <EndMilliseconds>99069</EndMilliseconds>
+    <Text>四只[@小兔子@]一路蹦跳。
+Sì zhī [@xiǎotùzi@] yílù bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>99069</StartMilliseconds>
+    <EndMilliseconds>99850</EndMilliseconds>
+    <Text>四只小兔子[@一路@]蹦跳。
+Sì zhī xiǎotùzi [@yílù@] bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>99851</StartMilliseconds>
+    <EndMilliseconds>100919</EndMilliseconds>
+    <Text>四只小兔子一路[@蹦跳@]。
+Sì zhī xiǎotùzi yílù [@bèngtiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>100920</StartMilliseconds>
+    <EndMilliseconds>103489</EndMilliseconds>
+    <Text>四只小兔子一路蹦跳。
+Sì zhī xiǎotùzi yílù bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>103490</StartMilliseconds>
+    <EndMilliseconds>105580</EndMilliseconds>
+    <Text>“看那里！”西西说，
+"Kàn nàli!" Xīxī shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>105581</StartMilliseconds>
+    <EndMilliseconds>105839</EndMilliseconds>
+    <Text>“[@看@]那里！”西西说，
+"[@Kàn@] nàli!" Xīxī shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>105840</StartMilliseconds>
+    <EndMilliseconds>106774</EndMilliseconds>
+    <Text>“看[@那里@]！”西西说，
+"Kàn [@nàli@]!" Xīxī shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>106775</StartMilliseconds>
+    <EndMilliseconds>106943</EndMilliseconds>
+    <Text>“看那里！”西西说，
+"Kàn nàli!" Xīxī shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>106944</StartMilliseconds>
+    <EndMilliseconds>107666</EndMilliseconds>
+    <Text>“看那里！”[@西西@]说，
+"Kàn nàli!" [@Xīxī@] shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>107667</StartMilliseconds>
+    <EndMilliseconds>108185</EndMilliseconds>
+    <Text>“看那里！”西西[@说@]，
+"Kàn nàli!" Xīxī [@shuō@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>108186</StartMilliseconds>
+    <EndMilliseconds>108358</EndMilliseconds>
+    <Text>“看那里！”西西说，
+"Kàn nàli!" Xīxī shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>108359</StartMilliseconds>
+    <EndMilliseconds>108548</EndMilliseconds>
+    <Text>“我看到了黑莓丛！”
+"Wǒ kàndào le hēiméi cóng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>108549</StartMilliseconds>
+    <EndMilliseconds>108726</EndMilliseconds>
+    <Text>“[@我@]看到了黑莓丛！”
+"[@Wǒ@] kàndào le hēiméi cóng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>108727</StartMilliseconds>
+    <EndMilliseconds>109243</EndMilliseconds>
+    <Text>“我[@看到@]了黑莓丛！”
+"Wǒ [@kàndào@] le hēiméi cóng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>109244</StartMilliseconds>
+    <EndMilliseconds>109400</EndMilliseconds>
+    <Text>“我看到[@了@]黑莓丛！”
+"Wǒ kàndào [@le@] hēiméi cóng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>109401</StartMilliseconds>
+    <EndMilliseconds>109824</EndMilliseconds>
+    <Text>“我看到了[@黑莓@]丛！”
+"Wǒ kàndào le [@hēiméi@] cóng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>109825</StartMilliseconds>
+    <EndMilliseconds>110584</EndMilliseconds>
+    <Text>“我看到了黑莓[@丛@]！”
+"Wǒ kàndào le hēiméi [@cóng@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>110585</StartMilliseconds>
+    <EndMilliseconds>111109</EndMilliseconds>
+    <Text>“我看到了黑莓丛！”
+"Wǒ kàndào le hēiméi cóng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>111110</StartMilliseconds>
+    <EndMilliseconds>111629</EndMilliseconds>
+    <Text>“哇！”洛洛和球球说。
+"Wā!" Luòluo hé Qiúqiu shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>111630</StartMilliseconds>
+    <EndMilliseconds>112597</EndMilliseconds>
+    <Text>“[@哇@]！”洛洛和球球说。
+"[@Wā@]!" Luòluo hé Qiúqiu shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>112598</StartMilliseconds>
+    <EndMilliseconds>112720</EndMilliseconds>
+    <Text>“哇！”洛洛和球球说。
+"Wā!" Luòluo hé Qiúqiu shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>112721</StartMilliseconds>
+    <EndMilliseconds>113549</EndMilliseconds>
+    <Text>“哇！”[@洛洛@]和球球说。
+"Wā!" [@Luòluo@] hé Qiúqiu shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>113550</StartMilliseconds>
+    <EndMilliseconds>113793</EndMilliseconds>
+    <Text>“哇！”洛洛[@和@]球球说。
+"Wā!" Luòluo [@hé@] Qiúqiu shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>113794</StartMilliseconds>
+    <EndMilliseconds>114504</EndMilliseconds>
+    <Text>“哇！”洛洛和[@球球@]说。
+"Wā!" Luòluo hé [@Qiúqiu@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>114505</StartMilliseconds>
+    <EndMilliseconds>115054</EndMilliseconds>
+    <Text>“哇！”洛洛和球球[@说@]。
+"Wā!" Luòluo hé Qiúqiu [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>115055</StartMilliseconds>
+    <EndMilliseconds>115597</EndMilliseconds>
+    <Text>“哇！”洛洛和球球说。
+"Wā!" Luòluo hé Qiúqiu shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>115598</StartMilliseconds>
+    <EndMilliseconds>116047</EndMilliseconds>
+    <Text>洛洛，西西和球球跑向黑莓丛。
+Luòluo, Xīxī hé Qiúqiu pǎoxiàng hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>116048</StartMilliseconds>
+    <EndMilliseconds>117062</EndMilliseconds>
+    <Text>[@洛洛@]，西西和球球跑向黑莓丛。
+[@Luòluo@], Xīxī hé Qiúqiu pǎoxiàng hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>117063</StartMilliseconds>
+    <EndMilliseconds>118024</EndMilliseconds>
+    <Text>洛洛，[@西西@]和球球跑向黑莓丛。
+Luòluo, [@Xīxī@] hé Qiúqiu pǎoxiàng hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>118025</StartMilliseconds>
+    <EndMilliseconds>118356</EndMilliseconds>
+    <Text>洛洛，西西[@和@]球球跑向黑莓丛。
+Luòluo, Xīxī [@hé@] Qiúqiu pǎoxiàng hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>118357</StartMilliseconds>
+    <EndMilliseconds>119371</EndMilliseconds>
+    <Text>洛洛，西西和[@球球@]跑向黑莓丛。
+Luòluo, Xīxī hé [@Qiúqiu@] pǎoxiàng hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>119372</StartMilliseconds>
+    <EndMilliseconds>120250</EndMilliseconds>
+    <Text>洛洛，西西和球球[@跑向@]黑莓丛。
+Luòluo, Xīxī hé Qiúqiu [@pǎoxiàng@] hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>120251</StartMilliseconds>
+    <EndMilliseconds>120803</EndMilliseconds>
+    <Text>洛洛，西西和球球跑向[@黑莓@]丛。
+Luòluo, Xīxī hé Qiúqiu pǎoxiàng [@hēiméi@] cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>120804</StartMilliseconds>
+    <EndMilliseconds>121547</EndMilliseconds>
+    <Text>洛洛，西西和球球跑向黑莓[@丛@]。
+Luòluo, Xīxī hé Qiúqiu pǎoxiàng hēiméi [@cóng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>121548</StartMilliseconds>
+    <EndMilliseconds>123312</EndMilliseconds>
+    <Text>洛洛，西西和球球跑向黑莓丛。
+Luòluo, Xīxī hé Qiúqiu pǎoxiàng hēiméi cóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>123313</StartMilliseconds>
+    <EndMilliseconds>124950</EndMilliseconds>
+    <Text>彼得的姐妹们开始采黑莓。
+Bǐdé de jiěmèimen kāishǐ cǎi hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>124951</StartMilliseconds>
+    <EndMilliseconds>125472</EndMilliseconds>
+    <Text>[@彼得@]的姐妹们开始采黑莓。
+[@Bǐdé@] de jiěmèimen kāishǐ cǎi hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>125473</StartMilliseconds>
+    <EndMilliseconds>125635</EndMilliseconds>
+    <Text>彼得[@的@]姐妹们开始采黑莓。
+Bǐdé [@de@] jiěmèimen kāishǐ cǎi hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>125636</StartMilliseconds>
+    <EndMilliseconds>126696</EndMilliseconds>
+    <Text>彼得的[@姐妹们@]开始采黑莓。
+Bǐdé de [@jiěmèimen@] kāishǐ cǎi hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>126697</StartMilliseconds>
+    <EndMilliseconds>127449</EndMilliseconds>
+    <Text>彼得的姐妹们[@开始@]采黑莓。
+Bǐdé de jiěmèimen [@kāishǐ@] cǎi hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>127450</StartMilliseconds>
+    <EndMilliseconds>127826</EndMilliseconds>
+    <Text>彼得的姐妹们开始[@采@]黑莓。
+Bǐdé de jiěmèimen kāishǐ [@cǎi@] hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>127827</StartMilliseconds>
+    <EndMilliseconds>128797</EndMilliseconds>
+    <Text>彼得的姐妹们开始采[@黑莓@]。
+Bǐdé de jiěmèimen kāishǐ cǎi [@hēiméi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>128798</StartMilliseconds>
+    <EndMilliseconds>130454</EndMilliseconds>
+    <Text>彼得的姐妹们开始采黑莓。
+Bǐdé de jiěmèimen kāishǐ cǎi hēiméi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>130455</StartMilliseconds>
+    <EndMilliseconds>131654</EndMilliseconds>
+    <Text>“我不想吃黑莓。”彼得想，
+"Wǒ bù xiǎng chī hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>131655</StartMilliseconds>
+    <EndMilliseconds>132086</EndMilliseconds>
+    <Text>“[@我@]不想吃黑莓。”彼得想，
+"[@Wǒ@] bù xiǎng chī hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>132087</StartMilliseconds>
+    <EndMilliseconds>132355</EndMilliseconds>
+    <Text>“我[@不@]想吃黑莓。”彼得想，
+"Wǒ [@bù@] xiǎng chī hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>132356</StartMilliseconds>
+    <EndMilliseconds>132587</EndMilliseconds>
+    <Text>“我不[@想@]吃黑莓。”彼得想，
+"Wǒ bù [@xiǎng@] chī hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>132588</StartMilliseconds>
+    <EndMilliseconds>132833</EndMilliseconds>
+    <Text>“我不想[@吃@]黑莓。”彼得想，
+"Wǒ bù xiǎng [@chī@] hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>132834</StartMilliseconds>
+    <EndMilliseconds>133535</EndMilliseconds>
+    <Text>“我不想吃[@黑莓@]。”彼得想，
+"Wǒ bù xiǎng chī [@hēiméi@]." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>133536</StartMilliseconds>
+    <EndMilliseconds>133934</EndMilliseconds>
+    <Text>“我不想吃黑莓。”彼得想，
+"Wǒ bù xiǎng chī hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>133935</StartMilliseconds>
+    <EndMilliseconds>134608</EndMilliseconds>
+    <Text>“我不想吃黑莓。”[@彼得@]想，
+"Wǒ bù xiǎng chī hēiméi." [@Bǐdé@] xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>134609</StartMilliseconds>
+    <EndMilliseconds>135246</EndMilliseconds>
+    <Text>“我不想吃黑莓。”彼得[@想@]，
+"Wǒ bù xiǎng chī hēiméi." Bǐdé [@xiǎng@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>135247</StartMilliseconds>
+    <EndMilliseconds>135842</EndMilliseconds>
+    <Text>“我不想吃黑莓。”彼得想，
+"Wǒ bù xiǎng chī hēiméi." Bǐdé xiǎng,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>135843</StartMilliseconds>
+    <EndMilliseconds>136459</EndMilliseconds>
+    <Text>“我要去农夫的菜园！”
+"Wǒ yào qù nóngfū de càiyuán!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>136460</StartMilliseconds>
+    <EndMilliseconds>136706</EndMilliseconds>
+    <Text>“[@我@]要去农夫的菜园！”
+"[@Wǒ@] yào qù nóngfū de càiyuán!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>136707</StartMilliseconds>
+    <EndMilliseconds>136883</EndMilliseconds>
+    <Text>“我[@要@]去农夫的菜园！”
+"Wǒ [@yào@] qù nóngfū de càiyuán!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>136884</StartMilliseconds>
+    <EndMilliseconds>137112</EndMilliseconds>
+    <Text>“我要[@去@]农夫的菜园！”
+"Wǒ yào [@qù@] nóngfū de càiyuán!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>137113</StartMilliseconds>
+    <EndMilliseconds>137504</EndMilliseconds>
+    <Text>“我要去[@农夫@]的菜园！”
+"Wǒ yào qù [@nóngfū@] de càiyuán!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>137505</StartMilliseconds>
+    <EndMilliseconds>137644</EndMilliseconds>
+    <Text>“我要去农夫[@的@]菜园！”
+"Wǒ yào qù nóngfū [@de@] càiyuán!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>137645</StartMilliseconds>
+    <EndMilliseconds>138686</EndMilliseconds>
+    <Text>“我要去农夫的[@菜园@]！”
+"Wǒ yào qù nóngfū de [@càiyuán@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>138687</StartMilliseconds>
+    <EndMilliseconds>141786</EndMilliseconds>
+    <Text>“我要去农夫的菜园！”
+"Wǒ yào qù nóngfū de càiyuán!"</Text>
+  </Paragraph>
+</Subtitle>

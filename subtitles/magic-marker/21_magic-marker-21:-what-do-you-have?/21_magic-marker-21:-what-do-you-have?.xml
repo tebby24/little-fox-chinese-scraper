@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9674</StartMilliseconds>
+    <EndMilliseconds>12336</EndMilliseconds>
+    <Text>员工：你拿了什么？
+yuángōng: Nǐ ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12337</StartMilliseconds>
+    <EndMilliseconds>12539</EndMilliseconds>
+    <Text>员工：[@你@]拿了什么？
+yuángōng: [@Nǐ@] ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12540</StartMilliseconds>
+    <EndMilliseconds>12692</EndMilliseconds>
+    <Text>员工：你[@拿@]了什么？
+yuángōng: Nǐ [@ná@] le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12693</StartMilliseconds>
+    <EndMilliseconds>12798</EndMilliseconds>
+    <Text>员工：你拿[@了@]什么？
+yuángōng: Nǐ ná [@le@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12799</StartMilliseconds>
+    <EndMilliseconds>13296</EndMilliseconds>
+    <Text>员工：你拿了[@什么@]？
+yuángōng: Nǐ ná le [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13297</StartMilliseconds>
+    <EndMilliseconds>14047</EndMilliseconds>
+    <Text>员工：你拿了什么？
+yuángōng: Nǐ ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14048</StartMilliseconds>
+    <EndMilliseconds>14380</EndMilliseconds>
+    <Text>苏：我拿了盘子。
+Sū: Wǒ ná le pánzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14381</StartMilliseconds>
+    <EndMilliseconds>14634</EndMilliseconds>
+    <Text>苏：[@我@]拿了盘子。
+Sū: [@Wǒ@] ná le pánzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>14635</StartMilliseconds>
+    <EndMilliseconds>14797</EndMilliseconds>
+    <Text>苏：我[@拿@]了盘子。
+Sū: Wǒ [@ná@] le pánzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>14798</StartMilliseconds>
+    <EndMilliseconds>14992</EndMilliseconds>
+    <Text>苏：我拿[@了@]盘子。
+Sū: Wǒ ná [@le@] pánzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>14993</StartMilliseconds>
+    <EndMilliseconds>16033</EndMilliseconds>
+    <Text>苏：我拿了[@盘子@]。
+Sū: Wǒ ná le [@pánzi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16034</StartMilliseconds>
+    <EndMilliseconds>16560</EndMilliseconds>
+    <Text>苏：我拿了盘子。
+Sū: Wǒ ná le pánzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>16561</StartMilliseconds>
+    <EndMilliseconds>16710</EndMilliseconds>
+    <Text>苏：你拿了什么，亚历克斯？ 
+Sū: Nǐ ná le shénme, Yàlìkèsī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>16711</StartMilliseconds>
+    <EndMilliseconds>16902</EndMilliseconds>
+    <Text>苏：[@你@]拿了什么，亚历克斯？ 
+Sū: [@Nǐ@] ná le shénme, Yàlìkèsī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>16903</StartMilliseconds>
+    <EndMilliseconds>17058</EndMilliseconds>
+    <Text>苏：你[@拿@]了什么，亚历克斯？ 
+Sū: Nǐ [@ná@] le shénme, Yàlìkèsī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>17059</StartMilliseconds>
+    <EndMilliseconds>17226</EndMilliseconds>
+    <Text>苏：你拿[@了@]什么，亚历克斯？ 
+Sū: Nǐ ná [@le@] shénme, Yàlìkèsī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>17227</StartMilliseconds>
+    <EndMilliseconds>17991</EndMilliseconds>
+    <Text>苏：你拿了[@什么@]，亚历克斯？ 
+Sū: Nǐ ná le [@shénme@], Yàlìkèsī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>17992</StartMilliseconds>
+    <EndMilliseconds>19226</EndMilliseconds>
+    <Text>苏：你拿了什么，[@亚历克斯@]？ 
+Sū: Nǐ ná le shénme, [@Yàlìkèsī@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>19227</StartMilliseconds>
+    <EndMilliseconds>20225</EndMilliseconds>
+    <Text>苏：你拿了什么，亚历克斯？ 
+Sū: Nǐ ná le shénme, Yàlìkèsī?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>20226</StartMilliseconds>
+    <EndMilliseconds>20429</EndMilliseconds>
+    <Text>亚历克斯：我拿了纸巾。
+Yàlìkèsī: Wǒ ná le zhǐjīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>20430</StartMilliseconds>
+    <EndMilliseconds>20648</EndMilliseconds>
+    <Text>亚历克斯：[@我@]拿了纸巾。
+Yàlìkèsī: [@Wǒ@] ná le zhǐjīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>20649</StartMilliseconds>
+    <EndMilliseconds>20815</EndMilliseconds>
+    <Text>亚历克斯：我[@拿@]了纸巾。
+Yàlìkèsī: Wǒ [@ná@] le zhǐjīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>20816</StartMilliseconds>
+    <EndMilliseconds>20984</EndMilliseconds>
+    <Text>亚历克斯：我拿[@了@]纸巾。
+Yàlìkèsī: Wǒ ná [@le@] zhǐjīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>20985</StartMilliseconds>
+    <EndMilliseconds>21737</EndMilliseconds>
+    <Text>亚历克斯：我拿了[@纸巾@]。
+Yàlìkèsī: Wǒ ná le [@zhǐjīn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>21738</StartMilliseconds>
+    <EndMilliseconds>24381</EndMilliseconds>
+    <Text>亚历克斯：我拿了纸巾。
+Yàlìkèsī: Wǒ ná le zhǐjīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>24382</StartMilliseconds>
+    <EndMilliseconds>25508</EndMilliseconds>
+    <Text>苏：马克西拿了什么？
+Sū: Mǎkèxī ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>25509</StartMilliseconds>
+    <EndMilliseconds>26161</EndMilliseconds>
+    <Text>苏：[@马克西@]拿了什么？
+Sū: [@Mǎkèxī@] ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>26162</StartMilliseconds>
+    <EndMilliseconds>26334</EndMilliseconds>
+    <Text>苏：马克西[@拿@]了什么？
+Sū: Mǎkèxī [@ná@] le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>26335</StartMilliseconds>
+    <EndMilliseconds>26500</EndMilliseconds>
+    <Text>苏：马克西拿[@了@]什么？
+Sū: Mǎkèxī ná [@le@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>26501</StartMilliseconds>
+    <EndMilliseconds>27145</EndMilliseconds>
+    <Text>苏：马克西拿了[@什么@]？
+Sū: Mǎkèxī ná le [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>27146</StartMilliseconds>
+    <EndMilliseconds>27664</EndMilliseconds>
+    <Text>苏：马克西拿了什么？
+Sū: Mǎkèxī ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>27665</StartMilliseconds>
+    <EndMilliseconds>28004</EndMilliseconds>
+    <Text>塔克：她拿了冰淇淋。
+Tǎkè: Tā ná le bīngqílín.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28005</StartMilliseconds>
+    <EndMilliseconds>28277</EndMilliseconds>
+    <Text>塔克：[@她@]拿了冰淇淋。
+Tǎkè: [@Tā@] ná le bīngqílín.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>28278</StartMilliseconds>
+    <EndMilliseconds>28494</EndMilliseconds>
+    <Text>塔克：她[@拿@]了冰淇淋。
+Tǎkè: Tā [@ná@] le bīngqílín.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>28495</StartMilliseconds>
+    <EndMilliseconds>28704</EndMilliseconds>
+    <Text>塔克：她拿[@了@]冰淇淋。
+Tǎkè: Tā ná [@le@] bīngqílín.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>28705</StartMilliseconds>
+    <EndMilliseconds>29849</EndMilliseconds>
+    <Text>塔克：她拿了[@冰淇淋@]。
+Tǎkè: Tā ná le [@bīngqílín@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>29850</StartMilliseconds>
+    <EndMilliseconds>29938</EndMilliseconds>
+    <Text>塔克：她拿了冰淇淋。
+Tǎkè: Tā ná le bīngqílín.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>29939</StartMilliseconds>
+    <EndMilliseconds>30002</EndMilliseconds>
+    <Text>马克西：快点儿，苏！
+Mǎkèxī: Kuài diǎnr, Sū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>30003</StartMilliseconds>
+    <EndMilliseconds>30358</EndMilliseconds>
+    <Text>马克西：[@快@]点儿，苏！
+Mǎkèxī: [@Kuài@] diǎnr, Sū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>30359</StartMilliseconds>
+    <EndMilliseconds>30769</EndMilliseconds>
+    <Text>马克西：快[@点儿@]，苏！
+Mǎkèxī: Kuài [@diǎnr@], Sū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>30770</StartMilliseconds>
+    <EndMilliseconds>31430</EndMilliseconds>
+    <Text>马克西：快点儿，[@苏@]！
+Mǎkèxī: Kuài diǎnr, [@Sū@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>31431</StartMilliseconds>
+    <EndMilliseconds>31936</EndMilliseconds>
+    <Text>马克西：快点儿，苏！
+Mǎkèxī: Kuài diǎnr, Sū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>31937</StartMilliseconds>
+    <EndMilliseconds>32073</EndMilliseconds>
+    <Text>塔克：快走吧！
+Tǎkè: Kuài zǒu ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>32074</StartMilliseconds>
+    <EndMilliseconds>32381</EndMilliseconds>
+    <Text>塔克：[@快@]走吧！
+Tǎkè: [@Kuài@] zǒu ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>32382</StartMilliseconds>
+    <EndMilliseconds>32670</EndMilliseconds>
+    <Text>塔克：快[@走@]吧！
+Tǎkè: Kuài [@zǒu@] ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>32671</StartMilliseconds>
+    <EndMilliseconds>33362</EndMilliseconds>
+    <Text>塔克：快走[@吧@]！
+Tǎkè: Kuài zǒu [@ba@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>33363</StartMilliseconds>
+    <EndMilliseconds>37944</EndMilliseconds>
+    <Text>塔克：快走吧！
+Tǎkè: Kuài zǒu ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>37945</StartMilliseconds>
+    <EndMilliseconds>39127</EndMilliseconds>
+    <Text>塔克：布莱克夫人是女巫！
+Tǎkè: Bùláikè fūrén shì nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>39128</StartMilliseconds>
+    <EndMilliseconds>39743</EndMilliseconds>
+    <Text>塔克：[@布莱克@]夫人是女巫！
+Tǎkè: [@Bùláikè@] fūrén shì nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>39744</StartMilliseconds>
+    <EndMilliseconds>40117</EndMilliseconds>
+    <Text>塔克：布莱克[@夫人@]是女巫！
+Tǎkè: Bùláikè [@fūrén@] shì nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>40118</StartMilliseconds>
+    <EndMilliseconds>40392</EndMilliseconds>
+    <Text>塔克：布莱克夫人[@是@]女巫！
+Tǎkè: Bùláikè fūrén [@shì@] nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>40393</StartMilliseconds>
+    <EndMilliseconds>41456</EndMilliseconds>
+    <Text>塔克：布莱克夫人是[@女巫@]！
+Tǎkè: Bùláikè fūrén shì [@nǚwū@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>41457</StartMilliseconds>
+    <EndMilliseconds>41926</EndMilliseconds>
+    <Text>塔克：布莱克夫人是女巫！
+Tǎkè: Bùláikè fūrén shì nǚwū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>41927</StartMilliseconds>
+    <EndMilliseconds>42329</EndMilliseconds>
+    <Text>苏：别说傻话了，塔克。 
+Sū: Bié shuō shǎ huà le, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>42330</StartMilliseconds>
+    <EndMilliseconds>42585</EndMilliseconds>
+    <Text>苏：[@别@]说傻话了，塔克。 
+Sū: [@Bié@] shuō shǎ huà le, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>42586</StartMilliseconds>
+    <EndMilliseconds>42802</EndMilliseconds>
+    <Text>苏：别[@说@]傻话了，塔克。 
+Sū: Bié [@shuō@] shǎ huà le, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>42803</StartMilliseconds>
+    <EndMilliseconds>43048</EndMilliseconds>
+    <Text>苏：别说[@傻@]话了，塔克。 
+Sū: Bié shuō [@shǎ@] huà le, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>43049</StartMilliseconds>
+    <EndMilliseconds>43231</EndMilliseconds>
+    <Text>苏：别说傻[@话@]了，塔克。 
+Sū: Bié shuō shǎ [@huà@] le, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>43232</StartMilliseconds>
+    <EndMilliseconds>43346</EndMilliseconds>
+    <Text>苏：别说傻话[@了@]，塔克。 
+Sū: Bié shuō shǎ huà [@le@], Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>43347</StartMilliseconds>
+    <EndMilliseconds>44236</EndMilliseconds>
+    <Text>苏：别说傻话了，[@塔克@]。 
+Sū: Bié shuō shǎ huà le, [@Tǎkè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>44237</StartMilliseconds>
+    <EndMilliseconds>44804</EndMilliseconds>
+    <Text>苏：别说傻话了，塔克。 
+Sū: Bié shuō shǎ huà le, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>44805</StartMilliseconds>
+    <EndMilliseconds>45051</EndMilliseconds>
+    <Text>亚历克斯：布莱克夫人不是女巫。
+Yàlìkèsī: Bùláikè fūrén bú shì nǚwū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>45052</StartMilliseconds>
+    <EndMilliseconds>45562</EndMilliseconds>
+    <Text>亚历克斯：[@布莱克@]夫人不是女巫。
+Yàlìkèsī: [@Bùláikè@] fūrén bú shì nǚwū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>45563</StartMilliseconds>
+    <EndMilliseconds>45971</EndMilliseconds>
+    <Text>亚历克斯：布莱克[@夫人@]不是女巫。
+Yàlìkèsī: Bùláikè [@fūrén@] bú shì nǚwū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>45972</StartMilliseconds>
+    <EndMilliseconds>46138</EndMilliseconds>
+    <Text>亚历克斯：布莱克夫人[@不@]是女巫。
+Yàlìkèsī: Bùláikè fūrén [@bú@] shì nǚwū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>46139</StartMilliseconds>
+    <EndMilliseconds>46362</EndMilliseconds>
+    <Text>亚历克斯：布莱克夫人不[@是@]女巫。
+Yàlìkèsī: Bùláikè fūrén bú [@shì@] nǚwū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>46363</StartMilliseconds>
+    <EndMilliseconds>47199</EndMilliseconds>
+    <Text>亚历克斯：布莱克夫人不是[@女巫@]。
+Yàlìkèsī: Bùláikè fūrén bú shì [@nǚwū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>47200</StartMilliseconds>
+    <EndMilliseconds>50991</EndMilliseconds>
+    <Text>亚历克斯：布莱克夫人不是女巫。
+Yàlìkèsī: Bùláikè fūrén bú shì nǚwū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>50992</StartMilliseconds>
+    <EndMilliseconds>51743</EndMilliseconds>
+    <Text>员工：不好意思，请问您拿了什么？
+yuángōng: Bù hǎoyìsi, qǐngwèn nín ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>51744</StartMilliseconds>
+    <EndMilliseconds>51881</EndMilliseconds>
+    <Text>员工：[@不@]好意思，请问您拿了什么？
+yuángōng: [@Bù@] hǎoyìsi, qǐngwèn nín ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>51882</StartMilliseconds>
+    <EndMilliseconds>52957</EndMilliseconds>
+    <Text>员工：不[@好意思@]，请问您拿了什么？
+yuángōng: Bù [@hǎoyìsi@], qǐngwèn nín ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>52957</StartMilliseconds>
+    <EndMilliseconds>53749</EndMilliseconds>
+    <Text>员工：不好意思，[@请问@]您拿了什么？
+yuángōng: Bù hǎoyìsi, [@qǐngwèn@] nín ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>53750</StartMilliseconds>
+    <EndMilliseconds>53972</EndMilliseconds>
+    <Text>员工：不好意思，请问[@您@]拿了什么？
+yuángōng: Bù hǎoyìsi, qǐngwèn [@nín@] ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>53973</StartMilliseconds>
+    <EndMilliseconds>54125</EndMilliseconds>
+    <Text>员工：不好意思，请问您[@拿@]了什么？
+yuángōng: Bù hǎoyìsi, qǐngwèn nín [@ná@] le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>54126</StartMilliseconds>
+    <EndMilliseconds>54280</EndMilliseconds>
+    <Text>员工：不好意思，请问您拿[@了@]什么？
+yuángōng: Bù hǎoyìsi, qǐngwèn nín ná [@le@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>54281</StartMilliseconds>
+    <EndMilliseconds>54951</EndMilliseconds>
+    <Text>员工：不好意思，请问您拿了[@什么@]？
+yuángōng: Bù hǎoyìsi, qǐngwèn nín ná le [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>54952</StartMilliseconds>
+    <EndMilliseconds>55602</EndMilliseconds>
+    <Text>员工：不好意思，请问您拿了什么？
+yuángōng: Bù hǎoyìsi, qǐngwèn nín ná le shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>55603</StartMilliseconds>
+    <EndMilliseconds>55970</EndMilliseconds>
+    <Text>男人：我拿了青蛙！啊哈哈哈哈！
+nánrén: Wǒ ná le qīngwā! Ā hā hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>55971</StartMilliseconds>
+    <EndMilliseconds>56240</EndMilliseconds>
+    <Text>男人：[@我@]拿了青蛙！啊哈哈哈哈！
+nánrén: [@Wǒ@] ná le qīngwā! Ā hā hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>56241</StartMilliseconds>
+    <EndMilliseconds>56463</EndMilliseconds>
+    <Text>男人：我[@拿@]了青蛙！啊哈哈哈哈！
+nánrén: Wǒ [@ná@] le qīngwā! Ā hā hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>56464</StartMilliseconds>
+    <EndMilliseconds>56597</EndMilliseconds>
+    <Text>男人：我拿[@了@]青蛙！啊哈哈哈哈！
+nánrén: Wǒ ná [@le@] qīngwā! Ā hā hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>56598</StartMilliseconds>
+    <EndMilliseconds>57593</EndMilliseconds>
+    <Text>男人：我拿了[@青蛙@]！啊哈哈哈哈！
+nánrén: Wǒ ná le [@qīngwā@]! Ā hā hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>57594</StartMilliseconds>
+    <EndMilliseconds>58235</EndMilliseconds>
+    <Text>男人：我拿了青蛙！[@啊@]哈哈哈哈！
+nánrén: Wǒ ná le qīngwā! [@Ā@] hā hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>58236</StartMilliseconds>
+    <EndMilliseconds>58386</EndMilliseconds>
+    <Text>男人：我拿了青蛙！啊[@哈@]哈哈哈！
+nánrén: Wǒ ná le qīngwā! Ā [@hā@] hā hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>58387</StartMilliseconds>
+    <EndMilliseconds>58638</EndMilliseconds>
+    <Text>男人：我拿了青蛙！啊哈[@哈@]哈哈！
+nánrén: Wǒ ná le qīngwā! Ā hā [@hā@] hā hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>58639</StartMilliseconds>
+    <EndMilliseconds>59049</EndMilliseconds>
+    <Text>男人：我拿了青蛙！啊哈哈[@哈@]哈！
+nánrén: Wǒ ná le qīngwā! Ā hā hā [@hā@] hā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>59050</StartMilliseconds>
+    <EndMilliseconds>59692</EndMilliseconds>
+    <Text>男人：我拿了青蛙！啊哈哈哈[@哈@]！
+nánrén: Wǒ ná le qīngwā! Ā hā hā hā [@hā@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>59693</StartMilliseconds>
+    <EndMilliseconds>62692</EndMilliseconds>
+    <Text>男人：我拿了青蛙！啊哈哈哈哈！
+nánrén: Wǒ ná le qīngwā! Ā hā hā hā hā!</Text>
+  </Paragraph>
+</Subtitle>

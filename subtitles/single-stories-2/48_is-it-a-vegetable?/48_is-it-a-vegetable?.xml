@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6559</StartMilliseconds>
+    <EndMilliseconds>7464</EndMilliseconds>
+    <Text>它又多汁又是橙色。
+Tā yòu duō zhī yòu shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>7465</StartMilliseconds>
+    <EndMilliseconds>8022</EndMilliseconds>
+    <Text>[@它@]又多汁又是橙色。
+[@Tā@] yòu duō zhī yòu shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>8023</StartMilliseconds>
+    <EndMilliseconds>8477</EndMilliseconds>
+    <Text>它[@又@]多汁又是橙色。
+Tā [@yòu@] duō zhī yòu shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>8478</StartMilliseconds>
+    <EndMilliseconds>8768</EndMilliseconds>
+    <Text>它又[@多@]汁又是橙色。
+Tā yòu [@duō@] zhī yòu shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>8769</StartMilliseconds>
+    <EndMilliseconds>9527</EndMilliseconds>
+    <Text>它又多[@汁@]又是橙色。
+Tā yòu duō [@zhī@] yòu shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>9528</StartMilliseconds>
+    <EndMilliseconds>9904</EndMilliseconds>
+    <Text>它又多汁[@又@]是橙色。
+Tā yòu duō zhī [@yòu@] shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>9905</StartMilliseconds>
+    <EndMilliseconds>10423</EndMilliseconds>
+    <Text>它又多汁又[@是@]橙色。
+Tā yòu duō zhī yòu [@shì@] chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>10424</StartMilliseconds>
+    <EndMilliseconds>11264</EndMilliseconds>
+    <Text>它又多汁又是[@橙色@]。
+Tā yòu duō zhī yòu shì [@chéngsè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>11265</StartMilliseconds>
+    <EndMilliseconds>11694</EndMilliseconds>
+    <Text>它又多汁又是橙色。
+Tā yòu duō zhī yòu shì chéngsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>11695</StartMilliseconds>
+    <EndMilliseconds>11992</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>11993</StartMilliseconds>
+    <EndMilliseconds>12269</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>12270</StartMilliseconds>
+    <EndMilliseconds>12532</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>12533</StartMilliseconds>
+    <EndMilliseconds>12802</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>12803</StartMilliseconds>
+    <EndMilliseconds>13355</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>13356</StartMilliseconds>
+    <EndMilliseconds>14079</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>14080</StartMilliseconds>
+    <EndMilliseconds>14512</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>14513</StartMilliseconds>
+    <EndMilliseconds>15382</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>15383</StartMilliseconds>
+    <EndMilliseconds>16574</EndMilliseconds>
+    <Text>不是，橙子是一种水果。
+Bú shì, chéngzi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>16575</StartMilliseconds>
+    <EndMilliseconds>16936</EndMilliseconds>
+    <Text>[@不@]是，橙子是一种水果。
+[@Bú@] shì, chéngzi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>16937</StartMilliseconds>
+    <EndMilliseconds>17399</EndMilliseconds>
+    <Text>不[@是@]，橙子是一种水果。
+Bú [@shì@], chéngzi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>17400</StartMilliseconds>
+    <EndMilliseconds>18229</EndMilliseconds>
+    <Text>不是，橙子是一种水果。
+Bú shì, chéngzi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>18230</StartMilliseconds>
+    <EndMilliseconds>19249</EndMilliseconds>
+    <Text>不是，[@橙子@]是一种水果。
+Bú shì, [@chéngzi@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>19250</StartMilliseconds>
+    <EndMilliseconds>19651</EndMilliseconds>
+    <Text>不是，橙子[@是@]一种水果。
+Bú shì, chéngzi [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>19652</StartMilliseconds>
+    <EndMilliseconds>19900</EndMilliseconds>
+    <Text>不是，橙子是[@一@]种水果。
+Bú shì, chéngzi shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>19901</StartMilliseconds>
+    <EndMilliseconds>20457</EndMilliseconds>
+    <Text>不是，橙子是一[@种@]水果。
+Bú shì, chéngzi shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>20458</StartMilliseconds>
+    <EndMilliseconds>21545</EndMilliseconds>
+    <Text>不是，橙子是一种[@水果@]。
+Bú shì, chéngzi shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>21546</StartMilliseconds>
+    <EndMilliseconds>23303</EndMilliseconds>
+    <Text>不是，橙子是一种水果。
+Bú shì, chéngzi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>23304</StartMilliseconds>
+    <EndMilliseconds>24648</EndMilliseconds>
+    <Text>它又脆又红。
+Tā yòu cuì yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>24649</StartMilliseconds>
+    <EndMilliseconds>25173</EndMilliseconds>
+    <Text>[@它@]又脆又红。
+[@Tā@] yòu cuì yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>25174</StartMilliseconds>
+    <EndMilliseconds>25541</EndMilliseconds>
+    <Text>它[@又@]脆又红。
+Tā [@yòu@] cuì yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>25542</StartMilliseconds>
+    <EndMilliseconds>26291</EndMilliseconds>
+    <Text>它又[@脆@]又红。
+Tā yòu [@cuì@] yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>26292</StartMilliseconds>
+    <EndMilliseconds>26707</EndMilliseconds>
+    <Text>它又脆[@又@]红。
+Tā yòu cuì [@yòu@] hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>26708</StartMilliseconds>
+    <EndMilliseconds>27315</EndMilliseconds>
+    <Text>它又脆又[@红@]。
+Tā yòu cuì yòu [@hóng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>27316</StartMilliseconds>
+    <EndMilliseconds>27761</EndMilliseconds>
+    <Text>它又脆又红。
+Tā yòu cuì yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>27762</StartMilliseconds>
+    <EndMilliseconds>28217</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>28218</StartMilliseconds>
+    <EndMilliseconds>28557</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>28558</StartMilliseconds>
+    <EndMilliseconds>28996</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>28997</StartMilliseconds>
+    <EndMilliseconds>29265</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>29266</StartMilliseconds>
+    <EndMilliseconds>29697</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>29698</StartMilliseconds>
+    <EndMilliseconds>30294</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>30295</StartMilliseconds>
+    <EndMilliseconds>30780</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>30781</StartMilliseconds>
+    <EndMilliseconds>31638</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>31639</StartMilliseconds>
+    <EndMilliseconds>32818</EndMilliseconds>
+    <Text>不是，苹果是一种水果。
+Bú shì, píngguǒ shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>32819</StartMilliseconds>
+    <EndMilliseconds>33145</EndMilliseconds>
+    <Text>[@不@]是，苹果是一种水果。
+[@Bú@] shì, píngguǒ shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>33146</StartMilliseconds>
+    <EndMilliseconds>33616</EndMilliseconds>
+    <Text>不[@是@]，苹果是一种水果。
+Bú [@shì@], píngguǒ shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>33617</StartMilliseconds>
+    <EndMilliseconds>34314</EndMilliseconds>
+    <Text>不是，苹果是一种水果。
+Bú shì, píngguǒ shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>34315</StartMilliseconds>
+    <EndMilliseconds>35533</EndMilliseconds>
+    <Text>不是，[@苹果@]是一种水果。
+Bú shì, [@píngguǒ@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>35534</StartMilliseconds>
+    <EndMilliseconds>36099</EndMilliseconds>
+    <Text>不是，苹果[@是@]一种水果。
+Bú shì, píngguǒ [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>36100</StartMilliseconds>
+    <EndMilliseconds>36381</EndMilliseconds>
+    <Text>不是，苹果是[@一@]种水果。
+Bú shì, píngguǒ shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>36382</StartMilliseconds>
+    <EndMilliseconds>36774</EndMilliseconds>
+    <Text>不是，苹果是一[@种@]水果。
+Bú shì, píngguǒ shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>36775</StartMilliseconds>
+    <EndMilliseconds>38057</EndMilliseconds>
+    <Text>不是，苹果是一种[@水果@]。
+Bú shì, píngguǒ shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>38058</StartMilliseconds>
+    <EndMilliseconds>39923</EndMilliseconds>
+    <Text>不是，苹果是一种水果。
+Bú shì, píngguǒ shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>39924</StartMilliseconds>
+    <EndMilliseconds>41108</EndMilliseconds>
+    <Text>它又大又红。
+Tā yòu dà yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>41109</StartMilliseconds>
+    <EndMilliseconds>41711</EndMilliseconds>
+    <Text>[@它@]又大又红。
+[@Tā@] yòu dà yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>41712</StartMilliseconds>
+    <EndMilliseconds>42195</EndMilliseconds>
+    <Text>它[@又@]大又红。
+Tā [@yòu@] dà yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>42196</StartMilliseconds>
+    <EndMilliseconds>42669</EndMilliseconds>
+    <Text>它又[@大@]又红。
+Tā yòu [@dà@] yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>42670</StartMilliseconds>
+    <EndMilliseconds>43039</EndMilliseconds>
+    <Text>它又大[@又@]红。
+Tā yòu dà [@yòu@] hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>43040</StartMilliseconds>
+    <EndMilliseconds>43696</EndMilliseconds>
+    <Text>它又大又[@红@]。
+Tā yòu dà yòu [@hóng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>43697</StartMilliseconds>
+    <EndMilliseconds>44369</EndMilliseconds>
+    <Text>它又大又红。
+Tā yòu dà yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>44370</StartMilliseconds>
+    <EndMilliseconds>44734</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>44735</StartMilliseconds>
+    <EndMilliseconds>45052</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>45053</StartMilliseconds>
+    <EndMilliseconds>45496</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>45497</StartMilliseconds>
+    <EndMilliseconds>45735</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>45736</StartMilliseconds>
+    <EndMilliseconds>46207</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>46208</StartMilliseconds>
+    <EndMilliseconds>47024</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>47025</StartMilliseconds>
+    <EndMilliseconds>47445</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>47446</StartMilliseconds>
+    <EndMilliseconds>48163</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>48164</StartMilliseconds>
+    <EndMilliseconds>49465</EndMilliseconds>
+    <Text>不是，西瓜是一种水果。
+Bú shì, xīguā shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>49466</StartMilliseconds>
+    <EndMilliseconds>49831</EndMilliseconds>
+    <Text>[@不@]是，西瓜是一种水果。
+[@Bú@] shì, xīguā shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>49832</StartMilliseconds>
+    <EndMilliseconds>50365</EndMilliseconds>
+    <Text>不[@是@]，西瓜是一种水果。
+Bú [@shì@], xīguā shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>50366</StartMilliseconds>
+    <EndMilliseconds>51156</EndMilliseconds>
+    <Text>不是，西瓜是一种水果。
+Bú shì, xīguā shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>51157</StartMilliseconds>
+    <EndMilliseconds>52258</EndMilliseconds>
+    <Text>不是，[@西瓜@]是一种水果。
+Bú shì, [@xīguā@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>52259</StartMilliseconds>
+    <EndMilliseconds>52811</EndMilliseconds>
+    <Text>不是，西瓜[@是@]一种水果。
+Bú shì, xīguā [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>52812</StartMilliseconds>
+    <EndMilliseconds>53077</EndMilliseconds>
+    <Text>不是，西瓜是[@一@]种水果。
+Bú shì, xīguā shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>53078</StartMilliseconds>
+    <EndMilliseconds>53481</EndMilliseconds>
+    <Text>不是，西瓜是一[@种@]水果。
+Bú shì, xīguā shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>53482</StartMilliseconds>
+    <EndMilliseconds>54824</EndMilliseconds>
+    <Text>不是，西瓜是一种[@水果@]。
+Bú shì, xīguā shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>54825</StartMilliseconds>
+    <EndMilliseconds>56671</EndMilliseconds>
+    <Text>不是，西瓜是一种水果。
+Bú shì, xīguā shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>56672</StartMilliseconds>
+    <EndMilliseconds>58391</EndMilliseconds>
+    <Text>它又多毛又是粉色。
+Tā yòu duō máo yòu shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>58392</StartMilliseconds>
+    <EndMilliseconds>59020</EndMilliseconds>
+    <Text>[@它@]又多毛又是粉色。
+[@Tā@] yòu duō máo yòu shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>59021</StartMilliseconds>
+    <EndMilliseconds>59415</EndMilliseconds>
+    <Text>它[@又@]多毛又是粉色。
+Tā [@yòu@] duō máo yòu shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>59416</StartMilliseconds>
+    <EndMilliseconds>59770</EndMilliseconds>
+    <Text>它又[@多@]毛又是粉色。
+Tā yòu [@duō@] máo yòu shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>59771</StartMilliseconds>
+    <EndMilliseconds>60650</EndMilliseconds>
+    <Text>它又多[@毛@]又是粉色。
+Tā yòu duō [@máo@] yòu shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>60651</StartMilliseconds>
+    <EndMilliseconds>61043</EndMilliseconds>
+    <Text>它又多毛[@又@]是粉色。
+Tā yòu duō máo [@yòu@] shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>61044</StartMilliseconds>
+    <EndMilliseconds>61527</EndMilliseconds>
+    <Text>它又多毛又[@是@]粉色。
+Tā yòu duō máo yòu [@shì@] fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>61528</StartMilliseconds>
+    <EndMilliseconds>62451</EndMilliseconds>
+    <Text>它又多毛又是[@粉色@]。
+Tā yòu duō máo yòu shì [@fěnsè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>62452</StartMilliseconds>
+    <EndMilliseconds>63044</EndMilliseconds>
+    <Text>它又多毛又是粉色。
+Tā yòu duō máo yòu shì fěnsè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>63045</StartMilliseconds>
+    <EndMilliseconds>63619</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>63620</StartMilliseconds>
+    <EndMilliseconds>63930</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>63931</StartMilliseconds>
+    <EndMilliseconds>64227</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>64228</StartMilliseconds>
+    <EndMilliseconds>64517</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>64518</StartMilliseconds>
+    <EndMilliseconds>65004</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>65005</StartMilliseconds>
+    <EndMilliseconds>65849</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>65850</StartMilliseconds>
+    <EndMilliseconds>66362</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>66363</StartMilliseconds>
+    <EndMilliseconds>67255</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>67256</StartMilliseconds>
+    <EndMilliseconds>68455</EndMilliseconds>
+    <Text>不是，桃子是一种水果。
+Bú shì, táozi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>68456</StartMilliseconds>
+    <EndMilliseconds>68790</EndMilliseconds>
+    <Text>[@不@]是，桃子是一种水果。
+[@Bú@] shì, táozi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>68791</StartMilliseconds>
+    <EndMilliseconds>69312</EndMilliseconds>
+    <Text>不[@是@]，桃子是一种水果。
+Bú [@shì@], táozi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>69313</StartMilliseconds>
+    <EndMilliseconds>70057</EndMilliseconds>
+    <Text>不是，桃子是一种水果。
+Bú shì, táozi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>70058</StartMilliseconds>
+    <EndMilliseconds>71167</EndMilliseconds>
+    <Text>不是，[@桃子@]是一种水果。
+Bú shì, [@táozi@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>71168</StartMilliseconds>
+    <EndMilliseconds>71544</EndMilliseconds>
+    <Text>不是，桃子[@是@]一种水果。
+Bú shì, táozi [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>71545</StartMilliseconds>
+    <EndMilliseconds>71834</EndMilliseconds>
+    <Text>不是，桃子是[@一@]种水果。
+Bú shì, táozi shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>71835</StartMilliseconds>
+    <EndMilliseconds>72355</EndMilliseconds>
+    <Text>不是，桃子是一[@种@]水果。
+Bú shì, táozi shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>72356</StartMilliseconds>
+    <EndMilliseconds>73717</EndMilliseconds>
+    <Text>不是，桃子是一种[@水果@]。
+Bú shì, táozi shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>73718</StartMilliseconds>
+    <EndMilliseconds>75372</EndMilliseconds>
+    <Text>不是，桃子是一种水果。
+Bú shì, táozi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>75373</StartMilliseconds>
+    <EndMilliseconds>77230</EndMilliseconds>
+    <Text>它又小又红。
+Tā yòu xiǎo yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>77231</StartMilliseconds>
+    <EndMilliseconds>77774</EndMilliseconds>
+    <Text>[@它@]又小又红。
+[@Tā@] yòu xiǎo yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>77775</StartMilliseconds>
+    <EndMilliseconds>78149</EndMilliseconds>
+    <Text>它[@又@]小又红。
+Tā [@yòu@] xiǎo yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>78150</StartMilliseconds>
+    <EndMilliseconds>78952</EndMilliseconds>
+    <Text>它又[@小@]又红。
+Tā yòu [@xiǎo@] yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>78953</StartMilliseconds>
+    <EndMilliseconds>79360</EndMilliseconds>
+    <Text>它又小[@又@]红。
+Tā yòu xiǎo [@yòu@] hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>79361</StartMilliseconds>
+    <EndMilliseconds>80101</EndMilliseconds>
+    <Text>它又小又[@红@]。
+Tā yòu xiǎo yòu [@hóng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>80102</StartMilliseconds>
+    <EndMilliseconds>80515</EndMilliseconds>
+    <Text>它又小又红。
+Tā yòu xiǎo yòu hóng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>80516</StartMilliseconds>
+    <EndMilliseconds>80826</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>80827</StartMilliseconds>
+    <EndMilliseconds>81186</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>81187</StartMilliseconds>
+    <EndMilliseconds>81647</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>81648</StartMilliseconds>
+    <EndMilliseconds>81991</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>81992</StartMilliseconds>
+    <EndMilliseconds>82574</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>82575</StartMilliseconds>
+    <EndMilliseconds>83407</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>83408</StartMilliseconds>
+    <EndMilliseconds>83862</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>83863</StartMilliseconds>
+    <EndMilliseconds>84740</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>84741</StartMilliseconds>
+    <EndMilliseconds>85907</EndMilliseconds>
+    <Text>不是，草莓是一种水果。
+Bú shì, cǎoméi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>85908</StartMilliseconds>
+    <EndMilliseconds>86335</EndMilliseconds>
+    <Text>[@不@]是，草莓是一种水果。
+[@Bú@] shì, cǎoméi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>86336</StartMilliseconds>
+    <EndMilliseconds>86844</EndMilliseconds>
+    <Text>不[@是@]，草莓是一种水果。
+Bú [@shì@], cǎoméi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>86845</StartMilliseconds>
+    <EndMilliseconds>87792</EndMilliseconds>
+    <Text>不是，草莓是一种水果。
+Bú shì, cǎoméi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>87793</StartMilliseconds>
+    <EndMilliseconds>88897</EndMilliseconds>
+    <Text>不是，[@草莓@]是一种水果。
+Bú shì, [@cǎoméi@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>88898</StartMilliseconds>
+    <EndMilliseconds>89453</EndMilliseconds>
+    <Text>不是，草莓[@是@]一种水果。
+Bú shì, cǎoméi [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>89454</StartMilliseconds>
+    <EndMilliseconds>89739</EndMilliseconds>
+    <Text>不是，草莓是[@一@]种水果。
+Bú shì, cǎoméi shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>89740</StartMilliseconds>
+    <EndMilliseconds>90199</EndMilliseconds>
+    <Text>不是，草莓是一[@种@]水果。
+Bú shì, cǎoméi shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>90200</StartMilliseconds>
+    <EndMilliseconds>91593</EndMilliseconds>
+    <Text>不是，草莓是一种[@水果@]。
+Bú shì, cǎoméi shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>91594</StartMilliseconds>
+    <EndMilliseconds>93380</EndMilliseconds>
+    <Text>不是，草莓是一种水果。
+Bú shì, cǎoméi shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>93381</StartMilliseconds>
+    <EndMilliseconds>95428</EndMilliseconds>
+    <Text>它又长又黄。
+Tā yòu cháng yòu huáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>95429</StartMilliseconds>
+    <EndMilliseconds>96034</EndMilliseconds>
+    <Text>[@它@]又长又黄。
+[@Tā@] yòu cháng yòu huáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>96035</StartMilliseconds>
+    <EndMilliseconds>96466</EndMilliseconds>
+    <Text>它[@又@]长又黄。
+Tā [@yòu@] cháng yòu huáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>96467</StartMilliseconds>
+    <EndMilliseconds>97093</EndMilliseconds>
+    <Text>它又[@长@]又黄。
+Tā yòu [@cháng@] yòu huáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>97094</StartMilliseconds>
+    <EndMilliseconds>97516</EndMilliseconds>
+    <Text>它又长[@又@]黄。
+Tā yòu cháng [@yòu@] huáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>97517</StartMilliseconds>
+    <EndMilliseconds>98256</EndMilliseconds>
+    <Text>它又长又[@黄@]。
+Tā yòu cháng yòu [@huáng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>98257</StartMilliseconds>
+    <EndMilliseconds>98768</EndMilliseconds>
+    <Text>它又长又黄。
+Tā yòu cháng yòu huáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>98769</StartMilliseconds>
+    <EndMilliseconds>99239</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>99240</StartMilliseconds>
+    <EndMilliseconds>99582</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>99583</StartMilliseconds>
+    <EndMilliseconds>99971</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>99972</StartMilliseconds>
+    <EndMilliseconds>100266</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>100267</StartMilliseconds>
+    <EndMilliseconds>100852</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>100853</StartMilliseconds>
+    <EndMilliseconds>101692</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>101693</StartMilliseconds>
+    <EndMilliseconds>102116</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>102117</StartMilliseconds>
+    <EndMilliseconds>102809</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>102810</StartMilliseconds>
+    <EndMilliseconds>104045</EndMilliseconds>
+    <Text>不是，香蕉是一种水果。
+Bú shì, xiāngjiāo shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>104046</StartMilliseconds>
+    <EndMilliseconds>104415</EndMilliseconds>
+    <Text>[@不@]是，香蕉是一种水果。
+[@Bú@] shì, xiāngjiāo shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>104416</StartMilliseconds>
+    <EndMilliseconds>104850</EndMilliseconds>
+    <Text>不[@是@]，香蕉是一种水果。
+Bú [@shì@], xiāngjiāo shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>104851</StartMilliseconds>
+    <EndMilliseconds>105763</EndMilliseconds>
+    <Text>不是，香蕉是一种水果。
+Bú shì, xiāngjiāo shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>105764</StartMilliseconds>
+    <EndMilliseconds>106911</EndMilliseconds>
+    <Text>不是，[@香蕉@]是一种水果。
+Bú shì, [@xiāngjiāo@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>106912</StartMilliseconds>
+    <EndMilliseconds>107377</EndMilliseconds>
+    <Text>不是，香蕉[@是@]一种水果。
+Bú shì, xiāngjiāo [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>107378</StartMilliseconds>
+    <EndMilliseconds>107650</EndMilliseconds>
+    <Text>不是，香蕉是[@一@]种水果。
+Bú shì, xiāngjiāo shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>107651</StartMilliseconds>
+    <EndMilliseconds>108149</EndMilliseconds>
+    <Text>不是，香蕉是一[@种@]水果。
+Bú shì, xiāngjiāo shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>108150</StartMilliseconds>
+    <EndMilliseconds>109396</EndMilliseconds>
+    <Text>不是，香蕉是一种[@水果@]。
+Bú shì, xiāngjiāo shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>109397</StartMilliseconds>
+    <EndMilliseconds>111145</EndMilliseconds>
+    <Text>不是，香蕉是一种水果。
+Bú shì, xiāngjiāo shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>111146</StartMilliseconds>
+    <EndMilliseconds>112495</EndMilliseconds>
+    <Text>它又小又紫。
+Tā yòu xiǎo yòu zǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>112496</StartMilliseconds>
+    <EndMilliseconds>113104</EndMilliseconds>
+    <Text>[@它@]又小又紫。
+[@Tā@] yòu xiǎo yòu zǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>113105</StartMilliseconds>
+    <EndMilliseconds>113427</EndMilliseconds>
+    <Text>它[@又@]小又紫。
+Tā [@yòu@] xiǎo yòu zǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>113428</StartMilliseconds>
+    <EndMilliseconds>114192</EndMilliseconds>
+    <Text>它又[@小@]又紫。
+Tā yòu [@xiǎo@] yòu zǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>114193</StartMilliseconds>
+    <EndMilliseconds>114590</EndMilliseconds>
+    <Text>它又小[@又@]紫。
+Tā yòu xiǎo [@yòu@] zǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>114591</StartMilliseconds>
+    <EndMilliseconds>115324</EndMilliseconds>
+    <Text>它又小又[@紫@]。
+Tā yòu xiǎo yòu [@zǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>115325</StartMilliseconds>
+    <EndMilliseconds>115777</EndMilliseconds>
+    <Text>它又小又紫。
+Tā yòu xiǎo yòu zǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>115778</StartMilliseconds>
+    <EndMilliseconds>116400</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>116401</StartMilliseconds>
+    <EndMilliseconds>116749</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>116750</StartMilliseconds>
+    <EndMilliseconds>117064</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>117065</StartMilliseconds>
+    <EndMilliseconds>117377</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>117378</StartMilliseconds>
+    <EndMilliseconds>117940</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>117941</StartMilliseconds>
+    <EndMilliseconds>118769</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>118770</StartMilliseconds>
+    <EndMilliseconds>119238</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>119239</StartMilliseconds>
+    <EndMilliseconds>119994</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>119995</StartMilliseconds>
+    <EndMilliseconds>121197</EndMilliseconds>
+    <Text>不是，葡萄是一种水果。
+Bú shì, pútao shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>121198</StartMilliseconds>
+    <EndMilliseconds>121509</EndMilliseconds>
+    <Text>[@不@]是，葡萄是一种水果。
+[@Bú@] shì, pútao shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>121510</StartMilliseconds>
+    <EndMilliseconds>121952</EndMilliseconds>
+    <Text>不[@是@]，葡萄是一种水果。
+Bú [@shì@], pútao shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>121953</StartMilliseconds>
+    <EndMilliseconds>122864</EndMilliseconds>
+    <Text>不是，葡萄是一种水果。
+Bú shì, pútao shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>122865</StartMilliseconds>
+    <EndMilliseconds>123969</EndMilliseconds>
+    <Text>不是，[@葡萄@]是一种水果。
+Bú shì, [@pútao@] shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>123970</StartMilliseconds>
+    <EndMilliseconds>124325</EndMilliseconds>
+    <Text>不是，葡萄[@是@]一种水果。
+Bú shì, pútao [@shì@] yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>124326</StartMilliseconds>
+    <EndMilliseconds>124599</EndMilliseconds>
+    <Text>不是，葡萄是[@一@]种水果。
+Bú shì, pútao shì [@yì@] zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>124600</StartMilliseconds>
+    <EndMilliseconds>125148</EndMilliseconds>
+    <Text>不是，葡萄是一[@种@]水果。
+Bú shì, pútao shì yì [@zhǒng@] shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>125149</StartMilliseconds>
+    <EndMilliseconds>126441</EndMilliseconds>
+    <Text>不是，葡萄是一种[@水果@]。
+Bú shì, pútao shì yì zhǒng [@shuǐguǒ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>126442</StartMilliseconds>
+    <EndMilliseconds>128644</EndMilliseconds>
+    <Text>不是，葡萄是一种水果。
+Bú shì, pútao shì yì zhǒng shuǐguǒ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>128645</StartMilliseconds>
+    <EndMilliseconds>129970</EndMilliseconds>
+    <Text>它又细又绿。
+Tā yòu xì yòu lǜ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>129971</StartMilliseconds>
+    <EndMilliseconds>130559</EndMilliseconds>
+    <Text>[@它@]又细又绿。
+[@Tā@] yòu xì yòu lǜ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>130560</StartMilliseconds>
+    <EndMilliseconds>130929</EndMilliseconds>
+    <Text>它[@又@]细又绿。
+Tā [@yòu@] xì yòu lǜ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>130930</StartMilliseconds>
+    <EndMilliseconds>131586</EndMilliseconds>
+    <Text>它又[@细@]又绿。
+Tā yòu [@xì@] yòu lǜ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>131587</StartMilliseconds>
+    <EndMilliseconds>131918</EndMilliseconds>
+    <Text>它又细[@又@]绿。
+Tā yòu xì [@yòu@] lǜ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>131919</StartMilliseconds>
+    <EndMilliseconds>132453</EndMilliseconds>
+    <Text>它又细又[@绿@]。
+Tā yòu xì yòu [@lǜ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>132454</StartMilliseconds>
+    <EndMilliseconds>133056</EndMilliseconds>
+    <Text>它又细又绿。
+Tā yòu xì yòu lǜ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>133057</StartMilliseconds>
+    <EndMilliseconds>133435</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>133436</StartMilliseconds>
+    <EndMilliseconds>133812</EndMilliseconds>
+    <Text>[@它@]是一种蔬菜吗？
+[@Tā@] shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>133813</StartMilliseconds>
+    <EndMilliseconds>134288</EndMilliseconds>
+    <Text>它[@是@]一种蔬菜吗？
+Tā [@shì@] yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>134289</StartMilliseconds>
+    <EndMilliseconds>134610</EndMilliseconds>
+    <Text>它是[@一@]种蔬菜吗？
+Tā shì [@yì@] zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>134611</StartMilliseconds>
+    <EndMilliseconds>135196</EndMilliseconds>
+    <Text>它是一[@种@]蔬菜吗？
+Tā shì yì [@zhǒng@] shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>135197</StartMilliseconds>
+    <EndMilliseconds>136094</EndMilliseconds>
+    <Text>它是一种[@蔬菜@]吗？
+Tā shì yì zhǒng [@shūcài@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>136095</StartMilliseconds>
+    <EndMilliseconds>136571</EndMilliseconds>
+    <Text>它是一种蔬菜[@吗@]？
+Tā shì yì zhǒng shūcài [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>136572</StartMilliseconds>
+    <EndMilliseconds>137371</EndMilliseconds>
+    <Text>它是一种蔬菜吗？
+Tā shì yì zhǒng shūcài ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>137372</StartMilliseconds>
+    <EndMilliseconds>138609</EndMilliseconds>
+    <Text>是的！黄瓜是一种蔬菜！
+Shìde! Huángguā shì yì zhǒng shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>138610</StartMilliseconds>
+    <EndMilliseconds>139525</EndMilliseconds>
+    <Text>[@是的@]！黄瓜是一种蔬菜！
+[@Shìde@]! Huángguā shì yì zhǒng shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>139526</StartMilliseconds>
+    <EndMilliseconds>139967</EndMilliseconds>
+    <Text>是的！黄瓜是一种蔬菜！
+Shìde! Huángguā shì yì zhǒng shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>139968</StartMilliseconds>
+    <EndMilliseconds>140900</EndMilliseconds>
+    <Text>是的！[@黄瓜@]是一种蔬菜！
+Shìde! [@Huángguā@] shì yì zhǒng shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>140901</StartMilliseconds>
+    <EndMilliseconds>141511</EndMilliseconds>
+    <Text>是的！黄瓜[@是@]一种蔬菜！
+Shìde! Huángguā [@shì@] yì zhǒng shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>141512</StartMilliseconds>
+    <EndMilliseconds>141766</EndMilliseconds>
+    <Text>是的！黄瓜是[@一@]种蔬菜！
+Shìde! Huángguā shì [@yì@] zhǒng shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>141767</StartMilliseconds>
+    <EndMilliseconds>142134</EndMilliseconds>
+    <Text>是的！黄瓜是一[@种@]蔬菜！
+Shìde! Huángguā shì yì [@zhǒng@] shūcài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>142135</StartMilliseconds>
+    <EndMilliseconds>143046</EndMilliseconds>
+    <Text>是的！黄瓜是一种[@蔬菜@]！
+Shìde! Huángguā shì yì zhǒng [@shūcài@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>143047</StartMilliseconds>
+    <EndMilliseconds>145904</EndMilliseconds>
+    <Text>是的！黄瓜是一种蔬菜！
+Shìde! Huángguā shì yì zhǒng shūcài!</Text>
+  </Paragraph>
+</Subtitle>

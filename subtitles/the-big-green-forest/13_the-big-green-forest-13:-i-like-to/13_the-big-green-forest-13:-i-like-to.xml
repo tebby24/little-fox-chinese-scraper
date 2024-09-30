@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9608</StartMilliseconds>
+    <EndMilliseconds>28096</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan pá shù ma?
+浣熊：你喜欢爬树吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>28097</StartMilliseconds>
+    <EndMilliseconds>28824</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] xǐhuan pá shù ma?
+浣熊：[@你@]喜欢爬树吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>28825</StartMilliseconds>
+    <EndMilliseconds>30191</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@xǐhuan@] pá shù ma?
+浣熊：你[@喜欢@]爬树吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>30192</StartMilliseconds>
+    <EndMilliseconds>30561</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan [@pá@] shù ma?
+浣熊：你喜欢[@爬@]树吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>30562</StartMilliseconds>
+    <EndMilliseconds>31206</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan pá [@shù@] ma?
+浣熊：你喜欢爬[@树@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>31207</StartMilliseconds>
+    <EndMilliseconds>31888</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan pá shù [@ma@]?
+浣熊：你喜欢爬树[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>31889</StartMilliseconds>
+    <EndMilliseconds>32158</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan pá shù ma?
+浣熊：你喜欢爬树吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>32159</StartMilliseconds>
+    <EndMilliseconds>32797</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ xǐhuan pá ……
+松鼠：是的，我喜欢爬……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>32798</StartMilliseconds>
+    <EndMilliseconds>34055</EndMilliseconds>
+    <Text>sōngshǔ: [@Shìde@], wǒ xǐhuan pá ……
+松鼠：[@是的@]，我喜欢爬……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>34058</StartMilliseconds>
+    <EndMilliseconds>34452</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, [@wǒ@] xǐhuan pá ……
+松鼠：是的，[@我@]喜欢爬……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>34453</StartMilliseconds>
+    <EndMilliseconds>35493</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ [@xǐhuan@] pá ……
+松鼠：是的，我[@喜欢@]爬……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>35494</StartMilliseconds>
+    <EndMilliseconds>36162</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ xǐhuan [@pá@] ……
+松鼠：是的，我喜欢[@爬@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>36163</StartMilliseconds>
+    <EndMilliseconds>36511</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ xǐhuan pá ……
+松鼠：是的，我喜欢爬……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>36512</StartMilliseconds>
+    <EndMilliseconds>36866</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan pá shù!
+浣熊：我也喜欢爬树！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>36867</StartMilliseconds>
+    <EndMilliseconds>37185</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yě xǐhuan pá shù!
+浣熊：[@我@]也喜欢爬树！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>37186</StartMilliseconds>
+    <EndMilliseconds>37772</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yě@] xǐhuan pá shù!
+浣熊：我[@也@]喜欢爬树！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>37773</StartMilliseconds>
+    <EndMilliseconds>38954</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě [@xǐhuan@] pá shù!
+浣熊：我也[@喜欢@]爬树！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>38955</StartMilliseconds>
+    <EndMilliseconds>39370</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan [@pá@] shù!
+浣熊：我也喜欢[@爬@]树！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>39371</StartMilliseconds>
+    <EndMilliseconds>40268</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan pá [@shù@]!
+浣熊：我也喜欢爬[@树@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>40269</StartMilliseconds>
+    <EndMilliseconds>66490</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan pá shù!
+浣熊：我也喜欢爬树！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>66491</StartMilliseconds>
+    <EndMilliseconds>74911</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan yóu yǒng ma?
+浣熊：你喜欢游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>74912</StartMilliseconds>
+    <EndMilliseconds>75783</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] xǐhuan yóu yǒng ma?
+浣熊：[@你@]喜欢游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>75784</StartMilliseconds>
+    <EndMilliseconds>77057</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@xǐhuan@] yóu yǒng ma?
+浣熊：你[@喜欢@]游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>77058</StartMilliseconds>
+    <EndMilliseconds>77478</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan [@yóu@] yǒng ma?
+浣熊：你喜欢[@游@]泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>77479</StartMilliseconds>
+    <EndMilliseconds>78026</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan yóu [@yǒng@] ma?
+浣熊：你喜欢游[@泳@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>78027</StartMilliseconds>
+    <EndMilliseconds>78781</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan yóu yǒng [@ma@]?
+浣熊：你喜欢游泳[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>78782</StartMilliseconds>
+    <EndMilliseconds>79704</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan yóu yǒng ma?
+浣熊：你喜欢游泳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>79705</StartMilliseconds>
+    <EndMilliseconds>80379</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ xǐhuan ……
+松鼠：是的，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>80380</StartMilliseconds>
+    <EndMilliseconds>81531</EndMilliseconds>
+    <Text>sōngshǔ: [@Shìde@], wǒ xǐhuan ……
+松鼠：[@是的@]，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>81532</StartMilliseconds>
+    <EndMilliseconds>81919</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, [@wǒ@] xǐhuan ……
+松鼠：是的，[@我@]喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>81920</StartMilliseconds>
+    <EndMilliseconds>82967</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ [@xǐhuan@] ……
+松鼠：是的，我[@喜欢@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>82968</StartMilliseconds>
+    <EndMilliseconds>83253</EndMilliseconds>
+    <Text>sōngshǔ: Shìde, wǒ xǐhuan ……
+松鼠：是的，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>83254</StartMilliseconds>
+    <EndMilliseconds>83539</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan yóu yǒng!
+浣熊：我也喜欢游泳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>83540</StartMilliseconds>
+    <EndMilliseconds>84078</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yě xǐhuan yóu yǒng!
+浣熊：[@我@]也喜欢游泳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>84079</StartMilliseconds>
+    <EndMilliseconds>84810</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yě@] xǐhuan yóu yǒng!
+浣熊：我[@也@]喜欢游泳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>84811</StartMilliseconds>
+    <EndMilliseconds>85859</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě [@xǐhuan@] yóu yǒng!
+浣熊：我也[@喜欢@]游泳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>85860</StartMilliseconds>
+    <EndMilliseconds>86416</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan [@yóu@] yǒng!
+浣熊：我也喜欢[@游@]泳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>86417</StartMilliseconds>
+    <EndMilliseconds>87225</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan yóu [@yǒng@]!
+浣熊：我也喜欢游[@泳@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>87226</StartMilliseconds>
+    <EndMilliseconds>109010</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan yóu yǒng!
+浣熊：我也喜欢游泳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>109011</StartMilliseconds>
+    <EndMilliseconds>121209</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiàolái tiàoqù ma?
+浣熊：你喜欢跳来跳去吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>121210</StartMilliseconds>
+    <EndMilliseconds>121593</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] xǐhuan tiàolái tiàoqù ma?
+浣熊：[@你@]喜欢跳来跳去吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>121594</StartMilliseconds>
+    <EndMilliseconds>122649</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@xǐhuan@] tiàolái tiàoqù ma?
+浣熊：你[@喜欢@]跳来跳去吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>122650</StartMilliseconds>
+    <EndMilliseconds>123822</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan [@tiàolái@] tiàoqù ma?
+浣熊：你喜欢[@跳来@]跳去吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>123823</StartMilliseconds>
+    <EndMilliseconds>124894</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiàolái [@tiàoqù@] ma?
+浣熊：你喜欢跳来[@跳去@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>124895</StartMilliseconds>
+    <EndMilliseconds>125502</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiàolái tiàoqù [@ma@]?
+浣熊：你喜欢跳来跳去[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>125503</StartMilliseconds>
+    <EndMilliseconds>127535</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiàolái tiàoqù ma?
+浣熊：你喜欢跳来跳去吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>127536</StartMilliseconds>
+    <EndMilliseconds>128453</EndMilliseconds>
+    <Text>sōngshǔ: Èng, shìde, wǒ xǐhuan……
+松鼠：嗯，是的，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>128454</StartMilliseconds>
+    <EndMilliseconds>129454</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], shìde, wǒ xǐhuan……
+松鼠：[@嗯@]，是的，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>129455</StartMilliseconds>
+    <EndMilliseconds>130758</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@shìde@], wǒ xǐhuan……
+松鼠：嗯，[@是的@]，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>130759</StartMilliseconds>
+    <EndMilliseconds>131069</EndMilliseconds>
+    <Text>sōngshǔ: Èng, shìde, [@wǒ@] xǐhuan……
+松鼠：嗯，是的，[@我@]喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>131070</StartMilliseconds>
+    <EndMilliseconds>132333</EndMilliseconds>
+    <Text>sōngshǔ: Èng, shìde, wǒ [@xǐhuan@]……
+松鼠：嗯，是的，我[@喜欢@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>132334</StartMilliseconds>
+    <EndMilliseconds>132623</EndMilliseconds>
+    <Text>sōngshǔ: Èng, shìde, wǒ xǐhuan……
+松鼠：嗯，是的，我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>132624</StartMilliseconds>
+    <EndMilliseconds>132869</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan tiàolái tiàoqù!
+浣熊：我也喜欢跳来跳去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>132870</StartMilliseconds>
+    <EndMilliseconds>133371</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yě xǐhuan tiàolái tiàoqù!
+浣熊：[@我@]也喜欢跳来跳去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>133372</StartMilliseconds>
+    <EndMilliseconds>133751</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yě@] xǐhuan tiàolái tiàoqù!
+浣熊：我[@也@]喜欢跳来跳去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>133752</StartMilliseconds>
+    <EndMilliseconds>134846</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě [@xǐhuan@] tiàolái tiàoqù!
+浣熊：我也[@喜欢@]跳来跳去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>134847</StartMilliseconds>
+    <EndMilliseconds>135784</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan [@tiàolái@] tiàoqù!
+浣熊：我也喜欢[@跳来@]跳去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>135785</StartMilliseconds>
+    <EndMilliseconds>136999</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan tiàolái [@tiàoqù@]!
+浣熊：我也喜欢跳来[@跳去@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>137000</StartMilliseconds>
+    <EndMilliseconds>147225</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě xǐhuan tiàolái tiàoqù!
+浣熊：我也喜欢跳来跳去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>147226</StartMilliseconds>
+    <EndMilliseconds>150176</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan dān jiǎo tiào ma?
+浣熊：你喜欢单脚跳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>150177</StartMilliseconds>
+    <EndMilliseconds>150600</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] xǐhuan dān jiǎo tiào ma?
+浣熊：[@你@]喜欢单脚跳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>150601</StartMilliseconds>
+    <EndMilliseconds>151791</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@xǐhuan@] dān jiǎo tiào ma?
+浣熊：你[@喜欢@]单脚跳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>151792</StartMilliseconds>
+    <EndMilliseconds>152222</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan [@dān@] jiǎo tiào ma?
+浣熊：你喜欢[@单@]脚跳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>152223</StartMilliseconds>
+    <EndMilliseconds>152604</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan dān [@jiǎo@] tiào ma?
+浣熊：你喜欢单[@脚@]跳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>152605</StartMilliseconds>
+    <EndMilliseconds>153127</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan dān jiǎo [@tiào@] ma?
+浣熊：你喜欢单脚[@跳@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>153128</StartMilliseconds>
+    <EndMilliseconds>153679</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan dān jiǎo tiào [@ma@]?
+浣熊：你喜欢单脚跳[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>153680</StartMilliseconds>
+    <EndMilliseconds>154303</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan dān jiǎo tiào ma?
+浣熊：你喜欢单脚跳吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>154304</StartMilliseconds>
+    <EndMilliseconds>154977</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan dān jiǎo tiào!
+浣熊：我喜欢单脚跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>154978</StartMilliseconds>
+    <EndMilliseconds>155253</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] xǐhuan dān jiǎo tiào!
+浣熊：[@我@]喜欢单脚跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>155254</StartMilliseconds>
+    <EndMilliseconds>156416</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@xǐhuan@] dān jiǎo tiào!
+浣熊：我[@喜欢@]单脚跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>156417</StartMilliseconds>
+    <EndMilliseconds>156859</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan [@dān@] jiǎo tiào!
+浣熊：我喜欢[@单@]脚跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>156860</StartMilliseconds>
+    <EndMilliseconds>157281</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan dān [@jiǎo@] tiào!
+浣熊：我喜欢单[@脚@]跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>157282</StartMilliseconds>
+    <EndMilliseconds>157982</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan dān jiǎo [@tiào@]!
+浣熊：我喜欢单脚[@跳@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>157983</StartMilliseconds>
+    <EndMilliseconds>160246</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan dān jiǎo tiào!
+浣熊：我喜欢单脚跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>160247</StartMilliseconds>
+    <EndMilliseconds>166316</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiào wǔ ma?
+浣熊：你喜欢跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>166317</StartMilliseconds>
+    <EndMilliseconds>166779</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] xǐhuan tiào wǔ ma?
+浣熊：[@你@]喜欢跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>166780</StartMilliseconds>
+    <EndMilliseconds>167680</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@xǐhuan@] tiào wǔ ma?
+浣熊：你[@喜欢@]跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>167681</StartMilliseconds>
+    <EndMilliseconds>168182</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan [@tiào@] wǔ ma?
+浣熊：你喜欢[@跳@]舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>168183</StartMilliseconds>
+    <EndMilliseconds>168690</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiào [@wǔ@] ma?
+浣熊：你喜欢跳[@舞@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>168691</StartMilliseconds>
+    <EndMilliseconds>169344</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiào wǔ [@ma@]?
+浣熊：你喜欢跳舞[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>169345</StartMilliseconds>
+    <EndMilliseconds>173428</EndMilliseconds>
+    <Text>huànxióng: Nǐ xǐhuan tiào wǔ ma?
+浣熊：你喜欢跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>173429</StartMilliseconds>
+    <EndMilliseconds>174047</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan……
+浣熊：我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>174048</StartMilliseconds>
+    <EndMilliseconds>174441</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] xǐhuan……
+浣熊：[@我@]喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>174442</StartMilliseconds>
+    <EndMilliseconds>175716</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@xǐhuan@]……
+浣熊：我[@喜欢@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>175717</StartMilliseconds>
+    <EndMilliseconds>177397</EndMilliseconds>
+    <Text>huànxióng: Wǒ xǐhuan……
+浣熊：我喜欢……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>177398</StartMilliseconds>
+    <EndMilliseconds>178642</EndMilliseconds>
+    <Text>sōngshǔ: Ā! Nǐ xǐhuan shuōhuà!
+松鼠：啊！你喜欢说话！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>178643</StartMilliseconds>
+    <EndMilliseconds>180998</EndMilliseconds>
+    <Text>sōngshǔ: [@Ā@]! Nǐ xǐhuan shuōhuà!
+松鼠：[@啊@]！你喜欢说话！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>180999</StartMilliseconds>
+    <EndMilliseconds>181899</EndMilliseconds>
+    <Text>sōngshǔ: Ā! [@Nǐ@] xǐhuan shuōhuà!
+松鼠：啊！[@你@]喜欢说话！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>181900</StartMilliseconds>
+    <EndMilliseconds>182850</EndMilliseconds>
+    <Text>sōngshǔ: Ā! Nǐ [@xǐhuan@] shuōhuà!
+松鼠：啊！你[@喜欢@]说话！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>182851</StartMilliseconds>
+    <EndMilliseconds>184329</EndMilliseconds>
+    <Text>sōngshǔ: Ā! Nǐ xǐhuan [@shuōhuà@]!
+松鼠：啊！你喜欢[@说话@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>184330</StartMilliseconds>
+    <EndMilliseconds>197879</EndMilliseconds>
+    <Text>sōngshǔ: Ā! Nǐ xǐhuan shuōhuà!
+松鼠：啊！你喜欢说话！</Text>
+  </Paragraph>
+</Subtitle>

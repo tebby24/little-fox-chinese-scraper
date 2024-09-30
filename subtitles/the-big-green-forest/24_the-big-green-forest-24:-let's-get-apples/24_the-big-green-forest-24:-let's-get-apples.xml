@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>14380</StartMilliseconds>
+    <EndMilliseconds>36292</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen zhāi píngguǒ ba.
+松鼠：我们摘苹果吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>36293</StartMilliseconds>
+    <EndMilliseconds>37182</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒmen@] zhāi píngguǒ ba.
+松鼠：[@我们@]摘苹果吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>37183</StartMilliseconds>
+    <EndMilliseconds>37569</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen [@zhāi@] píngguǒ ba.
+松鼠：我们[@摘@]苹果吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>37570</StartMilliseconds>
+    <EndMilliseconds>38186</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen zhāi [@píngguǒ@] ba.
+松鼠：我们摘[@苹果@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>38187</StartMilliseconds>
+    <EndMilliseconds>38719</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen zhāi píngguǒ [@ba@].
+松鼠：我们摘苹果[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>38720</StartMilliseconds>
+    <EndMilliseconds>40608</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen zhāi píngguǒ ba.
+松鼠：我们摘苹果吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>40609</StartMilliseconds>
+    <EndMilliseconds>41722</EndMilliseconds>
+    <Text>tùzi: Wǒmen zěnme zhāi tā ne?
+兔子：我们怎么摘它呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>41723</StartMilliseconds>
+    <EndMilliseconds>42805</EndMilliseconds>
+    <Text>tùzi: [@Wǒmen@] zěnme zhāi tā ne?
+兔子：[@我们@]怎么摘它呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>42806</StartMilliseconds>
+    <EndMilliseconds>43524</EndMilliseconds>
+    <Text>tùzi: Wǒmen [@zěnme@] zhāi tā ne?
+兔子：我们[@怎么@]摘它呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>43525</StartMilliseconds>
+    <EndMilliseconds>43897</EndMilliseconds>
+    <Text>tùzi: Wǒmen zěnme [@zhāi@] tā ne?
+兔子：我们怎么[@摘@]它呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>43898</StartMilliseconds>
+    <EndMilliseconds>44184</EndMilliseconds>
+    <Text>tùzi: Wǒmen zěnme zhāi [@tā@] ne?
+兔子：我们怎么摘[@它@]呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>44185</StartMilliseconds>
+    <EndMilliseconds>44764</EndMilliseconds>
+    <Text>tùzi: Wǒmen zěnme zhāi tā [@ne@]?
+兔子：我们怎么摘它[@呢@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>44765</StartMilliseconds>
+    <EndMilliseconds>46331</EndMilliseconds>
+    <Text>tùzi: Wǒmen zěnme zhāi tā ne?
+兔子：我们怎么摘它呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>46332</StartMilliseconds>
+    <EndMilliseconds>51313</EndMilliseconds>
+    <Text>sōngshǔ: Qù ná xiē mùgùn.
+松鼠：去拿些木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>51314</StartMilliseconds>
+    <EndMilliseconds>52280</EndMilliseconds>
+    <Text>sōngshǔ: [@Qù@] ná xiē mùgùn.
+松鼠：[@去@]拿些木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>52281</StartMilliseconds>
+    <EndMilliseconds>52763</EndMilliseconds>
+    <Text>sōngshǔ: Qù [@ná@] xiē mùgùn.
+松鼠：去[@拿@]些木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>52764</StartMilliseconds>
+    <EndMilliseconds>53024</EndMilliseconds>
+    <Text>sōngshǔ: Qù ná [@xiē@] mùgùn.
+松鼠：去拿[@些@]木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>53025</StartMilliseconds>
+    <EndMilliseconds>53872</EndMilliseconds>
+    <Text>sōngshǔ: Qù ná xiē [@mùgùn@].
+松鼠：去拿些[@木棍@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>53873</StartMilliseconds>
+    <EndMilliseconds>56637</EndMilliseconds>
+    <Text>sōngshǔ: Qù ná xiē mùgùn.
+松鼠：去拿些木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>56638</StartMilliseconds>
+    <EndMilliseconds>57474</EndMilliseconds>
+    <Text>sōngshǔ: Zài ná yìxiē chángcháng de cǎo.
+松鼠：再拿一些长长的草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>57475</StartMilliseconds>
+    <EndMilliseconds>57929</EndMilliseconds>
+    <Text>sōngshǔ: [@Zài@] ná yìxiē chángcháng de cǎo.
+松鼠：[@再@]拿一些长长的草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>57930</StartMilliseconds>
+    <EndMilliseconds>58208</EndMilliseconds>
+    <Text>sōngshǔ: Zài [@ná@] yìxiē chángcháng de cǎo.
+松鼠：再[@拿@]一些长长的草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>58209</StartMilliseconds>
+    <EndMilliseconds>59091</EndMilliseconds>
+    <Text>sōngshǔ: Zài ná [@yìxiē@] chángcháng de cǎo.
+松鼠：再拿[@一些@]长长的草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>59092</StartMilliseconds>
+    <EndMilliseconds>59812</EndMilliseconds>
+    <Text>sōngshǔ: Zài ná yìxiē [@chángcháng@] de cǎo.
+松鼠：再拿一些[@长长@]的草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>59813</StartMilliseconds>
+    <EndMilliseconds>60109</EndMilliseconds>
+    <Text>sōngshǔ: Zài ná yìxiē chángcháng [@de@] cǎo.
+松鼠：再拿一些长长[@的@]草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>60110</StartMilliseconds>
+    <EndMilliseconds>61027</EndMilliseconds>
+    <Text>sōngshǔ: Zài ná yìxiē chángcháng de [@cǎo@].
+松鼠：再拿一些长长的[@草@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>61028</StartMilliseconds>
+    <EndMilliseconds>62252</EndMilliseconds>
+    <Text>sōngshǔ: Zài ná yìxiē chángcháng de cǎo.
+松鼠：再拿一些长长的草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>62253</StartMilliseconds>
+    <EndMilliseconds>62744</EndMilliseconds>
+    <Text>tùzi: Wǒmen qù zhǎo mùgùn.
+兔子：我们去找木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>62745</StartMilliseconds>
+    <EndMilliseconds>63829</EndMilliseconds>
+    <Text>tùzi: [@Wǒmen@] qù zhǎo mùgùn.
+兔子：[@我们@]去找木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>63830</StartMilliseconds>
+    <EndMilliseconds>64241</EndMilliseconds>
+    <Text>tùzi: Wǒmen [@qù@] zhǎo mùgùn.
+兔子：我们[@去@]找木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>64242</StartMilliseconds>
+    <EndMilliseconds>64587</EndMilliseconds>
+    <Text>tùzi: Wǒmen qù [@zhǎo@] mùgùn.
+兔子：我们去[@找@]木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>64588</StartMilliseconds>
+    <EndMilliseconds>65625</EndMilliseconds>
+    <Text>tùzi: Wǒmen qù zhǎo [@mùgùn@].
+兔子：我们去找[@木棍@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>65626</StartMilliseconds>
+    <EndMilliseconds>70243</EndMilliseconds>
+    <Text>tùzi: Wǒmen qù zhǎo mùgùn.
+兔子：我们去找木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>70244</StartMilliseconds>
+    <EndMilliseconds>70838</EndMilliseconds>
+    <Text>qīngwā: Wǒ qù zhǎo cǎo.
+青蛙：我去找草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>70839</StartMilliseconds>
+    <EndMilliseconds>71502</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] qù zhǎo cǎo.
+青蛙：[@我@]去找草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>71503</StartMilliseconds>
+    <EndMilliseconds>72136</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@qù@] zhǎo cǎo.
+青蛙：我[@去@]找草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>72137</StartMilliseconds>
+    <EndMilliseconds>72533</EndMilliseconds>
+    <Text>qīngwā: Wǒ qù [@zhǎo@] cǎo.
+青蛙：我去[@找@]草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>72534</StartMilliseconds>
+    <EndMilliseconds>73574</EndMilliseconds>
+    <Text>qīngwā: Wǒ qù zhǎo [@cǎo@].
+青蛙：我去找[@草@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>73575</StartMilliseconds>
+    <EndMilliseconds>75796</EndMilliseconds>
+    <Text>qīngwā: Wǒ qù zhǎo cǎo.
+青蛙：我去找草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>75797</StartMilliseconds>
+    <EndMilliseconds>109561</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhǎodào le hěn duō mùgùn.
+乌龟：我们找到了很多木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>109562</StartMilliseconds>
+    <EndMilliseconds>110731</EndMilliseconds>
+    <Text>wūguī: [@Wǒmen@] zhǎodào le hěn duō mùgùn.
+乌龟：[@我们@]找到了很多木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>110732</StartMilliseconds>
+    <EndMilliseconds>111649</EndMilliseconds>
+    <Text>wūguī: Wǒmen [@zhǎodào@] le hěn duō mùgùn.
+乌龟：我们[@找到@]了很多木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>111650</StartMilliseconds>
+    <EndMilliseconds>112235</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhǎodào [@le@] hěn duō mùgùn.
+乌龟：我们找到[@了@]很多木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>112236</StartMilliseconds>
+    <EndMilliseconds>112970</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhǎodào le [@hěn@] duō mùgùn.
+乌龟：我们找到了[@很@]多木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>112971</StartMilliseconds>
+    <EndMilliseconds>113391</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhǎodào le hěn [@duō@] mùgùn.
+乌龟：我们找到了很[@多@]木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>113392</StartMilliseconds>
+    <EndMilliseconds>114876</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhǎodào le hěn duō [@mùgùn@].
+乌龟：我们找到了很多[@木棍@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>114877</StartMilliseconds>
+    <EndMilliseconds>118504</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhǎodào le hěn duō mùgùn.
+乌龟：我们找到了很多木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>118505</StartMilliseconds>
+    <EndMilliseconds>119020</EndMilliseconds>
+    <Text>qīngwā: Wǒ zhǎodào le hěn duō cǎo.
+青蛙：我找到了很多草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>119021</StartMilliseconds>
+    <EndMilliseconds>119483</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] zhǎodào le hěn duō cǎo.
+青蛙：[@我@]找到了很多草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>119484</StartMilliseconds>
+    <EndMilliseconds>120101</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@zhǎodào@] le hěn duō cǎo.
+青蛙：我[@找到@]了很多草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>120102</StartMilliseconds>
+    <EndMilliseconds>120484</EndMilliseconds>
+    <Text>qīngwā: Wǒ zhǎodào [@le@] hěn duō cǎo.
+青蛙：我找到[@了@]很多草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>120485</StartMilliseconds>
+    <EndMilliseconds>121009</EndMilliseconds>
+    <Text>qīngwā: Wǒ zhǎodào le [@hěn@] duō cǎo.
+青蛙：我找到了[@很@]多草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>121010</StartMilliseconds>
+    <EndMilliseconds>121405</EndMilliseconds>
+    <Text>qīngwā: Wǒ zhǎodào le hěn [@duō@] cǎo.
+青蛙：我找到了很[@多@]草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>121406</StartMilliseconds>
+    <EndMilliseconds>122252</EndMilliseconds>
+    <Text>qīngwā: Wǒ zhǎodào le hěn duō [@cǎo@].
+青蛙：我找到了很多[@草@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>122253</StartMilliseconds>
+    <EndMilliseconds>130561</EndMilliseconds>
+    <Text>qīngwā: Wǒ zhǎodào le hěn duō cǎo.
+青蛙：我找到了很多草。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>130562</StartMilliseconds>
+    <EndMilliseconds>136011</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài yǒu le yí ge mùfá.
+松鼠：我们现在有了一个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>136012</StartMilliseconds>
+    <EndMilliseconds>136860</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒmen@] xiànzài yǒu le yí ge mùfá.
+松鼠：[@我们@]现在有了一个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>136861</StartMilliseconds>
+    <EndMilliseconds>137948</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen [@xiànzài@] yǒu le yí ge mùfá.
+松鼠：我们[@现在@]有了一个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>137949</StartMilliseconds>
+    <EndMilliseconds>138297</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài [@yǒu@] le yí ge mùfá.
+松鼠：我们现在[@有@]了一个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>138298</StartMilliseconds>
+    <EndMilliseconds>138559</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài yǒu [@le@] yí ge mùfá.
+松鼠：我们现在有[@了@]一个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>138560</StartMilliseconds>
+    <EndMilliseconds>138900</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài yǒu le [@yí@] ge mùfá.
+松鼠：我们现在有了[@一@]个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>138901</StartMilliseconds>
+    <EndMilliseconds>139400</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài yǒu le yí [@ge@] mùfá.
+松鼠：我们现在有了一[@个@]木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>139401</StartMilliseconds>
+    <EndMilliseconds>140908</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài yǒu le yí ge [@mùfá@].
+松鼠：我们现在有了一个[@木筏@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>140909</StartMilliseconds>
+    <EndMilliseconds>146349</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen xiànzài yǒu le yí ge mùfá.
+松鼠：我们现在有了一个木筏。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>146350</StartMilliseconds>
+    <EndMilliseconds>151485</EndMilliseconds>
+    <Text>sōngshǔ: Bù hǎo la!
+松鼠：不好啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>151486</StartMilliseconds>
+    <EndMilliseconds>151943</EndMilliseconds>
+    <Text>sōngshǔ: [@Bù@] hǎo la!
+松鼠：[@不@]好啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>151944</StartMilliseconds>
+    <EndMilliseconds>152358</EndMilliseconds>
+    <Text>sōngshǔ: Bù [@hǎo@] la!
+松鼠：不[@好@]啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>152359</StartMilliseconds>
+    <EndMilliseconds>152865</EndMilliseconds>
+    <Text>sōngshǔ: Bù hǎo [@la@]!
+松鼠：不好[@啦@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>152866</StartMilliseconds>
+    <EndMilliseconds>153360</EndMilliseconds>
+    <Text>sōngshǔ: Bù hǎo la!
+松鼠：不好啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>153361</StartMilliseconds>
+    <EndMilliseconds>154165</EndMilliseconds>
+    <Text>qīngwā: Kuài zhuāzhù mùfá!
+青蛙：快抓住木筏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>154166</StartMilliseconds>
+    <EndMilliseconds>154603</EndMilliseconds>
+    <Text>qīngwā: [@Kuài@] zhuāzhù mùfá!
+青蛙：[@快@]抓住木筏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>154604</StartMilliseconds>
+    <EndMilliseconds>155318</EndMilliseconds>
+    <Text>qīngwā: Kuài [@zhuāzhù@] mùfá!
+青蛙：快[@抓住@]木筏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>155319</StartMilliseconds>
+    <EndMilliseconds>156398</EndMilliseconds>
+    <Text>qīngwā: Kuài zhuāzhù [@mùfá@]!
+青蛙：快抓住[@木筏@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>156399</StartMilliseconds>
+    <EndMilliseconds>156980</EndMilliseconds>
+    <Text>qīngwā: Kuài zhuāzhù mùfá!
+青蛙：快抓住木筏！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>156981</StartMilliseconds>
+    <EndMilliseconds>157528</EndMilliseconds>
+    <Text>tùzi: Tiān na!
+兔子：天呐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>157529</StartMilliseconds>
+    <EndMilliseconds>158128</EndMilliseconds>
+    <Text>tùzi: [@Tiān@] na!
+兔子：[@天@]呐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>158129</StartMilliseconds>
+    <EndMilliseconds>158624</EndMilliseconds>
+    <Text>tùzi: Tiān [@na@]!
+兔子：天[@呐@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>158625</StartMilliseconds>
+    <EndMilliseconds>159615</EndMilliseconds>
+    <Text>tùzi: Tiān na!
+兔子：天呐！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>159616</StartMilliseconds>
+    <EndMilliseconds>160459</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen zhāi bu dào píngguǒ le.
+兔子：现在我们摘不到苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>160460</StartMilliseconds>
+    <EndMilliseconds>161888</EndMilliseconds>
+    <Text>tùzi: [@Xiànzài@] wǒmen zhāi bu dào píngguǒ le.
+兔子：[@现在@]我们摘不到苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>161889</StartMilliseconds>
+    <EndMilliseconds>163054</EndMilliseconds>
+    <Text>tùzi: Xiànzài [@wǒmen@] zhāi bu dào píngguǒ le.
+兔子：现在[@我们@]摘不到苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>163055</StartMilliseconds>
+    <EndMilliseconds>163482</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen [@zhāi@] bu dào píngguǒ le.
+兔子：现在我们[@摘@]不到苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>163483</StartMilliseconds>
+    <EndMilliseconds>163691</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen zhāi [@bu@] dào píngguǒ le.
+兔子：现在我们摘[@不@]到苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>163692</StartMilliseconds>
+    <EndMilliseconds>164079</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen zhāi bu [@dào@] píngguǒ le.
+兔子：现在我们摘不[@到@]苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>164080</StartMilliseconds>
+    <EndMilliseconds>164829</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen zhāi bu dào [@píngguǒ@] le.
+兔子：现在我们摘不到[@苹果@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>164830</StartMilliseconds>
+    <EndMilliseconds>165721</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen zhāi bu dào píngguǒ [@le@].
+兔子：现在我们摘不到苹果[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>165722</StartMilliseconds>
+    <EndMilliseconds>168669</EndMilliseconds>
+    <Text>tùzi: Xiànzài wǒmen zhāi bu dào píngguǒ le.
+兔子：现在我们摘不到苹果了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>168670</StartMilliseconds>
+    <EndMilliseconds>172256</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhāi bu dào píngguǒ.
+乌龟：我们摘不到苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>172257</StartMilliseconds>
+    <EndMilliseconds>173414</EndMilliseconds>
+    <Text>wūguī: [@Wǒmen@] zhāi bu dào píngguǒ.
+乌龟：[@我们@]摘不到苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>173415</StartMilliseconds>
+    <EndMilliseconds>173896</EndMilliseconds>
+    <Text>wūguī: Wǒmen [@zhāi@] bu dào píngguǒ.
+乌龟：我们[@摘@]不到苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>173897</StartMilliseconds>
+    <EndMilliseconds>174103</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhāi [@bu@] dào píngguǒ.
+乌龟：我们摘[@不@]到苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>174104</StartMilliseconds>
+    <EndMilliseconds>174438</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhāi bu [@dào@] píngguǒ.
+乌龟：我们摘不[@到@]苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>174439</StartMilliseconds>
+    <EndMilliseconds>175839</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhāi bu dào [@píngguǒ@].
+乌龟：我们摘不到[@苹果@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>175840</StartMilliseconds>
+    <EndMilliseconds>179954</EndMilliseconds>
+    <Text>wūguī: Wǒmen zhāi bu dào píngguǒ.
+乌龟：我们摘不到苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>179955</StartMilliseconds>
+    <EndMilliseconds>181681</EndMilliseconds>
+    <Text>wūguī: Dànshì wǒmen kěyǐ zhāi lánméi!
+乌龟：但是我们可以摘蓝莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>181682</StartMilliseconds>
+    <EndMilliseconds>183182</EndMilliseconds>
+    <Text>wūguī: [@Dànshì@] wǒmen kěyǐ zhāi lánméi!
+乌龟：[@但是@]我们可以摘蓝莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>183183</StartMilliseconds>
+    <EndMilliseconds>184185</EndMilliseconds>
+    <Text>wūguī: Dànshì [@wǒmen@] kěyǐ zhāi lánméi!
+乌龟：但是[@我们@]可以摘蓝莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>184186</StartMilliseconds>
+    <EndMilliseconds>185112</EndMilliseconds>
+    <Text>wūguī: Dànshì wǒmen [@kěyǐ@] zhāi lánméi!
+乌龟：但是我们[@可以@]摘蓝莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>185113</StartMilliseconds>
+    <EndMilliseconds>185590</EndMilliseconds>
+    <Text>wūguī: Dànshì wǒmen kěyǐ [@zhāi@] lánméi!
+乌龟：但是我们可以[@摘@]蓝莓！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>185591</StartMilliseconds>
+    <EndMilliseconds>186863</EndMilliseconds>
+    <Text>wūguī: Dànshì wǒmen kěyǐ zhāi [@lánméi@]!
+乌龟：但是我们可以摘[@蓝莓@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>186864</StartMilliseconds>
+    <EndMilliseconds>196553</EndMilliseconds>
+    <Text>wūguī: Dànshì wǒmen kěyǐ zhāi lánméi!
+乌龟：但是我们可以摘蓝莓！</Text>
+  </Paragraph>
+</Subtitle>

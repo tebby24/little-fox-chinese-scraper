@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11900</StartMilliseconds>
+    <EndMilliseconds>13320</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ hǎo, Shālì!
+敏宇：你好，莎莉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13321</StartMilliseconds>
+    <EndMilliseconds>13745</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Nǐ@] hǎo, Shālì!
+敏宇：[@你@]好，莎莉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13746</StartMilliseconds>
+    <EndMilliseconds>14681</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ [@hǎo@], Shālì!
+敏宇：你[@好@]，莎莉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14682</StartMilliseconds>
+    <EndMilliseconds>15649</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ hǎo, [@Shālì@]!
+敏宇：你好，[@莎莉@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15650</StartMilliseconds>
+    <EndMilliseconds>16113</EndMilliseconds>
+    <Text>Mǐnyǔ: Nǐ hǎo, Shālì!
+敏宇：你好，莎莉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>16114</StartMilliseconds>
+    <EndMilliseconds>16641</EndMilliseconds>
+    <Text>Shālì: Zhè shì wǒ de gǒu，Xiǎowàng.
+莎莉：这是我的狗，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16642</StartMilliseconds>
+    <EndMilliseconds>17105</EndMilliseconds>
+    <Text>Shālì: [@Zhè@] shì wǒ de gǒu，Xiǎowàng.
+莎莉：[@这@]是我的狗，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17106</StartMilliseconds>
+    <EndMilliseconds>17749</EndMilliseconds>
+    <Text>Shālì: Zhè [@shì@] wǒ de gǒu，Xiǎowàng.
+莎莉：这[@是@]我的狗，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>17750</StartMilliseconds>
+    <EndMilliseconds>18307</EndMilliseconds>
+    <Text>Shālì: Zhè shì [@wǒ@] de gǒu，Xiǎowàng.
+莎莉：这是[@我@]的狗，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>18308</StartMilliseconds>
+    <EndMilliseconds>18735</EndMilliseconds>
+    <Text>Shālì: Zhè shì wǒ [@de@] gǒu，Xiǎowàng.
+莎莉：这是我[@的@]狗，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18736</StartMilliseconds>
+    <EndMilliseconds>20116</EndMilliseconds>
+    <Text>Shālì: Zhè shì wǒ de [@gǒu@]，Xiǎowàng.
+莎莉：这是我的[@狗@]，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>20117</StartMilliseconds>
+    <EndMilliseconds>21377</EndMilliseconds>
+    <Text>Shālì: Zhè shì wǒ de gǒu，[@Xiǎowàng@].
+莎莉：这是我的狗，[@小旺@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>21378</StartMilliseconds>
+    <EndMilliseconds>22245</EndMilliseconds>
+    <Text>Shālì: Zhè shì wǒ de gǒu，Xiǎowàng.
+莎莉：这是我的狗，小旺。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>22246</StartMilliseconds>
+    <EndMilliseconds>23232</EndMilliseconds>
+    <Text>Shālì: Kuài kàn, Xiǎowàng, wǒ huì pǎo.
+莎莉：快看，小旺，我会跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>23233</StartMilliseconds>
+    <EndMilliseconds>23729</EndMilliseconds>
+    <Text>Shālì: [@Kuài@] kàn, Xiǎowàng, wǒ huì pǎo.
+莎莉：[@快@]看，小旺，我会跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>23730</StartMilliseconds>
+    <EndMilliseconds>24889</EndMilliseconds>
+    <Text>Shālì: Kuài [@kàn@], Xiǎowàng, wǒ huì pǎo.
+莎莉：快[@看@]，小旺，我会跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>24890</StartMilliseconds>
+    <EndMilliseconds>26327</EndMilliseconds>
+    <Text>Shālì: Kuài kàn, [@Xiǎowàng@], wǒ huì pǎo.
+莎莉：快看，[@小旺@]，我会跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>26328</StartMilliseconds>
+    <EndMilliseconds>26968</EndMilliseconds>
+    <Text>Shālì: Kuài kàn, Xiǎowàng, [@wǒ@] huì pǎo.
+莎莉：快看，小旺，[@我@]会跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>26969</StartMilliseconds>
+    <EndMilliseconds>27391</EndMilliseconds>
+    <Text>Shālì: Kuài kàn, Xiǎowàng, wǒ [@huì@] pǎo.
+莎莉：快看，小旺，我[@会@]跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>27392</StartMilliseconds>
+    <EndMilliseconds>28340</EndMilliseconds>
+    <Text>Shālì: Kuài kàn, Xiǎowàng, wǒ huì [@pǎo@].
+莎莉：快看，小旺，我会[@跑@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>28341</StartMilliseconds>
+    <EndMilliseconds>28727</EndMilliseconds>
+    <Text>Shālì: Kuài kàn, Xiǎowàng, wǒ huì pǎo.
+莎莉：快看，小旺，我会跑。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>28728</StartMilliseconds>
+    <EndMilliseconds>29210</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā huì pǎo!
+敏宇：它会跑！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>29211</StartMilliseconds>
+    <EndMilliseconds>29893</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Tā@] huì pǎo!
+敏宇：[@它@]会跑！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>29894</StartMilliseconds>
+    <EndMilliseconds>30272</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā [@huì@] pǎo!
+敏宇：它[@会@]跑！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>30273</StartMilliseconds>
+    <EndMilliseconds>31112</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā huì [@pǎo@]!
+敏宇：它会[@跑@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>31113</StartMilliseconds>
+    <EndMilliseconds>31918</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā huì pǎo!
+敏宇：它会跑！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>31919</StartMilliseconds>
+    <EndMilliseconds>32687</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, wǒ huì zuò.
+莎莉：小旺，我会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>32688</StartMilliseconds>
+    <EndMilliseconds>34362</EndMilliseconds>
+    <Text>Shālì: [@Xiǎowàng@], wǒ huì zuò.
+莎莉：[@小旺@]，我会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>34363</StartMilliseconds>
+    <EndMilliseconds>35008</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, [@wǒ@] huì zuò.
+莎莉：小旺，[@我@]会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>35009</StartMilliseconds>
+    <EndMilliseconds>35561</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, wǒ [@huì@] zuò.
+莎莉：小旺，我[@会@]坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>35562</StartMilliseconds>
+    <EndMilliseconds>36177</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, wǒ huì [@zuò@].
+莎莉：小旺，我会[@坐@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36178</StartMilliseconds>
+    <EndMilliseconds>36764</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, wǒ huì zuò.
+莎莉：小旺，我会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>36765</StartMilliseconds>
+    <EndMilliseconds>37254</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā huì zuò.
+敏宇：它会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37255</StartMilliseconds>
+    <EndMilliseconds>37842</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Tā@] huì zuò.
+敏宇：[@它@]会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>37843</StartMilliseconds>
+    <EndMilliseconds>38262</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā [@huì@] zuò.
+敏宇：它[@会@]坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38263</StartMilliseconds>
+    <EndMilliseconds>39134</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā huì [@zuò@].
+敏宇：它会[@坐@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>39135</StartMilliseconds>
+    <EndMilliseconds>39908</EndMilliseconds>
+    <Text>Mǐnyǔ: Tā huì zuò.
+敏宇：它会坐。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>39909</StartMilliseconds>
+    <EndMilliseconds>40705</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!
+敏宇：轮到我了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>40706</StartMilliseconds>
+    <EndMilliseconds>41496</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Lúndào@] wǒ le!
+敏宇：[@轮到@]我了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>41496</StartMilliseconds>
+    <EndMilliseconds>42007</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào [@wǒ@] le!
+敏宇：轮到[@我@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>42008</StartMilliseconds>
+    <EndMilliseconds>42429</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ [@le@]!
+敏宇：轮到我[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>42430</StartMilliseconds>
+    <EndMilliseconds>42943</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!
+敏宇：轮到我了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>42944</StartMilliseconds>
+    <EndMilliseconds>43555</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, wǒ huì tiào.
+敏宇：小旺，我会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>43556</StartMilliseconds>
+    <EndMilliseconds>44883</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Xiǎowàng@], wǒ huì tiào.
+敏宇：[@小旺@]，我会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>44884</StartMilliseconds>
+    <EndMilliseconds>45640</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, [@wǒ@] huì tiào.
+敏宇：小旺，[@我@]会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>45641</StartMilliseconds>
+    <EndMilliseconds>46047</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, wǒ [@huì@] tiào.
+敏宇：小旺，我[@会@]跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>46048</StartMilliseconds>
+    <EndMilliseconds>46622</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, wǒ huì [@tiào@].
+敏宇：小旺，我会[@跳@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>46623</StartMilliseconds>
+    <EndMilliseconds>47191</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, wǒ huì tiào.
+敏宇：小旺，我会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>47192</StartMilliseconds>
+    <EndMilliseconds>47794</EndMilliseconds>
+    <Text>Shālì: Tā huì tiào!
+莎莉：它会跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>47795</StartMilliseconds>
+    <EndMilliseconds>48424</EndMilliseconds>
+    <Text>Shālì: [@Tā@] huì tiào!
+莎莉：[@它@]会跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>48425</StartMilliseconds>
+    <EndMilliseconds>48925</EndMilliseconds>
+    <Text>Shālì: Tā [@huì@] tiào!
+莎莉：它[@会@]跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>48926</StartMilliseconds>
+    <EndMilliseconds>49657</EndMilliseconds>
+    <Text>Shālì: Tā huì [@tiào@]!
+莎莉：它会[@跳@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>49658</StartMilliseconds>
+    <EndMilliseconds>50777</EndMilliseconds>
+    <Text>Shālì: Tā huì tiào!
+莎莉：它会跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>50778</StartMilliseconds>
+    <EndMilliseconds>51656</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, zài lái yí cì!
+敏宇：小旺，再来一次！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>51657</StartMilliseconds>
+    <EndMilliseconds>53178</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Xiǎowàng@], zài lái yí cì!
+敏宇：[@小旺@]，再来一次！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>53179</StartMilliseconds>
+    <EndMilliseconds>53764</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, [@zài@] lái yí cì!
+敏宇：小旺，[@再@]来一次！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>53765</StartMilliseconds>
+    <EndMilliseconds>54056</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, zài [@lái@] yí cì!
+敏宇：小旺，再[@来@]一次！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>54057</StartMilliseconds>
+    <EndMilliseconds>54337</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, zài lái [@yí@] cì!
+敏宇：小旺，再来[@一@]次！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>54338</StartMilliseconds>
+    <EndMilliseconds>54863</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, zài lái yí [@cì@]!
+敏宇：小旺，再来一[@次@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>54864</StartMilliseconds>
+    <EndMilliseconds>55402</EndMilliseconds>
+    <Text>Mǐnyǔ: Xiǎowàng, zài lái yí cì!
+敏宇：小旺，再来一次！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>55403</StartMilliseconds>
+    <EndMilliseconds>55922</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, nǐ huì fēi ya!
+莎莉：小旺，你会飞呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>55923</StartMilliseconds>
+    <EndMilliseconds>57531</EndMilliseconds>
+    <Text>Shālì: [@Xiǎowàng@], nǐ huì fēi ya!
+莎莉：[@小旺@]，你会飞呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>57532</StartMilliseconds>
+    <EndMilliseconds>57964</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, [@nǐ@] huì fēi ya!
+莎莉：小旺，[@你@]会飞呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>57965</StartMilliseconds>
+    <EndMilliseconds>58697</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, nǐ [@huì@] fēi ya!
+莎莉：小旺，你[@会@]飞呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>58698</StartMilliseconds>
+    <EndMilliseconds>59238</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, nǐ huì [@fēi@] ya!
+莎莉：小旺，你会[@飞@]呀！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>59239</StartMilliseconds>
+    <EndMilliseconds>59931</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, nǐ huì fēi [@ya@]!
+莎莉：小旺，你会飞[@呀@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>59932</StartMilliseconds>
+    <EndMilliseconds>61399</EndMilliseconds>
+    <Text>Shālì: Xiǎowàng, nǐ huì fēi ya!
+莎莉：小旺，你会飞呀！</Text>
+  </Paragraph>
+</Subtitle>

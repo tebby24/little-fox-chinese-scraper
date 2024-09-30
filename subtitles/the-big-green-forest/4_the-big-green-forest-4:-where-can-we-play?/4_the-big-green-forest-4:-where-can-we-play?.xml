@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12983</StartMilliseconds>
+    <EndMilliseconds>15967</EndMilliseconds>
+    <Text>qīngwā: Wǒmen yào zài nǎli wánr ne?
+青蛙：我们要在哪里玩儿呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>15968</StartMilliseconds>
+    <EndMilliseconds>16973</EndMilliseconds>
+    <Text>qīngwā: [@Wǒmen@] yào zài nǎli wánr ne?
+青蛙：[@我们@]要在哪里玩儿呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>16974</StartMilliseconds>
+    <EndMilliseconds>17329</EndMilliseconds>
+    <Text>qīngwā: Wǒmen [@yào@] zài nǎli wánr ne?
+青蛙：我们[@要@]在哪里玩儿呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>17330</StartMilliseconds>
+    <EndMilliseconds>17811</EndMilliseconds>
+    <Text>qīngwā: Wǒmen yào [@zài@] nǎli wánr ne?
+青蛙：我们要[@在@]哪里玩儿呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>17812</StartMilliseconds>
+    <EndMilliseconds>18475</EndMilliseconds>
+    <Text>qīngwā: Wǒmen yào zài [@nǎli@] wánr ne?
+青蛙：我们要在[@哪里@]玩儿呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>18476</StartMilliseconds>
+    <EndMilliseconds>18976</EndMilliseconds>
+    <Text>qīngwā: Wǒmen yào zài nǎli [@wánr@] ne?
+青蛙：我们要在哪里[@玩儿@]呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>18977</StartMilliseconds>
+    <EndMilliseconds>19439</EndMilliseconds>
+    <Text>qīngwā: Wǒmen yào zài nǎli wánr [@ne@]?
+青蛙：我们要在哪里玩儿[@呢@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19440</StartMilliseconds>
+    <EndMilliseconds>25428</EndMilliseconds>
+    <Text>qīngwā: Wǒmen yào zài nǎli wánr ne?
+青蛙：我们要在哪里玩儿呢?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>25429</StartMilliseconds>
+    <EndMilliseconds>25577</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen kěyǐ zài shù shàng wánr.
+松鼠：我们可以在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>25578</StartMilliseconds>
+    <EndMilliseconds>26381</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒmen@] kěyǐ zài shù shàng wánr.
+松鼠：[@我们@]可以在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>26382</StartMilliseconds>
+    <EndMilliseconds>26970</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen [@kěyǐ@] zài shù shàng wánr.
+松鼠：我们[@可以@]在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>26971</StartMilliseconds>
+    <EndMilliseconds>27268</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen kěyǐ [@zài@] shù shàng wánr.
+松鼠：我们可以[@在@]树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>27269</StartMilliseconds>
+    <EndMilliseconds>27674</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen kěyǐ zài [@shù@] shàng wánr.
+松鼠：我们可以在[@树@]上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>27675</StartMilliseconds>
+    <EndMilliseconds>27967</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen kěyǐ zài shù [@shàng@] wánr.
+松鼠：我们可以在树[@上@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27968</StartMilliseconds>
+    <EndMilliseconds>28544</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen kěyǐ zài shù shàng [@wánr@].
+松鼠：我们可以在树上[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>28545</StartMilliseconds>
+    <EndMilliseconds>31818</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen kěyǐ zài shù shàng wánr.
+松鼠：我们可以在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31819</StartMilliseconds>
+    <EndMilliseconds>31987</EndMilliseconds>
+    <Text>huànxióng: Wǒ kěyǐ zài shù shàng wánr.
+浣熊：我可以在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31988</StartMilliseconds>
+    <EndMilliseconds>32511</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] kěyǐ zài shù shàng wánr.
+浣熊：[@我@]可以在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32512</StartMilliseconds>
+    <EndMilliseconds>33427</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@kěyǐ@] zài shù shàng wánr.
+浣熊：我[@可以@]在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33435</StartMilliseconds>
+    <EndMilliseconds>33868</EndMilliseconds>
+    <Text>huànxióng: Wǒ kěyǐ [@zài@] shù shàng wánr.
+浣熊：我可以[@在@]树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33869</StartMilliseconds>
+    <EndMilliseconds>34236</EndMilliseconds>
+    <Text>huànxióng: Wǒ kěyǐ zài [@shù@] shàng wánr.
+浣熊：我可以在[@树@]上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34237</StartMilliseconds>
+    <EndMilliseconds>34668</EndMilliseconds>
+    <Text>huànxióng: Wǒ kěyǐ zài shù [@shàng@] wánr.
+浣熊：我可以在树[@上@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>34669</StartMilliseconds>
+    <EndMilliseconds>35391</EndMilliseconds>
+    <Text>huànxióng: Wǒ kěyǐ zài shù shàng [@wánr@].
+浣熊：我可以在树上[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>35392</StartMilliseconds>
+    <EndMilliseconds>37694</EndMilliseconds>
+    <Text>huànxióng: Wǒ kěyǐ zài shù shàng wánr.
+浣熊：我可以在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>37695</StartMilliseconds>
+    <EndMilliseconds>38313</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě kěyǐ.
+青蛙：我也可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>38314</StartMilliseconds>
+    <EndMilliseconds>38721</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] yě kěyǐ.
+青蛙：[@我@]也可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>38722</StartMilliseconds>
+    <EndMilliseconds>39153</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@yě@] kěyǐ.
+青蛙：我[@也@]可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>39154</StartMilliseconds>
+    <EndMilliseconds>40070</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě [@kěyǐ@].
+青蛙：我也[@可以@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>40071</StartMilliseconds>
+    <EndMilliseconds>42855</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě kěyǐ.
+青蛙：我也可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>42856</StartMilliseconds>
+    <EndMilliseconds>48662</EndMilliseconds>
+    <Text>wūguī: Wǒ bù néng zài shù shàng wánr.
+乌龟：我不能在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>48663</StartMilliseconds>
+    <EndMilliseconds>49297</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] bù néng zài shù shàng wánr.
+乌龟：[@我@]不能在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49298</StartMilliseconds>
+    <EndMilliseconds>49595</EndMilliseconds>
+    <Text>wūguī: Wǒ [@bù@] néng zài shù shàng wánr.
+乌龟：我[@不@]能在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>49596</StartMilliseconds>
+    <EndMilliseconds>50297</EndMilliseconds>
+    <Text>wūguī: Wǒ bù [@néng@] zài shù shàng wánr.
+乌龟：我不[@能@]在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>50298</StartMilliseconds>
+    <EndMilliseconds>50864</EndMilliseconds>
+    <Text>wūguī: Wǒ bù néng [@zài@] shù shàng wánr.
+乌龟：我不能[@在@]树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>50865</StartMilliseconds>
+    <EndMilliseconds>51217</EndMilliseconds>
+    <Text>wūguī: Wǒ bù néng zài [@shù@] shàng wánr.
+乌龟：我不能在[@树@]上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>51218</StartMilliseconds>
+    <EndMilliseconds>51792</EndMilliseconds>
+    <Text>wūguī: Wǒ bù néng zài shù [@shàng@] wánr.
+乌龟：我不能在树[@上@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>51793</StartMilliseconds>
+    <EndMilliseconds>52716</EndMilliseconds>
+    <Text>wūguī: Wǒ bù néng zài shù shàng [@wánr@].
+乌龟：我不能在树上[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>52717</StartMilliseconds>
+    <EndMilliseconds>61038</EndMilliseconds>
+    <Text>wūguī: Wǒ bù néng zài shù shàng wánr.
+乌龟：我不能在树上玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>61039</StartMilliseconds>
+    <EndMilliseconds>73699</EndMilliseconds>
+    <Text>huànxióng: Wǒmen kěyǐ zài shítou shàngmian wánr.
+浣熊：我们可以在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>73700</StartMilliseconds>
+    <EndMilliseconds>74255</EndMilliseconds>
+    <Text>huànxióng: [@Wǒmen@] kěyǐ zài shítou shàngmian wánr.
+浣熊：[@我们@]可以在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>74256</StartMilliseconds>
+    <EndMilliseconds>75454</EndMilliseconds>
+    <Text>huànxióng: Wǒmen [@kěyǐ@] zài shítou shàngmian wánr.
+浣熊：我们[@可以@]在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>75455</StartMilliseconds>
+    <EndMilliseconds>75731</EndMilliseconds>
+    <Text>huànxióng: Wǒmen kěyǐ [@zài@] shítou shàngmian wánr.
+浣熊：我们可以[@在@]石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>75732</StartMilliseconds>
+    <EndMilliseconds>76524</EndMilliseconds>
+    <Text>huànxióng: Wǒmen kěyǐ zài [@shítou@] shàngmian wánr.
+浣熊：我们可以在[@石头@]上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>76525</StartMilliseconds>
+    <EndMilliseconds>77147</EndMilliseconds>
+    <Text>huànxióng: Wǒmen kěyǐ zài shítou [@shàngmian@] wánr.
+浣熊：我们可以在石头[@上面@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>77148</StartMilliseconds>
+    <EndMilliseconds>77957</EndMilliseconds>
+    <Text>huànxióng: Wǒmen kěyǐ zài shítou shàngmian [@wánr@].
+浣熊：我们可以在石头上面[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>77958</StartMilliseconds>
+    <EndMilliseconds>80281</EndMilliseconds>
+    <Text>huànxióng: Wǒmen kěyǐ zài shítou shàngmian wánr.
+浣熊：我们可以在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>80282</StartMilliseconds>
+    <EndMilliseconds>80360</EndMilliseconds>
+    <Text>wūguī: Wǒ kěyǐ zài shítou shàngmian wánr.
+乌龟：我可以在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>80361</StartMilliseconds>
+    <EndMilliseconds>80988</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] kěyǐ zài shítou shàngmian wánr.
+乌龟：[@我@]可以在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>80989</StartMilliseconds>
+    <EndMilliseconds>82315</EndMilliseconds>
+    <Text>wūguī: Wǒ [@kěyǐ@] zài shítou shàngmian wánr.
+乌龟：我[@可以@]在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>82316</StartMilliseconds>
+    <EndMilliseconds>82829</EndMilliseconds>
+    <Text>wūguī: Wǒ kěyǐ [@zài@] shítou shàngmian wánr.
+乌龟：我可以[@在@]石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>82830</StartMilliseconds>
+    <EndMilliseconds>83573</EndMilliseconds>
+    <Text>wūguī: Wǒ kěyǐ zài [@shítou@] shàngmian wánr.
+乌龟：我可以在[@石头@]上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>83574</StartMilliseconds>
+    <EndMilliseconds>84324</EndMilliseconds>
+    <Text>wūguī: Wǒ kěyǐ zài shítou [@shàngmian@] wánr.
+乌龟：我可以在石头[@上面@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>84325</StartMilliseconds>
+    <EndMilliseconds>85266</EndMilliseconds>
+    <Text>wūguī: Wǒ kěyǐ zài shítou shàngmian [@wánr@].
+乌龟：我可以在石头上面[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>85267</StartMilliseconds>
+    <EndMilliseconds>88231</EndMilliseconds>
+    <Text>wūguī: Wǒ kěyǐ zài shítou shàngmian wánr.
+乌龟：我可以在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>88232</StartMilliseconds>
+    <EndMilliseconds>101821</EndMilliseconds>
+    <Text>yú: Wǒ bù néng zài shítou shàngmian wánr.
+鱼：我不能在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>101822</StartMilliseconds>
+    <EndMilliseconds>102320</EndMilliseconds>
+    <Text>yú: [@Wǒ@] bù néng zài shítou shàngmian wánr.
+鱼：[@我@]不能在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>102321</StartMilliseconds>
+    <EndMilliseconds>102699</EndMilliseconds>
+    <Text>yú: Wǒ [@bù@] néng zài shítou shàngmian wánr.
+鱼：我[@不@]能在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>102700</StartMilliseconds>
+    <EndMilliseconds>103245</EndMilliseconds>
+    <Text>yú: Wǒ bù [@néng@] zài shítou shàngmian wánr.
+鱼：我不[@能@]在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>103246</StartMilliseconds>
+    <EndMilliseconds>103598</EndMilliseconds>
+    <Text>yú: Wǒ bù néng [@zài@] shítou shàngmian wánr.
+鱼：我不能[@在@]石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>103599</StartMilliseconds>
+    <EndMilliseconds>104199</EndMilliseconds>
+    <Text>yú: Wǒ bù néng zài [@shítou@] shàngmian wánr.
+鱼：我不能在[@石头@]上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>104200</StartMilliseconds>
+    <EndMilliseconds>104849</EndMilliseconds>
+    <Text>yú: Wǒ bù néng zài shítou [@shàngmian@] wánr.
+鱼：我不能在石头[@上面@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>104850</StartMilliseconds>
+    <EndMilliseconds>105563</EndMilliseconds>
+    <Text>yú: Wǒ bù néng zài shítou shàngmian [@wánr@].
+鱼：我不能在石头上面[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>105564</StartMilliseconds>
+    <EndMilliseconds>108509</EndMilliseconds>
+    <Text>yú: Wǒ bù néng zài shítou shàngmian wánr.
+鱼：我不能在石头上面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>108510</StartMilliseconds>
+    <EndMilliseconds>108668</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen yào qù nǎli wánr ne?
+浣熊：那我们要去哪里玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>108669</StartMilliseconds>
+    <EndMilliseconds>109878</EndMilliseconds>
+    <Text>huànxióng: [@Nà@] wǒmen yào qù nǎli wánr ne?
+浣熊：[@那@]我们要去哪里玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>109879</StartMilliseconds>
+    <EndMilliseconds>110368</EndMilliseconds>
+    <Text>huànxióng: Nà [@wǒmen@] yào qù nǎli wánr ne?
+浣熊：那[@我们@]要去哪里玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>110369</StartMilliseconds>
+    <EndMilliseconds>110760</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen [@yào@] qù nǎli wánr ne?
+浣熊：那我们[@要@]去哪里玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>110761</StartMilliseconds>
+    <EndMilliseconds>111318</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen yào [@qù@] nǎli wánr ne?
+浣熊：那我们要[@去@]哪里玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>111319</StartMilliseconds>
+    <EndMilliseconds>112152</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen yào qù [@nǎli@] wánr ne?
+浣熊：那我们要去[@哪里@]玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>112153</StartMilliseconds>
+    <EndMilliseconds>112672</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen yào qù nǎli [@wánr@] ne?
+浣熊：那我们要去哪里[@玩儿@]呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>112673</StartMilliseconds>
+    <EndMilliseconds>113136</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen yào qù nǎli wánr [@ne@]?
+浣熊：那我们要去哪里玩儿[@呢@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>113137</StartMilliseconds>
+    <EndMilliseconds>114376</EndMilliseconds>
+    <Text>huànxióng: Nà wǒmen yào qù nǎli wánr ne?
+浣熊：那我们要去哪里玩儿呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>114377</StartMilliseconds>
+    <EndMilliseconds>115242</EndMilliseconds>
+    <Text>yú: Wǒmen kěyǐ zài xiǎohé lǐmian wánr.
+鱼：我们可以在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>115243</StartMilliseconds>
+    <EndMilliseconds>116133</EndMilliseconds>
+    <Text>yú: [@Wǒmen@] kěyǐ zài xiǎohé lǐmian wánr.
+鱼：[@我们@]可以在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>116134</StartMilliseconds>
+    <EndMilliseconds>116830</EndMilliseconds>
+    <Text>yú: Wǒmen [@kěyǐ@] zài xiǎohé lǐmian wánr.
+鱼：我们[@可以@]在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>116831</StartMilliseconds>
+    <EndMilliseconds>117233</EndMilliseconds>
+    <Text>yú: Wǒmen kěyǐ [@zài@] xiǎohé lǐmian wánr.
+鱼：我们可以[@在@]小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>117234</StartMilliseconds>
+    <EndMilliseconds>118155</EndMilliseconds>
+    <Text>yú: Wǒmen kěyǐ zài [@xiǎohé@] lǐmian wánr.
+鱼：我们可以在[@小河@]里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>118158</StartMilliseconds>
+    <EndMilliseconds>118555</EndMilliseconds>
+    <Text>yú: Wǒmen kěyǐ zài xiǎohé [@lǐmian@] wánr.
+鱼：我们可以在小河[@里面@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>118556</StartMilliseconds>
+    <EndMilliseconds>119305</EndMilliseconds>
+    <Text>yú: Wǒmen kěyǐ zài xiǎohé lǐmian [@wánr@].
+鱼：我们可以在小河里面[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>119306</StartMilliseconds>
+    <EndMilliseconds>121707</EndMilliseconds>
+    <Text>yú: Wǒmen kěyǐ zài xiǎohé lǐmian wánr.
+鱼：我们可以在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>121708</StartMilliseconds>
+    <EndMilliseconds>122116</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ zài xiǎohé lǐmian wánr.
+青蛙：我可以在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>122117</StartMilliseconds>
+    <EndMilliseconds>122564</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] kěyǐ zài xiǎohé lǐmian wánr.
+青蛙：[@我@]可以在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>122565</StartMilliseconds>
+    <EndMilliseconds>123612</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@kěyǐ@] zài xiǎohé lǐmian wánr.
+青蛙：我[@可以@]在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>123613</StartMilliseconds>
+    <EndMilliseconds>124021</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ [@zài@] xiǎohé lǐmian wánr.
+青蛙：我可以[@在@]小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>124022</StartMilliseconds>
+    <EndMilliseconds>125015</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ zài [@xiǎohé@] lǐmian wánr.
+青蛙：我可以在[@小河@]里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>125017</StartMilliseconds>
+    <EndMilliseconds>125560</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ zài xiǎohé [@lǐmian@] wánr.
+青蛙：我可以在小河[@里面@]玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>125561</StartMilliseconds>
+    <EndMilliseconds>126291</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ zài xiǎohé lǐmian [@wánr@].
+青蛙：我可以在小河里面[@玩儿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>126292</StartMilliseconds>
+    <EndMilliseconds>127166</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ zài xiǎohé lǐmian wánr.
+青蛙：我可以在小河里面玩儿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>127167</StartMilliseconds>
+    <EndMilliseconds>127397</EndMilliseconds>
+    <Text>wūguī: Wǒ yě kěyǐ.
+乌龟：我也可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>127398</StartMilliseconds>
+    <EndMilliseconds>127886</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] yě kěyǐ.
+乌龟：[@我@]也可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>127887</StartMilliseconds>
+    <EndMilliseconds>128569</EndMilliseconds>
+    <Text>wūguī: Wǒ [@yě@] kěyǐ.
+乌龟：我[@也@]可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>128570</StartMilliseconds>
+    <EndMilliseconds>130136</EndMilliseconds>
+    <Text>wūguī: Wǒ yě [@kěyǐ@].
+乌龟：我也[@可以@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>130137</StartMilliseconds>
+    <EndMilliseconds>130905</EndMilliseconds>
+    <Text>wūguī: Wǒ yě kěyǐ.
+乌龟：我也可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>130906</StartMilliseconds>
+    <EndMilliseconds>132316</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ zài xiǎohé lǐmian wánr ba!
+松鼠：我们一起在小河里面玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>132317</StartMilliseconds>
+    <EndMilliseconds>133047</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒmen@] yìqǐ zài xiǎohé lǐmian wánr ba!
+松鼠：[@我们@]一起在小河里面玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>133048</StartMilliseconds>
+    <EndMilliseconds>133532</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen [@yìqǐ@] zài xiǎohé lǐmian wánr ba!
+松鼠：我们[@一起@]在小河里面玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>133533</StartMilliseconds>
+    <EndMilliseconds>133836</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ [@zài@] xiǎohé lǐmian wánr ba!
+松鼠：我们一起[@在@]小河里面玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>133837</StartMilliseconds>
+    <EndMilliseconds>134489</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ zài [@xiǎohé@] lǐmian wánr ba!
+松鼠：我们一起在[@小@]河里面玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>134493</StartMilliseconds>
+    <EndMilliseconds>135223</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ zài xiǎohé [@lǐmian@] wánr ba!
+松鼠：我们一起在小河[@里面@]玩儿吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>135224</StartMilliseconds>
+    <EndMilliseconds>135716</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ zài xiǎohé lǐmian [@wánr@] ba!
+松鼠：我们一起在小河里面[@玩儿@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>135717</StartMilliseconds>
+    <EndMilliseconds>136229</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ zài xiǎohé lǐmian wánr [@ba@]!
+松鼠：我们一起在小河里面玩儿[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>136230</StartMilliseconds>
+    <EndMilliseconds>149093</EndMilliseconds>
+    <Text>sōngshǔ: Wǒmen yìqǐ zài xiǎohé lǐmian wánr ba!
+松鼠：我们一起在小河里面玩儿吧！</Text>
+  </Paragraph>
+</Subtitle>

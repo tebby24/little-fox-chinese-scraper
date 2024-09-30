@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>5539</StartMilliseconds>
+    <EndMilliseconds>5967</EndMilliseconds>
+    <Text>我在看关于企鹅的书。
+Wǒ zài kàn guānyú qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>5968</StartMilliseconds>
+    <EndMilliseconds>6237</EndMilliseconds>
+    <Text>[@我@]在看关于企鹅的书。
+[@Wǒ@] zài kàn guānyú qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>6238</StartMilliseconds>
+    <EndMilliseconds>6491</EndMilliseconds>
+    <Text>我[@在@]看关于企鹅的书。
+Wǒ [@zài@] kàn guānyú qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>6492</StartMilliseconds>
+    <EndMilliseconds>6888</EndMilliseconds>
+    <Text>我在[@看@]关于企鹅的书。
+Wǒ zài [@kàn@] guānyú qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>6889</StartMilliseconds>
+    <EndMilliseconds>7158</EndMilliseconds>
+    <Text>我在看关于企鹅的书。
+Wǒ zài kàn guānyú qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>7159</StartMilliseconds>
+    <EndMilliseconds>7967</EndMilliseconds>
+    <Text>我在看[@关于@]企鹅的书。
+Wǒ zài kàn [@guānyú@] qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>7968</StartMilliseconds>
+    <EndMilliseconds>8770</EndMilliseconds>
+    <Text>我在看关于[@企鹅@]的书。
+Wǒ zài kàn guānyú [@qǐ’é@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>8771</StartMilliseconds>
+    <EndMilliseconds>8944</EndMilliseconds>
+    <Text>我在看关于企鹅[@的@]书。
+Wǒ zài kàn guānyú qǐ’é [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>8945</StartMilliseconds>
+    <EndMilliseconds>9350</EndMilliseconds>
+    <Text>我在看关于企鹅的[@书@]。
+Wǒ zài kàn guānyú qǐ’é de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>9351</StartMilliseconds>
+    <EndMilliseconds>15757</EndMilliseconds>
+    <Text>我在看关于企鹅的书。
+Wǒ zài kàn guānyú qǐ’é de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>15758</StartMilliseconds>
+    <EndMilliseconds>16117</EndMilliseconds>
+    <Text>我在看关于金字塔的书。
+Wǒ zài kàn guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16118</StartMilliseconds>
+    <EndMilliseconds>16374</EndMilliseconds>
+    <Text>[@我@]在看关于金字塔的书。
+[@Wǒ@] zài kàn guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>16375</StartMilliseconds>
+    <EndMilliseconds>16626</EndMilliseconds>
+    <Text>我[@在@]看关于金字塔的书。
+Wǒ [@zài@] kàn guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>16627</StartMilliseconds>
+    <EndMilliseconds>17042</EndMilliseconds>
+    <Text>我在[@看@]关于金字塔的书。
+Wǒ zài [@kàn@] guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>17043</StartMilliseconds>
+    <EndMilliseconds>17407</EndMilliseconds>
+    <Text>我在看关于金字塔的书。
+Wǒ zài kàn guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>17408</StartMilliseconds>
+    <EndMilliseconds>17996</EndMilliseconds>
+    <Text>我在看[@关于@]金字塔的书。
+Wǒ zài kàn [@guānyú@] jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>17997</StartMilliseconds>
+    <EndMilliseconds>18245</EndMilliseconds>
+    <Text>我在看关于金字塔的书。
+Wǒ zài kàn guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>18246</StartMilliseconds>
+    <EndMilliseconds>19277</EndMilliseconds>
+    <Text>我在看关于[@金字塔@]的书。
+Wǒ zài kàn guānyú [@jīnzìtǎ@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>19278</StartMilliseconds>
+    <EndMilliseconds>19436</EndMilliseconds>
+    <Text>我在看关于金字塔[@的@]书。
+Wǒ zài kàn guānyú jīnzìtǎ [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>19437</StartMilliseconds>
+    <EndMilliseconds>19888</EndMilliseconds>
+    <Text>我在看关于金字塔的[@书@]。
+Wǒ zài kàn guānyú jīnzìtǎ de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>19889</StartMilliseconds>
+    <EndMilliseconds>26885</EndMilliseconds>
+    <Text>我在看关于金字塔的书。
+Wǒ zài kàn guānyú jīnzìtǎ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26886</StartMilliseconds>
+    <EndMilliseconds>27288</EndMilliseconds>
+    <Text>我在看关于蛇的书。
+Wǒ zài kàn guānyú shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>27289</StartMilliseconds>
+    <EndMilliseconds>27542</EndMilliseconds>
+    <Text>[@我@]在看关于蛇的书。
+[@Wǒ@] zài kàn guānyú shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>27543</StartMilliseconds>
+    <EndMilliseconds>27825</EndMilliseconds>
+    <Text>我[@在@]看关于蛇的书。
+Wǒ [@zài@] kàn guānyú shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>27826</StartMilliseconds>
+    <EndMilliseconds>28205</EndMilliseconds>
+    <Text>我在[@看@]关于蛇的书。
+Wǒ zài [@kàn@] guānyú shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>28206</StartMilliseconds>
+    <EndMilliseconds>28621</EndMilliseconds>
+    <Text>我在看关于蛇的书。
+Wǒ zài kàn guānyú shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28622</StartMilliseconds>
+    <EndMilliseconds>29424</EndMilliseconds>
+    <Text>我在看[@关于@]蛇的书。
+Wǒ zài kàn [@guānyú@] shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>29425</StartMilliseconds>
+    <EndMilliseconds>30011</EndMilliseconds>
+    <Text>我在看关于[@蛇@]的书。
+Wǒ zài kàn guānyú [@shé@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>30012</StartMilliseconds>
+    <EndMilliseconds>30222</EndMilliseconds>
+    <Text>我在看关于蛇[@的@]书。
+Wǒ zài kàn guānyú shé [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30223</StartMilliseconds>
+    <EndMilliseconds>30631</EndMilliseconds>
+    <Text>我在看关于蛇的[@书@]。
+Wǒ zài kàn guānyú shé de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>30632</StartMilliseconds>
+    <EndMilliseconds>36733</EndMilliseconds>
+    <Text>我在看关于蛇的书。
+Wǒ zài kàn guānyú shé de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36734</StartMilliseconds>
+    <EndMilliseconds>37096</EndMilliseconds>
+    <Text>我在看关于恐龙的书。
+Wǒ zài kàn guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>37097</StartMilliseconds>
+    <EndMilliseconds>37369</EndMilliseconds>
+    <Text>[@我@]在看关于恐龙的书。
+[@Wǒ@] zài kàn guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37370</StartMilliseconds>
+    <EndMilliseconds>37634</EndMilliseconds>
+    <Text>我[@在@]看关于恐龙的书。
+Wǒ [@zài@] kàn guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>37635</StartMilliseconds>
+    <EndMilliseconds>38037</EndMilliseconds>
+    <Text>我在[@看@]关于恐龙的书。
+Wǒ zài [@kàn@] guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38038</StartMilliseconds>
+    <EndMilliseconds>38447</EndMilliseconds>
+    <Text>我在看关于恐龙的书。
+Wǒ zài kàn guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>38448</StartMilliseconds>
+    <EndMilliseconds>39067</EndMilliseconds>
+    <Text>我在看[@关于@]恐龙的书。
+Wǒ zài kàn [@guānyú@] kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>39068</StartMilliseconds>
+    <EndMilliseconds>39322</EndMilliseconds>
+    <Text>我在看关于恐龙的书。
+Wǒ zài kàn guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>39323</StartMilliseconds>
+    <EndMilliseconds>40016</EndMilliseconds>
+    <Text>我在看关于[@恐龙@]的书。
+Wǒ zài kàn guānyú [@kǒnglóng@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>40017</StartMilliseconds>
+    <EndMilliseconds>40210</EndMilliseconds>
+    <Text>我在看关于恐龙[@的@]书。
+Wǒ zài kàn guānyú kǒnglóng [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>40211</StartMilliseconds>
+    <EndMilliseconds>40614</EndMilliseconds>
+    <Text>我在看关于恐龙的[@书@]。
+Wǒ zài kàn guānyú kǒnglóng de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>40615</StartMilliseconds>
+    <EndMilliseconds>46193</EndMilliseconds>
+    <Text>我在看关于恐龙的书。
+Wǒ zài kàn guānyú kǒnglóng de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>46194</StartMilliseconds>
+    <EndMilliseconds>46594</EndMilliseconds>
+    <Text>我在看关于向日葵的书。
+Wǒ zài kàn guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>46595</StartMilliseconds>
+    <EndMilliseconds>46856</EndMilliseconds>
+    <Text>[@我@]在看关于向日葵的书。
+[@Wǒ@] zài kàn guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>46857</StartMilliseconds>
+    <EndMilliseconds>47112</EndMilliseconds>
+    <Text>我[@在@]看关于向日葵的书。
+Wǒ [@zài@] kàn guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>47113</StartMilliseconds>
+    <EndMilliseconds>47531</EndMilliseconds>
+    <Text>我在[@看@]关于向日葵的书。
+Wǒ zài [@kàn@] guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>47532</StartMilliseconds>
+    <EndMilliseconds>47865</EndMilliseconds>
+    <Text>我在看关于向日葵的书。
+Wǒ zài kàn guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>47866</StartMilliseconds>
+    <EndMilliseconds>48485</EndMilliseconds>
+    <Text>我在看[@关于@]向日葵的书。
+Wǒ zài kàn [@guānyú@] xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>48486</StartMilliseconds>
+    <EndMilliseconds>48731</EndMilliseconds>
+    <Text>我在看关于向日葵的书。
+Wǒ zài kàn guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>48732</StartMilliseconds>
+    <EndMilliseconds>49779</EndMilliseconds>
+    <Text>我在看关于[@向日葵@]的书。
+Wǒ zài kàn guānyú [@xiàngrìkuí@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>49780</StartMilliseconds>
+    <EndMilliseconds>49967</EndMilliseconds>
+    <Text>我在看关于向日葵[@的@]书。
+Wǒ zài kàn guānyú xiàngrìkuí [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>49968</StartMilliseconds>
+    <EndMilliseconds>50384</EndMilliseconds>
+    <Text>我在看关于向日葵的[@书@]。
+Wǒ zài kàn guānyú xiàngrìkuí de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>50385</StartMilliseconds>
+    <EndMilliseconds>55042</EndMilliseconds>
+    <Text>我在看关于向日葵的书。
+Wǒ zài kàn guānyú xiàngrìkuí de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>55043</StartMilliseconds>
+    <EndMilliseconds>55409</EndMilliseconds>
+    <Text>我在看关于宇宙飞船的书。
+Wǒ zài kàn guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>55410</StartMilliseconds>
+    <EndMilliseconds>55667</EndMilliseconds>
+    <Text>[@我@]在看关于宇宙飞船的书。
+[@Wǒ@] zài kàn guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>55668</StartMilliseconds>
+    <EndMilliseconds>55923</EndMilliseconds>
+    <Text>我[@在@]看关于宇宙飞船的书。
+Wǒ [@zài@] kàn guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>55924</StartMilliseconds>
+    <EndMilliseconds>56325</EndMilliseconds>
+    <Text>我在[@看@]关于宇宙飞船的书。
+Wǒ zài [@kàn@] guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>56326</StartMilliseconds>
+    <EndMilliseconds>56735</EndMilliseconds>
+    <Text>我在看关于宇宙飞船的书。
+Wǒ zài kàn guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>56736</StartMilliseconds>
+    <EndMilliseconds>57367</EndMilliseconds>
+    <Text>我在看[@关于@]宇宙飞船的书。
+Wǒ zài kàn [@guānyú@] yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>57368</StartMilliseconds>
+    <EndMilliseconds>57632</EndMilliseconds>
+    <Text>我在看关于宇宙飞船的书。
+Wǒ zài kàn guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>57633</StartMilliseconds>
+    <EndMilliseconds>58390</EndMilliseconds>
+    <Text>我在看关于[@宇宙@]飞船的书。
+Wǒ zài kàn guānyú [@yǔzhòu@] fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>58391</StartMilliseconds>
+    <EndMilliseconds>59050</EndMilliseconds>
+    <Text>我在看关于宇宙[@飞船@]的书。
+Wǒ zài kàn guānyú yǔzhòu [@fēichuán@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>59051</StartMilliseconds>
+    <EndMilliseconds>59301</EndMilliseconds>
+    <Text>我在看关于宇宙飞船[@的@]书。
+Wǒ zài kàn guānyú yǔzhòu fēichuán [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>59302</StartMilliseconds>
+    <EndMilliseconds>59644</EndMilliseconds>
+    <Text>我在看关于宇宙飞船的[@书@]。
+Wǒ zài kàn guānyú yǔzhòu fēichuán de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>59645</StartMilliseconds>
+    <EndMilliseconds>65595</EndMilliseconds>
+    <Text>我在看关于宇宙飞船的书。
+Wǒ zài kàn guānyú yǔzhòu fēichuán de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>65596</StartMilliseconds>
+    <EndMilliseconds>65996</EndMilliseconds>
+    <Text>我在看关于公主的书。
+Wǒ zài kàn guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>65997</StartMilliseconds>
+    <EndMilliseconds>66229</EndMilliseconds>
+    <Text>[@我@]在看关于公主的书。
+[@Wǒ@] zài kàn guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>66230</StartMilliseconds>
+    <EndMilliseconds>66446</EndMilliseconds>
+    <Text>我[@在@]看关于公主的书。
+Wǒ [@zài@] kàn guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>66447</StartMilliseconds>
+    <EndMilliseconds>66905</EndMilliseconds>
+    <Text>我在[@看@]关于公主的书。
+Wǒ zài [@kàn@] guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>66906</StartMilliseconds>
+    <EndMilliseconds>67351</EndMilliseconds>
+    <Text>我在看关于公主的书。
+Wǒ zài kàn guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>67352</StartMilliseconds>
+    <EndMilliseconds>67990</EndMilliseconds>
+    <Text>我在看[@关于@]公主的书。
+Wǒ zài kàn [@guānyú@] gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>67991</StartMilliseconds>
+    <EndMilliseconds>68271</EndMilliseconds>
+    <Text>我在看关于公主的书。
+Wǒ zài kàn guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>68272</StartMilliseconds>
+    <EndMilliseconds>68950</EndMilliseconds>
+    <Text>我在看关于[@公主@]的书。
+Wǒ zài kàn guānyú [@gōngzhǔ@] de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>68951</StartMilliseconds>
+    <EndMilliseconds>69107</EndMilliseconds>
+    <Text>我在看关于公主[@的@]书。
+Wǒ zài kàn guānyú gōngzhǔ [@de@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>69108</StartMilliseconds>
+    <EndMilliseconds>69522</EndMilliseconds>
+    <Text>我在看关于公主的[@书@]。
+Wǒ zài kàn guānyú gōngzhǔ de [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>69523</StartMilliseconds>
+    <EndMilliseconds>77142</EndMilliseconds>
+    <Text>我在看关于公主的书。
+Wǒ zài kàn guānyú gōngzhǔ de shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>77143</StartMilliseconds>
+    <EndMilliseconds>77571</EndMilliseconds>
+    <Text>我在看书！
+Wǒ zài kàn shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>77572</StartMilliseconds>
+    <EndMilliseconds>77855</EndMilliseconds>
+    <Text>[@我@]在看书！
+[@Wǒ@] zài kàn shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>77856</StartMilliseconds>
+    <EndMilliseconds>78223</EndMilliseconds>
+    <Text>我[@在@]看书！
+Wǒ [@zài@] kàn shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>78224</StartMilliseconds>
+    <EndMilliseconds>78480</EndMilliseconds>
+    <Text>我在看书！
+Wǒ zài kàn shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>78481</StartMilliseconds>
+    <EndMilliseconds>78805</EndMilliseconds>
+    <Text>我在[@看@]书！
+Wǒ zài [@kàn@] shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>78806</StartMilliseconds>
+    <EndMilliseconds>79191</EndMilliseconds>
+    <Text>我在看[@书@]！
+Wǒ zài kàn [@shū@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>79192</StartMilliseconds>
+    <EndMilliseconds>79721</EndMilliseconds>
+    <Text>我在看书！
+Wǒ zài kàn shū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>79722</StartMilliseconds>
+    <EndMilliseconds>80396</EndMilliseconds>
+    <Text>我喜欢看书。
+Wǒ xǐhuan kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>80397</StartMilliseconds>
+    <EndMilliseconds>80809</EndMilliseconds>
+    <Text>[@我@]喜欢看书。
+[@Wǒ@] xǐhuan kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>80810</StartMilliseconds>
+    <EndMilliseconds>81057</EndMilliseconds>
+    <Text>我喜欢看书。
+Wǒ xǐhuan kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>81058</StartMilliseconds>
+    <EndMilliseconds>81974</EndMilliseconds>
+    <Text>我[@喜欢@]看书。
+Wǒ [@xǐhuan@] kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>81975</StartMilliseconds>
+    <EndMilliseconds>82341</EndMilliseconds>
+    <Text>我喜欢[@看@]书。
+Wǒ xǐhuan [@kàn@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>82342</StartMilliseconds>
+    <EndMilliseconds>82778</EndMilliseconds>
+    <Text>我喜欢看[@书@]。
+Wǒ xǐhuan kàn [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>82779</StartMilliseconds>
+    <EndMilliseconds>86119</EndMilliseconds>
+    <Text>我喜欢看书。
+Wǒ xǐhuan kàn shū.</Text>
+  </Paragraph>
+</Subtitle>

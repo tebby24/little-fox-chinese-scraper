@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10567</StartMilliseconds>
+    <EndMilliseconds>11070</EndMilliseconds>
+    <Text>妈妈：里安，今天几号？ 
+māma: Lǐ'ān, jīntiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11071</StartMilliseconds>
+    <EndMilliseconds>12051</EndMilliseconds>
+    <Text>妈妈：[@里安@]，今天几号？ 
+māma: [@Lǐ'ān@], jīntiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12052</StartMilliseconds>
+    <EndMilliseconds>12727</EndMilliseconds>
+    <Text>妈妈：里安，[@今天@]几号？ 
+māma: Lǐ'ān, [@jīntiān@] jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12728</StartMilliseconds>
+    <EndMilliseconds>12978</EndMilliseconds>
+    <Text>妈妈：里安，今天[@几@]号？ 
+māma: Lǐ'ān, jīntiān [@jǐ@] hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12979</StartMilliseconds>
+    <EndMilliseconds>13494</EndMilliseconds>
+    <Text>妈妈：里安，今天几[@号@]？ 
+māma: Lǐ'ān, jīntiān jǐ [@hào@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13495</StartMilliseconds>
+    <EndMilliseconds>14109</EndMilliseconds>
+    <Text>妈妈：里安，今天几号？ 
+māma: Lǐ'ān, jīntiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14110</StartMilliseconds>
+    <EndMilliseconds>14605</EndMilliseconds>
+    <Text>里安：今天是十二月三十一号。
+Lǐ'ān: Jīntiān shì shí'èr yuè sānshíyī hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14606</StartMilliseconds>
+    <EndMilliseconds>15198</EndMilliseconds>
+    <Text>里安：[@今天@]是十二月三十一号。
+Lǐ'ān: [@Jīntiān@] shì shí'èr yuè sānshíyī hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15199</StartMilliseconds>
+    <EndMilliseconds>15607</EndMilliseconds>
+    <Text>里安：今天[@是@]十二月三十一号。
+Lǐ'ān: Jīntiān [@shì@] shí'èr yuè sānshíyī hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15608</StartMilliseconds>
+    <EndMilliseconds>16166</EndMilliseconds>
+    <Text>里安：今天是[@十二@]月三十一号。
+Lǐ'ān: Jīntiān shì [@shí'èr@] yuè sānshíyī hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16167</StartMilliseconds>
+    <EndMilliseconds>16522</EndMilliseconds>
+    <Text>里安：今天是十二[@月@]三十一号。
+Lǐ'ān: Jīntiān shì shí'èr [@yuè@] sānshíyī hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16523</StartMilliseconds>
+    <EndMilliseconds>17371</EndMilliseconds>
+    <Text>里安：今天是十二月[@三十一@]号。
+Lǐ'ān: Jīntiān shì shí'èr yuè [@sānshíyī@] hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17372</StartMilliseconds>
+    <EndMilliseconds>17888</EndMilliseconds>
+    <Text>里安：今天是十二月三十一[@号@]。
+Lǐ'ān: Jīntiān shì shí'èr yuè sānshíyī [@hào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>17889</StartMilliseconds>
+    <EndMilliseconds>18480</EndMilliseconds>
+    <Text>里安：今天是十二月三十一号。
+Lǐ'ān: Jīntiān shì shí'èr yuè sānshíyī hào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>18481</StartMilliseconds>
+    <EndMilliseconds>18940</EndMilliseconds>
+    <Text>妈妈：对，明天几号？
+māma: Duì, míngtiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>18941</StartMilliseconds>
+    <EndMilliseconds>19724</EndMilliseconds>
+    <Text>妈妈：[@对@]，明天几号？
+māma: [@Duì@], míngtiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>19725</StartMilliseconds>
+    <EndMilliseconds>20491</EndMilliseconds>
+    <Text>妈妈：对，明天几号？
+māma: Duì, míngtiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>20492</StartMilliseconds>
+    <EndMilliseconds>21261</EndMilliseconds>
+    <Text>妈妈：对，[@明天@]几号？
+māma: Duì, [@míngtiān@] jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21262</StartMilliseconds>
+    <EndMilliseconds>21564</EndMilliseconds>
+    <Text>妈妈：对，明天[@几@]号？
+māma: Duì, míngtiān [@jǐ@] hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>21565</StartMilliseconds>
+    <EndMilliseconds>22191</EndMilliseconds>
+    <Text>妈妈：对，明天几[@号@]？
+māma: Duì, míngtiān jǐ [@hào@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22192</StartMilliseconds>
+    <EndMilliseconds>22847</EndMilliseconds>
+    <Text>妈妈：对，明天几号？
+māma: Duì, míngtiān jǐ hào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>22848</StartMilliseconds>
+    <EndMilliseconds>23278</EndMilliseconds>
+    <Text>里安：明天是新年的第一天。
+Lǐ'ān: Míngtiān shì xīnnián de dì yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>23279</StartMilliseconds>
+    <EndMilliseconds>23871</EndMilliseconds>
+    <Text>里安：[@明天@]是新年的第一天。
+Lǐ'ān: [@Míngtiān@] shì xīnnián de dì yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>23872</StartMilliseconds>
+    <EndMilliseconds>24289</EndMilliseconds>
+    <Text>里安：明天[@是@]新年的第一天。
+Lǐ'ān: Míngtiān [@shì@] xīnnián de dì yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>24290</StartMilliseconds>
+    <EndMilliseconds>24774</EndMilliseconds>
+    <Text>里安：明天是[@新年@]的第一天。
+Lǐ'ān: Míngtiān shì [@xīnnián@] de dì yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>24775</StartMilliseconds>
+    <EndMilliseconds>25146</EndMilliseconds>
+    <Text>里安：明天是新年[@的@]第一天。
+Lǐ'ān: Míngtiān shì xīnnián [@de@] dì yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>25147</StartMilliseconds>
+    <EndMilliseconds>25371</EndMilliseconds>
+    <Text>里安：明天是新年的[@第@]一天。
+Lǐ'ān: Míngtiān shì xīnnián de [@dì@] yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>25372</StartMilliseconds>
+    <EndMilliseconds>25729</EndMilliseconds>
+    <Text>里安：明天是新年的第[@一@]天。
+Lǐ'ān: Míngtiān shì xīnnián de dì [@yī@] tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>25730</StartMilliseconds>
+    <EndMilliseconds>26309</EndMilliseconds>
+    <Text>里安：明天是新年的第一[@天@]。
+Lǐ'ān: Míngtiān shì xīnnián de dì yī [@tiān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>26310</StartMilliseconds>
+    <EndMilliseconds>26856</EndMilliseconds>
+    <Text>里安：明天是新年的第一天。
+Lǐ'ān: Míngtiān shì xīnnián de dì yī tiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>26857</StartMilliseconds>
+    <EndMilliseconds>27589</EndMilliseconds>
+    <Text>妈妈：对，马上就要到新年了。
+māma: Duì, mǎshàng jiù yào dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>27590</StartMilliseconds>
+    <EndMilliseconds>28410</EndMilliseconds>
+    <Text>妈妈：[@对@]，马上就要到新年了。
+māma: [@Duì@], mǎshàng jiù yào dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28411</StartMilliseconds>
+    <EndMilliseconds>28986</EndMilliseconds>
+    <Text>妈妈：对，马上就要到新年了。
+māma: Duì, mǎshàng jiù yào dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>28987</StartMilliseconds>
+    <EndMilliseconds>29681</EndMilliseconds>
+    <Text>妈妈：对，[@马上@]就要到新年了。
+māma: Duì, [@mǎshàng@] jiù yào dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>29682</StartMilliseconds>
+    <EndMilliseconds>29878</EndMilliseconds>
+    <Text>妈妈：对，马上[@就@]要到新年了。
+māma: Duì, mǎshàng [@jiù@] yào dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>29879</StartMilliseconds>
+    <EndMilliseconds>30088</EndMilliseconds>
+    <Text>妈妈：对，马上就[@要@]到新年了。
+māma: Duì, mǎshàng jiù [@yào@] dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>30089</StartMilliseconds>
+    <EndMilliseconds>30353</EndMilliseconds>
+    <Text>妈妈：对，马上就要[@到@]新年了。
+māma: Duì, mǎshàng jiù yào [@dào@] xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>30354</StartMilliseconds>
+    <EndMilliseconds>30976</EndMilliseconds>
+    <Text>妈妈：对，马上就要到[@新年@]了。
+māma: Duì, mǎshàng jiù yào dào [@xīnnián@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>30977</StartMilliseconds>
+    <EndMilliseconds>31382</EndMilliseconds>
+    <Text>妈妈：对，马上就要到新年[@了@]。
+māma: Duì, mǎshàng jiù yào dào xīnnián [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>31383</StartMilliseconds>
+    <EndMilliseconds>31845</EndMilliseconds>
+    <Text>妈妈：对，马上就要到新年了。
+māma: Duì, mǎshàng jiù yào dào xīnnián le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>31846</StartMilliseconds>
+    <EndMilliseconds>32333</EndMilliseconds>
+    <Text>妈妈：你们的新年愿望是什么？
+māma: Nǐmen de xīnnián yuànwàng shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>32334</StartMilliseconds>
+    <EndMilliseconds>32659</EndMilliseconds>
+    <Text>妈妈：[@你们@]的新年愿望是什么？
+māma: [@Nǐmen@] de xīnnián yuànwàng shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>32660</StartMilliseconds>
+    <EndMilliseconds>33050</EndMilliseconds>
+    <Text>妈妈：你们[@的@]新年愿望是什么？
+māma: Nǐmen [@de@] xīnnián yuànwàng shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>33051</StartMilliseconds>
+    <EndMilliseconds>33577</EndMilliseconds>
+    <Text>妈妈：你们的[@新年@]愿望是什么？
+māma: Nǐmen de [@xīnnián@] yuànwàng shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>33578</StartMilliseconds>
+    <EndMilliseconds>34273</EndMilliseconds>
+    <Text>妈妈：你们的新年[@愿望@]是什么？
+māma: Nǐmen de xīnnián [@yuànwàng@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>34274</StartMilliseconds>
+    <EndMilliseconds>34471</EndMilliseconds>
+    <Text>妈妈：你们的新年愿望[@是@]什么？
+māma: Nǐmen de xīnnián yuànwàng [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>34472</StartMilliseconds>
+    <EndMilliseconds>34996</EndMilliseconds>
+    <Text>妈妈：你们的新年愿望是[@什么@]？
+māma: Nǐmen de xīnnián yuànwàng shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>34997</StartMilliseconds>
+    <EndMilliseconds>35438</EndMilliseconds>
+    <Text>妈妈：你们的新年愿望是什么？
+māma: Nǐmen de xīnnián yuànwàng shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>35439</StartMilliseconds>
+    <EndMilliseconds>35963</EndMilliseconds>
+    <Text>里奇：我想飞。
+Lǐqí: Wǒ xiǎng fēi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>35964</StartMilliseconds>
+    <EndMilliseconds>36494</EndMilliseconds>
+    <Text>里奇：[@我@]想飞。
+Lǐqí: [@Wǒ@] xiǎng fēi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>36495</StartMilliseconds>
+    <EndMilliseconds>36902</EndMilliseconds>
+    <Text>里奇：我[@想@]飞。
+Lǐqí: Wǒ [@xiǎng@] fēi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>36903</StartMilliseconds>
+    <EndMilliseconds>37454</EndMilliseconds>
+    <Text>里奇：我想[@飞@]。
+Lǐqí: Wǒ xiǎng [@fēi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>37455</StartMilliseconds>
+    <EndMilliseconds>42330</EndMilliseconds>
+    <Text>里奇：我想飞。
+Lǐqí: Wǒ xiǎng fēi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>42331</StartMilliseconds>
+    <EndMilliseconds>44236</EndMilliseconds>
+    <Text>里安：嘿嘿！哥哥，
+Lǐ'ān: Hēihēi! Gēge,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>44237</StartMilliseconds>
+    <EndMilliseconds>44884</EndMilliseconds>
+    <Text>里安：[@嘿嘿@]！哥哥，
+Lǐ'ān: [@Hēihēi@]! Gēge,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>44885</StartMilliseconds>
+    <EndMilliseconds>45740</EndMilliseconds>
+    <Text>里安：嘿嘿！[@哥哥@]，
+Lǐ'ān: Hēihēi! [@Gēge@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>45741</StartMilliseconds>
+    <EndMilliseconds>45876</EndMilliseconds>
+    <Text>里安：嘿嘿！哥哥，
+Lǐ'ān: Hēihēi! Gēge,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>45877</StartMilliseconds>
+    <EndMilliseconds>46036</EndMilliseconds>
+    <Text>里安：这是不可能的。
+Lǐ'ān: zhè shì bù kěnéng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>46037</StartMilliseconds>
+    <EndMilliseconds>46209</EndMilliseconds>
+    <Text>里安：[@这@]是不可能的。
+Lǐ'ān: [@zhè@] shì bù kěnéng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>46210</StartMilliseconds>
+    <EndMilliseconds>46424</EndMilliseconds>
+    <Text>里安：这[@是@]不可能的。
+Lǐ'ān: zhè [@shì@] bù kěnéng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>46425</StartMilliseconds>
+    <EndMilliseconds>46616</EndMilliseconds>
+    <Text>里安：这是[@不@]可能的。
+Lǐ'ān: zhè shì [@bù@] kěnéng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>46617</StartMilliseconds>
+    <EndMilliseconds>47248</EndMilliseconds>
+    <Text>里安：这是不[@可能@]的。
+Lǐ'ān: zhè shì bù [@kěnéng@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>47249</StartMilliseconds>
+    <EndMilliseconds>47727</EndMilliseconds>
+    <Text>里安：这是不可能[@的@]。
+Lǐ'ān: zhè shì bù kěnéng [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>47728</StartMilliseconds>
+    <EndMilliseconds>48429</EndMilliseconds>
+    <Text>里安：这是不可能的。
+Lǐ'ān: zhè shì bù kěnéng de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>48430</StartMilliseconds>
+    <EndMilliseconds>49236</EndMilliseconds>
+    <Text>妈妈：里安，你呢？
+māma: Lǐ'ān, nǐ ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>49237</StartMilliseconds>
+    <EndMilliseconds>50101</EndMilliseconds>
+    <Text>妈妈：[@里安@]，你呢？
+māma: [@Lǐ'ān@], nǐ ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>50102</StartMilliseconds>
+    <EndMilliseconds>50431</EndMilliseconds>
+    <Text>妈妈：里安，[@你@]呢？
+māma: Lǐ'ān, [@nǐ@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>50432</StartMilliseconds>
+    <EndMilliseconds>50789</EndMilliseconds>
+    <Text>妈妈：里安，你[@呢@]？
+māma: Lǐ'ān, nǐ [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>50790</StartMilliseconds>
+    <EndMilliseconds>50993</EndMilliseconds>
+    <Text>妈妈：里安，你呢？
+māma: Lǐ'ān, nǐ ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>50994</StartMilliseconds>
+    <EndMilliseconds>51211</EndMilliseconds>
+    <Text>妈妈：你的新年愿望是什么呢？
+māma: Nǐ de xīnnián yuànwàng shì shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>51212</StartMilliseconds>
+    <EndMilliseconds>51526</EndMilliseconds>
+    <Text>妈妈：[@你@]的新年愿望是什么呢？
+māma: [@Nǐ@] de xīnnián yuànwàng shì shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>51527</StartMilliseconds>
+    <EndMilliseconds>51818</EndMilliseconds>
+    <Text>妈妈：你[@的@]新年愿望是什么呢？
+māma: Nǐ [@de@] xīnnián yuànwàng shì shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>51819</StartMilliseconds>
+    <EndMilliseconds>52247</EndMilliseconds>
+    <Text>妈妈：你的[@新年@]愿望是什么呢？
+māma: Nǐ de [@xīnnián@] yuànwàng shì shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>52248</StartMilliseconds>
+    <EndMilliseconds>52995</EndMilliseconds>
+    <Text>妈妈：你的新年[@愿望@]是什么呢？
+māma: Nǐ de xīnnián [@yuànwàng@] shì shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>52996</StartMilliseconds>
+    <EndMilliseconds>53278</EndMilliseconds>
+    <Text>妈妈：你的新年愿望[@是@]什么呢？
+māma: Nǐ de xīnnián yuànwàng [@shì@] shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>53279</StartMilliseconds>
+    <EndMilliseconds>53594</EndMilliseconds>
+    <Text>妈妈：你的新年愿望是[@什么@]呢？
+māma: Nǐ de xīnnián yuànwàng shì [@shénme@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>53595</StartMilliseconds>
+    <EndMilliseconds>53987</EndMilliseconds>
+    <Text>妈妈：你的新年愿望是什么[@呢@]？
+māma: Nǐ de xīnnián yuànwàng shì shénme [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>53988</StartMilliseconds>
+    <EndMilliseconds>54447</EndMilliseconds>
+    <Text>妈妈：你的新年愿望是什么呢？
+māma: Nǐ de xīnnián yuànwàng shì shénme ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>54448</StartMilliseconds>
+    <EndMilliseconds>54984</EndMilliseconds>
+    <Text>里安：我要对哥哥更好一点。
+Lǐ'ān: Wǒ yào duì gēge gèng hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>54985</StartMilliseconds>
+    <EndMilliseconds>55179</EndMilliseconds>
+    <Text>里安：[@我@]要对哥哥更好一点。
+Lǐ'ān: [@Wǒ@] yào duì gēge gèng hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>55180</StartMilliseconds>
+    <EndMilliseconds>55434</EndMilliseconds>
+    <Text>里安：我[@要@]对哥哥更好一点。
+Lǐ'ān: Wǒ [@yào@] duì gēge gèng hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>55435</StartMilliseconds>
+    <EndMilliseconds>55673</EndMilliseconds>
+    <Text>里安：我要[@对@]哥哥更好一点。
+Lǐ'ān: Wǒ yào [@duì@] gēge gèng hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>55674</StartMilliseconds>
+    <EndMilliseconds>56356</EndMilliseconds>
+    <Text>里安：我要对[@哥哥@]更好一点。
+Lǐ'ān: Wǒ yào duì [@gēge@] gèng hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>56357</StartMilliseconds>
+    <EndMilliseconds>56781</EndMilliseconds>
+    <Text>里安：我要对哥哥[@更@]好一点。
+Lǐ'ān: Wǒ yào duì gēge [@gèng@] hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>56782</StartMilliseconds>
+    <EndMilliseconds>57100</EndMilliseconds>
+    <Text>里安：我要对哥哥更[@好@]一点。
+Lǐ'ān: Wǒ yào duì gēge gèng [@hǎo@] yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>57101</StartMilliseconds>
+    <EndMilliseconds>57945</EndMilliseconds>
+    <Text>里安：我要对哥哥更好[@一点@]。
+Lǐ'ān: Wǒ yào duì gēge gèng hǎo [@yìdiǎn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>57946</StartMilliseconds>
+    <EndMilliseconds>58223</EndMilliseconds>
+    <Text>里安：我要对哥哥更好一点。
+Lǐ'ān: Wǒ yào duì gēge gèng hǎo yìdiǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>58224</StartMilliseconds>
+    <EndMilliseconds>58713</EndMilliseconds>
+    <Text>里奇：谢谢，妹妹。 
+Lǐqí: Xièxie, mèimei.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>58714</StartMilliseconds>
+    <EndMilliseconds>59486</EndMilliseconds>
+    <Text>里奇：[@谢谢@]，妹妹。 
+Lǐqí: [@Xièxie@], mèimei.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>59487</StartMilliseconds>
+    <EndMilliseconds>60708</EndMilliseconds>
+    <Text>里奇：谢谢，[@妹妹@]。 
+Lǐqí: Xièxie, [@mèimei@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>60709</StartMilliseconds>
+    <EndMilliseconds>62048</EndMilliseconds>
+    <Text>里奇：谢谢，妹妹。 
+Lǐqí: Xièxie, mèimei.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>62049</StartMilliseconds>
+    <EndMilliseconds>63006</EndMilliseconds>
+    <Text>爸爸：大家快来，
+bàba: Dàjiā kuài lái,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>63007</StartMilliseconds>
+    <EndMilliseconds>63496</EndMilliseconds>
+    <Text>爸爸：[@大家@]快来，
+bàba: [@Dàjiā@] kuài lái,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>63497</StartMilliseconds>
+    <EndMilliseconds>63700</EndMilliseconds>
+    <Text>爸爸：大家[@快@]来，
+bàba: Dàjiā [@kuài@] lái,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>63701</StartMilliseconds>
+    <EndMilliseconds>64136</EndMilliseconds>
+    <Text>爸爸：大家快[@来@]，
+bàba: Dàjiā kuài [@lái@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>64137</StartMilliseconds>
+    <EndMilliseconds>64244</EndMilliseconds>
+    <Text>爸爸：大家快来，
+bàba: Dàjiā kuài lái,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>64245</StartMilliseconds>
+    <EndMilliseconds>64410</EndMilliseconds>
+    <Text>爸爸：马上到时间了。
+bàba: mǎshàng dào shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>64411</StartMilliseconds>
+    <EndMilliseconds>65072</EndMilliseconds>
+    <Text>爸爸：[@马上@]到时间了。
+bàba: [@mǎshàng@] dào shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>65073</StartMilliseconds>
+    <EndMilliseconds>65298</EndMilliseconds>
+    <Text>爸爸：马上[@到@]时间了。
+bàba: mǎshàng [@dào@] shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>65299</StartMilliseconds>
+    <EndMilliseconds>65745</EndMilliseconds>
+    <Text>爸爸：马上到[@时间@]了。
+bàba: mǎshàng dào [@shíjiān@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>65746</StartMilliseconds>
+    <EndMilliseconds>66158</EndMilliseconds>
+    <Text>爸爸：马上到时间[@了@]。
+bàba: mǎshàng dào shíjiān [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>66159</StartMilliseconds>
+    <EndMilliseconds>66724</EndMilliseconds>
+    <Text>爸爸：马上到时间了。
+bàba: mǎshàng dào shíjiān le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>66725</StartMilliseconds>
+    <EndMilliseconds>68246</EndMilliseconds>
+    <Text>里奇：哇！ 这是什么？
+Lǐqí: Wā! Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>68247</StartMilliseconds>
+    <EndMilliseconds>69129</EndMilliseconds>
+    <Text>里奇：[@哇@]！ 这是什么？
+Lǐqí: [@Wā@]! Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>69130</StartMilliseconds>
+    <EndMilliseconds>69374</EndMilliseconds>
+    <Text>里奇：哇！ [@这@]是什么？
+Lǐqí: Wā! [@Zhè@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>69375</StartMilliseconds>
+    <EndMilliseconds>69552</EndMilliseconds>
+    <Text>里奇：哇！ 这[@是@]什么？
+Lǐqí: Wā! Zhè [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>69553</StartMilliseconds>
+    <EndMilliseconds>70385</EndMilliseconds>
+    <Text>里奇：哇！ 这是[@什么@]？
+Lǐqí: Wā! Zhè shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>70386</StartMilliseconds>
+    <EndMilliseconds>71133</EndMilliseconds>
+    <Text>里奇：哇！ 这是什么？
+Lǐqí: Wā! Zhè shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>71134</StartMilliseconds>
+    <EndMilliseconds>71840</EndMilliseconds>
+    <Text>爸爸：这是新年倒计时。
+bàba: Zhè shì xīnnián dàojìshí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>71841</StartMilliseconds>
+    <EndMilliseconds>72102</EndMilliseconds>
+    <Text>爸爸：[@这@]是新年倒计时。
+bàba: [@Zhè@] shì xīnnián dàojìshí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>72103</StartMilliseconds>
+    <EndMilliseconds>72469</EndMilliseconds>
+    <Text>爸爸：这[@是@]新年倒计时。
+bàba: Zhè [@shì@] xīnnián dàojìshí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>72470</StartMilliseconds>
+    <EndMilliseconds>73117</EndMilliseconds>
+    <Text>爸爸：这是[@新年@]倒计时。
+bàba: Zhè shì [@xīnnián@] dàojìshí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>73118</StartMilliseconds>
+    <EndMilliseconds>74177</EndMilliseconds>
+    <Text>爸爸：这是新年[@倒计时@]。
+bàba: Zhè shì xīnnián [@dàojìshí@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>74178</StartMilliseconds>
+    <EndMilliseconds>75527</EndMilliseconds>
+    <Text>爸爸：这是新年倒计时。
+bàba: Zhè shì xīnnián dàojìshí.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>75528</StartMilliseconds>
+    <EndMilliseconds>76613</EndMilliseconds>
+    <Text>电视主持人：10，9，8，7，6......
+diànshì zhǔchírén: Shí, jiǔ, bā, qī, liù......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>76614</StartMilliseconds>
+    <EndMilliseconds>77515</EndMilliseconds>
+    <Text>电视主持人：[@10@]，9，8，7，6......
+diànshì zhǔchírén: [@Shí@], jiǔ, bā, qī, liù......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>77516</StartMilliseconds>
+    <EndMilliseconds>78404</EndMilliseconds>
+    <Text>电视主持人：10，[@9@]，8，7，6......
+diànshì zhǔchírén: Shí, [@jiǔ@], bā, qī, liù......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>78405</StartMilliseconds>
+    <EndMilliseconds>79308</EndMilliseconds>
+    <Text>电视主持人：10，9，[@8@]，7，6......
+diànshì zhǔchírén: Shí, jiǔ, [@bā@], qī, liù......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>79309</StartMilliseconds>
+    <EndMilliseconds>80131</EndMilliseconds>
+    <Text>电视主持人：10，9，8，[@7@]，6......
+diànshì zhǔchírén: Shí, jiǔ, bā, [@qī@], liù......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>80132</StartMilliseconds>
+    <EndMilliseconds>80971</EndMilliseconds>
+    <Text>电视主持人：10，9，8，7，[@6@]......
+diànshì zhǔchírén: Shí, jiǔ, bā, qī, [@liù@]......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>80972</StartMilliseconds>
+    <EndMilliseconds>81275</EndMilliseconds>
+    <Text>电视主持人：10，9，8，7，6......
+diànshì zhǔchírén: Shí, jiǔ, bā, qī, liù......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>81276</StartMilliseconds>
+    <EndMilliseconds>81763</EndMilliseconds>
+    <Text>全家：......5，4，3，2，1。
+quánjiā: ......wǔ, sì, sān, èr, yī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>81764</StartMilliseconds>
+    <EndMilliseconds>82585</EndMilliseconds>
+    <Text>全家：......[@5@]，4，3，2，1。
+quánjiā: ......[@wǔ@], sì, sān, èr, yī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>82586</StartMilliseconds>
+    <EndMilliseconds>83529</EndMilliseconds>
+    <Text>全家：......5，[@4@]，3，2，1。
+quánjiā: ......wǔ, [@sì@], sān, èr, yī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>83530</StartMilliseconds>
+    <EndMilliseconds>84360</EndMilliseconds>
+    <Text>全家：......5，4，[@3@]，2，1。
+quánjiā: ......wǔ, sì, [@sān@], èr, yī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>84361</StartMilliseconds>
+    <EndMilliseconds>85243</EndMilliseconds>
+    <Text>全家：......5，4，3，[@2@]，1。
+quánjiā: ......wǔ, sì, sān, [@èr@], yī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>85244</StartMilliseconds>
+    <EndMilliseconds>86173</EndMilliseconds>
+    <Text>全家：......5，4，3，2，[@1@]。
+quánjiā: ......wǔ, sì, sān, èr, [@yī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>86174</StartMilliseconds>
+    <EndMilliseconds>86383</EndMilliseconds>
+    <Text>全家：......5，4，3，2，1。
+quánjiā: ......wǔ, sì, sān, èr, yī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>86384</StartMilliseconds>
+    <EndMilliseconds>86529</EndMilliseconds>
+    <Text>全家：新年快乐！
+quánjiā: Xīnnián kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>86530</StartMilliseconds>
+    <EndMilliseconds>87278</EndMilliseconds>
+    <Text>全家：[@新年@]快乐！
+quánjiā: [@Xīnnián@] kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>87279</StartMilliseconds>
+    <EndMilliseconds>88410</EndMilliseconds>
+    <Text>全家：新年[@快乐@]！
+quánjiā: Xīnnián [@kuàilè@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>88411</StartMilliseconds>
+    <EndMilliseconds>88543</EndMilliseconds>
+    <Text>全家：新年快乐！
+quánjiā: Xīnnián kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>88544</StartMilliseconds>
+    <EndMilliseconds>88660</EndMilliseconds>
+    <Text>全家：祝大家新年快乐！
+quánjiā: Zhù dàjiā xīnnián kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>88661</StartMilliseconds>
+    <EndMilliseconds>89066</EndMilliseconds>
+    <Text>全家：[@祝@]大家新年快乐！
+quánjiā: [@Zhù@] dàjiā xīnnián kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>89067</StartMilliseconds>
+    <EndMilliseconds>89718</EndMilliseconds>
+    <Text>全家：祝[@大家@]新年快乐！
+quánjiā: Zhù [@dàjiā@] xīnnián kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>89719</StartMilliseconds>
+    <EndMilliseconds>90496</EndMilliseconds>
+    <Text>全家：祝大家[@新年@]快乐！
+quánjiā: Zhù dàjiā [@xīnnián@] kuàilè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>90497</StartMilliseconds>
+    <EndMilliseconds>91764</EndMilliseconds>
+    <Text>全家：祝大家新年[@快乐@]！
+quánjiā: Zhù dàjiā xīnnián [@kuàilè@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>91765</StartMilliseconds>
+    <EndMilliseconds>95996</EndMilliseconds>
+    <Text>全家：祝大家新年快乐！
+quánjiā: Zhù dàjiā xīnnián kuàilè!</Text>
+  </Paragraph>
+</Subtitle>

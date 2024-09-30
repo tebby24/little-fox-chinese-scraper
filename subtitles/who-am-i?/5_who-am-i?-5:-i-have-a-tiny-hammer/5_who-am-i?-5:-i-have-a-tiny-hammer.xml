@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12444</StartMilliseconds>
+    <EndMilliseconds>14540</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ xiǎo chuízi.
+我有一把小锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14541</StartMilliseconds>
+    <EndMilliseconds>14841</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì bǎ xiǎo chuízi.
+[@我@]有一把小锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14842</StartMilliseconds>
+    <EndMilliseconds>15012</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì bǎ xiǎo chuízi.
+我[@有@]一把小锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>15013</StartMilliseconds>
+    <EndMilliseconds>15223</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] bǎ xiǎo chuízi.
+我有[@一@]把小锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15224</StartMilliseconds>
+    <EndMilliseconds>15690</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@bǎ@] xiǎo chuízi.
+我有一[@把@]小锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15691</StartMilliseconds>
+    <EndMilliseconds>16222</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ [@xiǎo@] chuízi.
+我有一把[@小@]锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16223</StartMilliseconds>
+    <EndMilliseconds>17036</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ xiǎo [@chuízi@].
+我有一把小[@锤子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17037</StartMilliseconds>
+    <EndMilliseconds>21581</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ xiǎo chuízi.
+我有一把小锤子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21582</StartMilliseconds>
+    <EndMilliseconds>23429</EndMilliseconds>
+    <Text>Wǒ yǒu yì juǎn bēngdài.
+我有一卷绷带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23430</StartMilliseconds>
+    <EndMilliseconds>23790</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì juǎn bēngdài.
+[@我@]有一卷绷带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>23791</StartMilliseconds>
+    <EndMilliseconds>23963</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì juǎn bēngdài.
+我[@有@]一卷绷带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23964</StartMilliseconds>
+    <EndMilliseconds>24085</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] juǎn bēngdài.
+我有[@一@]卷绷带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24086</StartMilliseconds>
+    <EndMilliseconds>24437</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@juǎn@] bēngdài.
+我有一[@卷@]绷带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24438</StartMilliseconds>
+    <EndMilliseconds>25115</EndMilliseconds>
+    <Text>Wǒ yǒu yì juǎn [@bēngdài@].
+我有一卷[@绷带@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25116</StartMilliseconds>
+    <EndMilliseconds>29852</EndMilliseconds>
+    <Text>Wǒ yǒu yì juǎn bēngdài.
+我有一卷绷带。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>29853</StartMilliseconds>
+    <EndMilliseconds>31777</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhāng X guāngpiān.
+我有一张X光片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31778</StartMilliseconds>
+    <EndMilliseconds>32086</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì zhāng X guāngpiān.
+[@我@]有一张X光片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32087</StartMilliseconds>
+    <EndMilliseconds>32283</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì zhāng X guāngpiān.
+我[@有@]一张X光片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32284</StartMilliseconds>
+    <EndMilliseconds>32520</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] zhāng X guāngpiān.
+我有[@一@]张X光片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32521</StartMilliseconds>
+    <EndMilliseconds>33055</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@zhāng@] X guāngpiān.
+我有一[@张@]X光片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33056</StartMilliseconds>
+    <EndMilliseconds>34725</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhāng [@X guāngpiān@].
+我有一张[@X光片@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34726</StartMilliseconds>
+    <EndMilliseconds>38060</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhāng X guāngpiān.
+我有一张X光片。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>38061</StartMilliseconds>
+    <EndMilliseconds>40113</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge bǐdēng.
+我有一个笔灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40114</StartMilliseconds>
+    <EndMilliseconds>40443</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge bǐdēng.
+[@我@]有一个笔灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>40444</StartMilliseconds>
+    <EndMilliseconds>40625</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge bǐdēng.
+我[@有2】一个笔灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>40626</StartMilliseconds>
+    <EndMilliseconds>40813</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge bǐdēng.
+我有[@一@]个笔灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40814</StartMilliseconds>
+    <EndMilliseconds>41080</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] bǐdēng.
+我有一[@个@]笔灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41081</StartMilliseconds>
+    <EndMilliseconds>41810</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@bǐdēng@].
+我有一个[@笔灯@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>41811</StartMilliseconds>
+    <EndMilliseconds>46586</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge bǐdēng.
+我有一个笔灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>46587</StartMilliseconds>
+    <EndMilliseconds>48476</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn báidàguà.
+我有一件白大褂。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>48477</StartMilliseconds>
+    <EndMilliseconds>48782</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí jiàn báidàguà.
+[@我@]有一件白大褂。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>48783</StartMilliseconds>
+    <EndMilliseconds>48955</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí jiàn báidàguà.
+我[@有@]一件白大褂。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48956</StartMilliseconds>
+    <EndMilliseconds>49135</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] jiàn báidàguà.
+我有[@一@]件白大褂。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49136</StartMilliseconds>
+    <EndMilliseconds>49576</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@jiàn@] báidàguà.
+我有一[@件@]白大褂。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>49577</StartMilliseconds>
+    <EndMilliseconds>50667</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn [@báidàguà@].
+我有一件[@白大褂@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>50668</StartMilliseconds>
+    <EndMilliseconds>54796</EndMilliseconds>
+    <Text>Wǒ yǒu yí jiàn báidàguà.
+我有一件白大褂。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>54797</StartMilliseconds>
+    <EndMilliseconds>56759</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge tǐwēnjì.
+我有一个体温计。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>56760</StartMilliseconds>
+    <EndMilliseconds>57024</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge tǐwēnjì.
+[@我@]有一个体温计。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57025</StartMilliseconds>
+    <EndMilliseconds>57210</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge tǐwēnjì.
+我[@有@]一个体温计。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>57211</StartMilliseconds>
+    <EndMilliseconds>57368</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge tǐwēnjì.
+我有[@一@]个体温计。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57369</StartMilliseconds>
+    <EndMilliseconds>57891</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] tǐwēnjì.
+我有一[@个@]体温计。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>57892</StartMilliseconds>
+    <EndMilliseconds>59186</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@tǐwēnjì@].
+我有一个[@体温计@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>59187</StartMilliseconds>
+    <EndMilliseconds>63164</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge tǐwēnjì.
+我有一个体温计。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63165</StartMilliseconds>
+    <EndMilliseconds>65044</EndMilliseconds>
+    <Text>Wǒ yǒu yí wèi bìngrén.
+我有一位病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65045</StartMilliseconds>
+    <EndMilliseconds>65379</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí wèi bìngrén.
+[@我@]有一位病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65380</StartMilliseconds>
+    <EndMilliseconds>65590</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí wèi bìngrén.
+我[@有@]一位病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65591</StartMilliseconds>
+    <EndMilliseconds>65763</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] wèi bìngrén.
+我有[@一@]位病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>65764</StartMilliseconds>
+    <EndMilliseconds>66012</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@wèi@] bìngrén.
+我有一[@位@]病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66013</StartMilliseconds>
+    <EndMilliseconds>66782</EndMilliseconds>
+    <Text>Wǒ yǒu yí wèi [@bìngrén@].
+我有一位[@病人@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>66783</StartMilliseconds>
+    <EndMilliseconds>71434</EndMilliseconds>
+    <Text>Wǒ yǒu yí wèi bìngrén.
+我有一位病人。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>71435</StartMilliseconds>
+    <EndMilliseconds>73249</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>73250</StartMilliseconds>
+    <EndMilliseconds>73750</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73751</StartMilliseconds>
+    <EndMilliseconds>73962</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>73963</StartMilliseconds>
+    <EndMilliseconds>74528</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>74529</StartMilliseconds>
+    <EndMilliseconds>79996</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79997</StartMilliseconds>
+    <EndMilliseconds>80999</EndMilliseconds>
+    <Text>Wǒ shì yīshēng.
+我是医生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>81000</StartMilliseconds>
+    <EndMilliseconds>81368</EndMilliseconds>
+    <Text>[@Wǒ@] shì yīshēng.
+[@我@]是医生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81369</StartMilliseconds>
+    <EndMilliseconds>82028</EndMilliseconds>
+    <Text>Wǒ [@shì@] yīshēng.
+我[@是@]医生。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>82029</StartMilliseconds>
+    <EndMilliseconds>82915</EndMilliseconds>
+    <Text>Wǒ shì [@yīshēng@].
+我是[@医生@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>82916</StartMilliseconds>
+    <EndMilliseconds>87025</EndMilliseconds>
+    <Text>Wǒ shì yīshēng.
+我是医生。</Text>
+  </Paragraph>
+</Subtitle>

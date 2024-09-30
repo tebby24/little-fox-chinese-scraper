@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10166</StartMilliseconds>
+    <EndMilliseconds>12264</EndMilliseconds>
+    <Text>我们可以像风一样奔跑。
+Wǒmen kěyǐ xiàng fēng yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12265</StartMilliseconds>
+    <EndMilliseconds>12940</EndMilliseconds>
+    <Text>[@我们@]可以像风一样奔跑。
+[@Wǒmen@] kěyǐ xiàng fēng yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12941</StartMilliseconds>
+    <EndMilliseconds>13174</EndMilliseconds>
+    <Text>我们可以像风一样奔跑。
+Wǒmen kěyǐ xiàng fēng yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13175</StartMilliseconds>
+    <EndMilliseconds>13645</EndMilliseconds>
+    <Text>我们[@可以@]像风一样奔跑。
+Wǒmen [@kěyǐ@] xiàng fēng yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13646</StartMilliseconds>
+    <EndMilliseconds>14201</EndMilliseconds>
+    <Text>我们可以[@像@]风一样奔跑。
+Wǒmen kěyǐ [@xiàng@] fēng yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14202</StartMilliseconds>
+    <EndMilliseconds>14568</EndMilliseconds>
+    <Text>我们可以像[@风@]一样奔跑。
+Wǒmen kěyǐ xiàng [@fēng@] yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14569</StartMilliseconds>
+    <EndMilliseconds>15200</EndMilliseconds>
+    <Text>我们可以像风[@一样@]奔跑。
+Wǒmen kěyǐ xiàng fēng [@yíyàng@] bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15201</StartMilliseconds>
+    <EndMilliseconds>16034</EndMilliseconds>
+    <Text>我们可以像风一样[@奔跑@]。
+Wǒmen kěyǐ xiàng fēng yíyàng [@bēnpǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16035</StartMilliseconds>
+    <EndMilliseconds>17490</EndMilliseconds>
+    <Text>我们可以像风一样奔跑。
+Wǒmen kěyǐ xiàng fēng yíyàng bēnpǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>17491</StartMilliseconds>
+    <EndMilliseconds>18341</EndMilliseconds>
+    <Text>我们可以在草地上打滚。
+Wǒmen kěyǐ zài cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>18342</StartMilliseconds>
+    <EndMilliseconds>18977</EndMilliseconds>
+    <Text>[@我们@]可以在草地上打滚。
+[@Wǒmen@] kěyǐ zài cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18978</StartMilliseconds>
+    <EndMilliseconds>19293</EndMilliseconds>
+    <Text>我们可以在草地上打滚。
+Wǒmen kěyǐ zài cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19294</StartMilliseconds>
+    <EndMilliseconds>19887</EndMilliseconds>
+    <Text>我们[@可以@]在草地上打滚。
+Wǒmen [@kěyǐ@] zài cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19888</StartMilliseconds>
+    <EndMilliseconds>20196</EndMilliseconds>
+    <Text>我们可以[@在@]草地上打滚。
+Wǒmen kěyǐ [@zài@] cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>20197</StartMilliseconds>
+    <EndMilliseconds>20916</EndMilliseconds>
+    <Text>我们可以在[@草地@]上打滚。
+Wǒmen kěyǐ zài [@cǎodì@] shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20917</StartMilliseconds>
+    <EndMilliseconds>21302</EndMilliseconds>
+    <Text>我们可以在草地[@上@]打滚。
+Wǒmen kěyǐ zài cǎodì [@shàng@] dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>21303</StartMilliseconds>
+    <EndMilliseconds>21583</EndMilliseconds>
+    <Text>我们可以在草地上打滚。
+Wǒmen kěyǐ zài cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21584</StartMilliseconds>
+    <EndMilliseconds>22418</EndMilliseconds>
+    <Text>我们可以在草地上[@打滚@]。
+Wǒmen kěyǐ zài cǎodì shàng [@dǎgǔn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>22419</StartMilliseconds>
+    <EndMilliseconds>23230</EndMilliseconds>
+    <Text>我们可以在草地上打滚。
+Wǒmen kěyǐ zài cǎodì shàng dǎgǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>23231</StartMilliseconds>
+    <EndMilliseconds>25532</EndMilliseconds>
+    <Text>我们可以像兔子一样蹦跳。
+Wǒmen kěyǐ xiàng tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>25533</StartMilliseconds>
+    <EndMilliseconds>26146</EndMilliseconds>
+    <Text>[@我们@]可以像兔子一样蹦跳。
+[@Wǒmen@] kěyǐ xiàng tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26147</StartMilliseconds>
+    <EndMilliseconds>26422</EndMilliseconds>
+    <Text>我们可以像兔子一样蹦跳。
+Wǒmen kěyǐ xiàng tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>26423</StartMilliseconds>
+    <EndMilliseconds>26977</EndMilliseconds>
+    <Text>我们[@可以@]像兔子一样蹦跳。
+Wǒmen [@kěyǐ@] xiàng tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>26978</StartMilliseconds>
+    <EndMilliseconds>27321</EndMilliseconds>
+    <Text>我们可以[@像@]兔子一样蹦跳。
+Wǒmen kěyǐ [@xiàng@] tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>27322</StartMilliseconds>
+    <EndMilliseconds>27619</EndMilliseconds>
+    <Text>我们可以像兔子一样蹦跳。
+Wǒmen kěyǐ xiàng tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>27620</StartMilliseconds>
+    <EndMilliseconds>28210</EndMilliseconds>
+    <Text>我们可以像[@兔子@]一样蹦跳。
+Wǒmen kěyǐ xiàng [@tùzi@] yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28211</StartMilliseconds>
+    <EndMilliseconds>28914</EndMilliseconds>
+    <Text>我们可以像兔子[@一样@]蹦跳。
+Wǒmen kěyǐ xiàng tùzi [@yíyàng@] bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>28915</StartMilliseconds>
+    <EndMilliseconds>29675</EndMilliseconds>
+    <Text>我们可以像兔子一样[@蹦跳@]。
+Wǒmen kěyǐ xiàng tùzi yíyàng [@bèngtiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>29676</StartMilliseconds>
+    <EndMilliseconds>30441</EndMilliseconds>
+    <Text>我们可以像兔子一样蹦跳。
+Wǒmen kěyǐ xiàng tùzi yíyàng bèngtiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30442</StartMilliseconds>
+    <EndMilliseconds>31638</EndMilliseconds>
+    <Text>我们可以去登山。
+Wǒmen kěyǐ qù dēng shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>31639</StartMilliseconds>
+    <EndMilliseconds>32292</EndMilliseconds>
+    <Text>[@我们@]可以去登山。
+[@Wǒmen@] kěyǐ qù dēng shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>32293</StartMilliseconds>
+    <EndMilliseconds>32627</EndMilliseconds>
+    <Text>我们可以去登山。
+Wǒmen kěyǐ qù dēng shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>32628</StartMilliseconds>
+    <EndMilliseconds>33194</EndMilliseconds>
+    <Text>我们[@可以@]去登山。
+Wǒmen [@kěyǐ@] qù dēng shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>33195</StartMilliseconds>
+    <EndMilliseconds>33731</EndMilliseconds>
+    <Text>我们可以[@去@]登山。
+Wǒmen kěyǐ [@qù@] dēng shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>33732</StartMilliseconds>
+    <EndMilliseconds>33939</EndMilliseconds>
+    <Text>我们可以去[@登@]山。
+Wǒmen kěyǐ qù [@dēng@] shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>33940</StartMilliseconds>
+    <EndMilliseconds>34317</EndMilliseconds>
+    <Text>我们可以去登[@山@]。
+Wǒmen kěyǐ qù dēng [@shān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>34318</StartMilliseconds>
+    <EndMilliseconds>35731</EndMilliseconds>
+    <Text>我们可以去登山。
+Wǒmen kěyǐ qù dēng shān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>35732</StartMilliseconds>
+    <EndMilliseconds>36537</EndMilliseconds>
+    <Text>我们可以像海豚一样游泳。
+Wǒmen kěyǐ xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>36538</StartMilliseconds>
+    <EndMilliseconds>37134</EndMilliseconds>
+    <Text>[@我们@]可以像海豚一样游泳。
+[@Wǒmen@] kěyǐ xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>37135</StartMilliseconds>
+    <EndMilliseconds>37494</EndMilliseconds>
+    <Text>我们可以像海豚一样游泳。
+Wǒmen kěyǐ xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>37495</StartMilliseconds>
+    <EndMilliseconds>37904</EndMilliseconds>
+    <Text>我们[@可以@]像海豚一样游泳。
+Wǒmen [@kěyǐ@] xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>37905</StartMilliseconds>
+    <EndMilliseconds>38268</EndMilliseconds>
+    <Text>我们可以[@像@]海豚一样游泳。
+Wǒmen kěyǐ [@xiàng@] hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>38269</StartMilliseconds>
+    <EndMilliseconds>38573</EndMilliseconds>
+    <Text>我们可以像海豚一样游泳。
+Wǒmen kěyǐ xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>38574</StartMilliseconds>
+    <EndMilliseconds>39292</EndMilliseconds>
+    <Text>我们可以像[@海豚@]一样游泳。
+Wǒmen kěyǐ xiàng [@hǎitún@] yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>39293</StartMilliseconds>
+    <EndMilliseconds>39740</EndMilliseconds>
+    <Text>我们可以像海豚[@一样@]游泳。
+Wǒmen kěyǐ xiàng hǎitún [@yíyàng@] yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>39741</StartMilliseconds>
+    <EndMilliseconds>39987</EndMilliseconds>
+    <Text>我们可以像海豚一样游泳。
+Wǒmen kěyǐ xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>39988</StartMilliseconds>
+    <EndMilliseconds>40302</EndMilliseconds>
+    <Text>我们可以像海豚一样[@游@]泳。
+Wǒmen kěyǐ xiàng hǎitún yíyàng [@yóu@] yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>40303</StartMilliseconds>
+    <EndMilliseconds>40863</EndMilliseconds>
+    <Text>我们可以像海豚一样游[@泳@]。
+Wǒmen kěyǐ xiàng hǎitún yíyàng yóu [@yǒng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>40864</StartMilliseconds>
+    <EndMilliseconds>42905</EndMilliseconds>
+    <Text>我们可以像海豚一样游泳。
+Wǒmen kěyǐ xiàng hǎitún yíyàng yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>42906</StartMilliseconds>
+    <EndMilliseconds>43704</EndMilliseconds>
+    <Text>我们可以在湖边钓鱼。
+Wǒmen kěyǐ zài húbiān diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>43705</StartMilliseconds>
+    <EndMilliseconds>44266</EndMilliseconds>
+    <Text>[@我们@]可以在湖边钓鱼。
+[@Wǒmen@] kěyǐ zài húbiān diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>44267</StartMilliseconds>
+    <EndMilliseconds>44556</EndMilliseconds>
+    <Text>我们可以在湖边钓鱼。
+Wǒmen kěyǐ zài húbiān diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>44557</StartMilliseconds>
+    <EndMilliseconds>45110</EndMilliseconds>
+    <Text>我们[@可以@]在湖边钓鱼。
+Wǒmen [@kěyǐ@] zài húbiān diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>45111</StartMilliseconds>
+    <EndMilliseconds>45641</EndMilliseconds>
+    <Text>我们可以[@在@]湖边钓鱼。
+Wǒmen kěyǐ [@zài@] húbiān diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>45642</StartMilliseconds>
+    <EndMilliseconds>46309</EndMilliseconds>
+    <Text>我们可以在[@湖边@]钓鱼。
+Wǒmen kěyǐ zài [@húbiān@] diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>46310</StartMilliseconds>
+    <EndMilliseconds>46705</EndMilliseconds>
+    <Text>我们可以在湖边[@钓@]鱼。
+Wǒmen kěyǐ zài húbiān [@diào@] yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>46705</StartMilliseconds>
+    <EndMilliseconds>47197</EndMilliseconds>
+    <Text>我们可以在湖边钓[@鱼@]。
+Wǒmen kěyǐ zài húbiān diào [@yú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>47198</StartMilliseconds>
+    <EndMilliseconds>50033</EndMilliseconds>
+    <Text>我们可以在湖边钓鱼。
+Wǒmen kěyǐ zài húbiān diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>50034</StartMilliseconds>
+    <EndMilliseconds>51105</EndMilliseconds>
+    <Text>我们可以像鸟儿一样唱歌。
+Wǒmen kěyǐ xiàng niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>51106</StartMilliseconds>
+    <EndMilliseconds>51681</EndMilliseconds>
+    <Text>[@我们@]可以像鸟儿一样唱歌。
+[@Wǒmen@] kěyǐ xiàng niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>51682</StartMilliseconds>
+    <EndMilliseconds>52109</EndMilliseconds>
+    <Text>我们可以像鸟儿一样唱歌。
+Wǒmen kěyǐ xiàng niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>52110</StartMilliseconds>
+    <EndMilliseconds>52492</EndMilliseconds>
+    <Text>我们[@可以@]像鸟儿一样唱歌。
+Wǒmen [@kěyǐ@] xiàng niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>52493</StartMilliseconds>
+    <EndMilliseconds>52830</EndMilliseconds>
+    <Text>我们可以[@像@]鸟儿一样唱歌。
+Wǒmen kěyǐ [@xiàng@] niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>52831</StartMilliseconds>
+    <EndMilliseconds>53069</EndMilliseconds>
+    <Text>我们可以像鸟儿一样唱歌。
+Wǒmen kěyǐ xiàng niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>53070</StartMilliseconds>
+    <EndMilliseconds>53736</EndMilliseconds>
+    <Text>我们可以像[@鸟儿@]一样唱歌。
+Wǒmen kěyǐ xiàng [@niǎor@] yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>53737</StartMilliseconds>
+    <EndMilliseconds>54483</EndMilliseconds>
+    <Text>我们可以像鸟儿[@一样@]唱歌。
+Wǒmen kěyǐ xiàng niǎor [@yíyàng@] chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>54484</StartMilliseconds>
+    <EndMilliseconds>54925</EndMilliseconds>
+    <Text>我们可以像鸟儿一样[@唱@]歌。
+Wǒmen kěyǐ xiàng niǎor yíyàng [@chàng@] gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>54926</StartMilliseconds>
+    <EndMilliseconds>55313</EndMilliseconds>
+    <Text>我们可以像鸟儿一样唱[@歌@]。
+Wǒmen kěyǐ xiàng niǎor yíyàng chàng [@gē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>55314</StartMilliseconds>
+    <EndMilliseconds>56300</EndMilliseconds>
+    <Text>我们可以像鸟儿一样唱歌。
+Wǒmen kěyǐ xiàng niǎor yíyàng chàng gē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>56301</StartMilliseconds>
+    <EndMilliseconds>57521</EndMilliseconds>
+    <Text>我们可以在公园骑自行车。
+Wǒmen kěyǐ zài gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>57522</StartMilliseconds>
+    <EndMilliseconds>58157</EndMilliseconds>
+    <Text>[@我们@]可以在公园骑自行车。
+[@Wǒmen@] kěyǐ zài gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>58158</StartMilliseconds>
+    <EndMilliseconds>58383</EndMilliseconds>
+    <Text>我们可以在公园骑自行车。
+Wǒmen kěyǐ zài gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>58384</StartMilliseconds>
+    <EndMilliseconds>58881</EndMilliseconds>
+    <Text>我们[@可以@]在公园骑自行车。
+Wǒmen [@kěyǐ@] zài gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>58882</StartMilliseconds>
+    <EndMilliseconds>59235</EndMilliseconds>
+    <Text>我们可以[@在@]公园骑自行车。
+Wǒmen kěyǐ [@zài@] gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>59236</StartMilliseconds>
+    <EndMilliseconds>59960</EndMilliseconds>
+    <Text>我们可以在[@公园@]骑自行车。
+Wǒmen kěyǐ zài [@gōngyuán@] qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>59961</StartMilliseconds>
+    <EndMilliseconds>60234</EndMilliseconds>
+    <Text>我们可以在公园骑自行车。
+Wǒmen kěyǐ zài gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>60235</StartMilliseconds>
+    <EndMilliseconds>60648</EndMilliseconds>
+    <Text>我们可以在公园[@骑@]自行车。
+Wǒmen kěyǐ zài gōngyuán [@qí@] zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>60649</StartMilliseconds>
+    <EndMilliseconds>61564</EndMilliseconds>
+    <Text>我们可以在公园骑[@自行车@]。
+Wǒmen kěyǐ zài gōngyuán qí [@zìxíngchē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>61565</StartMilliseconds>
+    <EndMilliseconds>63433</EndMilliseconds>
+    <Text>我们可以在公园骑自行车。
+Wǒmen kěyǐ zài gōngyuán qí zìxíngchē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>63434</StartMilliseconds>
+    <EndMilliseconds>63853</EndMilliseconds>
+    <Text>我们是最好的朋友！
+Wǒmen shì zuì hǎo de péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>63854</StartMilliseconds>
+    <EndMilliseconds>64319</EndMilliseconds>
+    <Text>[@我们@]是最好的朋友！
+[@Wǒmen@] shì zuì hǎo de péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>64320</StartMilliseconds>
+    <EndMilliseconds>64645</EndMilliseconds>
+    <Text>我们[@是@]最好的朋友！
+Wǒmen [@shì@] zuì hǎo de péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>64646</StartMilliseconds>
+    <EndMilliseconds>64987</EndMilliseconds>
+    <Text>我们是最好的朋友！
+Wǒmen shì zuì hǎo de péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>64988</StartMilliseconds>
+    <EndMilliseconds>65368</EndMilliseconds>
+    <Text>我们是[@最@]好的朋友！
+Wǒmen shì [@zuì@] hǎo de péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>65369</StartMilliseconds>
+    <EndMilliseconds>65733</EndMilliseconds>
+    <Text>我们是最[@好@]的朋友！
+Wǒmen shì zuì [@hǎo@] de péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>65734</StartMilliseconds>
+    <EndMilliseconds>65935</EndMilliseconds>
+    <Text>我们是最好[@的@]朋友！
+Wǒmen shì zuì hǎo [@de@] péngyou!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>65936</StartMilliseconds>
+    <EndMilliseconds>66553</EndMilliseconds>
+    <Text>我们是最好的[@朋友@]！
+Wǒmen shì zuì hǎo de [@péngyou@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>66554</StartMilliseconds>
+    <EndMilliseconds>70730</EndMilliseconds>
+    <Text>我们是最好的朋友！
+Wǒmen shì zuì hǎo de péngyou!</Text>
+  </Paragraph>
+</Subtitle>

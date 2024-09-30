@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10453</StartMilliseconds>
+    <EndMilliseconds>19198</EndMilliseconds>
+    <Text>妈妈：我今天要上班。
+māma: Wǒ jīntiān yào shàng bān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>19198</StartMilliseconds>
+    <EndMilliseconds>19399</EndMilliseconds>
+    <Text>妈妈：[@我@]今天要上班。
+māma: [@Wǒ@] jīntiān yào shàng bān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>19399</StartMilliseconds>
+    <EndMilliseconds>20103</EndMilliseconds>
+    <Text>妈妈：我[@今天@]要上班。
+māma: Wǒ [@jīntiān@] yào shàng bān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>20103</StartMilliseconds>
+    <EndMilliseconds>20348</EndMilliseconds>
+    <Text>妈妈：我今天[@要@]上班。
+māma: Wǒ jīntiān [@yào@] shàng bān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>20348</StartMilliseconds>
+    <EndMilliseconds>20582</EndMilliseconds>
+    <Text>妈妈：我今天要[@上@]班。
+māma: Wǒ jīntiān yào [@shàng@] bān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>20582</StartMilliseconds>
+    <EndMilliseconds>21052</EndMilliseconds>
+    <Text>妈妈：我今天要上[@班@]。
+māma: Wǒ jīntiān yào shàng [@bān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>21052</StartMilliseconds>
+    <EndMilliseconds>21369</EndMilliseconds>
+    <Text>妈妈：我今天要上班。
+māma: Wǒ jīntiān yào shàng bān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21369</StartMilliseconds>
+    <EndMilliseconds>21744</EndMilliseconds>
+    <Text>里安：今天是星期六，妈妈。
+Lǐ'ān: Jīntiān shì xīngqīliù, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21744</StartMilliseconds>
+    <EndMilliseconds>22418</EndMilliseconds>
+    <Text>里安：[@今天@]是星期六，妈妈。
+Lǐ'ān: [@Jīntiān@] shì xīngqīliù, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22418</StartMilliseconds>
+    <EndMilliseconds>22624</EndMilliseconds>
+    <Text>里安：今天[@是@]星期六，妈妈。
+Lǐ'ān: Jīntiān [@shì@] xīngqīliù, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22624</StartMilliseconds>
+    <EndMilliseconds>23411</EndMilliseconds>
+    <Text>里安：今天是[@星期六@]，妈妈。
+Lǐ'ān: Jīntiān shì [@xīngqīliù@], māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23411</StartMilliseconds>
+    <EndMilliseconds>24302</EndMilliseconds>
+    <Text>里安：今天是星期六，[@妈妈@]。
+Lǐ'ān: Jīntiān shì xīngqīliù, [@māma@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24218</StartMilliseconds>
+    <EndMilliseconds>24720</EndMilliseconds>
+    <Text>里安：今天是星期六，妈妈。
+Lǐ'ān: Jīntiān shì xīngqīliù, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24720</StartMilliseconds>
+    <EndMilliseconds>25735</EndMilliseconds>
+    <Text>妈妈：偶尔一次而已。
+māma: Ǒu'ěr yí cì éryǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25735</StartMilliseconds>
+    <EndMilliseconds>26367</EndMilliseconds>
+    <Text>妈妈：[@偶尔@]一次而已。
+māma: [@Ǒu'ěr@] yí cì éryǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>26367</StartMilliseconds>
+    <EndMilliseconds>26504</EndMilliseconds>
+    <Text>妈妈：偶尔[@一@]次而已。
+māma: Ǒu'ěr [@yí@] cì éryǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>26504</StartMilliseconds>
+    <EndMilliseconds>26668</EndMilliseconds>
+    <Text>妈妈：偶尔一[@次@]而已。
+māma: Ǒu'ěr yí [@cì@] éryǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>26668</StartMilliseconds>
+    <EndMilliseconds>27669</EndMilliseconds>
+    <Text>妈妈：偶尔一次[@而已@]。
+māma: Ǒu'ěr yí cì [@éryǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>27669</StartMilliseconds>
+    <EndMilliseconds>29169</EndMilliseconds>
+    <Text>妈妈：偶尔一次而已。
+māma: Ǒu'ěr yí cì éryǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>29169</StartMilliseconds>
+    <EndMilliseconds>30512</EndMilliseconds>
+    <Text>里奇：爸爸，你看上去不太好啊。
+Lǐqí: Bàba, nǐ kàn shàngqu bú tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>30512</StartMilliseconds>
+    <EndMilliseconds>31470</EndMilliseconds>
+    <Text>里奇：[@爸爸@]，你看上去不太好啊。
+Lǐqí: [@Bàba@], nǐ kàn shàngqu bú tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>31470</StartMilliseconds>
+    <EndMilliseconds>31875</EndMilliseconds>
+    <Text>里奇：爸爸，[@你@]看上去不太好啊。
+Lǐqí: Bàba, [@nǐ@] kàn shàngqu bú tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>31875</StartMilliseconds>
+    <EndMilliseconds>32118</EndMilliseconds>
+    <Text>里奇：爸爸，你[@看@]上去不太好啊。
+Lǐqí: Bàba, nǐ [@kàn@] shàngqu bú tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>32118</StartMilliseconds>
+    <EndMilliseconds>32811</EndMilliseconds>
+    <Text>里奇：爸爸，你看[@上去@]不太好啊。
+Lǐqí: Bàba, nǐ kàn [@shàngqu@] bú tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32811</StartMilliseconds>
+    <EndMilliseconds>32972</EndMilliseconds>
+    <Text>里奇：爸爸，你看上去[@不@]太好啊。
+Lǐqí: Bàba, nǐ kàn shàngqu [@bú@] tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>32972</StartMilliseconds>
+    <EndMilliseconds>33208</EndMilliseconds>
+    <Text>里奇：爸爸，你看上去不[@太@]好啊。
+Lǐqí: Bàba, nǐ kàn shàngqu bú [@tài@] hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>33208</StartMilliseconds>
+    <EndMilliseconds>33489</EndMilliseconds>
+    <Text>里奇：爸爸，你看上去不太[@好@]啊。
+Lǐqí: Bàba, nǐ kàn shàngqu bú tài [@hǎo@] a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>33489</StartMilliseconds>
+    <EndMilliseconds>34218</EndMilliseconds>
+    <Text>里奇：爸爸，你看上去不太好[@啊@]。
+Lǐqí: Bàba, nǐ kàn shàngqu bú tài hǎo [@a@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>34218</StartMilliseconds>
+    <EndMilliseconds>34558</EndMilliseconds>
+    <Text>里奇：爸爸，你看上去不太好啊。
+Lǐqí: Bàba, nǐ kàn shàngqu bú tài hǎo a.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>34558</StartMilliseconds>
+    <EndMilliseconds>35969</EndMilliseconds>
+    <Text>爸爸：是的，我感觉很不好。
+bàba: Shìde, wǒ gǎnjué hěn bù hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>35969</StartMilliseconds>
+    <EndMilliseconds>36820</EndMilliseconds>
+    <Text>爸爸：[@是的@]，我感觉很不好。
+bàba: [@Shìde@], wǒ gǎnjué hěn bù hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36826</StartMilliseconds>
+    <EndMilliseconds>37027</EndMilliseconds>
+    <Text>爸爸：是的，[@我@]感觉很不好。
+bàba: Shìde, [@wǒ@] gǎnjué hěn bù hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>37027</StartMilliseconds>
+    <EndMilliseconds>37635</EndMilliseconds>
+    <Text>爸爸：是的，我[@感觉@]很不好。
+bàba: Shìde, wǒ [@gǎnjué@] hěn bù hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37635</StartMilliseconds>
+    <EndMilliseconds>37784</EndMilliseconds>
+    <Text>爸爸：是的，我感觉[@很@]不好。
+bàba: Shìde, wǒ gǎnjué [@hěn@] bù hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>37784</StartMilliseconds>
+    <EndMilliseconds>38072</EndMilliseconds>
+    <Text>爸爸：是的，我感觉很[@不@]好。
+bàba: Shìde, wǒ gǎnjué hěn [@bù@] hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38072</StartMilliseconds>
+    <EndMilliseconds>38776</EndMilliseconds>
+    <Text>爸爸：是的，我感觉很不[@好@]。
+bàba: Shìde, wǒ gǎnjué hěn bù [@hǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>38776</StartMilliseconds>
+    <EndMilliseconds>39768</EndMilliseconds>
+    <Text>爸爸：是的，我感觉很不好。
+bàba: Shìde, wǒ gǎnjué hěn bù hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>39768</StartMilliseconds>
+    <EndMilliseconds>41470</EndMilliseconds>
+    <Text>妈妈：你发烧了，亲爱的。
+māma: Nǐ fāshāo le, qīn'àide.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>41470</StartMilliseconds>
+    <EndMilliseconds>41659</EndMilliseconds>
+    <Text>妈妈：[@你@]发烧了，亲爱的。
+māma: [@Nǐ@] fāshāo le, qīn'àide.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>41659</StartMilliseconds>
+    <EndMilliseconds>42179</EndMilliseconds>
+    <Text>妈妈：你[@发烧@]了，亲爱的。
+māma: Nǐ [@fāshāo@] le, qīn'àide.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>42179</StartMilliseconds>
+    <EndMilliseconds>42478</EndMilliseconds>
+    <Text>妈妈：你发烧[@了@]，亲爱的。
+māma: Nǐ fāshāo [@le@], qīn'àide.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>42478</StartMilliseconds>
+    <EndMilliseconds>43319</EndMilliseconds>
+    <Text>妈妈：你发烧了，[@亲爱的@]。
+māma: Nǐ fāshāo le, [@qīn'àide@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>43319</StartMilliseconds>
+    <EndMilliseconds>44744</EndMilliseconds>
+    <Text>妈妈：你发烧了，亲爱的。
+māma: Nǐ fāshāo le, qīn'àide.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>44744</StartMilliseconds>
+    <EndMilliseconds>45513</EndMilliseconds>
+    <Text>妈妈：你需要多休息。
+māma: Nǐ xūyào duō xiūxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>45513</StartMilliseconds>
+    <EndMilliseconds>45758</EndMilliseconds>
+    <Text>妈妈：[@你@]需要多休息。
+māma: [@Nǐ@] xūyào duō xiūxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>45758</StartMilliseconds>
+    <EndMilliseconds>46297</EndMilliseconds>
+    <Text>妈妈：你[@需要@]多休息。
+māma: Nǐ [@xūyào@] duō xiūxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>46297</StartMilliseconds>
+    <EndMilliseconds>46485</EndMilliseconds>
+    <Text>妈妈：你需要[@多@]休息。
+māma: Nǐ xūyào [@duō@] xiūxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>46485</StartMilliseconds>
+    <EndMilliseconds>47248</EndMilliseconds>
+    <Text>妈妈：你需要多[@休息@]。
+māma: Nǐ xūyào duō [@xiūxi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>47248</StartMilliseconds>
+    <EndMilliseconds>47502</EndMilliseconds>
+    <Text>妈妈：你需要多休息。
+māma: Nǐ xūyào duō xiūxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>47502</StartMilliseconds>
+    <EndMilliseconds>48099</EndMilliseconds>
+    <Text>里奇：别担心。
+Lǐqí: Bié dānxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>48099</StartMilliseconds>
+    <EndMilliseconds>48335</EndMilliseconds>
+    <Text>里奇：[@别@]担心。
+Lǐqí: [@Bié@] dānxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>48335</StartMilliseconds>
+    <EndMilliseconds>48835</EndMilliseconds>
+    <Text>里奇：别[@担心@]。
+Lǐqí: Bié [@dānxīn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>48835</StartMilliseconds>
+    <EndMilliseconds>48918</EndMilliseconds>
+    <Text>里奇：别担心。
+Lǐqí: Bié dānxīn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>48918</StartMilliseconds>
+    <EndMilliseconds>49025</EndMilliseconds>
+    <Text>里奇：我们会好好照顾爸爸的。
+Lǐqí: Wǒmen huì hǎohāor zhàogù bàba de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>49025</StartMilliseconds>
+    <EndMilliseconds>49482</EndMilliseconds>
+    <Text>里奇：[@我们@]会好好照顾爸爸的。
+Lǐqí: [@Wǒmen@] huì hǎohāor zhàogù bàba de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>49482</StartMilliseconds>
+    <EndMilliseconds>49956</EndMilliseconds>
+    <Text>里奇：我们[@会@]好好照顾爸爸的。
+Lǐqí: Wǒmen [@huì@] hǎohāor zhàogù bàba de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>49956</StartMilliseconds>
+    <EndMilliseconds>50419</EndMilliseconds>
+    <Text>里奇：我们会[@好好@]照顾爸爸的。
+Lǐqí: Wǒmen huì [@hǎohāor@] zhàogù bàba de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>50419</StartMilliseconds>
+    <EndMilliseconds>50946</EndMilliseconds>
+    <Text>里奇：我们会好好[@照顾@]爸爸的。
+Lǐqí: Wǒmen huì hǎohāor [@zhàogù@] bàba de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>50946</StartMilliseconds>
+    <EndMilliseconds>51285</EndMilliseconds>
+    <Text>里奇：我们会好好照顾[@爸爸@]的。
+Lǐqí: Wǒmen huì hǎohāor zhàogù [@bàba@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>51285</StartMilliseconds>
+    <EndMilliseconds>51785</EndMilliseconds>
+    <Text>里奇：我们会好好照顾爸爸[@的@]。
+Lǐqí: Wǒmen huì hǎohāor zhàogù bàba [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>51785</StartMilliseconds>
+    <EndMilliseconds>52934</EndMilliseconds>
+    <Text>里奇：我们会好好照顾爸爸的。
+Lǐqí: Wǒmen huì hǎohāor zhàogù bàba de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>52934</StartMilliseconds>
+    <EndMilliseconds>54052</EndMilliseconds>
+    <Text>妈妈：也许我应该留在家里。
+māma: Yěxǔ wǒ yīnggāi liúzài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>54052</StartMilliseconds>
+    <EndMilliseconds>54954</EndMilliseconds>
+    <Text>妈妈：[@也许@]我应该留在家里。
+māma: [@Yěxǔ@] wǒ yīnggāi liúzài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>54954</StartMilliseconds>
+    <EndMilliseconds>55087</EndMilliseconds>
+    <Text>妈妈：也许[@我@]应该留在家里。
+māma: Yěxǔ [@wǒ@] yīnggāi liúzài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>55087</StartMilliseconds>
+    <EndMilliseconds>55487</EndMilliseconds>
+    <Text>妈妈：也许我[@应该@]留在家里。
+māma: Yěxǔ wǒ [@yīnggāi@] liúzài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>55487</StartMilliseconds>
+    <EndMilliseconds>55885</EndMilliseconds>
+    <Text>妈妈：也许我应该[@留在@]家里。
+māma: Yěxǔ wǒ yīnggāi [@liúzài@] jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>55885</StartMilliseconds>
+    <EndMilliseconds>56118</EndMilliseconds>
+    <Text>妈妈：也许我应该留在[@家@]里。
+māma: Yěxǔ wǒ yīnggāi liúzài [@jiā@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>56118</StartMilliseconds>
+    <EndMilliseconds>56585</EndMilliseconds>
+    <Text>妈妈：也许我应该留在家[@里@]。
+māma: Yěxǔ wǒ yīnggāi liúzài jiā [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>56585</StartMilliseconds>
+    <EndMilliseconds>56880</EndMilliseconds>
+    <Text>妈妈：也许我应该留在家里。
+māma: Yěxǔ wǒ yīnggāi liúzài jiā li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>56880</StartMilliseconds>
+    <EndMilliseconds>57496</EndMilliseconds>
+    <Text>里奇：把爸爸交给我们吧。
+Lǐqí: Bǎ bàba jiāogěi wǒmen ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>57496</StartMilliseconds>
+    <EndMilliseconds>57735</EndMilliseconds>
+    <Text>里奇：[@把@]爸爸交给我们吧。
+Lǐqí: [@Bǎ@] bàba jiāogěi wǒmen ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>57735</StartMilliseconds>
+    <EndMilliseconds>58556</EndMilliseconds>
+    <Text>里奇：把[@爸爸@]交给我们吧。
+Lǐqí: Bǎ [@bàba@] jiāogěi wǒmen ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>58556</StartMilliseconds>
+    <EndMilliseconds>58985</EndMilliseconds>
+    <Text>里奇：把爸爸[@交给@]我们吧。
+Lǐqí: Bǎ bàba [@jiāogěi@] wǒmen ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>58985</StartMilliseconds>
+    <EndMilliseconds>59235</EndMilliseconds>
+    <Text>里奇：把爸爸交给[@我们@]吧。
+Lǐqí: Bǎ bàba jiāogěi [@wǒmen@] ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>59235</StartMilliseconds>
+    <EndMilliseconds>59536</EndMilliseconds>
+    <Text>里奇：把爸爸交给我们[@吧@]。
+Lǐqí: Bǎ bàba jiāogěi wǒmen [@ba@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>59536</StartMilliseconds>
+    <EndMilliseconds>69035</EndMilliseconds>
+    <Text>里奇：把爸爸交给我们吧。
+Lǐqí: Bǎ bàba jiāogěi wǒmen ba.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>69035</StartMilliseconds>
+    <EndMilliseconds>73183</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>73183</StartMilliseconds>
+    <EndMilliseconds>73885</EndMilliseconds>
+    <Text>里奇：[@爸爸@]？爸爸？爸爸？
+Lǐqí: [@Bàba@]? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>73885</StartMilliseconds>
+    <EndMilliseconds>75762</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>75762</StartMilliseconds>
+    <EndMilliseconds>76885</EndMilliseconds>
+    <Text>里奇：爸爸？[@爸爸@]？爸爸？
+Lǐqí: Bàba? [@Bàba@]? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>76887</StartMilliseconds>
+    <EndMilliseconds>78572</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>78572</StartMilliseconds>
+    <EndMilliseconds>79466</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？[@爸爸@]？
+Lǐqí: Bàba? Bàba? [@Bàba@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>79466</StartMilliseconds>
+    <EndMilliseconds>79874</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>79875</StartMilliseconds>
+    <EndMilliseconds>80069</EndMilliseconds>
+    <Text>里奇：你在睡觉吗？
+Lǐqí: Nǐ zài shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>80069</StartMilliseconds>
+    <EndMilliseconds>80272</EndMilliseconds>
+    <Text>里奇：[@你@]在睡觉吗？
+Lǐqí: [@Nǐ@] zài shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>80272</StartMilliseconds>
+    <EndMilliseconds>80629</EndMilliseconds>
+    <Text>里奇：你[@在@]睡觉吗？
+Lǐqí: Nǐ [@zài@] shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>80629</StartMilliseconds>
+    <EndMilliseconds>81266</EndMilliseconds>
+    <Text>里奇：你在[@睡觉@]吗？
+Lǐqí: Nǐ zài [@shuìjiào@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>81267</StartMilliseconds>
+    <EndMilliseconds>82018</EndMilliseconds>
+    <Text>里奇：你在睡觉[@吗@]？
+Lǐqí: Nǐ zài shuìjiào [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>82018</StartMilliseconds>
+    <EndMilliseconds>82253</EndMilliseconds>
+    <Text>里奇：你在睡觉吗？
+Lǐqí: Nǐ zài shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>82253</StartMilliseconds>
+    <EndMilliseconds>82929</EndMilliseconds>
+    <Text>爸爸：我在睡觉，儿子。
+bàba: Wǒ zài shuìjiào, érzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>82929</StartMilliseconds>
+    <EndMilliseconds>83173</EndMilliseconds>
+    <Text>爸爸：[@我@]在睡觉，儿子。
+bàba: [@Wǒ@] zài shuìjiào, érzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>83173</StartMilliseconds>
+    <EndMilliseconds>83491</EndMilliseconds>
+    <Text>爸爸：我[@在@]睡觉，儿子。
+bàba: Wǒ [@zài@] shuìjiào, érzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>83491</StartMilliseconds>
+    <EndMilliseconds>84295</EndMilliseconds>
+    <Text>爸爸：我在[@睡觉@]，儿子。
+bàba: Wǒ zài [@shuìjiào@], érzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>84296</StartMilliseconds>
+    <EndMilliseconds>84862</EndMilliseconds>
+    <Text>爸爸：我在睡觉，[@儿子@]。
+bàba: Wǒ zài shuìjiào, [@érzi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>84862</StartMilliseconds>
+    <EndMilliseconds>85769</EndMilliseconds>
+    <Text>爸爸：我在睡觉，儿子。
+bàba: Wǒ zài shuìjiào, érzi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>85769</StartMilliseconds>
+    <EndMilliseconds>86791</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，就叫我，好吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>86791</StartMilliseconds>
+    <EndMilliseconds>87561</EndMilliseconds>
+    <Text>里奇：[@如果@]你有什么需要，就叫我，好吗？
+Lǐqí: [@Rúguǒ@] nǐ yǒu shénme xūyào, jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>87561</StartMilliseconds>
+    <EndMilliseconds>87749</EndMilliseconds>
+    <Text>里奇：如果[@你@]有什么需要，就叫我，好吗？
+Lǐqí: Rúguǒ [@nǐ@] yǒu shénme xūyào, jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>87749</StartMilliseconds>
+    <EndMilliseconds>87974</EndMilliseconds>
+    <Text>里奇：如果你[@有@]什么需要，就叫我，好吗？
+Lǐqí: Rúguǒ nǐ [@yǒu@] shénme xūyào, jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>87974</StartMilliseconds>
+    <EndMilliseconds>88206</EndMilliseconds>
+    <Text>里奇：如果你有[@什么@]需要，就叫我，好吗？
+Lǐqí: Rúguǒ nǐ yǒu [@shénme@] xūyào, jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>88206</StartMilliseconds>
+    <EndMilliseconds>88885</EndMilliseconds>
+    <Text>里奇：如果你有什么[@需要@]，就叫我，好吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme [@xūyào@], jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>88885</StartMilliseconds>
+    <EndMilliseconds>89011</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，[@就@]叫我，好吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, [@jiù@] jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>89011</StartMilliseconds>
+    <EndMilliseconds>89268</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，就[@叫@]我，好吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, jiù [@jiào@] wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>89268</StartMilliseconds>
+    <EndMilliseconds>89768</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，就叫[@我@]，好吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, jiù jiào [@wǒ@], hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>89768</StartMilliseconds>
+    <EndMilliseconds>90068</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，就叫我，[@好@]吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, jiù jiào wǒ, [@hǎo@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>90068</StartMilliseconds>
+    <EndMilliseconds>90568</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，就叫我，好[@吗@]？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, jiù jiào wǒ, hǎo [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>90568</StartMilliseconds>
+    <EndMilliseconds>90816</EndMilliseconds>
+    <Text>里奇：如果你有什么需要，就叫我，好吗？
+Lǐqí: Rúguǒ nǐ yǒu shénme xūyào, jiù jiào wǒ, hǎo ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>90816</StartMilliseconds>
+    <EndMilliseconds>91362</EndMilliseconds>
+    <Text>爸爸：好的。
+bàba: Hǎode.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>91362</StartMilliseconds>
+    <EndMilliseconds>92418</EndMilliseconds>
+    <Text>爸爸：[@好的@]。
+bàba: [@Hǎode@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>92418</StartMilliseconds>
+    <EndMilliseconds>98544</EndMilliseconds>
+    <Text>爸爸：好的。
+bàba: Hǎode.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>98544</StartMilliseconds>
+    <EndMilliseconds>99404</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>99404</StartMilliseconds>
+    <EndMilliseconds>100418</EndMilliseconds>
+    <Text>里奇：[@爸爸@]？爸爸？爸爸？
+Lǐqí: [@Bàba@]? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>100418</StartMilliseconds>
+    <EndMilliseconds>101841</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>101841</StartMilliseconds>
+    <EndMilliseconds>103021</EndMilliseconds>
+    <Text>里奇：爸爸？[@爸爸@]？爸爸？
+Lǐqí: Bàba? [@Bàba@]? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>103021</StartMilliseconds>
+    <EndMilliseconds>104520</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>104520</StartMilliseconds>
+    <EndMilliseconds>105104</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？[@爸爸@]？
+Lǐqí: Bàba? Bàba? [@Bàba@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>105104</StartMilliseconds>
+    <EndMilliseconds>105377</EndMilliseconds>
+    <Text>里奇：爸爸？爸爸？爸爸？
+Lǐqí: Bàba? Bàba? Bàba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>105377</StartMilliseconds>
+    <EndMilliseconds>105745</EndMilliseconds>
+    <Text>里奇：你在睡觉吗？
+Lǐqí: Nǐ zài shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>105745</StartMilliseconds>
+    <EndMilliseconds>105952</EndMilliseconds>
+    <Text>里奇：[@你@]在睡觉吗？
+Lǐqí: [@Nǐ@] zài shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>105952</StartMilliseconds>
+    <EndMilliseconds>106202</EndMilliseconds>
+    <Text>里奇：你[@在@]睡觉吗？
+Lǐqí: Nǐ [@zài@] shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>106202</StartMilliseconds>
+    <EndMilliseconds>106760</EndMilliseconds>
+    <Text>里奇：你在[@睡觉@]吗？
+Lǐqí: Nǐ zài [@shuìjiào@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>106760</StartMilliseconds>
+    <EndMilliseconds>107502</EndMilliseconds>
+    <Text>里奇：你在睡觉[@吗@]？
+Lǐqí: Nǐ zài shuìjiào [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>107502</StartMilliseconds>
+    <EndMilliseconds>108972</EndMilliseconds>
+    <Text>里奇：你在睡觉吗？
+Lǐqí: Nǐ zài shuìjiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>108972</StartMilliseconds>
+    <EndMilliseconds>110921</EndMilliseconds>
+    <Text>里安：我们给你拿来了茶和果汁。
+Lǐ'ān: Wǒmen gěi nǐ nálai le chá hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>110921</StartMilliseconds>
+    <EndMilliseconds>111295</EndMilliseconds>
+    <Text>里安：[@我们@]给你拿来了茶和果汁。
+Lǐ'ān: [@Wǒmen@] gěi nǐ nálai le chá hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>111295</StartMilliseconds>
+    <EndMilliseconds>111486</EndMilliseconds>
+    <Text>里安：我们[@给@]你拿来了茶和果汁。
+Lǐ'ān: Wǒmen [@gěi@] nǐ nálai le chá hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>111486</StartMilliseconds>
+    <EndMilliseconds>111736</EndMilliseconds>
+    <Text>里安：我们给[@你@]拿来了茶和果汁。
+Lǐ'ān: Wǒmen gěi [@nǐ@] nálai le chá hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>111736</StartMilliseconds>
+    <EndMilliseconds>112039</EndMilliseconds>
+    <Text>里安：我们给你[@拿来@]了茶和果汁。
+Lǐ'ān: Wǒmen gěi nǐ [@nálai@] le chá hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>112039</StartMilliseconds>
+    <EndMilliseconds>112478</EndMilliseconds>
+    <Text>里安：我们给你拿来[@了@]茶和果汁。
+Lǐ'ān: Wǒmen gěi nǐ nálai [@le@] chá hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>112478</StartMilliseconds>
+    <EndMilliseconds>112926</EndMilliseconds>
+    <Text>里安：我们给你拿来了[@茶@]和果汁。
+Lǐ'ān: Wǒmen gěi nǐ nála le [@chá@] hé guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>112927</StartMilliseconds>
+    <EndMilliseconds>113170</EndMilliseconds>
+    <Text>里安：我们给你拿来了茶[@和@]果汁。
+Lǐ'ān: Wǒmen gěi nǐ nálai le chá [@hé@] guǒzhī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>113170</StartMilliseconds>
+    <EndMilliseconds>114335</EndMilliseconds>
+    <Text>里安：我们给你拿来了茶和[@果汁@]。
+Lǐ'ān: Wǒmen gěi nǐ nálai le chá hé [@guǒzhī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>114335</StartMilliseconds>
+    <EndMilliseconds>117085</EndMilliseconds>
+    <Text>里安：我们给你拿来了茶和果汁。
+Lǐ'ān: Wǒmen gěi nǐ nálai le chá hé guǒzhī.</Text>
+  </Paragraph>
+</Subtitle>

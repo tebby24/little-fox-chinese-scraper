@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9960</StartMilliseconds>
+    <EndMilliseconds>10370</EndMilliseconds>
+    <Text>我有长脖子。
+Wǒ yǒu cháng bózi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10370</StartMilliseconds>
+    <EndMilliseconds>10673</EndMilliseconds>
+    <Text>[@我@]有长脖子。
+[@Wǒ@] yǒu cháng bózi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>10673</StartMilliseconds>
+    <EndMilliseconds>11055</EndMilliseconds>
+    <Text>我[@有@]长脖子。
+Wǒ [@yǒu@] cháng bózi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11055</StartMilliseconds>
+    <EndMilliseconds>11625</EndMilliseconds>
+    <Text>我有[@长@]脖子。
+Wǒ yǒu [@cháng@] bózi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>11625</StartMilliseconds>
+    <EndMilliseconds>12369</EndMilliseconds>
+    <Text>我有长[@脖子@]。
+Wǒ yǒu cháng [@bózi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12369</StartMilliseconds>
+    <EndMilliseconds>14155</EndMilliseconds>
+    <Text>我有长脖子。
+Wǒ yǒu cháng bózi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14155</StartMilliseconds>
+    <EndMilliseconds>14305</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14305</StartMilliseconds>
+    <EndMilliseconds>14642</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>14642</StartMilliseconds>
+    <EndMilliseconds>14985</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>14985</StartMilliseconds>
+    <EndMilliseconds>15704</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>15705</StartMilliseconds>
+    <EndMilliseconds>18153</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>18153</StartMilliseconds>
+    <EndMilliseconds>18276</EndMilliseconds>
+    <Text>我是长颈鹿。
+Wǒ shì chángjǐnglù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18276</StartMilliseconds>
+    <EndMilliseconds>18460</EndMilliseconds>
+    <Text>[@我@]是长颈鹿。
+[@Wǒ@] shì chángjǐnglù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>18460</StartMilliseconds>
+    <EndMilliseconds>19202</EndMilliseconds>
+    <Text>我[@是@]长颈鹿。
+Wǒ [@shì@] chángjǐnglù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>19202</StartMilliseconds>
+    <EndMilliseconds>20527</EndMilliseconds>
+    <Text>我是[@长颈鹿@]。
+Wǒ shì [@chángjǐnglù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20527</StartMilliseconds>
+    <EndMilliseconds>26608</EndMilliseconds>
+    <Text>我是长颈鹿。
+Wǒ shì chángjǐnglù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>26608</StartMilliseconds>
+    <EndMilliseconds>26829</EndMilliseconds>
+    <Text>我有长鼻子。
+Wǒ yǒu cháng bízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>26829</StartMilliseconds>
+    <EndMilliseconds>27095</EndMilliseconds>
+    <Text>[@我@]有长鼻子。
+[@Wǒ@] yǒu cháng bízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>27095</StartMilliseconds>
+    <EndMilliseconds>27462</EndMilliseconds>
+    <Text>我[@有@]长鼻子。
+Wǒ [@yǒu@] cháng bízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>27462</StartMilliseconds>
+    <EndMilliseconds>28088</EndMilliseconds>
+    <Text>我有[@长@]鼻子。
+Wǒ yǒu [@cháng@] bízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>28088</StartMilliseconds>
+    <EndMilliseconds>28946</EndMilliseconds>
+    <Text>我有长[@鼻子@]。
+Wǒ yǒu cháng [@bízi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>28946</StartMilliseconds>
+    <EndMilliseconds>30479</EndMilliseconds>
+    <Text>我有长鼻子。
+Wǒ yǒu cháng bízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>30479</StartMilliseconds>
+    <EndMilliseconds>30629</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>30629</StartMilliseconds>
+    <EndMilliseconds>31006</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>31006</StartMilliseconds>
+    <EndMilliseconds>31333</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>31333</StartMilliseconds>
+    <EndMilliseconds>32023</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>32023</StartMilliseconds>
+    <EndMilliseconds>34368</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>34368</StartMilliseconds>
+    <EndMilliseconds>34531</EndMilliseconds>
+    <Text>我是大象！
+Wǒ shì dàxiàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>34531</StartMilliseconds>
+    <EndMilliseconds>34781</EndMilliseconds>
+    <Text>[@我@]是大象！
+[@Wǒ@] shì dàxiàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>34781</StartMilliseconds>
+    <EndMilliseconds>35264</EndMilliseconds>
+    <Text>我[@是@]大象！
+Wǒ [@shì@] dàxiàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>35264</StartMilliseconds>
+    <EndMilliseconds>36291</EndMilliseconds>
+    <Text>我是[@大象@]！
+Wǒ shì [@dàxiàng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36291</StartMilliseconds>
+    <EndMilliseconds>42860</EndMilliseconds>
+    <Text>我是大象！
+Wǒ shì dàxiàng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>42860</StartMilliseconds>
+    <EndMilliseconds>43259</EndMilliseconds>
+    <Text>我有很多尖牙。
+Wǒ yǒu hěn duō jiānyá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>43259</StartMilliseconds>
+    <EndMilliseconds>43577</EndMilliseconds>
+    <Text>[@我@]有很多尖牙。
+[@Wǒ@] yǒu hěn duō jiānyá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>43577</StartMilliseconds>
+    <EndMilliseconds>43972</EndMilliseconds>
+    <Text>我[@有@]很多尖牙。
+Wǒ [@yǒu@] hěn duō jiānyá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>43972</StartMilliseconds>
+    <EndMilliseconds>44413</EndMilliseconds>
+    <Text>我有[@很@]多尖牙。
+Wǒ yǒu [@hěn@] duō jiānyá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>44413</StartMilliseconds>
+    <EndMilliseconds>44687</EndMilliseconds>
+    <Text>我有很[@多@]尖牙。
+Wǒ yǒu hěn [@duō@] jiānyá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>44687</StartMilliseconds>
+    <EndMilliseconds>45652</EndMilliseconds>
+    <Text>我有很多[@尖牙@]。
+Wǒ yǒu hěn duō [@jiānyá@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>45652</StartMilliseconds>
+    <EndMilliseconds>47292</EndMilliseconds>
+    <Text>我有很多尖牙。
+Wǒ yǒu hěn duō jiānyá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>47292</StartMilliseconds>
+    <EndMilliseconds>47428</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>47428</StartMilliseconds>
+    <EndMilliseconds>47825</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>47825</StartMilliseconds>
+    <EndMilliseconds>48170</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>48170</StartMilliseconds>
+    <EndMilliseconds>48961</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>48961</StartMilliseconds>
+    <EndMilliseconds>51080</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>51080</StartMilliseconds>
+    <EndMilliseconds>51171</EndMilliseconds>
+    <Text>我是鳄鱼！
+Wǒ shì èyú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>51171</StartMilliseconds>
+    <EndMilliseconds>51457</EndMilliseconds>
+    <Text>[@我@]是鳄鱼！
+[@Wǒ@] shì èyú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>51457</StartMilliseconds>
+    <EndMilliseconds>51946</EndMilliseconds>
+    <Text>我[@是@]鳄鱼！
+Wǒ [@shì@] èyú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>51946</StartMilliseconds>
+    <EndMilliseconds>53021</EndMilliseconds>
+    <Text>我是[@鳄鱼@]！
+Wǒ shì [@èyú@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>53021</StartMilliseconds>
+    <EndMilliseconds>57851</EndMilliseconds>
+    <Text>我是鳄鱼！
+Wǒ shì èyú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>57851</StartMilliseconds>
+    <EndMilliseconds>58331</EndMilliseconds>
+    <Text>我的身上有条纹。
+Wǒ de shēnshang yǒu tiáowén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>58331</StartMilliseconds>
+    <EndMilliseconds>58626</EndMilliseconds>
+    <Text>[@我@]的身上有条纹。
+[@Wǒ@] de shēnshang yǒu tiáowén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>58626</StartMilliseconds>
+    <EndMilliseconds>58823</EndMilliseconds>
+    <Text>我[@的@]身上有条纹。
+Wǒ [@de@] shēnshang yǒu tiáowén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>58823</StartMilliseconds>
+    <EndMilliseconds>59693</EndMilliseconds>
+    <Text>我的[@身上@]有条纹。
+Wǒ de [@shēnshang@] yǒu tiáowén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>59693</StartMilliseconds>
+    <EndMilliseconds>60074</EndMilliseconds>
+    <Text>我的身上[@有@]条纹。
+Wǒ de shēnshang [@yǒu@] tiáowén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>60074</StartMilliseconds>
+    <EndMilliseconds>61286</EndMilliseconds>
+    <Text>我的身上有[@条纹@]。
+Wǒ de shēnshang yǒu [@tiáowén@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>61286</StartMilliseconds>
+    <EndMilliseconds>62472</EndMilliseconds>
+    <Text>我的身上有条纹。
+Wǒ de shēnshang yǒu tiáowén.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>62472</StartMilliseconds>
+    <EndMilliseconds>62589</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>62589</StartMilliseconds>
+    <EndMilliseconds>63052</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>63052</StartMilliseconds>
+    <EndMilliseconds>63396</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>63396</StartMilliseconds>
+    <EndMilliseconds>64194</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>64194</StartMilliseconds>
+    <EndMilliseconds>66438</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>66438</StartMilliseconds>
+    <EndMilliseconds>66522</EndMilliseconds>
+    <Text>我是斑马！
+Wǒ shì bānmǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>66522</StartMilliseconds>
+    <EndMilliseconds>66903</EndMilliseconds>
+    <Text>[@我@]是斑马！
+[@Wǒ@] shì bānmǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>66903</StartMilliseconds>
+    <EndMilliseconds>67607</EndMilliseconds>
+    <Text>我[@是@]斑马！
+Wǒ [@shì@] bānmǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>67607</StartMilliseconds>
+    <EndMilliseconds>68729</EndMilliseconds>
+    <Text>我是[@斑马@]！
+Wǒ shì [@bānmǎ@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>68729</StartMilliseconds>
+    <EndMilliseconds>76595</EndMilliseconds>
+    <Text>我是斑马！
+Wǒ shì bānmǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>76595</StartMilliseconds>
+    <EndMilliseconds>76965</EndMilliseconds>
+    <Text>我有很大的嘴。
+Wǒ yǒu hěn dà de zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>76965</StartMilliseconds>
+    <EndMilliseconds>77256</EndMilliseconds>
+    <Text>[@我@]有很大的嘴。
+[@Wǒ@] yǒu hěn dà de zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>77256</StartMilliseconds>
+    <EndMilliseconds>77623</EndMilliseconds>
+    <Text>我[@有@]很大的嘴。
+Wǒ [@yǒu@] hěn dà de zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>77623</StartMilliseconds>
+    <EndMilliseconds>77951</EndMilliseconds>
+    <Text>我有[@很@]大的嘴。
+Wǒ yǒu [@hěn@] dà de zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>77951</StartMilliseconds>
+    <EndMilliseconds>78465</EndMilliseconds>
+    <Text>我有很[@大@]的嘴。
+Wǒ yǒu hěn [@dà@] de zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>78465</StartMilliseconds>
+    <EndMilliseconds>78639</EndMilliseconds>
+    <Text>我有很大[@的@]嘴。
+Wǒ yǒu hěn dà [@de@] zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>78639</StartMilliseconds>
+    <EndMilliseconds>79669</EndMilliseconds>
+    <Text>我有很大的[@嘴@]。
+Wǒ yǒu hěn dà de [@zuǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>79669</StartMilliseconds>
+    <EndMilliseconds>80868</EndMilliseconds>
+    <Text>我有很大的嘴。
+Wǒ yǒu hěn dà de zuǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>80868</StartMilliseconds>
+    <EndMilliseconds>80979</EndMilliseconds>
+    <Text>我是谁？ 
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>80979</StartMilliseconds>
+    <EndMilliseconds>81458</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>81458</StartMilliseconds>
+    <EndMilliseconds>81759</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>81759</StartMilliseconds>
+    <EndMilliseconds>82425</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>82425</StartMilliseconds>
+    <EndMilliseconds>84943</EndMilliseconds>
+    <Text>我是谁？ 
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>84943</StartMilliseconds>
+    <EndMilliseconds>85073</EndMilliseconds>
+    <Text>我是河马！
+Wǒ shì hémǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>85073</StartMilliseconds>
+    <EndMilliseconds>85291</EndMilliseconds>
+    <Text>[@我@]是河马！
+[@Wǒ@] shì hémǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>85292</StartMilliseconds>
+    <EndMilliseconds>85872</EndMilliseconds>
+    <Text>我[@是@]河马！
+Wǒ [@shì@] hémǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>85872</StartMilliseconds>
+    <EndMilliseconds>87200</EndMilliseconds>
+    <Text>我是[@河马@]！
+Wǒ shì [@hémǎ@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>87200</StartMilliseconds>
+    <EndMilliseconds>90798</EndMilliseconds>
+    <Text>我是河马！
+Wǒ shì hémǎ!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>90798</StartMilliseconds>
+    <EndMilliseconds>91123</EndMilliseconds>
+    <Text>我有两个驼峰。
+Wǒ yǒu liǎng ge tuófēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>91124</StartMilliseconds>
+    <EndMilliseconds>91388</EndMilliseconds>
+    <Text>[@我@]有两个驼峰。
+[@Wǒ@] yǒu liǎng ge tuófēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>91388</StartMilliseconds>
+    <EndMilliseconds>91869</EndMilliseconds>
+    <Text>我[@有@]两个驼峰。
+Wǒ [@yǒu@] liǎng ge tuófēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>91869</StartMilliseconds>
+    <EndMilliseconds>92425</EndMilliseconds>
+    <Text>我有[@两@]个驼峰。
+Wǒ yǒu [@liǎng@] ge tuófēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>92425</StartMilliseconds>
+    <EndMilliseconds>92795</EndMilliseconds>
+    <Text>我有两[@个@]驼峰。
+Wǒ yǒu liǎng [@ge@] tuófēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>92795</StartMilliseconds>
+    <EndMilliseconds>93854</EndMilliseconds>
+    <Text>我有两个[@驼峰@]。
+Wǒ yǒu liǎng ge [@tuófēng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>93854</StartMilliseconds>
+    <EndMilliseconds>95175</EndMilliseconds>
+    <Text>我有两个驼峰。
+Wǒ yǒu liǎng ge tuófēng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>95175</StartMilliseconds>
+    <EndMilliseconds>95292</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>95292</StartMilliseconds>
+    <EndMilliseconds>95661</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>95661</StartMilliseconds>
+    <EndMilliseconds>95983</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>95983</StartMilliseconds>
+    <EndMilliseconds>96736</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>96736</StartMilliseconds>
+    <EndMilliseconds>98925</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>98925</StartMilliseconds>
+    <EndMilliseconds>99009</EndMilliseconds>
+    <Text>我是骆驼。
+Wǒ shì luòtuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>99009</StartMilliseconds>
+    <EndMilliseconds>99270</EndMilliseconds>
+    <Text>[@我@]是骆驼。
+[@Wǒ@] shì luòtuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>99270</StartMilliseconds>
+    <EndMilliseconds>99832</EndMilliseconds>
+    <Text>我[@是@]骆驼。
+Wǒ [@shì@] luòtuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>99832</StartMilliseconds>
+    <EndMilliseconds>101008</EndMilliseconds>
+    <Text>我是[@骆驼@]。
+Wǒ shì [@luòtuo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>101008</StartMilliseconds>
+    <EndMilliseconds>107859</EndMilliseconds>
+    <Text>我是骆驼。
+Wǒ shì luòtuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>107859</StartMilliseconds>
+    <EndMilliseconds>108217</EndMilliseconds>
+    <Text>我有华丽的羽毛。
+Wǒ yǒu huálì de yǔmáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>108217</StartMilliseconds>
+    <EndMilliseconds>108477</EndMilliseconds>
+    <Text>[@我@]有华丽的羽毛。
+[@Wǒ@] yǒu huálì de yǔmáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>108477</StartMilliseconds>
+    <EndMilliseconds>108874</EndMilliseconds>
+    <Text>我[@有@]华丽的羽毛。
+Wǒ [@yǒu@] huálì de yǔmáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>108874</StartMilliseconds>
+    <EndMilliseconds>109745</EndMilliseconds>
+    <Text>我有[@华丽@]的羽毛。
+Wǒ yǒu [@huálì@] de yǔmáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>109745</StartMilliseconds>
+    <EndMilliseconds>109964</EndMilliseconds>
+    <Text>我有华丽[@的@]羽毛。
+Wǒ yǒu huálì [@de@] yǔmáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>109964</StartMilliseconds>
+    <EndMilliseconds>111084</EndMilliseconds>
+    <Text>我有华丽的[@羽毛@]。
+Wǒ yǒu huálì de [@yǔmáo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>111084</StartMilliseconds>
+    <EndMilliseconds>112066</EndMilliseconds>
+    <Text>我有华丽的羽毛。
+Wǒ yǒu huálì de yǔmáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>112066</StartMilliseconds>
+    <EndMilliseconds>112197</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>112197</StartMilliseconds>
+    <EndMilliseconds>112448</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>112448</StartMilliseconds>
+    <EndMilliseconds>112813</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>112813</StartMilliseconds>
+    <EndMilliseconds>113615</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>113615</StartMilliseconds>
+    <EndMilliseconds>116190</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>116190</StartMilliseconds>
+    <EndMilliseconds>116288</EndMilliseconds>
+    <Text>我是孔雀！
+Wǒ shì kǒngquè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>116288</StartMilliseconds>
+    <EndMilliseconds>116539</EndMilliseconds>
+    <Text>[@我@]是孔雀！
+[@Wǒ@] shì kǒngquè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>116539</StartMilliseconds>
+    <EndMilliseconds>117129</EndMilliseconds>
+    <Text>我[@是@]孔雀！
+Wǒ [@shì@] kǒngquè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>117129</StartMilliseconds>
+    <EndMilliseconds>118357</EndMilliseconds>
+    <Text>我是[@孔雀@]！
+Wǒ shì [@kǒngquè@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>118357</StartMilliseconds>
+    <EndMilliseconds>124118</EndMilliseconds>
+    <Text>我是孔雀！
+Wǒ shì kǒngquè!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>124118</StartMilliseconds>
+    <EndMilliseconds>125574</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>125574</StartMilliseconds>
+    <EndMilliseconds>126467</EndMilliseconds>
+    <Text>[@我@]是谁？
+[@Wǒ@] shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>126467</StartMilliseconds>
+    <EndMilliseconds>126752</EndMilliseconds>
+    <Text>我[@是@]谁？
+Wǒ [@shì@] shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>126752</StartMilliseconds>
+    <EndMilliseconds>127550</EndMilliseconds>
+    <Text>我是[@谁@]？
+Wǒ shì [@shéi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>127551</StartMilliseconds>
+    <EndMilliseconds>129369</EndMilliseconds>
+    <Text>我是谁？
+Wǒ shì shéi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>129370</StartMilliseconds>
+    <EndMilliseconds>129471</EndMilliseconds>
+    <Text>我是气球！
+Wǒ shì qìqiú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>129471</StartMilliseconds>
+    <EndMilliseconds>129772</EndMilliseconds>
+    <Text>[@我@]是气球！
+[@Wǒ@] shì qìqiú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>129772</StartMilliseconds>
+    <EndMilliseconds>130570</EndMilliseconds>
+    <Text>我[@是@]气球！
+Wǒ [@shì@] qìqiú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>130571</StartMilliseconds>
+    <EndMilliseconds>132092</EndMilliseconds>
+    <Text>我是[@气球@]！
+Wǒ shì [@qìqiú@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>132092</StartMilliseconds>
+    <EndMilliseconds>132780</EndMilliseconds>
+    <Text>我是气球！
+Wǒ shì qìqiú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>132780</StartMilliseconds>
+    <EndMilliseconds>132868</EndMilliseconds>
+    <Text>我能看见很多动物。
+Wǒ néng kànjiàn hěn duō dòngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>132868</StartMilliseconds>
+    <EndMilliseconds>133149</EndMilliseconds>
+    <Text>[@我@]能看见很多动物。
+[@Wǒ@] néng kànjiàn hěn duō dòngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>133149</StartMilliseconds>
+    <EndMilliseconds>133359</EndMilliseconds>
+    <Text>我[@能@]看见很多动物。
+Wǒ [@néng@] kànjiàn hěn duō dòngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>133359</StartMilliseconds>
+    <EndMilliseconds>134152</EndMilliseconds>
+    <Text>我能[@看见@]很多动物。
+Wǒ néng [@kànjiàn@] hěn duō dòngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>134152</StartMilliseconds>
+    <EndMilliseconds>134412</EndMilliseconds>
+    <Text>我能看见[@很@]多动物。
+Wǒ néng kànjiàn [@hěn@] duō dòngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>134412</StartMilliseconds>
+    <EndMilliseconds>134912</EndMilliseconds>
+    <Text>我能看见很[@多@]动物。
+Wǒ néng kànjiàn hěn [@duō@] dòngwù.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>134912</StartMilliseconds>
+    <EndMilliseconds>135879</EndMilliseconds>
+    <Text>我能看见很多[@动物@]。
+Wǒ néng kànjiàn hěn duō [@dòngwù@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>135879</StartMilliseconds>
+    <EndMilliseconds>137882</EndMilliseconds>
+    <Text>我能看见很多动物。
+Wǒ néng kànjiàn hěn duō dòngwù.</Text>
+  </Paragraph>
+</Subtitle>

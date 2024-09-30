@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13270</StartMilliseconds>
+    <EndMilliseconds>25826</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài wǎnshang shuìjiào.
+松鼠：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>25827</StartMilliseconds>
+    <EndMilliseconds>26197</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] zài wǎnshang shuìjiào.
+松鼠：[@我@]在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>26198</StartMilliseconds>
+    <EndMilliseconds>26614</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@zài@] wǎnshang shuìjiào.
+松鼠：我[@在@]晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>26615</StartMilliseconds>
+    <EndMilliseconds>27526</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài [@wǎnshang@] shuìjiào.
+松鼠：我在[@晚上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>27527</StartMilliseconds>
+    <EndMilliseconds>28460</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài wǎnshang [@shuìjiào@].
+松鼠：我在晚上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>28461</StartMilliseconds>
+    <EndMilliseconds>34949</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài wǎnshang shuìjiào.
+松鼠：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>34950</StartMilliseconds>
+    <EndMilliseconds>35399</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài shù shàng shuìjiào.
+松鼠：我在树上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>35400</StartMilliseconds>
+    <EndMilliseconds>35741</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] zài shù shàng shuìjiào.
+松鼠：[@我@]在树上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>35742</StartMilliseconds>
+    <EndMilliseconds>36182</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@zài@] shù shàng shuìjiào.
+松鼠：我[@在@]树上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>36183</StartMilliseconds>
+    <EndMilliseconds>36613</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài [@shù@] shàng shuìjiào.
+松鼠：我在[@树@]上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>36614</StartMilliseconds>
+    <EndMilliseconds>36996</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài shù [@shàng@] shuìjiào.
+松鼠：我在树[@上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>36997</StartMilliseconds>
+    <EndMilliseconds>37983</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài shù shàng [@shuìjiào@].
+松鼠：我在树上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>37990</StartMilliseconds>
+    <EndMilliseconds>54815</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ zài shù shàng shuìjiào.
+松鼠：我在树上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>54816</StartMilliseconds>
+    <EndMilliseconds>56136</EndMilliseconds>
+    <Text>tùzi: Wǒ zài wǎnshang shuìjiào.
+兔子：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>56137</StartMilliseconds>
+    <EndMilliseconds>56600</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] zài wǎnshang shuìjiào.
+兔子：[@我@]在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>56601</StartMilliseconds>
+    <EndMilliseconds>57297</EndMilliseconds>
+    <Text>tùzi: Wǒ [@zài@] wǎnshang shuìjiào.
+兔子：我[@在@]晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>57298</StartMilliseconds>
+    <EndMilliseconds>58110</EndMilliseconds>
+    <Text>tùzi: Wǒ zài [@wǎnshang@] shuìjiào.
+兔子：我在[@晚上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>58111</StartMilliseconds>
+    <EndMilliseconds>59034</EndMilliseconds>
+    <Text>tùzi: Wǒ zài wǎnshang [@shuìjiào@].
+兔子：我在晚上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>59041</StartMilliseconds>
+    <EndMilliseconds>65698</EndMilliseconds>
+    <Text>tùzi: Wǒ zài wǎnshang shuìjiào.
+兔子：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>65699</StartMilliseconds>
+    <EndMilliseconds>66447</EndMilliseconds>
+    <Text>tùzi: Wǒ zài dòng li shuìjiào.
+兔子：我在洞里睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>66448</StartMilliseconds>
+    <EndMilliseconds>66977</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] zài dòng li shuìjiào.
+兔子：[@我@]在洞里睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>66978</StartMilliseconds>
+    <EndMilliseconds>67585</EndMilliseconds>
+    <Text>tùzi: Wǒ [@zài@] dòng li shuìjiào.
+兔子：我[@在@]洞里睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>67586</StartMilliseconds>
+    <EndMilliseconds>67980</EndMilliseconds>
+    <Text>tùzi: Wǒ zài [@dòng@] li shuìjiào.
+兔子：我在[@洞@]里睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>67981</StartMilliseconds>
+    <EndMilliseconds>68240</EndMilliseconds>
+    <Text>tùzi: Wǒ zài dòng [@li@] shuìjiào.
+兔子：我在洞[@里@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>68241</StartMilliseconds>
+    <EndMilliseconds>69167</EndMilliseconds>
+    <Text>tùzi: Wǒ zài dòng li [@shuìjiào@].
+兔子：我在洞里[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>69171</StartMilliseconds>
+    <EndMilliseconds>76967</EndMilliseconds>
+    <Text>tùzi: Wǒ zài dòng li shuìjiào.
+兔子：我在洞里睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>76968</StartMilliseconds>
+    <EndMilliseconds>78411</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài wǎnshang shuìjiào.
+青蛙：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>78412</StartMilliseconds>
+    <EndMilliseconds>78861</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] zài wǎnshang shuìjiào.
+青蛙：[@我@]在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>78862</StartMilliseconds>
+    <EndMilliseconds>79429</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@zài@] wǎnshang shuìjiào.
+青蛙：我[@在@]晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>79430</StartMilliseconds>
+    <EndMilliseconds>80306</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài [@wǎnshang@] shuìjiào.
+青蛙：我在[@晚上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>80307</StartMilliseconds>
+    <EndMilliseconds>81254</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài wǎnshang [@shuìjiào@].
+青蛙：我在晚上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>81255</StartMilliseconds>
+    <EndMilliseconds>88118</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài wǎnshang shuìjiào.
+青蛙：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>88119</StartMilliseconds>
+    <EndMilliseconds>88429</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài héyè shàng shuìjiào.
+青蛙：我在荷叶上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>88430</StartMilliseconds>
+    <EndMilliseconds>88718</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] zài héyè shàng shuìjiào.
+青蛙：[@我@]在荷叶上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>88719</StartMilliseconds>
+    <EndMilliseconds>89416</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@zài@] héyè shàng shuìjiào.
+青蛙：我[@在@]荷叶上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>89417</StartMilliseconds>
+    <EndMilliseconds>90166</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài [@héyè@] shàng shuìjiào.
+青蛙：我在[@荷叶@]上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>90167</StartMilliseconds>
+    <EndMilliseconds>90746</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài héyè [@shàng@] shuìjiào.
+青蛙：我在荷叶[@上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>90747</StartMilliseconds>
+    <EndMilliseconds>91772</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài héyè shàng [@shuìjiào@].
+青蛙：我在荷叶上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>91775</StartMilliseconds>
+    <EndMilliseconds>100322</EndMilliseconds>
+    <Text>qīngwā: Wǒ zài héyè shàng shuìjiào.
+青蛙：我在荷叶上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>100323</StartMilliseconds>
+    <EndMilliseconds>101570</EndMilliseconds>
+    <Text>wūguī: Wǒ zài wǎnshang shuìjiào.
+乌龟：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>101571</StartMilliseconds>
+    <EndMilliseconds>102185</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] zài wǎnshang shuìjiào.
+乌龟：[@我@]在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>102186</StartMilliseconds>
+    <EndMilliseconds>102856</EndMilliseconds>
+    <Text>wūguī: Wǒ [@zài@] wǎnshang shuìjiào.
+乌龟：我[@在@]晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>102857</StartMilliseconds>
+    <EndMilliseconds>103790</EndMilliseconds>
+    <Text>wūguī: Wǒ zài [@wǎnshang@] shuìjiào.
+乌龟：我在[@晚上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>103791</StartMilliseconds>
+    <EndMilliseconds>104970</EndMilliseconds>
+    <Text>wūguī: Wǒ zài wǎnshang [@shuìjiào@].
+乌龟：我在晚上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>104971</StartMilliseconds>
+    <EndMilliseconds>111313</EndMilliseconds>
+    <Text>wūguī: Wǒ zài wǎnshang shuìjiào.
+乌龟：我在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>111314</StartMilliseconds>
+    <EndMilliseconds>111667</EndMilliseconds>
+    <Text>wūguī: Wǒ zài shuǐ xià shuìjiào.
+乌龟：我在水下睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>111668</StartMilliseconds>
+    <EndMilliseconds>112184</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] zài shuǐ xià shuìjiào.
+乌龟：[@我@]在水下睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>112185</StartMilliseconds>
+    <EndMilliseconds>112874</EndMilliseconds>
+    <Text>wūguī: Wǒ [@zài@] shuǐ xià shuìjiào.
+乌龟：我[@在@]水下睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>112875</StartMilliseconds>
+    <EndMilliseconds>113669</EndMilliseconds>
+    <Text>wūguī: Wǒ zài [@shuǐ@] xià shuìjiào.
+乌龟：我在[@水@]下睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>113670</StartMilliseconds>
+    <EndMilliseconds>114169</EndMilliseconds>
+    <Text>wūguī: Wǒ zài shuǐ [@xià@] shuìjiào.
+乌龟：我在水[@下@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>114170</StartMilliseconds>
+    <EndMilliseconds>115463</EndMilliseconds>
+    <Text>wūguī: Wǒ zài shuǐ xià [@shuìjiào@].
+乌龟：我在水下[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>115464</StartMilliseconds>
+    <EndMilliseconds>119268</EndMilliseconds>
+    <Text>wūguī: Wǒ zài shuǐ xià shuìjiào.
+乌龟：我在水下睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>119269</StartMilliseconds>
+    <EndMilliseconds>127978</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ bú zài wǎnshang shuìjiào.
+猫头鹰：我不在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>127979</StartMilliseconds>
+    <EndMilliseconds>128624</EndMilliseconds>
+    <Text>māotóuyīng: [@Wǒ@] bú zài wǎnshang shuìjiào.
+猫头鹰：[@我@]不在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>128625</StartMilliseconds>
+    <EndMilliseconds>129010</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ [@bú@] zài wǎnshang shuìjiào.
+猫头鹰：我[@不@]在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>129011</StartMilliseconds>
+    <EndMilliseconds>129464</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ bú [@zài@] wǎnshang shuìjiào.
+猫头鹰：我不[@在@]晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>129465</StartMilliseconds>
+    <EndMilliseconds>130121</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ bú zài [@wǎnshang@] shuìjiào.
+猫头鹰：我不在[@晚上@]睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>130122</StartMilliseconds>
+    <EndMilliseconds>131134</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ bú zài wǎnshang [@shuìjiào@].
+猫头鹰：我不在晚上[@睡觉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>131135</StartMilliseconds>
+    <EndMilliseconds>132619</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ bú zài wǎnshang shuìjiào.
+猫头鹰：我不在晚上睡觉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>132620</StartMilliseconds>
+    <EndMilliseconds>132969</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ bú zài wǎnshang shuìjiào?
+松鼠：你不在晚上睡觉？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>132970</StartMilliseconds>
+    <EndMilliseconds>134199</EndMilliseconds>
+    <Text>sōngshǔ: [@Nǐ@] bú zài wǎnshang shuìjiào?
+松鼠：[@你@]不在晚上睡觉？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>134200</StartMilliseconds>
+    <EndMilliseconds>134579</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ [@bú@] zài wǎnshang shuìjiào?
+松鼠：你[@不@]在晚上睡觉？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>134580</StartMilliseconds>
+    <EndMilliseconds>134862</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ bú [@zài@] wǎnshang shuìjiào?
+松鼠：你不[@在@]晚上睡觉？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>134863</StartMilliseconds>
+    <EndMilliseconds>135350</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ bú zài [@wǎnshang@] shuìjiào?
+松鼠：你不在[@晚上@]睡觉？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>135351</StartMilliseconds>
+    <EndMilliseconds>136323</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ bú zài wǎnshang [@shuìjiào@]?
+松鼠：你不在晚上[@睡觉@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>136324</StartMilliseconds>
+    <EndMilliseconds>137025</EndMilliseconds>
+    <Text>sōngshǔ: Nǐ bú zài wǎnshang shuìjiào?
+松鼠：你不在晚上睡觉？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>137026</StartMilliseconds>
+    <EndMilliseconds>137233</EndMilliseconds>
+    <Text>māotóuyīng: Shìde.
+猫头鹰：是的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>137234</StartMilliseconds>
+    <EndMilliseconds>138338</EndMilliseconds>
+    <Text>māotóuyīng: [@Shìde@].
+猫头鹰：[@是的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>138339</StartMilliseconds>
+    <EndMilliseconds>139601</EndMilliseconds>
+    <Text>māotóuyīng: Shìde.
+猫头鹰：是的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>139602</StartMilliseconds>
+    <EndMilliseconds>139884</EndMilliseconds>
+    <Text>tùzi: Nà nǐ wǎnshang gàn shénme?
+兔子：那你晚上干什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>139885</StartMilliseconds>
+    <EndMilliseconds>140284</EndMilliseconds>
+    <Text>tùzi: [@Nà@] nǐ wǎnshang gàn shénme?
+兔子：[@那@]你晚上干什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>140285</StartMilliseconds>
+    <EndMilliseconds>141032</EndMilliseconds>
+    <Text>tùzi: Nà [@nǐ@] wǎnshang gàn shénme?
+兔子：那[@你@]晚上干什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>141033</StartMilliseconds>
+    <EndMilliseconds>141920</EndMilliseconds>
+    <Text>tùzi: Nà nǐ [@wǎnshang@] gàn shénme?
+兔子：那你[@晚上@]干什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>141921</StartMilliseconds>
+    <EndMilliseconds>142228</EndMilliseconds>
+    <Text>tùzi: Nà nǐ wǎnshang [@gàn@] shénme?
+兔子：那你晚上[@干@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>142229</StartMilliseconds>
+    <EndMilliseconds>142946</EndMilliseconds>
+    <Text>tùzi: Nà nǐ wǎnshang gàn [@shénme@]?
+兔子：那你晚上干[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>142947</StartMilliseconds>
+    <EndMilliseconds>143635</EndMilliseconds>
+    <Text>tùzi: Nà nǐ wǎnshang gàn shénme?
+兔子：那你晚上干什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>143636</StartMilliseconds>
+    <EndMilliseconds>143873</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zài wǎnshang xǐnglai.
+猫头鹰：我在晚上醒来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>143874</StartMilliseconds>
+    <EndMilliseconds>144249</EndMilliseconds>
+    <Text>māotóuyīng: [@Wǒ@] zài wǎnshang xǐnglai.
+猫头鹰：[@我@]在晚上醒来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>144250</StartMilliseconds>
+    <EndMilliseconds>144678</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ [@zài@] wǎnshang xǐnglai.
+猫头鹰：我[@在@]晚上醒来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>144679</StartMilliseconds>
+    <EndMilliseconds>145443</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zài [@wǎnshang@] xǐnglai.
+猫头鹰：我在[@晚上@]醒来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>145444</StartMilliseconds>
+    <EndMilliseconds>146543</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zài wǎnshang [@xǐnglai@].
+猫头鹰：我在晚上[@醒来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>146543</StartMilliseconds>
+    <EndMilliseconds>147659</EndMilliseconds>
+    <Text>māotóuyīng: Wǒ zài wǎnshang xǐnglai.
+猫头鹰：我在晚上醒来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>147660</StartMilliseconds>
+    <EndMilliseconds>148395</EndMilliseconds>
+    <Text>māotóuyīng: Ránhòu fēixiáng.
+猫头鹰：然后飞翔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>148396</StartMilliseconds>
+    <EndMilliseconds>149247</EndMilliseconds>
+    <Text>māotóuyīng: [@Ránhòu@] fēixiáng.
+猫头鹰：[@然后@]飞翔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>149248</StartMilliseconds>
+    <EndMilliseconds>150405</EndMilliseconds>
+    <Text>māotóuyīng: Ránhòu [@fēixiáng@].
+猫头鹰：然后[@飞翔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>150406</StartMilliseconds>
+    <EndMilliseconds>153658</EndMilliseconds>
+    <Text>māotóuyīng: Ránhòu fēixiáng.
+猫头鹰：然后飞翔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>153659</StartMilliseconds>
+    <EndMilliseconds>168397</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ dào bié de dìfang fēi.
+乌龟：请你到别的地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>168398</StartMilliseconds>
+    <EndMilliseconds>168951</EndMilliseconds>
+    <Text>wūguī: [@Qǐng@] nǐ dào bié de dìfang fēi.
+乌龟：[@请@]你到别的地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>168952</StartMilliseconds>
+    <EndMilliseconds>169586</EndMilliseconds>
+    <Text>wūguī: Qǐng [@nǐ@] dào bié de dìfang fēi.
+乌龟：请[@你@]到别的地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>169587</StartMilliseconds>
+    <EndMilliseconds>170170</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ [@dào@] bié de dìfang fēi.
+乌龟：请你[@到@]别的地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>170171</StartMilliseconds>
+    <EndMilliseconds>170665</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ dào [@bié@] de dìfang fēi.
+乌龟：请你到[@别@]的地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>170666</StartMilliseconds>
+    <EndMilliseconds>171032</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ dào bié [@de@] dìfang fēi.
+乌龟：请你到别[@的@]地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>171033</StartMilliseconds>
+    <EndMilliseconds>171801</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ dào bié de [@dìfang@] fēi.
+乌龟：请你到别的[@地方@]飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>171802</StartMilliseconds>
+    <EndMilliseconds>172559</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ dào bié de dìfang [@fēi@].
+乌龟：请你到别的地方[@飞@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>172560</StartMilliseconds>
+    <EndMilliseconds>172949</EndMilliseconds>
+    <Text>wūguī: Qǐng nǐ dào bié de dìfang fēi.
+乌龟：请你到别的地方飞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>172950</StartMilliseconds>
+    <EndMilliseconds>173127</EndMilliseconds>
+    <Text>wūguī: Yīnwèi wǒmen zài wǎnshang shuìjiào!
+乌龟：因为我们在晚上睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>173128</StartMilliseconds>
+    <EndMilliseconds>174262</EndMilliseconds>
+    <Text>wūguī: [@Yīnwèi@] wǒmen zài wǎnshang shuìjiào!
+乌龟：[@因为@]我们在晚上睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>174263</StartMilliseconds>
+    <EndMilliseconds>175235</EndMilliseconds>
+    <Text>wūguī: Yīnwèi [@wǒmen@] zài wǎnshang shuìjiào!
+乌龟：因为[@我们@]在晚上睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>175236</StartMilliseconds>
+    <EndMilliseconds>175815</EndMilliseconds>
+    <Text>wūguī: Yīnwèi wǒmen [@zài@] wǎnshang shuìjiào!
+乌龟：因为我们[@在@]晚上睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>175816</StartMilliseconds>
+    <EndMilliseconds>176975</EndMilliseconds>
+    <Text>wūguī: Yīnwèi wǒmen zài [@wǎnshang@] shuìjiào!
+乌龟：因为我们在[@晚上@]睡觉！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>176976</StartMilliseconds>
+    <EndMilliseconds>178212</EndMilliseconds>
+    <Text>wūguī: Yīnwèi wǒmen zài wǎnshang [@shuìjiào@]!
+乌龟：因为我们在晚上[@睡觉@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>178213</StartMilliseconds>
+    <EndMilliseconds>181008</EndMilliseconds>
+    <Text>wūguī: Yīnwèi wǒmen zài wǎnshang shuìjiào!
+乌龟：因为我们在晚上睡觉！</Text>
+  </Paragraph>
+</Subtitle>

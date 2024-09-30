@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9608</StartMilliseconds>
+    <EndMilliseconds>38691</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào pǎo le.
+熊：请不要跑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>38692</StartMilliseconds>
+    <EndMilliseconds>39397</EndMilliseconds>
+    <Text>xióng: [@Qǐng@] bú yào pǎo le.
+熊：[@请@]不要跑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>39398</StartMilliseconds>
+    <EndMilliseconds>39820</EndMilliseconds>
+    <Text>xióng: Qǐng [@bú@] yào pǎo le.
+熊：请[@不@]要跑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>39821</StartMilliseconds>
+    <EndMilliseconds>40425</EndMilliseconds>
+    <Text>xióng: Qǐng bú [@yào@] pǎo le.
+熊：请不[@要@]跑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>40426</StartMilliseconds>
+    <EndMilliseconds>41003</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào [@pǎo@] le.
+熊：请不要[@跑@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>41004</StartMilliseconds>
+    <EndMilliseconds>41707</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào pǎo [@le@].
+熊：请不要跑[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>41708</StartMilliseconds>
+    <EndMilliseconds>42842</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào pǎo le.
+熊：请不要跑了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>42843</StartMilliseconds>
+    <EndMilliseconds>43843</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú huì zài pǎolái pǎoqù le.
+兔子：好的，我不会再跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>43844</StartMilliseconds>
+    <EndMilliseconds>45424</EndMilliseconds>
+    <Text>tùzi: [@Hǎode@], wǒ bú huì zài pǎolái pǎoqù le.
+兔子：[@好的@]，我不会再跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>45426</StartMilliseconds>
+    <EndMilliseconds>45876</EndMilliseconds>
+    <Text>tùzi: Hǎode, [@wǒ@] bú huì zài pǎolái pǎoqù le.
+兔子：好的，[@我@]不会再跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>45877</StartMilliseconds>
+    <EndMilliseconds>46215</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ [@bú@] huì zài pǎolái pǎoqù le.
+兔子：好的，我[@不@]会再跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>46216</StartMilliseconds>
+    <EndMilliseconds>46649</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú [@huì@] zài pǎolái pǎoqù le.
+兔子：好的，我不[@会@]再跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>46650</StartMilliseconds>
+    <EndMilliseconds>47102</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú huì [@zài@] pǎolái pǎoqù le.
+兔子：好的，我不会[@再@]跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>47103</StartMilliseconds>
+    <EndMilliseconds>47870</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú huì zài [@pǎolái@] pǎoqù le.
+兔子：好的，我不会再[@跑来@]跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>47871</StartMilliseconds>
+    <EndMilliseconds>48622</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú huì zài pǎolái [@pǎoqù@] le.
+兔子：好的，我不会再跑来[@跑去@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>48623</StartMilliseconds>
+    <EndMilliseconds>49176</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú huì zài pǎolái pǎoqù [@le@].
+兔子：好的，我不会再跑来跑去[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>49177</StartMilliseconds>
+    <EndMilliseconds>50417</EndMilliseconds>
+    <Text>tùzi: Hǎode, wǒ bú huì zài pǎolái pǎoqù le.
+兔子：好的，我不会再跑来跑去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>50418</StartMilliseconds>
+    <EndMilliseconds>57245</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào fēi le.
+熊：请不要飞了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>57246</StartMilliseconds>
+    <EndMilliseconds>58037</EndMilliseconds>
+    <Text>xióng: [@Qǐng@] bú yào fēi le.
+熊：[@请@]不要飞了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>58038</StartMilliseconds>
+    <EndMilliseconds>58521</EndMilliseconds>
+    <Text>xióng: Qǐng [@bú@] yào fēi le.
+熊：请[@不@]要飞了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>58522</StartMilliseconds>
+    <EndMilliseconds>59031</EndMilliseconds>
+    <Text>xióng: Qǐng bú [@yào@] fēi le.
+熊：请不[@要@]飞了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>59032</StartMilliseconds>
+    <EndMilliseconds>59461</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào [@fēi@] le.
+熊：请不要[@飞@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>59462</StartMilliseconds>
+    <EndMilliseconds>60009</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào fēi [@le@].
+熊：请不要飞[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>60010</StartMilliseconds>
+    <EndMilliseconds>67275</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào fēi le.
+熊：请不要飞了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>67276</StartMilliseconds>
+    <EndMilliseconds>67980</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú huì zài fēilái fēiqù le.
+猫头鹰：好的，我不会再飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>67981</StartMilliseconds>
+    <EndMilliseconds>69625</EndMilliseconds>
+    <Text>māotóuyīng: [@Hǎode@], wǒ bú huì zài fēilái fēiqù le.
+猫头鹰：[@好的@]，我不会再飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>69626</StartMilliseconds>
+    <EndMilliseconds>69924</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, [@wǒ@] bú huì zài fēilái fēiqù le.
+猫头鹰：好的，[@我@]不会再飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>69925</StartMilliseconds>
+    <EndMilliseconds>70294</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ [@bú@] huì zài fēilái fēiqù le.
+猫头鹰：好的，我[@不@]会再飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>70295</StartMilliseconds>
+    <EndMilliseconds>70717</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú [@huì@] zài fēilái fēiqù le.
+猫头鹰：好的，我不[@会@]再飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>70718</StartMilliseconds>
+    <EndMilliseconds>71148</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú huì [@zài@] fēilái fēiqù le.
+猫头鹰：好的，我不会[@再@]飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>71149</StartMilliseconds>
+    <EndMilliseconds>71898</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú huì zài [@fēilái@] fēiqù le.
+猫头鹰：好的，我不会再[@飞来@]飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>71900</StartMilliseconds>
+    <EndMilliseconds>72564</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú huì zài fēilái [@fēiqù@] le.
+猫头鹰：好的，我不会再飞来[@飞去@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>72569</StartMilliseconds>
+    <EndMilliseconds>73067</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú huì zài fēilái fēiqù [@le@].
+猫头鹰：好的，我不会再飞来飞去[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>73068</StartMilliseconds>
+    <EndMilliseconds>73716</EndMilliseconds>
+    <Text>māotóuyīng: Hǎode, wǒ bú huì zài fēilái fēiqù le.
+猫头鹰：好的，我不会再飞来飞去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>73717</StartMilliseconds>
+    <EndMilliseconds>81183</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào tiào le.
+熊：请不要跳了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>81184</StartMilliseconds>
+    <EndMilliseconds>81680</EndMilliseconds>
+    <Text>xióng: [@Qǐng@] bú yào tiào le.
+熊：[@请@]不要跳了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>81681</StartMilliseconds>
+    <EndMilliseconds>82310</EndMilliseconds>
+    <Text>xióng: Qǐng [@bú@] yào tiào le.
+熊：请[@不@]要跳了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>82311</StartMilliseconds>
+    <EndMilliseconds>82704</EndMilliseconds>
+    <Text>xióng: Qǐng bú [@yào@] tiào le.
+熊：请不[@要@]跳了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>82705</StartMilliseconds>
+    <EndMilliseconds>83316</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào [@tiào@] le.
+熊：请不要[@跳@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>83317</StartMilliseconds>
+    <EndMilliseconds>83871</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào tiào [@le@].
+熊：请不要跳[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>83872</StartMilliseconds>
+    <EndMilliseconds>87054</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào tiào le.
+熊：请不要跳了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>87055</StartMilliseconds>
+    <EndMilliseconds>87687</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú huì zài tiàolái tiàoqù le.
+青蛙：好的，我不会再跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>87688</StartMilliseconds>
+    <EndMilliseconds>88774</EndMilliseconds>
+    <Text>qīngwā: [@Hǎode@], wǒ bú huì zài tiàolái tiàoqù le.
+青蛙：[@好的@]，我不会再跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>88775</StartMilliseconds>
+    <EndMilliseconds>89619</EndMilliseconds>
+    <Text>qīngwā: Hǎode, [@wǒ@] bú huì zài tiàolái tiàoqù le.
+青蛙：好的，[@我@]不会再跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>89620</StartMilliseconds>
+    <EndMilliseconds>90116</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ [@bú@] huì zài tiàolái tiàoqù le.
+青蛙：好的，我[@不@]会再跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>90117</StartMilliseconds>
+    <EndMilliseconds>90527</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú [@huì@] zài tiàolái tiàoqù le.
+青蛙：好的，我不[@会@]再跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>90528</StartMilliseconds>
+    <EndMilliseconds>91054</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú huì [@zài@] tiàolái tiàoqù le.
+青蛙：好的，我不会[@再@]跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>91055</StartMilliseconds>
+    <EndMilliseconds>92072</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú huì zài [@tiàolái@] tiàoqù le.
+青蛙：好的，我不会再[@跳@]来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>92073</StartMilliseconds>
+    <EndMilliseconds>92993</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú huì zài tiàolái [@tiàoqù@] le.
+青蛙：好的，我不会再跳来[@跳去@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>92994</StartMilliseconds>
+    <EndMilliseconds>93589</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú huì zài tiàolái tiàoqù [@le@].
+青蛙：好的，我不会再跳来跳去[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>93590</StartMilliseconds>
+    <EndMilliseconds>94320</EndMilliseconds>
+    <Text>qīngwā: Hǎode, wǒ bú huì zài tiàolái tiàoqù le.
+青蛙：好的，我不会再跳来跳去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>94321</StartMilliseconds>
+    <EndMilliseconds>101479</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào yóu le.
+熊：请不要游了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>101480</StartMilliseconds>
+    <EndMilliseconds>102202</EndMilliseconds>
+    <Text>xióng: [@Qǐng@] bú yào yóu le.
+熊：[@请@]不要游了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>102203</StartMilliseconds>
+    <EndMilliseconds>102697</EndMilliseconds>
+    <Text>xióng: Qǐng [@bú@] yào yóu le.
+熊：请[@不@]要游了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>102698</StartMilliseconds>
+    <EndMilliseconds>103155</EndMilliseconds>
+    <Text>xióng: Qǐng bú [@yào@] yóu le.
+熊：请不[@要@]游了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>103156</StartMilliseconds>
+    <EndMilliseconds>103632</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào [@yóu@] le.
+熊：请不要[@游@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>103633</StartMilliseconds>
+    <EndMilliseconds>104226</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào yóu [@le@].
+熊：请不要游[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>104227</StartMilliseconds>
+    <EndMilliseconds>106042</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào yóu le.
+熊：请不要游了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>106043</StartMilliseconds>
+    <EndMilliseconds>106376</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú huì zài yóulái yóuqù le.
+鱼：好的，我不会再游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>106377</StartMilliseconds>
+    <EndMilliseconds>107823</EndMilliseconds>
+    <Text>yú: [@Hǎode@], wǒ bú huì zài yóulái yóuqù le.
+鱼：[@好的@]，我不会再游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>107824</StartMilliseconds>
+    <EndMilliseconds>108208</EndMilliseconds>
+    <Text>yú: Hǎode, [@wǒ@] bú huì zài yóulái yóuqù le.
+鱼：好的，[@我@]不会再游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>108209</StartMilliseconds>
+    <EndMilliseconds>108569</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ [@bú@] huì zài yóulái yóuqù le.
+鱼：好的，我[@不@]会再游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>108570</StartMilliseconds>
+    <EndMilliseconds>109090</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú [@huì@] zài yóulái yóuqù le.
+鱼：好的，我不[@会@]再游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>109091</StartMilliseconds>
+    <EndMilliseconds>109397</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú huì [@zài@] yóulái yóuqù le.
+鱼：好的，我不会[@再@]游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>109398</StartMilliseconds>
+    <EndMilliseconds>110066</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú huì zài [@yóulái@] yóuqù le.
+鱼：好的，我不会再[@游来@]游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>110067</StartMilliseconds>
+    <EndMilliseconds>110982</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú huì zài yóulái [@yóuqù@] le.
+鱼：好的，我不会再游来[@游去@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>110983</StartMilliseconds>
+    <EndMilliseconds>111589</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú huì zài yóulái yóuqù [@le@].
+鱼：好的，我不会再游来游去[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>111590</StartMilliseconds>
+    <EndMilliseconds>112178</EndMilliseconds>
+    <Text>yú: Hǎode, wǒ bú huì zài yóulái yóuqù le.
+鱼：好的，我不会再游来游去了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>112179</StartMilliseconds>
+    <EndMilliseconds>131141</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào zài shuōhuà le.
+熊：请不要再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>131142</StartMilliseconds>
+    <EndMilliseconds>131825</EndMilliseconds>
+    <Text>xióng: [@Qǐng@] bú yào zài shuōhuà le.
+熊：[@请@]不要再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>131826</StartMilliseconds>
+    <EndMilliseconds>132259</EndMilliseconds>
+    <Text>xióng: Qǐng [@bú@] yào zài shuōhuà le.
+熊：请[@不@]要再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>132260</StartMilliseconds>
+    <EndMilliseconds>132727</EndMilliseconds>
+    <Text>xióng: Qǐng bú [@yào@] zài shuōhuà le.
+熊：请不[@要@]再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>132728</StartMilliseconds>
+    <EndMilliseconds>133154</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào [@zài@] shuōhuà le.
+熊：请不要[@再@]说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>133155</StartMilliseconds>
+    <EndMilliseconds>134169</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào zài [@shuōhuà@] le.
+熊：请不要再[@说话@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>134170</StartMilliseconds>
+    <EndMilliseconds>134701</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào zài shuōhuà [@le@].
+熊：请不要再说话[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>134702</StartMilliseconds>
+    <EndMilliseconds>136841</EndMilliseconds>
+    <Text>xióng: Qǐng bú yào zài shuōhuà le.
+熊：请不要再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>136842</StartMilliseconds>
+    <EndMilliseconds>137391</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen bú huì zài shuōhuà le.
+乌龟：好的，我们不会再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>137392</StartMilliseconds>
+    <EndMilliseconds>139087</EndMilliseconds>
+    <Text>wūguī: [@Hǎode@], wǒmen bú huì zài shuōhuà le.
+乌龟：[@好的@]，我们不会再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>139088</StartMilliseconds>
+    <EndMilliseconds>140278</EndMilliseconds>
+    <Text>wūguī: Hǎode, [@wǒmen@] bú huì zài shuōhuà le.
+乌龟：好的，[@我们@]不会再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>140279</StartMilliseconds>
+    <EndMilliseconds>140725</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen [@bú@] huì zài shuōhuà le.
+乌龟：好的，我们[@不@]会再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>140726</StartMilliseconds>
+    <EndMilliseconds>141413</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen bú [@huì@] zài shuōhuà le.
+乌龟：好的，我们不[@会@]再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>141414</StartMilliseconds>
+    <EndMilliseconds>141926</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen bú huì [@zài@] shuōhuà le.
+乌龟：好的，我们不会[@再@]说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>141927</StartMilliseconds>
+    <EndMilliseconds>143144</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen bú huì zài [@shuōhuà@] le.
+乌龟：好的，我们不会再[@说话@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>143145</StartMilliseconds>
+    <EndMilliseconds>143907</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen bú huì zài shuōhuà [@le@].
+乌龟：好的，我们不会再说话[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>143908</StartMilliseconds>
+    <EndMilliseconds>144415</EndMilliseconds>
+    <Text>wūguī: Hǎode, wǒmen bú huì zài shuōhuà le.
+乌龟：好的，我们不会再说话了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>144416</StartMilliseconds>
+    <EndMilliseconds>145033</EndMilliseconds>
+    <Text>sōngshǔ: Āi!
+松鼠：哎！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>145034</StartMilliseconds>
+    <EndMilliseconds>145687</EndMilliseconds>
+    <Text>sōngshǔ: [@Āi@]!
+松鼠：[@哎@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>145688</StartMilliseconds>
+    <EndMilliseconds>146033</EndMilliseconds>
+    <Text>sōngshǔ: Āi!
+松鼠：哎！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>146034</StartMilliseconds>
+    <EndMilliseconds>146328</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng yào wǒmen tíng xiàlai ne?
+松鼠：为什么一定要我们停下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>146329</StartMilliseconds>
+    <EndMilliseconds>147289</EndMilliseconds>
+    <Text>sōngshǔ: [@Wèishénme@] yídìng yào wǒmen tíng xiàlai ne?
+松鼠：[@为什么@]一定要我们停下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>147290</StartMilliseconds>
+    <EndMilliseconds>148006</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme [@yídìng@] yào wǒmen tíng xiàlai ne?
+松鼠：为什么[@一定@]要我们停下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>148007</StartMilliseconds>
+    <EndMilliseconds>148388</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng [@yào@] wǒmen tíng xiàlai ne?
+松鼠：为什么一定[@要@]我们停下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>148389</StartMilliseconds>
+    <EndMilliseconds>148931</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng yào [@wǒmen@] tíng xiàlai ne?
+松鼠：为什么一定要[@我们@]停下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>148932</StartMilliseconds>
+    <EndMilliseconds>149332</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng yào wǒmen [@tíng@] xiàlai ne?
+松鼠：为什么一定要我们[@停@]下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>149333</StartMilliseconds>
+    <EndMilliseconds>149910</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng yào wǒmen tíng [@xiàlai@] ne?
+松鼠：为什么一定要我们停[@下来@]呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>149911</StartMilliseconds>
+    <EndMilliseconds>150927</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng yào wǒmen tíng xiàlai [@ne@]?
+松鼠：为什么一定要我们停下来[@呢@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>150928</StartMilliseconds>
+    <EndMilliseconds>152335</EndMilliseconds>
+    <Text>sōngshǔ: Wèishénme yídìng yào wǒmen tíng xiàlai ne?
+松鼠：为什么一定要我们停下来呢？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>152336</StartMilliseconds>
+    <EndMilliseconds>156028</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng gēr gěi nǐmen tīng le!
+熊：我要唱歌儿给你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>156029</StartMilliseconds>
+    <EndMilliseconds>156619</EndMilliseconds>
+    <Text>xióng: [@Wǒ@] yào chàng gēr gěi nǐmen tīng le!
+熊：[@我@]要唱歌儿给你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>156620</StartMilliseconds>
+    <EndMilliseconds>157090</EndMilliseconds>
+    <Text>xióng: Wǒ [@yào@] chàng gēr gěi nǐmen tīng le!
+熊：我[@要@]唱歌儿给你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>157091</StartMilliseconds>
+    <EndMilliseconds>157645</EndMilliseconds>
+    <Text>xióng: Wǒ yào [@chàng@] gēr gěi nǐmen tīng le!
+熊：我要[@唱@]歌儿给你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>157646</StartMilliseconds>
+    <EndMilliseconds>158472</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng [@gēr@] gěi nǐmen tīng le!
+熊：我要唱[@歌儿@]给你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>158473</StartMilliseconds>
+    <EndMilliseconds>158827</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng gēr [@gěi@] nǐmen tīng le!
+熊：我要唱歌儿[@给@]你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>158829</StartMilliseconds>
+    <EndMilliseconds>159347</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng gēr gěi [@nǐmen@] tīng le!
+熊：我要唱歌儿给[@你们@]听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>159348</StartMilliseconds>
+    <EndMilliseconds>159778</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng gēr gěi nǐmen [@tīng@] le!
+熊：我要唱歌儿给你们[@听@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>159779</StartMilliseconds>
+    <EndMilliseconds>160464</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng gēr gěi nǐmen tīng [@le@]!
+熊：我要唱歌儿给你们听[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>160465</StartMilliseconds>
+    <EndMilliseconds>162760</EndMilliseconds>
+    <Text>xióng: Wǒ yào chàng gēr gěi nǐmen tīng le!
+熊：我要唱歌儿给你们听了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>162761</StartMilliseconds>
+    <EndMilliseconds>163092</EndMilliseconds>
+    <Text>xióng: Lā lā lā!
+熊：啦啦啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>163093</StartMilliseconds>
+    <EndMilliseconds>163592</EndMilliseconds>
+    <Text>xióng: [@Lā@] lā lā!
+熊：[@啦@]啦啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>163593</StartMilliseconds>
+    <EndMilliseconds>164169</EndMilliseconds>
+    <Text>xióng: Lā [@lā@] lā!
+熊：啦[@啦@]啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>164170</StartMilliseconds>
+    <EndMilliseconds>166064</EndMilliseconds>
+    <Text>xióng: Lā lā [@lā@]!
+熊：啦啦[@啦@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>166065</StartMilliseconds>
+    <EndMilliseconds>173018</EndMilliseconds>
+    <Text>xióng: Lā lā lā!
+熊：啦啦啦！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>173019</StartMilliseconds>
+    <EndMilliseconds>173417</EndMilliseconds>
+    <Text>dàjiā: Ā!
+大家：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>173418</StartMilliseconds>
+    <EndMilliseconds>175098</EndMilliseconds>
+    <Text>dàjiā: [@Ā@]!
+大家：[@啊@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>175099</StartMilliseconds>
+    <EndMilliseconds>175374</EndMilliseconds>
+    <Text>dàjiā: Ā!
+大家：啊！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>175375</StartMilliseconds>
+    <EndMilliseconds>175665</EndMilliseconds>
+    <Text>dàjiā: Qǐng bú yào zài chàng le!
+大家：请不要再唱了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>175666</StartMilliseconds>
+    <EndMilliseconds>176198</EndMilliseconds>
+    <Text>dàjiā: [@Qǐng@] bú yào zài chàng le!
+大家：[@请@]不要再唱了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>176199</StartMilliseconds>
+    <EndMilliseconds>176515</EndMilliseconds>
+    <Text>dàjiā: Qǐng [@bú@] yào zài chàng le!
+大家：请[@不@]要再唱了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>176516</StartMilliseconds>
+    <EndMilliseconds>176988</EndMilliseconds>
+    <Text>dàjiā: Qǐng bú [@yào@] zài chàng le!
+大家：请不[@要@]再唱了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>176989</StartMilliseconds>
+    <EndMilliseconds>177317</EndMilliseconds>
+    <Text>dàjiā: Qǐng bú yào [@zài@] chàng le!
+大家：请不要[@再@]唱了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>177318</StartMilliseconds>
+    <EndMilliseconds>177799</EndMilliseconds>
+    <Text>dàjiā: Qǐng bú yào zài [@chàng@] le!
+大家：请不要再[@唱@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>177800</StartMilliseconds>
+    <EndMilliseconds>178630</EndMilliseconds>
+    <Text>dàjiā: Qǐng bú yào zài chàng [@le@]!
+大家：请不要再唱[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>178631</StartMilliseconds>
+    <EndMilliseconds>182800</EndMilliseconds>
+    <Text>dàjiā: Qǐng bú yào zài chàng le!
+大家：请不要再唱了！</Text>
+  </Paragraph>
+</Subtitle>

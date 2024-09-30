@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11577</StartMilliseconds>
+    <EndMilliseconds>12961</EndMilliseconds>
+    <Text>Pítè: Wǒ è le!
+皮特：我饿了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12962</StartMilliseconds>
+    <EndMilliseconds>13609</EndMilliseconds>
+    <Text>Pítè: [@Wǒ@] è le!
+皮特：[@我@]饿了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13610</StartMilliseconds>
+    <EndMilliseconds>14412</EndMilliseconds>
+    <Text>Pítè: Wǒ [@è@] le!
+皮特：我[@饿@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14413</StartMilliseconds>
+    <EndMilliseconds>15034</EndMilliseconds>
+    <Text>Pítè: Wǒ è [@le@]!
+皮特：我饿[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15035</StartMilliseconds>
+    <EndMilliseconds>17565</EndMilliseconds>
+    <Text>Pítè: Wǒ è le!
+皮特：我饿了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>17566</StartMilliseconds>
+    <EndMilliseconds>19950</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì zhī mǎyǐ!
+敏宇：哦，有一只蚂蚁！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>19951</StartMilliseconds>
+    <EndMilliseconds>21088</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Ò@], yǒu yì zhī mǎyǐ!
+敏宇：[@哦@]，有一只蚂蚁！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21089</StartMilliseconds>
+    <EndMilliseconds>21952</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, [@yǒu@] yì zhī mǎyǐ!
+敏宇：哦，[@有@]一只蚂蚁！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21953</StartMilliseconds>
+    <EndMilliseconds>22244</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu [@yì@] zhī mǎyǐ!
+敏宇：哦，有[@一@]只蚂蚁！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22245</StartMilliseconds>
+    <EndMilliseconds>22772</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì [@zhī@] mǎyǐ!
+敏宇：哦，有一[@只@]蚂蚁！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22773</StartMilliseconds>
+    <EndMilliseconds>24231</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì zhī [@mǎyǐ@]!
+敏宇：哦，有一只[@蚂蚁@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24232</StartMilliseconds>
+    <EndMilliseconds>25010</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì zhī mǎyǐ!
+敏宇：哦，有一只蚂蚁！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25011</StartMilliseconds>
+    <EndMilliseconds>26408</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao zhī mǎyǐ?
+莎莉：有多少只蚂蚁?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>26409</StartMilliseconds>
+    <EndMilliseconds>27444</EndMilliseconds>
+    <Text>Shālì: [@Yǒu@] duōshao zhī mǎyǐ?
+莎莉：[@有@]多少只蚂蚁?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27445</StartMilliseconds>
+    <EndMilliseconds>28350</EndMilliseconds>
+    <Text>Shālì: Yǒu [@duōshao@] zhī mǎyǐ?
+莎莉：有[@多少@]只蚂蚁?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>28351</StartMilliseconds>
+    <EndMilliseconds>28889</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao [@zhī@] mǎyǐ?
+莎莉：有多少[@只@]蚂蚁?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>28890</StartMilliseconds>
+    <EndMilliseconds>30167</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao zhī [@mǎyǐ@]?
+莎莉：有多少只[@蚂蚁@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>30168</StartMilliseconds>
+    <EndMilliseconds>30723</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao zhī mǎyǐ?
+莎莉：有多少只蚂蚁?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>30724</StartMilliseconds>
+    <EndMilliseconds>31336</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng zhī mǎyǐ, sān zhī mǎyǐ......
+敏宇：一只蚂蚁，两只蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>31337</StartMilliseconds>
+    <EndMilliseconds>32067</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Yì@] zhī mǎyǐ, liǎng zhī mǎyǐ, sān zhī mǎyǐ......
+敏宇：[@一@]只蚂蚁，两只蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>32068</StartMilliseconds>
+    <EndMilliseconds>32517</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì [@zhī@] mǎyǐ, liǎng zhī mǎyǐ, sān zhī mǎyǐ......
+敏宇：一[@只@]蚂蚁，两只蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>32518</StartMilliseconds>
+    <EndMilliseconds>33941</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī [@mǎyǐ@], liǎng zhī mǎyǐ, sān zhī mǎyǐ......
+敏宇：一只[@蚂蚁@]，两只蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>33942</StartMilliseconds>
+    <EndMilliseconds>34713</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, [@liǎng@] zhī mǎyǐ, sān zhī mǎyǐ......
+敏宇：一只蚂蚁，[@两@]只蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>34714</StartMilliseconds>
+    <EndMilliseconds>35254</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng [@zhī@] mǎyǐ, sān zhī mǎyǐ......
+敏宇：一只蚂蚁，两[@只@]蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>35255</StartMilliseconds>
+    <EndMilliseconds>36703</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng zhī [@mǎyǐ@], sān zhī mǎyǐ......
+敏宇：一只蚂蚁，两只[@蚂蚁@]，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>36704</StartMilliseconds>
+    <EndMilliseconds>37508</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng zhī mǎyǐ, [@sān@] zhī mǎyǐ......
+敏宇：一只蚂蚁，两只蚂蚁，[@三@]只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>37509</StartMilliseconds>
+    <EndMilliseconds>38118</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng zhī mǎyǐ, sān [@zhī@] mǎyǐ......
+敏宇：一只蚂蚁，两只蚂蚁，三[@只@]蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>38119</StartMilliseconds>
+    <EndMilliseconds>39384</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng zhī mǎyǐ, sān zhī [@mǎyǐ@]......
+敏宇：一只蚂蚁，两只蚂蚁，三只[@蚂蚁@]......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>39385</StartMilliseconds>
+    <EndMilliseconds>40011</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mǎyǐ, liǎng zhī mǎyǐ, sān zhī mǎyǐ......
+敏宇：一只蚂蚁，两只蚂蚁，三只蚂蚁......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>40012</StartMilliseconds>
+    <EndMilliseconds>40789</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī zhī mǎyǐ, bā zhī mǎyǐ.
+皮特：六只蚂蚁，七只蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>40790</StartMilliseconds>
+    <EndMilliseconds>41735</EndMilliseconds>
+    <Text>Pítè: [@Liù@] zhī mǎyǐ, qī zhī mǎyǐ, bā zhī mǎyǐ.
+皮特：[@六@]只蚂蚁，七只蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>41736</StartMilliseconds>
+    <EndMilliseconds>42212</EndMilliseconds>
+    <Text>Pítè: Liù [@zhī@] mǎyǐ, qī zhī mǎyǐ, bā zhī mǎyǐ.
+皮特：六[@只@]蚂蚁，七只蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>42213</StartMilliseconds>
+    <EndMilliseconds>43906</EndMilliseconds>
+    <Text>Pítè: Liù zhī [@mǎyǐ@], qī zhī mǎyǐ, bā zhī mǎyǐ.
+皮特：六只[@蚂蚁@]，七只蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>43907</StartMilliseconds>
+    <EndMilliseconds>44827</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, [@qī@] zhī mǎyǐ, bā zhī mǎyǐ.
+皮特：六只蚂蚁，[@七@]只蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>44828</StartMilliseconds>
+    <EndMilliseconds>45461</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī [@zhī@] mǎyǐ, bā zhī mǎyǐ.
+皮特：六只蚂蚁，七[@只@]蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>45462</StartMilliseconds>
+    <EndMilliseconds>47376</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī zhī [@mǎyǐ@], bā zhī mǎyǐ.
+皮特：六只蚂蚁，七只[@蚂蚁@]，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>47377</StartMilliseconds>
+    <EndMilliseconds>48319</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī zhī mǎyǐ, [@bā@] zhī mǎyǐ.
+皮特：六只蚂蚁，七只蚂蚁，[@八@]只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>48320</StartMilliseconds>
+    <EndMilliseconds>48972</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī zhī mǎyǐ, bā [@zhī@] mǎyǐ.
+皮特：六只蚂蚁，七只蚂蚁，八[@只@]蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>48973</StartMilliseconds>
+    <EndMilliseconds>50585</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī zhī mǎyǐ, bā zhī [@mǎyǐ@].
+皮特：六只蚂蚁，七只蚂蚁，八只[@蚂蚁@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>50586</StartMilliseconds>
+    <EndMilliseconds>51044</EndMilliseconds>
+    <Text>Pítè: Liù zhī mǎyǐ, qī zhī mǎyǐ, bā zhī mǎyǐ.
+皮特：六只蚂蚁，七只蚂蚁，八只蚂蚁。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>51045</StartMilliseconds>
+    <EndMilliseconds>51583</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì zhī mìfēng!
+敏宇：哦，有一只蜜蜂！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>51584</StartMilliseconds>
+    <EndMilliseconds>52658</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Ò@], yǒu yì zhī mìfēng!
+敏宇：[@哦@]，有一只蜜蜂！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>52659</StartMilliseconds>
+    <EndMilliseconds>53281</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, [@yǒu@] yì zhī mìfēng!
+敏宇：哦，[@有@]一只蜜蜂！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>53282</StartMilliseconds>
+    <EndMilliseconds>53625</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu [@yì@] zhī mìfēng!
+敏宇：哦，有[@一@]只蜜蜂！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>53626</StartMilliseconds>
+    <EndMilliseconds>54181</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì [@zhī@] mìfēng!
+敏宇：哦，有一[@只@]蜜蜂！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>54182</StartMilliseconds>
+    <EndMilliseconds>55460</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì zhī [@mìfēng@]!
+敏宇：哦，有一只[@蜜蜂@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>55461</StartMilliseconds>
+    <EndMilliseconds>56588</EndMilliseconds>
+    <Text>Mǐnyǔ: Ò, yǒu yì zhī mìfēng!
+敏宇：哦，有一只蜜蜂！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>56589</StartMilliseconds>
+    <EndMilliseconds>57414</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao zhī mìfēng?
+莎莉：有多少只蜜蜂？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>57415</StartMilliseconds>
+    <EndMilliseconds>58292</EndMilliseconds>
+    <Text>Shālì: [@Yǒu@] duōshao zhī mìfēng?
+莎莉：[@有@]多少只蜜蜂？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>58293</StartMilliseconds>
+    <EndMilliseconds>59108</EndMilliseconds>
+    <Text>Shālì: Yǒu [@duōshao@] zhī mìfēng?
+莎莉：有[@多少@]只蜜蜂？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>59109</StartMilliseconds>
+    <EndMilliseconds>59704</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao [@zhī@] mìfēng?
+莎莉：有多少[@只@]蜜蜂？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>59705</StartMilliseconds>
+    <EndMilliseconds>60824</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao zhī [@mìfēng@]?
+莎莉：有多少只[@蜜蜂@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>60825</StartMilliseconds>
+    <EndMilliseconds>61383</EndMilliseconds>
+    <Text>Shālì: Yǒu duōshao zhī mìfēng?
+莎莉：有多少只蜜蜂？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>61384</StartMilliseconds>
+    <EndMilliseconds>62039</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng zhī mìfēng, sān zhī mìfēng......
+敏宇：一只蜜蜂，两只蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>62040</StartMilliseconds>
+    <EndMilliseconds>62755</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Yì@] zhī mìfēng, liǎng zhī mìfēng, sān zhī mìfēng......
+敏宇：[@一@]只蜜蜂，两只蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>62756</StartMilliseconds>
+    <EndMilliseconds>63373</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì [@zhī@] mìfēng, liǎng zhī mìfēng, sān zhī mìfēng......
+敏宇：一[@只@]蜜蜂，两只蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>63374</StartMilliseconds>
+    <EndMilliseconds>64708</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī [@mìfēng@], liǎng zhī mìfēng, sān zhī mìfēng......
+敏宇：一只[@蜜蜂@]，两只蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>64709</StartMilliseconds>
+    <EndMilliseconds>65496</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, [@liǎng@] zhī mìfēng, sān zhī mìfēng......
+敏宇：一只蜜蜂，[@两@]只蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>65497</StartMilliseconds>
+    <EndMilliseconds>66092</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng [@zhī@] mìfēng, sān zhī mìfēng......
+敏宇：一只蜜蜂，两[@只@]蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>66093</StartMilliseconds>
+    <EndMilliseconds>67631</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng zhī [@mìfēng@], sān zhī mìfēng......
+敏宇：一只蜜蜂，两只[@蜜蜂@]，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>67632</StartMilliseconds>
+    <EndMilliseconds>68447</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng zhī mìfēng, [@sān@] zhī mìfēng......
+敏宇：一只蜜蜂，两只蜜蜂，[@三@]只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>68448</StartMilliseconds>
+    <EndMilliseconds>69105</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng zhī mìfēng, sān [@zhī@] mìfēng......
+敏宇：一只蜜蜂，两只蜜蜂，三[@只@]蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>69106</StartMilliseconds>
+    <EndMilliseconds>70224</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng zhī mìfēng, sān zhī [@mìfēng@]......
+敏宇：一只蜜蜂，两只蜜蜂，三只[@蜜蜂@]......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>70225</StartMilliseconds>
+    <EndMilliseconds>70720</EndMilliseconds>
+    <Text>Mǐnyǔ: Yì zhī mìfēng, liǎng zhī mìfēng, sān zhī mìfēng......
+敏宇：一只蜜蜂，两只蜜蜂，三只蜜蜂......</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>70721</StartMilliseconds>
+    <EndMilliseconds>71339</EndMilliseconds>
+    <Text>Pítè: Kuài pǎo!
+皮特：快跑！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>71340</StartMilliseconds>
+    <EndMilliseconds>71970</EndMilliseconds>
+    <Text>Pítè: [@Kuài@] pǎo!
+皮特：[@快@]跑！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>71971</StartMilliseconds>
+    <EndMilliseconds>73182</EndMilliseconds>
+    <Text>Pítè: Kuài [@pǎo@]!
+皮特：快[@跑@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>73183</StartMilliseconds>
+    <EndMilliseconds>75663</EndMilliseconds>
+    <Text>Pítè: Kuài pǎo!
+皮特：快跑！</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10009</StartMilliseconds>
+    <EndMilliseconds>12460</EndMilliseconds>
+    <Text>马克西：我们可以藏在这里。
+Mǎkèxī: Wǒmen kěyǐ cángzài zhèli.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12461</StartMilliseconds>
+    <EndMilliseconds>12757</EndMilliseconds>
+    <Text>马克西：[@我们@]可以藏在这里。
+Mǎkèxī: [@Wǒmen@] kěyǐ cángzài zhèli.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12758</StartMilliseconds>
+    <EndMilliseconds>13038</EndMilliseconds>
+    <Text>马克西：我们[@可以@]藏在这里。
+Mǎkèxī: Wǒmen [@kěyǐ@] cángzài zhèli.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13039</StartMilliseconds>
+    <EndMilliseconds>13491</EndMilliseconds>
+    <Text>马克西：我们可以[@藏在@]这里。
+Mǎkèxī: Wǒmen kěyǐ [@cángzài@] zhèli.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13491</StartMilliseconds>
+    <EndMilliseconds>14176</EndMilliseconds>
+    <Text>马克西：我们可以藏在[@这里@]。
+Mǎkèxī: Wǒmen kěyǐ cángzài [@zhèli@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14177</StartMilliseconds>
+    <EndMilliseconds>15811</EndMilliseconds>
+    <Text>马克西：我们可以藏在这里。
+Mǎkèxī: Wǒmen kěyǐ cángzài zhèli.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15812</StartMilliseconds>
+    <EndMilliseconds>17944</EndMilliseconds>
+    <Text>塔克：我很无聊。我想去游泳。
+Tǎkè: Wǒ hěn wúliáo. Wǒ xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>17945</StartMilliseconds>
+    <EndMilliseconds>18180</EndMilliseconds>
+    <Text>塔克：[@我@]很无聊。我想去游泳。
+Tǎkè: [@Wǒ@] hěn wúliáo. Wǒ xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>18181</StartMilliseconds>
+    <EndMilliseconds>18467</EndMilliseconds>
+    <Text>塔克：我[@很@]无聊。我想去游泳。
+Tǎkè: Wǒ [@hěn@] wúliáo. Wǒ xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>18468</StartMilliseconds>
+    <EndMilliseconds>19127</EndMilliseconds>
+    <Text>塔克：我很[@无聊@]。我想去游泳。
+Tǎkè: Wǒ hěn [@wúliáo@]. Wǒ xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>19128</StartMilliseconds>
+    <EndMilliseconds>19600</EndMilliseconds>
+    <Text>塔克：我很无聊。我想去游泳。
+Tǎkè: Wǒ hěn wúliáo. Wǒ xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>19601</StartMilliseconds>
+    <EndMilliseconds>19808</EndMilliseconds>
+    <Text>塔克：我很无聊。[@我@]想去游泳。
+Tǎkè: Wǒ hěn wúliáo. [@Wǒ@] xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19809</StartMilliseconds>
+    <EndMilliseconds>20053</EndMilliseconds>
+    <Text>塔克：我很无聊。我[@想@]去游泳。
+Tǎkè: Wǒ hěn wúliáo. Wǒ [@xiǎng@] qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20054</StartMilliseconds>
+    <EndMilliseconds>20257</EndMilliseconds>
+    <Text>塔克：我很无聊。我想[@去@]游泳。
+Tǎkè: Wǒ hěn wúliáo. Wǒ xiǎng [@qù@] yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>20258</StartMilliseconds>
+    <EndMilliseconds>20426</EndMilliseconds>
+    <Text>塔克：我很无聊。我想去[@游@]泳。
+Tǎkè: Wǒ hěn wúliáo. Wǒ xiǎng qù [@yóu@] yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20427</StartMilliseconds>
+    <EndMilliseconds>21044</EndMilliseconds>
+    <Text>塔克：我很无聊。我想去游[@泳@]。
+Tǎkè: Wǒ hěn wúliáo. Wǒ xiǎng qù yóu [@yǒng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>21045</StartMilliseconds>
+    <EndMilliseconds>21961</EndMilliseconds>
+    <Text>塔克：我很无聊。我想去游泳。
+Tǎkè: Wǒ hěn wúliáo. Wǒ xiǎng qù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21962</StartMilliseconds>
+    <EndMilliseconds>22322</EndMilliseconds>
+    <Text>马克西：你多久游一次泳？
+Mǎkèxī: Nǐ duōjiǔ yóu yí cì yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>22323</StartMilliseconds>
+    <EndMilliseconds>22526</EndMilliseconds>
+    <Text>马克西：[@你@]多久游一次泳？
+Mǎkèxī: [@Nǐ@] duōjiǔ yóu yí cì yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>22527</StartMilliseconds>
+    <EndMilliseconds>22946</EndMilliseconds>
+    <Text>马克西：你[@多久@]游一次泳？
+Mǎkèxī: Nǐ [@duōjiǔ@] yóu yí cì yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22946</StartMilliseconds>
+    <EndMilliseconds>23125</EndMilliseconds>
+    <Text>马克西：你多久[@游@]一次泳？
+Mǎkèxī: Nǐ duōjiǔ [@yóu@] yí cì yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>23126</StartMilliseconds>
+    <EndMilliseconds>23302</EndMilliseconds>
+    <Text>马克西：你多久游[@一@]次泳？
+Mǎkèxī: Nǐ duōjiǔ yóu [@yí@] cì yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>23303</StartMilliseconds>
+    <EndMilliseconds>23532</EndMilliseconds>
+    <Text>马克西：你多久游一[@次@]泳？
+Mǎkèxī: Nǐ duōjiǔ yóu yí [@cì@] yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>23533</StartMilliseconds>
+    <EndMilliseconds>23934</EndMilliseconds>
+    <Text>马克西：你多久游一次[@泳@]？
+Mǎkèxī: Nǐ duōjiǔ yóu yí cì [@yǒng@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>23935</StartMilliseconds>
+    <EndMilliseconds>24808</EndMilliseconds>
+    <Text>马克西：你多久游一次泳？
+Mǎkèxī: Nǐ duōjiǔ yóu yí cì yǒng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>24809</StartMilliseconds>
+    <EndMilliseconds>25111</EndMilliseconds>
+    <Text>塔克：我偶尔游泳。
+Tǎkè: Wǒ ǒu'ěr yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>25112</StartMilliseconds>
+    <EndMilliseconds>25299</EndMilliseconds>
+    <Text>塔克：[@我@]偶尔游泳。
+Tǎkè: [@Wǒ@] ǒu'ěr yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>25300</StartMilliseconds>
+    <EndMilliseconds>25733</EndMilliseconds>
+    <Text>塔克：我[@偶尔@]游泳。
+Tǎkè: Wǒ [@ǒu'ěr@] yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>25734</StartMilliseconds>
+    <EndMilliseconds>25955</EndMilliseconds>
+    <Text>塔克：我偶尔[@游@]泳。
+Tǎkè: Wǒ ǒu'ěr [@yóu@] yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>25956</StartMilliseconds>
+    <EndMilliseconds>26370</EndMilliseconds>
+    <Text>塔克：我偶尔游[@泳@]。
+Tǎkè: Wǒ ǒu'ěr yóu [@yǒng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>26371</StartMilliseconds>
+    <EndMilliseconds>28328</EndMilliseconds>
+    <Text>塔克：我偶尔游泳。
+Tǎkè: Wǒ ǒu'ěr yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>28329</StartMilliseconds>
+    <EndMilliseconds>28562</EndMilliseconds>
+    <Text>马克西：我从来不游泳。
+Mǎkèxī: Wǒ cónglái bù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28563</StartMilliseconds>
+    <EndMilliseconds>28742</EndMilliseconds>
+    <Text>马克西：[@我@]从来不游泳。
+Mǎkèxī: [@Wǒ@] cónglái bù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>28743</StartMilliseconds>
+    <EndMilliseconds>29278</EndMilliseconds>
+    <Text>马克西：我[@从来@]不游泳。
+Mǎkèxī: Wǒ [@cónglái@] bù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>29279</StartMilliseconds>
+    <EndMilliseconds>29414</EndMilliseconds>
+    <Text>马克西：我从来[@不@]游泳。
+Mǎkèxī: Wǒ cónglái [@bù@] yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>29415</StartMilliseconds>
+    <EndMilliseconds>29628</EndMilliseconds>
+    <Text>马克西：我从来不[@游@]泳。
+Mǎkèxī: Wǒ cónglái bù [@yóu@] yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>29629</StartMilliseconds>
+    <EndMilliseconds>30059</EndMilliseconds>
+    <Text>马克西：我从来不游[@泳@]。
+Mǎkèxī: Wǒ cónglái bù yóu [@yǒng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>30060</StartMilliseconds>
+    <EndMilliseconds>31499</EndMilliseconds>
+    <Text>马克西：我从来不游泳。
+Mǎkèxī: Wǒ cónglái bù yóu yǒng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>31500</StartMilliseconds>
+    <EndMilliseconds>33270</EndMilliseconds>
+    <Text>马克西：塔克！当心！
+Mǎkèxī: Tǎkè! Dāngxīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>33271</StartMilliseconds>
+    <EndMilliseconds>33922</EndMilliseconds>
+    <Text>马克西：[@塔克@]！当心！
+Mǎkèxī: [@Tǎkè@]! Dāngxīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>33923</StartMilliseconds>
+    <EndMilliseconds>34552</EndMilliseconds>
+    <Text>马克西：塔克！[@当心@]！
+Mǎkèxī: Tǎkè! [@Dāngxīn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>34553</StartMilliseconds>
+    <EndMilliseconds>36981</EndMilliseconds>
+    <Text>马克西：塔克！当心！
+Mǎkèxī: Tǎkè! Dāngxīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>36982</StartMilliseconds>
+    <EndMilliseconds>38603</EndMilliseconds>
+    <Text>塔克：真好玩儿！
+Tǎkè: Zhēn hǎowánr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>38604</StartMilliseconds>
+    <EndMilliseconds>39004</EndMilliseconds>
+    <Text>塔克：[@真@]好玩儿！
+Tǎkè: [@Zhēn@] hǎowánr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>39005</StartMilliseconds>
+    <EndMilliseconds>39803</EndMilliseconds>
+    <Text>塔克：真[@好玩儿@]！
+Tǎkè: Zhēn [@hǎowánr@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>39804</StartMilliseconds>
+    <EndMilliseconds>42263</EndMilliseconds>
+    <Text>塔克：真好玩儿！
+Tǎkè: Zhēn hǎowánr!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>42264</StartMilliseconds>
+    <EndMilliseconds>43332</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但我喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>43333</StartMilliseconds>
+    <EndMilliseconds>43530</EndMilliseconds>
+    <Text>马克西：[@我@]不喜欢游泳，但我喜欢钓鱼。
+Mǎkèxī: [@Wǒ@] bù xǐhuan yóu yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>43531</StartMilliseconds>
+    <EndMilliseconds>43728</EndMilliseconds>
+    <Text>马克西：我[@不@]喜欢游泳，但我喜欢钓鱼。
+Mǎkèxī: Wǒ [@bù@] xǐhuan yóu yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>43729</StartMilliseconds>
+    <EndMilliseconds>44104</EndMilliseconds>
+    <Text>马克西：我不[@喜欢@]游泳，但我喜欢钓鱼。
+Mǎkèxī: Wǒ bù [@xǐhuan@] yóu yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>44105</StartMilliseconds>
+    <EndMilliseconds>44310</EndMilliseconds>
+    <Text>马克西：我不喜欢[@游@]泳，但我喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan [@yóu@] yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>44311</StartMilliseconds>
+    <EndMilliseconds>44767</EndMilliseconds>
+    <Text>马克西：我不喜欢游[@泳@]，但我喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu [@yǒng@], dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>44768</StartMilliseconds>
+    <EndMilliseconds>45134</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但我喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>45135</StartMilliseconds>
+    <EndMilliseconds>45317</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，[@但@]我喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, [@dàn@] wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>45318</StartMilliseconds>
+    <EndMilliseconds>45547</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但[@我@]喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn [@wǒ@] xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>45548</StartMilliseconds>
+    <EndMilliseconds>45976</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但我[@喜欢@]钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn wǒ [@xǐhuan@] diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>45977</StartMilliseconds>
+    <EndMilliseconds>46284</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但我喜欢[@钓@]鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn wǒ xǐhuan [@diào@] yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>46285</StartMilliseconds>
+    <EndMilliseconds>46741</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但我喜欢钓[@鱼@]。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn wǒ xǐhuan diào [@yú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>46742</StartMilliseconds>
+    <EndMilliseconds>50348</EndMilliseconds>
+    <Text>马克西：我不喜欢游泳，但我喜欢钓鱼。
+Mǎkèxī: Wǒ bù xǐhuan yóu yǒng, dàn wǒ xǐhuan diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>50349</StartMilliseconds>
+    <EndMilliseconds>53038</EndMilliseconds>
+    <Text>塔克：你多久钓一次鱼？
+Tǎkè: Nǐ duōjiǔ diào yí cì yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>53039</StartMilliseconds>
+    <EndMilliseconds>53258</EndMilliseconds>
+    <Text>塔克：[@你@]多久钓一次鱼？
+Tǎkè: [@Nǐ@] duōjiǔ diào yí cì yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>53259</StartMilliseconds>
+    <EndMilliseconds>53704</EndMilliseconds>
+    <Text>塔克：你[@多久@]钓一次鱼？
+Tǎkè: Nǐ [@duōjiǔ@] diào yí cì yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>53704</StartMilliseconds>
+    <EndMilliseconds>53948</EndMilliseconds>
+    <Text>塔克：你多久[@钓@]一次鱼？
+Tǎkè: Nǐ duōjiǔ [@diào@] yí cì yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>53949</StartMilliseconds>
+    <EndMilliseconds>54107</EndMilliseconds>
+    <Text>塔克：你多久钓[@一@]次鱼？
+Tǎkè: Nǐ duōjiǔ diào [@yí@] cì yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>54108</StartMilliseconds>
+    <EndMilliseconds>54308</EndMilliseconds>
+    <Text>塔克：你多久钓一[@次@]鱼？
+Tǎkè: Nǐ duōjiǔ diào yí [@cì@] yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>54309</StartMilliseconds>
+    <EndMilliseconds>54634</EndMilliseconds>
+    <Text>塔克：你多久钓一次[@鱼@]？
+Tǎkè: Nǐ duōjiǔ diào yí cì [@yú@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>54635</StartMilliseconds>
+    <EndMilliseconds>55555</EndMilliseconds>
+    <Text>塔克：你多久钓一次鱼？
+Tǎkè: Nǐ duōjiǔ diào yí cì yú?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>55556</StartMilliseconds>
+    <EndMilliseconds>56025</EndMilliseconds>
+    <Text>马克西：我经常钓鱼。
+Mǎkèxī: Wǒ jīngcháng diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>56026</StartMilliseconds>
+    <EndMilliseconds>56286</EndMilliseconds>
+    <Text>马克西：[@我@]经常钓鱼。
+Mǎkèxī: [@Wǒ@] jīngcháng diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>56287</StartMilliseconds>
+    <EndMilliseconds>56849</EndMilliseconds>
+    <Text>马克西：我[@经常@]钓鱼。
+Mǎkèxī: Wǒ [@jīngcháng@] diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>56850</StartMilliseconds>
+    <EndMilliseconds>57198</EndMilliseconds>
+    <Text>马克西：我经常[@钓@]鱼。
+Mǎkèxī: Wǒ jīngcháng [@diào@] yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>57199</StartMilliseconds>
+    <EndMilliseconds>57633</EndMilliseconds>
+    <Text>马克西：我经常钓[@鱼@]。
+Mǎkèxī: Wǒ jīngcháng diào [@yú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>57634</StartMilliseconds>
+    <EndMilliseconds>58996</EndMilliseconds>
+    <Text>马克西：我经常钓鱼。
+Mǎkèxī: Wǒ jīngcháng diào yú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>58997</StartMilliseconds>
+    <EndMilliseconds>60880</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在去钓鱼吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>60881</StartMilliseconds>
+    <EndMilliseconds>61306</EndMilliseconds>
+    <Text>塔克：[@看@]，马克西！我们现在去钓鱼吧！
+Tǎkè: [@Kàn@], Mǎkèxī! Wǒmen xiànzài qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>61307</StartMilliseconds>
+    <EndMilliseconds>62045</EndMilliseconds>
+    <Text>塔克：看，[@马克西@]！我们现在去钓鱼吧！
+Tǎkè: Kàn, [@Mǎkèxī@]! Wǒmen xiànzài qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>62046</StartMilliseconds>
+    <EndMilliseconds>62259</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在去钓鱼吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>62260</StartMilliseconds>
+    <EndMilliseconds>62615</EndMilliseconds>
+    <Text>塔克：看，马克西！[@我们@]现在去钓鱼吧！
+Tǎkè: Kàn, Mǎkèxī! [@Wǒmen@] xiànzài qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>62616</StartMilliseconds>
+    <EndMilliseconds>63115</EndMilliseconds>
+    <Text>塔克：看，马克西！我们[@现在@]去钓鱼吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen [@xiànzài@] qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>63116</StartMilliseconds>
+    <EndMilliseconds>63256</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在[@去@]钓鱼吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài [@qù@] diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>63257</StartMilliseconds>
+    <EndMilliseconds>63444</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在去[@钓@]鱼吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài qù [@diào@] yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>63445</StartMilliseconds>
+    <EndMilliseconds>63688</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在去钓[@鱼@]吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài qù diào [@yú@] ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>63689</StartMilliseconds>
+    <EndMilliseconds>64044</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在去钓鱼[@吧@]！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài qù diào yú [@ba@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>64045</StartMilliseconds>
+    <EndMilliseconds>64458</EndMilliseconds>
+    <Text>塔克：看，马克西！我们现在去钓鱼吧！
+Tǎkè: Kàn, Mǎkèxī! Wǒmen xiànzài qù diào yú ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>64459</StartMilliseconds>
+    <EndMilliseconds>64727</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，但是我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>64728</StartMilliseconds>
+    <EndMilliseconds>65491</EndMilliseconds>
+    <Text>马克西：[@哎呀@]！我不喜欢水，但是我喜欢鱼！
+Mǎkèxī: [@Āiyā@]! Wǒ bù xǐhuan shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>65492</StartMilliseconds>
+    <EndMilliseconds>65764</EndMilliseconds>
+    <Text>马克西：哎呀！[@我@]不喜欢水，但是我喜欢鱼！
+Mǎkèxī: Āiyā! [@Wǒ@] bù xǐhuan shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>65765</StartMilliseconds>
+    <EndMilliseconds>65981</EndMilliseconds>
+    <Text>马克西：哎呀！我[@不@]喜欢水，但是我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ [@bù@] xǐhuan shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>65982</StartMilliseconds>
+    <EndMilliseconds>66456</EndMilliseconds>
+    <Text>马克西：哎呀！我不[@喜欢@]水，但是我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù [@xǐhuan@] shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>66457</StartMilliseconds>
+    <EndMilliseconds>66918</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢[@水@]，但是我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan [@shuǐ@], dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>66919</StartMilliseconds>
+    <EndMilliseconds>69280</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，但是我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>69281</StartMilliseconds>
+    <EndMilliseconds>69936</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，[@但是@]我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, [@dànshì@] Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>69937</StartMilliseconds>
+    <EndMilliseconds>70200</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，但是[@我@]喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, dànshì [@Wǒ@] xǐhuan yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>70201</StartMilliseconds>
+    <EndMilliseconds>70650</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，但是我[@喜欢@]鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, dànshì Wǒ [@xǐhuan@] yú!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>70651</StartMilliseconds>
+    <EndMilliseconds>71050</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，但是我喜欢[@鱼@]！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, dànshì Wǒ xǐhuan [@yú@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>71051</StartMilliseconds>
+    <EndMilliseconds>75508</EndMilliseconds>
+    <Text>马克西：哎呀！我不喜欢水，但是我喜欢鱼！
+Mǎkèxī: Āiyā! Wǒ bù xǐhuan shuǐ, dànshì Wǒ xǐhuan yú!</Text>
+  </Paragraph>
+</Subtitle>

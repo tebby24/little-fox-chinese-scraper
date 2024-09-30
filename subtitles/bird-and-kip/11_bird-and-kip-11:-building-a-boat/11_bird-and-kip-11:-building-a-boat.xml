@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9889</StartMilliseconds>
+    <EndMilliseconds>13056</EndMilliseconds>
+    <Text>小鸟和基普去了沙滩。
+Xiǎoniǎo hé Jīpǔ qù le shātān. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13057</StartMilliseconds>
+    <EndMilliseconds>13924</EndMilliseconds>
+    <Text>[@小鸟@]和基普去了沙滩。
+[@Xiǎoniǎo@] hé Jīpǔ qù le shātān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13925</StartMilliseconds>
+    <EndMilliseconds>14209</EndMilliseconds>
+    <Text>小鸟[@和@]基普去了沙滩。
+Xiǎoniǎo [@hé@] Jīpǔ qù le shātān. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14210</StartMilliseconds>
+    <EndMilliseconds>15246</EndMilliseconds>
+    <Text>小鸟和[@基普@]去了沙滩。
+Xiǎoniǎo hé [@Jīpǔ@] qù le shātān. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15247</StartMilliseconds>
+    <EndMilliseconds>15466</EndMilliseconds>
+    <Text>小鸟和基普[@去@]了沙滩。
+Xiǎoniǎo hé Jīpǔ [@qù@] le shātān. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15467</StartMilliseconds>
+    <EndMilliseconds>15701</EndMilliseconds>
+    <Text>小鸟和基普去[@了@]沙滩。
+Xiǎoniǎo hé Jīpǔ qù [@le@] shātān. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15702</StartMilliseconds>
+    <EndMilliseconds>16566</EndMilliseconds>
+    <Text>小鸟和基普去了[@沙滩@]。
+Xiǎoniǎo hé Jīpǔ qù le [@shātān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>16567</StartMilliseconds>
+    <EndMilliseconds>19968</EndMilliseconds>
+    <Text>小鸟和基普去了沙滩。
+Xiǎoniǎo hé Jīpǔ qù le shātān. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>19969</StartMilliseconds>
+    <EndMilliseconds>20500</EndMilliseconds>
+    <Text>“你看这些垃圾。”小鸟说。
+"Nǐ kàn zhèxiē lājī." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20501</StartMilliseconds>
+    <EndMilliseconds>20825</EndMilliseconds>
+    <Text>“[@你@]看这些垃圾。”小鸟说。
+"[@Nǐ@] kàn zhèxiē lājī." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>20826</StartMilliseconds>
+    <EndMilliseconds>21412</EndMilliseconds>
+    <Text>“你[@看@]这些垃圾。”小鸟说。
+"Nǐ [@kàn@] zhèxiē lājī." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>21413</StartMilliseconds>
+    <EndMilliseconds>21855</EndMilliseconds>
+    <Text>“你看[@这些@]垃圾。”小鸟说。
+"Nǐ kàn [@zhèxiē@] lājī." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>21856</StartMilliseconds>
+    <EndMilliseconds>22624</EndMilliseconds>
+    <Text>“你看这些[@垃圾@]。”小鸟说。
+"Nǐ kàn zhèxiē [@lājī@]." Xiǎoniǎo shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>22625</StartMilliseconds>
+    <EndMilliseconds>23244</EndMilliseconds>
+    <Text>“你看这些垃圾。”小鸟说。
+"Nǐ kàn zhèxiē lājī." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>23245</StartMilliseconds>
+    <EndMilliseconds>23991</EndMilliseconds>
+    <Text>“你看这些垃圾。”[@小鸟@]说。
+"Nǐ kàn zhèxiē lājī." [@Xiǎoniǎo@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>23992</StartMilliseconds>
+    <EndMilliseconds>24412</EndMilliseconds>
+    <Text>“你看这些垃圾。”小鸟[@说@]。
+"Nǐ kàn zhèxiē lājī." Xiǎoniǎo [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>24413</StartMilliseconds>
+    <EndMilliseconds>24761</EndMilliseconds>
+    <Text>“你看这些垃圾。”小鸟说。
+"Nǐ kàn zhèxiē lājī." Xiǎoniǎo shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>24762</StartMilliseconds>
+    <EndMilliseconds>25261</EndMilliseconds>
+    <Text>“我需要把它们捡起来。”
+"Wǒ xūyào bǎ tāmen jiǎn qǐlai."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>25262</StartMilliseconds>
+    <EndMilliseconds>25517</EndMilliseconds>
+    <Text>“[@我@]需要把它们捡起来。”
+"[@Wǒ@] xūyào bǎ tāmen jiǎn qǐlai."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>25518</StartMilliseconds>
+    <EndMilliseconds>26234</EndMilliseconds>
+    <Text>“我[@需要@]把它们捡起来。”
+"Wǒ [@xūyào@] bǎ tāmen jiǎn qǐlai."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>26235</StartMilliseconds>
+    <EndMilliseconds>26523</EndMilliseconds>
+    <Text>“我需要[@把@]它们捡起来。”
+"Wǒ xūyào [@bǎ@] tāmen jiǎn qǐlai."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>26524</StartMilliseconds>
+    <EndMilliseconds>26994</EndMilliseconds>
+    <Text>“我需要把[@它们@]捡起来。”
+"Wǒ xūyào bǎ [@tāmen@] jiǎn qǐlai."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>26995</StartMilliseconds>
+    <EndMilliseconds>27353</EndMilliseconds>
+    <Text>“我需要把它们[@捡@]起来。”
+"Wǒ xūyào bǎ tāmen [@jiǎn@] qǐlai." </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>27354</StartMilliseconds>
+    <EndMilliseconds>28086</EndMilliseconds>
+    <Text>“我需要把它们捡[@起来@]。”
+"Wǒ xūyào bǎ tāmen jiǎn [@qǐlai@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>28087</StartMilliseconds>
+    <EndMilliseconds>32256</EndMilliseconds>
+    <Text>“我需要把它们捡起来。”
+"Wǒ xūyào bǎ tāmen jiǎn qǐlai."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>32257</StartMilliseconds>
+    <EndMilliseconds>34261</EndMilliseconds>
+    <Text>小鸟捡起了垃圾。
+Xiǎoniǎo jiǎnqǐ le lājī. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>34262</StartMilliseconds>
+    <EndMilliseconds>35067</EndMilliseconds>
+    <Text>[@小鸟@]捡起了垃圾。
+[@Xiǎoniǎo@] jiǎnqǐ le lājī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>35068</StartMilliseconds>
+    <EndMilliseconds>35624</EndMilliseconds>
+    <Text>小鸟[@捡起@]了垃圾。
+Xiǎoniǎo [@jiǎnqǐ@] le lājī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>35625</StartMilliseconds>
+    <EndMilliseconds>35818</EndMilliseconds>
+    <Text>小鸟捡起[@了@]垃圾。
+Xiǎoniǎo jiǎnqǐ [@le@] lājī. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>35819</StartMilliseconds>
+    <EndMilliseconds>36755</EndMilliseconds>
+    <Text>小鸟捡起了[@垃圾@]。
+Xiǎoniǎo jiǎnqǐ le [@lājī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>36756</StartMilliseconds>
+    <EndMilliseconds>39179</EndMilliseconds>
+    <Text>小鸟捡起了垃圾。
+Xiǎoniǎo jiǎnqǐ le lājī. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>39180</StartMilliseconds>
+    <EndMilliseconds>39775</EndMilliseconds>
+    <Text>基普放下他的工具箱。
+Jīpǔ fàngxià tā de gōngjù xiāng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>39776</StartMilliseconds>
+    <EndMilliseconds>40757</EndMilliseconds>
+    <Text>[@基普@]放下他的工具箱。
+[@Jīpǔ@] fàngxià tā de gōngjù xiāng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>40758</StartMilliseconds>
+    <EndMilliseconds>41371</EndMilliseconds>
+    <Text>基普[@放下@]他的工具箱。
+Jīpǔ [@fàngxià@] tā de gōngjù xiāng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>41372</StartMilliseconds>
+    <EndMilliseconds>41628</EndMilliseconds>
+    <Text>基普放下[@他@]的工具箱。
+Jīpǔ fàngxià [@tā@] de gōngjù xiāng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>41629</StartMilliseconds>
+    <EndMilliseconds>41894</EndMilliseconds>
+    <Text>基普放下他[@的@]工具箱。
+Jīpǔ fàngxià tā [@de@] gōngjù xiāng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>41895</StartMilliseconds>
+    <EndMilliseconds>42409</EndMilliseconds>
+    <Text>基普放下他的[@工具@]箱。
+Jīpǔ fàngxià tā de [@gōngjù@] xiāng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>42410</StartMilliseconds>
+    <EndMilliseconds>43044</EndMilliseconds>
+    <Text>基普放下他的工具[@箱@]。
+Jīpǔ fàngxià tā de gōngjù [@xiāng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>43045</StartMilliseconds>
+    <EndMilliseconds>46640</EndMilliseconds>
+    <Text>基普放下他的工具箱。
+Jīpǔ fàngxià tā de gōngjù xiāng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>46641</StartMilliseconds>
+    <EndMilliseconds>48099</EndMilliseconds>
+    <Text>他拿出他的锯子和锤子。
+Tā náchū tā de jùzi hé chuízi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>48100</StartMilliseconds>
+    <EndMilliseconds>48629</EndMilliseconds>
+    <Text>[@他@]拿出他的锯子和锤子。
+[@Tā@] náchū tā de jùzi hé chuízi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>48630</StartMilliseconds>
+    <EndMilliseconds>49525</EndMilliseconds>
+    <Text>他[@拿出@]他的锯子和锤子。
+Tā [@náchū@] tā de jùzi hé chuízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>49526</StartMilliseconds>
+    <EndMilliseconds>49790</EndMilliseconds>
+    <Text>他拿出[@他@]的锯子和锤子。
+Tā náchū [@tā@] de jùzi hé chuízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>49791</StartMilliseconds>
+    <EndMilliseconds>50024</EndMilliseconds>
+    <Text>他拿出他[@的@]锯子和锤子。
+Tā náchū tā [@de@] jùzi hé chuízi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>50025</StartMilliseconds>
+    <EndMilliseconds>51058</EndMilliseconds>
+    <Text>他拿出他的[@锯子@]和锤子。
+Tā náchū tā de [@jùzi@] hé chuízi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>51059</StartMilliseconds>
+    <EndMilliseconds>51421</EndMilliseconds>
+    <Text>他拿出他的锯子[@和@]锤子。
+Tā náchū tā de jùzi [@hé@] chuízi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>51422</StartMilliseconds>
+    <EndMilliseconds>52429</EndMilliseconds>
+    <Text>他拿出他的锯子和[@锤子@]。
+Tā náchū tā de jùzi hé [@chuízi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>52430</StartMilliseconds>
+    <EndMilliseconds>53143</EndMilliseconds>
+    <Text>他拿出他的锯子和锤子。
+Tā náchū tā de jùzi hé chuízi. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>53144</StartMilliseconds>
+    <EndMilliseconds>53611</EndMilliseconds>
+    <Text>他开始造船了。
+Tā kāishǐ zào chuán le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>53612</StartMilliseconds>
+    <EndMilliseconds>54018</EndMilliseconds>
+    <Text>[@他@]开始造船了。
+[@Tā@] kāishǐ zào chuán le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>54019</StartMilliseconds>
+    <EndMilliseconds>54731</EndMilliseconds>
+    <Text>他[@开始@]造船了。
+Tā [@kāishǐ@] zào chuán le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>54732</StartMilliseconds>
+    <EndMilliseconds>55066</EndMilliseconds>
+    <Text>他开始[@造@]船了。
+Tā kāishǐ [@zào@] chuán le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>55067</StartMilliseconds>
+    <EndMilliseconds>55553</EndMilliseconds>
+    <Text>他开始造[@船@]了。
+Tā kāishǐ zào [@chuán@] le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>55554</StartMilliseconds>
+    <EndMilliseconds>56096</EndMilliseconds>
+    <Text>他开始造船[@了@]。
+Tā kāishǐ zào chuán [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>56097</StartMilliseconds>
+    <EndMilliseconds>57137</EndMilliseconds>
+    <Text>他开始造船了。
+Tā kāishǐ zào chuán le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>57138</StartMilliseconds>
+    <EndMilliseconds>60172</EndMilliseconds>
+    <Text>基普并不知道怎么造船。
+Jīpǔ bìng bù zhīdào zěnme zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>60173</StartMilliseconds>
+    <EndMilliseconds>60947</EndMilliseconds>
+    <Text>[@基普@]并不知道怎么造船。
+[@Jīpǔ@] bìng bù zhīdào zěnme zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>60948</StartMilliseconds>
+    <EndMilliseconds>61217</EndMilliseconds>
+    <Text>基普[@并@]不知道怎么造船。
+Jīpǔ [@bìng@] bù zhīdào zěnme zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>61218</StartMilliseconds>
+    <EndMilliseconds>61439</EndMilliseconds>
+    <Text>基普并[@不@]知道怎么造船。
+Jīpǔ bìng [@bù@] zhīdào zěnme zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>61440</StartMilliseconds>
+    <EndMilliseconds>62111</EndMilliseconds>
+    <Text>基普并不[@知道@]怎么造船。
+Jīpǔ bìng bù [@zhīdào@] zěnme zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>62112</StartMilliseconds>
+    <EndMilliseconds>62613</EndMilliseconds>
+    <Text>基普并不知道[@怎么@]造船。
+Jīpǔ bìng bù zhīdào [@zěnme@] zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>62614</StartMilliseconds>
+    <EndMilliseconds>62898</EndMilliseconds>
+    <Text>基普并不知道怎么[@造@]船。
+Jīpǔ bìng bù zhīdào zěnme [@zào@] chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>62899</StartMilliseconds>
+    <EndMilliseconds>63518</EndMilliseconds>
+    <Text>基普并不知道怎么造[@船@]。
+Jīpǔ bìng bù zhīdào zěnme zào [@chuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>63519</StartMilliseconds>
+    <EndMilliseconds>69172</EndMilliseconds>
+    <Text>基普并不知道怎么造船。
+Jīpǔ bìng bù zhīdào zěnme zào chuán. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>69173</StartMilliseconds>
+    <EndMilliseconds>69894</EndMilliseconds>
+    <Text>但他还是尽其所能。
+Dàn tā háishi jìnqísuǒnéng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>69895</StartMilliseconds>
+    <EndMilliseconds>70182</EndMilliseconds>
+    <Text>[@但@]他还是尽其所能。
+[@Dàn@] tā háishi jìnqísuǒnéng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>70183</StartMilliseconds>
+    <EndMilliseconds>70718</EndMilliseconds>
+    <Text>但[@他@]还是尽其所能。
+Dàn [@tā@] háishi jìnqísuǒnéng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>70719</StartMilliseconds>
+    <EndMilliseconds>71420</EndMilliseconds>
+    <Text>但他[@还是@]尽其所能。
+Dàn tā [@háishi@] jìnqísuǒnéng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>71421</StartMilliseconds>
+    <EndMilliseconds>73173</EndMilliseconds>
+    <Text>但他还是[@尽其所能@]。
+Dàn tā háishi [@jìnqísuǒnéng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>73174</StartMilliseconds>
+    <EndMilliseconds>84410</EndMilliseconds>
+    <Text>但他还是尽其所能。
+Dàn tā háishi jìnqísuǒnéng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>84411</StartMilliseconds>
+    <EndMilliseconds>85253</EndMilliseconds>
+    <Text>“我等不及要去航海了。”他说。
+"Wǒ děng bu jí yào qù hánghǎi le." Tā shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>85254</StartMilliseconds>
+    <EndMilliseconds>86021</EndMilliseconds>
+    <Text>“[@我@]等不及要去航海了。”他说。
+"[@Wǒ@] děng bu jí yào qù hánghǎi le." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>86022</StartMilliseconds>
+    <EndMilliseconds>86372</EndMilliseconds>
+    <Text>“我[@等@]不及要去航海了。”他说。
+"Wǒ [@děng@] bu jí yào qù hánghǎi le." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>86373</StartMilliseconds>
+    <EndMilliseconds>86534</EndMilliseconds>
+    <Text>“我等[@不@]及要去航海了。”他说。
+"Wǒ děng [@bu@] jí yào qù hánghǎi le." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>86535</StartMilliseconds>
+    <EndMilliseconds>87065</EndMilliseconds>
+    <Text>“我等不[@及@]要去航海了。”他说。
+"Wǒ děng bu [@jí@] yào qù hánghǎi le." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>87066</StartMilliseconds>
+    <EndMilliseconds>87380</EndMilliseconds>
+    <Text>“我等不及[@要@]去航海了。”他说。
+"Wǒ děng bu jí [@yào@] qù hánghǎi le." Tā shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>87381</StartMilliseconds>
+    <EndMilliseconds>87740</EndMilliseconds>
+    <Text>“我等不及要[@去@]航海了。”他说。
+"Wǒ děng bu jí yào [@qù@] hánghǎi le." Tā shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>87741</StartMilliseconds>
+    <EndMilliseconds>88554</EndMilliseconds>
+    <Text>“我等不及要去[@航海@]了。”他说。
+"Wǒ děng bu jí yào qù [@hánghǎi@] le." Tā shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>88555</StartMilliseconds>
+    <EndMilliseconds>89094</EndMilliseconds>
+    <Text>“我等不及要去航海[@了@]。”他说。
+"Wǒ děng bu jí yào qù hánghǎi [@le@]." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>89095</StartMilliseconds>
+    <EndMilliseconds>89561</EndMilliseconds>
+    <Text>“我等不及要去航海了。”他说。
+"Wǒ děng bu jí yào qù hánghǎi le." Tā shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>89562</StartMilliseconds>
+    <EndMilliseconds>89841</EndMilliseconds>
+    <Text>“我等不及要去航海了。”[@他@]说。
+"Wǒ děng bu jí yào qù hánghǎi le." [@Tā@] shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>89842</StartMilliseconds>
+    <EndMilliseconds>90422</EndMilliseconds>
+    <Text>“我等不及要去航海了。”他[@说@]。
+"Wǒ děng bu jí yào qù hánghǎi le." Tā [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>90423</StartMilliseconds>
+    <EndMilliseconds>91991</EndMilliseconds>
+    <Text>“我等不及要去航海了。”他说。
+"Wǒ děng bu jí yào qù hánghǎi le." Tā shuō. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>91992</StartMilliseconds>
+    <EndMilliseconds>92767</EndMilliseconds>
+    <Text>就在这时，一个巨浪涌来。
+Jiù zài zhèshí, yí ge jùlàng yǒnglái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>92768</StartMilliseconds>
+    <EndMilliseconds>93069</EndMilliseconds>
+    <Text>[@就@]在这时，一个巨浪涌来。
+[@Jiù@] zài zhèshí, yí ge jùlàng yǒnglái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>93070</StartMilliseconds>
+    <EndMilliseconds>93319</EndMilliseconds>
+    <Text>就[@在@]这时，一个巨浪涌来。
+Jiù [@zài@] zhèshí, yí ge jùlàng yǒnglái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>93320</StartMilliseconds>
+    <EndMilliseconds>94473</EndMilliseconds>
+    <Text>就在[@这时@]，一个巨浪涌来。
+Jiù zài [@zhèshí@], yí ge jùlàng yǒnglái.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>94474</StartMilliseconds>
+    <EndMilliseconds>94660</EndMilliseconds>
+    <Text>就在这时，[@一@]个巨浪涌来。
+Jiù zài zhèshí, [@yí@] ge jùlàng yǒnglái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>94661</StartMilliseconds>
+    <EndMilliseconds>94872</EndMilliseconds>
+    <Text>就在这时，一[@个@]巨浪涌来。
+Jiù zài zhèshí, yí [@ge@] jùlàng yǒnglái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>94873</StartMilliseconds>
+    <EndMilliseconds>95569</EndMilliseconds>
+    <Text>就在这时，一个[@巨浪@]涌来。
+Jiù zài zhèshí, yí ge [@jùlàng@] yǒnglái.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>95570</StartMilliseconds>
+    <EndMilliseconds>96458</EndMilliseconds>
+    <Text>就在这时，一个巨浪[@涌来@]。
+Jiù zài zhèshí, yí ge jùlàng [@yǒnglái@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>96459</StartMilliseconds>
+    <EndMilliseconds>96867</EndMilliseconds>
+    <Text>就在这时，一个巨浪涌来。
+Jiù zài zhèshí, yí ge jùlàng yǒnglái. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>96868</StartMilliseconds>
+    <EndMilliseconds>97327</EndMilliseconds>
+    <Text>巨浪狠狠地打在了基普的船上。 
+Jùlàng hěnhěn de dǎzài le Jīpǔ de chuán shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>97328</StartMilliseconds>
+    <EndMilliseconds>97923</EndMilliseconds>
+    <Text>[@巨浪@]狠狠地打在了基普的船上。 
+[@Jùlàng@] hěnhěn de dǎzài le Jīpǔ de chuán shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>97924</StartMilliseconds>
+    <EndMilliseconds>98683</EndMilliseconds>
+    <Text>巨浪[@狠狠@]地打在了基普的船上。 
+Jùlàng [@hěnhěn@] de dǎzài le Jīpǔ de chuán shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>98684</StartMilliseconds>
+    <EndMilliseconds>99184</EndMilliseconds>
+    <Text>巨浪狠狠[@地@]打在了基普的船上。 
+Jùlàng hěnhěn [@de@] dǎzài le Jīpǔ de chuán shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>99185</StartMilliseconds>
+    <EndMilliseconds>99707</EndMilliseconds>
+    <Text>巨浪狠狠地[@打在@]了基普的船上。 
+Jùlàng hěnhěn de [@dǎzài@] le Jīpǔ de chuán shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>99708</StartMilliseconds>
+    <EndMilliseconds>100024</EndMilliseconds>
+    <Text>巨浪狠狠地打在[@了@]基普的船上。 
+Jùlàng hěnhěn de dǎzài [@le@] Jīpǔ de chuán shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>100025</StartMilliseconds>
+    <EndMilliseconds>100529</EndMilliseconds>
+    <Text>巨浪狠狠地打在了[@基普@]的船上。 
+Jùlàng hěnhěn de dǎzài le [@Jīpǔ@] de chuán shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>100530</StartMilliseconds>
+    <EndMilliseconds>100722</EndMilliseconds>
+    <Text>巨浪狠狠地打在了基普[@的@]船上。 
+Jùlàng hěnhěn de dǎzài le Jīpǔ [@de@] chuán shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>100723</StartMilliseconds>
+    <EndMilliseconds>101149</EndMilliseconds>
+    <Text>巨浪狠狠地打在了基普的[@船@]上。 
+Jùlàng hěnhěn de dǎzài le Jīpǔ de [@chuán@] shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>101150</StartMilliseconds>
+    <EndMilliseconds>101645</EndMilliseconds>
+    <Text>巨浪狠狠地打在了基普的船[@上@]。 
+Jùlàng hěnhěn de dǎzài le Jīpǔ de chuán [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>101646</StartMilliseconds>
+    <EndMilliseconds>101945</EndMilliseconds>
+    <Text>巨浪狠狠地打在了基普的船上。 
+Jùlàng hěnhěn de dǎzài le Jīpǔ de chuán shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>101946</StartMilliseconds>
+    <EndMilliseconds>102314</EndMilliseconds>
+    <Text>扑通！
+Pūtōng! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>102315</StartMilliseconds>
+    <EndMilliseconds>103319</EndMilliseconds>
+    <Text>[@扑通@]！
+[@Pūtōng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>103320</StartMilliseconds>
+    <EndMilliseconds>103638</EndMilliseconds>
+    <Text>扑通！
+Pūtōng! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>103639</StartMilliseconds>
+    <EndMilliseconds>104114</EndMilliseconds>
+    <Text>“我的船！”基普大叫。
+"Wǒ de chuán!" Jīpǔ dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>104115</StartMilliseconds>
+    <EndMilliseconds>104518</EndMilliseconds>
+    <Text>“[@我@]的船！”基普大叫。
+"[@Wǒ@] de chuán!" Jīpǔ dà jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>104519</StartMilliseconds>
+    <EndMilliseconds>104689</EndMilliseconds>
+    <Text>“我[@的@]船！”基普大叫。
+"Wǒ [@de@] chuán!" Jīpǔ dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>104690</StartMilliseconds>
+    <EndMilliseconds>105522</EndMilliseconds>
+    <Text>“我的[@船@]！”基普大叫。
+"Wǒ de [@chuán@]!" Jīpǔ dà jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>105523</StartMilliseconds>
+    <EndMilliseconds>105823</EndMilliseconds>
+    <Text>“我的船！”基普大叫。
+"Wǒ de chuán!" Jīpǔ dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>105824</StartMilliseconds>
+    <EndMilliseconds>106426</EndMilliseconds>
+    <Text>“我的船！”[@基普@]大叫。
+"Wǒ de chuán!" [@Jīpǔ@] dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>106427</StartMilliseconds>
+    <EndMilliseconds>106738</EndMilliseconds>
+    <Text>“我的船！”基普[@大@]叫。
+"Wǒ de chuán!" Jīpǔ [@dà@] jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>106739</StartMilliseconds>
+    <EndMilliseconds>107196</EndMilliseconds>
+    <Text>“我的船！”基普大[@叫@]。
+"Wǒ de chuán!" Jīpǔ dà [@jiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>107197</StartMilliseconds>
+    <EndMilliseconds>108020</EndMilliseconds>
+    <Text>“我的船！”基普大叫。
+"Wǒ de chuán!" Jīpǔ dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>108021</StartMilliseconds>
+    <EndMilliseconds>108489</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着一个箱子走着。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe yí ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>108490</StartMilliseconds>
+    <EndMilliseconds>109489</EndMilliseconds>
+    <Text>[@小鸟@]正在沙滩上拖着一个箱子走着。
+[@Xiǎoniǎo@] zhèngzài shātān shàng tuōzhe yí ge xiāngzi zǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>109490</StartMilliseconds>
+    <EndMilliseconds>110118</EndMilliseconds>
+    <Text>小鸟[@正在@]沙滩上拖着一个箱子走着。
+Xiǎoniǎo [@zhèngzài@] shātān shàng tuōzhe yí ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>110119</StartMilliseconds>
+    <EndMilliseconds>110681</EndMilliseconds>
+    <Text>小鸟正在[@沙滩@]上拖着一个箱子走着。
+Xiǎoniǎo zhèngzài [@shātān@] shàng tuōzhe yí ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>110682</StartMilliseconds>
+    <EndMilliseconds>111220</EndMilliseconds>
+    <Text>小鸟正在沙滩[@上@]拖着一个箱子走着。
+Xiǎoniǎo zhèngzài shātān [@shàng@] tuōzhe yí ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>111221</StartMilliseconds>
+    <EndMilliseconds>111519</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着一个箱子走着。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe yí ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>111520</StartMilliseconds>
+    <EndMilliseconds>112060</EndMilliseconds>
+    <Text>小鸟正在沙滩上[@拖着@]一个箱子走着。
+Xiǎoniǎo zhèngzài shātān shàng [@tuōzhe@] yí ge xiāngzi zǒuzhe.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>112061</StartMilliseconds>
+    <EndMilliseconds>112254</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着[@一@]个箱子走着。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe [@yí@] ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>112255</StartMilliseconds>
+    <EndMilliseconds>112452</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着一[@个@]箱子走着。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe yí [@ge@] xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>112453</StartMilliseconds>
+    <EndMilliseconds>113118</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着一个[@箱子@]走着。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe yí ge [@xiāngzi@] zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>113119</StartMilliseconds>
+    <EndMilliseconds>113998</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着一个箱子[@走着@]。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe yí ge xiāngzi [@zǒuzhe@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>113999</StartMilliseconds>
+    <EndMilliseconds>115109</EndMilliseconds>
+    <Text>小鸟正在沙滩上拖着一个箱子走着。
+Xiǎoniǎo zhèngzài shātān shàng tuōzhe yí ge xiāngzi zǒuzhe. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>115110</StartMilliseconds>
+    <EndMilliseconds>115592</EndMilliseconds>
+    <Text>巨浪打在了小鸟的身上。
+Jùlàng dǎzài le Xiǎoniǎo de shēn shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>115593</StartMilliseconds>
+    <EndMilliseconds>116389</EndMilliseconds>
+    <Text>[@巨浪@]打在了小鸟的身上。
+[@Jùlàng@] dǎzài le Xiǎoniǎo de shēn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>116390</StartMilliseconds>
+    <EndMilliseconds>116978</EndMilliseconds>
+    <Text>巨浪[@打在@]了小鸟的身上。
+Jùlàng [@dǎzài@] le Xiǎoniǎo de shēn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>116979</StartMilliseconds>
+    <EndMilliseconds>117244</EndMilliseconds>
+    <Text>巨浪打在[@了@]小鸟的身上。
+Jùlàng dǎzài [@le@] Xiǎoniǎo de shēn shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>117245</StartMilliseconds>
+    <EndMilliseconds>117859</EndMilliseconds>
+    <Text>巨浪打在了[@小鸟@]的身上。
+Jùlàng dǎzài le [@Xiǎoniǎo@] de shēn shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>117860</StartMilliseconds>
+    <EndMilliseconds>118075</EndMilliseconds>
+    <Text>巨浪打在了小鸟[@的@]身上。
+Jùlàng dǎzài le Xiǎoniǎo [@de@] shēn shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>118076</StartMilliseconds>
+    <EndMilliseconds>118365</EndMilliseconds>
+    <Text>巨浪打在了小鸟的[@身@]上。
+Jùlàng dǎzài le Xiǎoniǎo de [@shēn@] shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>118366</StartMilliseconds>
+    <EndMilliseconds>118891</EndMilliseconds>
+    <Text>巨浪打在了小鸟的身[@上@]。
+Jùlàng dǎzài le Xiǎoniǎo de shēn [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>118892</StartMilliseconds>
+    <EndMilliseconds>119520</EndMilliseconds>
+    <Text>巨浪打在了小鸟的身上。
+Jùlàng dǎzài le Xiǎoniǎo de shēn shàng. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>119521</StartMilliseconds>
+    <EndMilliseconds>120148</EndMilliseconds>
+    <Text>扑通！
+Pūtōng! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>120149</StartMilliseconds>
+    <EndMilliseconds>121019</EndMilliseconds>
+    <Text>[@扑通@]！
+[@Pūtōng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>121020</StartMilliseconds>
+    <EndMilliseconds>121428</EndMilliseconds>
+    <Text>扑通！
+Pūtōng! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>121429</StartMilliseconds>
+    <EndMilliseconds>121848</EndMilliseconds>
+    <Text>小鸟掉进了箱子里。
+Xiǎoniǎo diàojìn le xiāngzi li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>121849</StartMilliseconds>
+    <EndMilliseconds>122960</EndMilliseconds>
+    <Text>[@小鸟@]掉进了箱子里。
+[@Xiǎoniǎo@] diàojìn le xiāngzi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>122961</StartMilliseconds>
+    <EndMilliseconds>123493</EndMilliseconds>
+    <Text>小鸟[@掉进@]了箱子里。
+Xiǎoniǎo [@diàojìn@] le xiāngzi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>123494</StartMilliseconds>
+    <EndMilliseconds>123666</EndMilliseconds>
+    <Text>小鸟掉进[@了@]箱子里。
+Xiǎoniǎo diàojìn [@le@] xiāngzi li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>123667</StartMilliseconds>
+    <EndMilliseconds>124257</EndMilliseconds>
+    <Text>小鸟掉进了[@箱子@]里。
+Xiǎoniǎo diàojìn le [@xiāngzi@] li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>124258</StartMilliseconds>
+    <EndMilliseconds>124872</EndMilliseconds>
+    <Text>小鸟掉进了箱子[@里@]。
+Xiǎoniǎo diàojìn le xiāngzi [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>124873</StartMilliseconds>
+    <EndMilliseconds>125348</EndMilliseconds>
+    <Text>小鸟掉进了箱子里。
+Xiǎoniǎo diàojìn le xiāngzi li. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>125349</StartMilliseconds>
+    <EndMilliseconds>125873</EndMilliseconds>
+    <Text>“啊！”她大声叫。
+"Ā!" Tā dà shēng jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>125874</StartMilliseconds>
+    <EndMilliseconds>126858</EndMilliseconds>
+    <Text>“[@啊@]！”她大声叫。
+"[@Ā@]!" Tā dà shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>126859</StartMilliseconds>
+    <EndMilliseconds>127496</EndMilliseconds>
+    <Text>“啊！”[@她@]大声叫。
+"Ā!" [@Tā@] dà shēng jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>127497</StartMilliseconds>
+    <EndMilliseconds>127756</EndMilliseconds>
+    <Text>“啊！”她[@大@]声叫。
+"Ā!" Tā [@dà@] shēng jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>127757</StartMilliseconds>
+    <EndMilliseconds>128069</EndMilliseconds>
+    <Text>“啊！”她大[@声@]叫。
+"Ā!" Tā dà [@shēng@] jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>128070</StartMilliseconds>
+    <EndMilliseconds>128574</EndMilliseconds>
+    <Text>“啊！”她大声[@叫@]。
+"Ā!" Tā dà shēng [@jiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>128575</StartMilliseconds>
+    <EndMilliseconds>133537</EndMilliseconds>
+    <Text>“啊！”她大声叫。
+"Ā!" Tā dà shēng jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>133538</StartMilliseconds>
+    <EndMilliseconds>134108</EndMilliseconds>
+    <Text>紧接着箱子飞快地漂向基普。
+Jǐnjiēzhe xiāngzi fēikuài de piāoxiàng Jīpǔ. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>134109</StartMilliseconds>
+    <EndMilliseconds>135276</EndMilliseconds>
+    <Text>[@紧接着@]箱子飞快地漂向基普。
+[@Jǐnjiēzhe@] xiāngzi fēikuài de piāoxiàng Jīpǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>135277</StartMilliseconds>
+    <EndMilliseconds>136170</EndMilliseconds>
+    <Text>紧接着[@箱子@]飞快地漂向基普。
+Jǐnjiēzhe [@xiāngzi@] fēikuài de piāoxiàng Jīpǔ. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>136171</StartMilliseconds>
+    <EndMilliseconds>136770</EndMilliseconds>
+    <Text>紧接着箱子[@飞快@]地漂向基普。
+Jǐnjiēzhe xiāngzi [@fēikuài@] de piāoxiàng Jīpǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>136771</StartMilliseconds>
+    <EndMilliseconds>137392</EndMilliseconds>
+    <Text>紧接着箱子飞快[@地@]漂向基普。
+Jǐnjiēzhe xiāngzi fēikuài [@de@] piāoxiàng Jīpǔ. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>137393</StartMilliseconds>
+    <EndMilliseconds>138053</EndMilliseconds>
+    <Text>紧接着箱子飞快地[@漂向@]基普。
+Jǐnjiēzhe xiāngzi fēikuài de [@piāoxiàng@] Jīpǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>138054</StartMilliseconds>
+    <EndMilliseconds>139073</EndMilliseconds>
+    <Text>紧接着箱子飞快地漂向[@基普@]。
+Jǐnjiēzhe xiāngzi fēikuài de piāoxiàng [@Jīpǔ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>139074</StartMilliseconds>
+    <EndMilliseconds>139492</EndMilliseconds>
+    <Text>紧接着箱子飞快地漂向基普。
+Jǐnjiēzhe xiāngzi fēikuài de piāoxiàng Jīpǔ. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>139493</StartMilliseconds>
+    <EndMilliseconds>139952</EndMilliseconds>
+    <Text>“小心！”小鸟大叫。
+"Xiǎoxīn!" Xiǎoniǎo dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>139953</StartMilliseconds>
+    <EndMilliseconds>141259</EndMilliseconds>
+    <Text>“[@小心@]！”小鸟大叫。
+"[@Xiǎoxīn@]!" Xiǎoniǎo dà jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>141260</StartMilliseconds>
+    <EndMilliseconds>142035</EndMilliseconds>
+    <Text>“小心！”[@小鸟@]大叫。
+"Xiǎoxīn!" [@Xiǎoniǎo@] dà jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>142036</StartMilliseconds>
+    <EndMilliseconds>142366</EndMilliseconds>
+    <Text>“小心！”小鸟[@大@]叫。
+"Xiǎoxīn!" Xiǎoniǎo [@dà@] jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>142367</StartMilliseconds>
+    <EndMilliseconds>142772</EndMilliseconds>
+    <Text>“小心！”小鸟大[@叫@]。
+"Xiǎoxīn!" Xiǎoniǎo dà [@jiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>142773</StartMilliseconds>
+    <EndMilliseconds>143111</EndMilliseconds>
+    <Text>“小心！”小鸟大叫。
+"Xiǎoxīn!" Xiǎoniǎo dà jiào. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>143112</StartMilliseconds>
+    <EndMilliseconds>143589</EndMilliseconds>
+    <Text>哐！
+Kuāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>143590</StartMilliseconds>
+    <EndMilliseconds>144608</EndMilliseconds>
+    <Text>[@哐@]！
+[@Kuāng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>144609</StartMilliseconds>
+    <EndMilliseconds>145164</EndMilliseconds>
+    <Text>哐！
+Kuāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>145165</StartMilliseconds>
+    <EndMilliseconds>145604</EndMilliseconds>
+    <Text>现在基普也到箱子里面了。
+Xiànzài Jīpǔ yě dào xiāngzi lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>145605</StartMilliseconds>
+    <EndMilliseconds>146583</EndMilliseconds>
+    <Text>[@现在@]基普也到箱子里面了。
+[@Xiànzài@] Jīpǔ yě dào xiāngzi lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>146584</StartMilliseconds>
+    <EndMilliseconds>147420</EndMilliseconds>
+    <Text>现在[@基普@]也到箱子里面了。
+Xiànzài [@Jīpǔ@] yě dào xiāngzi lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>147421</StartMilliseconds>
+    <EndMilliseconds>147784</EndMilliseconds>
+    <Text>现在基普[@也@]到箱子里面了。
+Xiànzài Jīpǔ [@yě@] dào xiāngzi lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>147785</StartMilliseconds>
+    <EndMilliseconds>148144</EndMilliseconds>
+    <Text>现在基普也[@到@]箱子里面了。
+Xiànzài Jīpǔ yě [@dào@] xiāngzi lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>148145</StartMilliseconds>
+    <EndMilliseconds>148644</EndMilliseconds>
+    <Text>现在基普也到[@箱子@]里面了。
+Xiànzài Jīpǔ yě dào [@xiāngzi@] lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>148645</StartMilliseconds>
+    <EndMilliseconds>149125</EndMilliseconds>
+    <Text>现在基普也到箱子[@里面@]了。
+Xiànzài Jīpǔ yě dào xiāngzi [@lǐmian@] le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>149126</StartMilliseconds>
+    <EndMilliseconds>149454</EndMilliseconds>
+    <Text>现在基普也到箱子里面[@了@]。
+Xiànzài Jīpǔ yě dào xiāngzi lǐmian [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>149455</StartMilliseconds>
+    <EndMilliseconds>149764</EndMilliseconds>
+    <Text>现在基普也到箱子里面了。
+Xiànzài Jīpǔ yě dào xiāngzi lǐmian le. </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>149765</StartMilliseconds>
+    <EndMilliseconds>150089</EndMilliseconds>
+    <Text>箱子朝着大海的方向漂了过去！
+Xiāngzi cháozhe dàhǎi de fāngxiàng piāo le guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>150090</StartMilliseconds>
+    <EndMilliseconds>150987</EndMilliseconds>
+    <Text>[@箱子@]朝着大海的方向漂了过去！
+[@Xiāngzi@] cháozhe dàhǎi de fāngxiàng piāo le guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>150988</StartMilliseconds>
+    <EndMilliseconds>151733</EndMilliseconds>
+    <Text>箱子[@朝着@]大海的方向漂了过去！
+Xiāngzi [@cháozhe@] dàhǎi de fāngxiàng piāo le guòqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>151734</StartMilliseconds>
+    <EndMilliseconds>152170</EndMilliseconds>
+    <Text>箱子朝着[@大海@]的方向漂了过去！
+Xiāngzi cháozhe [@dàhǎi@] de fāngxiàng piāo le guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>152171</StartMilliseconds>
+    <EndMilliseconds>152431</EndMilliseconds>
+    <Text>箱子朝着大海[@的@]方向漂了过去！
+Xiāngzi cháozhe dàhǎi [@de@] fāngxiàng piāo le guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>152432</StartMilliseconds>
+    <EndMilliseconds>153431</EndMilliseconds>
+    <Text>箱子朝着大海的[@方向@]漂了过去！
+Xiāngzi cháozhe dàhǎi de [@fāngxiàng@] piāo le guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>153432</StartMilliseconds>
+    <EndMilliseconds>153796</EndMilliseconds>
+    <Text>箱子朝着大海的方向[@漂@]了过去！
+Xiāngzi cháozhe dàhǎi de fāngxiàng [@piāo@] le guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>153797</StartMilliseconds>
+    <EndMilliseconds>154098</EndMilliseconds>
+    <Text>箱子朝着大海的方向漂[@了@]过去！
+Xiāngzi cháozhe dàhǎi de fāngxiàng piāo [@le@] guòqu! </Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>154099</StartMilliseconds>
+    <EndMilliseconds>154837</EndMilliseconds>
+    <Text>箱子朝着大海的方向漂了[@过去@]！
+Xiāngzi cháozhe dàhǎi de fāngxiàng piāo le [@guòqu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>154838</StartMilliseconds>
+    <EndMilliseconds>158040</EndMilliseconds>
+    <Text>箱子朝着大海的方向漂了过去！
+Xiāngzi cháozhe dàhǎi de fāngxiàng piāo le guòqu! </Text>
+  </Paragraph>
+</Subtitle>

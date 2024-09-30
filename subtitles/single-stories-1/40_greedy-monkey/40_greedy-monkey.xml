@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6262</StartMilliseconds>
+    <EndMilliseconds>12134</EndMilliseconds>
+    <Text>Wǒ xiǎng yào píngguǒ.
+我想要苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12134</StartMilliseconds>
+    <EndMilliseconds>12459</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào píngguǒ.
+[@我@]想要苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12459</StartMilliseconds>
+    <EndMilliseconds>12863</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào píngguǒ.
+我[@想@]要苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12863</StartMilliseconds>
+    <EndMilliseconds>13653</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] píngguǒ.
+我想[@要@]苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13653</StartMilliseconds>
+    <EndMilliseconds>15156</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@píngguǒ@].
+我想要[@苹果@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15156</StartMilliseconds>
+    <EndMilliseconds>19721</EndMilliseconds>
+    <Text>Wǒ xiǎng yào píngguǒ.
+我想要苹果。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>19721</StartMilliseconds>
+    <EndMilliseconds>22997</EndMilliseconds>
+    <Text>Wǒ xiǎng yào xiāngjiāo.
+我想要香蕉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>22997</StartMilliseconds>
+    <EndMilliseconds>23509</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào xiāngjiāo.
+[@我@]想要香蕉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23509</StartMilliseconds>
+    <EndMilliseconds>23915</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào xiāngjiāo.
+我[@想@]要香蕉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23915</StartMilliseconds>
+    <EndMilliseconds>24729</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] xiāngjiāo.
+我想[@要@]香蕉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24729</StartMilliseconds>
+    <EndMilliseconds>26320</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@xiāngjiāo@].
+我想要[@香蕉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>26320</StartMilliseconds>
+    <EndMilliseconds>29722</EndMilliseconds>
+    <Text>Wǒ xiǎng yào xiāngjiāo.
+我想要香蕉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>29722</StartMilliseconds>
+    <EndMilliseconds>32993</EndMilliseconds>
+    <Text>Wǒ xiǎng yào lí.
+我想要梨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>32993</StartMilliseconds>
+    <EndMilliseconds>33536</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào lí.
+[@我@]想要梨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>33536</StartMilliseconds>
+    <EndMilliseconds>33989</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào lí.
+我[@想@]要梨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>33989</StartMilliseconds>
+    <EndMilliseconds>34713</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] lí.
+我想[@要@]梨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>34713</StartMilliseconds>
+    <EndMilliseconds>35769</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@lí@].
+我想要[@梨@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>35769</StartMilliseconds>
+    <EndMilliseconds>38386</EndMilliseconds>
+    <Text>Wǒ xiǎng yào lí.
+我想要梨。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>38386</StartMilliseconds>
+    <EndMilliseconds>42453</EndMilliseconds>
+    <Text>Wǒ xiǎng yào chéngzi.
+我想要橙子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>42453</StartMilliseconds>
+    <EndMilliseconds>42997</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào chéngzi.
+[@我@]想要橙子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>42997</StartMilliseconds>
+    <EndMilliseconds>43440</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào chéngzi.
+我[@想@]要橙子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>43440</StartMilliseconds>
+    <EndMilliseconds>44176</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] chéngzi.
+我想[@要@]橙子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>44176</StartMilliseconds>
+    <EndMilliseconds>45448</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@chéngzi@].
+我想要[@橙子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>45448</StartMilliseconds>
+    <EndMilliseconds>48456</EndMilliseconds>
+    <Text>Wǒ xiǎng yào chéngzi.
+我想要橙子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>48456</StartMilliseconds>
+    <EndMilliseconds>51714</EndMilliseconds>
+    <Text>Wǒ xiǎng yào táozi.
+我想要桃子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>51714</StartMilliseconds>
+    <EndMilliseconds>52167</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào táozi.
+[@我@]想要桃子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>52167</StartMilliseconds>
+    <EndMilliseconds>52668</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào táozi.
+我[@想@]要桃子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>52668</StartMilliseconds>
+    <EndMilliseconds>53454</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] táozi.
+我想[@要@]桃子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>53454</StartMilliseconds>
+    <EndMilliseconds>54649</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@táozi@].
+我想要[@桃子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>54649</StartMilliseconds>
+    <EndMilliseconds>57177</EndMilliseconds>
+    <Text>Wǒ xiǎng yào táozi.
+我想要桃子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>57177</StartMilliseconds>
+    <EndMilliseconds>59626</EndMilliseconds>
+    <Text>Wǒ xiǎng yào cǎoméi.
+我想要草莓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>59626</StartMilliseconds>
+    <EndMilliseconds>60121</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào cǎoméi.
+[@我@]想要草莓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>60121</StartMilliseconds>
+    <EndMilliseconds>60476</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào cǎoméi.
+我[@想@]要草莓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>60476</StartMilliseconds>
+    <EndMilliseconds>61345</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] cǎoméi.
+我想[@要@]草莓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>61345</StartMilliseconds>
+    <EndMilliseconds>62971</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@cǎoméi@].
+我想要[@草莓@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>62971</StartMilliseconds>
+    <EndMilliseconds>65516</EndMilliseconds>
+    <Text>Wǒ xiǎng yào cǎoméi.
+我想要草莓。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>65516</StartMilliseconds>
+    <EndMilliseconds>68054</EndMilliseconds>
+    <Text>Wǒ xiǎng yào xīguā.
+我想要西瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>68054</StartMilliseconds>
+    <EndMilliseconds>68536</EndMilliseconds>
+    <Text>[@Wǒ@] xiǎng yào xīguā.
+[@我@]想要西瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>68536</StartMilliseconds>
+    <EndMilliseconds>68950</EndMilliseconds>
+    <Text>Wǒ [@xiǎng@] yào xīguā.
+我[@想@]要西瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>68950</StartMilliseconds>
+    <EndMilliseconds>69791</EndMilliseconds>
+    <Text>Wǒ xiǎng [@yào@] xīguā.
+我想[@要@]西瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>69791</StartMilliseconds>
+    <EndMilliseconds>71454</EndMilliseconds>
+    <Text>Wǒ xiǎng yào [@xīguā@].
+我想要[@西瓜@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>71454</StartMilliseconds>
+    <EndMilliseconds>74720</EndMilliseconds>
+    <Text>Wǒ xiǎng yào xīguā.
+我想要西瓜。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>74720</StartMilliseconds>
+    <EndMilliseconds>78047</EndMilliseconds>
+    <Text>Ō! Kělián de hóuzi!
+噢！可怜的猴子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>78047</StartMilliseconds>
+    <EndMilliseconds>78837</EndMilliseconds>
+    <Text>[@Ō@]! Kělián de hóuzi!
+[@噢@]！可怜的猴子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>78837</StartMilliseconds>
+    <EndMilliseconds>79601</EndMilliseconds>
+    <Text>Ō! [@Kělián@] de hóuzi!
+噢！[@可怜@]的猴子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>79601</StartMilliseconds>
+    <EndMilliseconds>79881</EndMilliseconds>
+    <Text>Ō! Kělián [@de@] hóuzi!
+噢！可怜[@的@]猴子！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>79881</StartMilliseconds>
+    <EndMilliseconds>81004</EndMilliseconds>
+    <Text>Ō! Kělián de [@hóuzi@]!
+噢！可怜的[@猴子@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>81004</StartMilliseconds>
+    <EndMilliseconds>84074</EndMilliseconds>
+    <Text>Ō! Kělián de hóuzi!
+噢！可怜的猴子！</Text>
+  </Paragraph>
+</Subtitle>

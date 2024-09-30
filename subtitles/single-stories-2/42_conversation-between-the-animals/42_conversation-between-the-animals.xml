@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9655</StartMilliseconds>
+    <EndMilliseconds>16906</EndMilliseconds>
+    <Text>小牛对着小猪叫：“哞哞！” 
+Xiǎoniú duìzhe xiǎozhū jiào: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>16907</StartMilliseconds>
+    <EndMilliseconds>17886</EndMilliseconds>
+    <Text>[@小牛@]对着小猪叫：“哞哞！” 
+[@Xiǎoniú@] duìzhe xiǎozhū jiào: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>17887</StartMilliseconds>
+    <EndMilliseconds>18548</EndMilliseconds>
+    <Text>小牛[@对着@]小猪叫：“哞哞！” 
+Xiǎoniú [@duìzhe@] xiǎozhū jiào: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>18549</StartMilliseconds>
+    <EndMilliseconds>19282</EndMilliseconds>
+    <Text>小牛对着[@小猪@]叫：“哞哞！” 
+Xiǎoniú duìzhe [@xiǎozhū@] jiào: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>19283</StartMilliseconds>
+    <EndMilliseconds>19649</EndMilliseconds>
+    <Text>小牛对着小猪[@叫@]：“哞哞！” 
+Xiǎoniú duìzhe xiǎozhū [@jiào@]: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>19650</StartMilliseconds>
+    <EndMilliseconds>20312</EndMilliseconds>
+    <Text>小牛对着小猪叫：“哞哞！” 
+Xiǎoniú duìzhe xiǎozhū jiào: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>20313</StartMilliseconds>
+    <EndMilliseconds>23096</EndMilliseconds>
+    <Text>小牛对着小猪叫：“[@哞哞@]！” 
+Xiǎoniú duìzhe xiǎozhū jiào: "[@Mōumōu@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>23096</StartMilliseconds>
+    <EndMilliseconds>23221</EndMilliseconds>
+    <Text>小牛对着小猪叫：“哞哞！” 
+Xiǎoniú duìzhe xiǎozhū jiào: "Mōumōu!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23222</StartMilliseconds>
+    <EndMilliseconds>23455</EndMilliseconds>
+    <Text>小猪吓了一跳，逃走了。
+Xiǎozhū xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23456</StartMilliseconds>
+    <EndMilliseconds>24382</EndMilliseconds>
+    <Text>[@小猪@]吓了一跳，逃走了。
+[@Xiǎozhū@] xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24383</StartMilliseconds>
+    <EndMilliseconds>24851</EndMilliseconds>
+    <Text>小猪[@吓@]了一跳，逃走了。
+Xiǎozhū [@xià@] le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24852</StartMilliseconds>
+    <EndMilliseconds>25028</EndMilliseconds>
+    <Text>小猪吓[@了@]一跳，逃走了。
+Xiǎozhū xià [@le@] yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25029</StartMilliseconds>
+    <EndMilliseconds>25289</EndMilliseconds>
+    <Text>小猪吓了[@一@]跳，逃走了。
+Xiǎozhū xià le [@yí@] tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25290</StartMilliseconds>
+    <EndMilliseconds>25643</EndMilliseconds>
+    <Text>小猪吓了一[@跳@]，逃走了。
+Xiǎozhū xià le yí [@tiào@], táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25644</StartMilliseconds>
+    <EndMilliseconds>26134</EndMilliseconds>
+    <Text>小猪吓了一跳，逃走了。
+Xiǎozhū xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>26135</StartMilliseconds>
+    <EndMilliseconds>26895</EndMilliseconds>
+    <Text>小猪吓了一跳，[@逃走@]了。
+Xiǎozhū xià le yí tiào, [@táozǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>26896</StartMilliseconds>
+    <EndMilliseconds>27181</EndMilliseconds>
+    <Text>小猪吓了一跳，逃走[@了@]。
+Xiǎozhū xià le yí tiào, táozǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>27182</StartMilliseconds>
+    <EndMilliseconds>27540</EndMilliseconds>
+    <Text>小猪吓了一跳，逃走了。
+Xiǎozhū xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>27541</StartMilliseconds>
+    <EndMilliseconds>28615</EndMilliseconds>
+    <Text>小猪对着小狗叫：“哼哼！” 
+Xiǎozhū duìzhe xiǎogǒu jiào: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>28616</StartMilliseconds>
+    <EndMilliseconds>29680</EndMilliseconds>
+    <Text>[@小猪@]对着小狗叫：“哼哼！” 
+[@Xiǎozhū@] duìzhe xiǎogǒu jiào: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>29681</StartMilliseconds>
+    <EndMilliseconds>30267</EndMilliseconds>
+    <Text>小猪[@对着@]小狗叫：“哼哼！” 
+Xiǎozhū [@duìzhe@] xiǎogǒu jiào: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>30268</StartMilliseconds>
+    <EndMilliseconds>31174</EndMilliseconds>
+    <Text>小猪对着[@小狗@]叫：“哼哼！” 
+Xiǎozhū duìzhe [@xiǎogǒu@] jiào: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>31175</StartMilliseconds>
+    <EndMilliseconds>31482</EndMilliseconds>
+    <Text>小猪对着小狗[@叫@]：“哼哼！” 
+Xiǎozhū duìzhe xiǎogǒu [@jiào@]: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>31483</StartMilliseconds>
+    <EndMilliseconds>32786</EndMilliseconds>
+    <Text>小猪对着小狗叫：“哼哼！” 
+Xiǎozhū duìzhe xiǎogǒu jiào: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>32787</StartMilliseconds>
+    <EndMilliseconds>33358</EndMilliseconds>
+    <Text>小猪对着小狗叫：“[@哼哼@]！” 
+Xiǎozhū duìzhe xiǎogǒu jiào: "[@Hēnghēng@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>33358</StartMilliseconds>
+    <EndMilliseconds>33846</EndMilliseconds>
+    <Text>小猪对着小狗叫：“哼哼！” 
+Xiǎozhū duìzhe xiǎogǒu jiào: "Hēnghēng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>33847</StartMilliseconds>
+    <EndMilliseconds>34423</EndMilliseconds>
+    <Text>小狗吓了一跳，逃走了。
+Xiǎogǒu xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>34424</StartMilliseconds>
+    <EndMilliseconds>35495</EndMilliseconds>
+    <Text>[@小狗@]吓了一跳，逃走了。
+[@Xiǎogǒu@] xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>35496</StartMilliseconds>
+    <EndMilliseconds>35961</EndMilliseconds>
+    <Text>小狗[@吓@]了一跳，逃走了。
+Xiǎogǒu [@xià@] le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>35962</StartMilliseconds>
+    <EndMilliseconds>36173</EndMilliseconds>
+    <Text>小狗吓[@了@]一跳，逃走了。
+Xiǎogǒu xià [@le@] yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>36174</StartMilliseconds>
+    <EndMilliseconds>36336</EndMilliseconds>
+    <Text>小狗吓了[@一@]跳，逃走了。
+Xiǎogǒu xià le [@yí@] tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>36337</StartMilliseconds>
+    <EndMilliseconds>36657</EndMilliseconds>
+    <Text>小狗吓了一[@跳@]，逃走了。
+Xiǎogǒu xià le yí [@tiào@], táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>36658</StartMilliseconds>
+    <EndMilliseconds>37224</EndMilliseconds>
+    <Text>小狗吓了一跳，逃走了。
+Xiǎogǒu xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>37225</StartMilliseconds>
+    <EndMilliseconds>38033</EndMilliseconds>
+    <Text>小狗吓了一跳，[@逃走@]了。
+Xiǎogǒu xià le yí tiào, [@táozǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>38034</StartMilliseconds>
+    <EndMilliseconds>38322</EndMilliseconds>
+    <Text>小狗吓了一跳，逃走[@了@]。
+Xiǎogǒu xià le yí tiào, táozǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>38323</StartMilliseconds>
+    <EndMilliseconds>38873</EndMilliseconds>
+    <Text>小狗吓了一跳，逃走了。
+Xiǎogǒu xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>38874</StartMilliseconds>
+    <EndMilliseconds>40852</EndMilliseconds>
+    <Text>小狗对着小猫叫：“汪汪！” 
+Xiǎogǒu duìzhe xiǎomāo jiào: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>40853</StartMilliseconds>
+    <EndMilliseconds>41983</EndMilliseconds>
+    <Text>[@小狗@]对着小猫叫：“汪汪！” 
+[@Xiǎogǒu@] duìzhe xiǎomāo jiào: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>41984</StartMilliseconds>
+    <EndMilliseconds>42502</EndMilliseconds>
+    <Text>小狗[@对着@]小猫叫：“汪汪！” 
+Xiǎogǒu [@duìzhe@] xiǎomāo jiào: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>42503</StartMilliseconds>
+    <EndMilliseconds>43391</EndMilliseconds>
+    <Text>小狗对着[@小猫@]叫：“汪汪！” 
+Xiǎogǒu duìzhe [@xiǎomāo@] jiào: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>43392</StartMilliseconds>
+    <EndMilliseconds>43685</EndMilliseconds>
+    <Text>小狗对着小猫[@叫@]：“汪汪！” 
+Xiǎogǒu duìzhe xiǎomāo [@jiào@]: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>43686</StartMilliseconds>
+    <EndMilliseconds>44370</EndMilliseconds>
+    <Text>小狗对着小猫叫：“汪汪！” 
+Xiǎogǒu duìzhe xiǎomāo jiào: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>44371</StartMilliseconds>
+    <EndMilliseconds>44915</EndMilliseconds>
+    <Text>小狗对着小猫叫：“[@汪汪@]！” 
+Xiǎogǒu duìzhe xiǎomāo jiào: "[@Wāngwāng@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>44915</StartMilliseconds>
+    <EndMilliseconds>45362</EndMilliseconds>
+    <Text>小狗对着小猫叫：“汪汪！” 
+Xiǎogǒu duìzhe xiǎomāo jiào: "Wāngwāng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>45363</StartMilliseconds>
+    <EndMilliseconds>46228</EndMilliseconds>
+    <Text>小猫吓了一跳，逃走了。
+Xiǎomāo xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>46229</StartMilliseconds>
+    <EndMilliseconds>47209</EndMilliseconds>
+    <Text>[@小猫@]吓了一跳，逃走了。
+[@Xiǎomāo@] xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>47210</StartMilliseconds>
+    <EndMilliseconds>47624</EndMilliseconds>
+    <Text>小猫[@吓@]了一跳，逃走了。
+Xiǎomāo [@xià@] le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>47625</StartMilliseconds>
+    <EndMilliseconds>47779</EndMilliseconds>
+    <Text>小猫吓[@了@]一跳，逃走了。
+Xiǎomāo xià [@le@] yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>47780</StartMilliseconds>
+    <EndMilliseconds>47989</EndMilliseconds>
+    <Text>小猫吓了[@一@]跳，逃走了。
+Xiǎomāo xià le [@yí@] tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>47990</StartMilliseconds>
+    <EndMilliseconds>48336</EndMilliseconds>
+    <Text>小猫吓了一[@跳@]，逃走了。
+Xiǎomāo xià le yí [@tiào@], táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>48337</StartMilliseconds>
+    <EndMilliseconds>48859</EndMilliseconds>
+    <Text>小猫吓了一跳，逃走了。
+Xiǎomāo xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>48860</StartMilliseconds>
+    <EndMilliseconds>49582</EndMilliseconds>
+    <Text>小猫吓了一跳，[@逃走@]了。
+Xiǎomāo xià le yí tiào, [@táozǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>49583</StartMilliseconds>
+    <EndMilliseconds>49872</EndMilliseconds>
+    <Text>小猫吓了一跳，逃走[@了@]。
+Xiǎomāo xià le yí tiào, táozǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>49873</StartMilliseconds>
+    <EndMilliseconds>50502</EndMilliseconds>
+    <Text>小猫吓了一跳，逃走了。
+Xiǎomāo xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>50503</StartMilliseconds>
+    <EndMilliseconds>52510</EndMilliseconds>
+    <Text>小猫对着小老鼠叫：“喵喵！” 
+Xiǎomāo duìzhe xiǎolǎoshǔ jiào: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>52511</StartMilliseconds>
+    <EndMilliseconds>53533</EndMilliseconds>
+    <Text>[@小猫@]对着小老鼠叫：“喵喵！” 
+[@Xiǎomāo@] duìzhe xiǎolǎoshǔ jiào: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>53534</StartMilliseconds>
+    <EndMilliseconds>53968</EndMilliseconds>
+    <Text>小猫[@对着@]小老鼠叫：“喵喵！” 
+Xiǎomāo [@duìzhe@] xiǎolǎoshǔ jiào: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>53969</StartMilliseconds>
+    <EndMilliseconds>55136</EndMilliseconds>
+    <Text>小猫对着[@小老鼠@]叫：“喵喵！” 
+Xiǎomāo duìzhe [@xiǎolǎoshǔ@] jiào: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>55137</StartMilliseconds>
+    <EndMilliseconds>55462</EndMilliseconds>
+    <Text>小猫对着小老鼠[@叫@]：“喵喵！” 
+Xiǎomāo duìzhe xiǎolǎoshǔ [@jiào@]: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>55463</StartMilliseconds>
+    <EndMilliseconds>56556</EndMilliseconds>
+    <Text>小猫对着小老鼠叫：“喵喵！” 
+Xiǎomāo duìzhe xiǎolǎoshǔ jiào: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>56557</StartMilliseconds>
+    <EndMilliseconds>58828</EndMilliseconds>
+    <Text>小猫对着小老鼠叫：“[@喵喵@]！” 
+Xiǎomāo duìzhe xiǎolǎoshǔ jiào: "[@Miāomiāo@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>58828</StartMilliseconds>
+    <EndMilliseconds>58918</EndMilliseconds>
+    <Text>小猫对着小老鼠叫：“喵喵！” 
+Xiǎomāo duìzhe xiǎolǎoshǔ jiào: "Miāomiāo!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>58919</StartMilliseconds>
+    <EndMilliseconds>59051</EndMilliseconds>
+    <Text>小老鼠吓了一跳，逃走了。
+Xiǎolǎoshǔ xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>59052</StartMilliseconds>
+    <EndMilliseconds>60247</EndMilliseconds>
+    <Text>[@小老鼠@]吓了一跳，逃走了。
+[@Xiǎolǎoshǔ@] xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>60248</StartMilliseconds>
+    <EndMilliseconds>60691</EndMilliseconds>
+    <Text>小老鼠[@吓@]了一跳，逃走了。
+Xiǎolǎoshǔ [@xià@] le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>60692</StartMilliseconds>
+    <EndMilliseconds>60864</EndMilliseconds>
+    <Text>小老鼠吓[@了@]一跳，逃走了。
+Xiǎolǎoshǔ xià [@le@] yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>60865</StartMilliseconds>
+    <EndMilliseconds>61067</EndMilliseconds>
+    <Text>小老鼠吓了[@一@]跳，逃走了。
+Xiǎolǎoshǔ xià le [@yí@] tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>61068</StartMilliseconds>
+    <EndMilliseconds>61344</EndMilliseconds>
+    <Text>小老鼠吓了一[@跳@]，逃走了。
+Xiǎolǎoshǔ xià le yí [@tiào@], táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>61345</StartMilliseconds>
+    <EndMilliseconds>61851</EndMilliseconds>
+    <Text>小老鼠吓了一跳，逃走了。
+Xiǎolǎoshǔ xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>61852</StartMilliseconds>
+    <EndMilliseconds>62544</EndMilliseconds>
+    <Text>小老鼠吓了一跳，[@逃走@]了。
+Xiǎolǎoshǔ xià le yí tiào, [@táozǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>62545</StartMilliseconds>
+    <EndMilliseconds>62851</EndMilliseconds>
+    <Text>小老鼠吓了一跳，逃走[@了@]。
+Xiǎolǎoshǔ xià le yí tiào, táozǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>62852</StartMilliseconds>
+    <EndMilliseconds>63556</EndMilliseconds>
+    <Text>小老鼠吓了一跳，逃走了。
+Xiǎolǎoshǔ xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>63557</StartMilliseconds>
+    <EndMilliseconds>64020</EndMilliseconds>
+    <Text>小老鼠对着小鹅叫：“吱吱！” 
+Xiǎolǎoshǔ duìzhe xiǎo'é jiào: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>64030</StartMilliseconds>
+    <EndMilliseconds>65432</EndMilliseconds>
+    <Text>[@小老鼠@]对着小鹅叫：“吱吱！” 
+[@Xiǎolǎoshǔ@] duìzhe xiǎo'é jiào: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>65433</StartMilliseconds>
+    <EndMilliseconds>65999</EndMilliseconds>
+    <Text>小老鼠[@对着@]小鹅叫：“吱吱！” 
+Xiǎolǎoshǔ [@duìzhe@] xiǎo'é jiào: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>66000</StartMilliseconds>
+    <EndMilliseconds>66853</EndMilliseconds>
+    <Text>小老鼠对着[@小鹅@]叫：“吱吱！” 
+Xiǎolǎoshǔ duìzhe [@xiǎo'é@] jiào: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>66854</StartMilliseconds>
+    <EndMilliseconds>67146</EndMilliseconds>
+    <Text>小老鼠对着小鹅[@叫@]：“吱吱！” 
+Xiǎolǎoshǔ duìzhe xiǎo'é [@jiào@]: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>67147</StartMilliseconds>
+    <EndMilliseconds>67969</EndMilliseconds>
+    <Text>小老鼠对着小鹅叫：“吱吱！” 
+Xiǎolǎoshǔ duìzhe xiǎo'é jiào: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>67970</StartMilliseconds>
+    <EndMilliseconds>68711</EndMilliseconds>
+    <Text>小老鼠对着小鹅叫：“[@吱吱@]！” 
+Xiǎolǎoshǔ duìzhe xiǎo'é jiào: "[@Zhīzhī@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>68711</StartMilliseconds>
+    <EndMilliseconds>69141</EndMilliseconds>
+    <Text>小老鼠对着小鹅叫：“吱吱！” 
+Xiǎolǎoshǔ duìzhe xiǎo'é jiào: "Zhīzhī!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>69142</StartMilliseconds>
+    <EndMilliseconds>69848</EndMilliseconds>
+    <Text>小鹅吓了一跳，逃走了。
+Xiǎo'é xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>69849</StartMilliseconds>
+    <EndMilliseconds>70859</EndMilliseconds>
+    <Text>[@小鹅@]吓了一跳，逃走了。
+[@Xiǎo'é@] xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>70860</StartMilliseconds>
+    <EndMilliseconds>71289</EndMilliseconds>
+    <Text>小鹅[@吓@]了一跳，逃走了。
+Xiǎo'é [@xià@] le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>71290</StartMilliseconds>
+    <EndMilliseconds>71490</EndMilliseconds>
+    <Text>小鹅吓[@了@]一跳，逃走了。
+Xiǎo'é xià [@le@] yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>71491</StartMilliseconds>
+    <EndMilliseconds>71657</EndMilliseconds>
+    <Text>小鹅吓了[@一@]跳，逃走了。
+Xiǎo'é xià le [@yí@] tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>71658</StartMilliseconds>
+    <EndMilliseconds>71983</EndMilliseconds>
+    <Text>小鹅吓了一[@跳@]，逃走了。
+Xiǎo'é xià le yí [@tiào@], táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>71984</StartMilliseconds>
+    <EndMilliseconds>72529</EndMilliseconds>
+    <Text>小鹅吓了一跳，逃走了。
+Xiǎo'é xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>72530</StartMilliseconds>
+    <EndMilliseconds>73198</EndMilliseconds>
+    <Text>小鹅吓了一跳，[@逃走@]了。
+Xiǎo'é xià le yí tiào, [@táozǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>73199</StartMilliseconds>
+    <EndMilliseconds>73524</EndMilliseconds>
+    <Text>小鹅吓了一跳，逃走[@了@]。
+Xiǎo'é xià le yí tiào, táozǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>73525</StartMilliseconds>
+    <EndMilliseconds>74166</EndMilliseconds>
+    <Text>小鹅吓了一跳，逃走了。
+Xiǎo'é xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>74167</StartMilliseconds>
+    <EndMilliseconds>74768</EndMilliseconds>
+    <Text>小鹅对着小羊叫：“呱呱！” 
+Xiǎo'é duìzhe xiǎoyáng jiào: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>74769</StartMilliseconds>
+    <EndMilliseconds>75713</EndMilliseconds>
+    <Text>[@小鹅@]对着小羊叫：“呱呱！” 
+[@Xiǎo'é@] duìzhe xiǎoyáng jiào: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>75714</StartMilliseconds>
+    <EndMilliseconds>76412</EndMilliseconds>
+    <Text>小鹅[@对着@]小羊叫：“呱呱！” 
+Xiǎo'é [@duìzhe@] xiǎoyáng jiào: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>76413</StartMilliseconds>
+    <EndMilliseconds>77192</EndMilliseconds>
+    <Text>小鹅对着[@小羊@]叫：“呱呱！” 
+Xiǎo'é duìzhe [@xiǎoyáng@] jiào: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>77193</StartMilliseconds>
+    <EndMilliseconds>77499</EndMilliseconds>
+    <Text>小鹅对着小羊[@叫@]：“呱呱！” 
+Xiǎo'é duìzhe xiǎoyáng [@jiào@]: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>77500</StartMilliseconds>
+    <EndMilliseconds>78778</EndMilliseconds>
+    <Text>小鹅对着小羊叫：“呱呱！” 
+Xiǎo'é duìzhe xiǎoyáng jiào: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>78779</StartMilliseconds>
+    <EndMilliseconds>79730</EndMilliseconds>
+    <Text>小鹅对着小羊叫：“[@呱呱@]！” 
+Xiǎo'é duìzhe xiǎoyáng jiào: "[@Guāguā@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>79730</StartMilliseconds>
+    <EndMilliseconds>80159</EndMilliseconds>
+    <Text>小鹅对着小羊叫：“呱呱！” 
+Xiǎo'é duìzhe xiǎoyáng jiào: "Guāguā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>80160</StartMilliseconds>
+    <EndMilliseconds>80728</EndMilliseconds>
+    <Text>小羊吓了一跳，逃走了。
+Xiǎoyáng xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>80729</StartMilliseconds>
+    <EndMilliseconds>81720</EndMilliseconds>
+    <Text>[@小羊@]吓了一跳，逃走了。
+[@Xiǎoyáng@] xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>81721</StartMilliseconds>
+    <EndMilliseconds>82183</EndMilliseconds>
+    <Text>小羊[@吓@]了一跳，逃走了。
+Xiǎoyáng [@xià@] le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>82184</StartMilliseconds>
+    <EndMilliseconds>82353</EndMilliseconds>
+    <Text>小羊吓[@了@]一跳，逃走了。
+Xiǎoyáng xià [@le@] yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>82354</StartMilliseconds>
+    <EndMilliseconds>82599</EndMilliseconds>
+    <Text>小羊吓了[@一@]跳，逃走了。
+Xiǎoyáng xià le [@yí@] tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>82600</StartMilliseconds>
+    <EndMilliseconds>82877</EndMilliseconds>
+    <Text>小羊吓了一[@跳@]，逃走了。
+Xiǎoyáng xià le yí [@tiào@], táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>82878</StartMilliseconds>
+    <EndMilliseconds>83306</EndMilliseconds>
+    <Text>小羊吓了一跳，逃走了。
+Xiǎoyáng xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>83307</StartMilliseconds>
+    <EndMilliseconds>84011</EndMilliseconds>
+    <Text>小羊吓了一跳，[@逃走@]了。
+Xiǎoyáng xià le yí tiào, [@táozǒu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>84012</StartMilliseconds>
+    <EndMilliseconds>84332</EndMilliseconds>
+    <Text>小羊吓了一跳，逃走[@了@]。
+Xiǎoyáng xià le yí tiào, táozǒu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>84333</StartMilliseconds>
+    <EndMilliseconds>84894</EndMilliseconds>
+    <Text>小羊吓了一跳，逃走了。
+Xiǎoyáng xià le yí tiào, táozǒu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>84895</StartMilliseconds>
+    <EndMilliseconds>85310</EndMilliseconds>
+    <Text>小羊对着小牛叫：“咩咩！” 
+Xiǎoyáng duìzhe xiǎoniú jiào: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>85311</StartMilliseconds>
+    <EndMilliseconds>86028</EndMilliseconds>
+    <Text>[@小羊@]对着小牛叫：“咩咩！” 
+[@Xiǎoyáng@] duìzhe xiǎoniú jiào: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>86029</StartMilliseconds>
+    <EndMilliseconds>86492</EndMilliseconds>
+    <Text>小羊[@对着@]小牛叫：“咩咩！” 
+Xiǎoyáng [@duìzhe@] xiǎoniú jiào: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>86493</StartMilliseconds>
+    <EndMilliseconds>87273</EndMilliseconds>
+    <Text>小羊对着[@小牛@]叫：“咩咩！” 
+Xiǎoyáng duìzhe [@xiǎoniú@] jiào: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>87274</StartMilliseconds>
+    <EndMilliseconds>87641</EndMilliseconds>
+    <Text>小羊对着小牛[@叫@]：“咩咩！” 
+Xiǎoyáng duìzhe xiǎoniú [@jiào@]: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>87642</StartMilliseconds>
+    <EndMilliseconds>88371</EndMilliseconds>
+    <Text>小羊对着小牛叫：“咩咩！” 
+Xiǎoyáng duìzhe xiǎoniú jiào: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>88372</StartMilliseconds>
+    <EndMilliseconds>90170</EndMilliseconds>
+    <Text>小羊对着小牛叫：“[@咩咩@]！” 
+Xiǎoyáng duìzhe xiǎoniú jiào: "[@Miēmiē@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>90170</StartMilliseconds>
+    <EndMilliseconds>90638</EndMilliseconds>
+    <Text>小羊对着小牛叫：“咩咩！” 
+Xiǎoyáng duìzhe xiǎoniú jiào: "Miēmiē!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>90639</StartMilliseconds>
+    <EndMilliseconds>91068</EndMilliseconds>
+    <Text>可是小牛还在吃东西。 
+Kěshì xiǎoniú hái zài chī dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>91069</StartMilliseconds>
+    <EndMilliseconds>91857</EndMilliseconds>
+    <Text>[@可是@]小牛还在吃东西。 
+[@Kěshì@] xiǎoniú hái zài chī dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>91858</StartMilliseconds>
+    <EndMilliseconds>92802</EndMilliseconds>
+    <Text>可是[@小牛@]还在吃东西。 
+Kěshì [@xiǎoniú@] hái zài chī dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>92803</StartMilliseconds>
+    <EndMilliseconds>93223</EndMilliseconds>
+    <Text>可是小牛[@还@]在吃东西。 
+Kěshì xiǎoniú [@hái@] zài chī dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>93224</StartMilliseconds>
+    <EndMilliseconds>93502</EndMilliseconds>
+    <Text>可是小牛还[@在@]吃东西。 
+Kěshì xiǎoniú hái [@zài@] chī dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>93503</StartMilliseconds>
+    <EndMilliseconds>93864</EndMilliseconds>
+    <Text>可是小牛还在[@吃@]东西。 
+Kěshì xiǎoniú hái zài [@chī@] dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>93865</StartMilliseconds>
+    <EndMilliseconds>94479</EndMilliseconds>
+    <Text>可是小牛还在吃[@东西@]。 
+Kěshì xiǎoniú hái zài chī [@dōngxi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>94480</StartMilliseconds>
+    <EndMilliseconds>94617</EndMilliseconds>
+    <Text>可是小牛还在吃东西。 
+Kěshì xiǎoniú hái zài chī dōngxi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>94618</StartMilliseconds>
+    <EndMilliseconds>96271</EndMilliseconds>
+    <Text>可怜的小羊！它饿了！
+Kělián de xiǎoyáng! Tā è le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>96272</StartMilliseconds>
+    <EndMilliseconds>96661</EndMilliseconds>
+    <Text>[@可怜@]的小羊！它饿了！
+[@Kělián@] de xiǎoyáng! Tā è le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>96662</StartMilliseconds>
+    <EndMilliseconds>96937</EndMilliseconds>
+    <Text>可怜[@的@]小羊！它饿了！
+Kělián [@de@] xiǎoyáng! Tā è le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>96938</StartMilliseconds>
+    <EndMilliseconds>97629</EndMilliseconds>
+    <Text>可怜的[@小羊@]！它饿了！
+Kělián de [@xiǎoyáng@]! Tā è le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>97630</StartMilliseconds>
+    <EndMilliseconds>98181</EndMilliseconds>
+    <Text>可怜的小羊！它饿了！
+Kělián de xiǎoyáng! Tā è le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>98182</StartMilliseconds>
+    <EndMilliseconds>98658</EndMilliseconds>
+    <Text>可怜的小羊！[@它@]饿了！
+Kělián de xiǎoyáng! [@Tā@] è le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>98659</StartMilliseconds>
+    <EndMilliseconds>99205</EndMilliseconds>
+    <Text>可怜的小羊！它[@饿@]了！
+Kělián de xiǎoyáng! Tā [@è@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>99206</StartMilliseconds>
+    <EndMilliseconds>99511</EndMilliseconds>
+    <Text>可怜的小羊！它饿[@了@]！
+Kělián de xiǎoyáng! Tā è [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>99516</StartMilliseconds>
+    <EndMilliseconds>102172</EndMilliseconds>
+    <Text>可怜的小羊！它饿了！
+Kělián de xiǎoyáng! Tā è le!</Text>
+  </Paragraph>
+</Subtitle>

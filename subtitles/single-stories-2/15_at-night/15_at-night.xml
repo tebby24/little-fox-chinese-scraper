@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7925</StartMilliseconds>
+    <EndMilliseconds>11706</EndMilliseconds>
+    <Text>马在马厩里睡觉。
+Mǎ zài mǎjiù li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>11707</StartMilliseconds>
+    <EndMilliseconds>12102</EndMilliseconds>
+    <Text>[@马@]在马厩里睡觉。
+[@Mǎ@] zài mǎjiù li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12103</StartMilliseconds>
+    <EndMilliseconds>12674</EndMilliseconds>
+    <Text>马[@在@]马厩里睡觉。
+Mǎ [@zài@] mǎjiù li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12675</StartMilliseconds>
+    <EndMilliseconds>13359</EndMilliseconds>
+    <Text>马在[@马厩@]里睡觉。
+Mǎ zài [@mǎjiù@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13360</StartMilliseconds>
+    <EndMilliseconds>13705</EndMilliseconds>
+    <Text>马在马厩[@里@]睡觉。
+Mǎ zài mǎjiù [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13706</StartMilliseconds>
+    <EndMilliseconds>14488</EndMilliseconds>
+    <Text>马在马厩里[@睡觉@]。
+Mǎ zài mǎjiù li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14489</StartMilliseconds>
+    <EndMilliseconds>19969</EndMilliseconds>
+    <Text>马在马厩里睡觉。
+Mǎ zài mǎjiù li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19970</StartMilliseconds>
+    <EndMilliseconds>23289</EndMilliseconds>
+    <Text>猪在猪圈里睡觉。
+Zhū zài zhū juàn li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23290</StartMilliseconds>
+    <EndMilliseconds>23686</EndMilliseconds>
+    <Text>[@猪@]在猪圈里睡觉。
+[@Zhū@] zài zhū juàn li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23687</StartMilliseconds>
+    <EndMilliseconds>24318</EndMilliseconds>
+    <Text>猪[@在@]猪圈里睡觉。
+Zhū [@zài@] zhū juàn li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24319</StartMilliseconds>
+    <EndMilliseconds>24606</EndMilliseconds>
+    <Text>猪在[@猪@]圈里睡觉。
+Zhū zài [@zhū@] juàn li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24606</StartMilliseconds>
+    <EndMilliseconds>25049</EndMilliseconds>
+    <Text>猪在猪[@圈@]里睡觉。
+Zhū zài zhū [@juàn@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>25050</StartMilliseconds>
+    <EndMilliseconds>25389</EndMilliseconds>
+    <Text>猪在猪圈[@里@]睡觉。
+Zhū zài zhū juàn [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25390</StartMilliseconds>
+    <EndMilliseconds>26193</EndMilliseconds>
+    <Text>猪在猪圈里[@睡觉@]。
+Zhū zài zhū juàn li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>26194</StartMilliseconds>
+    <EndMilliseconds>31951</EndMilliseconds>
+    <Text>猪在猪圈里睡觉。
+Zhū zài zhū juàn li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>31952</StartMilliseconds>
+    <EndMilliseconds>33449</EndMilliseconds>
+    <Text>松鼠在树洞里睡觉。
+Sōngshǔ zài shùdòng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>33450</StartMilliseconds>
+    <EndMilliseconds>34733</EndMilliseconds>
+    <Text>[@松鼠@]在树洞里睡觉。
+[@Sōngshǔ@] zài shùdòng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>34734</StartMilliseconds>
+    <EndMilliseconds>35157</EndMilliseconds>
+    <Text>松鼠[@在@]树洞里睡觉。
+Sōngshǔ [@zài@] shùdòng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>35158</StartMilliseconds>
+    <EndMilliseconds>35966</EndMilliseconds>
+    <Text>松鼠在[@树洞@]里睡觉。
+Sōngshǔ zài [@shùdòng@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>35967</StartMilliseconds>
+    <EndMilliseconds>36246</EndMilliseconds>
+    <Text>松鼠在树洞[@里@]睡觉。
+Sōngshǔ zài shùdòng [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>36247</StartMilliseconds>
+    <EndMilliseconds>37020</EndMilliseconds>
+    <Text>松鼠在树洞里[@睡觉@]。
+Sōngshǔ zài shùdòng li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>37021</StartMilliseconds>
+    <EndMilliseconds>39702</EndMilliseconds>
+    <Text>松鼠在树洞里睡觉。
+Sōngshǔ zài shùdòng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39703</StartMilliseconds>
+    <EndMilliseconds>42025</EndMilliseconds>
+    <Text>鹦鹉在笼子里睡觉。
+Yīngwǔ zài lóngzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>42026</StartMilliseconds>
+    <EndMilliseconds>43346</EndMilliseconds>
+    <Text>[@鹦鹉@]在笼子里睡觉。
+[@Yīngwǔ@] zài lóngzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>43347</StartMilliseconds>
+    <EndMilliseconds>43892</EndMilliseconds>
+    <Text>鹦鹉[@在@]笼子里睡觉。
+Yīngwǔ [@zài@] lóngzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>43893</StartMilliseconds>
+    <EndMilliseconds>44474</EndMilliseconds>
+    <Text>鹦鹉在[@笼子@]里睡觉。
+Yīngwǔ zài [@lóngzi@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>44475</StartMilliseconds>
+    <EndMilliseconds>44781</EndMilliseconds>
+    <Text>鹦鹉在笼子[@里@]睡觉。
+Yīngwǔ zài lóngzi [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>44782</StartMilliseconds>
+    <EndMilliseconds>45600</EndMilliseconds>
+    <Text>鹦鹉在笼子里[@睡觉@]。
+Yīngwǔ zài lóngzi li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>45601</StartMilliseconds>
+    <EndMilliseconds>49739</EndMilliseconds>
+    <Text>鹦鹉在笼子里睡觉。
+Yīngwǔ zài lóngzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>49740</StartMilliseconds>
+    <EndMilliseconds>52361</EndMilliseconds>
+    <Text>猫在篮子里睡觉。
+Māo zài lánzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>52362</StartMilliseconds>
+    <EndMilliseconds>52918</EndMilliseconds>
+    <Text>[@猫@]在篮子里睡觉。
+[@Māo@] zài lánzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>52919</StartMilliseconds>
+    <EndMilliseconds>53545</EndMilliseconds>
+    <Text>猫[@在@]篮子里睡觉。
+Māo [@zài@] lánzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>53546</StartMilliseconds>
+    <EndMilliseconds>54189</EndMilliseconds>
+    <Text>猫在[@篮子@]里睡觉。
+Māo zài [@lánzi@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>54190</StartMilliseconds>
+    <EndMilliseconds>54477</EndMilliseconds>
+    <Text>猫在篮子[@里@]睡觉。
+Māo zài lánzi [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54478</StartMilliseconds>
+    <EndMilliseconds>55280</EndMilliseconds>
+    <Text>猫在篮子里[@睡觉@]。
+Māo zài lánzi li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>55281</StartMilliseconds>
+    <EndMilliseconds>59713</EndMilliseconds>
+    <Text>猫在篮子里睡觉。
+Māo zài lánzi li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>59714</StartMilliseconds>
+    <EndMilliseconds>61596</EndMilliseconds>
+    <Text>金鱼在鱼缸里睡觉。
+Jīnyú zài yúgāng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>61597</StartMilliseconds>
+    <EndMilliseconds>62845</EndMilliseconds>
+    <Text>[@金鱼@]在鱼缸里睡觉。
+[@Jīnyú@] zài yúgāng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>62846</StartMilliseconds>
+    <EndMilliseconds>63352</EndMilliseconds>
+    <Text>金鱼[@在@]鱼缸里睡觉。
+Jīnyú [@zài@] yúgāng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>63353</StartMilliseconds>
+    <EndMilliseconds>64044</EndMilliseconds>
+    <Text>金鱼在[@鱼缸@]里睡觉。
+Jīnyú zài [@yúgāng@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>64045</StartMilliseconds>
+    <EndMilliseconds>64344</EndMilliseconds>
+    <Text>金鱼在鱼缸[@里@]睡觉。
+Jīnyú zài yúgāng [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>64345</StartMilliseconds>
+    <EndMilliseconds>65157</EndMilliseconds>
+    <Text>金鱼在鱼缸里[@睡觉@]。
+Jīnyú zài yúgāng li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>65158</StartMilliseconds>
+    <EndMilliseconds>69698</EndMilliseconds>
+    <Text>金鱼在鱼缸里睡觉。
+Jīnyú zài yúgāng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>69699</StartMilliseconds>
+    <EndMilliseconds>71343</EndMilliseconds>
+    <Text>月亮在天空里睡觉。
+Yuèliang zài tiānkōng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>71344</StartMilliseconds>
+    <EndMilliseconds>72381</EndMilliseconds>
+    <Text>[@月亮@]在天空里睡觉。
+[@Yuèliang@] zài tiānkōng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>72382</StartMilliseconds>
+    <EndMilliseconds>72819</EndMilliseconds>
+    <Text>月亮[@在@]天空里睡觉。
+Yuèliang [@zài@] tiānkōng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>72820</StartMilliseconds>
+    <EndMilliseconds>73550</EndMilliseconds>
+    <Text>月亮在[@天空@]里睡觉。
+Yuèliang zài [@tiānkōng@] li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>73551</StartMilliseconds>
+    <EndMilliseconds>73871</EndMilliseconds>
+    <Text>月亮在天空[@里@]睡觉。
+Yuèliang zài tiānkōng [@li@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>73872</StartMilliseconds>
+    <EndMilliseconds>74693</EndMilliseconds>
+    <Text>月亮在天空里[@睡觉@]。
+Yuèliang zài tiānkōng li [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>74694</StartMilliseconds>
+    <EndMilliseconds>79568</EndMilliseconds>
+    <Text>月亮在天空里睡觉。
+Yuèliang zài tiānkōng li shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>79569</StartMilliseconds>
+    <EndMilliseconds>83634</EndMilliseconds>
+    <Text>你在哪里睡觉？
+Nǐ zài nǎli shuìjiào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>83635</StartMilliseconds>
+    <EndMilliseconds>84037</EndMilliseconds>
+    <Text>[@你@]在哪里睡觉？
+[@Nǐ@] zài nǎli shuìjiào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>84038</StartMilliseconds>
+    <EndMilliseconds>84358</EndMilliseconds>
+    <Text>你[@在@]哪里睡觉？
+Nǐ [@zài@] nǎli shuìjiào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>84359</StartMilliseconds>
+    <EndMilliseconds>84876</EndMilliseconds>
+    <Text>你在[@哪里@]睡觉？
+Nǐ zài [@nǎli@] shuìjiào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>84877</StartMilliseconds>
+    <EndMilliseconds>85664</EndMilliseconds>
+    <Text>你在哪里[@睡觉@]？
+Nǐ zài nǎli [@shuìjiào@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>85665</StartMilliseconds>
+    <EndMilliseconds>92828</EndMilliseconds>
+    <Text>你在哪里睡觉？
+Nǐ zài nǎli shuìjiào?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>92829</StartMilliseconds>
+    <EndMilliseconds>94569</EndMilliseconds>
+    <Text>我在床上睡觉。
+Wǒ zài chuáng shàng shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>94570</StartMilliseconds>
+    <EndMilliseconds>94962</EndMilliseconds>
+    <Text>[@我@]在床上睡觉。
+[@Wǒ@] zài chuáng shàng shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>94963</StartMilliseconds>
+    <EndMilliseconds>95489</EndMilliseconds>
+    <Text>我[@在@]床上睡觉。
+Wǒ [@zài@] chuáng shàng shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>95490</StartMilliseconds>
+    <EndMilliseconds>96000</EndMilliseconds>
+    <Text>我在[@床@]上睡觉。
+Wǒ zài [@chuáng@] shàng shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>96001</StartMilliseconds>
+    <EndMilliseconds>96319</EndMilliseconds>
+    <Text>我在床[@上@]睡觉。
+Wǒ zài chuáng [@shàng@] shuìjiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>96320</StartMilliseconds>
+    <EndMilliseconds>97110</EndMilliseconds>
+    <Text>我在床上[@睡觉@]。
+Wǒ zài chuáng shàng [@shuìjiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>97111</StartMilliseconds>
+    <EndMilliseconds>99936</EndMilliseconds>
+    <Text>我在床上睡觉。
+Wǒ zài chuáng shàng shuìjiào.</Text>
+  </Paragraph>
+</Subtitle>

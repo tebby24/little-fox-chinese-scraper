@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10001</StartMilliseconds>
+    <EndMilliseconds>12999</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13000</StartMilliseconds>
+    <EndMilliseconds>13568</EndMilliseconds>
+    <Text>马克西：[@你好@]。我叫马克西，我是一只猫。
+Mǎkèxī: [@Nǐ hǎo@]. Wǒ jiào Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13569</StartMilliseconds>
+    <EndMilliseconds>13909</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13910</StartMilliseconds>
+    <EndMilliseconds>14124</EndMilliseconds>
+    <Text>马克西：你好。[@我@]叫马克西，我是一只猫。
+Mǎkèxī: Nǐ hǎo. [@Wǒ@] jiào Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14125</StartMilliseconds>
+    <EndMilliseconds>14439</EndMilliseconds>
+    <Text>马克西：你好。我[@叫@]马克西，我是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ [@jiào@] Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14440</StartMilliseconds>
+    <EndMilliseconds>15151</EndMilliseconds>
+    <Text>马克西：你好。我叫[@马克西@]，我是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào [@Mǎkèxī@], wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15152</StartMilliseconds>
+    <EndMilliseconds>15569</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15570</StartMilliseconds>
+    <EndMilliseconds>15807</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，[@我@]是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, [@wǒ@] shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15808</StartMilliseconds>
+    <EndMilliseconds>16096</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我[@是@]一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ [@shì@] yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16097</StartMilliseconds>
+    <EndMilliseconds>16274</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是[@一@]只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì [@yì@] zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16275</StartMilliseconds>
+    <EndMilliseconds>16497</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是一[@只@]猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì yì [@zhī@] māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16498</StartMilliseconds>
+    <EndMilliseconds>16884</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是一只[@猫@]。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì yì zhī [@māo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>16885</StartMilliseconds>
+    <EndMilliseconds>17667</EndMilliseconds>
+    <Text>马克西：你好。我叫马克西，我是一只猫。
+Mǎkèxī: Nǐ hǎo. Wǒ jiào Mǎkèxī, wǒ shì yì zhī māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>17668</StartMilliseconds>
+    <EndMilliseconds>17938</EndMilliseconds>
+    <Text>塔克：我叫塔克，我是一只鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, wǒ shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>17939</StartMilliseconds>
+    <EndMilliseconds>18206</EndMilliseconds>
+    <Text>塔克：[@我@]叫塔克，我是一只鹦鹉。
+Tǎkè: [@Wǒ@] jiào Tǎkè, wǒ shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>18207</StartMilliseconds>
+    <EndMilliseconds>18477</EndMilliseconds>
+    <Text>塔克：我[@叫@]塔克，我是一只鹦鹉。
+Tǎkè: Wǒ [@jiào@] Tǎkè, wǒ shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>18478</StartMilliseconds>
+    <EndMilliseconds>19234</EndMilliseconds>
+    <Text>塔克：我叫[@塔克@]，我是一只鹦鹉。
+Tǎkè: Wǒ jiào [@Tǎkè@], wǒ shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>19235</StartMilliseconds>
+    <EndMilliseconds>19551</EndMilliseconds>
+    <Text>塔克：我叫塔克，我是一只鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, wǒ shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>19552</StartMilliseconds>
+    <EndMilliseconds>19866</EndMilliseconds>
+    <Text>塔克：我叫塔克，[@我@]是一只鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, [@wǒ@] shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>19867</StartMilliseconds>
+    <EndMilliseconds>20089</EndMilliseconds>
+    <Text>塔克：我叫塔克，我[@是@]一只鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, wǒ [@shì@] yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>20090</StartMilliseconds>
+    <EndMilliseconds>20279</EndMilliseconds>
+    <Text>塔克：我叫塔克，我是[@一@]只鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, wǒ shì [@yì@] zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>20280</StartMilliseconds>
+    <EndMilliseconds>20477</EndMilliseconds>
+    <Text>塔克：我叫塔克，我是一[@只@]鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, wǒ shì yì [@zhī@] yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>20478</StartMilliseconds>
+    <EndMilliseconds>21387</EndMilliseconds>
+    <Text>塔克：我叫塔克，我是一只[@鹦鹉@]。
+Tǎkè: Wǒ jiào Tǎkè, wǒ shì yì zhī [@yīngwǔ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>21388</StartMilliseconds>
+    <EndMilliseconds>25301</EndMilliseconds>
+    <Text>塔克：我叫塔克，我是一只鹦鹉。
+Tǎkè: Wǒ jiào Tǎkè, wǒ shì yì zhī yīngwǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>25302</StartMilliseconds>
+    <EndMilliseconds>26690</EndMilliseconds>
+    <Text>马克西：我们有许多故事要告诉你们。
+Mǎkèxī: Wǒmen yǒu xǔduō gùshi yào gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>26691</StartMilliseconds>
+    <EndMilliseconds>27226</EndMilliseconds>
+    <Text>马克西：[@我们@]有许多故事要告诉你们。
+Mǎkèxī: [@Wǒmen@] yǒu xǔduō gùshi yào gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>27227</StartMilliseconds>
+    <EndMilliseconds>27453</EndMilliseconds>
+    <Text>马克西：我们[@有@]许多故事要告诉你们。
+Mǎkèxī: Wǒmen [@yǒu@] xǔduō gùshi yào gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>27454</StartMilliseconds>
+    <EndMilliseconds>27956</EndMilliseconds>
+    <Text>马克西：我们有[@许多@]故事要告诉你们。
+Mǎkèxī: Wǒmen yǒu [@xǔduō@] gùshi yào gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>27957</StartMilliseconds>
+    <EndMilliseconds>28663</EndMilliseconds>
+    <Text>马克西：我们有许多[@故事@]要告诉你们。
+Mǎkèxī: Wǒmen yǒu xǔduō [@gùshi@] yào gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>28664</StartMilliseconds>
+    <EndMilliseconds>28895</EndMilliseconds>
+    <Text>马克西：我们有许多故事[@要@]告诉你们。
+Mǎkèxī: Wǒmen yǒu xǔduō gùshi [@yào@] gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>28896</StartMilliseconds>
+    <EndMilliseconds>29421</EndMilliseconds>
+    <Text>马克西：我们有许多故事要[@告诉@]你们。
+Mǎkèxī: Wǒmen yǒu xǔduō gùshi yào [@gàosu@] nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>29422</StartMilliseconds>
+    <EndMilliseconds>29965</EndMilliseconds>
+    <Text>马克西：我们有许多故事要告诉[@你们@]。
+Mǎkèxī: Wǒmen yǒu xǔduō gùshi yào gàosu [@nǐmen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>29966</StartMilliseconds>
+    <EndMilliseconds>33252</EndMilliseconds>
+    <Text>马克西：我们有许多故事要告诉你们。
+Mǎkèxī: Wǒmen yǒu xǔduō gùshi yào gàosu nǐmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>33253</StartMilliseconds>
+    <EndMilliseconds>34419</EndMilliseconds>
+    <Text>马克西：这是我的马克笔。
+Mǎkèxī: Zhè shì wǒ de mǎkèbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>34420</StartMilliseconds>
+    <EndMilliseconds>34622</EndMilliseconds>
+    <Text>马克西：[@这@]是我的马克笔。
+Mǎkèxī: [@Zhè@] shì wǒ de mǎkèbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>34623</StartMilliseconds>
+    <EndMilliseconds>34844</EndMilliseconds>
+    <Text>马克西：这[@是@]我的马克笔。
+Mǎkèxī: Zhè [@shì@] wǒ de mǎkèbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>34845</StartMilliseconds>
+    <EndMilliseconds>35084</EndMilliseconds>
+    <Text>马克西：这是[@我@]的马克笔。
+Mǎkèxī: Zhè shì [@wǒ@] de mǎkèbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>35085</StartMilliseconds>
+    <EndMilliseconds>35367</EndMilliseconds>
+    <Text>马克西：这是我[@的@]马克笔。
+Mǎkèxī: Zhè shì wǒ [@de@] mǎkèbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>35368</StartMilliseconds>
+    <EndMilliseconds>36439</EndMilliseconds>
+    <Text>马克西：这是我的[@马克笔@]。
+Mǎkèxī: Zhè shì wǒ de [@mǎkèbǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>36440</StartMilliseconds>
+    <EndMilliseconds>37151</EndMilliseconds>
+    <Text>马克西：这是我的马克笔。
+Mǎkèxī: Zhè shì wǒ de mǎkèbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>37152</StartMilliseconds>
+    <EndMilliseconds>37334</EndMilliseconds>
+    <Text>马克西：是我在一棵树下找到的。
+Mǎkèxī: Shì wǒ zài yì kē shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>37335</StartMilliseconds>
+    <EndMilliseconds>37624</EndMilliseconds>
+    <Text>马克西：[@是@]我在一棵树下找到的。
+Mǎkèxī: [@Shì@] wǒ zài yì kē shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>37625</StartMilliseconds>
+    <EndMilliseconds>37854</EndMilliseconds>
+    <Text>马克西：是[@我@]在一棵树下找到的。
+Mǎkèxī: Shì [@wǒ@] zài yì kē shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>37855</StartMilliseconds>
+    <EndMilliseconds>38121</EndMilliseconds>
+    <Text>马克西：是我[@在@]一棵树下找到的。
+Mǎkèxī: Shì wǒ [@zài@] yì kē shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>38122</StartMilliseconds>
+    <EndMilliseconds>38296</EndMilliseconds>
+    <Text>马克西：是我在[@一@]棵树下找到的。
+Mǎkèxī: Shì wǒ zài [@yì@] kē shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>38297</StartMilliseconds>
+    <EndMilliseconds>38470</EndMilliseconds>
+    <Text>马克西：是我在一[@棵@]树下找到的。
+Mǎkèxī: Shì wǒ zài yì [@kē@] shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>38471</StartMilliseconds>
+    <EndMilliseconds>38802</EndMilliseconds>
+    <Text>马克西：是我在一棵[@树@]下找到的。
+Mǎkèxī: Shì wǒ zài yì kē [@shù@] xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>38803</StartMilliseconds>
+    <EndMilliseconds>39115</EndMilliseconds>
+    <Text>马克西：是我在一棵树[@下@]找到的。
+Mǎkèxī: Shì wǒ zài yì kē shù [@xià@] zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>39116</StartMilliseconds>
+    <EndMilliseconds>39678</EndMilliseconds>
+    <Text>马克西：是我在一棵树下[@找到@]的。
+Mǎkèxī: Shì wǒ zài yì kē shù xià [@zhǎodào@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>39679</StartMilliseconds>
+    <EndMilliseconds>40003</EndMilliseconds>
+    <Text>马克西：是我在一棵树下找到[@的@]。
+Mǎkèxī: Shì wǒ zài yì kē shù xià zhǎodào [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>40004</StartMilliseconds>
+    <EndMilliseconds>49058</EndMilliseconds>
+    <Text>马克西：是我在一棵树下找到的。
+Mǎkèxī: Shì wǒ zài yì kē shù xià zhǎodào de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>49059</StartMilliseconds>
+    <EndMilliseconds>49669</EndMilliseconds>
+    <Text>马克西：这是一支魔法笔。
+Mǎkèxī: Zhè shì yì zhī mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>49670</StartMilliseconds>
+    <EndMilliseconds>49897</EndMilliseconds>
+    <Text>马克西：[@这@]是一支魔法笔。
+Mǎkèxī: [@Zhè@] shì yì zhī mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>49898</StartMilliseconds>
+    <EndMilliseconds>50096</EndMilliseconds>
+    <Text>马克西：这[@是@]一支魔法笔。
+Mǎkèxī: Zhè [@shì@] yì zhī mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>50097</StartMilliseconds>
+    <EndMilliseconds>50326</EndMilliseconds>
+    <Text>马克西：这是[@一@]支魔法笔。
+Mǎkèxī: Zhè shì [@yì@] zhī mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>50327</StartMilliseconds>
+    <EndMilliseconds>50842</EndMilliseconds>
+    <Text>马克西：这是一[@支@]魔法笔。
+Mǎkèxī: Zhè shì yì [@zhī@] mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>50843</StartMilliseconds>
+    <EndMilliseconds>51902</EndMilliseconds>
+    <Text>马克西：这是一支[@魔法笔@]。
+Mǎkèxī: Zhè shì yì zhī [@mófǎbǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>51903</StartMilliseconds>
+    <EndMilliseconds>54167</EndMilliseconds>
+    <Text>马克西：这是一支魔法笔。
+Mǎkèxī: Zhè shì yì zhī mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>54168</StartMilliseconds>
+    <EndMilliseconds>54989</EndMilliseconds>
+    <Text>马克西：我们用它做了许多有趣的事情。
+Mǎkèxī: Wǒmen yòng tā zuò le xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>54990</StartMilliseconds>
+    <EndMilliseconds>55352</EndMilliseconds>
+    <Text>马克西：[@我们@]用它做了许多有趣的事情。
+Mǎkèxī: [@Wǒmen@] yòng tā zuò le xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>55353</StartMilliseconds>
+    <EndMilliseconds>55619</EndMilliseconds>
+    <Text>马克西：我们[@用@]它做了许多有趣的事情。
+Mǎkèxī: Wǒmen [@yòng@] tā zuò le xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>55620</StartMilliseconds>
+    <EndMilliseconds>56241</EndMilliseconds>
+    <Text>马克西：我们用[@它@]做了许多有趣的事情。
+Mǎkèxī: Wǒmen yòng [@tā@] zuò le xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>56242</StartMilliseconds>
+    <EndMilliseconds>56444</EndMilliseconds>
+    <Text>马克西：我们用它[@做@]了许多有趣的事情。
+Mǎkèxī: Wǒmen yòng tā [@zuò@] le xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>56445</StartMilliseconds>
+    <EndMilliseconds>56673</EndMilliseconds>
+    <Text>马克西：我们用它做[@了@]许多有趣的事情。
+Mǎkèxī: Wǒmen yòng tā zuò [@le@] xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>56674</StartMilliseconds>
+    <EndMilliseconds>57245</EndMilliseconds>
+    <Text>马克西：我们用它做了[@许多@]有趣的事情。
+Mǎkèxī: Wǒmen yòng tā zuò le [@xǔduō@] yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>57246</StartMilliseconds>
+    <EndMilliseconds>57664</EndMilliseconds>
+    <Text>马克西：我们用它做了许多[@有趣@]的事情。
+Mǎkèxī: Wǒmen yòng tā zuò le xǔduō [@yǒuqù@] de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>57665</StartMilliseconds>
+    <EndMilliseconds>57837</EndMilliseconds>
+    <Text>马克西：我们用它做了许多有趣[@的@]事情。
+Mǎkèxī: Wǒmen yòng tā zuò le xǔduō yǒuqù [@de@] shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>57838</StartMilliseconds>
+    <EndMilliseconds>58575</EndMilliseconds>
+    <Text>马克西：我们用它做了许多有趣的[@事情@]。
+Mǎkèxī: Wǒmen yòng tā zuò le xǔduō yǒuqù de [@shìqing@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>58576</StartMilliseconds>
+    <EndMilliseconds>60034</EndMilliseconds>
+    <Text>马克西：我们用它做了许多有趣的事情。
+Mǎkèxī: Wǒmen yòng tā zuò le xǔduō yǒuqù de shìqing.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>60035</StartMilliseconds>
+    <EndMilliseconds>61060</EndMilliseconds>
+    <Text>亚历克斯：你在做什么？
+Yàlìkèsī: Nǐ zài zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>61061</StartMilliseconds>
+    <EndMilliseconds>61298</EndMilliseconds>
+    <Text>亚历克斯：[@你@]在做什么？
+Yàlìkèsī: [@Nǐ@] zài zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>61299</StartMilliseconds>
+    <EndMilliseconds>61570</EndMilliseconds>
+    <Text>亚历克斯：你[@在@]做什么？
+Yàlìkèsī: Nǐ [@zài@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>61571</StartMilliseconds>
+    <EndMilliseconds>61746</EndMilliseconds>
+    <Text>亚历克斯：你在[@做@]什么？
+Yàlìkèsī: Nǐ zài [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>61747</StartMilliseconds>
+    <EndMilliseconds>62173</EndMilliseconds>
+    <Text>亚历克斯：你在做[@什么@]？
+Yàlìkèsī: Nǐ zài zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>62174</StartMilliseconds>
+    <EndMilliseconds>63269</EndMilliseconds>
+    <Text>亚历克斯：你在做什么？
+Yàlìkèsī: Nǐ zài zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>63270</StartMilliseconds>
+    <EndMilliseconds>64380</EndMilliseconds>
+    <Text>亚历克斯：哦，你们好！我叫亚历克斯。
+Yàlìkèsī: Ò, nǐmen hǎo! Wǒ jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>64381</StartMilliseconds>
+    <EndMilliseconds>65221</EndMilliseconds>
+    <Text>亚历克斯：[@哦@]，你们好！我叫亚历克斯。
+Yàlìkèsī: [@Ò@], nǐmen hǎo! Wǒ jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>65222</StartMilliseconds>
+    <EndMilliseconds>65491</EndMilliseconds>
+    <Text>亚历克斯：哦，[@你们@]好！我叫亚历克斯。
+Yàlìkèsī: Ò, [@nǐmen@] hǎo! Wǒ jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>65492</StartMilliseconds>
+    <EndMilliseconds>65914</EndMilliseconds>
+    <Text>亚历克斯：哦，你们[@好@]！我叫亚历克斯。
+Yàlìkèsī: Ò, nǐmen [@hǎo@]! Wǒ jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>65915</StartMilliseconds>
+    <EndMilliseconds>66365</EndMilliseconds>
+    <Text>亚历克斯：哦，你们好！我叫亚历克斯。
+Yàlìkèsī: Ò, nǐmen hǎo! Wǒ jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>66366</StartMilliseconds>
+    <EndMilliseconds>66594</EndMilliseconds>
+    <Text>亚历克斯：哦，你们好！[@我@]叫亚历克斯。
+Yàlìkèsī: Ò, nǐmen hǎo! [@Wǒ@] jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>66595</StartMilliseconds>
+    <EndMilliseconds>66928</EndMilliseconds>
+    <Text>亚历克斯：哦，你们好！我[@叫@]亚历克斯。
+Yàlìkèsī: Ò, nǐmen hǎo! Wǒ [@jiào@] Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>66929</StartMilliseconds>
+    <EndMilliseconds>67741</EndMilliseconds>
+    <Text>亚历克斯：哦，你们好！我叫[@亚历克斯@]。
+Yàlìkèsī: Ò, nǐmen hǎo! Wǒ jiào [@Yàlìkèsī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>67742</StartMilliseconds>
+    <EndMilliseconds>68423</EndMilliseconds>
+    <Text>亚历克斯：哦，你们好！我叫亚历克斯。
+Yàlìkèsī: Ò, nǐmen hǎo! Wǒ jiào Yàlìkèsī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>68424</StartMilliseconds>
+    <EndMilliseconds>68574</EndMilliseconds>
+    <Text>亚历克斯：这是我的妹妹苏。
+Yàlìkèsī: Zhè shì wǒ de mèimei Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>68575</StartMilliseconds>
+    <EndMilliseconds>68790</EndMilliseconds>
+    <Text>亚历克斯：[@这@]是我的妹妹苏。
+Yàlìkèsī: [@Zhè@] shì wǒ de mèimei Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>68791</StartMilliseconds>
+    <EndMilliseconds>68948</EndMilliseconds>
+    <Text>亚历克斯：这[@是@]我的妹妹苏。
+Yàlìkèsī: Zhè [@shì@] wǒ de mèimei Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>68949</StartMilliseconds>
+    <EndMilliseconds>69099</EndMilliseconds>
+    <Text>亚历克斯：这是[@我@]的妹妹苏。
+Yàlìkèsī: Zhè shì [@wǒ@] de mèimei Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>69100</StartMilliseconds>
+    <EndMilliseconds>69296</EndMilliseconds>
+    <Text>亚历克斯：这是我[@的@]妹妹苏。
+Yàlìkèsī: Zhè shì wǒ [@de@] mèimei Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>69297</StartMilliseconds>
+    <EndMilliseconds>69956</EndMilliseconds>
+    <Text>亚历克斯：这是我的[@妹妹@]苏。
+Yàlìkèsī: Zhè shì wǒ de [@mèimei@] Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>69957</StartMilliseconds>
+    <EndMilliseconds>70394</EndMilliseconds>
+    <Text>亚历克斯：这是我的妹妹[@苏@]。
+Yàlìkèsī: Zhè shì wǒ de mèimei [@Sū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>70395</StartMilliseconds>
+    <EndMilliseconds>70706</EndMilliseconds>
+    <Text>亚历克斯：这是我的妹妹苏。
+Yàlìkèsī: Zhè shì wǒ de mèimei Sū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>70707</StartMilliseconds>
+    <EndMilliseconds>70849</EndMilliseconds>
+    <Text>亚历克斯：我们是双胞胎。
+Yàlìkèsī: Wǒmen shì shuāngbāotāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>70850</StartMilliseconds>
+    <EndMilliseconds>71174</EndMilliseconds>
+    <Text>亚历克斯：[@我们@]是双胞胎。
+Yàlìkèsī: [@Wǒmen@] shì shuāngbāotāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>71175</StartMilliseconds>
+    <EndMilliseconds>71459</EndMilliseconds>
+    <Text>亚历克斯：我们[@是@]双胞胎。
+Yàlìkèsī: Wǒmen [@shì@] shuāngbāotāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>71460</StartMilliseconds>
+    <EndMilliseconds>72202</EndMilliseconds>
+    <Text>亚历克斯：我们是[@双胞胎@]。
+Yàlìkèsī: Wǒmen shì [@shuāngbāotāi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>72203</StartMilliseconds>
+    <EndMilliseconds>72945</EndMilliseconds>
+    <Text>亚历克斯：我们是双胞胎。
+Yàlìkèsī: Wǒmen shì shuāngbāotāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>72946</StartMilliseconds>
+    <EndMilliseconds>73135</EndMilliseconds>
+    <Text>亚历克斯：我们有许多故事要和你们分享。
+Yàlìkèsī: Wǒmen yǒu xǔduō gùshi yào hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>73136</StartMilliseconds>
+    <EndMilliseconds>73446</EndMilliseconds>
+    <Text>亚历克斯：[@我们@]有许多故事要和你们分享。
+Yàlìkèsī: [@Wǒmen@] yǒu xǔduō gùshi yào hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>73447</StartMilliseconds>
+    <EndMilliseconds>73618</EndMilliseconds>
+    <Text>亚历克斯：我们[@有@]许多故事要和你们分享。
+Yàlìkèsī: Wǒmen [@yǒu@] xǔduō gùshi yào hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>73619</StartMilliseconds>
+    <EndMilliseconds>74094</EndMilliseconds>
+    <Text>亚历克斯：我们有[@许多@]故事要和你们分享。
+Yàlìkèsī: Wǒmen yǒu [@xǔduō@] gùshi yào hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>74095</StartMilliseconds>
+    <EndMilliseconds>74769</EndMilliseconds>
+    <Text>亚历克斯：我们有许多[@故事@]要和你们分享。
+Yàlìkèsī: Wǒmen yǒu xǔduō [@gùshi@] yào hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>74770</StartMilliseconds>
+    <EndMilliseconds>75092</EndMilliseconds>
+    <Text>亚历克斯：我们有许多故事[@要@]和你们分享。
+Yàlìkèsī: Wǒmen yǒu xǔduō gùshi [@yào@] hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>75093</StartMilliseconds>
+    <EndMilliseconds>75260</EndMilliseconds>
+    <Text>亚历克斯：我们有许多故事要[@和@]你们分享。
+Yàlìkèsī: Wǒmen yǒu xǔduō gùshi yào [@hé@] nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>75261</StartMilliseconds>
+    <EndMilliseconds>75562</EndMilliseconds>
+    <Text>亚历克斯：我们有许多故事要和[@你们@]分享。
+Yàlìkèsī: Wǒmen yǒu xǔduō gùshi yào hé [@nǐmen@] fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>75563</StartMilliseconds>
+    <EndMilliseconds>76264</EndMilliseconds>
+    <Text>亚历克斯：我们有许多故事要和你们[@分享@]。
+Yàlìkèsī: Wǒmen yǒu xǔduō gùshi yào hé nǐmen [@fēnxiǎng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>76265</StartMilliseconds>
+    <EndMilliseconds>77458</EndMilliseconds>
+    <Text>亚历克斯：我们有许多故事要和你们分享。
+Yàlìkèsī: Wǒmen yǒu xǔduō gùshi yào hé nǐmen fēnxiǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>77459</StartMilliseconds>
+    <EndMilliseconds>77950</EndMilliseconds>
+    <Text>苏：是的。我们会慢慢告诉大家。
+Sū: Shìde. Wǒmen huì mànmàn gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>77951</StartMilliseconds>
+    <EndMilliseconds>78628</EndMilliseconds>
+    <Text>苏：[@是的@]。我们会慢慢告诉大家。
+Sū: [@Shìde@]. Wǒmen huì mànmàn gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>78629</StartMilliseconds>
+    <EndMilliseconds>78898</EndMilliseconds>
+    <Text>苏：是的。我们会慢慢告诉大家。
+Sū: Shìde. Wǒmen huì mànmàn gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>78899</StartMilliseconds>
+    <EndMilliseconds>79208</EndMilliseconds>
+    <Text>苏：是的。[@我们@]会慢慢告诉大家。
+Sū: Shìde. [@Wǒmen@] huì mànmàn gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>79209</StartMilliseconds>
+    <EndMilliseconds>79438</EndMilliseconds>
+    <Text>苏：是的。我们[@会@]慢慢告诉大家。
+Sū: Shìde. Wǒmen [@huì@] mànmàn gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>79439</StartMilliseconds>
+    <EndMilliseconds>79864</EndMilliseconds>
+    <Text>苏：是的。我们会[@慢慢@]告诉大家。
+Sū: Shìde. Wǒmen huì [@mànmàn@] gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>79865</StartMilliseconds>
+    <EndMilliseconds>80175</EndMilliseconds>
+    <Text>苏：是的。我们会慢慢[@告诉@]大家。
+Sū: Shìde. Wǒmen huì mànmàn [@gàosu@] dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>80176</StartMilliseconds>
+    <EndMilliseconds>80743</EndMilliseconds>
+    <Text>苏：是的。我们会慢慢告诉[@大家@]。
+Sū: Shìde. Wǒmen huì mànmàn gàosu [@dàjiā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>80744</StartMilliseconds>
+    <EndMilliseconds>82138</EndMilliseconds>
+    <Text>苏：是的。我们会慢慢告诉大家。
+Sū: Shìde. Wǒmen huì mànmàn gàosu dàjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>82139</StartMilliseconds>
+    <EndMilliseconds>83604</EndMilliseconds>
+    <Text>苏：再见！
+Sū: Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>83605</StartMilliseconds>
+    <EndMilliseconds>84326</EndMilliseconds>
+    <Text>苏：[@再见@]！
+Sū: [@Zàijiàn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>84327</StartMilliseconds>
+    <EndMilliseconds>88952</EndMilliseconds>
+    <Text>苏：再见！
+Sū: Zàijiàn!</Text>
+  </Paragraph>
+</Subtitle>

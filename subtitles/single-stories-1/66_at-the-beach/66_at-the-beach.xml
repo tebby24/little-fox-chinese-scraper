@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>8409</StartMilliseconds>
+    <EndMilliseconds>10090</EndMilliseconds>
+    <Text>Yángguāng hěn yánrè.
+阳光很炎热。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10091</StartMilliseconds>
+    <EndMilliseconds>10920</EndMilliseconds>
+    <Text>[@Yángguāng@] hěn yánrè.
+[@阳光@]很炎热。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>10921</StartMilliseconds>
+    <EndMilliseconds>11424</EndMilliseconds>
+    <Text>Yángguāng hěn yánrè.
+阳光很炎热。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11425</StartMilliseconds>
+    <EndMilliseconds>11867</EndMilliseconds>
+    <Text>Yángguāng [@hěn@] yánrè.
+阳光[@很@]炎热。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>11868</StartMilliseconds>
+    <EndMilliseconds>12712</EndMilliseconds>
+    <Text>Yángguāng hěn [@yánrè@].
+阳光很[@炎热@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12713</StartMilliseconds>
+    <EndMilliseconds>13438</EndMilliseconds>
+    <Text>Yángguāng hěn yánrè.
+阳光很炎热。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13439</StartMilliseconds>
+    <EndMilliseconds>15115</EndMilliseconds>
+    <Text>Shuǐ hěn liáng.
+水很凉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15116</StartMilliseconds>
+    <EndMilliseconds>15934</EndMilliseconds>
+    <Text>[@Shuǐ@] hěn liáng.
+[@水@]很凉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15935</StartMilliseconds>
+    <EndMilliseconds>16580</EndMilliseconds>
+    <Text>Shuǐ hěn liáng.
+水很凉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16581</StartMilliseconds>
+    <EndMilliseconds>17008</EndMilliseconds>
+    <Text>Shuǐ [@hěn@] liáng.
+水[@很@]凉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17009</StartMilliseconds>
+    <EndMilliseconds>17713</EndMilliseconds>
+    <Text>Shuǐ hěn [@liáng@].
+水很[@凉@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17714</StartMilliseconds>
+    <EndMilliseconds>19067</EndMilliseconds>
+    <Text>Shuǐ hěn liáng.
+水很凉。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>19068</StartMilliseconds>
+    <EndMilliseconds>20124</EndMilliseconds>
+    <Text>Wǒ de yóuyǒngquān néng fú qǐlai.
+我的游泳圈能浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>20125</StartMilliseconds>
+    <EndMilliseconds>20464</EndMilliseconds>
+    <Text>[@Wǒ@] de yóuyǒngquān néng fú qǐlai.
+[@我@]的游泳圈能浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>20465</StartMilliseconds>
+    <EndMilliseconds>21430</EndMilliseconds>
+    <Text>Wǒ [@de@] yóuyǒngquān néng fú qǐlai.
+我[@的@]游泳圈能浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>21431</StartMilliseconds>
+    <EndMilliseconds>22775</EndMilliseconds>
+    <Text>Wǒ de [@yóuyǒngquān@] néng fú qǐlai.
+我的[@游泳圈@]能浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>22776</StartMilliseconds>
+    <EndMilliseconds>23767</EndMilliseconds>
+    <Text>Wǒ de yóuyǒngquān néng fú qǐlai.
+我的游泳圈能浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>23768</StartMilliseconds>
+    <EndMilliseconds>24617</EndMilliseconds>
+    <Text>Wǒ de yóuyǒngquān [@néng@] fú qǐlai.
+我的游泳圈[@能@]浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24618</StartMilliseconds>
+    <EndMilliseconds>24996</EndMilliseconds>
+    <Text>Wǒ de yóuyǒngquān néng [@fú@] qǐlai.
+我的游泳圈能[@浮@]起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>24997</StartMilliseconds>
+    <EndMilliseconds>25896</EndMilliseconds>
+    <Text>Wǒ de yóuyǒngquān néng fú [@qǐlai@].
+我的游泳圈能浮[@起来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>25897</StartMilliseconds>
+    <EndMilliseconds>27160</EndMilliseconds>
+    <Text>Wǒ de yóuyǒngquān néng fú qǐlai.
+我的游泳圈能浮起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27161</StartMilliseconds>
+    <EndMilliseconds>27961</EndMilliseconds>
+    <Text>Wǒ de xié huì chén xiàqu.
+我的鞋会沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>27962</StartMilliseconds>
+    <EndMilliseconds>28237</EndMilliseconds>
+    <Text>[@Wǒ@] de xié huì chén xiàqu.
+[@我@]的鞋会沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>28238</StartMilliseconds>
+    <EndMilliseconds>28622</EndMilliseconds>
+    <Text>Wǒ [@de@] xié huì chén xiàqu.
+我[@的@]鞋会沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>28623</StartMilliseconds>
+    <EndMilliseconds>29343</EndMilliseconds>
+    <Text>Wǒ de [@xié@] huì chén xiàqu.
+我的[@鞋@]会沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>29344</StartMilliseconds>
+    <EndMilliseconds>29997</EndMilliseconds>
+    <Text>Wǒ de xié huì chén xiàqu.
+我的鞋会沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>29998</StartMilliseconds>
+    <EndMilliseconds>30740</EndMilliseconds>
+    <Text>Wǒ de xié [@huì@] chén xiàqu.
+我的鞋[@会@]沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>30741</StartMilliseconds>
+    <EndMilliseconds>31174</EndMilliseconds>
+    <Text>Wǒ de xié huì [@chén@] xiàqu.
+我的鞋会[@沉@]下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>31175</StartMilliseconds>
+    <EndMilliseconds>32061</EndMilliseconds>
+    <Text>Wǒ de xié huì chén [@xiàqu@].
+我的鞋会沉[@下去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>32062</StartMilliseconds>
+    <EndMilliseconds>32452</EndMilliseconds>
+    <Text>Wǒ de xié huì chén xiàqu.
+我的鞋会沉下去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>32453</StartMilliseconds>
+    <EndMilliseconds>34333</EndMilliseconds>
+    <Text>Wǒ rēng qiú.
+我扔球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>34334</StartMilliseconds>
+    <EndMilliseconds>34876</EndMilliseconds>
+    <Text>[@Wǒ@] rēng qiú.
+[@我@]扔球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>34877</StartMilliseconds>
+    <EndMilliseconds>35279</EndMilliseconds>
+    <Text>Wǒ [@rēng@] qiú.
+我[@扔@]球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>35280</StartMilliseconds>
+    <EndMilliseconds>35993</EndMilliseconds>
+    <Text>Wǒ rēng [@qiú@].
+我扔[@球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>35994</StartMilliseconds>
+    <EndMilliseconds>37418</EndMilliseconds>
+    <Text>Wǒ rēng qiú.
+我扔球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>37419</StartMilliseconds>
+    <EndMilliseconds>39504</EndMilliseconds>
+    <Text>Wǒ jiē qiú.
+我接球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>39505</StartMilliseconds>
+    <EndMilliseconds>40107</EndMilliseconds>
+    <Text>[@Wǒ@] jiē qiú.
+[@我@]接球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>40108</StartMilliseconds>
+    <EndMilliseconds>40578</EndMilliseconds>
+    <Text>Wǒ [@jiē@] qiú.
+我[@接@]球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>40579</StartMilliseconds>
+    <EndMilliseconds>41304</EndMilliseconds>
+    <Text>Wǒ jiē [@qiú@].
+我接[@球@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>41305</StartMilliseconds>
+    <EndMilliseconds>42566</EndMilliseconds>
+    <Text>Wǒ jiē qiú.
+我接球。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>42567</StartMilliseconds>
+    <EndMilliseconds>44072</EndMilliseconds>
+    <Text>Tiānqì hěn qínglǎng.
+天气很晴朗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>44073</StartMilliseconds>
+    <EndMilliseconds>45326</EndMilliseconds>
+    <Text>[@Tiānqì@] hěn qínglǎng.
+[@天气@]很晴朗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>45327</StartMilliseconds>
+    <EndMilliseconds>45826</EndMilliseconds>
+    <Text>Tiānqì [@hěn@] qínglǎng.
+天气[@很@]晴朗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>45827</StartMilliseconds>
+    <EndMilliseconds>47093</EndMilliseconds>
+    <Text>Tiānqì hěn [@qínglǎng@].
+天气很[@晴朗@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>47094</StartMilliseconds>
+    <EndMilliseconds>48357</EndMilliseconds>
+    <Text>Tiānqì hěn qínglǎng.
+天气很晴朗。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>48358</StartMilliseconds>
+    <EndMilliseconds>50614</EndMilliseconds>
+    <Text>Xià yǔ le!
+下雨了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>50615</StartMilliseconds>
+    <EndMilliseconds>51072</EndMilliseconds>
+    <Text>[@Xià@] yǔ le!
+[@下@]雨了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>51073</StartMilliseconds>
+    <EndMilliseconds>51536</EndMilliseconds>
+    <Text>Xià [@yǔ@] le!
+下[@雨@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>51537</StartMilliseconds>
+    <EndMilliseconds>51921</EndMilliseconds>
+    <Text>Xià yǔ [@le@]!
+下雨[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>51922</StartMilliseconds>
+    <EndMilliseconds>54519</EndMilliseconds>
+    <Text>Xià yǔ le!
+下雨了！</Text>
+  </Paragraph>
+</Subtitle>

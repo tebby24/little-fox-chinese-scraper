@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6175</StartMilliseconds>
+    <EndMilliseconds>6418</EndMilliseconds>
+    <Text>苹果在树上，苹果在树上。
+Píngguǒ zài shù shàng, píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>6419</StartMilliseconds>
+    <EndMilliseconds>6947</EndMilliseconds>
+    <Text>[@苹果@]在树上，苹果在树上。
+[@Píngguǒ@] zài shù shàng, píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>6948</StartMilliseconds>
+    <EndMilliseconds>7219</EndMilliseconds>
+    <Text>苹果[@在@]树上，苹果在树上。
+Píngguǒ [@zài@] shù shàng, píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>7220</StartMilliseconds>
+    <EndMilliseconds>7475</EndMilliseconds>
+    <Text>苹果在[@树@]上，苹果在树上。
+Píngguǒ zài [@shù@] shàng, píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>7476</StartMilliseconds>
+    <EndMilliseconds>7792</EndMilliseconds>
+    <Text>苹果在树[@上@]，苹果在树上。
+Píngguǒ zài shù [@shàng@], píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>7793</StartMilliseconds>
+    <EndMilliseconds>8631</EndMilliseconds>
+    <Text>苹果在树上，苹果在树上。
+Píngguǒ zài shù shàng, píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>8632</StartMilliseconds>
+    <EndMilliseconds>9139</EndMilliseconds>
+    <Text>苹果在树上，[@苹果@]在树上。
+Píngguǒ zài shù shàng, [@píngguǒ@] zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>9140</StartMilliseconds>
+    <EndMilliseconds>9417</EndMilliseconds>
+    <Text>苹果在树上，苹果[@在@]树上。
+Píngguǒ zài shù shàng, píngguǒ [@zài@] shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>9418</StartMilliseconds>
+    <EndMilliseconds>9665</EndMilliseconds>
+    <Text>苹果在树上，苹果在[@树@]上。
+Píngguǒ zài shù shàng, píngguǒ zài [@shù@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>9666</StartMilliseconds>
+    <EndMilliseconds>10051</EndMilliseconds>
+    <Text>苹果在树上，苹果在树[@上@]。
+Píngguǒ zài shù shàng, píngguǒ zài shù [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>10052</StartMilliseconds>
+    <EndMilliseconds>10551</EndMilliseconds>
+    <Text>苹果在树上，苹果在树上。
+Píngguǒ zài shù shàng, píngguǒ zài shù shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>10552</StartMilliseconds>
+    <EndMilliseconds>11093</EndMilliseconds>
+    <Text>摘下来，咬一口。 
+Zhāi xiàlai, yǎo yì kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>11094</StartMilliseconds>
+    <EndMilliseconds>11615</EndMilliseconds>
+    <Text>[@摘@]下来，咬一口。 
+[@Zhāi@] xiàlai, yǎo yì kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>11615</StartMilliseconds>
+    <EndMilliseconds>12137</EndMilliseconds>
+    <Text>摘[@下来@]，咬一口。 
+Zhāi [@xiàlai@], yǎo yì kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>12138</StartMilliseconds>
+    <EndMilliseconds>13376</EndMilliseconds>
+    <Text>摘下来，咬一口。 
+Zhāi xiàlai, yǎo yì kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>13377</StartMilliseconds>
+    <EndMilliseconds>13643</EndMilliseconds>
+    <Text>摘下来，[@咬@]一口。 
+Zhāi xiàlai, [@yǎo@] yì kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>13644</StartMilliseconds>
+    <EndMilliseconds>13880</EndMilliseconds>
+    <Text>摘下来，咬[@一@]口。 
+Zhāi xiàlai, yǎo [@yì@] kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>13881</StartMilliseconds>
+    <EndMilliseconds>14422</EndMilliseconds>
+    <Text>摘下来，咬一[@口@]。 
+Zhāi xiàlai, yǎo yì [@kǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>14423</StartMilliseconds>
+    <EndMilliseconds>16418</EndMilliseconds>
+    <Text>摘下来，咬一口。 
+Zhāi xiàlai, yǎo yì kǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>16419</StartMilliseconds>
+    <EndMilliseconds>16694</EndMilliseconds>
+    <Text>胡萝卜在地里， 胡萝卜在地里。
+Húluóbo zài dì li, húluóbo zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>16695</StartMilliseconds>
+    <EndMilliseconds>17598</EndMilliseconds>
+    <Text>[@胡萝卜@]在地里， 胡萝卜在地里。
+[@Húluóbo@] zài dì li, húluóbo zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>17599</StartMilliseconds>
+    <EndMilliseconds>17901</EndMilliseconds>
+    <Text>胡萝卜[@在@]地里， 胡萝卜在地里。
+Húluóbo [@zài@] dì li, húluóbo zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>17902</StartMilliseconds>
+    <EndMilliseconds>18245</EndMilliseconds>
+    <Text>胡萝卜在[@地@]里， 胡萝卜在地里。
+Húluóbo zài [@dì@] li, húluóbo zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>18246</StartMilliseconds>
+    <EndMilliseconds>19109</EndMilliseconds>
+    <Text>胡萝卜在地[@里@]， 胡萝卜在地里。
+Húluóbo zài dì [@li@], húluóbo zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>19110</StartMilliseconds>
+    <EndMilliseconds>20104</EndMilliseconds>
+    <Text>胡萝卜在地里， [@胡萝卜@]在地里。
+Húluóbo zài dì li, [@húluóbo@] zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>20105</StartMilliseconds>
+    <EndMilliseconds>20365</EndMilliseconds>
+    <Text>胡萝卜在地里， 胡萝卜[@在@]地里。
+Húluóbo zài dì li, húluóbo [@zài@] dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>20366</StartMilliseconds>
+    <EndMilliseconds>20728</EndMilliseconds>
+    <Text>胡萝卜在地里， 胡萝卜在[@地@]里。
+Húluóbo zài dì li, húluóbo zài [@dì@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>20729</StartMilliseconds>
+    <EndMilliseconds>21105</EndMilliseconds>
+    <Text>胡萝卜在地里， 胡萝卜在地[@里@]。
+Húluóbo zài dì li, húluóbo zài dì [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>21106</StartMilliseconds>
+    <EndMilliseconds>21517</EndMilliseconds>
+    <Text>胡萝卜在地里， 胡萝卜在地里。
+Húluóbo zài dì li, húluóbo zài dì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>21518</StartMilliseconds>
+    <EndMilliseconds>21616</EndMilliseconds>
+    <Text>拔出来，洗干净。
+Bá chūlai, xǐ gānjìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>21617</StartMilliseconds>
+    <EndMilliseconds>21995</EndMilliseconds>
+    <Text>[@拔@]出来，洗干净。
+[@Bá@] chūlai, xǐ gānjìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>21995</StartMilliseconds>
+    <EndMilliseconds>22597</EndMilliseconds>
+    <Text>拔[@出来@]，洗干净。
+Bá [@chūlai@], xǐ gānjìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>22598</StartMilliseconds>
+    <EndMilliseconds>22812</EndMilliseconds>
+    <Text>拔出来，洗干净。
+Bá chūlai, xǐ gānjìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>22813</StartMilliseconds>
+    <EndMilliseconds>23146</EndMilliseconds>
+    <Text>拔出来，[@洗@]干净。
+Bá chūlai, [@xǐ@] gānjìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>23147</StartMilliseconds>
+    <EndMilliseconds>24665</EndMilliseconds>
+    <Text>拔出来，洗[@干净@]。
+Bá chūlai, xǐ [@gānjìng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>24666</StartMilliseconds>
+    <EndMilliseconds>26446</EndMilliseconds>
+    <Text>拔出来，洗干净。
+Bá chūlai, xǐ gānjìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>26447</StartMilliseconds>
+    <EndMilliseconds>26667</EndMilliseconds>
+    <Text>金枪鱼面包，金枪鱼面包。
+Jīnqiāngyú miànbāo, jīnqiāngyú miànbāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>26668</StartMilliseconds>
+    <EndMilliseconds>27390</EndMilliseconds>
+    <Text>[@金枪鱼@]面包，金枪鱼面包。
+[@Jīnqiāngyú@] miànbāo, jīnqiāngyú miànbāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>27391</StartMilliseconds>
+    <EndMilliseconds>28076</EndMilliseconds>
+    <Text>金枪鱼[@面包@]，金枪鱼面包。
+Jīnqiāngyú [@miànbāo@], jīnqiāngyú miànbāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>28077</StartMilliseconds>
+    <EndMilliseconds>28806</EndMilliseconds>
+    <Text>金枪鱼面包，金枪鱼面包。
+Jīnqiāngyú miànbāo, jīnqiāngyú miànbāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>28807</StartMilliseconds>
+    <EndMilliseconds>29534</EndMilliseconds>
+    <Text>金枪鱼面包，[@金枪鱼@]面包。
+Jīnqiāngyú miànbāo, [@jīnqiāngyú@] miànbāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>29535</StartMilliseconds>
+    <EndMilliseconds>30276</EndMilliseconds>
+    <Text>金枪鱼面包，金枪鱼[@面包@]。
+Jīnqiāngyú miànbāo, jīnqiāngyú [@miànbāo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>30277</StartMilliseconds>
+    <EndMilliseconds>31311</EndMilliseconds>
+    <Text>金枪鱼面包，金枪鱼面包。
+Jīnqiāngyú miànbāo, jīnqiāngyú miànbāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>31312</StartMilliseconds>
+    <EndMilliseconds>31765</EndMilliseconds>
+    <Text>吃一口，慢慢嚼。
+Chī yì kǒu, mànmàn jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>31766</StartMilliseconds>
+    <EndMilliseconds>32079</EndMilliseconds>
+    <Text>[@吃@]一口，慢慢嚼。
+[@Chī@] yì kǒu, mànmàn jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>32080</StartMilliseconds>
+    <EndMilliseconds>32293</EndMilliseconds>
+    <Text>吃[@一@]口，慢慢嚼。
+Chī [@yì@] kǒu, mànmàn jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>32294</StartMilliseconds>
+    <EndMilliseconds>32766</EndMilliseconds>
+    <Text>吃一[@口@]，慢慢嚼。
+Chī yì [@kǒu@], mànmàn jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>32767</StartMilliseconds>
+    <EndMilliseconds>33945</EndMilliseconds>
+    <Text>吃一口，慢慢嚼。
+Chī yì kǒu, mànmàn jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>33946</StartMilliseconds>
+    <EndMilliseconds>34486</EndMilliseconds>
+    <Text>吃一口，[@慢慢@]嚼。
+Chī yì kǒu, [@mànmàn@] jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>34487</StartMilliseconds>
+    <EndMilliseconds>34988</EndMilliseconds>
+    <Text>吃一口，慢慢[@嚼@]。
+Chī yì kǒu, mànmàn [@jiáo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>34989</StartMilliseconds>
+    <EndMilliseconds>36562</EndMilliseconds>
+    <Text>吃一口，慢慢嚼。
+Chī yì kǒu, mànmàn jiáo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>36563</StartMilliseconds>
+    <EndMilliseconds>36797</EndMilliseconds>
+    <Text>麦片在碗里，麦片在碗里。
+Màipiàn zài wǎn li, màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>36798</StartMilliseconds>
+    <EndMilliseconds>37284</EndMilliseconds>
+    <Text>[@麦片@]在碗里，麦片在碗里。
+[@Màipiàn@] zài wǎn li, màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>37285</StartMilliseconds>
+    <EndMilliseconds>37531</EndMilliseconds>
+    <Text>麦片[@在@]碗里，麦片在碗里。
+Màipiàn [@zài@] wǎn li, màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>37532</StartMilliseconds>
+    <EndMilliseconds>37778</EndMilliseconds>
+    <Text>麦片在[@碗@]里，麦片在碗里。
+Màipiàn zài [@wǎn@] li, màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>37779</StartMilliseconds>
+    <EndMilliseconds>38194</EndMilliseconds>
+    <Text>麦片在碗[@里@]，麦片在碗里。
+Màipiàn zài wǎn [@li@], màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>38195</StartMilliseconds>
+    <EndMilliseconds>38980</EndMilliseconds>
+    <Text>麦片在碗里，麦片在碗里。
+Màipiàn zài wǎn li, màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>38981</StartMilliseconds>
+    <EndMilliseconds>39485</EndMilliseconds>
+    <Text>麦片在碗里，[@麦片@]在碗里。
+Màipiàn zài wǎn li, [@màipiàn@] zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>39486</StartMilliseconds>
+    <EndMilliseconds>39672</EndMilliseconds>
+    <Text>麦片在碗里，麦片[@在@]碗里。
+Màipiàn zài wǎn li, màipiàn [@zài@] wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>39673</StartMilliseconds>
+    <EndMilliseconds>39977</EndMilliseconds>
+    <Text>麦片在碗里，麦片在[@碗@]里。
+Màipiàn zài wǎn li, màipiàn zài [@wǎn@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>39978</StartMilliseconds>
+    <EndMilliseconds>40386</EndMilliseconds>
+    <Text>麦片在碗里，麦片在碗[@里@]。
+Màipiàn zài wǎn li, màipiàn zài wǎn [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>40387</StartMilliseconds>
+    <EndMilliseconds>41032</EndMilliseconds>
+    <Text>麦片在碗里，麦片在碗里。
+Màipiàn zài wǎn li, màipiàn zài wǎn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>41033</StartMilliseconds>
+    <EndMilliseconds>41757</EndMilliseconds>
+    <Text>倒牛奶，吃光它。
+Dào niúnǎi, chīguāng tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>41758</StartMilliseconds>
+    <EndMilliseconds>41962</EndMilliseconds>
+    <Text>[@倒@]牛奶，吃光它。
+[@Dào@] niúnǎi, chīguāng tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>41963</StartMilliseconds>
+    <EndMilliseconds>42707</EndMilliseconds>
+    <Text>倒[@牛奶@]，吃光它。
+Dào [@niúnǎi@], chīguāng tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>42708</StartMilliseconds>
+    <EndMilliseconds>43895</EndMilliseconds>
+    <Text>倒牛奶，吃光它。
+Dào niúnǎi, chīguāng tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>43896</StartMilliseconds>
+    <EndMilliseconds>44493</EndMilliseconds>
+    <Text>倒牛奶，[@吃光@]它。
+Dào niúnǎi, [@chīguāng@] tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>44494</StartMilliseconds>
+    <EndMilliseconds>44857</EndMilliseconds>
+    <Text>倒牛奶，吃光[@它@]。
+Dào niúnǎi, chīguāng [@tā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>44858</StartMilliseconds>
+    <EndMilliseconds>46745</EndMilliseconds>
+    <Text>倒牛奶，吃光它。
+Dào niúnǎi, chīguāng tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>46746</StartMilliseconds>
+    <EndMilliseconds>46955</EndMilliseconds>
+    <Text>牛奶在杯里，牛奶在杯里。
+Niúnǎi zài bēi li, niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>46956</StartMilliseconds>
+    <EndMilliseconds>47488</EndMilliseconds>
+    <Text>[@牛奶@]在杯里，牛奶在杯里。
+[@Niúnǎi@] zài bēi li, niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>47489</StartMilliseconds>
+    <EndMilliseconds>47740</EndMilliseconds>
+    <Text>牛奶[@在@]杯里，牛奶在杯里。
+Niúnǎi [@zài@] bēi li, niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>47741</StartMilliseconds>
+    <EndMilliseconds>48019</EndMilliseconds>
+    <Text>牛奶在[@杯@]里，牛奶在杯里。
+Niúnǎi zài [@bēi@] li, niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>48020</StartMilliseconds>
+    <EndMilliseconds>48315</EndMilliseconds>
+    <Text>牛奶在杯[@里@]，牛奶在杯里。
+Niúnǎi zài bēi [@li@], niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>48316</StartMilliseconds>
+    <EndMilliseconds>49124</EndMilliseconds>
+    <Text>牛奶在杯里，牛奶在杯里。
+Niúnǎi zài bēi li, niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>49125</StartMilliseconds>
+    <EndMilliseconds>49608</EndMilliseconds>
+    <Text>牛奶在杯里，[@牛奶@]在杯里。
+Niúnǎi zài bēi li, [@niúnǎi@] zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>49609</StartMilliseconds>
+    <EndMilliseconds>49930</EndMilliseconds>
+    <Text>牛奶在杯里，牛奶[@在@]杯里。
+Niúnǎi zài bēi li, niúnǎi [@zài@] bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>49931</StartMilliseconds>
+    <EndMilliseconds>50225</EndMilliseconds>
+    <Text>牛奶在杯里，牛奶在[@杯@]里。
+Niúnǎi zài bēi li, niúnǎi zài [@bēi@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>50226</StartMilliseconds>
+    <EndMilliseconds>50547</EndMilliseconds>
+    <Text>牛奶在杯里，牛奶在杯[@里@]。
+Niúnǎi zài bēi li, niúnǎi zài bēi [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>50548</StartMilliseconds>
+    <EndMilliseconds>51247</EndMilliseconds>
+    <Text>牛奶在杯里，牛奶在杯里。
+Niúnǎi zài bēi li, niúnǎi zài bēi li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>51248</StartMilliseconds>
+    <EndMilliseconds>52008</EndMilliseconds>
+    <Text>拿起来，喝掉它。
+Ná qǐlai, hēdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>52009</StartMilliseconds>
+    <EndMilliseconds>52410</EndMilliseconds>
+    <Text>[@拿@]起来，喝掉它。
+[@Ná@] qǐlai, hēdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>52410</StartMilliseconds>
+    <EndMilliseconds>52957</EndMilliseconds>
+    <Text>拿[@起来@]，喝掉它。
+Ná [@qǐlai@], hēdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>52958</StartMilliseconds>
+    <EndMilliseconds>54162</EndMilliseconds>
+    <Text>拿起来，喝掉它。
+Ná qǐlai, hēdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>54163</StartMilliseconds>
+    <EndMilliseconds>54691</EndMilliseconds>
+    <Text>拿起来，[@喝掉@]它。
+Ná qǐlai, [@hēdiào@] tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>54692</StartMilliseconds>
+    <EndMilliseconds>55069</EndMilliseconds>
+    <Text>拿起来，喝掉[@它@]。
+Ná qǐlai, hēdiào [@tā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>55070</StartMilliseconds>
+    <EndMilliseconds>57103</EndMilliseconds>
+    <Text>拿起来，喝掉它。
+Ná qǐlai, hēdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>57104</StartMilliseconds>
+    <EndMilliseconds>57357</EndMilliseconds>
+    <Text>糖果在罐里，糖果在罐里。
+Tángguǒ zài guàn li, tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>57358</StartMilliseconds>
+    <EndMilliseconds>57893</EndMilliseconds>
+    <Text>[@糖果@]在罐里，糖果在罐里。
+[@Tángguǒ@] zài guàn li, tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>57894</StartMilliseconds>
+    <EndMilliseconds>58130</EndMilliseconds>
+    <Text>糖果[@在@]罐里，糖果在罐里。
+Tángguǒ [@zài@] guàn li, tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>58131</StartMilliseconds>
+    <EndMilliseconds>58404</EndMilliseconds>
+    <Text>糖果在[@罐@]里，糖果在罐里。
+Tángguǒ zài [@guàn@] li, tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>58405</StartMilliseconds>
+    <EndMilliseconds>58762</EndMilliseconds>
+    <Text>糖果在罐[@里@]，糖果在罐里。
+Tángguǒ zài guàn [@li@], tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>58763</StartMilliseconds>
+    <EndMilliseconds>59486</EndMilliseconds>
+    <Text>糖果在罐里，糖果在罐里。
+Tángguǒ zài guàn li, tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>59487</StartMilliseconds>
+    <EndMilliseconds>60026</EndMilliseconds>
+    <Text>糖果在罐里，[@糖果@]在罐里。
+Tángguǒ zài guàn li, [@tángguǒ@] zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>60027</StartMilliseconds>
+    <EndMilliseconds>60296</EndMilliseconds>
+    <Text>糖果在罐里，糖果[@在@]罐里。
+Tángguǒ zài guàn li, tángguǒ [@zài@] guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>60297</StartMilliseconds>
+    <EndMilliseconds>60589</EndMilliseconds>
+    <Text>糖果在罐里，糖果在[@罐@]里。
+Tángguǒ zài guàn li, tángguǒ zài [@guàn@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>60590</StartMilliseconds>
+    <EndMilliseconds>60970</EndMilliseconds>
+    <Text>糖果在罐里，糖果在罐[@里@]。
+Tángguǒ zài guàn li, tángguǒ zài guàn [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>60971</StartMilliseconds>
+    <EndMilliseconds>61802</EndMilliseconds>
+    <Text>糖果在罐里，糖果在罐里。
+Tángguǒ zài guàn li, tángguǒ zài guàn li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>61803</StartMilliseconds>
+    <EndMilliseconds>62414</EndMilliseconds>
+    <Text>拿出来，吃掉它。
+Ná chūlai, chīdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>62415</StartMilliseconds>
+    <EndMilliseconds>62851</EndMilliseconds>
+    <Text>[@拿@]出来，吃掉它。
+[@Ná@] chūlai, chīdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>62851</StartMilliseconds>
+    <EndMilliseconds>63322</EndMilliseconds>
+    <Text>拿[@出来@]，吃掉它。
+Ná [@chūlai@], chīdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>63323</StartMilliseconds>
+    <EndMilliseconds>64551</EndMilliseconds>
+    <Text>拿出来，吃掉它。
+Ná chūlai, chīdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>64552</StartMilliseconds>
+    <EndMilliseconds>65092</EndMilliseconds>
+    <Text>拿出来，[@吃掉@]它。
+Ná chūlai, [@chīdiào@] tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>65093</StartMilliseconds>
+    <EndMilliseconds>65473</EndMilliseconds>
+    <Text>拿出来，吃掉[@它@]。
+Ná chūlai, chīdiào [@tā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>65474</StartMilliseconds>
+    <EndMilliseconds>67390</EndMilliseconds>
+    <Text>拿出来，吃掉它。
+Ná chūlai, chīdiào tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>67391</StartMilliseconds>
+    <EndMilliseconds>67534</EndMilliseconds>
+    <Text>香肠在锅里，香肠在锅里。
+Xiāngcháng zài guō li, xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>67535</StartMilliseconds>
+    <EndMilliseconds>68062</EndMilliseconds>
+    <Text>[@香肠@]在锅里，香肠在锅里。
+[@Xiāngcháng@] zài guō li, xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>68063</StartMilliseconds>
+    <EndMilliseconds>68330</EndMilliseconds>
+    <Text>香肠[@在@]锅里，香肠在锅里。
+Xiāngcháng [@zài@] guō li, xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>68331</StartMilliseconds>
+    <EndMilliseconds>68625</EndMilliseconds>
+    <Text>香肠在[@锅@]里，香肠在锅里。
+Xiāngcháng zài [@guō@] li, xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>68626</StartMilliseconds>
+    <EndMilliseconds>68924</EndMilliseconds>
+    <Text>香肠在锅[@里@]，香肠在锅里。
+Xiāngcháng zài guō [@li@], xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>68925</StartMilliseconds>
+    <EndMilliseconds>69627</EndMilliseconds>
+    <Text>香肠在锅里，香肠在锅里。
+Xiāngcháng zài guō li, xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>69628</StartMilliseconds>
+    <EndMilliseconds>70182</EndMilliseconds>
+    <Text>香肠在锅里，[@香肠@]在锅里。
+Xiāngcháng zài guō li, [@xiāngcháng@] zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>70183</StartMilliseconds>
+    <EndMilliseconds>70496</EndMilliseconds>
+    <Text>香肠在锅里，香肠[@在@]锅里。
+Xiāngcháng zài guō li, xiāngcháng [@zài@] guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>70497</StartMilliseconds>
+    <EndMilliseconds>70764</EndMilliseconds>
+    <Text>香肠在锅里，香肠在[@锅@]里。
+Xiāngcháng zài guō li, xiāngcháng zài [@guō@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>70765</StartMilliseconds>
+    <EndMilliseconds>71111</EndMilliseconds>
+    <Text>香肠在锅里，香肠在锅[@里@]。
+Xiāngcháng zài guō li, xiāngcháng zài guō [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>71112</StartMilliseconds>
+    <EndMilliseconds>71881</EndMilliseconds>
+    <Text>香肠在锅里，香肠在锅里。
+Xiāngcháng zài guō li, xiāngcháng zài guō li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>71882</StartMilliseconds>
+    <EndMilliseconds>72655</EndMilliseconds>
+    <Text>翻一翻，烤一烤。
+Fān yi fān, kǎo yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>72656</StartMilliseconds>
+    <EndMilliseconds>72868</EndMilliseconds>
+    <Text>[@翻@]一翻，烤一烤。
+[@Fān@] yi fān, kǎo yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>72868</StartMilliseconds>
+    <EndMilliseconds>73289</EndMilliseconds>
+    <Text>翻[@一@]翻，烤一烤。
+Fān [@yi@] fān, kǎo yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>73289</StartMilliseconds>
+    <EndMilliseconds>73425</EndMilliseconds>
+    <Text>翻一[@翻@]，烤一烤。
+Fān yi [@fān@], kǎo yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>73426</StartMilliseconds>
+    <EndMilliseconds>74765</EndMilliseconds>
+    <Text>翻一翻，烤一烤。
+Fān yi fān, kǎo yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>74766</StartMilliseconds>
+    <EndMilliseconds>75277</EndMilliseconds>
+    <Text>翻一翻，[@烤@]一烤。
+Fān yi fān, [@kǎo@] yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>75277</StartMilliseconds>
+    <EndMilliseconds>75518</EndMilliseconds>
+    <Text>翻一翻，烤[@一@]烤。
+Fān yi fān, kǎo [@yi@] kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>75518</StartMilliseconds>
+    <EndMilliseconds>75872</EndMilliseconds>
+    <Text>翻一翻，烤一[@烤@]。
+Fān yi fān, kǎo yi [@kǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>75873</StartMilliseconds>
+    <EndMilliseconds>78107</EndMilliseconds>
+    <Text>翻一翻，烤一烤。
+Fān yi fān, kǎo yi kǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>78108</StartMilliseconds>
+    <EndMilliseconds>78298</EndMilliseconds>
+    <Text>食物在肚里，食物在肚里。
+Shíwù zài dù li, shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>78299</StartMilliseconds>
+    <EndMilliseconds>78852</EndMilliseconds>
+    <Text>[@食物@]在肚里，食物在肚里。
+[@Shíwù@] zài dù li, shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>78853</StartMilliseconds>
+    <EndMilliseconds>79134</EndMilliseconds>
+    <Text>食物[@在@]肚里，食物在肚里。
+Shíwù [@zài@] dù li, shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>79135</StartMilliseconds>
+    <EndMilliseconds>79363</EndMilliseconds>
+    <Text>食物在[@肚@]里，食物在肚里。
+Shíwù zài [@dù@] li, shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>79364</StartMilliseconds>
+    <EndMilliseconds>79718</EndMilliseconds>
+    <Text>食物在肚[@里@]，食物在肚里。
+Shíwù zài dù [@li@], shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>79719</StartMilliseconds>
+    <EndMilliseconds>80440</EndMilliseconds>
+    <Text>食物在肚里，食物在肚里。
+Shíwù zài dù li, shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>80441</StartMilliseconds>
+    <EndMilliseconds>81059</EndMilliseconds>
+    <Text>食物在肚里，[@食物@]在肚里。
+Shíwù zài dù li, [@shíwù@] zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>81060</StartMilliseconds>
+    <EndMilliseconds>81358</EndMilliseconds>
+    <Text>食物在肚里，食物[@在@]肚里。
+Shíwù zài dù li, shíwù [@zài@] dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>81359</StartMilliseconds>
+    <EndMilliseconds>81589</EndMilliseconds>
+    <Text>食物在肚里，食物在[@肚@]里。
+Shíwù zài dù li, shíwù zài [@dù@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>81590</StartMilliseconds>
+    <EndMilliseconds>81902</EndMilliseconds>
+    <Text>食物在肚里，食物在肚[@里@]。
+Shíwù zài dù li, shíwù zài dù [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>81903</StartMilliseconds>
+    <EndMilliseconds>82722</EndMilliseconds>
+    <Text>食物在肚里，食物在肚里。
+Shíwù zài dù li, shíwù zài dù li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>82723</StartMilliseconds>
+    <EndMilliseconds>83505</EndMilliseconds>
+    <Text>舔舌头，真好吃！
+Tiǎn shétou, zhēn hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>83506</StartMilliseconds>
+    <EndMilliseconds>83751</EndMilliseconds>
+    <Text>[@舔@]舌头，真好吃！
+[@Tiǎn@] shétou, zhēn hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>83752</StartMilliseconds>
+    <EndMilliseconds>84403</EndMilliseconds>
+    <Text>舔[@舌头@]，真好吃！
+Tiǎn [@shétou@], zhēn hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>84404</StartMilliseconds>
+    <EndMilliseconds>85660</EndMilliseconds>
+    <Text>舔舌头，真好吃！
+Tiǎn shétou, zhēn hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>85661</StartMilliseconds>
+    <EndMilliseconds>85881</EndMilliseconds>
+    <Text>舔舌头，[@真@]好吃！
+Tiǎn shétou, [@zhēn@] hǎochī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>85882</StartMilliseconds>
+    <EndMilliseconds>86652</EndMilliseconds>
+    <Text>舔舌头，真[@好吃@]！
+Tiǎn shétou, zhēn [@hǎochī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>86653</StartMilliseconds>
+    <EndMilliseconds>89663</EndMilliseconds>
+    <Text>舔舌头，真好吃！
+Tiǎn shétou, zhēn hǎochī!</Text>
+  </Paragraph>
+</Subtitle>

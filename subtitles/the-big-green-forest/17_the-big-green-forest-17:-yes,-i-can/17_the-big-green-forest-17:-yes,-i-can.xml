@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9670</StartMilliseconds>
+    <EndMilliseconds>41441</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào wǔ ma?
+兔子：你会跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>41442</StartMilliseconds>
+    <EndMilliseconds>41899</EndMilliseconds>
+    <Text>tùzi: [@Nǐ@] huì tiào wǔ ma?
+兔子：[@你@]会跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>41900</StartMilliseconds>
+    <EndMilliseconds>42550</EndMilliseconds>
+    <Text>tùzi: Nǐ [@huì@] tiào wǔ ma?
+兔子：你[@会@]跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>42551</StartMilliseconds>
+    <EndMilliseconds>42979</EndMilliseconds>
+    <Text>tùzi: Nǐ huì [@tiào@] wǔ ma?
+兔子：你会[@跳@]舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>42980</StartMilliseconds>
+    <EndMilliseconds>43305</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào [@wǔ@] ma?
+兔子：你会跳[@舞@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>43306</StartMilliseconds>
+    <EndMilliseconds>43884</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào wǔ [@ma@]?
+兔子：你会跳舞[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>43885</StartMilliseconds>
+    <EndMilliseconds>46591</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào wǔ ma?
+兔子：你会跳舞吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>46592</StartMilliseconds>
+    <EndMilliseconds>48531</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bú huì tiào wǔ.
+松鼠：我不会跳舞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>48532</StartMilliseconds>
+    <EndMilliseconds>49360</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] bú huì tiào wǔ.
+松鼠：[@我@]不会跳舞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>49361</StartMilliseconds>
+    <EndMilliseconds>49757</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@bú@] huì tiào wǔ.
+松鼠：我[@不@]会跳舞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>49758</StartMilliseconds>
+    <EndMilliseconds>50240</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bú [@huì@] tiào wǔ.
+松鼠：我不[@会@]跳舞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>50241</StartMilliseconds>
+    <EndMilliseconds>50615</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bú huì [@tiào@] wǔ.
+松鼠：我不会[@跳@]舞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>50616</StartMilliseconds>
+    <EndMilliseconds>51429</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bú huì tiào [@wǔ@].
+松鼠：我不会跳[@舞@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>51430</StartMilliseconds>
+    <EndMilliseconds>53396</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bú huì tiào wǔ.
+松鼠：我不会跳舞。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>53397</StartMilliseconds>
+    <EndMilliseconds>54698</EndMilliseconds>
+    <Text>tùzi: Wǒ juéde nǐ kěyǐ.
+兔子：我觉得你可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>54699</StartMilliseconds>
+    <EndMilliseconds>55243</EndMilliseconds>
+    <Text>tùzi: [@Wǒ@] juéde nǐ kěyǐ.
+兔子：[@我@]觉得你可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>55244</StartMilliseconds>
+    <EndMilliseconds>56118</EndMilliseconds>
+    <Text>tùzi: Wǒ [@juéde@] nǐ kěyǐ.
+兔子：我[@觉得@]你可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>56119</StartMilliseconds>
+    <EndMilliseconds>56491</EndMilliseconds>
+    <Text>tùzi: Wǒ juéde [@nǐ@] kěyǐ.
+兔子：我觉得[@你@]可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>56492</StartMilliseconds>
+    <EndMilliseconds>57762</EndMilliseconds>
+    <Text>tùzi: Wǒ juéde nǐ [@kěyǐ@].
+兔子：我觉得你[@可以@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>57763</StartMilliseconds>
+    <EndMilliseconds>62354</EndMilliseconds>
+    <Text>tùzi: Wǒ juéde nǐ kěyǐ.
+兔子：我觉得你可以。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>62355</StartMilliseconds>
+    <EndMilliseconds>62873</EndMilliseconds>
+    <Text>tùzi: Nǐ huì zuò zhège ma?
+兔子：你会做这个吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>62874</StartMilliseconds>
+    <EndMilliseconds>63280</EndMilliseconds>
+    <Text>tùzi: [@Nǐ@] huì zuò zhège ma?
+兔子：[@你@]会做这个吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>63281</StartMilliseconds>
+    <EndMilliseconds>63705</EndMilliseconds>
+    <Text>tùzi: Nǐ [@huì@] zuò zhège ma?
+兔子：你[@会@]做这个吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>63706</StartMilliseconds>
+    <EndMilliseconds>64273</EndMilliseconds>
+    <Text>tùzi: Nǐ huì [@zuò@] zhège ma?
+兔子：你会[@做@]这个吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>64274</StartMilliseconds>
+    <EndMilliseconds>64641</EndMilliseconds>
+    <Text>tùzi: Nǐ huì zuò [@zhège@] ma?
+兔子：你会做[@这个@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>64642</StartMilliseconds>
+    <EndMilliseconds>65303</EndMilliseconds>
+    <Text>tùzi: Nǐ huì zuò zhège [@ma@]?
+兔子：你会做这个[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>65304</StartMilliseconds>
+    <EndMilliseconds>71453</EndMilliseconds>
+    <Text>tùzi: Nǐ huì zuò zhège ma?
+兔子：你会做这个吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>71454</StartMilliseconds>
+    <EndMilliseconds>73477</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì.
+松鼠：嗯，我会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>73478</StartMilliseconds>
+    <EndMilliseconds>74778</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ huì.
+松鼠：[@嗯@]，我会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>74779</StartMilliseconds>
+    <EndMilliseconds>75187</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] huì.
+松鼠：嗯，[@我@]会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>75188</StartMilliseconds>
+    <EndMilliseconds>75935</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@huì@].
+松鼠：嗯，我[@会@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>75936</StartMilliseconds>
+    <EndMilliseconds>80852</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì.
+松鼠：嗯，我会。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>80853</StartMilliseconds>
+    <EndMilliseconds>81469</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ huì zuò.
+松鼠：我会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>81470</StartMilliseconds>
+    <EndMilliseconds>81969</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] huì zuò.
+松鼠：[@我@]会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>81970</StartMilliseconds>
+    <EndMilliseconds>82326</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@huì@] zuò.
+松鼠：我[@会@]做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>82327</StartMilliseconds>
+    <EndMilliseconds>83179</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ huì [@zuò@].
+松鼠：我会[@做@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>83180</StartMilliseconds>
+    <EndMilliseconds>89179</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ huì zuò.
+松鼠：我会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>89180</StartMilliseconds>
+    <EndMilliseconds>90283</EndMilliseconds>
+    <Text>tùzi: Nǐ huì pāi shǒu ma?
+兔子：你会拍手吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>90284</StartMilliseconds>
+    <EndMilliseconds>90781</EndMilliseconds>
+    <Text>tùzi: [@Nǐ@] huì pāi shǒu ma?
+兔子：[@你@]会拍手吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>90782</StartMilliseconds>
+    <EndMilliseconds>91684</EndMilliseconds>
+    <Text>tùzi: Nǐ [@huì@] pāi shǒu ma?
+兔子：你[@会@]拍手吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>91685</StartMilliseconds>
+    <EndMilliseconds>92066</EndMilliseconds>
+    <Text>tùzi: Nǐ huì [@pāi@] shǒu ma?
+兔子：你会[@拍@]手吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>92067</StartMilliseconds>
+    <EndMilliseconds>92480</EndMilliseconds>
+    <Text>tùzi: Nǐ huì pāi [@shǒu@] ma?
+兔子：你会拍[@手@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>92481</StartMilliseconds>
+    <EndMilliseconds>93189</EndMilliseconds>
+    <Text>tùzi: Nǐ huì pāi shǒu [@ma@]?
+兔子：你会拍手[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>93190</StartMilliseconds>
+    <EndMilliseconds>95837</EndMilliseconds>
+    <Text>tùzi: Nǐ huì pāi shǒu ma?
+兔子：你会拍手吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>95838</StartMilliseconds>
+    <EndMilliseconds>97255</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì pāi shǒu.
+松鼠：嗯，我会拍手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>97256</StartMilliseconds>
+    <EndMilliseconds>98676</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ huì pāi shǒu.
+松鼠：[@嗯@]，我会拍手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>98677</StartMilliseconds>
+    <EndMilliseconds>99468</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] huì pāi shǒu.
+松鼠：嗯，[@我@]会拍手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>99469</StartMilliseconds>
+    <EndMilliseconds>100008</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@huì@] pāi shǒu.
+松鼠：嗯，我[@会@]拍手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>100009</StartMilliseconds>
+    <EndMilliseconds>100356</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì [@pāi@] shǒu.
+松鼠：嗯，我会[@拍@]手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>100357</StartMilliseconds>
+    <EndMilliseconds>101287</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì pāi [@shǒu@].
+松鼠：嗯，我会拍[@手@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>101288</StartMilliseconds>
+    <EndMilliseconds>110439</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì pāi shǒu.
+松鼠：嗯，我会拍手。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>110440</StartMilliseconds>
+    <EndMilliseconds>111274</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào sān cì ma?
+兔子：你会跳三次吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>111275</StartMilliseconds>
+    <EndMilliseconds>111840</EndMilliseconds>
+    <Text>tùzi: [@Nǐ@] huì tiào sān cì ma?
+兔子：[@你@]会跳三次吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>111841</StartMilliseconds>
+    <EndMilliseconds>112263</EndMilliseconds>
+    <Text>tùzi: Nǐ [@huì@] tiào sān cì ma?
+兔子：你[@会@]跳三次吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>112264</StartMilliseconds>
+    <EndMilliseconds>112995</EndMilliseconds>
+    <Text>tùzi: Nǐ huì [@tiào@] sān cì ma?
+兔子：你会[@跳@]三次吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>112996</StartMilliseconds>
+    <EndMilliseconds>113337</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào [@sān@] cì ma?
+兔子：你会跳[@三@]次吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>113338</StartMilliseconds>
+    <EndMilliseconds>113769</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào sān [@cì@] ma?
+兔子：你会跳三[@次@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>113770</StartMilliseconds>
+    <EndMilliseconds>114423</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào sān cì [@ma@]?
+兔子：你会跳三次[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>114424</StartMilliseconds>
+    <EndMilliseconds>121944</EndMilliseconds>
+    <Text>tùzi: Nǐ huì tiào sān cì ma?
+兔子：你会跳三次吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>121945</StartMilliseconds>
+    <EndMilliseconds>122366</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì tiào sān cì.
+松鼠：嗯，我会跳三次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>122367</StartMilliseconds>
+    <EndMilliseconds>123538</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ huì tiào sān cì.
+松鼠：[@嗯@]，我会跳三次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>123539</StartMilliseconds>
+    <EndMilliseconds>124113</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] huì tiào sān cì.
+松鼠：嗯，[@我@]会跳三次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>124114</StartMilliseconds>
+    <EndMilliseconds>124715</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@huì@] tiào sān cì.
+松鼠：嗯，我[@会@]跳三次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>124716</StartMilliseconds>
+    <EndMilliseconds>125107</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì [@tiào@] sān cì.
+松鼠：嗯，我会[@跳@]三次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>125108</StartMilliseconds>
+    <EndMilliseconds>125476</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì tiào [@sān@] cì.
+松鼠：嗯，我会跳[@三@]次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>125477</StartMilliseconds>
+    <EndMilliseconds>126202</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì tiào sān [@cì@].
+松鼠：嗯，我会跳三[@次@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>126203</StartMilliseconds>
+    <EndMilliseconds>134094</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì tiào sān cì.
+松鼠：嗯，我会跳三次。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>134095</StartMilliseconds>
+    <EndMilliseconds>137272</EndMilliseconds>
+    <Text>tùzi: Nǐ huì xiàng zhèyàng dòng ma?
+兔子：你会像这样动吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>137273</StartMilliseconds>
+    <EndMilliseconds>137823</EndMilliseconds>
+    <Text>tùzi: [@Nǐ@] huì xiàng zhèyàng dòng ma?
+兔子：[@你@]会像这样动吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>137824</StartMilliseconds>
+    <EndMilliseconds>138338</EndMilliseconds>
+    <Text>tùzi: Nǐ [@huì@] xiàng zhèyàng dòng ma?
+兔子：你[@会@]像这样动吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>138339</StartMilliseconds>
+    <EndMilliseconds>138787</EndMilliseconds>
+    <Text>tùzi: Nǐ huì [@xiàng@] zhèyàng dòng ma?
+兔子：你会[@像@]这样动吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>138788</StartMilliseconds>
+    <EndMilliseconds>139593</EndMilliseconds>
+    <Text>tùzi: Nǐ huì xiàng [@zhèyàng@] dòng ma?
+兔子：你会像[@这样@]动吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>139594</StartMilliseconds>
+    <EndMilliseconds>139923</EndMilliseconds>
+    <Text>tùzi: Nǐ huì xiàng zhèyàng [@dòng@] ma?
+兔子：你会像这样[@动@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>139924</StartMilliseconds>
+    <EndMilliseconds>140557</EndMilliseconds>
+    <Text>tùzi: Nǐ huì xiàng zhèyàng dòng [@ma@]?
+兔子：你会像这样动[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>140558</StartMilliseconds>
+    <EndMilliseconds>147043</EndMilliseconds>
+    <Text>tùzi: Nǐ huì xiàng zhèyàng dòng ma?
+兔子：你会像这样动吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>147044</StartMilliseconds>
+    <EndMilliseconds>148189</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì zhèyàng dòng.
+松鼠：嗯，我会这样动。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>148190</StartMilliseconds>
+    <EndMilliseconds>149460</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ huì zhèyàng dòng.
+松鼠：[@嗯@]，我会这样动。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>149461</StartMilliseconds>
+    <EndMilliseconds>149947</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] huì zhèyàng dòng.
+松鼠：嗯，[@我@]会这样动。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>149948</StartMilliseconds>
+    <EndMilliseconds>150433</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@huì@] zhèyàng dòng.
+松鼠：嗯，我[@会@]这样动。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>150434</StartMilliseconds>
+    <EndMilliseconds>151049</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì [@zhèyàng@] dòng.
+松鼠：嗯，我会[@这样@]动。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>151050</StartMilliseconds>
+    <EndMilliseconds>151739</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì zhèyàng [@dòng@].
+松鼠：嗯，我会这样[@动@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>151740</StartMilliseconds>
+    <EndMilliseconds>158591</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ huì zhèyàng dòng.
+松鼠：嗯，我会这样动。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>158592</StartMilliseconds>
+    <EndMilliseconds>158912</EndMilliseconds>
+    <Text>tùzi: Zhèxiē nǐ dōu huì zuò?
+兔子：这些你都会做？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>158913</StartMilliseconds>
+    <EndMilliseconds>159928</EndMilliseconds>
+    <Text>tùzi: [@Zhèxiē@] nǐ dōu huì zuò?
+兔子：[@这些@]你都会做？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>159929</StartMilliseconds>
+    <EndMilliseconds>160381</EndMilliseconds>
+    <Text>tùzi: Zhèxiē [@nǐ@] dōu huì zuò?
+兔子：这些[@你@]都会做？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>160382</StartMilliseconds>
+    <EndMilliseconds>160868</EndMilliseconds>
+    <Text>tùzi: Zhèxiē nǐ [@dōu@] huì zuò?
+兔子：这些你[@都@]会做？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>160869</StartMilliseconds>
+    <EndMilliseconds>161138</EndMilliseconds>
+    <Text>tùzi: Zhèxiē nǐ dōu [@huì@] zuò?
+兔子：这些你都[@会@]做？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>161139</StartMilliseconds>
+    <EndMilliseconds>161958</EndMilliseconds>
+    <Text>tùzi: Zhèxiē nǐ dōu huì [@zuò@]?
+兔子：这些你都会[@做@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>161959</StartMilliseconds>
+    <EndMilliseconds>162312</EndMilliseconds>
+    <Text>tùzi: Zhèxiē nǐ dōu huì zuò?
+兔子：这些你都会做？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>162313</StartMilliseconds>
+    <EndMilliseconds>162721</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ dōu huì zuò.
+松鼠：嗯，我都会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>162722</StartMilliseconds>
+    <EndMilliseconds>163836</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ dōu huì zuò.
+松鼠：[@嗯@]，我都会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>163837</StartMilliseconds>
+    <EndMilliseconds>164616</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] dōu huì zuò.
+松鼠：嗯，[@我@]都会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>164617</StartMilliseconds>
+    <EndMilliseconds>165072</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@dōu@] huì zuò.
+松鼠：嗯，我[@都@]会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>165073</StartMilliseconds>
+    <EndMilliseconds>165451</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ dōu [@huì@] zuò.
+松鼠：嗯，我都[@会@]做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>165452</StartMilliseconds>
+    <EndMilliseconds>166152</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ dōu huì [@zuò@].
+松鼠：嗯，我都会[@做@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>166153</StartMilliseconds>
+    <EndMilliseconds>167311</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ dōu huì zuò.
+松鼠：嗯，我都会做。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>167312</StartMilliseconds>
+    <EndMilliseconds>167894</EndMilliseconds>
+    <Text>tùzi: Nà nǐ jiù huì tiào wǔ!
+兔子：那你就会跳舞！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>167895</StartMilliseconds>
+    <EndMilliseconds>168391</EndMilliseconds>
+    <Text>tùzi: [@Nà@] nǐ jiù huì tiào wǔ!
+兔子：[@那@]你就会跳舞！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>168392</StartMilliseconds>
+    <EndMilliseconds>169044</EndMilliseconds>
+    <Text>tùzi: Nà [@nǐ@] jiù huì tiào wǔ!
+兔子：那[@你@]就会跳舞！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>169045</StartMilliseconds>
+    <EndMilliseconds>169365</EndMilliseconds>
+    <Text>tùzi: Nà nǐ [@jiù@] huì tiào wǔ!
+兔子：那你[@就@]会跳舞！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>169366</StartMilliseconds>
+    <EndMilliseconds>169764</EndMilliseconds>
+    <Text>tùzi: Nà nǐ jiù [@huì@] tiào wǔ!
+兔子：那你就[@会@]跳舞！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>169765</StartMilliseconds>
+    <EndMilliseconds>170149</EndMilliseconds>
+    <Text>tùzi: Nà nǐ jiù huì [@tiào@] wǔ!
+兔子：那你就会[@跳@]舞！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>170150</StartMilliseconds>
+    <EndMilliseconds>171035</EndMilliseconds>
+    <Text>tùzi: Nà nǐ jiù huì tiào [@wǔ@]!
+兔子：那你就会跳[@舞@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>171036</StartMilliseconds>
+    <EndMilliseconds>188905</EndMilliseconds>
+    <Text>tùzi: Nà nǐ jiù huì tiào wǔ!
+兔子：那你就会跳舞！</Text>
+  </Paragraph>
+</Subtitle>

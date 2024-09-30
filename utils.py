@@ -1,9 +1,23 @@
 import json
+import glob
 import requests
 from bs4 import BeautifulSoup
+from datetime import timedelta
+import srt
+import re
 import os
+import concurrent.futures
 
-class LFCSeriesScraper:
+
+def normalize_title(title):
+    return title.lower().strip().replace(' ', '-')
+
+
+class SeriesScraper:
+    """
+    This class is used to scrape information about the series on LFC.
+    All the information is already stored in the file data/series.json, so you don't need to use this class. 
+    """
     homepage_url = 'https://chinese.littlefox.com/en/story'    
 
     def __init__(self, series_json):
@@ -11,7 +25,7 @@ class LFCSeriesScraper:
         with open(series_json, 'r') as f:
             self.series = json.load(f)
 
-    def scrape_storys(self):
+    def scrape_series(self):
         """Adds the title, id and main url for each relevant story to the urls json
 
         Note: After scraping the stories, you should edit the 'single-stories' title to indicate which level
@@ -24,7 +38,7 @@ class LFCSeriesScraper:
         for div in contents_divs:
             # We start at the 22nd series because the prior have fucked up subtitles and I don't want to parse them 
             id = div['data-smid']
-            title = self.normalize_title(div.find('div', class_='thumb_titl').find('a').text)
+            title = normalize_title(div.find('div', class_='thumb_titl').find('a').text)
             # main_url = os.path.join(self.homepage_url, 'contents_list', id)
         
             if id not in [entry['id'] for entry in self.series]:
@@ -35,15 +49,17 @@ class LFCSeriesScraper:
         
         self.write_series_json() 
          
-    def normalize_title(self, title):
-        return title.lower().strip().replace(' ', '-')
-
     def write_series_json(self):
         with open(self.series_json, 'w') as f:
             json.dump(self.series, f, indent=4)
 
 
-class LFCURLScraper:
+class URLScraper:
+    '''
+    This class is used to scrape all the relevant urls from LFC.
+    This includes .xml subtitle files and .m3u8 stream files.
+    The urls are already stored in data/urls.json, so you do not need to use this class. 
+    '''
     def __init__(self, title, id, urls_json):
         self.title = title
         self.id = id
@@ -176,7 +192,6 @@ class LFCURLScraper:
         from selenium.webdriver.common.by import By
         from selenium.webdriver.support.ui import WebDriverWait
         from selenium.webdriver.support import expected_conditions as EC
-        import re
         import time
     
         from dotenv import load_dotenv
@@ -272,9 +287,265 @@ class LFCURLScraper:
         else:
             print("All episodes already have stream URLs.")
 
-    def normalize_title(self, title):
-        return title.lower().strip().replace(' ', '-')
 
     def write_urls_json(self):
         with open(self.urls_json, 'w') as f:
             json.dump(self.urls, f, indent=4)
+
+
+
+class Downloader:
+    '''This class is used to download the content written to the urls.json file
+    '''
+    def __init__(self, urls_json, output_directory):
+        self.urls_json = urls_json
+        self.output_directory = output_directory
+
+        with open(urls_json, 'r') as f:
+            self.urls = json.load(f)
+
+        self.content_dictionary = self.build_content_dictionary()
+        self.setup_output_directory()
+
+    def build_content_dictionary(self):
+        '''I think the only reason I'm doing this is because I didn't think ahead while building the urls json
+           and I don't want to build it again cuz I had to let it run overnight...
+        '''
+        content_dic = {}
+        for elem in self.urls:
+            series_dic = {}
+            ep_cnt = 1
+            for info in self.urls[elem]:
+                ep_name = f'{ep_cnt}_{normalize_title(info['title'])}'
+                series_dic[ep_name] = {
+                    'xml_url': info['xml_url'],
+                    'stream_url': info['stream_url']
+                }
+                ep_cnt += 1
+
+            content_dic[elem] = series_dic
+        
+        return content_dic
+
+    def setup_output_directory(self):
+        # make sure output directory exists
+        if not os.path.exists(self.output_directory):
+            os.makedirs(self.output_directory)
+        
+        # make sure series directories exist
+        for series in self.content_dictionary:
+            series_dir = os.path.join(self.output_directory, series)
+            if not os.path.exists(series_dir):
+                os.makedirs(series_dir)
+
+            # make sure each episode directory exists
+            for ep in self.content_dictionary[series]:
+                ep_dir = os.path.join(series_dir, ep)
+                if not os.path.exists(ep_dir):
+                    os.makedirs(ep_dir)
+
+    def download_xml_subtitles(self, max_threads):
+        tasks = []
+        for series in self.content_dictionary:
+            print(f"Processing series: {series}")
+            for ep in self.content_dictionary[series]:
+                xml_url = self.content_dictionary[series][ep]['xml_url']
+                xml_path = os.path.join(self.output_directory, series, ep, f'{ep}.xml')
+                
+                if os.path.exists(xml_path):
+                    print(f"XML for episode {ep} already exists. Skipping download.")
+                    continue
+    
+                print(f"Queueing download for XML of episode: {ep} from {xml_url}")
+                tasks.append((xml_url, xml_path))
+    
+        def download_task(xml_url, xml_path):
+            print(f"Downloading XML for episode from {xml_url}")
+            try:
+                response = requests.get(xml_url)
+                response.raise_for_status()  # Raise an HTTPError for bad responses
+                xml_content = response.text
+                with open(xml_path, 'w') as f:
+                    f.write(xml_content)
+                print(f"Successfully downloaded and saved XML for episode from {xml_url}")
+            except requests.exceptions.RequestException as e:
+                print(f"Failed to download {xml_url}: {e}")
+    
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_threads) as executor:
+            futures = [executor.submit(download_task, url, path) for url, path in tasks]
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    future.result()
+                except Exception as e:
+                    print(f"Error downloading file: {e}")
+
+    def download_stream_files(self):
+        for series in self.content_dictionary:
+            print(f"Processing series: {series}")
+            for ep in self.content_dictionary[series]:
+                stream_url = self.content_dictionary[series][ep]['stream_url']
+                stream_path = os.path.join(self.output_directory, series, ep, f'{ep}.m3u8')
+                
+                if os.path.exists(stream_path):
+                    print(f"Stream for episode {ep} already exists. Skipping download.")
+                    continue
+
+                print(f"Downloading stream for episode: {ep} from {stream_url}")
+                try:
+                    response = requests.get(stream_url)
+                    response.raise_for_status()  # Raise an HTTPError for bad responses
+                    stream_content = response.text
+                    with open(stream_path, 'w') as f:
+                        f.write(stream_content)
+                    print(f"Successfully downloaded and saved stream for episode: {ep}")
+                except requests.exceptions.RequestException as e:
+                    print(f"Failed to download {stream_url}: {e}")
+
+    def download_ep_mp4(self, m3u8_url, output_path):
+        """Download the mp4 file from the m3u8 URL using ffmpeg"""
+        import subprocess
+        import os
+
+        print(f"Starting download for {output_path} from {m3u8_url}")
+
+        if not os.path.exists(os.path.dirname(output_path)):
+            os.makedirs(os.path.dirname(output_path))
+            print(f"Created directory {os.path.dirname(output_path)}")
+
+        # ffmpeg command to download the mp4 file from the m3u8 URL
+        command = [
+            "ffmpeg",
+            "-loglevel", "error",  # Suppress all but error messages
+            "-i", m3u8_url,        # Input URL (.m3u8)
+            "-c", "copy",          # Copy codec (avoid re-encoding)
+            "-bsf:a", "aac_adtstoasc",  # Bitstream filter for audio
+            output_path            # Output file (.mp4)
+        ]
+
+        # Run the command using subprocess
+        try:
+            subprocess.run(command, check=True)
+            print(f"Successfully downloaded {output_path}")
+        except subprocess.CalledProcessError as e:
+            print(f"Failed to download {output_path}: {e}")
+
+    def download_mp4s(self, max_threads):
+        """Make sure you have ffmpeg on your computer"""
+        tasks = []
+        for series in self.content_dictionary:
+            print(f"Processing series: {series}")
+            for ep in self.content_dictionary[series]:
+                stream_url = self.content_dictionary[series][ep]['stream_url']
+                mp4_path = os.path.join(self.output_directory, series, ep, f'{ep}.mp4')
+
+                if os.path.exists(mp4_path):
+                    print(f"MP4 for episode {ep} already exists. Skipping download.")
+                    continue
+
+                print(f"Queueing download for {mp4_path} from {stream_url}")
+                tasks.append((stream_url, mp4_path))
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_threads) as executor:
+            futures = [executor.submit(self.download_ep_mp4, url, path) for url, path in tasks]
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    future.result()
+                except Exception as e:
+                    print(f"Error downloading file: {e}")
+
+class Converter:
+    def __init__(self, output_directory):
+        self.output_directory = output_directory
+    
+    def xml_to_srt(self):
+        '''Convert XML subtitle files to SRT format.'''
+        def ms_to_timedelta(ms):
+            return timedelta(milliseconds=int(ms))
+    
+        for root, _, _ in os.walk(self.output_directory):
+            for file in glob.glob(os.path.join(root, '*.xml')):
+                xml_path = file
+                srt_path = os.path.splitext(xml_path)[0] + '.srt'
+    
+                with open(xml_path, 'r', encoding='utf-8') as file:
+                    soup = BeautifulSoup(file, 'xml')
+    
+                subtitles = []
+    
+                paragraphs = soup.find_all('Paragraph')
+                for paragraph in paragraphs:
+                    start = ms_to_timedelta(paragraph.find('StartMilliseconds').text)
+                    end = ms_to_timedelta(paragraph.find('EndMilliseconds').text)
+                    text = paragraph.find('Text').text
+
+                    subtitles.append(srt.Subtitle(index=len(subtitles) + 1, start=start, end=end, content=text))
+    
+                word_by_word = False
+                for subtitle in subtitles:
+                    if "[@" in subtitle.content:
+                        word_by_word = True
+                        break
+
+                if word_by_word:
+                    subtitles = self.correct_word_by_word_subtitles(subtitles)
+
+                with open(srt_path, 'w', encoding='utf-8') as file: 
+                    file.write(srt.compose(subtitles))
+    
+                print(f"File converted successfully: {srt_path}")
+            
+    def correct_word_by_word_subtitles(self, subtitles):
+        if not subtitles:
+            return []
+    
+        for subtitle in subtitles:
+            subtitle.content = re.sub(r'\[@|\@\]', '', subtitle.content)
+                
+        new_subtitles = []
+        prev = None
+        start = subtitles[0].start
+    
+        for subtitle in subtitles:
+            if prev is None:
+                prev = subtitle
+                continue
+            if subtitle.content != prev.content:
+                end = prev.end                
+                new_subtitles.append(srt.Subtitle(index=len(new_subtitles) + 1, start=start, end=end, content=prev.content))
+                start = subtitle.start
+            prev = subtitle
+    
+        # Add the last subtitle
+        if prev is not None:
+            new_subtitles.append(srt.Subtitle(index=len(new_subtitles) + 1, start=start, end=prev.end, content=prev.content))
+    
+        # remove the pinyin lines
+        for subtitle in new_subtitles:
+            subtitle.content = self.remove_pinyin_line(subtitle.content)
+
+        return new_subtitles
+
+    def remove_pinyin_line(self, content):
+        # Regex pattern to match pinyin tone marks
+        tone_pattern = re.compile(r'[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]')
+        new_content = ""
+        for line in content.split("\n"):
+            if not tone_pattern.search(line):
+                new_content += line + "\n"
+        return new_content.strip()
+
+    def srt_to_txt(self):
+        '''Convert SRT subtitle files to plain text.'''
+        for root, _, _ in os.walk(self.output_directory):
+            for file in glob.glob(os.path.join(root, '*.srt')):
+                srt_path = file
+                txt_path = os.path.splitext(srt_path)[0] + '.txt'
+    
+                with open(srt_path, 'r', encoding='utf-8') as file:
+                    srt_content = file.read()
+
+                subtitles = list(srt.parse(srt_content))
+
+                with open(txt_path, 'w', encoding='utf-8') as file:
+                    for subtitle in subtitles:
+                        file.write(subtitle.content + '\n')

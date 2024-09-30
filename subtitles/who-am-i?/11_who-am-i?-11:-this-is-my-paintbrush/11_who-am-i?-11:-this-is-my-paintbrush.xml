@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11707</StartMilliseconds>
+    <EndMilliseconds>13704</EndMilliseconds>
+    <Text>Zhè shì wǒ de huàbǐ.
+这是我的画笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13705</StartMilliseconds>
+    <EndMilliseconds>13946</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de huàbǐ.
+[@这@]是我的画笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13947</StartMilliseconds>
+    <EndMilliseconds>14140</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de huàbǐ.
+这[@是@]我的画笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14141</StartMilliseconds>
+    <EndMilliseconds>14339</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de huàbǐ.
+这是[@我@]的画笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14340</StartMilliseconds>
+    <EndMilliseconds>14508</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] huàbǐ.
+这是我[@的@]画笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14509</StartMilliseconds>
+    <EndMilliseconds>15337</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@huàbǐ@].
+这是我的[@画笔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15338</StartMilliseconds>
+    <EndMilliseconds>20212</EndMilliseconds>
+    <Text>Zhè shì wǒ de huàbǐ.
+这是我的画笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>20213</StartMilliseconds>
+    <EndMilliseconds>22098</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē yánliào.
+我有一些颜料。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22099</StartMilliseconds>
+    <EndMilliseconds>22414</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yìxiē yánliào.
+[@我@]有一些颜料。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22415</StartMilliseconds>
+    <EndMilliseconds>22691</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yìxiē yánliào.
+我[@有@]一些颜料。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22692</StartMilliseconds>
+    <EndMilliseconds>23134</EndMilliseconds>
+    <Text>Wǒ yǒu [@yìxiē@] yánliào.
+我有[@一些@]颜料。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23135</StartMilliseconds>
+    <EndMilliseconds>23901</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē [@yánliào@].
+我有一些[@颜料@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>23902</StartMilliseconds>
+    <EndMilliseconds>28488</EndMilliseconds>
+    <Text>Wǒ yǒu yìxiē yánliào.
+我有一些颜料。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>28489</StartMilliseconds>
+    <EndMilliseconds>30441</EndMilliseconds>
+    <Text>Zhè shì wǒ de qiānbǐ.
+这是我的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>30442</StartMilliseconds>
+    <EndMilliseconds>30721</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de qiānbǐ.
+[@这@]是我的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30722</StartMilliseconds>
+    <EndMilliseconds>30906</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de qiānbǐ.
+这[@是@]我的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30907</StartMilliseconds>
+    <EndMilliseconds>31167</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de qiānbǐ.
+这是[@我@]的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31168</StartMilliseconds>
+    <EndMilliseconds>31366</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] qiānbǐ.
+这是我[@的@]铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>31367</StartMilliseconds>
+    <EndMilliseconds>32273</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@qiānbǐ@].
+这是我的[@铅笔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32274</StartMilliseconds>
+    <EndMilliseconds>36755</EndMilliseconds>
+    <Text>Zhè shì wǒ de qiānbǐ.
+这是我的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>36756</StartMilliseconds>
+    <EndMilliseconds>38766</EndMilliseconds>
+    <Text>Wǒ yǒu yì běn xiěshēngbù.
+我有一本写生簿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>38767</StartMilliseconds>
+    <EndMilliseconds>39113</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì běn xiěshēngbù.
+[@我@]有一本写生簿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39114</StartMilliseconds>
+    <EndMilliseconds>39260</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì běn xiěshēngbù.
+我[@有@]一本写生簿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>39261</StartMilliseconds>
+    <EndMilliseconds>39422</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] běn xiěshēngbù.
+我有[@一@]本写生簿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>39423</StartMilliseconds>
+    <EndMilliseconds>39913</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@běn@] xiěshēngbù.
+我有一[@本@]写生簿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>39914</StartMilliseconds>
+    <EndMilliseconds>41160</EndMilliseconds>
+    <Text>Wǒ yǒu yì běn [@xiěshēngbù@].
+我有一本[@写生簿@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>41161</StartMilliseconds>
+    <EndMilliseconds>45106</EndMilliseconds>
+    <Text>Wǒ yǒu yì běn xiěshēngbù.
+我有一本写生簿。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>45107</StartMilliseconds>
+    <EndMilliseconds>47124</EndMilliseconds>
+    <Text>Zhè shì wǒ de hóng màozi.
+这是我的红帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>47125</StartMilliseconds>
+    <EndMilliseconds>47395</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de hóng màozi.
+[@这@]是我的红帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>47396</StartMilliseconds>
+    <EndMilliseconds>47655</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de hóng màozi.
+这[@是@]我的红帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>47656</StartMilliseconds>
+    <EndMilliseconds>47787</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de hóng màozi.
+这是[@我@]的红帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>47788</StartMilliseconds>
+    <EndMilliseconds>48001</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] hóng màozi.
+这是我[@的@]红帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48002</StartMilliseconds>
+    <EndMilliseconds>48267</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@hóng@] màozi.
+这是我的[@红@]帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>48268</StartMilliseconds>
+    <EndMilliseconds>48913</EndMilliseconds>
+    <Text>Zhè shì wǒ de hóng [@màozi@].
+这是我的红[@帽子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>48914</StartMilliseconds>
+    <EndMilliseconds>53577</EndMilliseconds>
+    <Text>Zhè shì wǒ de hóng màozi.
+这是我的红帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>53578</StartMilliseconds>
+    <EndMilliseconds>55385</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhī huàjià.
+我有一支画架。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>55386</StartMilliseconds>
+    <EndMilliseconds>55702</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì zhī huàjià.
+[@我@]有一支画架。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>55703</StartMilliseconds>
+    <EndMilliseconds>55941</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì zhī huàjià.
+我[@有@]一支画架。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>55942</StartMilliseconds>
+    <EndMilliseconds>56128</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] zhī huàjià.
+我有[@一@]支画架。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56129</StartMilliseconds>
+    <EndMilliseconds>56622</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] zhī huàjià.
+我有一[@支@]画架。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>56623</StartMilliseconds>
+    <EndMilliseconds>57390</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhī [@huàjià@].
+我有一支[@画架@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>57391</StartMilliseconds>
+    <EndMilliseconds>61780</EndMilliseconds>
+    <Text>Wǒ yǒu yì zhī huàjià.
+我有一支画架。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>61781</StartMilliseconds>
+    <EndMilliseconds>63766</EndMilliseconds>
+    <Text>Zhè shì wǒ de huà.
+这是我的画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63767</StartMilliseconds>
+    <EndMilliseconds>64082</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de huà.
+[@这@]是我的画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64083</StartMilliseconds>
+    <EndMilliseconds>64270</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de huà.
+这[@是@]我的画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>64271</StartMilliseconds>
+    <EndMilliseconds>64588</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de huà.
+这是[@我@]的画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>64589</StartMilliseconds>
+    <EndMilliseconds>64860</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] huà.
+这是我[@的@]画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>64861</StartMilliseconds>
+    <EndMilliseconds>65256</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@huà@].
+这是我的[@画@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>65257</StartMilliseconds>
+    <EndMilliseconds>70109</EndMilliseconds>
+    <Text>Zhè shì wǒ de huà.
+这是我的画。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>70110</StartMilliseconds>
+    <EndMilliseconds>71947</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>71948</StartMilliseconds>
+    <EndMilliseconds>72461</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>72462</StartMilliseconds>
+    <EndMilliseconds>72739</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>72740</StartMilliseconds>
+    <EndMilliseconds>73252</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>73253</StartMilliseconds>
+    <EndMilliseconds>78688</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>78689</StartMilliseconds>
+    <EndMilliseconds>80172</EndMilliseconds>
+    <Text>Wǒ shì huàjiā.
+我是画家。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>80173</StartMilliseconds>
+    <EndMilliseconds>80492</EndMilliseconds>
+    <Text>[@Wǒ@] shì huàjiā.
+[@我@]是画家。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>80493</StartMilliseconds>
+    <EndMilliseconds>81138</EndMilliseconds>
+    <Text>Wǒ [@shì@] huàjiā.
+我[@是@]画家。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81139</StartMilliseconds>
+    <EndMilliseconds>82155</EndMilliseconds>
+    <Text>Wǒ shì [@huàjiā@].
+我是[@画家@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>82156</StartMilliseconds>
+    <EndMilliseconds>85757</EndMilliseconds>
+    <Text>Wǒ shì huàjiā.
+我是画家。</Text>
+  </Paragraph>
+</Subtitle>

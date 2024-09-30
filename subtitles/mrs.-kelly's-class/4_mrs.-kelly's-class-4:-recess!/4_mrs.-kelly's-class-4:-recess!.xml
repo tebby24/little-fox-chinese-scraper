@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12449</StartMilliseconds>
+    <EndMilliseconds>14784</EndMilliseconds>
+    <Text>lǎoshī: Tóngxuémen, xiūxi shíjiān dào le!
+老师：同学们，休息时间到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14785</StartMilliseconds>
+    <EndMilliseconds>16235</EndMilliseconds>
+    <Text>lǎoshī: [@Tóngxuémen@], xiūxi shíjiān dào le!
+老师：[@同学们@]，休息时间到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>16236</StartMilliseconds>
+    <EndMilliseconds>17037</EndMilliseconds>
+    <Text>lǎoshī: Tóngxuémen, [@xiūxi@] shíjiān dào le!
+老师：同学们，[@休息@]时间到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>17038</StartMilliseconds>
+    <EndMilliseconds>17769</EndMilliseconds>
+    <Text>lǎoshī: Tóngxuémen, xiūxi [@shíjiān@] dào le!
+老师：同学们，休息[@时间@]到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>17770</StartMilliseconds>
+    <EndMilliseconds>18205</EndMilliseconds>
+    <Text>lǎoshī: Tóngxuémen, xiūxi shíjiān [@dào@] le!
+老师：同学们，休息时间[@到@]了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>18206</StartMilliseconds>
+    <EndMilliseconds>18484</EndMilliseconds>
+    <Text>lǎoshī: Tóngxuémen, xiūxi shíjiān dào [@le@]!
+老师：同学们，休息时间到[@了@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>18485</StartMilliseconds>
+    <EndMilliseconds>19721</EndMilliseconds>
+    <Text>lǎoshī: Tóngxuémen, xiūxi shíjiān dào le!
+老师：同学们，休息时间到了！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19722</StartMilliseconds>
+    <EndMilliseconds>21102</EndMilliseconds>
+    <Text>Shālì: Wǒmen huà huà ba.
+莎莉：我们画画吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21103</StartMilliseconds>
+    <EndMilliseconds>22019</EndMilliseconds>
+    <Text>Shālì: [@Wǒmen@] huà huà ba.
+莎莉：[@我们@]画画吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>22020</StartMilliseconds>
+    <EndMilliseconds>22327</EndMilliseconds>
+    <Text>Shālì: Wǒmen [@huà@] huà ba.
+莎莉：我们[@画@]画吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22328</StartMilliseconds>
+    <EndMilliseconds>22646</EndMilliseconds>
+    <Text>Shālì: Wǒmen huà [@huà@] ba.
+莎莉：我们画[@画@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>22647</StartMilliseconds>
+    <EndMilliseconds>22925</EndMilliseconds>
+    <Text>Shālì: Wǒmen huà huà [@ba@].
+莎莉：我们画画[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>22926</StartMilliseconds>
+    <EndMilliseconds>25496</EndMilliseconds>
+    <Text>Shālì: Wǒmen huà huà ba.
+莎莉：我们画画吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25497</StartMilliseconds>
+    <EndMilliseconds>27480</EndMilliseconds>
+    <Text>Pítè: Wǒmen chàng gē ba.
+皮特：我们唱歌吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>27481</StartMilliseconds>
+    <EndMilliseconds>28555</EndMilliseconds>
+    <Text>Pítè: [@Wǒmen@] chàng gē ba.
+皮特：[@我们@]唱歌吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>28556</StartMilliseconds>
+    <EndMilliseconds>29062</EndMilliseconds>
+    <Text>Pítè: Wǒmen [@chàng@] gē ba.
+皮特：我们[@唱@]歌吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>29063</StartMilliseconds>
+    <EndMilliseconds>29458</EndMilliseconds>
+    <Text>Pítè: Wǒmen chàng [@gē@] ba.
+皮特：我们唱[@歌@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>29459</StartMilliseconds>
+    <EndMilliseconds>29750</EndMilliseconds>
+    <Text>Pítè: Wǒmen chàng gē [@ba@].
+皮特：我们唱歌[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>29751</StartMilliseconds>
+    <EndMilliseconds>30622</EndMilliseconds>
+    <Text>Pítè: Wǒmen chàng gē ba.
+皮特：我们唱歌吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>30623</StartMilliseconds>
+    <EndMilliseconds>31668</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒmen wánr yóuxì ba.
+敏宇：我们玩儿游戏吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>31669</StartMilliseconds>
+    <EndMilliseconds>32784</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Wǒmen@] wánr yóuxì ba.
+敏宇：[@我们@]玩儿游戏吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>32785</StartMilliseconds>
+    <EndMilliseconds>33206</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒmen [@wánr@] yóuxì ba.
+敏宇：我们[@玩儿@]游戏吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>33207</StartMilliseconds>
+    <EndMilliseconds>34045</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒmen wánr [@yóuxì@] ba.
+敏宇：我们玩儿[@游戏@]吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>34046</StartMilliseconds>
+    <EndMilliseconds>34389</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒmen wánr yóuxì [@ba@].
+敏宇：我们玩儿游戏[@吧@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>34390</StartMilliseconds>
+    <EndMilliseconds>35492</EndMilliseconds>
+    <Text>Mǐnyǔ: Wǒmen wánr yóuxì ba.
+敏宇：我们玩儿游戏吧。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>35493</StartMilliseconds>
+    <EndMilliseconds>36761</EndMilliseconds>
+    <Text>Shālì: Hǎode!
+莎莉：好的!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>36762</StartMilliseconds>
+    <EndMilliseconds>37462</EndMilliseconds>
+    <Text>Shālì: [@Hǎode@]!
+莎莉：[@好的@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>37462</StartMilliseconds>
+    <EndMilliseconds>38588</EndMilliseconds>
+    <Text>Shālì: Hǎode!
+莎莉：好的!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>38589</StartMilliseconds>
+    <EndMilliseconds>40924</EndMilliseconds>
+    <Text>Pítè: Lúndào wǒ le.
+皮特：轮到我了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>40925</StartMilliseconds>
+    <EndMilliseconds>41831</EndMilliseconds>
+    <Text>Pítè: [@Lúndào@] wǒ le.
+皮特：[@轮到@]我了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>41831</StartMilliseconds>
+    <EndMilliseconds>42312</EndMilliseconds>
+    <Text>Pítè: Lúndào [@wǒ@] le.
+皮特：轮到[@我@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>42313</StartMilliseconds>
+    <EndMilliseconds>42632</EndMilliseconds>
+    <Text>Pítè: Lúndào wǒ [@le@].
+皮特：轮到我[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>42633</StartMilliseconds>
+    <EndMilliseconds>44534</EndMilliseconds>
+    <Text>Pítè: Lúndào wǒ le.
+皮特：轮到我了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>44535</StartMilliseconds>
+    <EndMilliseconds>47043</EndMilliseconds>
+    <Text>Shālì: Lúndào wǒ le.
+莎莉：轮到我了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>47044</StartMilliseconds>
+    <EndMilliseconds>48032</EndMilliseconds>
+    <Text>Shālì: [@Lúndào@] wǒ le.
+莎莉：[@轮到@]我了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>48032</StartMilliseconds>
+    <EndMilliseconds>48457</EndMilliseconds>
+    <Text>Shālì: Lúndào [@wǒ@] le.
+莎莉：轮到[@我@]了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>48458</StartMilliseconds>
+    <EndMilliseconds>48837</EndMilliseconds>
+    <Text>Shālì: Lúndào wǒ [@le@].
+莎莉：轮到我[@了@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>48838</StartMilliseconds>
+    <EndMilliseconds>51623</EndMilliseconds>
+    <Text>Shālì: Lúndào wǒ le.
+莎莉：轮到我了。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>51624</StartMilliseconds>
+    <EndMilliseconds>53169</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!.....Wǒmen tú yánsè ba!
+敏宇：轮到我了！......我们涂颜色吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>53170</StartMilliseconds>
+    <EndMilliseconds>53948</EndMilliseconds>
+    <Text>Mǐnyǔ: [@Lúndào@] wǒ le!.....Wǒmen tú yánsè ba!
+敏宇：[@轮到@]我了！......我们涂颜色吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>53948</StartMilliseconds>
+    <EndMilliseconds>54602</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào [@wǒ@] le!.....Wǒmen tú yánsè ba!
+敏宇：轮到[@我@]了！......我们涂颜色吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>54603</StartMilliseconds>
+    <EndMilliseconds>60274</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ [@le@]!.....Wǒmen tú yánsè ba!
+敏宇：轮到我[@了@]！......我们涂颜色吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>60274</StartMilliseconds>
+    <EndMilliseconds>61438</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!.....[@Wǒmen@] tú yánsè ba!
+敏宇：轮到我了！......[@我们@]涂颜色吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>61439</StartMilliseconds>
+    <EndMilliseconds>61768</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!.....Wǒmen [@tú@] yánsè ba!
+敏宇：轮到我了！......我们[@涂@]颜色吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>61769</StartMilliseconds>
+    <EndMilliseconds>62555</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!.....Wǒmen tú [@yánsè@] ba!
+敏宇：轮到我了！......我们涂[@颜色@]吧！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>62556</StartMilliseconds>
+    <EndMilliseconds>62977</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!.....Wǒmen tú yánsè [@ba@]!
+敏宇：轮到我了！......我们涂颜色[@吧@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>62978</StartMilliseconds>
+    <EndMilliseconds>65327</EndMilliseconds>
+    <Text>Mǐnyǔ: Lúndào wǒ le!.....Wǒmen tú yánsè ba!
+敏宇：轮到我了！......我们涂颜色吧！</Text>
+  </Paragraph>
+</Subtitle>

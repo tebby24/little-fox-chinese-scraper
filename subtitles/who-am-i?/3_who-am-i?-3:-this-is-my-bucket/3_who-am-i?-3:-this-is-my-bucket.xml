@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12443</StartMilliseconds>
+    <EndMilliseconds>14359</EndMilliseconds>
+    <Text>Zhè shì wǒ de tǒng.
+这是我的桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>14360</StartMilliseconds>
+    <EndMilliseconds>14681</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de tǒng.
+[@这@]是我的桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>14682</StartMilliseconds>
+    <EndMilliseconds>14878</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de tǒng.
+这[@是@]我的桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>14879</StartMilliseconds>
+    <EndMilliseconds>15133</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de tǒng.
+这是[@我@]的桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>15134</StartMilliseconds>
+    <EndMilliseconds>15358</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] tǒng.
+这是我[@的@]桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15359</StartMilliseconds>
+    <EndMilliseconds>15919</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@tǒng@].
+这是我的[@桶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15920</StartMilliseconds>
+    <EndMilliseconds>21505</EndMilliseconds>
+    <Text>Zhè shì wǒ de tǒng.
+这是我的桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21506</StartMilliseconds>
+    <EndMilliseconds>23368</EndMilliseconds>
+    <Text>Zhè shì wǒ de gǔnshuā.
+这是我的滚刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>23369</StartMilliseconds>
+    <EndMilliseconds>23650</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de gǔnshuā.
+[@这@]是我的滚刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23651</StartMilliseconds>
+    <EndMilliseconds>23849</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de gǔnshuā.
+这[@是@]我的滚刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>23850</StartMilliseconds>
+    <EndMilliseconds>24113</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de gǔnshuā.
+这是[@我@]的滚刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24114</StartMilliseconds>
+    <EndMilliseconds>24299</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] gǔnshuā.
+这是我[@的@]滚刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24300</StartMilliseconds>
+    <EndMilliseconds>25119</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@gǔnshuā@].
+这是我的[@滚刷@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25120</StartMilliseconds>
+    <EndMilliseconds>29813</EndMilliseconds>
+    <Text>Zhè shì wǒ de gǔnshuā.
+这是我的滚刷。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>29814</StartMilliseconds>
+    <EndMilliseconds>31632</EndMilliseconds>
+    <Text>Zhè shì wǒ de yóuqī pán.
+这是我的油漆盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>31633</StartMilliseconds>
+    <EndMilliseconds>31954</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de yóuqī pán.
+[@这@]是我的油漆盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>31955</StartMilliseconds>
+    <EndMilliseconds>32122</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de yóuqī pán.
+这[@是@]我的油漆盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32123</StartMilliseconds>
+    <EndMilliseconds>32361</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de yóuqī pán.
+这是[@我@]的油漆盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32362</StartMilliseconds>
+    <EndMilliseconds>32661</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] yóuqī pán.
+这是我[@的@]油漆盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32662</StartMilliseconds>
+    <EndMilliseconds>33288</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@yóuqī@] pán.
+这是我的[@油漆@]盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33289</StartMilliseconds>
+    <EndMilliseconds>33836</EndMilliseconds>
+    <Text>Zhè shì wǒ de yóuqī [@pán@].
+这是我的油漆[@盘@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>33837</StartMilliseconds>
+    <EndMilliseconds>38121</EndMilliseconds>
+    <Text>Zhè shì wǒ de yóuqī pán.
+这是我的油漆盘。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>38122</StartMilliseconds>
+    <EndMilliseconds>40047</EndMilliseconds>
+    <Text>Zhè shì wǒ de tīzi.
+这是我的梯子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40048</StartMilliseconds>
+    <EndMilliseconds>40371</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de tīzi.
+[@这@]是我的梯子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>40372</StartMilliseconds>
+    <EndMilliseconds>40566</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de tīzi.
+这[@是@]我的梯子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>40567</StartMilliseconds>
+    <EndMilliseconds>40839</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de tīzi.
+这是[@我@]的梯子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>40840</StartMilliseconds>
+    <EndMilliseconds>41072</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] tīzi.
+这是我[@的@]梯子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41073</StartMilliseconds>
+    <EndMilliseconds>41820</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@tīzi@].
+这是我的[@梯子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>41821</StartMilliseconds>
+    <EndMilliseconds>46379</EndMilliseconds>
+    <Text>Zhè shì wǒ de tīzi.
+这是我的梯子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>46380</StartMilliseconds>
+    <EndMilliseconds>48323</EndMilliseconds>
+    <Text>Zhè shì wǒ de màozi.
+这是我的帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>48324</StartMilliseconds>
+    <EndMilliseconds>48691</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de màozi.
+[@这@]是我的帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>48692</StartMilliseconds>
+    <EndMilliseconds>48869</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de màozi.
+这[@是@]我的帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>48870</StartMilliseconds>
+    <EndMilliseconds>49157</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de màozi.
+这是[@我@]的帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49158</StartMilliseconds>
+    <EndMilliseconds>49358</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] màozi.
+这是我[@的@]帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>49359</StartMilliseconds>
+    <EndMilliseconds>49986</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@màozi@].
+这是我的[@帽子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>49987</StartMilliseconds>
+    <EndMilliseconds>54737</EndMilliseconds>
+    <Text>Zhè shì wǒ de màozi.
+这是我的帽子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>54738</StartMilliseconds>
+    <EndMilliseconds>56656</EndMilliseconds>
+    <Text>Zhè shì wǒ de shuāzi.
+这是我的刷子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>56657</StartMilliseconds>
+    <EndMilliseconds>57021</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de shuāzi.
+[@这@]是我的刷子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57022</StartMilliseconds>
+    <EndMilliseconds>57220</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de shuāzi.
+这[@是@]我的刷子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>57221</StartMilliseconds>
+    <EndMilliseconds>57461</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de shuāzi.
+这是[@我@]的刷子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57462</StartMilliseconds>
+    <EndMilliseconds>57654</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] shuāzi.
+这是我[@的@]刷子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>57655</StartMilliseconds>
+    <EndMilliseconds>58466</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@shuāzi@].
+这是我的[@刷子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>58467</StartMilliseconds>
+    <EndMilliseconds>63081</EndMilliseconds>
+    <Text>Zhè shì wǒ de shuāzi.
+这是我的刷子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63082</StartMilliseconds>
+    <EndMilliseconds>64975</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de yóuqī tǒng.
+这些是我的油漆桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64976</StartMilliseconds>
+    <EndMilliseconds>65772</EndMilliseconds>
+    <Text>[@Zhèxiē@] shì wǒ de yóuqī tǒng.
+[@这些@]是我的油漆桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65773</StartMilliseconds>
+    <EndMilliseconds>66125</EndMilliseconds>
+    <Text>Zhèxiē [@shì@] wǒ de yóuqī tǒng.
+这些[@是@]我的油漆桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66126</StartMilliseconds>
+    <EndMilliseconds>66333</EndMilliseconds>
+    <Text>Zhèxiē shì [@wǒ@] de yóuqī tǒng.
+这些是[@我@]的油漆桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66334</StartMilliseconds>
+    <EndMilliseconds>66501</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ [@de@] yóuqī tǒng.
+这些是我[@的@]油漆桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66502</StartMilliseconds>
+    <EndMilliseconds>67153</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de [@yóuqī@] tǒng.
+这些是我的[@油漆@]桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>67154</StartMilliseconds>
+    <EndMilliseconds>67594</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de yóuqī [@tǒng@].
+这些是我的油漆[@桶@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>67595</StartMilliseconds>
+    <EndMilliseconds>71383</EndMilliseconds>
+    <Text>Zhèxiē shì wǒ de yóuqī tǒng.
+这些是我的油漆桶。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>71384</StartMilliseconds>
+    <EndMilliseconds>73112</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73113</StartMilliseconds>
+    <EndMilliseconds>73564</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>73565</StartMilliseconds>
+    <EndMilliseconds>73865</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>73866</StartMilliseconds>
+    <EndMilliseconds>74371</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>74372</StartMilliseconds>
+    <EndMilliseconds>79860</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>79861</StartMilliseconds>
+    <EndMilliseconds>81312</EndMilliseconds>
+    <Text>Wǒ shì yóuqīgōng.
+我是油漆工。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81313</StartMilliseconds>
+    <EndMilliseconds>81660</EndMilliseconds>
+    <Text>[@Wǒ@] shì yóuqīgōng.
+[@我@]是油漆工。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>81661</StartMilliseconds>
+    <EndMilliseconds>82257</EndMilliseconds>
+    <Text>Wǒ [@shì@] yóuqīgōng.
+我[@是@]油漆工。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>82258</StartMilliseconds>
+    <EndMilliseconds>83787</EndMilliseconds>
+    <Text>Wǒ shì [@yóuqīgōng@].
+我是[@油漆工@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>83788</StartMilliseconds>
+    <EndMilliseconds>87036</EndMilliseconds>
+    <Text>Wǒ shì yóuqīgōng.
+我是油漆工。</Text>
+  </Paragraph>
+</Subtitle>

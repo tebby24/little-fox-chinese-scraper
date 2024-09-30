@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9102</StartMilliseconds>
+    <EndMilliseconds>21456</EndMilliseconds>
+    <Text>山姆：这些小狗们太可爱了。
+Shānmǔ: Zhèxiē xiǎogǒumen tài kě'ài le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>21456</StartMilliseconds>
+    <EndMilliseconds>22014</EndMilliseconds>
+    <Text>山姆：[@这些@]小狗们太可爱了。
+Shānmǔ: [@Zhèxiē@] xiǎogǒumen tài kě'ài le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>22014</StartMilliseconds>
+    <EndMilliseconds>22784</EndMilliseconds>
+    <Text>山姆：这些[@小狗们@]太可爱了。
+Shānmǔ: Zhèxiē [@xiǎogǒumen@] tài kě'ài le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>22785</StartMilliseconds>
+    <EndMilliseconds>23162</EndMilliseconds>
+    <Text>山姆：这些小狗们[@太@]可爱了。
+Shānmǔ: Zhèxiē xiǎogǒumen [@tài@] kě'ài le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>23162</StartMilliseconds>
+    <EndMilliseconds>23558</EndMilliseconds>
+    <Text>山姆：这些小狗们太[@可爱@]了。
+Shānmǔ: Zhèxiē xiǎogǒumen tài [@kě'ài@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>23558</StartMilliseconds>
+    <EndMilliseconds>24302</EndMilliseconds>
+    <Text>山姆：这些小狗们太可爱[@了@]。
+Shānmǔ: Zhèxiē xiǎogǒumen tài kě'ài [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>24302</StartMilliseconds>
+    <EndMilliseconds>24802</EndMilliseconds>
+    <Text>山姆：这些小狗们太可爱了。
+Shānmǔ: Zhèxiē xiǎogǒumen tài kě'ài le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>24802</StartMilliseconds>
+    <EndMilliseconds>25950</EndMilliseconds>
+    <Text>吉娜：它们也很忙。
+Jínà: Tāmen yě hěn máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>25950</StartMilliseconds>
+    <EndMilliseconds>26451</EndMilliseconds>
+    <Text>吉娜：[@它们@]也很忙。
+Jínà: [@Tāmen@] yě hěn máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>26451</StartMilliseconds>
+    <EndMilliseconds>26777</EndMilliseconds>
+    <Text>吉娜：它们[@也@]很忙。
+Jínà: Tāmen [@yě@] hěn máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>26777</StartMilliseconds>
+    <EndMilliseconds>27048</EndMilliseconds>
+    <Text>吉娜：它们也[@很@]忙。
+Jínà: Tāmen yě [@hěn@] máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>27048</StartMilliseconds>
+    <EndMilliseconds>27752</EndMilliseconds>
+    <Text>吉娜：它们也很[@忙@]。
+Jínà: Tāmen yě hěn [@máng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>27752</StartMilliseconds>
+    <EndMilliseconds>29231</EndMilliseconds>
+    <Text>吉娜：它们也很忙。
+Jínà: Tāmen yě hěn máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>29231</StartMilliseconds>
+    <EndMilliseconds>31485</EndMilliseconds>
+    <Text>妈妈：它们让幸运更忙。
+māma: Tāmen ràng Xìngyùn gèng máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>31485</StartMilliseconds>
+    <EndMilliseconds>32051</EndMilliseconds>
+    <Text>妈妈：[@它们@]让幸运更忙。
+māma: [@Tāmen@] ràng Xìngyùn gèng máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>32051</StartMilliseconds>
+    <EndMilliseconds>32291</EndMilliseconds>
+    <Text>妈妈：它们[@让@]幸运更忙。
+māma: Tāmen [@ràng@] Xìngyùn gèng máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32291</StartMilliseconds>
+    <EndMilliseconds>32852</EndMilliseconds>
+    <Text>妈妈：它们让[@幸运@]更忙。
+māma: Tāmen ràng [@Xìngyùn@] gèng máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32851</StartMilliseconds>
+    <EndMilliseconds>33208</EndMilliseconds>
+    <Text>妈妈：它们让幸运[@更@]忙。
+māma: Tāmen ràng Xìngyùn [@gèng@] máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>33209</StartMilliseconds>
+    <EndMilliseconds>33650</EndMilliseconds>
+    <Text>妈妈：它们让幸运更[@忙@]。
+māma: Tāmen ràng Xìngyùn gèng [@máng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33651</StartMilliseconds>
+    <EndMilliseconds>39101</EndMilliseconds>
+    <Text>妈妈：它们让幸运更忙。
+māma: Tāmen ràng Xìngyùn gèng máng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>39101</StartMilliseconds>
+    <EndMilliseconds>44602</EndMilliseconds>
+    <Text>山姆：没错，妈妈。
+Shānmǔ: Méi cuò, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>44602</StartMilliseconds>
+    <EndMilliseconds>45145</EndMilliseconds>
+    <Text>山姆：[@没@]错，妈妈。
+Shānmǔ: [@Méi@] cuò, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>45145</StartMilliseconds>
+    <EndMilliseconds>45582</EndMilliseconds>
+    <Text>山姆：没[@错@]，妈妈。
+Shānmǔ: Méi [@cuò@], māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>45582</StartMilliseconds>
+    <EndMilliseconds>46554</EndMilliseconds>
+    <Text>山姆：没错，[@妈妈@]。
+Shānmǔ: Méi cuò, [@māma@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>46554</StartMilliseconds>
+    <EndMilliseconds>47552</EndMilliseconds>
+    <Text>山姆：没错，妈妈。
+Shānmǔ: Méi cuò, māma.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>47552</StartMilliseconds>
+    <EndMilliseconds>48569</EndMilliseconds>
+    <Text>山姆：幸运看起来不太高兴。
+Shānmǔ: Xìngyùn kàn qǐlai bú tài gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>48569</StartMilliseconds>
+    <EndMilliseconds>49093</EndMilliseconds>
+    <Text>山姆：[@幸运@]看起来不太高兴。
+Shānmǔ: [@Xìngyùn@] kàn qǐlai bú tài gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>49093</StartMilliseconds>
+    <EndMilliseconds>49315</EndMilliseconds>
+    <Text>山姆：幸运[@看@]起来不太高兴。
+Shānmǔ: Xìngyùn [@kàn@] qǐlai bú tài gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>49314</StartMilliseconds>
+    <EndMilliseconds>49683</EndMilliseconds>
+    <Text>山姆：幸运看[@起来@]不太高兴。
+Shānmǔ: Xìngyùn kàn [@qǐlai@] bú tài gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>49684</StartMilliseconds>
+    <EndMilliseconds>49914</EndMilliseconds>
+    <Text>山姆：幸运看起来[@不@]太高兴。
+Shānmǔ: Xìngyùn kàn qǐlai [@bú@] tài gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>49914</StartMilliseconds>
+    <EndMilliseconds>50084</EndMilliseconds>
+    <Text>山姆：幸运看起来不[@太@]高兴。
+Shānmǔ: Xìngyùn kàn qǐlai bú [@tài@] gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>50085</StartMilliseconds>
+    <EndMilliseconds>50850</EndMilliseconds>
+    <Text>山姆：幸运看起来不太[@高兴@]。
+Shānmǔ: Xìngyùn kàn qǐlai bú tài [@gāoxìng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>50852</StartMilliseconds>
+    <EndMilliseconds>51535</EndMilliseconds>
+    <Text>山姆：幸运看起来不太高兴。
+Shānmǔ: Xìngyùn kàn qǐlai bú tài gāoxìng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>51535</StartMilliseconds>
+    <EndMilliseconds>52430</EndMilliseconds>
+    <Text>吉娜：我们该怎么办呢？
+Jínà: Wǒmen gāi zěnmebàn ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>52430</StartMilliseconds>
+    <EndMilliseconds>52939</EndMilliseconds>
+    <Text>吉娜：[@我们@]该怎么办呢？
+Jínà: [@Wǒmen@] gāi zěnmebàn ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>52939</StartMilliseconds>
+    <EndMilliseconds>53307</EndMilliseconds>
+    <Text>吉娜：我们[@该@]怎么办呢？
+Jínà: Wǒmen [@gāi@] zěnmebàn ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>53307</StartMilliseconds>
+    <EndMilliseconds>53878</EndMilliseconds>
+    <Text>吉娜：我们该[@怎么办@]呢？
+Jínà: Wǒmen gāi [@zěnmebàn@] ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>53878</StartMilliseconds>
+    <EndMilliseconds>54303</EndMilliseconds>
+    <Text>吉娜：我们该怎么办[@呢@]？
+Jínà: Wǒmen gāi zěnmebàn [@ne@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>54303</StartMilliseconds>
+    <EndMilliseconds>58302</EndMilliseconds>
+    <Text>吉娜：我们该怎么办呢？
+Jínà: Wǒmen gāi zěnmebàn ne?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>58302</StartMilliseconds>
+    <EndMilliseconds>60079</EndMilliseconds>
+    <Text>山姆：嗯……我知道了！
+Shānmǔ: En……Wǒ zhīdào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>60079</StartMilliseconds>
+    <EndMilliseconds>63070</EndMilliseconds>
+    <Text>山姆：[@嗯@]……我知道了！
+Shānmǔ: [@En@]……Wǒ zhīdào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>63071</StartMilliseconds>
+    <EndMilliseconds>63343</EndMilliseconds>
+    <Text>山姆：嗯……[@我@]知道了！
+Shānmǔ: En……[@Wǒ@] zhīdào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63344</StartMilliseconds>
+    <EndMilliseconds>63598</EndMilliseconds>
+    <Text>山姆：嗯……我[@知道@]了！
+Shānmǔ: En……Wǒ [@zhīdào@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>63599</StartMilliseconds>
+    <EndMilliseconds>64383</EndMilliseconds>
+    <Text>山姆：嗯……我知道[@了@]！
+Shānmǔ: En……Wǒ zhīdào [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64384</StartMilliseconds>
+    <EndMilliseconds>65192</EndMilliseconds>
+    <Text>山姆：嗯……我知道了！
+Shānmǔ: En……Wǒ zhīdào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65192</StartMilliseconds>
+    <EndMilliseconds>66179</EndMilliseconds>
+    <Text>山姆：幸运可以帮我们。
+Shānmǔ: Xìngyùn kěyǐ bāng wǒmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66186</StartMilliseconds>
+    <EndMilliseconds>66536</EndMilliseconds>
+    <Text>山姆：[@幸运@]可以帮我们。
+Shānmǔ: [@Xìngyùn@] kěyǐ bāng wǒmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66537</StartMilliseconds>
+    <EndMilliseconds>67088</EndMilliseconds>
+    <Text>山姆：幸运[@可以@]帮我们。
+Shānmǔ: Xìngyùn [@kěyǐ@] bāng wǒmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>67089</StartMilliseconds>
+    <EndMilliseconds>67453</EndMilliseconds>
+    <Text>山姆：幸运可以[@帮@]我们。
+Shānmǔ: Xìngyùn kěyǐ [@bāng@] wǒmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>67454</StartMilliseconds>
+    <EndMilliseconds>68087</EndMilliseconds>
+    <Text>山姆：幸运可以帮[@我们@]。
+Shānmǔ: Xìngyùn kěyǐ bāng [@wǒmen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>68088</StartMilliseconds>
+    <EndMilliseconds>68621</EndMilliseconds>
+    <Text>山姆：幸运可以帮我们。
+Shānmǔ: Xìngyùn kěyǐ bāng wǒmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>68620</StartMilliseconds>
+    <EndMilliseconds>69608</EndMilliseconds>
+    <Text>山姆：它可以给小狗们表演一下！
+Shānmǔ: Tā kěyǐ gěi xiǎogǒumen biǎoyǎn yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>69608</StartMilliseconds>
+    <EndMilliseconds>69999</EndMilliseconds>
+    <Text>山姆：[@它@]可以给小狗们表演一下！
+Shānmǔ: [@Tā@] kěyǐ gěi xiǎogǒumen biǎoyǎn yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>69999</StartMilliseconds>
+    <EndMilliseconds>70283</EndMilliseconds>
+    <Text>山姆：它[@可以@]给小狗们表演一下！
+Shānmǔ: Tā [@kěyǐ@] gěi xiǎogǒumen biǎoyǎn yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>70284</StartMilliseconds>
+    <EndMilliseconds>70494</EndMilliseconds>
+    <Text>山姆：它可以[@给@]小狗们表演一下！
+Shānmǔ: Tā kěyǐ [@gěi@] xiǎogǒumen biǎoyǎn yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>70495</StartMilliseconds>
+    <EndMilliseconds>71105</EndMilliseconds>
+    <Text>山姆：它可以给[@小狗们@]表演一下！
+Shānmǔ: Tā kěyǐ gěi [@xiǎogǒumen@] biǎoyǎn yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>71106</StartMilliseconds>
+    <EndMilliseconds>71823</EndMilliseconds>
+    <Text>山姆：它可以给小狗们[@表演@]一下！
+Shānmǔ: Tā kěyǐ gěi xiǎogǒumen [@biǎoyǎn@] yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>71828</StartMilliseconds>
+    <EndMilliseconds>72386</EndMilliseconds>
+    <Text>山姆：它可以给小狗们表演[@一下@]！
+Shānmǔ: Tā kěyǐ gěi xiǎogǒumen biǎoyǎn [@yíxià@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>72386</StartMilliseconds>
+    <EndMilliseconds>75436</EndMilliseconds>
+    <Text>山姆：它可以给小狗们表演一下！
+Shānmǔ: Tā kěyǐ gěi xiǎogǒumen biǎoyǎn yíxià!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>75436</StartMilliseconds>
+    <EndMilliseconds>76798</EndMilliseconds>
+    <Text>山姆：幸运，坐下。好孩子！
+Shānmǔ: Xìngyùn, zuòxià. Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>76798</StartMilliseconds>
+    <EndMilliseconds>77763</EndMilliseconds>
+    <Text>山姆：[@幸运@]，坐下。好孩子！
+Shānmǔ: [@Xìngyùn@], zuòxià. Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>77763</StartMilliseconds>
+    <EndMilliseconds>78985</EndMilliseconds>
+    <Text>山姆：幸运，[@坐下@]。好孩子！
+Shānmǔ: Xìngyùn, [@zuòxià@]. Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>78985</StartMilliseconds>
+    <EndMilliseconds>82234</EndMilliseconds>
+    <Text>山姆：幸运，坐下。好孩子！
+Shānmǔ: Xìngyùn, zuòxià. Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>82234</StartMilliseconds>
+    <EndMilliseconds>82617</EndMilliseconds>
+    <Text>山姆：幸运，坐下。[@好@]孩子！
+Shānmǔ: Xìngyùn, zuòxià. [@Hǎo@] háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>82618</StartMilliseconds>
+    <EndMilliseconds>83752</EndMilliseconds>
+    <Text>山姆：幸运，坐下。好[@孩子@]！
+Shānmǔ: Xìngyùn, zuòxià. Hǎo [@háizi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>83755</StartMilliseconds>
+    <EndMilliseconds>84857</EndMilliseconds>
+    <Text>山姆：幸运，坐下。好孩子！
+Shānmǔ: Xìngyùn, zuòxià. Hǎo háizi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>84857</StartMilliseconds>
+    <EndMilliseconds>85695</EndMilliseconds>
+    <Text>吉娜：小狗们不看它。
+Jínà: Xiǎogǒumen bú kàn tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>85695</StartMilliseconds>
+    <EndMilliseconds>86673</EndMilliseconds>
+    <Text>吉娜：[@小狗们@]不看它。
+Jínà: [@Xiǎogǒumen@] bú kàn tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>86673</StartMilliseconds>
+    <EndMilliseconds>86997</EndMilliseconds>
+    <Text>吉娜：小狗们[@不@]看它。
+Jínà: Xiǎogǒumen [@bú@] kàn tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>86999</StartMilliseconds>
+    <EndMilliseconds>87477</EndMilliseconds>
+    <Text>吉娜：小狗们不[@看@]它。
+Jínà: Xiǎogǒumen bú [@kàn@] tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>87478</StartMilliseconds>
+    <EndMilliseconds>88052</EndMilliseconds>
+    <Text>吉娜：小狗们不看[@它@]。
+Jínà: Xiǎogǒumen bú kàn [@tā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>88052</StartMilliseconds>
+    <EndMilliseconds>89684</EndMilliseconds>
+    <Text>吉娜：小狗们不看它。
+Jínà: Xiǎogǒumen bú kàn tā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>89684</StartMilliseconds>
+    <EndMilliseconds>95703</EndMilliseconds>
+    <Text>山姆：我们试试这个。
+Shānmǔ: Wǒmen shìshi zhège.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>95703</StartMilliseconds>
+    <EndMilliseconds>96105</EndMilliseconds>
+    <Text>山姆：[@我们@]试试这个。
+Shānmǔ: [@Wǒmen@] shìshi zhège.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>96105</StartMilliseconds>
+    <EndMilliseconds>96520</EndMilliseconds>
+    <Text>山姆：我们[@试试@]这个。
+Shānmǔ: Wǒmen [@shìshi@] zhège.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>96521</StartMilliseconds>
+    <EndMilliseconds>97353</EndMilliseconds>
+    <Text>山姆：我们试试[@这个@]。
+Shānmǔ: Wǒmen shìshi [@zhège@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>97353</StartMilliseconds>
+    <EndMilliseconds>98382</EndMilliseconds>
+    <Text>山姆：我们试试这个。
+Shānmǔ: Wǒmen shìshi zhège.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>98382</StartMilliseconds>
+    <EndMilliseconds>99562</EndMilliseconds>
+    <Text>山姆：幸运，打滚。
+Shānmǔ: Xìngyùn, dǎ gǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>99563</StartMilliseconds>
+    <EndMilliseconds>100584</EndMilliseconds>
+    <Text>山姆：[@幸运@]，打滚。
+Shānmǔ: [@Xìngyùn@], dǎ gǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>100418</StartMilliseconds>
+    <EndMilliseconds>100960</EndMilliseconds>
+    <Text>山姆：幸运，[@打@]滚。
+Shānmǔ: Xìngyùn, [@dǎ@] gǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>100960</StartMilliseconds>
+    <EndMilliseconds>101517</EndMilliseconds>
+    <Text>山姆：幸运，打[@滚@]。
+Shānmǔ: Xìngyùn, dǎ [@gǔn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>101517</StartMilliseconds>
+    <EndMilliseconds>102558</EndMilliseconds>
+    <Text>山姆：幸运，打滚。
+Shānmǔ: Xìngyùn, dǎ gǔn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>102558</StartMilliseconds>
+    <EndMilliseconds>106560</EndMilliseconds>
+    <Text>吉娜：哎呀，小狗们又跑了！
+Jínà: Āiyā,xiǎogǒumen yòu pǎo le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>106560</StartMilliseconds>
+    <EndMilliseconds>107485</EndMilliseconds>
+    <Text>吉娜：[@哎呀@]，小狗们又跑了！
+Jínà: [@Āiyā@],xiǎogǒumen yòu pǎo le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>107485</StartMilliseconds>
+    <EndMilliseconds>108413</EndMilliseconds>
+    <Text>吉娜：哎呀，[@小狗们@]又跑了！
+Jínà: Āiyā,[@xiǎogǒumen@] yòu pǎo le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>108413</StartMilliseconds>
+    <EndMilliseconds>108876</EndMilliseconds>
+    <Text>吉娜：哎呀，小狗们[@又@]跑了！
+Jínà: Āiyā,xiǎogǒumen [@yòu@] pǎo le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>108876</StartMilliseconds>
+    <EndMilliseconds>109145</EndMilliseconds>
+    <Text>吉娜：哎呀，小狗们又[@跑@]了！
+Jínà: Āiyā,xiǎogǒumen yòu [@pǎo@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>109145</StartMilliseconds>
+    <EndMilliseconds>109885</EndMilliseconds>
+    <Text>吉娜：哎呀，小狗们又跑[@了@]！
+Jínà: Āiyā,xiǎogǒumen yòu pǎo [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>109885</StartMilliseconds>
+    <EndMilliseconds>110885</EndMilliseconds>
+    <Text>吉娜：哎呀，小狗们又跑了！
+Jínà: Āiyā,xiǎogǒumen yòu pǎo le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>110885</StartMilliseconds>
+    <EndMilliseconds>112537</EndMilliseconds>
+    <Text>山姆：对不起，幸运。
+Shānmǔ: Duìbuqǐ, Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>112537</StartMilliseconds>
+    <EndMilliseconds>113427</EndMilliseconds>
+    <Text>山姆：[@对不起@]，幸运。
+Shānmǔ: [@Duìbuqǐ@], Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>113427</StartMilliseconds>
+    <EndMilliseconds>114435</EndMilliseconds>
+    <Text>山姆：对不起，[@幸运@]。
+Shānmǔ: Duìbuqǐ, [@Xìngyùn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>114435</StartMilliseconds>
+    <EndMilliseconds>118185</EndMilliseconds>
+    <Text>山姆：对不起，幸运。
+Shānmǔ: Duìbuqǐ, Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>118185</StartMilliseconds>
+    <EndMilliseconds>119804</EndMilliseconds>
+    <Text>吉娜：狗狗们回它们的家了！
+Jínà: Gǒugoumen huí tāmen de jiā le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>119804</StartMilliseconds>
+    <EndMilliseconds>120764</EndMilliseconds>
+    <Text>吉娜：[@狗狗们@]回它们的家了！
+Jínà: [@Gǒugoumen@] huí tāmen de jiā le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>120764</StartMilliseconds>
+    <EndMilliseconds>121002</EndMilliseconds>
+    <Text>吉娜：狗狗们[@回@]它们的家了！
+Jínà: Gǒugoumen [@huí@] tāmen de jiā le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>121008</StartMilliseconds>
+    <EndMilliseconds>121323</EndMilliseconds>
+    <Text>吉娜：狗狗们回[@它们@]的家了！
+Jínà: Gǒugoumen huí [@tāmen@] de jiā le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>121323</StartMilliseconds>
+    <EndMilliseconds>121650</EndMilliseconds>
+    <Text>吉娜：狗狗们回它们[@的@]家了！
+Jínà: Gǒugoumen huí tāmen [@de@] jiā le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>121656</StartMilliseconds>
+    <EndMilliseconds>121936</EndMilliseconds>
+    <Text>吉娜：狗狗们回它们的[@家@]了！
+Jínà: Gǒugoumen huí tāmen de [@jiā@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>121936</StartMilliseconds>
+    <EndMilliseconds>122469</EndMilliseconds>
+    <Text>吉娜：狗狗们回它们的家[@了@]！
+Jínà: Gǒugoumen huí tāmen de jiā [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>122469</StartMilliseconds>
+    <EndMilliseconds>122970</EndMilliseconds>
+    <Text>吉娜：狗狗们回它们的家了！
+Jínà: Gǒugoumen huí tāmen de jiā le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>122970</StartMilliseconds>
+    <EndMilliseconds>123811</EndMilliseconds>
+    <Text>吉娜：它们该睡觉了。
+Jínà: Tāmen gāi shuìjiào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>123811</StartMilliseconds>
+    <EndMilliseconds>124503</EndMilliseconds>
+    <Text>吉娜：[@它们@]该睡觉了。
+Jínà: [@Tāmen@] gāi shuìjiào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>124503</StartMilliseconds>
+    <EndMilliseconds>124868</EndMilliseconds>
+    <Text>吉娜：它们[@该@]睡觉了。
+Jínà: Tāmen [@gāi@] shuìjiào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>124868</StartMilliseconds>
+    <EndMilliseconds>125391</EndMilliseconds>
+    <Text>吉娜：它们该[@睡觉@]了。
+Jínà: Tāmen gāi [@shuìjiào@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>125391</StartMilliseconds>
+    <EndMilliseconds>126418</EndMilliseconds>
+    <Text>吉娜：它们该睡觉[@了@]。
+Jínà: Tāmen gāi shuìjiào [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>126418</StartMilliseconds>
+    <EndMilliseconds>130708</EndMilliseconds>
+    <Text>吉娜：它们该睡觉了。
+Jínà: Tāmen gāi shuìjiào le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>130708</StartMilliseconds>
+    <EndMilliseconds>132572</EndMilliseconds>
+    <Text>山姆：照顾小狗很有意思，
+Shānmǔ: Zhàogù xiǎogǒu hěn yǒu yìsi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>132572</StartMilliseconds>
+    <EndMilliseconds>133115</EndMilliseconds>
+    <Text>山姆：[@照顾@]小狗很有意思，
+Shānmǔ: [@Zhàogù@] xiǎogǒu hěn yǒu yìsi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>133115</StartMilliseconds>
+    <EndMilliseconds>133595</EndMilliseconds>
+    <Text>山姆：照顾[@小狗@]很有意思，
+Shānmǔ: Zhàogù [@xiǎogǒu@] hěn yǒu yìsi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>133595</StartMilliseconds>
+    <EndMilliseconds>133822</EndMilliseconds>
+    <Text>山姆：照顾小狗[@很@]有意思，
+Shānmǔ: Zhàogù xiǎogǒu [@hěn@] yǒu yìsi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>133822</StartMilliseconds>
+    <EndMilliseconds>134066</EndMilliseconds>
+    <Text>山姆：照顾小狗很[@有@]意思，
+Shānmǔ: Zhàogù xiǎogǒu hěn [@yǒu@] yìsi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>134066</StartMilliseconds>
+    <EndMilliseconds>134718</EndMilliseconds>
+    <Text>山姆：照顾小狗很有[@意思@]，
+Shānmǔ: Zhàogù xiǎogǒu hěn yǒu [@yìsi@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>134718</StartMilliseconds>
+    <EndMilliseconds>136342</EndMilliseconds>
+    <Text>山姆：照顾小狗很有意思，
+Shānmǔ: Zhàogù xiǎogǒu hěn yǒu yìsi,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>136342</StartMilliseconds>
+    <EndMilliseconds>138043</EndMilliseconds>
+    <Text>山姆：可是它们没学到什么。
+Shānmǔ: kěshì tāmen méi xuédào shénme.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>138043</StartMilliseconds>
+    <EndMilliseconds>138968</EndMilliseconds>
+    <Text>山姆：[@可是@]它们没学到什么。
+Shānmǔ: [@kěshì@] tāmen méi xuédào shénme.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>138968</StartMilliseconds>
+    <EndMilliseconds>139519</EndMilliseconds>
+    <Text>山姆：可是[@它们@]没学到什么。
+Shānmǔ: kěshì [@tāmen@] méi xuédào shénme.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>139519</StartMilliseconds>
+    <EndMilliseconds>139753</EndMilliseconds>
+    <Text>山姆：可是它们[@没@]学到什么。
+Shānmǔ: kěshì tāmen [@méi@] xuédào shénme.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>139756</StartMilliseconds>
+    <EndMilliseconds>140191</EndMilliseconds>
+    <Text>山姆：可是它们没[@学到@]什么。
+Shānmǔ: kěshì tāmen méi [@xuédào@] shénme.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>140192</StartMilliseconds>
+    <EndMilliseconds>140816</EndMilliseconds>
+    <Text>山姆：可是它们没学到[@什么@]。
+Shānmǔ: kěshì tāmen méi xuédào [@shénme@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>140817</StartMilliseconds>
+    <EndMilliseconds>141503</EndMilliseconds>
+    <Text>山姆：可是它们没学到什么。
+Shānmǔ: kěshì tāmen méi xuédào shénme.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>141503</StartMilliseconds>
+    <EndMilliseconds>142312</EndMilliseconds>
+    <Text>吉娜：没错，但是……
+Jínà: Méi cuò, dànshì……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>142312</StartMilliseconds>
+    <EndMilliseconds>142717</EndMilliseconds>
+    <Text>吉娜：[@没@]错，但是……
+Jínà: [@Méi@] cuò, dànshì……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>142717</StartMilliseconds>
+    <EndMilliseconds>143467</EndMilliseconds>
+    <Text>吉娜：没[@错@]，但是……
+Jínà: Méi [@cuò@], dànshì……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>143467</StartMilliseconds>
+    <EndMilliseconds>145220</EndMilliseconds>
+    <Text>吉娜：没错，[@但是@]……
+Jínà: Méi cuò, [@dànshì@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>145220</StartMilliseconds>
+    <EndMilliseconds>154719</EndMilliseconds>
+    <Text>吉娜：没错，但是……
+Jínà: Méi cuò, dànshì……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>154719</StartMilliseconds>
+    <EndMilliseconds>155923</EndMilliseconds>
+    <Text>吉娜：幸运从它们那里学到了很多！
+Jínà: Xìngyùn cóng tāmen nàli xuédào le hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>155923</StartMilliseconds>
+    <EndMilliseconds>156791</EndMilliseconds>
+    <Text>吉娜：[@幸运@]从它们那里学到了很多！
+Jínà: [@Xìngyùn@] cóng tāmen nàli xuédào le hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>156791</StartMilliseconds>
+    <EndMilliseconds>157131</EndMilliseconds>
+    <Text>吉娜：幸运[@从@]它们那里学到了很多！
+Jínà: Xìngyùn [@cóng@] tāmen nàli xuédào le hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>157131</StartMilliseconds>
+    <EndMilliseconds>157491</EndMilliseconds>
+    <Text>吉娜：幸运从[@它们@]那里学到了很多！
+Jínà: Xìngyùn cóng [@tāmen@] nàli xuédào le hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>157491</StartMilliseconds>
+    <EndMilliseconds>158047</EndMilliseconds>
+    <Text>吉娜：幸运从它们[@那里@]学到了很多！
+Jínà: Xìngyùn cóng tāmen [@nàli@] xuédào le hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>158047</StartMilliseconds>
+    <EndMilliseconds>158565</EndMilliseconds>
+    <Text>吉娜：幸运从它们那里[@学到@]了很多！
+Jínà: Xìngyùn cóng tāmen nàli [@xuédào@] le hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>158566</StartMilliseconds>
+    <EndMilliseconds>158777</EndMilliseconds>
+    <Text>吉娜：幸运从它们那里学到[@了@]很多！
+Jínà: Xìngyùn cóng tāmen nàli xuédào [@le@] hěn duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>158778</StartMilliseconds>
+    <EndMilliseconds>159322</EndMilliseconds>
+    <Text>吉娜：幸运从它们那里学到了[@很@]多！
+Jínà: Xìngyùn cóng tāmen nàli xuédào le [@hěn@] duō!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>159322</StartMilliseconds>
+    <EndMilliseconds>160585</EndMilliseconds>
+    <Text>吉娜：幸运从它们那里学到了很[@多@]！
+Jínà: Xìngyùn cóng tāmen nàli xuédào le hěn [@duō@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>160585</StartMilliseconds>
+    <EndMilliseconds>168590</EndMilliseconds>
+    <Text>吉娜：幸运从它们那里学到了很多！
+Jínà: Xìngyùn cóng tāmen nàli xuédào le hěn duō!</Text>
+  </Paragraph>
+</Subtitle>

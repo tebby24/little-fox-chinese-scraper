@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9651</StartMilliseconds>
+    <EndMilliseconds>17874</EndMilliseconds>
+    <Text>qīngwā: Wǒ huì tiào.
+青蛙：我会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>17875</StartMilliseconds>
+    <EndMilliseconds>18406</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] huì tiào.
+青蛙：[@我@]会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>18407</StartMilliseconds>
+    <EndMilliseconds>18744</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@huì@] tiào.
+青蛙：我[@会@]跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>18745</StartMilliseconds>
+    <EndMilliseconds>19306</EndMilliseconds>
+    <Text>qīngwā: Wǒ huì [@tiào@].
+青蛙：我会[@跳@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>19307</StartMilliseconds>
+    <EndMilliseconds>24687</EndMilliseconds>
+    <Text>qīngwā: Wǒ huì tiào.
+青蛙：我会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>24688</StartMilliseconds>
+    <EndMilliseconds>24916</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě huì tiào.
+松鼠：我也会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>24917</StartMilliseconds>
+    <EndMilliseconds>25171</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] yě huì tiào.
+松鼠：[@我@]也会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>25172</StartMilliseconds>
+    <EndMilliseconds>25420</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@yě@] huì tiào.
+松鼠：我[@也@]会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>25421</StartMilliseconds>
+    <EndMilliseconds>25770</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě [@huì@] tiào.
+松鼠：我也[@会@]跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>25771</StartMilliseconds>
+    <EndMilliseconds>26534</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě huì [@tiào@].
+松鼠：我也会[@跳@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>26535</StartMilliseconds>
+    <EndMilliseconds>32652</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě huì tiào.
+松鼠：我也会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>32653</StartMilliseconds>
+    <EndMilliseconds>33161</EndMilliseconds>
+    <Text>huànxióng: Kàn wǒ tiào!
+浣熊：看我跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>33162</StartMilliseconds>
+    <EndMilliseconds>33621</EndMilliseconds>
+    <Text>huànxióng: [@Kàn@] wǒ tiào!
+浣熊：[@看@]我跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>33622</StartMilliseconds>
+    <EndMilliseconds>34087</EndMilliseconds>
+    <Text>huànxióng: Kàn [@wǒ@] tiào!
+浣熊：看[@我@]跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>34088</StartMilliseconds>
+    <EndMilliseconds>34972</EndMilliseconds>
+    <Text>huànxióng: Kàn wǒ [@tiào@]!
+浣熊：看我[@跳@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>34973</StartMilliseconds>
+    <EndMilliseconds>40429</EndMilliseconds>
+    <Text>huànxióng: Kàn wǒ tiào!
+浣熊：看我跳！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>40430</StartMilliseconds>
+    <EndMilliseconds>40795</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì tiào.
+乌龟：我不会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>40796</StartMilliseconds>
+    <EndMilliseconds>41523</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] bú huì tiào.
+乌龟：[@我@]不会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>41524</StartMilliseconds>
+    <EndMilliseconds>42081</EndMilliseconds>
+    <Text>wūguī: Wǒ [@bú@] huì tiào.
+乌龟：我[@不@]会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>42082</StartMilliseconds>
+    <EndMilliseconds>42544</EndMilliseconds>
+    <Text>wūguī: Wǒ bú [@huì@] tiào.
+乌龟：我不[@会@]跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>42545</StartMilliseconds>
+    <EndMilliseconds>43590</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì [@tiào@].
+乌龟：我不会[@跳@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>43591</StartMilliseconds>
+    <EndMilliseconds>49039</EndMilliseconds>
+    <Text>wūguī: Wǒ bú huì tiào.
+乌龟：我不会跳。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>49040</StartMilliseconds>
+    <EndMilliseconds>50462</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ tiàoguò shùgàn.
+青蛙：我可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>50463</StartMilliseconds>
+    <EndMilliseconds>50994</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] kěyǐ tiàoguò shùgàn.
+青蛙：[@我@]可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>50995</StartMilliseconds>
+    <EndMilliseconds>51834</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@kěyǐ@] tiàoguò shùgàn.
+青蛙：我[@可以@]跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>51835</StartMilliseconds>
+    <EndMilliseconds>52607</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ [@tiàoguò@] shùgàn.
+青蛙：我可以[@跳过@]树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>52608</StartMilliseconds>
+    <EndMilliseconds>53731</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ tiàoguò [@shùgàn@].
+青蛙：我可以跳过[@树干@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>53732</StartMilliseconds>
+    <EndMilliseconds>60653</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ tiàoguò shùgàn.
+青蛙：我可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>60654</StartMilliseconds>
+    <EndMilliseconds>61253</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ tiàoguò shùgàn. 
+松鼠：我也可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>61254</StartMilliseconds>
+    <EndMilliseconds>61608</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] yě kěyǐ tiàoguò shùgàn. 
+松鼠：[@我@]也可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>61609</StartMilliseconds>
+    <EndMilliseconds>61947</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@yě@] kěyǐ tiàoguò shùgàn. 
+松鼠：我[@也@]可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>61948</StartMilliseconds>
+    <EndMilliseconds>62708</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě [@kěyǐ@] tiàoguò shùgàn. 
+松鼠：我也[@可以@]跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>62709</StartMilliseconds>
+    <EndMilliseconds>63336</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ [@tiàoguò@] shùgàn. 
+松鼠：我也可以[@跳过@]树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>63337</StartMilliseconds>
+    <EndMilliseconds>64457</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ tiàoguò [@shùgàn@]. 
+松鼠：我也可以跳过[@树干@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>64458</StartMilliseconds>
+    <EndMilliseconds>71180</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ tiàoguò shùgàn. 
+松鼠：我也可以跳过树干。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>71181</StartMilliseconds>
+    <EndMilliseconds>71623</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě kěyǐ!
+浣熊：我也可以！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>71624</StartMilliseconds>
+    <EndMilliseconds>72066</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yě kěyǐ!
+浣熊：[@我@]也可以！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>72067</StartMilliseconds>
+    <EndMilliseconds>72473</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yě@] kěyǐ!
+浣熊：我[@也@]可以！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>72474</StartMilliseconds>
+    <EndMilliseconds>73416</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě [@kěyǐ@]!
+浣熊：我也[@可以@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>73417</StartMilliseconds>
+    <EndMilliseconds>78843</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě kěyǐ!
+浣熊：我也可以！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>78844</StartMilliseconds>
+    <EndMilliseconds>86262</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ tiàoshàng shítou.
+青蛙：我可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>86263</StartMilliseconds>
+    <EndMilliseconds>86698</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] kěyǐ tiàoshàng shítou.
+青蛙：[@我@]可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>86699</StartMilliseconds>
+    <EndMilliseconds>87394</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@kěyǐ@] tiàoshàng shítou.
+青蛙：我[@可以@]跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>87395</StartMilliseconds>
+    <EndMilliseconds>88111</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ [@tiàoshàng@] shítou.
+青蛙：我可以[@跳上@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>88112</StartMilliseconds>
+    <EndMilliseconds>89252</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ tiàoshàng [@shítou@].
+青蛙：我可以跳上[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>89253</StartMilliseconds>
+    <EndMilliseconds>99429</EndMilliseconds>
+    <Text>qīngwā: Wǒ kěyǐ tiàoshàng shítou.
+青蛙：我可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>99430</StartMilliseconds>
+    <EndMilliseconds>99936</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ tiàoshàng shítou.
+松鼠：我也可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>99937</StartMilliseconds>
+    <EndMilliseconds>100357</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] yě kěyǐ tiàoshàng shítou.
+松鼠：[@我@]也可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>100358</StartMilliseconds>
+    <EndMilliseconds>100570</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@yě@] kěyǐ tiàoshàng shítou.
+松鼠：我[@也@]可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>100571</StartMilliseconds>
+    <EndMilliseconds>101481</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě [@kěyǐ@] tiàoshàng shítou.
+松鼠：我也[@可以@]跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>101482</StartMilliseconds>
+    <EndMilliseconds>102262</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ [@tiàoshàng@] shítou.
+松鼠：我也可以[@跳上@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>102263</StartMilliseconds>
+    <EndMilliseconds>103414</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ tiàoshàng [@shítou@].
+松鼠：我也可以跳上[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>103415</StartMilliseconds>
+    <EndMilliseconds>107082</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ yě kěyǐ tiàoshàng shítou.
+松鼠：我也可以跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>107083</StartMilliseconds>
+    <EndMilliseconds>107656</EndMilliseconds>
+    <Text>sōngshǔ: Ā~!
+松鼠：啊~！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>107657</StartMilliseconds>
+    <EndMilliseconds>109706</EndMilliseconds>
+    <Text>sōngshǔ: [@Ā@]~!
+松鼠：[@啊@]~！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>109707</StartMilliseconds>
+    <EndMilliseconds>113447</EndMilliseconds>
+    <Text>sōngshǔ: Ā~!
+松鼠：啊~！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>113448</StartMilliseconds>
+    <EndMilliseconds>117427</EndMilliseconds>
+    <Text>huànxióng: Āi-yā!
+浣熊：哎-呀!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>117428</StartMilliseconds>
+    <EndMilliseconds>119402</EndMilliseconds>
+    <Text>huànxióng: [@Āi@]-yā!
+浣熊：[@哎@]-呀!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>119403</StartMilliseconds>
+    <EndMilliseconds>120303</EndMilliseconds>
+    <Text>huànxióng: Āi-[@yā@]!
+浣熊：哎-[@呀@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>120304</StartMilliseconds>
+    <EndMilliseconds>120579</EndMilliseconds>
+    <Text>huànxióng: Āi-yā!
+浣熊：哎-呀!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>120580</StartMilliseconds>
+    <EndMilliseconds>121062</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bù néng tiàoshàng shítou.
+松鼠：我不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>121063</StartMilliseconds>
+    <EndMilliseconds>121666</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] bù néng tiàoshàng shítou.
+松鼠：[@我@]不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>121667</StartMilliseconds>
+    <EndMilliseconds>122006</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@bù@] néng tiàoshàng shítou.
+松鼠：我[@不@]能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>122007</StartMilliseconds>
+    <EndMilliseconds>122654</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bù [@néng@] tiàoshàng shítou.
+松鼠：我不[@能@]跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>122655</StartMilliseconds>
+    <EndMilliseconds>123450</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bù néng [@tiàoshàng@] shítou.
+松鼠：我不能[@跳上@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>123451</StartMilliseconds>
+    <EndMilliseconds>124857</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bù néng tiàoshàng [@shítou@].
+松鼠：我不能跳上[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>124858</StartMilliseconds>
+    <EndMilliseconds>125581</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ bù néng tiàoshàng shítou.
+松鼠：我不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>125582</StartMilliseconds>
+    <EndMilliseconds>126098</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě bù néng tiàoshàng shítou.
+浣熊：我也不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>126099</StartMilliseconds>
+    <EndMilliseconds>126586</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] yě bù néng tiàoshàng shítou.
+浣熊：[@我@]也不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>126587</StartMilliseconds>
+    <EndMilliseconds>127071</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@yě@] bù néng tiàoshàng shítou.
+浣熊：我[@也@]不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>127072</StartMilliseconds>
+    <EndMilliseconds>127353</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě [@bù@] néng tiàoshàng shítou.
+浣熊：我也[@不@]能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>127354</StartMilliseconds>
+    <EndMilliseconds>127961</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě bù [@néng@] tiàoshàng shítou.
+浣熊：我也不[@能@]跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>127962</StartMilliseconds>
+    <EndMilliseconds>129070</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě bù néng [@tiàoshàng@] shítou.
+浣熊：我也不能[@跳上@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>129074</StartMilliseconds>
+    <EndMilliseconds>130602</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě bù néng tiàoshàng [@shítou@].
+浣熊：我也不能跳上[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>130603</StartMilliseconds>
+    <EndMilliseconds>132762</EndMilliseconds>
+    <Text>huànxióng: Wǒ yě bù néng tiàoshàng shítou.
+浣熊：我也不能跳上石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>132763</StartMilliseconds>
+    <EndMilliseconds>133511</EndMilliseconds>
+    <Text>wūguī: Dàjiā hǎo.
+乌龟：大家好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>133512</StartMilliseconds>
+    <EndMilliseconds>134579</EndMilliseconds>
+    <Text>wūguī: [@Dàjiā@] hǎo.
+乌龟：[@大家@]好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>134580</StartMilliseconds>
+    <EndMilliseconds>135841</EndMilliseconds>
+    <Text>wūguī: Dàjiā [@hǎo@].
+乌龟：大家[@好@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>135842</StartMilliseconds>
+    <EndMilliseconds>137286</EndMilliseconds>
+    <Text>wūguī: Dàjiā hǎo.
+乌龟：大家好。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>137287</StartMilliseconds>
+    <EndMilliseconds>137625</EndMilliseconds>
+    <Text>qīngwā: Nǐ shì tiào shànglái de?
+青蛙：你是跳上来的？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>137626</StartMilliseconds>
+    <EndMilliseconds>138099</EndMilliseconds>
+    <Text>qīngwā: [@Nǐ@] shì tiào shànglái de?
+青蛙：[@你@]是跳上来的？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>138100</StartMilliseconds>
+    <EndMilliseconds>138751</EndMilliseconds>
+    <Text>qīngwā: Nǐ [@shì@] tiào shànglái de?
+青蛙：你[@是@]跳上来的？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>138752</StartMilliseconds>
+    <EndMilliseconds>139443</EndMilliseconds>
+    <Text>qīngwā: Nǐ shì [@tiào@] shànglái de?
+青蛙：你是[@跳@]上来的？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>139444</StartMilliseconds>
+    <EndMilliseconds>140003</EndMilliseconds>
+    <Text>qīngwā: Nǐ shì tiào [@shànglái@] de?
+青蛙：你是跳[@上来@]的？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>140004</StartMilliseconds>
+    <EndMilliseconds>140665</EndMilliseconds>
+    <Text>qīngwā: Nǐ shì tiào shànglái [@de@]?
+青蛙：你是跳上来[@的@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>140666</StartMilliseconds>
+    <EndMilliseconds>141187</EndMilliseconds>
+    <Text>qīngwā: Nǐ shì tiào shànglái de?
+青蛙：你是跳上来的？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>141188</StartMilliseconds>
+    <EndMilliseconds>141550</EndMilliseconds>
+    <Text>wūguī: Bù, wǒ shì zǒu shànglái de.
+乌龟：不，我是走上来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>141550</StartMilliseconds>
+    <EndMilliseconds>143001</EndMilliseconds>
+    <Text>wūguī: [@Bù@], wǒ shì zǒu shànglái de.
+乌龟：[@不@]，我是走上来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>143001</StartMilliseconds>
+    <EndMilliseconds>143455</EndMilliseconds>
+    <Text>wūguī: Bù, [@wǒ@] shì zǒu shànglái de.
+乌龟：不，[@我@]是走上来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>143455</StartMilliseconds>
+    <EndMilliseconds>144114</EndMilliseconds>
+    <Text>wūguī: Bù, wǒ [@shì@] zǒu shànglái de.
+乌龟：不，我[@是@]走上来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>144114</StartMilliseconds>
+    <EndMilliseconds>144663</EndMilliseconds>
+    <Text>wūguī: Bù, wǒ shì [@zǒu@] shànglái de.
+乌龟：不，我是[@走@]上来的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>144663</StartMilliseconds>
+    <EndMilliseconds>145647</EndMilliseconds>
+    <Text>wūguī: Bù, wǒ shì zǒu [@shànglái@] de.
+乌龟：不，我是走[@上来@]的。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>145647</StartMilliseconds>
+    <EndMilliseconds>146430</EndMilliseconds>
+    <Text>wūguī: Bù, wǒ shì zǒu shànglái [@de@].
+乌龟：不，我是走上来[@的@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>146430</StartMilliseconds>
+    <EndMilliseconds>155713</EndMilliseconds>
+    <Text>wūguī: Bù, wǒ shì zǒu shànglái de.
+乌龟：不，我是走上来的。</Text>
+  </Paragraph>
+</Subtitle>

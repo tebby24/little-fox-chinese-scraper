@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9534</StartMilliseconds>
+    <EndMilliseconds>12723</EndMilliseconds>
+    <Text>苏：大家快来看报纸。
+Sū: Dàjiā kuài lái kàn bàozhǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12724</StartMilliseconds>
+    <EndMilliseconds>13085</EndMilliseconds>
+    <Text>苏：[@大家@]快来看报纸。
+Sū: [@Dàjiā@] kuài lái kàn bàozhǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13086</StartMilliseconds>
+    <EndMilliseconds>13222</EndMilliseconds>
+    <Text>苏：大家[@快@]来看报纸。
+Sū: Dàjiā [@kuài@] lái kàn bàozhǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13223</StartMilliseconds>
+    <EndMilliseconds>13383</EndMilliseconds>
+    <Text>苏：大家快[@来@]看报纸。
+Sū: Dàjiā kuài [@lái@] kàn bàozhǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13384</StartMilliseconds>
+    <EndMilliseconds>13584</EndMilliseconds>
+    <Text>苏：大家快来[@看@]报纸。
+Sū: Dàjiā kuài lái [@kàn@] bàozhǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13585</StartMilliseconds>
+    <EndMilliseconds>14309</EndMilliseconds>
+    <Text>苏：大家快来看[@报纸@]。
+Sū: Dàjiā kuài lái kàn [@bàozhǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14310</StartMilliseconds>
+    <EndMilliseconds>15297</EndMilliseconds>
+    <Text>苏：大家快来看报纸。
+Sū: Dàjiā kuài lái kàn bàozhǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15298</StartMilliseconds>
+    <EndMilliseconds>16042</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16043</StartMilliseconds>
+    <EndMilliseconds>16657</EndMilliseconds>
+    <Text>亚历克斯：[@马克西@]，这是你和你的魔法笔吗？
+Yàlìkèsī: [@Mǎkèxī@], zhè shì nǐ hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>16658</StartMilliseconds>
+    <EndMilliseconds>17146</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>17147</StartMilliseconds>
+    <EndMilliseconds>17324</EndMilliseconds>
+    <Text>亚历克斯：马克西，[@这@]是你和你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, [@zhè@] shì nǐ hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17325</StartMilliseconds>
+    <EndMilliseconds>17470</EndMilliseconds>
+    <Text>亚历克斯：马克西，这[@是@]你和你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè [@shì@] nǐ hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17471</StartMilliseconds>
+    <EndMilliseconds>17684</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是[@你@]和你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì [@nǐ@] hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>17685</StartMilliseconds>
+    <EndMilliseconds>17860</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你[@和@]你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ [@hé@] nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>17861</StartMilliseconds>
+    <EndMilliseconds>17993</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和[@你@]的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé [@nǐ@] de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>17994</StartMilliseconds>
+    <EndMilliseconds>18130</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和你[@的@]魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé nǐ [@de@] mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>18131</StartMilliseconds>
+    <EndMilliseconds>18717</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和你的[@魔法笔@]吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé nǐ de [@mófǎbǐ@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>18718</StartMilliseconds>
+    <EndMilliseconds>19104</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和你的魔法笔[@吗@]？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé nǐ de mófǎbǐ [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>19105</StartMilliseconds>
+    <EndMilliseconds>19983</EndMilliseconds>
+    <Text>亚历克斯：马克西，这是你和你的魔法笔吗？
+Yàlìkèsī: Mǎkèxī, zhè shì nǐ hé nǐ de mófǎbǐ ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>19984</StartMilliseconds>
+    <EndMilliseconds>20505</EndMilliseconds>
+    <Text>马克西：是的，是我和魔法笔。
+Mǎkèxī: Shìde, shì wǒ hé mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>20506</StartMilliseconds>
+    <EndMilliseconds>21158</EndMilliseconds>
+    <Text>马克西：[@是的@]，是我和魔法笔。
+Mǎkèxī: [@Shìde@], shì wǒ hé mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>21159</StartMilliseconds>
+    <EndMilliseconds>21446</EndMilliseconds>
+    <Text>马克西：是的，是我和魔法笔。
+Mǎkèxī: Shìde, shì wǒ hé mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>21447</StartMilliseconds>
+    <EndMilliseconds>21706</EndMilliseconds>
+    <Text>马克西：是的，[@是@]我和魔法笔。
+Mǎkèxī: Shìde, [@shì@] wǒ hé mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>21707</StartMilliseconds>
+    <EndMilliseconds>21883</EndMilliseconds>
+    <Text>马克西：是的，是[@我@]和魔法笔。
+Mǎkèxī: Shìde, shì [@wǒ@] hé mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>21884</StartMilliseconds>
+    <EndMilliseconds>22080</EndMilliseconds>
+    <Text>马克西：是的，是我[@和@]魔法笔。
+Mǎkèxī: Shìde, shì wǒ [@hé@] mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>22081</StartMilliseconds>
+    <EndMilliseconds>22984</EndMilliseconds>
+    <Text>马克西：是的，是我和[@魔法笔@]。
+Mǎkèxī: Shìde, shì wǒ hé [@mófǎbǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>22985</StartMilliseconds>
+    <EndMilliseconds>27402</EndMilliseconds>
+    <Text>马克西：是的，是我和魔法笔。
+Mǎkèxī: Shìde, shì wǒ hé mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>27403</StartMilliseconds>
+    <EndMilliseconds>28816</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，是一名记者。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, shì yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>28817</StartMilliseconds>
+    <EndMilliseconds>28950</EndMilliseconds>
+    <Text>荣格小姐：[@我@]叫琳达·荣格，是一名记者。
+Rónggé xiǎojiě: [@Wǒ@] jiào Líndá·rónggé, shì yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>28951</StartMilliseconds>
+    <EndMilliseconds>29265</EndMilliseconds>
+    <Text>荣格小姐：我[@叫@]琳达·荣格，是一名记者。
+Rónggé xiǎojiě: Wǒ [@jiào@] Líndá·rónggé, shì yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>29266</StartMilliseconds>
+    <EndMilliseconds>30342</EndMilliseconds>
+    <Text>荣格小姐：我叫[@琳达·荣格@]，是一名记者。
+Rónggé xiǎojiě: Wǒ jiào [@Líndá·rónggé@], shì yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>30343</StartMilliseconds>
+    <EndMilliseconds>30761</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，是一名记者。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, shì yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>30762</StartMilliseconds>
+    <EndMilliseconds>30942</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，[@是@]一名记者。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, [@shì@] yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>30943</StartMilliseconds>
+    <EndMilliseconds>31078</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，是[@一@]名记者。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, shì [@yì@] míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>31079</StartMilliseconds>
+    <EndMilliseconds>31345</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，是一[@名@]记者。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, shì yì [@míng@] jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>31346</StartMilliseconds>
+    <EndMilliseconds>32061</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，是一名[@记者@]。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, shì yì míng [@jìzhě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>32062</StartMilliseconds>
+    <EndMilliseconds>32233</EndMilliseconds>
+    <Text>荣格小姐：我叫琳达·荣格，是一名记者。
+Rónggé xiǎojiě: Wǒ jiào Líndá·rónggé, shì yì míng jìzhě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>32234</StartMilliseconds>
+    <EndMilliseconds>32499</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>32500</StartMilliseconds>
+    <EndMilliseconds>32789</EndMilliseconds>
+    <Text>荣格小姐：[@这里@]是不是有一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: [@Zhèli@] shì bu shì yǒu yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>32790</StartMilliseconds>
+    <EndMilliseconds>32974</EndMilliseconds>
+    <Text>荣格小姐：这里[@是@]不是有一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli [@shì@] bu shì yǒu yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>32975</StartMilliseconds>
+    <EndMilliseconds>33106</EndMilliseconds>
+    <Text>荣格小姐：这里是[@不@]是有一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì [@bu@] shì yǒu yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>33107</StartMilliseconds>
+    <EndMilliseconds>33233</EndMilliseconds>
+    <Text>荣格小姐：这里是不[@是@]有一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu [@shì@] yǒu yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>33234</StartMilliseconds>
+    <EndMilliseconds>33373</EndMilliseconds>
+    <Text>荣格小姐：这里是不是[@有@]一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì [@yǒu@] yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>33374</StartMilliseconds>
+    <EndMilliseconds>33556</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有[@一@]只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu [@yì@] zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>33557</StartMilliseconds>
+    <EndMilliseconds>33699</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一[@只@]鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì [@zhī@] yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>33700</StartMilliseconds>
+    <EndMilliseconds>34471</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只[@鹦鹉@]和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī [@yīngwǔ@] hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>34472</StartMilliseconds>
+    <EndMilliseconds>34667</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只鹦鹉[@和@]一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī yīngwǔ [@hé@] yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>34668</StartMilliseconds>
+    <EndMilliseconds>34787</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只鹦鹉和[@一@]只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī yīngwǔ hé [@yì@] zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>34788</StartMilliseconds>
+    <EndMilliseconds>34948</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只鹦鹉和一[@只@]小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī yīngwǔ hé yì [@zhī@] xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>34949</StartMilliseconds>
+    <EndMilliseconds>35560</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只鹦鹉和一只[@小猫@]？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī yīngwǔ hé yì zhī [@xiǎomāo@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>35561</StartMilliseconds>
+    <EndMilliseconds>36212</EndMilliseconds>
+    <Text>荣格小姐：这里是不是有一只鹦鹉和一只小猫？
+Rónggé xiǎojiě: Zhèli shì bu shì yǒu yì zhī yīngwǔ hé yì zhī xiǎomāo?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>36213</StartMilliseconds>
+    <EndMilliseconds>36607</EndMilliseconds>
+    <Text>苏：这里没有。再见！
+Sū: Zhèli méiyǒu. Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>36608</StartMilliseconds>
+    <EndMilliseconds>36930</EndMilliseconds>
+    <Text>苏：[@这里@]没有。再见！
+Sū: [@Zhèli@] méiyǒu. Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>36931</StartMilliseconds>
+    <EndMilliseconds>37426</EndMilliseconds>
+    <Text>苏：这里[@没有@]。再见！
+Sū: Zhèli [@méiyǒu@]. Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>37427</StartMilliseconds>
+    <EndMilliseconds>37685</EndMilliseconds>
+    <Text>苏：这里没有。再见！
+Sū: Zhèli méiyǒu. Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>37686</StartMilliseconds>
+    <EndMilliseconds>38272</EndMilliseconds>
+    <Text>苏：这里没有。[@再见@]！
+Sū: Zhèli méiyǒu. [@Zàijiàn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>38273</StartMilliseconds>
+    <EndMilliseconds>42696</EndMilliseconds>
+    <Text>苏：这里没有。再见！
+Sū: Zhèli méiyǒu. Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>42697</StartMilliseconds>
+    <EndMilliseconds>44737</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就在灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>44738</StartMilliseconds>
+    <EndMilliseconds>44909</EndMilliseconds>
+    <Text>荣格小姐：[@我@]看到鹦鹉了，就在灯的旁边。
+Rónggé xiǎojiě: [@Wǒ@] kàndào yīngwǔ le, jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>44910</StartMilliseconds>
+    <EndMilliseconds>45264</EndMilliseconds>
+    <Text>荣格小姐：我[@看到@]鹦鹉了，就在灯的旁边。
+Rónggé xiǎojiě: Wǒ [@kàndào@] yīngwǔ le, jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>45265</StartMilliseconds>
+    <EndMilliseconds>45638</EndMilliseconds>
+    <Text>荣格小姐：我看到[@鹦鹉@]了，就在灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào [@yīngwǔ@] le, jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>45639</StartMilliseconds>
+    <EndMilliseconds>45985</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉[@了@]，就在灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ [@le@], jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>45986</StartMilliseconds>
+    <EndMilliseconds>46187</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就在灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>46188</StartMilliseconds>
+    <EndMilliseconds>46396</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，[@就@]在灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, [@jiù@] zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>46397</StartMilliseconds>
+    <EndMilliseconds>46602</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就[@在@]灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù [@zài@] dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>46603</StartMilliseconds>
+    <EndMilliseconds>46755</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就在[@灯@]的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù zài [@dēng@] de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>46756</StartMilliseconds>
+    <EndMilliseconds>46945</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就在灯[@的@]旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù zài dēng [@de@] pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>46946</StartMilliseconds>
+    <EndMilliseconds>47492</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就在灯的[@旁边@]。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù zài dēng de [@pángbiān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>47493</StartMilliseconds>
+    <EndMilliseconds>48115</EndMilliseconds>
+    <Text>荣格小姐：我看到鹦鹉了，就在灯的旁边。
+Rónggé xiǎojiě: Wǒ kàndào yīngwǔ le, jiù zài dēng de pángbiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>48116</StartMilliseconds>
+    <EndMilliseconds>48475</EndMilliseconds>
+    <Text>荣格小姐：那只魔法小猫在沙发上。
+Rónggé xiǎojiě: Nà zhī mófǎ xiǎomāo zài shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>48476</StartMilliseconds>
+    <EndMilliseconds>48622</EndMilliseconds>
+    <Text>荣格小姐：[@那@]只魔法小猫在沙发上。
+Rónggé xiǎojiě: [@Nà@] zhī mófǎ xiǎomāo zài shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>48623</StartMilliseconds>
+    <EndMilliseconds>48731</EndMilliseconds>
+    <Text>荣格小姐：那[@只@]魔法小猫在沙发上。
+Rónggé xiǎojiě: Nà [@zhī@] mófǎ xiǎomāo zài shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>48732</StartMilliseconds>
+    <EndMilliseconds>49045</EndMilliseconds>
+    <Text>荣格小姐：那只[@魔法@]小猫在沙发上。
+Rónggé xiǎojiě: Nà zhī [@mófǎ@] xiǎomāo zài shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>49046</StartMilliseconds>
+    <EndMilliseconds>49703</EndMilliseconds>
+    <Text>荣格小姐：那只魔法[@小猫@]在沙发上。
+Rónggé xiǎojiě: Nà zhī mófǎ [@xiǎomāo@] zài shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>49704</StartMilliseconds>
+    <EndMilliseconds>49847</EndMilliseconds>
+    <Text>荣格小姐：那只魔法小猫[@在@]沙发上。
+Rónggé xiǎojiě: Nà zhī mófǎ xiǎomāo [@zài@] shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>49848</StartMilliseconds>
+    <EndMilliseconds>50256</EndMilliseconds>
+    <Text>荣格小姐：那只魔法小猫在[@沙发@]上。
+Rónggé xiǎojiě: Nà zhī mófǎ xiǎomāo zài [@shāfā@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>50257</StartMilliseconds>
+    <EndMilliseconds>50582</EndMilliseconds>
+    <Text>荣格小姐：那只魔法小猫在沙发[@上@]。
+Rónggé xiǎojiě: Nà zhī mófǎ xiǎomāo zài shāfā [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>50583</StartMilliseconds>
+    <EndMilliseconds>51462</EndMilliseconds>
+    <Text>荣格小姐：那只魔法小猫在沙发上。
+Rónggé xiǎojiě: Nà zhī mófǎ xiǎomāo zài shāfā shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>51463</StartMilliseconds>
+    <EndMilliseconds>52249</EndMilliseconds>
+    <Text>亚历克斯：别拍了！请你们回去！
+Yàlìkèsī: Bié pāi le! Qǐng nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>52250</StartMilliseconds>
+    <EndMilliseconds>52504</EndMilliseconds>
+    <Text>亚历克斯：[@别@]拍了！请你们回去！
+Yàlìkèsī: [@Bié@] pāi le! Qǐng nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>52505</StartMilliseconds>
+    <EndMilliseconds>52714</EndMilliseconds>
+    <Text>亚历克斯：别[@拍@]了！请你们回去！
+Yàlìkèsī: Bié [@pāi@] le! Qǐng nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>52715</StartMilliseconds>
+    <EndMilliseconds>52948</EndMilliseconds>
+    <Text>亚历克斯：别拍[@了@]！请你们回去！
+Yàlìkèsī: Bié pāi [@le@]! Qǐng nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>52949</StartMilliseconds>
+    <EndMilliseconds>53186</EndMilliseconds>
+    <Text>亚历克斯：别拍了！请你们回去！
+Yàlìkèsī: Bié pāi le! Qǐng nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>53187</StartMilliseconds>
+    <EndMilliseconds>53329</EndMilliseconds>
+    <Text>亚历克斯：别拍了！[@请@]你们回去！
+Yàlìkèsī: Bié pāi le! [@Qǐng@] nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>53330</StartMilliseconds>
+    <EndMilliseconds>53655</EndMilliseconds>
+    <Text>亚历克斯：别拍了！请[@你们@]回去！
+Yàlìkèsī: Bié pāi le! Qǐng [@nǐmen@] huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>53656</StartMilliseconds>
+    <EndMilliseconds>54240</EndMilliseconds>
+    <Text>亚历克斯：别拍了！请你们[@回去@]！
+Yàlìkèsī: Bié pāi le! Qǐng nǐmen [@huíqu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>54241</StartMilliseconds>
+    <EndMilliseconds>55794</EndMilliseconds>
+    <Text>亚历克斯：别拍了！请你们回去！
+Yàlìkèsī: Bié pāi le! Qǐng nǐmen huíqu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>55795</StartMilliseconds>
+    <EndMilliseconds>56291</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！我们离开这儿吧！
+Mǎkèxī: Kuài diǎnr, Tǎkè! Wǒmen líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>56292</StartMilliseconds>
+    <EndMilliseconds>56613</EndMilliseconds>
+    <Text>马克西：[@快@]点儿，塔克！我们离开这儿吧！
+Mǎkèxī: [@Kuài@] diǎnr, Tǎkè! Wǒmen líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>56614</StartMilliseconds>
+    <EndMilliseconds>57016</EndMilliseconds>
+    <Text>马克西：快[@点儿@]，塔克！我们离开这儿吧！
+Mǎkèxī: Kuài [@diǎnr@], Tǎkè! Wǒmen líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>57017</StartMilliseconds>
+    <EndMilliseconds>57601</EndMilliseconds>
+    <Text>马克西：快点儿，[@塔克@]！我们离开这儿吧！
+Mǎkèxī: Kuài diǎnr, [@Tǎkè@]! Wǒmen líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>57602</StartMilliseconds>
+    <EndMilliseconds>57880</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！我们离开这儿吧！
+Mǎkèxī: Kuài diǎnr, Tǎkè! Wǒmen líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>57881</StartMilliseconds>
+    <EndMilliseconds>58108</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！[@我们@]离开这儿吧！
+Mǎkèxī: Kuài diǎnr, Tǎkè! [@Wǒmen@] líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>58109</StartMilliseconds>
+    <EndMilliseconds>58606</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！我们[@离开@]这儿吧！
+Mǎkèxī: Kuài diǎnr, Tǎkè! Wǒmen [@líkāi@] zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>58607</StartMilliseconds>
+    <EndMilliseconds>58916</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！我们离开[@这儿@]吧！
+Mǎkèxī: Kuài diǎnr, Tǎkè! Wǒmen líkāi [@zhèr@] ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>58917</StartMilliseconds>
+    <EndMilliseconds>59298</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！我们离开这儿[@吧@]！
+Mǎkèxī: Kuài diǎnr, Tǎkè! Wǒmen líkāi zhèr [@ba@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>59299</StartMilliseconds>
+    <EndMilliseconds>61333</EndMilliseconds>
+    <Text>马克西：快点儿，塔克！我们离开这儿吧！
+Mǎkèxī: Kuài diǎnr, Tǎkè! Wǒmen líkāi zhèr ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>61334</StartMilliseconds>
+    <EndMilliseconds>64473</EndMilliseconds>
+    <Text>塔克：你在画旱冰鞋。好主意！
+Tǎkè: Nǐ zài huà hànbīngxié. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>64474</StartMilliseconds>
+    <EndMilliseconds>64681</EndMilliseconds>
+    <Text>塔克：[@你@]在画旱冰鞋。好主意！
+Tǎkè: [@Nǐ@] zài huà hànbīngxié. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>64682</StartMilliseconds>
+    <EndMilliseconds>64907</EndMilliseconds>
+    <Text>塔克：你[@在@]画旱冰鞋。好主意！
+Tǎkè: Nǐ [@zài@] huà hànbīngxié. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>64908</StartMilliseconds>
+    <EndMilliseconds>65123</EndMilliseconds>
+    <Text>塔克：你在[@画@]旱冰鞋。好主意！
+Tǎkè: Nǐ zài [@huà@] hànbīngxié. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>65124</StartMilliseconds>
+    <EndMilliseconds>66033</EndMilliseconds>
+    <Text>塔克：你在画[@旱冰鞋@]。好主意！
+Tǎkè: Nǐ zài huà [@hànbīngxié@]. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>66034</StartMilliseconds>
+    <EndMilliseconds>66339</EndMilliseconds>
+    <Text>塔克：你在画旱冰鞋。好主意！
+Tǎkè: Nǐ zài huà hànbīngxié. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>66340</StartMilliseconds>
+    <EndMilliseconds>66695</EndMilliseconds>
+    <Text>塔克：你在画旱冰鞋。[@好@]主意！
+Tǎkè: Nǐ zài huà hànbīngxié. [@Hǎo@] zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>66696</StartMilliseconds>
+    <EndMilliseconds>67368</EndMilliseconds>
+    <Text>塔克：你在画旱冰鞋。好[@主意@]！
+Tǎkè: Nǐ zài huà hànbīngxié. Hǎo [@zhǔyi@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>67369</StartMilliseconds>
+    <EndMilliseconds>71617</EndMilliseconds>
+    <Text>塔克：你在画旱冰鞋。好主意！
+Tǎkè: Nǐ zài huà hànbīngxié. Hǎo zhǔyi!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>71618</StartMilliseconds>
+    <EndMilliseconds>73066</EndMilliseconds>
+    <Text>塔克：他们想见你，因为你有魔法笔。
+Tǎkè: Tāmen xiǎng jiàn nǐ, yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>73067</StartMilliseconds>
+    <EndMilliseconds>73409</EndMilliseconds>
+    <Text>塔克：[@他们@]想见你，因为你有魔法笔。
+Tǎkè: [@Tāmen@] xiǎng jiàn nǐ, yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>73410</StartMilliseconds>
+    <EndMilliseconds>73755</EndMilliseconds>
+    <Text>塔克：他们[@想@]见你，因为你有魔法笔。
+Tǎkè: Tāmen [@xiǎng@] jiàn nǐ, yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>73756</StartMilliseconds>
+    <EndMilliseconds>74116</EndMilliseconds>
+    <Text>塔克：他们想[@见@]你，因为你有魔法笔。
+Tǎkè: Tāmen xiǎng [@jiàn@] nǐ, yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>74117</StartMilliseconds>
+    <EndMilliseconds>74400</EndMilliseconds>
+    <Text>塔克：他们想见[@你@]，因为你有魔法笔。
+Tǎkè: Tāmen xiǎng jiàn [@nǐ@], yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>74401</StartMilliseconds>
+    <EndMilliseconds>74691</EndMilliseconds>
+    <Text>塔克：他们想见你，因为你有魔法笔。
+Tǎkè: Tāmen xiǎng jiàn nǐ, yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>74692</StartMilliseconds>
+    <EndMilliseconds>75195</EndMilliseconds>
+    <Text>塔克：他们想见你，[@因为@]你有魔法笔。
+Tǎkè: Tāmen xiǎng jiàn nǐ, [@yīnwèi@] nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>75196</StartMilliseconds>
+    <EndMilliseconds>75326</EndMilliseconds>
+    <Text>塔克：他们想见你，因为[@你@]有魔法笔。
+Tǎkè: Tāmen xiǎng jiàn nǐ, yīnwèi [@nǐ@] yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>75327</StartMilliseconds>
+    <EndMilliseconds>75514</EndMilliseconds>
+    <Text>塔克：他们想见你，因为你[@有@]魔法笔。
+Tǎkè: Tāmen xiǎng jiàn nǐ, yīnwèi nǐ [@yǒu@] mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>75515</StartMilliseconds>
+    <EndMilliseconds>76554</EndMilliseconds>
+    <Text>塔克：他们想见你，因为你有[@魔法笔@]。
+Tǎkè: Tāmen xiǎng jiàn nǐ, yīnwèi nǐ yǒu [@mófǎbǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>76555</StartMilliseconds>
+    <EndMilliseconds>77427</EndMilliseconds>
+    <Text>塔克：他们想见你，因为你有魔法笔。
+Tǎkè: Tāmen xiǎng jiàn nǐ, yīnwèi nǐ yǒu mófǎbǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>77428</StartMilliseconds>
+    <EndMilliseconds>77553</EndMilliseconds>
+    <Text>马克西：我知道，塔克。
+Mǎkèxī: Wǒ zhīdào, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>77554</StartMilliseconds>
+    <EndMilliseconds>77844</EndMilliseconds>
+    <Text>马克西：[@我@]知道，塔克。
+Mǎkèxī: [@Wǒ@] zhīdào, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>77845</StartMilliseconds>
+    <EndMilliseconds>78580</EndMilliseconds>
+    <Text>马克西：我[@知道@]，塔克。
+Mǎkèxī: Wǒ [@zhīdào@], Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>78581</StartMilliseconds>
+    <EndMilliseconds>79189</EndMilliseconds>
+    <Text>马克西：我知道，[@塔克@]。
+Mǎkèxī: Wǒ zhīdào, [@Tǎkè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>79190</StartMilliseconds>
+    <EndMilliseconds>79359</EndMilliseconds>
+    <Text>马克西：我知道，塔克。
+Mǎkèxī: Wǒ zhīdào, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>79360</StartMilliseconds>
+    <EndMilliseconds>79568</EndMilliseconds>
+    <Text>马克西：我们该怎么办？
+Mǎkèxī: Wǒmen gāi zěnmebàn?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>79569</StartMilliseconds>
+    <EndMilliseconds>79878</EndMilliseconds>
+    <Text>马克西：[@我们@]该怎么办？
+Mǎkèxī: [@Wǒmen@] gāi zěnmebàn?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>79879</StartMilliseconds>
+    <EndMilliseconds>80123</EndMilliseconds>
+    <Text>马克西：我们[@该@]怎么办？
+Mǎkèxī: Wǒmen [@gāi@] zěnmebàn?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>80124</StartMilliseconds>
+    <EndMilliseconds>80873</EndMilliseconds>
+    <Text>马克西：我们该[@怎么办@]？
+Mǎkèxī: Wǒmen gāi [@zěnmebàn@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>80874</StartMilliseconds>
+    <EndMilliseconds>84997</EndMilliseconds>
+    <Text>马克西：我们该怎么办？
+Mǎkèxī: Wǒmen gāi zěnmebàn?</Text>
+  </Paragraph>
+</Subtitle>

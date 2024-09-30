@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9553</StartMilliseconds>
+    <EndMilliseconds>21001</EndMilliseconds>
+    <Text>卡尔先生：您的邮件到了！
+Kǎ'ěr xiānsheng: Nín de yóujiàn dào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>21001</StartMilliseconds>
+    <EndMilliseconds>21205</EndMilliseconds>
+    <Text>卡尔先生：[@您@]的邮件到了！
+Kǎ'ěr xiānsheng: [@Nín@] de yóujiàn dào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>21205</StartMilliseconds>
+    <EndMilliseconds>21385</EndMilliseconds>
+    <Text>卡尔先生：您[@的@]邮件到了！
+Kǎ'ěr xiānsheng: Nín [@de@] yóujiàn dào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>21385</StartMilliseconds>
+    <EndMilliseconds>21741</EndMilliseconds>
+    <Text>卡尔先生：您的[@邮件@]到了！
+Kǎ'ěr xiānsheng: Nín de [@yóujiàn@] dào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>21741</StartMilliseconds>
+    <EndMilliseconds>21933</EndMilliseconds>
+    <Text>卡尔先生：您的邮件[@到@]了！
+Kǎ'ěr xiānsheng: Nín de yóujiàn [@dào@] le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>21933</StartMilliseconds>
+    <EndMilliseconds>22553</EndMilliseconds>
+    <Text>卡尔先生：您的邮件到[@了@]！
+Kǎ'ěr xiānsheng: Nín de yóujiàn dào [@le@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>22553</StartMilliseconds>
+    <EndMilliseconds>22928</EndMilliseconds>
+    <Text>卡尔先生：您的邮件到了！
+Kǎ'ěr xiānsheng: Nín de yóujiàn dào le!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>22928</StartMilliseconds>
+    <EndMilliseconds>24083</EndMilliseconds>
+    <Text>爸爸：过得好吗，卡尔先生？
+bàba: Guò de hǎo ma, Kǎ'ěr xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>24083</StartMilliseconds>
+    <EndMilliseconds>24189</EndMilliseconds>
+    <Text>爸爸：[@过@]得好吗，卡尔先生？
+bàba: [@Guò@] de hǎo ma, Kǎ'ěr xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>24189</StartMilliseconds>
+    <EndMilliseconds>24430</EndMilliseconds>
+    <Text>爸爸：过[@得@]好吗，卡尔先生？
+bàba: Guò [@de@] hǎo ma, Kǎ'ěr xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24430</StartMilliseconds>
+    <EndMilliseconds>24531</EndMilliseconds>
+    <Text>爸爸：过得[@好@]吗，卡尔先生？
+bàba: Guò de [@hǎo@] ma, Kǎ'ěr xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24531</StartMilliseconds>
+    <EndMilliseconds>24891</EndMilliseconds>
+    <Text>爸爸：过得好[@吗@]，卡尔先生？
+bàba: Guò de hǎo [@ma@], Kǎ'ěr xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24891</StartMilliseconds>
+    <EndMilliseconds>25064</EndMilliseconds>
+    <Text>爸爸：过得好吗，[@卡尔@]先生？
+bàba: Guò de hǎo ma, [@Kǎ'ěr@] xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>25065</StartMilliseconds>
+    <EndMilliseconds>25608</EndMilliseconds>
+    <Text>爸爸：过得好吗，卡尔[@先生@]？
+bàba: Guò de hǎo ma, Kǎ'ěr [@xiānsheng@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25608</StartMilliseconds>
+    <EndMilliseconds>25919</EndMilliseconds>
+    <Text>爸爸：过得好吗，卡尔先生？
+bàba: Guò de hǎo ma, Kǎ'ěr xiānsheng?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>25919</StartMilliseconds>
+    <EndMilliseconds>26310</EndMilliseconds>
+    <Text>卡尔先生：我很好。
+Kǎ'ěr xiānsheng: Wǒ hěn hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>26310</StartMilliseconds>
+    <EndMilliseconds>26464</EndMilliseconds>
+    <Text>卡尔先生：[@我@]很好。
+Kǎ'ěr xiānsheng: [@Wǒ@] hěn hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>26464</StartMilliseconds>
+    <EndMilliseconds>26758</EndMilliseconds>
+    <Text>卡尔先生：我[@很@]好。
+Kǎ'ěr xiānsheng: Wǒ [@hěn@] hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>26758</StartMilliseconds>
+    <EndMilliseconds>27079</EndMilliseconds>
+    <Text>卡尔先生：我很[@好@]。
+Kǎ'ěr xiānsheng: Wǒ hěn [@hǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>27079</StartMilliseconds>
+    <EndMilliseconds>27136</EndMilliseconds>
+    <Text>卡尔先生：我很好。
+Kǎ'ěr xiānsheng: Wǒ hěn hǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>27136</StartMilliseconds>
+    <EndMilliseconds>27479</EndMilliseconds>
+    <Text>卡尔先生：你好啊，山姆。
+Kǎ'ěr xiānsheng: Nǐ hǎo a, Shānmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27479</StartMilliseconds>
+    <EndMilliseconds>27704</EndMilliseconds>
+    <Text>卡尔先生：[@你@]好啊，山姆。
+Kǎ'ěr xiānsheng: [@Nǐ@] hǎo a, Shānmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>27704</StartMilliseconds>
+    <EndMilliseconds>27952</EndMilliseconds>
+    <Text>卡尔先生：你[@好@]啊，山姆。
+Kǎ'ěr xiānsheng: Nǐ [@hǎo@] a, Shānmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>27952</StartMilliseconds>
+    <EndMilliseconds>28352</EndMilliseconds>
+    <Text>卡尔先生：你好[@啊@]，山姆。
+Kǎ'ěr xiānsheng: Nǐ hǎo [@a@], Shānmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>28352</StartMilliseconds>
+    <EndMilliseconds>29163</EndMilliseconds>
+    <Text>卡尔先生：你好啊，[@山姆@]。
+Kǎ'ěr xiānsheng: Nǐ hǎo a, [@Shānmǔ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>29163</StartMilliseconds>
+    <EndMilliseconds>32861</EndMilliseconds>
+    <Text>卡尔先生：你好啊，山姆。
+Kǎ'ěr xiānsheng: Nǐ hǎo a, Shānmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>32861</StartMilliseconds>
+    <EndMilliseconds>33728</EndMilliseconds>
+    <Text>幸运：呜！呜！
+Xìngyùn: Wū! Wū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>33728</StartMilliseconds>
+    <EndMilliseconds>36080</EndMilliseconds>
+    <Text>幸运：[@呜@]！呜！
+Xìngyùn: [@Wū@]! Wū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>36080</StartMilliseconds>
+    <EndMilliseconds>38218</EndMilliseconds>
+    <Text>幸运：呜！[@呜@]！
+Xìngyùn: Wū! [@Wū@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>38218</StartMilliseconds>
+    <EndMilliseconds>38528</EndMilliseconds>
+    <Text>幸运：呜！呜！
+Xìngyùn: Wū! Wū!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>38528</StartMilliseconds>
+    <EndMilliseconds>39143</EndMilliseconds>
+    <Text>山姆：幸运，不要大声叫。
+Shānmǔ: Xìngyùn, bú yào dà shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>39143</StartMilliseconds>
+    <EndMilliseconds>40077</EndMilliseconds>
+    <Text>山姆：[@幸运@]，不要大声叫。
+Shānmǔ: [@Xìngyùn@], bú yào dà shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>40077</StartMilliseconds>
+    <EndMilliseconds>40272</EndMilliseconds>
+    <Text>山姆：幸运，[@不@]要大声叫。
+Shānmǔ: Xìngyùn, [@bú@] yào dà shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>40272</StartMilliseconds>
+    <EndMilliseconds>40492</EndMilliseconds>
+    <Text>山姆：幸运，不[@要@]大声叫。
+Shānmǔ: Xìngyùn, bú [@yào@] dà shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>40492</StartMilliseconds>
+    <EndMilliseconds>40716</EndMilliseconds>
+    <Text>山姆：幸运，不要[@大@]声叫。
+Shānmǔ: Xìngyùn, bú yào [@dà@] shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>40717</StartMilliseconds>
+    <EndMilliseconds>41081</EndMilliseconds>
+    <Text>山姆：幸运，不要大[@声@]叫。
+Shānmǔ: Xìngyùn, bú yào dà [@shēng@] jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>41081</StartMilliseconds>
+    <EndMilliseconds>41786</EndMilliseconds>
+    <Text>山姆：幸运，不要大声[@叫@]。
+Shānmǔ: Xìngyùn, bú yào dà shēng [@jiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>41787</StartMilliseconds>
+    <EndMilliseconds>42403</EndMilliseconds>
+    <Text>山姆：幸运，不要大声叫。
+Shānmǔ: Xìngyùn, bú yào dà shēng jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>42404</StartMilliseconds>
+    <EndMilliseconds>43267</EndMilliseconds>
+    <Text>爸爸：对不起，卡尔先生。
+bàba: Duìbuqǐ, Kǎ'ěr xiānsheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>43266</StartMilliseconds>
+    <EndMilliseconds>44061</EndMilliseconds>
+    <Text>爸爸：[@对不起@]，卡尔先生。
+bàba: [@Duìbuqǐ@], Kǎ'ěr xiānsheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>44062</StartMilliseconds>
+    <EndMilliseconds>44296</EndMilliseconds>
+    <Text>爸爸：对不起，[@卡尔@]先生。
+bàba: Duìbuqǐ, [@Kǎ'ěr@] xiānsheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>44296</StartMilliseconds>
+    <EndMilliseconds>44836</EndMilliseconds>
+    <Text>爸爸：对不起，卡尔[@先生@]。
+bàba: Duìbuqǐ, Kǎ'ěr [@xiānsheng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>44836</StartMilliseconds>
+    <EndMilliseconds>45455</EndMilliseconds>
+    <Text>爸爸：对不起，卡尔先生。
+bàba: Duìbuqǐ, Kǎ'ěr xiānsheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>45455</StartMilliseconds>
+    <EndMilliseconds>46534</EndMilliseconds>
+    <Text>卡尔先生：没关系，狗狗们总是这样。
+Kǎ'ěr xiānsheng: Méi guānxi, gǒugoumen zǒngshì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>46534</StartMilliseconds>
+    <EndMilliseconds>46837</EndMilliseconds>
+    <Text>卡尔先生：[@没@]关系，狗狗们总是这样。
+Kǎ'ěr xiānsheng: [@Méi@] guānxi, gǒugoumen zǒngshì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>46837</StartMilliseconds>
+    <EndMilliseconds>47545</EndMilliseconds>
+    <Text>卡尔先生：没[@关系@]，狗狗们总是这样。
+Kǎ'ěr xiānsheng: Méi [@guānxi@], gǒugoumen zǒngshì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>47546</StartMilliseconds>
+    <EndMilliseconds>48965</EndMilliseconds>
+    <Text>卡尔先生：没关系，狗狗们总是这样。
+Kǎ'ěr xiānsheng: Méi guānxi, gǒugoumen zǒngshì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>48965</StartMilliseconds>
+    <EndMilliseconds>49935</EndMilliseconds>
+    <Text>卡尔先生：没关系，[@狗狗们@]总是这样。
+Kǎ'ěr xiānsheng: Méi guānxi, [@gǒugoumen@] zǒngshì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>49935</StartMilliseconds>
+    <EndMilliseconds>50537</EndMilliseconds>
+    <Text>卡尔先生：没关系，狗狗们[@总是@]这样。
+Kǎ'ěr xiānsheng: Méi guānxi, gǒugoumen [@zǒngshì@] zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>50537</StartMilliseconds>
+    <EndMilliseconds>51285</EndMilliseconds>
+    <Text>卡尔先生：没关系，狗狗们总是[@这样@]。
+Kǎ'ěr xiānsheng: Méi guānxi, gǒugoumen zǒngshì [@zhèyàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>51286</StartMilliseconds>
+    <EndMilliseconds>52486</EndMilliseconds>
+    <Text>卡尔先生：没关系，狗狗们总是这样。
+Kǎ'ěr xiānsheng: Méi guānxi, gǒugoumen zǒngshì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>52486</StartMilliseconds>
+    <EndMilliseconds>54365</EndMilliseconds>
+    <Text>爸爸：我不知道为什么会这样。
+bàba: Wǒ bù zhīdào wèishénme huì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>54365</StartMilliseconds>
+    <EndMilliseconds>54567</EndMilliseconds>
+    <Text>爸爸：[@我@]不知道为什么会这样。
+bàba: [@Wǒ@] bù zhīdào wèishénme huì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>54567</StartMilliseconds>
+    <EndMilliseconds>54839</EndMilliseconds>
+    <Text>爸爸：我[@不@]知道为什么会这样。
+bàba: Wǒ [@bù@] zhīdào wèishénme huì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>54839</StartMilliseconds>
+    <EndMilliseconds>55334</EndMilliseconds>
+    <Text>爸爸：我不[@知道@]为什么会这样。
+bàba: Wǒ bù [@zhīdào@] wèishénme huì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>55334</StartMilliseconds>
+    <EndMilliseconds>55659</EndMilliseconds>
+    <Text>爸爸：我不知道[@为什么@]会这样。
+bàba: Wǒ bù zhīdào [@wèishénme@] huì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>55659</StartMilliseconds>
+    <EndMilliseconds>55906</EndMilliseconds>
+    <Text>爸爸：我不知道为什么[@会@]这样。
+bàba: Wǒ bù zhīdào wèishénme [@huì@] zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>55907</StartMilliseconds>
+    <EndMilliseconds>56635</EndMilliseconds>
+    <Text>爸爸：我不知道为什么会[@这样@]。
+bàba: Wǒ bù zhīdào wèishénme huì [@zhèyàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>56635</StartMilliseconds>
+    <EndMilliseconds>57213</EndMilliseconds>
+    <Text>爸爸：我不知道为什么会这样。
+bàba: Wǒ bù zhīdào wèishénme huì zhèyàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>57213</StartMilliseconds>
+    <EndMilliseconds>57952</EndMilliseconds>
+    <Text>卡尔先生：我也不知道。
+Kǎ'ěr xiānsheng: Wǒ yě bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>57952</StartMilliseconds>
+    <EndMilliseconds>58144</EndMilliseconds>
+    <Text>卡尔先生：[@我@]也不知道。
+Kǎ'ěr xiānsheng: [@Wǒ@] yě bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>58144</StartMilliseconds>
+    <EndMilliseconds>58419</EndMilliseconds>
+    <Text>卡尔先生：我[@也@]不知道。
+Kǎ'ěr xiānsheng: Wǒ [@yě@] bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>58422</StartMilliseconds>
+    <EndMilliseconds>58537</EndMilliseconds>
+    <Text>卡尔先生：我也[@不@]知道。
+Kǎ'ěr xiānsheng: Wǒ yě [@bù@] zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>58535</StartMilliseconds>
+    <EndMilliseconds>59534</EndMilliseconds>
+    <Text>卡尔先生：我也不[@知道@]。
+Kǎ'ěr xiānsheng: Wǒ yě bù [@zhīdào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>59534</StartMilliseconds>
+    <EndMilliseconds>59944</EndMilliseconds>
+    <Text>卡尔先生：我也不知道。
+Kǎ'ěr xiānsheng: Wǒ yě bù zhīdào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>59944</StartMilliseconds>
+    <EndMilliseconds>60486</EndMilliseconds>
+    <Text>爸爸：您真宽容。
+bàba: Nín zhēn kuānróng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>60486</StartMilliseconds>
+    <EndMilliseconds>60684</EndMilliseconds>
+    <Text>爸爸：[@您@]真宽容。
+bàba: [@Nín@] zhēn kuānróng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>60684</StartMilliseconds>
+    <EndMilliseconds>60934</EndMilliseconds>
+    <Text>爸爸：您[@真@]宽容。
+bàba: Nín [@zhēn@] kuānróng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>60934</StartMilliseconds>
+    <EndMilliseconds>61935</EndMilliseconds>
+    <Text>爸爸：您真[@宽容@]。
+bàba: Nín zhēn [@kuānróng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>61935</StartMilliseconds>
+    <EndMilliseconds>62576</EndMilliseconds>
+    <Text>爸爸：您真宽容。
+bàba: Nín zhēn kuānróng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>62576</StartMilliseconds>
+    <EndMilliseconds>63389</EndMilliseconds>
+    <Text>山姆：幸运，坐！
+Shānmǔ: Xìngyùn, zuò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>63389</StartMilliseconds>
+    <EndMilliseconds>64395</EndMilliseconds>
+    <Text>山姆：[@幸运@]，坐！
+Shānmǔ: [@Xìngyùn@], zuò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>64395</StartMilliseconds>
+    <EndMilliseconds>65052</EndMilliseconds>
+    <Text>山姆：幸运，[@坐@]！
+Shānmǔ: Xìngyùn, [@zuò@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>65052</StartMilliseconds>
+    <EndMilliseconds>65849</EndMilliseconds>
+    <Text>山姆：幸运，坐！
+Shānmǔ: Xìngyùn, zuò!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>65849</StartMilliseconds>
+    <EndMilliseconds>68125</EndMilliseconds>
+    <Text>幸运：汪！汪！
+Xìngyùn: Wāng! Wāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>68125</StartMilliseconds>
+    <EndMilliseconds>68752</EndMilliseconds>
+    <Text>幸运：[@汪@]！汪！
+Xìngyùn: [@Wāng@]! Wāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>68752</StartMilliseconds>
+    <EndMilliseconds>69852</EndMilliseconds>
+    <Text>幸运：汪！[@汪@]！
+Xìngyùn: Wāng! [@Wāng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>69852</StartMilliseconds>
+    <EndMilliseconds>71102</EndMilliseconds>
+    <Text>幸运：汪！汪！
+Xìngyùn: Wāng! Wāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>71102</StartMilliseconds>
+    <EndMilliseconds>72505</EndMilliseconds>
+    <Text>卡尔先生：嗯，我只能宽容点。
+Kǎ'ěr xiānsheng: Eng, wǒ zhǐnéng kuānróng diǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>72505</StartMilliseconds>
+    <EndMilliseconds>73608</EndMilliseconds>
+    <Text>卡尔先生：[@嗯@]，我只能宽容点。
+Kǎ'ěr xiānsheng: [@Eng@], wǒ zhǐnéng kuānróng diǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>73617</StartMilliseconds>
+    <EndMilliseconds>73922</EndMilliseconds>
+    <Text>卡尔先生：嗯，[@我@]只能宽容点。
+Kǎ'ěr xiānsheng: Eng, [@wǒ@] zhǐnéng kuānróng diǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>73922</StartMilliseconds>
+    <EndMilliseconds>74433</EndMilliseconds>
+    <Text>卡尔先生：嗯，我[@只能@]宽容点。
+Kǎ'ěr xiānsheng: Eng, wǒ [@zhǐnéng@] kuānróng diǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>74433</StartMilliseconds>
+    <EndMilliseconds>74895</EndMilliseconds>
+    <Text>卡尔先生：嗯，我只能[@宽容@]点。
+Kǎ'ěr xiānsheng: Eng, wǒ zhǐnéng [@kuānróng@] diǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>74895</StartMilliseconds>
+    <EndMilliseconds>75245</EndMilliseconds>
+    <Text>卡尔先生：嗯，我只能宽容[@点@]。
+Kǎ'ěr xiānsheng: Eng, wǒ zhǐnéng kuānróng [@diǎn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>75246</StartMilliseconds>
+    <EndMilliseconds>76249</EndMilliseconds>
+    <Text>卡尔先生：嗯，我只能宽容点。
+Kǎ'ěr xiānsheng: Eng, wǒ zhǐnéng kuānróng diǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>76249</StartMilliseconds>
+    <EndMilliseconds>76944</EndMilliseconds>
+    <Text>爸爸：您是什么意思？
+bàba: Nín shì shénme yìsi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>76943</StartMilliseconds>
+    <EndMilliseconds>77126</EndMilliseconds>
+    <Text>爸爸：[@您@]是什么意思？
+bàba: [@Nín@] shì shénme yìsi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>77126</StartMilliseconds>
+    <EndMilliseconds>77350</EndMilliseconds>
+    <Text>爸爸：您[@是@]什么意思？
+bàba: Nín [@shì@] shénme yìsi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>77351</StartMilliseconds>
+    <EndMilliseconds>77594</EndMilliseconds>
+    <Text>爸爸：您是[@什么@]意思？
+bàba: Nín shì [@shénme@] yìsi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>77594</StartMilliseconds>
+    <EndMilliseconds>78204</EndMilliseconds>
+    <Text>爸爸：您是什么[@意思@]？
+bàba: Nín shì shénme [@yìsi@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>78204</StartMilliseconds>
+    <EndMilliseconds>78473</EndMilliseconds>
+    <Text>爸爸：您是什么意思？
+bàba: Nín shì shénme yìsi?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>78473</StartMilliseconds>
+    <EndMilliseconds>79099</EndMilliseconds>
+    <Text>卡尔先生：很多人家里都养狗。
+Kǎ'ěr xiānsheng: Hěn duō rén jiā li dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>79099</StartMilliseconds>
+    <EndMilliseconds>79255</EndMilliseconds>
+    <Text>卡尔先生：[@很@]多人家里都养狗。
+Kǎ'ěr xiānsheng: [@Hěn@] duō rén jiā li dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>79255</StartMilliseconds>
+    <EndMilliseconds>79451</EndMilliseconds>
+    <Text>卡尔先生：很[@多@]人家里都养狗。
+Kǎ'ěr xiānsheng: Hěn [@duō@] rén jiā li dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>79451</StartMilliseconds>
+    <EndMilliseconds>79662</EndMilliseconds>
+    <Text>卡尔先生：很多[@人@]家里都养狗。
+Kǎ'ěr xiānsheng: Hěn duō [@rén@] jiā li dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>79662</StartMilliseconds>
+    <EndMilliseconds>79801</EndMilliseconds>
+    <Text>卡尔先生：很多人[@家@]里都养狗。
+Kǎ'ěr xiānsheng: Hěn duō rén [@jiā@] li dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>79801</StartMilliseconds>
+    <EndMilliseconds>80350</EndMilliseconds>
+    <Text>卡尔先生：很多人家[@里@]都养狗。
+Kǎ'ěr xiānsheng: Hěn duō rén jiā [@li@] dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>80350</StartMilliseconds>
+    <EndMilliseconds>80551</EndMilliseconds>
+    <Text>卡尔先生：很多人家里[@都@]养狗。
+Kǎ'ěr xiānsheng: Hěn duō rén jiā li [@dōu@] yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>80551</StartMilliseconds>
+    <EndMilliseconds>80828</EndMilliseconds>
+    <Text>卡尔先生：很多人家里都[@养@]狗。
+Kǎ'ěr xiānsheng: Hěn duō rén jiā li dōu [@yǎng@] gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>80828</StartMilliseconds>
+    <EndMilliseconds>81185</EndMilliseconds>
+    <Text>卡尔先生：很多人家里都养[@狗@]。
+Kǎ'ěr xiānsheng: Hěn duō rén jiā li dōu yǎng [@gǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>81186</StartMilliseconds>
+    <EndMilliseconds>83101</EndMilliseconds>
+    <Text>卡尔先生：很多人家里都养狗。
+Kǎ'ěr xiānsheng: Hěn duō rén jiā li dōu yǎng gǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>83101</StartMilliseconds>
+    <EndMilliseconds>84320</EndMilliseconds>
+    <Text>山姆：那些狗都冲着您叫吗？
+Shānmǔ: Nàxiē gǒu dōu chòngzhe nín jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>84320</StartMilliseconds>
+    <EndMilliseconds>84936</EndMilliseconds>
+    <Text>山姆：[@那些@]狗都冲着您叫吗？
+Shānmǔ: [@Nàxiē@] gǒu dōu chòngzhe nín jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>84940</StartMilliseconds>
+    <EndMilliseconds>85513</EndMilliseconds>
+    <Text>山姆：那些[@狗@]都冲着您叫吗？
+Shānmǔ: Nàxiē [@gǒu@] dōu chòngzhe nín jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>85513</StartMilliseconds>
+    <EndMilliseconds>85850</EndMilliseconds>
+    <Text>山姆：那些狗[@都@]冲着您叫吗？
+Shānmǔ: Nàxiē gǒu [@dōu@] chòngzhe nín jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>85851</StartMilliseconds>
+    <EndMilliseconds>86151</EndMilliseconds>
+    <Text>山姆：那些狗都[@冲着@]您叫吗？
+Shānmǔ: Nàxiē gǒu dōu [@chòngzhe@] nín jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>86151</StartMilliseconds>
+    <EndMilliseconds>86403</EndMilliseconds>
+    <Text>山姆：那些狗都冲着[@您@]叫吗？
+Shānmǔ: Nàxiē gǒu dōu chòngzhe [@nín@] jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>86403</StartMilliseconds>
+    <EndMilliseconds>86807</EndMilliseconds>
+    <Text>山姆：那些狗都冲着您[@叫@]吗？
+Shānmǔ: Nàxiē gǒu dōu chòngzhe nín [@jiào@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>86807</StartMilliseconds>
+    <EndMilliseconds>87404</EndMilliseconds>
+    <Text>山姆：那些狗都冲着您叫[@吗@]？
+Shānmǔ: Nàxiē gǒu dōu chòngzhe nín jiào [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>87404</StartMilliseconds>
+    <EndMilliseconds>88102</EndMilliseconds>
+    <Text>山姆：那些狗都冲着您叫吗？
+Shānmǔ: Nàxiē gǒu dōu chòngzhe nín jiào ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>88102</StartMilliseconds>
+    <EndMilliseconds>88559</EndMilliseconds>
+    <Text>卡尔先生：没错。它们都冲我叫。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen dōu chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>88559</StartMilliseconds>
+    <EndMilliseconds>88857</EndMilliseconds>
+    <Text>卡尔先生：[@没@]错。它们都冲我叫。
+Kǎ'ěr xiānsheng: [@Méi@] cuò. Tāmen dōu chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>88857</StartMilliseconds>
+    <EndMilliseconds>89359</EndMilliseconds>
+    <Text>卡尔先生：没[@错@]。它们都冲我叫。
+Kǎ'ěr xiānsheng: Méi [@cuò@]. Tāmen dōu chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>89360</StartMilliseconds>
+    <EndMilliseconds>91114</EndMilliseconds>
+    <Text>卡尔先生：没错。它们都冲我叫。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen dōu chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>91114</StartMilliseconds>
+    <EndMilliseconds>91938</EndMilliseconds>
+    <Text>卡尔先生：没错。[@它们@]都冲我叫。
+Kǎ'ěr xiānsheng: Méi cuò. [@Tāmen@] dōu chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>91938</StartMilliseconds>
+    <EndMilliseconds>92185</EndMilliseconds>
+    <Text>卡尔先生：没错。它们[@都@]冲我叫。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen [@dōu@] chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>92185</StartMilliseconds>
+    <EndMilliseconds>92484</EndMilliseconds>
+    <Text>卡尔先生：没错。它们都[@冲@]我叫。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen dōu [@chòng@] wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>92484</StartMilliseconds>
+    <EndMilliseconds>92753</EndMilliseconds>
+    <Text>卡尔先生：没错。它们都冲[@我@]叫。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen dōu chòng [@wǒ@] jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>92756</StartMilliseconds>
+    <EndMilliseconds>93235</EndMilliseconds>
+    <Text>卡尔先生：没错。它们都冲我[@叫@]。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen dōu chòng wǒ [@jiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>93235</StartMilliseconds>
+    <EndMilliseconds>96735</EndMilliseconds>
+    <Text>卡尔先生：没错。它们都冲我叫。
+Kǎ'ěr xiānsheng: Méi cuò. Tāmen dōu chòng wǒ jiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>96735</StartMilliseconds>
+    <EndMilliseconds>98151</EndMilliseconds>
+    <Text>山姆：所以不只是幸运会这样，对吧？
+Shānmǔ: Suǒyǐ bù zhǐ shì Xìngyùn huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>98151</StartMilliseconds>
+    <EndMilliseconds>99051</EndMilliseconds>
+    <Text>山姆：[@所以@]不只是幸运会这样，对吧？
+Shānmǔ: [@Suǒyǐ@] bù zhǐ shì Xìngyùn huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>99051</StartMilliseconds>
+    <EndMilliseconds>99222</EndMilliseconds>
+    <Text>山姆：所以[@不@]只是幸运会这样，对吧？
+Shānmǔ: Suǒyǐ [@bù@] zhǐ shì Xìngyùn huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>99229</StartMilliseconds>
+    <EndMilliseconds>99436</EndMilliseconds>
+    <Text>山姆：所以不[@只@]是幸运会这样，对吧？
+Shānmǔ: Suǒyǐ bù [@zhǐ@] shì Xìngyùn huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>99436</StartMilliseconds>
+    <EndMilliseconds>99702</EndMilliseconds>
+    <Text>山姆：所以不只[@是@]幸运会这样，对吧？
+Shānmǔ: Suǒyǐ bù zhǐ [@shì@] Xìngyùn huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>99702</StartMilliseconds>
+    <EndMilliseconds>100258</EndMilliseconds>
+    <Text>山姆：所以不只是[@幸运@]会这样，对吧？
+Shānmǔ: Suǒyǐ bù zhǐ shì [@Xìngyùn@] huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>100258</StartMilliseconds>
+    <EndMilliseconds>100481</EndMilliseconds>
+    <Text>山姆：所以不只是幸运[@会@]这样，对吧？
+Shānmǔ: Suǒyǐ bù zhǐ shì Xìngyùn [@huì@] zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>100481</StartMilliseconds>
+    <EndMilliseconds>101238</EndMilliseconds>
+    <Text>山姆：所以不只是幸运会[@这样@]，对吧？
+Shānmǔ: Suǒyǐ bù zhǐ shì Xìngyùn huì [@zhèyàng@], duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>101238</StartMilliseconds>
+    <EndMilliseconds>101556</EndMilliseconds>
+    <Text>山姆：所以不只是幸运会这样，[@对@]吧？
+Shānmǔ: Suǒyǐ bù zhǐ shì Xìngyùn huì zhèyàng, [@duì@] ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>101556</StartMilliseconds>
+    <EndMilliseconds>101877</EndMilliseconds>
+    <Text>山姆：所以不只是幸运会这样，对[@吧@]？
+Shānmǔ: Suǒyǐ bù zhǐ shì Xìngyùn huì zhèyàng, duì [@ba@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>101877</StartMilliseconds>
+    <EndMilliseconds>103927</EndMilliseconds>
+    <Text>山姆：所以不只是幸运会这样，对吧？
+Shānmǔ: Suǒyǐ bù zhǐ shì Xìngyùn huì zhèyàng, duì ba?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>103927</StartMilliseconds>
+    <EndMilliseconds>105540</EndMilliseconds>
+    <Text>卡尔先生：对，不只是幸运。
+Kǎ'ěr xiānsheng: Duì, bù zhǐ shì Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>105540</StartMilliseconds>
+    <EndMilliseconds>106421</EndMilliseconds>
+    <Text>卡尔先生：[@对@]，不只是幸运。
+Kǎ'ěr xiānsheng: [@Duì@], bù zhǐ shì Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>106421</StartMilliseconds>
+    <EndMilliseconds>106641</EndMilliseconds>
+    <Text>卡尔先生：对，[@不@]只是幸运。
+Kǎ'ěr xiānsheng: Duì, [@bù@] zhǐ shì Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>106641</StartMilliseconds>
+    <EndMilliseconds>106885</EndMilliseconds>
+    <Text>卡尔先生：对，不[@只@]是幸运。
+Kǎ'ěr xiānsheng: Duì, bù [@zhǐ@] shì Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>106889</StartMilliseconds>
+    <EndMilliseconds>107150</EndMilliseconds>
+    <Text>卡尔先生：对，不只[@是@]幸运。
+Kǎ'ěr xiānsheng: Duì, bù zhǐ [@shì@] Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>107150</StartMilliseconds>
+    <EndMilliseconds>107636</EndMilliseconds>
+    <Text>卡尔先生：对，不只是[@幸运@]。
+Kǎ'ěr xiānsheng: Duì, bù zhǐ shì [@Xìngyùn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>107636</StartMilliseconds>
+    <EndMilliseconds>107976</EndMilliseconds>
+    <Text>卡尔先生：对，不只是幸运。
+Kǎ'ěr xiānsheng: Duì, bù zhǐ shì Xìngyùn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>107976</StartMilliseconds>
+    <EndMilliseconds>113706</EndMilliseconds>
+    <Text>卡尔先生：但是它的声音更大！
+Kǎ'ěr xiānsheng: Dànshì tā de shēngyīn gèng dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>113706</StartMilliseconds>
+    <EndMilliseconds>114613</EndMilliseconds>
+    <Text>卡尔先生：[@但是@]它的声音更大！
+Kǎ'ěr xiānsheng: [@Dànshì@] tā de shēngyīn gèng dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>114613</StartMilliseconds>
+    <EndMilliseconds>114837</EndMilliseconds>
+    <Text>卡尔先生：但是[@它@]的声音更大！
+Kǎ'ěr xiānsheng: Dànshì [@tā@] de shēngyīn gèng dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>114837</StartMilliseconds>
+    <EndMilliseconds>115066</EndMilliseconds>
+    <Text>卡尔先生：但是它[@的@]声音更大！
+Kǎ'ěr xiānsheng: Dànshì tā [@de@] shēngyīn gèng dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>115066</StartMilliseconds>
+    <EndMilliseconds>115470</EndMilliseconds>
+    <Text>卡尔先生：但是它的[@声音@]更大！
+Kǎ'ěr xiānsheng: Dànshì tā de [@shēngyīn@] gèng dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>115471</StartMilliseconds>
+    <EndMilliseconds>115720</EndMilliseconds>
+    <Text>卡尔先生：但是它的声音[@更@]大！
+Kǎ'ěr xiānsheng: Dànshì tā de shēngyīn [@gèng@] dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>115720</StartMilliseconds>
+    <EndMilliseconds>116035</EndMilliseconds>
+    <Text>卡尔先生：但是它的声音更[@大@]！
+Kǎ'ěr xiānsheng: Dànshì tā de shēngyīn gèng [@dà@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>116035</StartMilliseconds>
+    <EndMilliseconds>117724</EndMilliseconds>
+    <Text>卡尔先生：但是它的声音更大！
+Kǎ'ěr xiānsheng: Dànshì tā de shēngyīn gèng dà!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>117724</StartMilliseconds>
+    <EndMilliseconds>118286</EndMilliseconds>
+    <Text>爸爸：对，幸运的声音很大。
+bàba: Duì,Xìngyùn de shēngyīn hěn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>118286</StartMilliseconds>
+    <EndMilliseconds>118866</EndMilliseconds>
+    <Text>爸爸：[@对@]，幸运的声音很大。
+bàba: [@Duì@],Xìngyùn de shēngyīn hěn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>118863</StartMilliseconds>
+    <EndMilliseconds>119322</EndMilliseconds>
+    <Text>爸爸：对，[@幸运@]的声音很大。
+bàba: Duì,[@Xìngyùn@] de shēngyīn hěn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>119323</StartMilliseconds>
+    <EndMilliseconds>119534</EndMilliseconds>
+    <Text>爸爸：对，幸运[@的@]声音很大。
+bàba: Duì,Xìngyùn [@de@] shēngyīn hěn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>119534</StartMilliseconds>
+    <EndMilliseconds>119867</EndMilliseconds>
+    <Text>爸爸：对，幸运的[@声音@]很大。
+bàba: Duì,Xìngyùn de [@shēngyīn@] hěn dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>119867</StartMilliseconds>
+    <EndMilliseconds>120131</EndMilliseconds>
+    <Text>爸爸：对，幸运的声音[@很@]大。
+bàba: Duì,Xìngyùn de shēngyīn [@hěn@] dà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>120132</StartMilliseconds>
+    <EndMilliseconds>121418</EndMilliseconds>
+    <Text>爸爸：对，幸运的声音很[@大@]。
+bàba: Duì,Xìngyùn de shēngyīn hěn [@dà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>121418</StartMilliseconds>
+    <EndMilliseconds>123918</EndMilliseconds>
+    <Text>爸爸：对，幸运的声音很大。
+bàba: Duì,Xìngyùn de shēngyīn hěn dà.</Text>
+  </Paragraph>
+</Subtitle>

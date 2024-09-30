@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>13056</StartMilliseconds>
+    <EndMilliseconds>25682</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng názhù zhè gēn mùgùn ma?
+浣熊：你能拿住这根木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>25683</StartMilliseconds>
+    <EndMilliseconds>25943</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] néng názhù zhè gēn mùgùn ma?
+浣熊：[@你@]能拿住这根木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>25944</StartMilliseconds>
+    <EndMilliseconds>26747</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@néng@] názhù zhè gēn mùgùn ma?
+浣熊：你[@能@]拿住这根木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>26748</StartMilliseconds>
+    <EndMilliseconds>27906</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng [@názhù@] zhè gēn mùgùn ma?
+浣熊：你能[@拿住@]这根木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>27907</StartMilliseconds>
+    <EndMilliseconds>28243</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng názhù [@zhè@] gēn mùgùn ma?
+浣熊：你能拿住[@这@]根木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>28244</StartMilliseconds>
+    <EndMilliseconds>28474</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng názhù zhè [@gēn@] mùgùn ma?
+浣熊：你能拿住这[@根@]木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>28475</StartMilliseconds>
+    <EndMilliseconds>29276</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng názhù zhè gēn [@mùgùn@] ma?
+浣熊：你能拿住这根[@木棍@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>29277</StartMilliseconds>
+    <EndMilliseconds>30007</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng názhù zhè gēn mùgùn [@ma@]?
+浣熊：你能拿住这根木棍[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>30008</StartMilliseconds>
+    <EndMilliseconds>31203</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng názhù zhè gēn mùgùn ma?
+浣熊：你能拿住这根木棍吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>31204</StartMilliseconds>
+    <EndMilliseconds>36791</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng názhù zhè gēn mùgùn.
+松鼠：嗯，我能拿住这根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>36792</StartMilliseconds>
+    <EndMilliseconds>38069</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ néng názhù zhè gēn mùgùn.
+松鼠：[@嗯@]，我能拿住这根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>38070</StartMilliseconds>
+    <EndMilliseconds>38471</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] néng názhù zhè gēn mùgùn.
+松鼠：嗯，[@我@]能拿住这根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>38472</StartMilliseconds>
+    <EndMilliseconds>38819</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@néng@] názhù zhè gēn mùgùn.
+松鼠：嗯，我[@能@]拿住这根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>38820</StartMilliseconds>
+    <EndMilliseconds>39846</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng [@názhù@] zhè gēn mùgùn.
+松鼠：嗯，我能[@拿住@]这根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>39847</StartMilliseconds>
+    <EndMilliseconds>40128</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng názhù [@zhè@] gēn mùgùn.
+松鼠：嗯，我能拿住[@这@]根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>40129</StartMilliseconds>
+    <EndMilliseconds>40441</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng názhù zhè [@gēn@] mùgùn.
+松鼠：嗯，我能拿住这[@根@]木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>40442</StartMilliseconds>
+    <EndMilliseconds>41433</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng názhù zhè gēn [@mùgùn@].
+松鼠：嗯，我能拿住这根[@木棍@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>41434</StartMilliseconds>
+    <EndMilliseconds>46891</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng názhù zhè gēn mùgùn.
+松鼠：嗯，我能拿住这根木棍。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>46892</StartMilliseconds>
+    <EndMilliseconds>47352</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě néng názhù tā.
+青蛙：我也能拿住它。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>47353</StartMilliseconds>
+    <EndMilliseconds>47757</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] yě néng názhù tā.
+青蛙：[@我@]也能拿住它。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>47758</StartMilliseconds>
+    <EndMilliseconds>48156</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@yě@] néng názhù tā.
+青蛙：我[@也@]能拿住它。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>48157</StartMilliseconds>
+    <EndMilliseconds>48639</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě [@néng@] názhù tā.
+青蛙：我也[@能@]拿住它。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>48640</StartMilliseconds>
+    <EndMilliseconds>49537</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě néng [@názhù@] tā.
+青蛙：我也能[@拿住@]它。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>49538</StartMilliseconds>
+    <EndMilliseconds>50201</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě néng názhù [@tā@].
+青蛙：我也能拿住[@它@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>50202</StartMilliseconds>
+    <EndMilliseconds>61382</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě néng názhù tā.
+青蛙：我也能拿住它。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>61383</StartMilliseconds>
+    <EndMilliseconds>70456</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài shítou ma?
+浣熊：你能拿起这块石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>70457</StartMilliseconds>
+    <EndMilliseconds>70873</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] néng náqǐ zhè kuài shítou ma?
+浣熊：[@你@]能拿起这块石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>70874</StartMilliseconds>
+    <EndMilliseconds>71778</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@néng@] náqǐ zhè kuài shítou ma?
+浣熊：你[@能@]拿起这块石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>71779</StartMilliseconds>
+    <EndMilliseconds>73165</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng [@náqǐ@] zhè kuài shítou ma?
+浣熊：你能[@拿起@]这块石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>73166</StartMilliseconds>
+    <EndMilliseconds>73515</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ [@zhè@] kuài shítou ma?
+浣熊：你能拿起[@这@]块石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>73516</StartMilliseconds>
+    <EndMilliseconds>73827</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè [@kuài@] shítou ma?
+浣熊：你能拿起这[@块@]石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>73828</StartMilliseconds>
+    <EndMilliseconds>74745</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài [@shítou@] ma?
+浣熊：你能拿起这块[@石头@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>74746</StartMilliseconds>
+    <EndMilliseconds>75415</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài shítou [@ma@]?
+浣熊：你能拿起这块石头[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>75416</StartMilliseconds>
+    <EndMilliseconds>81708</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài shítou ma?
+浣熊：你能拿起这块石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>81709</StartMilliseconds>
+    <EndMilliseconds>82284</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng náqǐ zhè kuài shítou.
+松鼠：嗯，我能拿起这块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>82285</StartMilliseconds>
+    <EndMilliseconds>83550</EndMilliseconds>
+    <Text>sōngshǔ: [@Èng@], wǒ néng náqǐ zhè kuài shítou.
+松鼠：[@嗯@]，我能拿起这块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>83551</StartMilliseconds>
+    <EndMilliseconds>83934</EndMilliseconds>
+    <Text>sōngshǔ: Èng, [@wǒ@] néng náqǐ zhè kuài shítou.
+松鼠：嗯，[@我@]能拿起这块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>83935</StartMilliseconds>
+    <EndMilliseconds>84332</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ [@néng@] náqǐ zhè kuài shítou.
+松鼠：嗯，我[@能@]拿起这块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>84333</StartMilliseconds>
+    <EndMilliseconds>85363</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng [@náqǐ@] zhè kuài shítou.
+松鼠：嗯，我能[@拿起@]这块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>85364</StartMilliseconds>
+    <EndMilliseconds>85630</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng náqǐ [@zhè@] kuài shítou.
+松鼠：嗯，我能拿起[@这@]块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>85631</StartMilliseconds>
+    <EndMilliseconds>85959</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng náqǐ zhè [@kuài@] shítou.
+松鼠：嗯，我能拿起这[@块@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>85960</StartMilliseconds>
+    <EndMilliseconds>86977</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng náqǐ zhè kuài [@shítou@].
+松鼠：嗯，我能拿起这块[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>86978</StartMilliseconds>
+    <EndMilliseconds>108061</EndMilliseconds>
+    <Text>sōngshǔ: Èng, wǒ néng náqǐ zhè kuài shítou.
+松鼠：嗯，我能拿起这块石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>108062</StartMilliseconds>
+    <EndMilliseconds>109009</EndMilliseconds>
+    <Text>qīngwā: Wǒ ná bu qǐlai.
+青蛙：我拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>109010</StartMilliseconds>
+    <EndMilliseconds>109626</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] ná bu qǐlai.
+青蛙：[@我@]拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>109627</StartMilliseconds>
+    <EndMilliseconds>110007</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@ná@] bu qǐlai.
+青蛙：我[@拿@]不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>110008</StartMilliseconds>
+    <EndMilliseconds>110215</EndMilliseconds>
+    <Text>qīngwā: Wǒ ná [@bu@] qǐlai.
+青蛙：我拿[@不@]起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>110216</StartMilliseconds>
+    <EndMilliseconds>111432</EndMilliseconds>
+    <Text>qīngwā: Wǒ ná bu [@qǐlai@].
+青蛙：我拿不[@起来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>111433</StartMilliseconds>
+    <EndMilliseconds>120095</EndMilliseconds>
+    <Text>qīngwā: Wǒ ná bu qǐlai.
+青蛙：我拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>120096</StartMilliseconds>
+    <EndMilliseconds>135893</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài dà shítou ma?
+浣熊：你能拿起这块大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>135894</StartMilliseconds>
+    <EndMilliseconds>136424</EndMilliseconds>
+    <Text>huànxióng: [@Nǐ@] néng náqǐ zhè kuài dà shítou ma?
+浣熊：[@你@]能拿起这块大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>136425</StartMilliseconds>
+    <EndMilliseconds>137344</EndMilliseconds>
+    <Text>huànxióng: Nǐ [@néng@] náqǐ zhè kuài dà shítou ma?
+浣熊：你[@能@]拿起这块大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>137345</StartMilliseconds>
+    <EndMilliseconds>138141</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng [@náqǐ@] zhè kuài dà shítou ma?
+浣熊：你能[@拿起@]这块大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>138142</StartMilliseconds>
+    <EndMilliseconds>138518</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ [@zhè@] kuài dà shítou ma?
+浣熊：你能拿起[@这@]块大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>138519</StartMilliseconds>
+    <EndMilliseconds>139325</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè [@kuài@] dà shítou ma?
+浣熊：你能拿起这[@块@]大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>139326</StartMilliseconds>
+    <EndMilliseconds>139959</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài [@dà@] shítou ma?
+浣熊：你能拿起这块[@大@]石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>139960</StartMilliseconds>
+    <EndMilliseconds>140683</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài dà [@shítou@] ma?
+浣熊：你能拿起这块大[@石头@]吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>140684</StartMilliseconds>
+    <EndMilliseconds>141370</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài dà shítou [@ma@]?
+浣熊：你能拿起这块大石头[@吗@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>141371</StartMilliseconds>
+    <EndMilliseconds>142978</EndMilliseconds>
+    <Text>huànxióng: Nǐ néng náqǐ zhè kuài dà shítou ma?
+浣熊：你能拿起这块大石头吗？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>142979</StartMilliseconds>
+    <EndMilliseconds>154962</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ ná bu qǐlai.
+松鼠：我拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>154963</StartMilliseconds>
+    <EndMilliseconds>155850</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] ná bu qǐlai.
+松鼠：[@我@]拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>155851</StartMilliseconds>
+    <EndMilliseconds>156385</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@ná@] bu qǐlai.
+松鼠：我[@拿@]不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>156386</StartMilliseconds>
+    <EndMilliseconds>156608</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ ná [@bu@] qǐlai.
+松鼠：我拿[@不@]起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>156609</StartMilliseconds>
+    <EndMilliseconds>157827</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ ná bu [@qǐlai@].
+松鼠：我拿不[@起来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>157828</StartMilliseconds>
+    <EndMilliseconds>164881</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ ná bu qǐlai.
+松鼠：我拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>164882</StartMilliseconds>
+    <EndMilliseconds>166409</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě ná bu qǐlai.
+青蛙：我也拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>166410</StartMilliseconds>
+    <EndMilliseconds>167023</EndMilliseconds>
+    <Text>qīngwā: [@Wǒ@] yě ná bu qǐlai.
+青蛙：[@我@]也拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>167024</StartMilliseconds>
+    <EndMilliseconds>167577</EndMilliseconds>
+    <Text>qīngwā: Wǒ [@yě@] ná bu qǐlai.
+青蛙：我[@也@]拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>167578</StartMilliseconds>
+    <EndMilliseconds>168165</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě [@ná@] bu qǐlai.
+青蛙：我也[@拿@]不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>168166</StartMilliseconds>
+    <EndMilliseconds>168545</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě ná [@bu@] qǐlai.
+青蛙：我也拿[@不@]起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>168546</StartMilliseconds>
+    <EndMilliseconds>169618</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě ná bu [@qǐlai@].
+青蛙：我也拿不[@起来@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>169619</StartMilliseconds>
+    <EndMilliseconds>172904</EndMilliseconds>
+    <Text>qīngwā: Wǒ yě ná bu qǐlai.
+青蛙：我也拿不起来。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>172905</StartMilliseconds>
+    <EndMilliseconds>173942</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng náqǐ zhè kuài dà shítou!
+浣熊：只有我能拿起这块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>173943</StartMilliseconds>
+    <EndMilliseconds>174780</EndMilliseconds>
+    <Text>huànxióng: [@Zhǐyǒu@] wǒ néng náqǐ zhè kuài dà shítou!
+浣熊：[@只有@]我能拿起这块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>174781</StartMilliseconds>
+    <EndMilliseconds>175386</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu [@wǒ@] néng náqǐ zhè kuài dà shítou!
+浣熊：只有[@我@]能拿起这块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>175387</StartMilliseconds>
+    <EndMilliseconds>176437</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ [@néng@] náqǐ zhè kuài dà shítou!
+浣熊：只有我[@能@]拿起这块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>176438</StartMilliseconds>
+    <EndMilliseconds>177319</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng [@náqǐ@] zhè kuài dà shítou!
+浣熊：只有我能[@拿起@]这块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>177320</StartMilliseconds>
+    <EndMilliseconds>177677</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng náqǐ [@zhè@] kuài dà shítou!
+浣熊：只有我能拿起[@这@]块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>177678</StartMilliseconds>
+    <EndMilliseconds>178277</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng náqǐ zhè [@kuài@] dà shítou!
+浣熊：只有我能拿起这[@块@]大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>178278</StartMilliseconds>
+    <EndMilliseconds>178879</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng náqǐ zhè kuài [@dà@] shítou!
+浣熊：只有我能拿起这块[@大@]石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>178880</StartMilliseconds>
+    <EndMilliseconds>180179</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng náqǐ zhè kuài dà [@shítou@]!
+浣熊：只有我能拿起这块大[@石头@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>180180</StartMilliseconds>
+    <EndMilliseconds>181554</EndMilliseconds>
+    <Text>huànxióng: Zhǐyǒu wǒ néng náqǐ zhè kuài dà shítou!
+浣熊：只有我能拿起这块大石头！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>181555</StartMilliseconds>
+    <EndMilliseconds>181982</EndMilliseconds>
+    <Text>huànxióng: Wǒ fēicháng qiángzhuàng.
+浣熊：我非常强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>181983</StartMilliseconds>
+    <EndMilliseconds>182949</EndMilliseconds>
+    <Text>huànxióng: [@Wǒ@] fēicháng qiángzhuàng.
+浣熊：[@我@]非常强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>182950</StartMilliseconds>
+    <EndMilliseconds>183918</EndMilliseconds>
+    <Text>huànxióng: Wǒ [@fēicháng@] qiángzhuàng.
+浣熊：我[@非常@]强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>183919</StartMilliseconds>
+    <EndMilliseconds>185050</EndMilliseconds>
+    <Text>huànxióng: Wǒ fēicháng [@qiángzhuàng@].
+浣熊：我非常[@强壮@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>185051</StartMilliseconds>
+    <EndMilliseconds>190697</EndMilliseconds>
+    <Text>huànxióng: Wǒ fēicháng qiángzhuàng.
+浣熊：我非常强壮。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>190698</StartMilliseconds>
+    <EndMilliseconds>191346</EndMilliseconds>
+    <Text>xióng: Èng hēng.
+熊：嗯哼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>191347</StartMilliseconds>
+    <EndMilliseconds>191571</EndMilliseconds>
+    <Text>xióng: [@Èng@] hēng.
+熊：[@嗯@]哼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>191572</StartMilliseconds>
+    <EndMilliseconds>191869</EndMilliseconds>
+    <Text>xióng: Èng [@hēng@].
+熊：嗯[@哼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>191870</StartMilliseconds>
+    <EndMilliseconds>192168</EndMilliseconds>
+    <Text>xióng: [@Èng@] hēng.
+熊：[@嗯@]哼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>192169</StartMilliseconds>
+    <EndMilliseconds>192705</EndMilliseconds>
+    <Text>xióng: Èng [@hēng@].
+熊：嗯[@哼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>192706</StartMilliseconds>
+    <EndMilliseconds>195528</EndMilliseconds>
+    <Text>xióng: Èng hēng.
+熊：嗯哼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>195529</StartMilliseconds>
+    <EndMilliseconds>195926</EndMilliseconds>
+    <Text>xióng: Kànkan wǒ néng náqǐ shénme!
+熊：看看我能拿起什么！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>195927</StartMilliseconds>
+    <EndMilliseconds>196691</EndMilliseconds>
+    <Text>xióng: [@Kànkan@] wǒ néng náqǐ shénme!
+熊：[@看看@]我能拿起什么！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>196692</StartMilliseconds>
+    <EndMilliseconds>197593</EndMilliseconds>
+    <Text>xióng: Kànkan [@wǒ@] néng náqǐ shénme!
+熊：看看[@我@]能拿起什么！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>197594</StartMilliseconds>
+    <EndMilliseconds>198260</EndMilliseconds>
+    <Text>xióng: Kànkan wǒ [@néng@] náqǐ shénme!
+熊：看看我[@能@]拿起什么！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>198261</StartMilliseconds>
+    <EndMilliseconds>199283</EndMilliseconds>
+    <Text>xióng: Kànkan wǒ néng [@náqǐ@] shénme!
+熊：看看我能[@拿起@]什么！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>199284</StartMilliseconds>
+    <EndMilliseconds>200586</EndMilliseconds>
+    <Text>xióng: Kànkan wǒ néng náqǐ [@shénme@]!
+熊：看看我能拿起[@什么@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>200587</StartMilliseconds>
+    <EndMilliseconds>206103</EndMilliseconds>
+    <Text>xióng: Kànkan wǒ néng náqǐ shénme!
+熊：看看我能拿起什么！</Text>
+  </Paragraph>
+</Subtitle>

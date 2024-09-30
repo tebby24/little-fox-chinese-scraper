@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6671</StartMilliseconds>
+    <EndMilliseconds>13126</EndMilliseconds>
+    <Text>Wǒ yào kāi xiǎoqìchē qù.
+我要开小汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13127</StartMilliseconds>
+    <EndMilliseconds>13376</EndMilliseconds>
+    <Text>[@Wǒ@] yào kāi xiǎoqìchē qù.
+[@我@]要开小汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13377</StartMilliseconds>
+    <EndMilliseconds>13889</EndMilliseconds>
+    <Text>Wǒ [@yào@] kāi xiǎoqìchē qù.
+我[@要@]开小汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13890</StartMilliseconds>
+    <EndMilliseconds>14330</EndMilliseconds>
+    <Text>Wǒ yào [@kāi@] xiǎoqìchē qù.
+我要[@开@]小汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14331</StartMilliseconds>
+    <EndMilliseconds>15659</EndMilliseconds>
+    <Text>Wǒ yào kāi [@xiǎoqìchē@] qù.
+我要开[@小汽车@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>15660</StartMilliseconds>
+    <EndMilliseconds>16049</EndMilliseconds>
+    <Text>Wǒ yào kāi xiǎoqìchē [@qù@].
+我要开小汽车[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>16050</StartMilliseconds>
+    <EndMilliseconds>21620</EndMilliseconds>
+    <Text>Wǒ yào kāi xiǎoqìchē qù.
+我要开小汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>21621</StartMilliseconds>
+    <EndMilliseconds>28792</EndMilliseconds>
+    <Text>Wǒ yào kāi qìchē qù.
+我要开汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>28793</StartMilliseconds>
+    <EndMilliseconds>29092</EndMilliseconds>
+    <Text>[@Wǒ@] yào kāi qìchē qù.
+[@我@]要开汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>29093</StartMilliseconds>
+    <EndMilliseconds>29645</EndMilliseconds>
+    <Text>Wǒ [@yào@] kāi qìchē qù.
+我[@要@]开汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>29646</StartMilliseconds>
+    <EndMilliseconds>30251</EndMilliseconds>
+    <Text>Wǒ yào [@kāi@] qìchē qù.
+我要[@开@]汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>30252</StartMilliseconds>
+    <EndMilliseconds>31172</EndMilliseconds>
+    <Text>Wǒ yào kāi [@qìchē@] qù.
+我要开[@汽车@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>31173</StartMilliseconds>
+    <EndMilliseconds>31490</EndMilliseconds>
+    <Text>Wǒ yào kāi qìchē [@qù@].
+我要开汽车[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>31491</StartMilliseconds>
+    <EndMilliseconds>40253</EndMilliseconds>
+    <Text>Wǒ yào kāi qìchē qù.
+我要开汽车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>40254</StartMilliseconds>
+    <EndMilliseconds>47023</EndMilliseconds>
+    <Text>Wǒ yào kāi kǎchē qù.
+我要开卡车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>47024</StartMilliseconds>
+    <EndMilliseconds>47455</EndMilliseconds>
+    <Text>[@Wǒ@] yào kāi kǎchē qù.
+[@我@]要开卡车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>47456</StartMilliseconds>
+    <EndMilliseconds>48045</EndMilliseconds>
+    <Text>Wǒ [@yào@] kāi kǎchē qù.
+我[@要@]开卡车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>48046</StartMilliseconds>
+    <EndMilliseconds>48542</EndMilliseconds>
+    <Text>Wǒ yào [@kāi@] kǎchē qù.
+我要[@开@]卡车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>48543</StartMilliseconds>
+    <EndMilliseconds>49573</EndMilliseconds>
+    <Text>Wǒ yào kāi [@kǎchē@] qù.
+我要开[@卡车@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>49574</StartMilliseconds>
+    <EndMilliseconds>49920</EndMilliseconds>
+    <Text>Wǒ yào kāi kǎchē [@qù@].
+我要开卡车[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>49921</StartMilliseconds>
+    <EndMilliseconds>58207</EndMilliseconds>
+    <Text>Wǒ yào kāi kǎchē qù.
+我要开卡车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>58208</StartMilliseconds>
+    <EndMilliseconds>64928</EndMilliseconds>
+    <Text>Wǒ yào kāi huǒchē qù.
+我要开火车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>64929</StartMilliseconds>
+    <EndMilliseconds>65315</EndMilliseconds>
+    <Text>[@Wǒ@] yào kāi huǒchē qù.
+[@我@]要开火车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>65316</StartMilliseconds>
+    <EndMilliseconds>66017</EndMilliseconds>
+    <Text>Wǒ [@yào@] kāi huǒchē qù.
+我[@要@]开火车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>66018</StartMilliseconds>
+    <EndMilliseconds>66598</EndMilliseconds>
+    <Text>Wǒ yào [@kāi@] huǒchē qù.
+我要[@开@]火车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>66599</StartMilliseconds>
+    <EndMilliseconds>67647</EndMilliseconds>
+    <Text>Wǒ yào kāi [@huǒchē@] qù.
+我要开[@火车@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>67648</StartMilliseconds>
+    <EndMilliseconds>67996</EndMilliseconds>
+    <Text>Wǒ yào kāi huǒchē [@qù@].
+我要开火车[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>67997</StartMilliseconds>
+    <EndMilliseconds>75689</EndMilliseconds>
+    <Text>Wǒ yào kāi huǒchē qù.
+我要开火车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>75690</StartMilliseconds>
+    <EndMilliseconds>82485</EndMilliseconds>
+    <Text>Wǒ yào huá huábǎn qù.
+我要滑滑板去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>82486</StartMilliseconds>
+    <EndMilliseconds>82833</EndMilliseconds>
+    <Text>[@Wǒ@] yào huá huábǎn qù.
+[@我@]要滑滑板去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>82834</StartMilliseconds>
+    <EndMilliseconds>83516</EndMilliseconds>
+    <Text>Wǒ [@yào@] huá huábǎn qù.
+我[@要@]滑滑板去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>83517</StartMilliseconds>
+    <EndMilliseconds>84030</EndMilliseconds>
+    <Text>Wǒ yào [@huá@] huábǎn qù.
+我要[@滑@]滑板去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>84031</StartMilliseconds>
+    <EndMilliseconds>84891</EndMilliseconds>
+    <Text>Wǒ yào huá [@huábǎn@] qù.
+我要滑[@滑板@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>84892</StartMilliseconds>
+    <EndMilliseconds>85362</EndMilliseconds>
+    <Text>Wǒ yào huá huábǎn [@qù@].
+我要滑滑板[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>85363</StartMilliseconds>
+    <EndMilliseconds>90934</EndMilliseconds>
+    <Text>Wǒ yào huá huábǎn qù.
+我要滑滑板去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>90935</StartMilliseconds>
+    <EndMilliseconds>96479</EndMilliseconds>
+    <Text>Wǒ yào qí mótuōchē qù.
+我要骑摩托车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>96480</StartMilliseconds>
+    <EndMilliseconds>96748</EndMilliseconds>
+    <Text>[@Wǒ@] yào qí mótuōchē qù.
+[@我@]要骑摩托车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>96749</StartMilliseconds>
+    <EndMilliseconds>97349</EndMilliseconds>
+    <Text>Wǒ [@yào@] qí mótuōchē qù.
+我[@要@]骑摩托车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>97350</StartMilliseconds>
+    <EndMilliseconds>97966</EndMilliseconds>
+    <Text>Wǒ yào [@qí@] mótuōchē qù.
+我要[@骑@]摩托车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>97967</StartMilliseconds>
+    <EndMilliseconds>99138</EndMilliseconds>
+    <Text>Wǒ yào qí [@mótuōchē@] qù.
+我要骑[@摩托车@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>99139</StartMilliseconds>
+    <EndMilliseconds>99552</EndMilliseconds>
+    <Text>Wǒ yào qí mótuōchē [@qù@].
+我要骑摩托车[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>99553</StartMilliseconds>
+    <EndMilliseconds>105548</EndMilliseconds>
+    <Text>Wǒ yào qí mótuōchē qù.
+我要骑摩托车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>105549</StartMilliseconds>
+    <EndMilliseconds>111985</EndMilliseconds>
+    <Text>Wǒ yào qí zìxíngchē qù.
+我要骑自行车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>111986</StartMilliseconds>
+    <EndMilliseconds>112263</EndMilliseconds>
+    <Text>[@Wǒ@] yào qí zìxíngchē qù.
+[@我@]要骑自行车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>112264</StartMilliseconds>
+    <EndMilliseconds>112813</EndMilliseconds>
+    <Text>Wǒ [@yào@] qí zìxíngchē qù.
+我[@要@]骑自行车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>112814</StartMilliseconds>
+    <EndMilliseconds>113418</EndMilliseconds>
+    <Text>Wǒ yào [@qí@] zìxíngchē qù.
+我要[@骑@]自行车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>113419</StartMilliseconds>
+    <EndMilliseconds>114639</EndMilliseconds>
+    <Text>Wǒ yào qí [@zìxíngchē@] qù.
+我要骑[@自行车@]去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>114640</StartMilliseconds>
+    <EndMilliseconds>115002</EndMilliseconds>
+    <Text>Wǒ yào qí zìxíngchē [@qù@].
+我要骑自行车[@去@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>115003</StartMilliseconds>
+    <EndMilliseconds>121389</EndMilliseconds>
+    <Text>Wǒ yào qí zìxíngchē qù.
+我要骑自行车去。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>121390</StartMilliseconds>
+    <EndMilliseconds>128026</EndMilliseconds>
+    <Text>Wǒ yào qí sàozhou qù!
+我要骑扫帚去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>128027</StartMilliseconds>
+    <EndMilliseconds>128401</EndMilliseconds>
+    <Text>[@Wǒ@] yào qí sàozhou qù!
+[@我@]要骑扫帚去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>128402</StartMilliseconds>
+    <EndMilliseconds>129109</EndMilliseconds>
+    <Text>Wǒ [@yào@] qí sàozhou qù!
+我[@要@]骑扫帚去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>129110</StartMilliseconds>
+    <EndMilliseconds>129715</EndMilliseconds>
+    <Text>Wǒ yào [@qí@] sàozhou qù!
+我要[@骑@]扫帚去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>129716</StartMilliseconds>
+    <EndMilliseconds>130538</EndMilliseconds>
+    <Text>Wǒ yào qí [@sàozhou@] qù!
+我要骑[@扫帚@]去！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>130539</StartMilliseconds>
+    <EndMilliseconds>130871</EndMilliseconds>
+    <Text>Wǒ yào qí sàozhou [@qù@]!
+我要骑扫帚[@去@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>130872</StartMilliseconds>
+    <EndMilliseconds>150423</EndMilliseconds>
+    <Text>Wǒ yào qí sàozhou qù!
+我要骑扫帚去！</Text>
+  </Paragraph>
+</Subtitle>

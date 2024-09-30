@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>12120</StartMilliseconds>
+    <EndMilliseconds>16615</EndMilliseconds>
+    <Text>灵果和小布在实验室里。
+Língguǒ hé Xiǎobù zài shíyànshì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>16615</StartMilliseconds>
+    <EndMilliseconds>17202</EndMilliseconds>
+    <Text>[@灵果@]和小布在实验室里。
+[@Língguǒ@] hé Xiǎobù zài shíyànshì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>17202</StartMilliseconds>
+    <EndMilliseconds>17355</EndMilliseconds>
+    <Text>灵果[@和@]小布在实验室里。
+Língguǒ [@hé@] Xiǎobù zài shíyànshì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>17355</StartMilliseconds>
+    <EndMilliseconds>17962</EndMilliseconds>
+    <Text>灵果和[@小布@]在实验室里。
+Língguǒ hé [@Xiǎobù@] zài shíyànshì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>17962</StartMilliseconds>
+    <EndMilliseconds>18137</EndMilliseconds>
+    <Text>灵果和小布[@在@]实验室里。
+Língguǒ hé Xiǎobù [@zài@] shíyànshì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>18137</StartMilliseconds>
+    <EndMilliseconds>18758</EndMilliseconds>
+    <Text>灵果和小布在[@实验室@]里。
+Língguǒ hé Xiǎobù zài [@shíyànshì@] li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>18758</StartMilliseconds>
+    <EndMilliseconds>19449</EndMilliseconds>
+    <Text>灵果和小布在实验室[@里@]。
+Língguǒ hé Xiǎobù zài shíyànshì [@li@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19449</StartMilliseconds>
+    <EndMilliseconds>19680</EndMilliseconds>
+    <Text>灵果和小布在实验室里。
+Língguǒ hé Xiǎobù zài shíyànshì li.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>19681</StartMilliseconds>
+    <EndMilliseconds>19935</EndMilliseconds>
+    <Text>“哇！” 小布说，
+"Wā!" Xiǎobù shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>19935</StartMilliseconds>
+    <EndMilliseconds>20905</EndMilliseconds>
+    <Text>“[@哇@]！” 小布说，
+"[@Wā@]!" Xiǎobù shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>20905</StartMilliseconds>
+    <EndMilliseconds>21496</EndMilliseconds>
+    <Text>“哇！” [@小布@]说，
+"Wā!" [@Xiǎobù@] shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>21496</StartMilliseconds>
+    <EndMilliseconds>21805</EndMilliseconds>
+    <Text>“哇！” 小布[@说@]，
+"Wā!" Xiǎobù [@shuō@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>21805</StartMilliseconds>
+    <EndMilliseconds>22180</EndMilliseconds>
+    <Text>“哇！” 小布说，
+"Wā!" Xiǎobù shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>22180</StartMilliseconds>
+    <EndMilliseconds>22611</EndMilliseconds>
+    <Text>“我能得到新的加速器了！” 
+"Wǒ néng dédào xīn de jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>22611</StartMilliseconds>
+    <EndMilliseconds>22755</EndMilliseconds>
+    <Text>“[@我@]能得到新的加速器了！” 
+"[@Wǒ@] néng dédào xīn de jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>22755</StartMilliseconds>
+    <EndMilliseconds>22945</EndMilliseconds>
+    <Text>“我[@能@]得到新的加速器了！” 
+"Wǒ [@néng@] dédào xīn de jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>22945</StartMilliseconds>
+    <EndMilliseconds>23270</EndMilliseconds>
+    <Text>“我能[@得到@]新的加速器了！” 
+"Wǒ néng [@dédào@] xīn de jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>23270</StartMilliseconds>
+    <EndMilliseconds>23567</EndMilliseconds>
+    <Text>“我能得到[@新@]的加速器了！” 
+"Wǒ néng dédào [@xīn@] de jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>23567</StartMilliseconds>
+    <EndMilliseconds>23667</EndMilliseconds>
+    <Text>“我能得到新[@的@]加速器了！” 
+"Wǒ néng dédào xīn [@de@] jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>23667</StartMilliseconds>
+    <EndMilliseconds>24333</EndMilliseconds>
+    <Text>“我能得到新的[@加速器@]了！” 
+"Wǒ néng dédào xīn de [@jiāsùqì@] le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>24333</StartMilliseconds>
+    <EndMilliseconds>24627</EndMilliseconds>
+    <Text>“我能得到新的加速器[@了@]！” 
+"Wǒ néng dédào xīn de jiāsùqì [@le@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>24627</StartMilliseconds>
+    <EndMilliseconds>25042</EndMilliseconds>
+    <Text>“我能得到新的加速器了！” 
+"Wǒ néng dédào xīn de jiāsùqì le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>25042</StartMilliseconds>
+    <EndMilliseconds>25592</EndMilliseconds>
+    <Text>灵果从架子上拉出一个盒子。
+Língguǒ cóng jiàzi shàng lāchū yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>25592</StartMilliseconds>
+    <EndMilliseconds>26139</EndMilliseconds>
+    <Text>[@灵果@]从架子上拉出一个盒子。
+[@Língguǒ@] cóng jiàzi shàng lāchū yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>26139</StartMilliseconds>
+    <EndMilliseconds>26327</EndMilliseconds>
+    <Text>灵果[@从@]架子上拉出一个盒子。
+Língguǒ [@cóng@] jiàzi shàng lāchū yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>26327</StartMilliseconds>
+    <EndMilliseconds>26667</EndMilliseconds>
+    <Text>灵果从[@架子@]上拉出一个盒子。
+Língguǒ cóng [@jiàzi@] shàng lāchū yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>26667</StartMilliseconds>
+    <EndMilliseconds>26987</EndMilliseconds>
+    <Text>灵果从架子[@上@]拉出一个盒子。
+Língguǒ cóng jiàzi [@shàng@] lāchū yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>26987</StartMilliseconds>
+    <EndMilliseconds>27367</EndMilliseconds>
+    <Text>灵果从架子上[@拉出@]一个盒子。
+Língguǒ cóng jiàzi shàng [@lāchū@] yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>27367</StartMilliseconds>
+    <EndMilliseconds>27439</EndMilliseconds>
+    <Text>灵果从架子上拉出[@一@]个盒子。
+Língguǒ cóng jiàzi shàng lāchū [@yí@] ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>27439</StartMilliseconds>
+    <EndMilliseconds>27658</EndMilliseconds>
+    <Text>灵果从架子上拉出一[@个@]盒子。
+Língguǒ cóng jiàzi shàng lāchū yí [@ge@] hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>27658</StartMilliseconds>
+    <EndMilliseconds>28146</EndMilliseconds>
+    <Text>灵果从架子上拉出一个[@盒子@]。
+Língguǒ cóng jiàzi shàng lāchū yí ge [@hézi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>28146</StartMilliseconds>
+    <EndMilliseconds>28627</EndMilliseconds>
+    <Text>灵果从架子上拉出一个盒子。
+Língguǒ cóng jiàzi shàng lāchū yí ge hézi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28627</StartMilliseconds>
+    <EndMilliseconds>29239</EndMilliseconds>
+    <Text>哐！
+Kuāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>29239</StartMilliseconds>
+    <EndMilliseconds>29588</EndMilliseconds>
+    <Text>[@哐@]！
+[@Kuāng@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>29588</StartMilliseconds>
+    <EndMilliseconds>30636</EndMilliseconds>
+    <Text>哐！
+Kuāng!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>30636</StartMilliseconds>
+    <EndMilliseconds>32280</EndMilliseconds>
+    <Text>机器人的零件掉到了地上。
+Jīqìrén de língjiàn diàodào le dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>32280</StartMilliseconds>
+    <EndMilliseconds>32861</EndMilliseconds>
+    <Text>[@机器人@]的零件掉到了地上。
+[@Jīqìrén@] de língjiàn diàodào le dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>32861</StartMilliseconds>
+    <EndMilliseconds>32993</EndMilliseconds>
+    <Text>机器人[@的@]零件掉到了地上。
+Jīqìrén [@de@] língjiàn diàodào le dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>32993</StartMilliseconds>
+    <EndMilliseconds>33452</EndMilliseconds>
+    <Text>机器人的[@零件@]掉到了地上。
+Jīqìrén de [@língjiàn@] diàodào le dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>33452</StartMilliseconds>
+    <EndMilliseconds>33877</EndMilliseconds>
+    <Text>机器人的零件[@掉到@]了地上。
+Jīqìrén de língjiàn [@diàodào@] le dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>33877</StartMilliseconds>
+    <EndMilliseconds>33971</EndMilliseconds>
+    <Text>机器人的零件掉到[@了@]地上。
+Jīqìrén de língjiàn diàodào [@le@] dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>33971</StartMilliseconds>
+    <EndMilliseconds>34246</EndMilliseconds>
+    <Text>机器人的零件掉到了[@地@]上。
+Jīqìrén de língjiàn diàodào le [@dì@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>34246</StartMilliseconds>
+    <EndMilliseconds>34515</EndMilliseconds>
+    <Text>机器人的零件掉到了地[@上@]。
+Jīqìrén de língjiàn diàodào le dì [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>34515</StartMilliseconds>
+    <EndMilliseconds>35265</EndMilliseconds>
+    <Text>机器人的零件掉到了地上。
+Jīqìrén de língjiàn diàodào le dì shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>35265</StartMilliseconds>
+    <EndMilliseconds>36087</EndMilliseconds>
+    <Text>“呃！” 灵果说。
+"È!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>36087</StartMilliseconds>
+    <EndMilliseconds>37618</EndMilliseconds>
+    <Text>“[@呃@]！” 灵果说。
+"[@È@]!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>37618</StartMilliseconds>
+    <EndMilliseconds>38115</EndMilliseconds>
+    <Text>“呃！” [@灵果@]说。
+"È!" [@Língguǒ@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>38115</StartMilliseconds>
+    <EndMilliseconds>38446</EndMilliseconds>
+    <Text>“呃！” 灵果[@说@]。
+"È!" Língguǒ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>38446</StartMilliseconds>
+    <EndMilliseconds>38940</EndMilliseconds>
+    <Text>“呃！” 灵果说。
+"È!" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>38940</StartMilliseconds>
+    <EndMilliseconds>39534</EndMilliseconds>
+    <Text>他迈过零件。
+Tā màiguò língjiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>39534</StartMilliseconds>
+    <EndMilliseconds>39798</EndMilliseconds>
+    <Text>[@他@]迈过零件。
+[@Tā@] màiguò língjiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>39798</StartMilliseconds>
+    <EndMilliseconds>40190</EndMilliseconds>
+    <Text>他[@迈过@]零件。
+Tā [@màiguò@] língjiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>40190</StartMilliseconds>
+    <EndMilliseconds>40628</EndMilliseconds>
+    <Text>他迈过[@零件@]。
+Tā màiguò [@língjiàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>40628</StartMilliseconds>
+    <EndMilliseconds>42303</EndMilliseconds>
+    <Text>他迈过零件。
+Tā màiguò língjiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>42303</StartMilliseconds>
+    <EndMilliseconds>44126</EndMilliseconds>
+    <Text>小布真的很想要一个加速器。
+Xiǎobù zhēn de hěn xiǎng yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>44126</StartMilliseconds>
+    <EndMilliseconds>44607</EndMilliseconds>
+    <Text>[@小布@]真的很想要一个加速器。
+[@Xiǎobù@] zhēn de hěn xiǎng yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>44607</StartMilliseconds>
+    <EndMilliseconds>44848</EndMilliseconds>
+    <Text>小布[@真@]的很想要一个加速器。
+Xiǎobù [@zhēn@] de hěn xiǎng yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>44848</StartMilliseconds>
+    <EndMilliseconds>44973</EndMilliseconds>
+    <Text>小布真[@的@]很想要一个加速器。
+Xiǎobù zhēn [@de@] hěn xiǎng yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>44973</StartMilliseconds>
+    <EndMilliseconds>45157</EndMilliseconds>
+    <Text>小布真的[@很@]想要一个加速器。
+Xiǎobù zhēn de [@hěn@] xiǎng yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>45157</StartMilliseconds>
+    <EndMilliseconds>45379</EndMilliseconds>
+    <Text>小布真的很[@想@]要一个加速器。
+Xiǎobù zhēn de hěn [@xiǎng@] yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>45379</StartMilliseconds>
+    <EndMilliseconds>45563</EndMilliseconds>
+    <Text>小布真的很想[@要@]一个加速器。
+Xiǎobù zhēn de hěn xiǎng [@yào@] yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>45563</StartMilliseconds>
+    <EndMilliseconds>45716</EndMilliseconds>
+    <Text>小布真的很想要[@一@]个加速器。
+Xiǎobù zhēn de hěn xiǎng yào [@yí@] ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>45716</StartMilliseconds>
+    <EndMilliseconds>45801</EndMilliseconds>
+    <Text>小布真的很想要一[@个@]加速器。
+Xiǎobù zhēn de hěn xiǎng yào yí [@ge@] jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>45801</StartMilliseconds>
+    <EndMilliseconds>46426</EndMilliseconds>
+    <Text>小布真的很想要一个[@加速器@]。
+Xiǎobù zhēn de hěn xiǎng yào yí ge [@jiāsùqì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>46426</StartMilliseconds>
+    <EndMilliseconds>47069</EndMilliseconds>
+    <Text>小布真的很想要一个加速器。
+Xiǎobù zhēn de hěn xiǎng yào yí ge jiāsùqì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>47069</StartMilliseconds>
+    <EndMilliseconds>47859</EndMilliseconds>
+    <Text>“加速器可以让我变得更快！” 她说。
+"Jiāsùqì kěyǐ ràng wǒ biàn de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>47859</StartMilliseconds>
+    <EndMilliseconds>48623</EndMilliseconds>
+    <Text>“[@加速器@]可以让我变得更快！” 她说。
+"[@Jiāsùqì@] kěyǐ ràng wǒ biàn de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>48623</StartMilliseconds>
+    <EndMilliseconds>48882</EndMilliseconds>
+    <Text>“加速器[@可以@]让我变得更快！” 她说。
+"Jiāsùqì [@kěyǐ@] ràng wǒ biàn de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>48882</StartMilliseconds>
+    <EndMilliseconds>49104</EndMilliseconds>
+    <Text>“加速器可以[@让@]我变得更快！” 她说。
+"Jiāsùqì kěyǐ [@ràng@] wǒ biàn de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>49104</StartMilliseconds>
+    <EndMilliseconds>49238</EndMilliseconds>
+    <Text>“加速器可以让[@我@]变得更快！” 她说。
+"Jiāsùqì kěyǐ ràng [@wǒ@] biàn de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>49238</StartMilliseconds>
+    <EndMilliseconds>49391</EndMilliseconds>
+    <Text>“加速器可以让我[@变@]得更快！” 她说。
+"Jiāsùqì kěyǐ ràng wǒ [@biàn@] de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>49391</StartMilliseconds>
+    <EndMilliseconds>49519</EndMilliseconds>
+    <Text>“加速器可以让我变[@得@]更快！” 她说。
+"Jiāsùqì kěyǐ ràng wǒ biàn [@de@] gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>49519</StartMilliseconds>
+    <EndMilliseconds>49838</EndMilliseconds>
+    <Text>“加速器可以让我变得[@更@]快！” 她说。
+"Jiāsùqì kěyǐ ràng wǒ biàn de [@gèng@] kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>49839</StartMilliseconds>
+    <EndMilliseconds>50486</EndMilliseconds>
+    <Text>“加速器可以让我变得更[@快@]！” 她说。
+"Jiāsùqì kěyǐ ràng wǒ biàn de gèng [@kuài@]!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>50486</StartMilliseconds>
+    <EndMilliseconds>50730</EndMilliseconds>
+    <Text>“加速器可以让我变得更快！” [@她@]说。
+"Jiāsùqì kěyǐ ràng wǒ biàn de gèng kuài!" [@Tā@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>50730</StartMilliseconds>
+    <EndMilliseconds>51086</EndMilliseconds>
+    <Text>“加速器可以让我变得更快！” 她[@说@]。
+"Jiāsùqì kěyǐ ràng wǒ biàn de gèng kuài!" Tā [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>51086</StartMilliseconds>
+    <EndMilliseconds>51852</EndMilliseconds>
+    <Text>“加速器可以让我变得更快！” 她说。
+"Jiāsùqì kěyǐ ràng wǒ biàn de gèng kuài!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>51852</StartMilliseconds>
+    <EndMilliseconds>52695</EndMilliseconds>
+    <Text>灵果挠了挠头。
+Língguǒ náo le náo tóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>52695</StartMilliseconds>
+    <EndMilliseconds>53292</EndMilliseconds>
+    <Text>[@灵果@]挠了挠头。
+[@Língguǒ@] náo le náo tóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>53292</StartMilliseconds>
+    <EndMilliseconds>53470</EndMilliseconds>
+    <Text>灵果[@挠@]了挠头。
+Língguǒ [@náo@] le náo tóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>53470</StartMilliseconds>
+    <EndMilliseconds>53588</EndMilliseconds>
+    <Text>灵果挠[@了@]挠头。
+Língguǒ náo [@le@] náo tóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>53588</StartMilliseconds>
+    <EndMilliseconds>53836</EndMilliseconds>
+    <Text>灵果挠了[@挠@]头。
+Língguǒ náo le [@náo@] tóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>53836</StartMilliseconds>
+    <EndMilliseconds>54205</EndMilliseconds>
+    <Text>灵果挠了挠[@头@]。
+Língguǒ náo le náo [@tóu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>54205</StartMilliseconds>
+    <EndMilliseconds>55164</EndMilliseconds>
+    <Text>灵果挠了挠头。
+Língguǒ náo le náo tóu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>55164</StartMilliseconds>
+    <EndMilliseconds>55969</EndMilliseconds>
+    <Text>“这里没有加速器。” 
+"Zhèli méiyǒu jiāsùqì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>55969</StartMilliseconds>
+    <EndMilliseconds>56317</EndMilliseconds>
+    <Text>“[@这里@]没有加速器。” 
+"[@Zhèli@] méiyǒu jiāsùqì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>56317</StartMilliseconds>
+    <EndMilliseconds>56689</EndMilliseconds>
+    <Text>“这里[@没有@]加速器。” 
+"Zhèli [@méiyǒu@] jiāsùqì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>56689</StartMilliseconds>
+    <EndMilliseconds>57442</EndMilliseconds>
+    <Text>“这里没有[@加速器@]。” 
+"Zhèli méiyǒu [@jiāsùqì@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>57442</StartMilliseconds>
+    <EndMilliseconds>59380</EndMilliseconds>
+    <Text>“这里没有加速器。” 
+"Zhèli méiyǒu jiāsùqì."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>59380</StartMilliseconds>
+    <EndMilliseconds>62067</EndMilliseconds>
+    <Text>“我们能买一个吗？” 小布问。
+"Wǒmen néng mǎi yí ge ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>62067</StartMilliseconds>
+    <EndMilliseconds>62334</EndMilliseconds>
+    <Text>“[@我们@]能买一个吗？” 小布问。
+"[@Wǒmen@] néng mǎi yí ge ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>62334</StartMilliseconds>
+    <EndMilliseconds>62553</EndMilliseconds>
+    <Text>“我们[@能@]买一个吗？” 小布问。
+"Wǒmen [@néng@] mǎi yí ge ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>62553</StartMilliseconds>
+    <EndMilliseconds>62809</EndMilliseconds>
+    <Text>“我们能[@买@]一个吗？” 小布问。
+"Wǒmen néng [@mǎi@] yí ge ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>62809</StartMilliseconds>
+    <EndMilliseconds>62959</EndMilliseconds>
+    <Text>“我们能买[@一@]个吗？” 小布问。
+"Wǒmen néng mǎi [@yí@] ge ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>62959</StartMilliseconds>
+    <EndMilliseconds>63150</EndMilliseconds>
+    <Text>“我们能买一[@个@]吗？” 小布问。
+"Wǒmen néng mǎi yí [@ge@] ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>63150</StartMilliseconds>
+    <EndMilliseconds>63734</EndMilliseconds>
+    <Text>“我们能买一个[@吗@]？” 小布问。
+"Wǒmen néng mǎi yí ge [@ma@]?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>63734</StartMilliseconds>
+    <EndMilliseconds>64253</EndMilliseconds>
+    <Text>“我们能买一个吗？” [@小布@]问。
+"Wǒmen néng mǎi yí ge ma?" [@Xiǎobù@] wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>64253</StartMilliseconds>
+    <EndMilliseconds>64528</EndMilliseconds>
+    <Text>“我们能买一个吗？” 小布[@问@]。
+"Wǒmen néng mǎi yí ge ma?" Xiǎobù [@wèn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>64528</StartMilliseconds>
+    <EndMilliseconds>64909</EndMilliseconds>
+    <Text>“我们能买一个吗？” 小布问。
+"Wǒmen néng mǎi yí ge ma?" Xiǎobù wèn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>64909</StartMilliseconds>
+    <EndMilliseconds>65321</EndMilliseconds>
+    <Text>灵果耸了耸肩。“当然。” 
+Língguǒ sǒng le sǒng jiān. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>65321</StartMilliseconds>
+    <EndMilliseconds>65840</EndMilliseconds>
+    <Text>[@灵果@]耸了耸肩。“当然。” 
+[@Língguǒ@] sǒng le sǒng jiān. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>65840</StartMilliseconds>
+    <EndMilliseconds>66034</EndMilliseconds>
+    <Text>灵果[@耸@]了耸肩。“当然。” 
+Língguǒ [@sǒng@] le sǒng jiān. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>66034</StartMilliseconds>
+    <EndMilliseconds>66153</EndMilliseconds>
+    <Text>灵果耸[@了@]耸肩。“当然。” 
+Língguǒ sǒng [@le@] sǒng jiān. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>66153</StartMilliseconds>
+    <EndMilliseconds>66437</EndMilliseconds>
+    <Text>灵果耸了[@耸@]肩。“当然。” 
+Língguǒ sǒng le [@sǒng@] jiān. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>66437</StartMilliseconds>
+    <EndMilliseconds>67371</EndMilliseconds>
+    <Text>灵果耸了耸[@肩@]。“当然。” 
+Língguǒ sǒng le sǒng [@jiān@]. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>67371</StartMilliseconds>
+    <EndMilliseconds>67943</EndMilliseconds>
+    <Text>灵果耸了耸肩。“[@当然@]。” 
+Língguǒ sǒng le sǒng jiān. "[@Dāngrán@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>67943</StartMilliseconds>
+    <EndMilliseconds>70945</EndMilliseconds>
+    <Text>灵果耸了耸肩。“当然。” 
+Língguǒ sǒng le sǒng jiān. "Dāngrán."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>70945</StartMilliseconds>
+    <EndMilliseconds>72989</EndMilliseconds>
+    <Text>灵果打开了电脑。
+Língguǒ dǎkāi le diànnǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>72989</StartMilliseconds>
+    <EndMilliseconds>73520</EndMilliseconds>
+    <Text>[@灵果@]打开了电脑。
+[@Língguǒ@] dǎkāi le diànnǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>73520</StartMilliseconds>
+    <EndMilliseconds>73886</EndMilliseconds>
+    <Text>灵果[@打开@]了电脑。
+Língguǒ [@dǎkāi@] le diànnǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>73885</StartMilliseconds>
+    <EndMilliseconds>74061</EndMilliseconds>
+    <Text>灵果打开[@了@]电脑。
+Língguǒ dǎkāi [@le@] diànnǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>74061</StartMilliseconds>
+    <EndMilliseconds>74630</EndMilliseconds>
+    <Text>灵果打开了[@电脑@]。
+Língguǒ dǎkāi le [@diànnǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>74630</StartMilliseconds>
+    <EndMilliseconds>74955</EndMilliseconds>
+    <Text>灵果打开了电脑。
+Língguǒ dǎkāi le diànnǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>74955</StartMilliseconds>
+    <EndMilliseconds>75433</EndMilliseconds>
+    <Text>“我来找商店。” 他说。
+"Wǒ lái zhǎo shāngdiàn." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>75434</StartMilliseconds>
+    <EndMilliseconds>75612</EndMilliseconds>
+    <Text>“[@我@]来找商店。” 他说。
+"[@Wǒ@] lái zhǎo shāngdiàn." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>75612</StartMilliseconds>
+    <EndMilliseconds>75765</EndMilliseconds>
+    <Text>“我[@来@]找商店。” 他说。
+"Wǒ [@lái@] zhǎo shāngdiàn." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>75765</StartMilliseconds>
+    <EndMilliseconds>75900</EndMilliseconds>
+    <Text>“我来[@找@]商店。” 他说。
+"Wǒ lái [@zhǎo@] shāngdiàn." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>75900</StartMilliseconds>
+    <EndMilliseconds>76603</EndMilliseconds>
+    <Text>“我来找[@商店@]。” 他说。
+"Wǒ lái zhǎo [@shāngdiàn@]." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>76603</StartMilliseconds>
+    <EndMilliseconds>76869</EndMilliseconds>
+    <Text>“我来找商店。” [@他@]说。
+"Wǒ lái zhǎo shāngdiàn." [@Tā@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>76869</StartMilliseconds>
+    <EndMilliseconds>77255</EndMilliseconds>
+    <Text>“我来找商店。” 他[@说@]。
+"Wǒ lái zhǎo shāngdiàn." Tā [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>77255</StartMilliseconds>
+    <EndMilliseconds>81683</EndMilliseconds>
+    <Text>“我来找商店。” 他说。
+"Wǒ lái zhǎo shāngdiàn." Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>81683</StartMilliseconds>
+    <EndMilliseconds>84448</EndMilliseconds>
+    <Text>“啊哈！” 灵果说，
+"A hā!" Língguǒ shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>84448</StartMilliseconds>
+    <EndMilliseconds>84670</EndMilliseconds>
+    <Text>“[@啊@]哈！” 灵果说，
+"[@A@] hā!" Língguǒ shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>84670</StartMilliseconds>
+    <EndMilliseconds>85504</EndMilliseconds>
+    <Text>“啊[@哈@]！” 灵果说，
+"A [@hā@]!" Língguǒ shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>85504</StartMilliseconds>
+    <EndMilliseconds>86014</EndMilliseconds>
+    <Text>“啊哈！” [@灵果@]说，
+"A hā!" [@Língguǒ@] shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>86014</StartMilliseconds>
+    <EndMilliseconds>86354</EndMilliseconds>
+    <Text>“啊哈！” 灵果[@说@]，
+"A hā!" Língguǒ [@shuō@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>86354</StartMilliseconds>
+    <EndMilliseconds>86601</EndMilliseconds>
+    <Text>“啊哈！” 灵果说，
+"A hā!" Língguǒ shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>86601</StartMilliseconds>
+    <EndMilliseconds>87098</EndMilliseconds>
+    <Text>“机器商店里有加速器，
+"Jīqì Shāngdiàn li yǒu jiāsùqì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>87098</StartMilliseconds>
+    <EndMilliseconds>87527</EndMilliseconds>
+    <Text>“[@机器@]商店里有加速器，
+"[@Jīqì@] Shāngdiàn li yǒu jiāsùqì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>87527</StartMilliseconds>
+    <EndMilliseconds>87895</EndMilliseconds>
+    <Text>“机器[@商店@]里有加速器，
+"Jīqì [@Shāngdiàn@] li yǒu jiāsùqì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>87895</StartMilliseconds>
+    <EndMilliseconds>88079</EndMilliseconds>
+    <Text>“机器商店[@里@]有加速器，
+"Jīqì Shāngdiàn [@li@] yǒu jiāsùqì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>88079</StartMilliseconds>
+    <EndMilliseconds>88220</EndMilliseconds>
+    <Text>“机器商店里[@有@]加速器，
+"Jīqì Shāngdiàn li [@yǒu@] jiāsùqì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>88220</StartMilliseconds>
+    <EndMilliseconds>88729</EndMilliseconds>
+    <Text>“机器商店里有[@加速器@]，
+"Jīqì Shāngdiàn li yǒu [@jiāsùqì@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>88729</StartMilliseconds>
+    <EndMilliseconds>89267</EndMilliseconds>
+    <Text>“机器商店里有加速器，
+"Jīqì Shāngdiàn li yǒu jiāsùqì,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>89267</StartMilliseconds>
+    <EndMilliseconds>90176</EndMilliseconds>
+    <Text>商店在奈特罗星球。” 
+shāngdiàn zài Nàitèluó Xīngqiú."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>90176</StartMilliseconds>
+    <EndMilliseconds>90539</EndMilliseconds>
+    <Text>[@商店@]在奈特罗星球。” 
+[@shāngdiàn@] zài Nàitèluó Xīngqiú."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>90539</StartMilliseconds>
+    <EndMilliseconds>90761</EndMilliseconds>
+    <Text>商店[@在@]奈特罗星球。” 
+shāngdiàn [@zài@] Nàitèluó Xīngqiú."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>90761</StartMilliseconds>
+    <EndMilliseconds>91392</EndMilliseconds>
+    <Text>商店在[@奈特罗@]星球。” 
+shāngdiàn zài [@Nàitèluó@] Xīngqiú."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>91392</StartMilliseconds>
+    <EndMilliseconds>91883</EndMilliseconds>
+    <Text>商店在奈特罗[@星球@]。” 
+shāngdiàn zài Nàitèluó [@Xīngqiú@]."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>91883</StartMilliseconds>
+    <EndMilliseconds>92326</EndMilliseconds>
+    <Text>商店在奈特罗星球。” 
+shāngdiàn zài Nàitèluó Xīngqiú."</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>92326</StartMilliseconds>
+    <EndMilliseconds>93017</EndMilliseconds>
+    <Text>“我们走！” 小布说。
+"Wǒmen zǒu!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>93017</StartMilliseconds>
+    <EndMilliseconds>93414</EndMilliseconds>
+    <Text>“[@我们@]走！” 小布说。
+"[@Wǒmen@] zǒu!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>93414</StartMilliseconds>
+    <EndMilliseconds>94067</EndMilliseconds>
+    <Text>“我们[@走@]！” 小布说。
+"Wǒmen [@zǒu@]!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>94067</StartMilliseconds>
+    <EndMilliseconds>94564</EndMilliseconds>
+    <Text>“我们走！” [@小布@]说。
+"Wǒmen zǒu!" [@Xiǎobù@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>94564</StartMilliseconds>
+    <EndMilliseconds>94898</EndMilliseconds>
+    <Text>“我们走！” 小布[@说@]。
+"Wǒmen zǒu!" Xiǎobù [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>94898</StartMilliseconds>
+    <EndMilliseconds>96031</EndMilliseconds>
+    <Text>“我们走！” 小布说。
+"Wǒmen zǒu!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>96031</StartMilliseconds>
+    <EndMilliseconds>97786</EndMilliseconds>
+    <Text>灵果和小布来到太空港。
+Língguǒ hé Xiǎobù láidào tàikōng gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>97786</StartMilliseconds>
+    <EndMilliseconds>98172</EndMilliseconds>
+    <Text>[@灵果@]和小布来到太空港。
+[@Língguǒ@] hé Xiǎobù láidào tàikōng gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>98172</StartMilliseconds>
+    <EndMilliseconds>98306</EndMilliseconds>
+    <Text>灵果[@和@]小布来到太空港。
+Língguǒ [@hé@] Xiǎobù láidào tàikōng gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>98306</StartMilliseconds>
+    <EndMilliseconds>98841</EndMilliseconds>
+    <Text>灵果和[@小布@]来到太空港。
+Língguǒ hé [@Xiǎobù@] láidào tàikōng gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>98841</StartMilliseconds>
+    <EndMilliseconds>99134</EndMilliseconds>
+    <Text>灵果和小布[@来到@]太空港。
+Língguǒ hé Xiǎobù [@láidào@] tàikōng gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>99134</StartMilliseconds>
+    <EndMilliseconds>99625</EndMilliseconds>
+    <Text>灵果和小布来到[@太空@]港。
+Língguǒ hé Xiǎobù láidào [@tàikōng@] gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>99625</StartMilliseconds>
+    <EndMilliseconds>99884</EndMilliseconds>
+    <Text>灵果和小布来到太空[@港@]。
+Língguǒ hé Xiǎobù láidào tàikōng [@gǎng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>99884</StartMilliseconds>
+    <EndMilliseconds>102314</EndMilliseconds>
+    <Text>灵果和小布来到太空港。
+Língguǒ hé Xiǎobù láidào tàikōng gǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>102314</StartMilliseconds>
+    <EndMilliseconds>104765</EndMilliseconds>
+    <Text>他们上了飞船。
+Tāmen shàng le fēichuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>104765</StartMilliseconds>
+    <EndMilliseconds>105059</EndMilliseconds>
+    <Text>[@他们@]上了飞船。
+[@Tāmen@] shàng le fēichuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>105059</StartMilliseconds>
+    <EndMilliseconds>105259</EndMilliseconds>
+    <Text>他们[@上@]了飞船。
+Tāmen [@shàng@] le fēichuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>105259</StartMilliseconds>
+    <EndMilliseconds>105368</EndMilliseconds>
+    <Text>他们上[@了@]飞船。
+Tāmen shàng [@le@] fēichuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>105368</StartMilliseconds>
+    <EndMilliseconds>105964</EndMilliseconds>
+    <Text>他们上了[@飞船@]。
+Tāmen shàng le [@fēichuán@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>105964</StartMilliseconds>
+    <EndMilliseconds>107087</EndMilliseconds>
+    <Text>他们上了飞船。
+Tāmen shàng le fēichuán.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>107087</StartMilliseconds>
+    <EndMilliseconds>108293</EndMilliseconds>
+    <Text>灵果坐到座位上。
+Língguǒ zuòdào zuòwèi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>108293</StartMilliseconds>
+    <EndMilliseconds>108828</EndMilliseconds>
+    <Text>[@灵果@]坐到座位上。
+[@Língguǒ@] zuòdào zuòwèi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>108828</StartMilliseconds>
+    <EndMilliseconds>109147</EndMilliseconds>
+    <Text>灵果[@坐到@]座位上。
+Língguǒ [@zuòdào@] zuòwèi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>109147</StartMilliseconds>
+    <EndMilliseconds>109615</EndMilliseconds>
+    <Text>灵果坐到[@座位@]上。
+Língguǒ zuòdào [@zuòwèi@] shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>109615</StartMilliseconds>
+    <EndMilliseconds>109922</EndMilliseconds>
+    <Text>灵果坐到座位[@上@]。
+Língguǒ zuòdào zuòwèi [@shàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>109922</StartMilliseconds>
+    <EndMilliseconds>110943</EndMilliseconds>
+    <Text>灵果坐到座位上。
+Língguǒ zuòdào zuòwèi shàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>110943</StartMilliseconds>
+    <EndMilliseconds>112181</EndMilliseconds>
+    <Text>“出发！” 
+"Chūfā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>112181</StartMilliseconds>
+    <EndMilliseconds>113075</EndMilliseconds>
+    <Text>“[@出发@]！” 
+"[@Chūfā@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>113075</StartMilliseconds>
+    <EndMilliseconds>113800</EndMilliseconds>
+    <Text>“出发！” 
+"Chūfā!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>113800</StartMilliseconds>
+    <EndMilliseconds>114569</EndMilliseconds>
+    <Text>飞船起飞了。
+Fēichuán qǐfēi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>114569</StartMilliseconds>
+    <EndMilliseconds>114959</EndMilliseconds>
+    <Text>[@飞船@]起飞了。
+[@Fēichuán@] qǐfēi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>114959</StartMilliseconds>
+    <EndMilliseconds>115450</EndMilliseconds>
+    <Text>飞船[@起飞@]了。
+Fēichuán [@qǐfēi@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>115450</StartMilliseconds>
+    <EndMilliseconds>115696</EndMilliseconds>
+    <Text>飞船起飞[@了@]。
+Fēichuán qǐfēi [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>115696</StartMilliseconds>
+    <EndMilliseconds>116493</EndMilliseconds>
+    <Text>飞船起飞了。
+Fēichuán qǐfēi le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>116493</StartMilliseconds>
+    <EndMilliseconds>117787</EndMilliseconds>
+    <Text>接着，它变慢了。
+Jiēzhe, tā biànmàn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>117787</StartMilliseconds>
+    <EndMilliseconds>118600</EndMilliseconds>
+    <Text>[@接着@]，它变慢了。
+[@Jiēzhe@], tā biànmàn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>118600</StartMilliseconds>
+    <EndMilliseconds>118809</EndMilliseconds>
+    <Text>接着，[@它@]变慢了。
+Jiēzhe, [@tā@] biànmàn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>118809</StartMilliseconds>
+    <EndMilliseconds>119334</EndMilliseconds>
+    <Text>接着，它[@变慢@]了。
+Jiēzhe, tā [@biànmàn@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>119334</StartMilliseconds>
+    <EndMilliseconds>119662</EndMilliseconds>
+    <Text>接着，它变慢[@了@]。
+Jiēzhe, tā biànmàn [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>119662</StartMilliseconds>
+    <EndMilliseconds>119915</EndMilliseconds>
+    <Text>接着，它变慢了。
+Jiēzhe, tā biànmàn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>119915</StartMilliseconds>
+    <EndMilliseconds>120431</EndMilliseconds>
+    <Text>“嘿！怎么回事？” 灵果说。
+"Hēi! Zěnme huíshì?" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>120431</StartMilliseconds>
+    <EndMilliseconds>120984</EndMilliseconds>
+    <Text>“[@嘿@]！怎么回事？” 灵果说。
+"[@Hēi@]! Zěnme huíshì?" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>120984</StartMilliseconds>
+    <EndMilliseconds>121319</EndMilliseconds>
+    <Text>“嘿！[@怎么@]回事？” 灵果说。
+"Hēi! [@Zěnme@] huíshì?" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>121319</StartMilliseconds>
+    <EndMilliseconds>122250</EndMilliseconds>
+    <Text>“嘿！怎么[@回事@]？” 灵果说。
+"Hēi! Zěnme [@huíshì@]?" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>122250</StartMilliseconds>
+    <EndMilliseconds>122706</EndMilliseconds>
+    <Text>“嘿！怎么回事？” [@灵果@]说。
+"Hēi! Zěnme huíshì?" [@Língguǒ@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>122706</StartMilliseconds>
+    <EndMilliseconds>122972</EndMilliseconds>
+    <Text>“嘿！怎么回事？” 灵果[@说@]。
+"Hēi! Zěnme huíshì?" Língguǒ [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>122972</StartMilliseconds>
+    <EndMilliseconds>123837</EndMilliseconds>
+    <Text>“嘿！怎么回事？” 灵果说。
+"Hēi! Zěnme huíshì?" Língguǒ shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>123837</StartMilliseconds>
+    <EndMilliseconds>125093</EndMilliseconds>
+    <Text>“我们正在后退！” 小布说。
+"Wǒmen zhèngzài hòutuì!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>125093</StartMilliseconds>
+    <EndMilliseconds>125428</EndMilliseconds>
+    <Text>“[@我们@]正在后退！” 小布说。
+"[@Wǒmen@] zhèngzài hòutuì!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>125428</StartMilliseconds>
+    <EndMilliseconds>125853</EndMilliseconds>
+    <Text>“我们[@正在@]后退！” 小布说。
+"Wǒmen [@zhèngzài@] hòutuì!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>125853</StartMilliseconds>
+    <EndMilliseconds>126788</EndMilliseconds>
+    <Text>“我们正在[@后退@]！” 小布说。
+"Wǒmen zhèngzài [@hòutuì@]!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>126788</StartMilliseconds>
+    <EndMilliseconds>127250</EndMilliseconds>
+    <Text>“我们正在后退！” [@小布@]说。
+"Wǒmen zhèngzài hòutuì!" [@Xiǎobù@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>193</Number>
+    <StartMilliseconds>127250</StartMilliseconds>
+    <EndMilliseconds>127560</EndMilliseconds>
+    <Text>“我们正在后退！” 小布[@说@]。
+"Wǒmen zhèngzài hòutuì!" Xiǎobù [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>194</Number>
+    <StartMilliseconds>127560</StartMilliseconds>
+    <EndMilliseconds>128253</EndMilliseconds>
+    <Text>“我们正在后退！” 小布说。
+"Wǒmen zhèngzài hòutuì!" Xiǎobù shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>195</Number>
+    <StartMilliseconds>128253</StartMilliseconds>
+    <EndMilliseconds>129000</EndMilliseconds>
+    <Text>他们飞回了基地！
+Tāmen fēihuí le jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>196</Number>
+    <StartMilliseconds>129000</StartMilliseconds>
+    <EndMilliseconds>129319</EndMilliseconds>
+    <Text>[@他们@]飞回了基地！
+[@Tāmen@] fēihuí le jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>197</Number>
+    <StartMilliseconds>129319</StartMilliseconds>
+    <EndMilliseconds>129738</EndMilliseconds>
+    <Text>他们[@飞回@]了基地！
+Tāmen [@fēihuí@] le jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>198</Number>
+    <StartMilliseconds>129738</StartMilliseconds>
+    <EndMilliseconds>129894</EndMilliseconds>
+    <Text>他们飞回[@了@]基地！
+Tāmen fēihuí [@le@] jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>199</Number>
+    <StartMilliseconds>129894</StartMilliseconds>
+    <EndMilliseconds>130288</EndMilliseconds>
+    <Text>他们飞回了[@基地@]！
+Tāmen fēihuí le [@jīdì@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>200</Number>
+    <StartMilliseconds>130288</StartMilliseconds>
+    <EndMilliseconds>133632</EndMilliseconds>
+    <Text>他们飞回了基地！
+Tāmen fēihuí le jīdì!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>201</Number>
+    <StartMilliseconds>133632</StartMilliseconds>
+    <EndMilliseconds>136614</EndMilliseconds>
+    <Text>一个工作人员抬头看着他们。
+Yí ge gōngzuò rényuán tái tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>202</Number>
+    <StartMilliseconds>136614</StartMilliseconds>
+    <EndMilliseconds>136823</EndMilliseconds>
+    <Text>[@一@]个工作人员抬头看着他们。
+[@Yí@] ge gōngzuò rényuán tái tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>203</Number>
+    <StartMilliseconds>136823</StartMilliseconds>
+    <EndMilliseconds>136954</EndMilliseconds>
+    <Text>一[@个@]工作人员抬头看着他们。
+Yí [@ge@] gōngzuò rényuán tái tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>204</Number>
+    <StartMilliseconds>136954</StartMilliseconds>
+    <EndMilliseconds>137311</EndMilliseconds>
+    <Text>一个[@工作@]人员抬头看着他们。
+Yí ge [@gōngzuò@] rényuán tái tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>205</Number>
+    <StartMilliseconds>137311</StartMilliseconds>
+    <EndMilliseconds>137798</EndMilliseconds>
+    <Text>一个工作[@人员@]抬头看着他们。
+Yí ge gōngzuò [@rényuán@] tái tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>206</Number>
+    <StartMilliseconds>137798</StartMilliseconds>
+    <EndMilliseconds>138123</EndMilliseconds>
+    <Text>一个工作人员[@抬@]头看着他们。
+Yí ge gōngzuò rényuán [@tái@] tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>207</Number>
+    <StartMilliseconds>138123</StartMilliseconds>
+    <EndMilliseconds>138298</EndMilliseconds>
+    <Text>一个工作人员抬[@头@]看着他们。
+Yí ge gōngzuò rényuán tái [@tóu@] kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>208</Number>
+    <StartMilliseconds>138298</StartMilliseconds>
+    <EndMilliseconds>138636</EndMilliseconds>
+    <Text>一个工作人员抬头[@看着@]他们。
+Yí ge gōngzuò rényuán tái tóu [@kànzhe@] tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>209</Number>
+    <StartMilliseconds>138636</StartMilliseconds>
+    <EndMilliseconds>139120</EndMilliseconds>
+    <Text>一个工作人员抬头看着[@他们@]。
+Yí ge gōngzuò rényuán tái tóu kànzhe [@tāmen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>210</Number>
+    <StartMilliseconds>139120</StartMilliseconds>
+    <EndMilliseconds>140504</EndMilliseconds>
+    <Text>一个工作人员抬头看着他们。
+Yí ge gōngzuò rényuán tái tóu kànzhe tāmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>211</Number>
+    <StartMilliseconds>140504</StartMilliseconds>
+    <EndMilliseconds>141948</EndMilliseconds>
+    <Text>“下来，马上！” 
+"Xiàlai, mǎshàng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>212</Number>
+    <StartMilliseconds>141948</StartMilliseconds>
+    <EndMilliseconds>142714</EndMilliseconds>
+    <Text>“[@下来@]，马上！” 
+"[@Xiàlai@], mǎshàng!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>213</Number>
+    <StartMilliseconds>142714</StartMilliseconds>
+    <EndMilliseconds>143101</EndMilliseconds>
+    <Text>“下来，[@马上@]！” 
+"Xiàlai, [@mǎshàng@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>214</Number>
+    <StartMilliseconds>143101</StartMilliseconds>
+    <EndMilliseconds>148364</EndMilliseconds>
+    <Text>“下来，马上！” 
+"Xiàlai, mǎshàng!"</Text>
+  </Paragraph>
+</Subtitle>

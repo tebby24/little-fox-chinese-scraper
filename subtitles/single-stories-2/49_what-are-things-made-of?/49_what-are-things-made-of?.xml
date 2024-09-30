@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9324</StartMilliseconds>
+    <EndMilliseconds>10258</EndMilliseconds>
+    <Text>剪刀是用钢做的。
+Jiǎndāo shì yòng gāng zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10259</StartMilliseconds>
+    <EndMilliseconds>11186</EndMilliseconds>
+    <Text>[@剪刀@]是用钢做的。
+[@Jiǎndāo@] shì yòng gāng zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>11187</StartMilliseconds>
+    <EndMilliseconds>11499</EndMilliseconds>
+    <Text>剪刀[@是@]用钢做的。
+Jiǎndāo [@shì@] yòng gāng zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11500</StartMilliseconds>
+    <EndMilliseconds>11830</EndMilliseconds>
+    <Text>剪刀是[@用@]钢做的。
+Jiǎndāo shì [@yòng@] gāng zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>11831</StartMilliseconds>
+    <EndMilliseconds>12278</EndMilliseconds>
+    <Text>剪刀是用[@钢@]做的。
+Jiǎndāo shì yòng [@gāng@] zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12279</StartMilliseconds>
+    <EndMilliseconds>12627</EndMilliseconds>
+    <Text>剪刀是用钢[@做@]的。
+Jiǎndāo shì yòng gāng [@zuò@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>12628</StartMilliseconds>
+    <EndMilliseconds>12933</EndMilliseconds>
+    <Text>剪刀是用钢做[@的@]。
+Jiǎndāo shì yòng gāng zuò [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>12934</StartMilliseconds>
+    <EndMilliseconds>13562</EndMilliseconds>
+    <Text>剪刀是用钢做的。
+Jiǎndāo shì yòng gāng zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>13563</StartMilliseconds>
+    <EndMilliseconds>14069</EndMilliseconds>
+    <Text>钢很闪亮。
+Gāng hěn shǎnliàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>14070</StartMilliseconds>
+    <EndMilliseconds>14547</EndMilliseconds>
+    <Text>[@钢@]很闪亮。
+[@Gāng@] hěn shǎnliàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>14548</StartMilliseconds>
+    <EndMilliseconds>14929</EndMilliseconds>
+    <Text>钢[@很@]闪亮。
+Gāng [@hěn@] shǎnliàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>14930</StartMilliseconds>
+    <EndMilliseconds>15658</EndMilliseconds>
+    <Text>钢很[@闪亮@]。
+Gāng hěn [@shǎnliàng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>15659</StartMilliseconds>
+    <EndMilliseconds>17589</EndMilliseconds>
+    <Text>钢很闪亮。
+Gāng hěn shǎnliàng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>17590</StartMilliseconds>
+    <EndMilliseconds>18551</EndMilliseconds>
+    <Text>我的桌子是用木头做的。
+Wǒ de zhuōzi shì yòng mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>18552</StartMilliseconds>
+    <EndMilliseconds>19026</EndMilliseconds>
+    <Text>[@我@]的桌子是用木头做的。
+[@Wǒ@] de zhuōzi shì yòng mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>19027</StartMilliseconds>
+    <EndMilliseconds>19255</EndMilliseconds>
+    <Text>我[@的@]桌子是用木头做的。
+Wǒ [@de@] zhuōzi shì yòng mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>19256</StartMilliseconds>
+    <EndMilliseconds>20054</EndMilliseconds>
+    <Text>我的[@桌子@]是用木头做的。
+Wǒ de [@zhuōzi@] shì yòng mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>20055</StartMilliseconds>
+    <EndMilliseconds>20406</EndMilliseconds>
+    <Text>我的桌子[@是@]用木头做的。
+Wǒ de zhuōzi [@shì@] yòng mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>20407</StartMilliseconds>
+    <EndMilliseconds>20620</EndMilliseconds>
+    <Text>我的桌子是[@用@]木头做的。
+Wǒ de zhuōzi shì [@yòng@] mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>20621</StartMilliseconds>
+    <EndMilliseconds>21352</EndMilliseconds>
+    <Text>我的桌子是用[@木头@]做的。
+Wǒ de zhuōzi shì yòng [@mùtou@] zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>21353</StartMilliseconds>
+    <EndMilliseconds>21724</EndMilliseconds>
+    <Text>我的桌子是用木头[@做@]的。
+Wǒ de zhuōzi shì yòng mùtou [@zuò@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>21725</StartMilliseconds>
+    <EndMilliseconds>22110</EndMilliseconds>
+    <Text>我的桌子是用木头做[@的@]。
+Wǒ de zhuōzi shì yòng mùtou zuò [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>22111</StartMilliseconds>
+    <EndMilliseconds>22564</EndMilliseconds>
+    <Text>我的桌子是用木头做的。
+Wǒ de zhuōzi shì yòng mùtou zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>22565</StartMilliseconds>
+    <EndMilliseconds>22920</EndMilliseconds>
+    <Text>木头很光滑。
+Mùtou hěn guānghuá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>22921</StartMilliseconds>
+    <EndMilliseconds>23619</EndMilliseconds>
+    <Text>[@木头@]很光滑。
+[@Mùtou@] hěn guānghuá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>23620</StartMilliseconds>
+    <EndMilliseconds>24028</EndMilliseconds>
+    <Text>木头[@很@]光滑。
+Mùtou [@hěn@] guānghuá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>24029</StartMilliseconds>
+    <EndMilliseconds>24897</EndMilliseconds>
+    <Text>木头很[@光滑@]。
+Mùtou hěn [@guānghuá@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>24898</StartMilliseconds>
+    <EndMilliseconds>26338</EndMilliseconds>
+    <Text>木头很光滑。
+Mùtou hěn guānghuá.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>26339</StartMilliseconds>
+    <EndMilliseconds>27209</EndMilliseconds>
+    <Text>窗户是用玻璃做的。
+Chuānghu shì yòng bōli zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>27210</StartMilliseconds>
+    <EndMilliseconds>28164</EndMilliseconds>
+    <Text>[@窗户@]是用玻璃做的。
+[@Chuānghu@] shì yòng bōli zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>28165</StartMilliseconds>
+    <EndMilliseconds>28379</EndMilliseconds>
+    <Text>窗户[@是@]用玻璃做的。
+Chuānghu [@shì@] yòng bōli zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>28380</StartMilliseconds>
+    <EndMilliseconds>28813</EndMilliseconds>
+    <Text>窗户是[@用@]玻璃做的。
+Chuānghu shì [@yòng@] bōli zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>28814</StartMilliseconds>
+    <EndMilliseconds>29391</EndMilliseconds>
+    <Text>窗户是用[@玻璃@]做的。
+Chuānghu shì yòng [@bōli@] zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>29392</StartMilliseconds>
+    <EndMilliseconds>29764</EndMilliseconds>
+    <Text>窗户是用玻璃[@做@]的。
+Chuānghu shì yòng bōli [@zuò@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>29765</StartMilliseconds>
+    <EndMilliseconds>30116</EndMilliseconds>
+    <Text>窗户是用玻璃做[@的@]。
+Chuānghu shì yòng bōli zuò [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>30117</StartMilliseconds>
+    <EndMilliseconds>30906</EndMilliseconds>
+    <Text>窗户是用玻璃做的。
+Chuānghu shì yòng bōli zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>30907</StartMilliseconds>
+    <EndMilliseconds>31639</EndMilliseconds>
+    <Text>玻璃很透明。
+Bōli hěn tòumíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>31640</StartMilliseconds>
+    <EndMilliseconds>32701</EndMilliseconds>
+    <Text>[@玻璃@]很透明。
+[@Bōli@] hěn tòumíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>32702</StartMilliseconds>
+    <EndMilliseconds>33096</EndMilliseconds>
+    <Text>玻璃[@很@]透明。
+Bōli [@hěn@] tòumíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>33097</StartMilliseconds>
+    <EndMilliseconds>33986</EndMilliseconds>
+    <Text>玻璃很[@透明@]。
+Bōli hěn [@tòumíng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>33987</StartMilliseconds>
+    <EndMilliseconds>35453</EndMilliseconds>
+    <Text>玻璃很透明。
+Bōli hěn tòumíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>35454</StartMilliseconds>
+    <EndMilliseconds>36103</EndMilliseconds>
+    <Text>短袖是用棉做的。
+Duǎnxiù shì yòng mián zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>36104</StartMilliseconds>
+    <EndMilliseconds>37152</EndMilliseconds>
+    <Text>[@短袖@]是用棉做的。
+[@Duǎnxiù@] shì yòng mián zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>37153</StartMilliseconds>
+    <EndMilliseconds>37437</EndMilliseconds>
+    <Text>短袖[@是@]用棉做的。
+Duǎnxiù [@shì@] yòng mián zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>37438</StartMilliseconds>
+    <EndMilliseconds>37686</EndMilliseconds>
+    <Text>短袖是[@用@]棉做的。
+Duǎnxiù shì [@yòng@] mián zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>37687</StartMilliseconds>
+    <EndMilliseconds>38151</EndMilliseconds>
+    <Text>短袖是用[@棉@]做的。
+Duǎnxiù shì yòng [@mián@] zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>38152</StartMilliseconds>
+    <EndMilliseconds>38537</EndMilliseconds>
+    <Text>短袖是用棉[@做@]的。
+Duǎnxiù shì yòng mián [@zuò@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>38538</StartMilliseconds>
+    <EndMilliseconds>38862</EndMilliseconds>
+    <Text>短袖是用棉做[@的@]。
+Duǎnxiù shì yòng mián zuò [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>38863</StartMilliseconds>
+    <EndMilliseconds>39857</EndMilliseconds>
+    <Text>短袖是用棉做的。
+Duǎnxiù shì yòng mián zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>39858</StartMilliseconds>
+    <EndMilliseconds>40561</EndMilliseconds>
+    <Text>棉很柔。
+Mián hěn róu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>40562</StartMilliseconds>
+    <EndMilliseconds>41153</EndMilliseconds>
+    <Text>[@棉@]很柔。
+[@Mián@] hěn róu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>41154</StartMilliseconds>
+    <EndMilliseconds>41545</EndMilliseconds>
+    <Text>棉[@很@]柔。
+Mián [@hěn@] róu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>41546</StartMilliseconds>
+    <EndMilliseconds>42166</EndMilliseconds>
+    <Text>棉很[@柔@]。
+Mián hěn [@róu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>42167</StartMilliseconds>
+    <EndMilliseconds>43809</EndMilliseconds>
+    <Text>棉很柔。
+Mián hěn róu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>43810</StartMilliseconds>
+    <EndMilliseconds>44901</EndMilliseconds>
+    <Text>房子是用砖头盖的。
+Fángzi shì yòng zhuāntóu gài de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>44902</StartMilliseconds>
+    <EndMilliseconds>45809</EndMilliseconds>
+    <Text>[@房子@]是用砖头盖的。
+[@Fángzi@] shì yòng zhuāntóu gài de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>45810</StartMilliseconds>
+    <EndMilliseconds>46141</EndMilliseconds>
+    <Text>房子[@是@]用砖头盖的。
+Fángzi [@shì@] yòng zhuāntóu gài de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>46142</StartMilliseconds>
+    <EndMilliseconds>46461</EndMilliseconds>
+    <Text>房子是[@用@]砖头盖的。
+Fángzi shì [@yòng@] zhuāntóu gài de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>46462</StartMilliseconds>
+    <EndMilliseconds>47254</EndMilliseconds>
+    <Text>房子是用[@砖头@]盖的。
+Fángzi shì yòng [@zhuāntóu@] gài de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>47255</StartMilliseconds>
+    <EndMilliseconds>47633</EndMilliseconds>
+    <Text>房子是用砖头[@盖@]的。
+Fángzi shì yòng zhuāntóu [@gài@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>47634</StartMilliseconds>
+    <EndMilliseconds>48024</EndMilliseconds>
+    <Text>房子是用砖头盖[@的@]。
+Fángzi shì yòng zhuāntóu gài [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>48025</StartMilliseconds>
+    <EndMilliseconds>48978</EndMilliseconds>
+    <Text>房子是用砖头盖的。
+Fángzi shì yòng zhuāntóu gài de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>48979</StartMilliseconds>
+    <EndMilliseconds>49850</EndMilliseconds>
+    <Text>砖头很重。
+Zhuāntóu hěn zhòng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>49851</StartMilliseconds>
+    <EndMilliseconds>50638</EndMilliseconds>
+    <Text>[@砖头@]很重。
+[@Zhuāntóu@] hěn zhòng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>50639</StartMilliseconds>
+    <EndMilliseconds>51023</EndMilliseconds>
+    <Text>砖头[@很@]重。
+Zhuāntóu [@hěn@] zhòng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>51024</StartMilliseconds>
+    <EndMilliseconds>51584</EndMilliseconds>
+    <Text>砖头很[@重@]。
+Zhuāntóu hěn [@zhòng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>51585</StartMilliseconds>
+    <EndMilliseconds>53437</EndMilliseconds>
+    <Text>砖头很重。
+Zhuāntóu hěn zhòng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>53438</StartMilliseconds>
+    <EndMilliseconds>54319</EndMilliseconds>
+    <Text>毛衣是用羊毛织的。
+Máoyī shì yòng yángmáo zhī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>54320</StartMilliseconds>
+    <EndMilliseconds>55194</EndMilliseconds>
+    <Text>[@毛衣@]是用羊毛织的。
+[@Máoyī@] shì yòng yángmáo zhī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>55195</StartMilliseconds>
+    <EndMilliseconds>55509</EndMilliseconds>
+    <Text>毛衣[@是@]用羊毛织的。
+Máoyī [@shì@] yòng yángmáo zhī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>55510</StartMilliseconds>
+    <EndMilliseconds>55787</EndMilliseconds>
+    <Text>毛衣是[@用@]羊毛织的。
+Máoyī shì [@yòng@] yángmáo zhī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>55788</StartMilliseconds>
+    <EndMilliseconds>56555</EndMilliseconds>
+    <Text>毛衣是用[@羊毛@]织的。
+Máoyī shì yòng [@yángmáo@] zhī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>56556</StartMilliseconds>
+    <EndMilliseconds>56893</EndMilliseconds>
+    <Text>毛衣是用羊毛[@织@]的。
+Máoyī shì yòng yángmáo [@zhī@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>56894</StartMilliseconds>
+    <EndMilliseconds>57272</EndMilliseconds>
+    <Text>毛衣是用羊毛织[@的@]。
+Máoyī shì yòng yángmáo zhī [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>57273</StartMilliseconds>
+    <EndMilliseconds>58526</EndMilliseconds>
+    <Text>毛衣是用羊毛织的。
+Máoyī shì yòng yángmáo zhī de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>58527</StartMilliseconds>
+    <EndMilliseconds>59269</EndMilliseconds>
+    <Text>羊毛很暖和。
+Yángmáo hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>59270</StartMilliseconds>
+    <EndMilliseconds>60128</EndMilliseconds>
+    <Text>[@羊毛@]很暖和。
+[@Yángmáo@] hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>60129</StartMilliseconds>
+    <EndMilliseconds>60469</EndMilliseconds>
+    <Text>羊毛[@很@]暖和。
+Yángmáo [@hěn@] nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>60470</StartMilliseconds>
+    <EndMilliseconds>61442</EndMilliseconds>
+    <Text>羊毛很[@暖和@]。
+Yángmáo hěn [@nuǎnhuo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>61443</StartMilliseconds>
+    <EndMilliseconds>63059</EndMilliseconds>
+    <Text>羊毛很暖和。
+Yángmáo hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>63060</StartMilliseconds>
+    <EndMilliseconds>63933</EndMilliseconds>
+    <Text>风筝是用纸做的。
+Fēngzheng shì yòng zhǐ zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>63934</StartMilliseconds>
+    <EndMilliseconds>64812</EndMilliseconds>
+    <Text>[@风筝@]是用纸做的。
+[@Fēngzheng@] shì yòng zhǐ zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>64813</StartMilliseconds>
+    <EndMilliseconds>65180</EndMilliseconds>
+    <Text>风筝[@是@]用纸做的。
+Fēngzheng [@shì@] yòng zhǐ zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>65181</StartMilliseconds>
+    <EndMilliseconds>65466</EndMilliseconds>
+    <Text>风筝是[@用@]纸做的。
+Fēngzheng shì [@yòng@] zhǐ zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>65467</StartMilliseconds>
+    <EndMilliseconds>65850</EndMilliseconds>
+    <Text>风筝是用[@纸@]做的。
+Fēngzheng shì yòng [@zhǐ@] zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>65851</StartMilliseconds>
+    <EndMilliseconds>66247</EndMilliseconds>
+    <Text>风筝是用纸[@做@]的。
+Fēngzheng shì yòng zhǐ [@zuò@] de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>66248</StartMilliseconds>
+    <EndMilliseconds>66513</EndMilliseconds>
+    <Text>风筝是用纸做[@的@]。
+Fēngzheng shì yòng zhǐ zuò [@de@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>66514</StartMilliseconds>
+    <EndMilliseconds>67041</EndMilliseconds>
+    <Text>风筝是用纸做的。
+Fēngzheng shì yòng zhǐ zuò de.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>67042</StartMilliseconds>
+    <EndMilliseconds>67490</EndMilliseconds>
+    <Text>纸很轻。
+Zhǐ hěn qīng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>67491</StartMilliseconds>
+    <EndMilliseconds>68230</EndMilliseconds>
+    <Text>[@纸@]很轻。
+[@Zhǐ@] hěn qīng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>68231</StartMilliseconds>
+    <EndMilliseconds>68607</EndMilliseconds>
+    <Text>纸[@很@]轻。
+Zhǐ [@hěn@] qīng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>68608</StartMilliseconds>
+    <EndMilliseconds>69236</EndMilliseconds>
+    <Text>纸很[@轻@]。
+Zhǐ hěn [@qīng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>69237</StartMilliseconds>
+    <EndMilliseconds>70372</EndMilliseconds>
+    <Text>纸很轻。
+Zhǐ hěn qīng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>70373</StartMilliseconds>
+    <EndMilliseconds>71316</EndMilliseconds>
+    <Text>我喜欢用纸做的风筝。
+Wǒ xǐhuan yòng zhǐ zuò de fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>71317</StartMilliseconds>
+    <EndMilliseconds>71614</EndMilliseconds>
+    <Text>[@我@]喜欢用纸做的风筝。
+[@Wǒ@] xǐhuan yòng zhǐ zuò de fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>71615</StartMilliseconds>
+    <EndMilliseconds>72432</EndMilliseconds>
+    <Text>我[@喜欢@]用纸做的风筝。
+Wǒ [@xǐhuan@] yòng zhǐ zuò de fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>72433</StartMilliseconds>
+    <EndMilliseconds>72786</EndMilliseconds>
+    <Text>我喜欢[@用@]纸做的风筝。
+Wǒ xǐhuan [@yòng@] zhǐ zuò de fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>72787</StartMilliseconds>
+    <EndMilliseconds>73105</EndMilliseconds>
+    <Text>我喜欢用[@纸@]做的风筝。
+Wǒ xǐhuan yòng [@zhǐ@] zuò de fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>73106</StartMilliseconds>
+    <EndMilliseconds>73477</EndMilliseconds>
+    <Text>我喜欢用纸[@做@]的风筝。
+Wǒ xǐhuan yòng zhǐ [@zuò@] de fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>73478</StartMilliseconds>
+    <EndMilliseconds>73648</EndMilliseconds>
+    <Text>我喜欢用纸做[@的@]风筝。
+Wǒ xǐhuan yòng zhǐ zuò [@de@] fēngzheng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>73649</StartMilliseconds>
+    <EndMilliseconds>74355</EndMilliseconds>
+    <Text>我喜欢用纸做的[@风筝@]。
+Wǒ xǐhuan yòng zhǐ zuò de [@fēngzheng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>74356</StartMilliseconds>
+    <EndMilliseconds>77513</EndMilliseconds>
+    <Text>我喜欢用纸做的风筝。
+Wǒ xǐhuan yòng zhǐ zuò de fēngzheng.</Text>
+  </Paragraph>
+</Subtitle>

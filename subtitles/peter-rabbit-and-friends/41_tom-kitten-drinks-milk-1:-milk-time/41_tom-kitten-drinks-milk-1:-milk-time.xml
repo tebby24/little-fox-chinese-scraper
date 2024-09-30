@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>11221</StartMilliseconds>
+    <EndMilliseconds>20203</EndMilliseconds>
+    <Text>汤姆喜欢去农场。
+Tāngmǔ xǐhuan qù nóngchǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>20204</StartMilliseconds>
+    <EndMilliseconds>21070</EndMilliseconds>
+    <Text>[@汤姆@]喜欢去农场。
+[@Tāngmǔ@] xǐhuan qù nóngchǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>21071</StartMilliseconds>
+    <EndMilliseconds>21773</EndMilliseconds>
+    <Text>汤姆[@喜欢@]去农场。
+Tāngmǔ [@xǐhuan@] qù nóngchǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>21774</StartMilliseconds>
+    <EndMilliseconds>22064</EndMilliseconds>
+    <Text>汤姆喜欢[@去@]农场。
+Tāngmǔ xǐhuan [@qù@] nóngchǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>22065</StartMilliseconds>
+    <EndMilliseconds>22931</EndMilliseconds>
+    <Text>汤姆喜欢去[@农场@]。
+Tāngmǔ xǐhuan qù [@nóngchǎng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>22932</StartMilliseconds>
+    <EndMilliseconds>24039</EndMilliseconds>
+    <Text>汤姆喜欢去农场。
+Tāngmǔ xǐhuan qù nóngchǎng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>24040</StartMilliseconds>
+    <EndMilliseconds>26899</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都会给奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū de qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>26900</StartMilliseconds>
+    <EndMilliseconds>27278</EndMilliseconds>
+    <Text>[@每@]天早上，农夫的妻子都会给奶牛们挤奶。
+[@Měi@] tiān zǎoshang, nóngfū de qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>27279</StartMilliseconds>
+    <EndMilliseconds>27542</EndMilliseconds>
+    <Text>每[@天@]早上，农夫的妻子都会给奶牛们挤奶。
+Měi [@tiān@] zǎoshang, nóngfū de qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>27543</StartMilliseconds>
+    <EndMilliseconds>28324</EndMilliseconds>
+    <Text>每天[@早上@]，农夫的妻子都会给奶牛们挤奶。
+Měi tiān [@zǎoshang@], nóngfū de qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>28325</StartMilliseconds>
+    <EndMilliseconds>28967</EndMilliseconds>
+    <Text>每天早上，[@农夫@]的妻子都会给奶牛们挤奶。
+Měi tiān zǎoshang, [@nóngfū@] de qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>28968</StartMilliseconds>
+    <EndMilliseconds>29155</EndMilliseconds>
+    <Text>每天早上，农夫[@的@]妻子都会给奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū [@de@] qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>29156</StartMilliseconds>
+    <EndMilliseconds>29959</EndMilliseconds>
+    <Text>每天早上，农夫的[@妻子@]都会给奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū de [@qīzi@] dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>29960</StartMilliseconds>
+    <EndMilliseconds>30354</EndMilliseconds>
+    <Text>每天早上，农夫的妻子[@都@]会给奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū de qīzi [@dōu@] huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>30355</StartMilliseconds>
+    <EndMilliseconds>30545</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都[@会@]给奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū de qīzi dōu [@huì@] gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30546</StartMilliseconds>
+    <EndMilliseconds>30771</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都会[@给@]奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū de qīzi dōu huì [@gěi@] nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30772</StartMilliseconds>
+    <EndMilliseconds>31558</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都会给[@奶牛们@]挤奶。
+Měi tiān zǎoshang, nóngfū de qīzi dōu huì gěi [@nǎiniúmen@] jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31559</StartMilliseconds>
+    <EndMilliseconds>31890</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都会给奶牛们[@挤@]奶。
+Měi tiān zǎoshang, nóngfū de qīzi dōu huì gěi nǎiniúmen [@jǐ@] nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>31891</StartMilliseconds>
+    <EndMilliseconds>32420</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都会给奶牛们挤[@奶@]。
+Měi tiān zǎoshang, nóngfū de qīzi dōu huì gěi nǎiniúmen jǐ [@nǎi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>32421</StartMilliseconds>
+    <EndMilliseconds>33843</EndMilliseconds>
+    <Text>每天早上，农夫的妻子都会给奶牛们挤奶。
+Měi tiān zǎoshang, nóngfū de qīzi dōu huì gěi nǎiniúmen jǐ nǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33844</StartMilliseconds>
+    <EndMilliseconds>34337</EndMilliseconds>
+    <Text>她总会给汤姆一点牛奶。
+Tā zǒng huì gěi Tāngmǔ yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34338</StartMilliseconds>
+    <EndMilliseconds>34714</EndMilliseconds>
+    <Text>[@她@]总会给汤姆一点牛奶。
+[@Tā@] zǒng huì gěi Tāngmǔ yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>34715</StartMilliseconds>
+    <EndMilliseconds>35027</EndMilliseconds>
+    <Text>她[@总@]会给汤姆一点牛奶。
+Tā [@zǒng@] huì gěi Tāngmǔ yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>35028</StartMilliseconds>
+    <EndMilliseconds>35235</EndMilliseconds>
+    <Text>她总[@会@]给汤姆一点牛奶。
+Tā zǒng [@huì@] gěi Tāngmǔ yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>35236</StartMilliseconds>
+    <EndMilliseconds>35445</EndMilliseconds>
+    <Text>她总会[@给@]汤姆一点牛奶。
+Tā zǒng huì [@gěi@] Tāngmǔ yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>35446</StartMilliseconds>
+    <EndMilliseconds>36076</EndMilliseconds>
+    <Text>她总会给[@汤姆@]一点牛奶。
+Tā zǒng huì gěi [@Tāngmǔ@] yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>36077</StartMilliseconds>
+    <EndMilliseconds>36691</EndMilliseconds>
+    <Text>她总会给汤姆[@一点@]牛奶。
+Tā zǒng huì gěi Tāngmǔ [@yìdiǎn@] niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>36692</StartMilliseconds>
+    <EndMilliseconds>37645</EndMilliseconds>
+    <Text>她总会给汤姆一点[@牛奶@]。
+Tā zǒng huì gěi Tāngmǔ yìdiǎn [@niúnǎi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>37646</StartMilliseconds>
+    <EndMilliseconds>38010</EndMilliseconds>
+    <Text>她总会给汤姆一点牛奶。
+Tā zǒng huì gěi Tāngmǔ yìdiǎn niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>38011</StartMilliseconds>
+    <EndMilliseconds>38311</EndMilliseconds>
+    <Text>嗯……
+Eng……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>38312</StartMilliseconds>
+    <EndMilliseconds>39700</EndMilliseconds>
+    <Text>[@嗯@]……
+[@Eng@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>39701</StartMilliseconds>
+    <EndMilliseconds>40113</EndMilliseconds>
+    <Text>嗯……
+Eng……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>40114</StartMilliseconds>
+    <EndMilliseconds>53845</EndMilliseconds>
+    <Text>有一天早上，汤姆想要更多的牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>53846</StartMilliseconds>
+    <EndMilliseconds>54285</EndMilliseconds>
+    <Text>[@有@]一天早上，汤姆想要更多的牛奶。
+[@Yǒu@] yìtiān zǎoshang, Tāngmǔ xiǎng yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>54286</StartMilliseconds>
+    <EndMilliseconds>54833</EndMilliseconds>
+    <Text>有[@一天@]早上，汤姆想要更多的牛奶。
+Yǒu [@yìtiān@] zǎoshang, Tāngmǔ xiǎng yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>54834</StartMilliseconds>
+    <EndMilliseconds>55684</EndMilliseconds>
+    <Text>有一天[@早上@]，汤姆想要更多的牛奶。
+Yǒu yìtiān [@zǎoshang@], Tāngmǔ xiǎng yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>55685</StartMilliseconds>
+    <EndMilliseconds>56468</EndMilliseconds>
+    <Text>有一天早上，[@汤姆@]想要更多的牛奶。
+Yǒu yìtiān zǎoshang, [@Tāngmǔ@] xiǎng yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>56469</StartMilliseconds>
+    <EndMilliseconds>56677</EndMilliseconds>
+    <Text>有一天早上，汤姆[@想@]要更多的牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ [@xiǎng@] yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>56678</StartMilliseconds>
+    <EndMilliseconds>56883</EndMilliseconds>
+    <Text>有一天早上，汤姆想[@要@]更多的牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng [@yào@] gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56884</StartMilliseconds>
+    <EndMilliseconds>57225</EndMilliseconds>
+    <Text>有一天早上，汤姆想要[@更@]多的牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng yào [@gèng@] duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>57226</StartMilliseconds>
+    <EndMilliseconds>57430</EndMilliseconds>
+    <Text>有一天早上，汤姆想要更[@多@]的牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng yào gèng [@duō@] de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>57431</StartMilliseconds>
+    <EndMilliseconds>57587</EndMilliseconds>
+    <Text>有一天早上，汤姆想要更多[@的@]牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng yào gèng duō [@de@] niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>57588</StartMilliseconds>
+    <EndMilliseconds>58294</EndMilliseconds>
+    <Text>有一天早上，汤姆想要更多的[@牛奶@]。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng yào gèng duō de [@niúnǎi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>58295</StartMilliseconds>
+    <EndMilliseconds>65304</EndMilliseconds>
+    <Text>有一天早上，汤姆想要更多的牛奶。
+Yǒu yìtiān zǎoshang, Tāngmǔ xiǎng yào gèng duō de niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65305</StartMilliseconds>
+    <EndMilliseconds>66793</EndMilliseconds>
+    <Text>所以，他向小羊圈跑去。
+Suǒyǐ, tā xiàng xiǎoyáng juàn pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>66794</StartMilliseconds>
+    <EndMilliseconds>67687</EndMilliseconds>
+    <Text>[@所以@]，他向小羊圈跑去。
+[@Suǒyǐ@], tā xiàng xiǎoyáng juàn pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>67688</StartMilliseconds>
+    <EndMilliseconds>67943</EndMilliseconds>
+    <Text>所以，[@他@]向小羊圈跑去。
+Suǒyǐ, [@tā@] xiàng xiǎoyáng juàn pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>67944</StartMilliseconds>
+    <EndMilliseconds>68356</EndMilliseconds>
+    <Text>所以，他[@向@]小羊圈跑去。
+Suǒyǐ, tā [@xiàng@] xiǎoyáng juàn pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>68357</StartMilliseconds>
+    <EndMilliseconds>69003</EndMilliseconds>
+    <Text>所以，他向[@小羊@]圈跑去。
+Suǒyǐ, tā xiàng [@xiǎoyáng@] juàn pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>69004</StartMilliseconds>
+    <EndMilliseconds>69288</EndMilliseconds>
+    <Text>所以，他向小羊[@圈@]跑去。
+Suǒyǐ, tā xiàng xiǎoyáng [@juàn@] pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>69289</StartMilliseconds>
+    <EndMilliseconds>70115</EndMilliseconds>
+    <Text>所以，他向小羊圈[@跑去@]。
+Suǒyǐ, tā xiàng xiǎoyáng juàn [@pǎoqu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>70116</StartMilliseconds>
+    <EndMilliseconds>70462</EndMilliseconds>
+    <Text>所以，他向小羊圈跑去。
+Suǒyǐ, tā xiàng xiǎoyáng juàn pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>70463</StartMilliseconds>
+    <EndMilliseconds>72047</EndMilliseconds>
+    <Text>汤姆藏在羊毛下面。
+Tāngmǔ cángzài yángmáo xiàmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>72048</StartMilliseconds>
+    <EndMilliseconds>72771</EndMilliseconds>
+    <Text>[@汤姆@]藏在羊毛下面。
+[@Tāngmǔ@] cángzài yángmáo xiàmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>72772</StartMilliseconds>
+    <EndMilliseconds>73431</EndMilliseconds>
+    <Text>汤姆[@藏在@]羊毛下面。
+Tāngmǔ [@cángzài@] yángmáo xiàmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>73432</StartMilliseconds>
+    <EndMilliseconds>74005</EndMilliseconds>
+    <Text>汤姆藏在[@羊毛@]下面。
+Tāngmǔ cángzài [@yángmáo@] xiàmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>74006</StartMilliseconds>
+    <EndMilliseconds>74668</EndMilliseconds>
+    <Text>汤姆藏在羊毛[@下面@]。
+Tāngmǔ cángzài yángmáo [@xiàmian@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>74669</StartMilliseconds>
+    <EndMilliseconds>75240</EndMilliseconds>
+    <Text>汤姆藏在羊毛下面。
+Tāngmǔ cángzài yángmáo xiàmian.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>75241</StartMilliseconds>
+    <EndMilliseconds>76604</EndMilliseconds>
+    <Text>很快，农夫的妻子就来了。
+Hěn kuài, nóngfū de qīzi jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>76605</StartMilliseconds>
+    <EndMilliseconds>77103</EndMilliseconds>
+    <Text>[@很@]快，农夫的妻子就来了。
+[@Hěn@] kuài, nóngfū de qīzi jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>77104</StartMilliseconds>
+    <EndMilliseconds>77750</EndMilliseconds>
+    <Text>很[@快@]，农夫的妻子就来了。
+Hěn [@kuài@], nóngfū de qīzi jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>77751</StartMilliseconds>
+    <EndMilliseconds>78343</EndMilliseconds>
+    <Text>很快，[@农夫@]的妻子就来了。
+Hěn kuài, [@nóngfū@] de qīzi jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>78344</StartMilliseconds>
+    <EndMilliseconds>78549</EndMilliseconds>
+    <Text>很快，农夫[@的@]妻子就来了。
+Hěn kuài, nóngfū [@de@] qīzi jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>78550</StartMilliseconds>
+    <EndMilliseconds>79210</EndMilliseconds>
+    <Text>很快，农夫的[@妻子@]就来了。
+Hěn kuài, nóngfū de [@qīzi@] jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>79211</StartMilliseconds>
+    <EndMilliseconds>79540</EndMilliseconds>
+    <Text>很快，农夫的妻子[@就@]来了。
+Hěn kuài, nóngfū de qīzi [@jiù@] lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>79541</StartMilliseconds>
+    <EndMilliseconds>79887</EndMilliseconds>
+    <Text>很快，农夫的妻子就[@来@]了。
+Hěn kuài, nóngfū de qīzi jiù [@lái@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>79888</StartMilliseconds>
+    <EndMilliseconds>80336</EndMilliseconds>
+    <Text>很快，农夫的妻子就来[@了@]。
+Hěn kuài, nóngfū de qīzi jiù lái [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>80337</StartMilliseconds>
+    <EndMilliseconds>81441</EndMilliseconds>
+    <Text>很快，农夫的妻子就来了。
+Hěn kuài, nóngfū de qīzi jiù lái le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>81442</StartMilliseconds>
+    <EndMilliseconds>82092</EndMilliseconds>
+    <Text>她拿了几瓶牛奶喂小羊们。
+Tā ná le jǐ píng niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>82093</StartMilliseconds>
+    <EndMilliseconds>82453</EndMilliseconds>
+    <Text>[@她@]拿了几瓶牛奶喂小羊们。
+[@Tā@] ná le jǐ píng niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>82454</StartMilliseconds>
+    <EndMilliseconds>82674</EndMilliseconds>
+    <Text>她[@拿@]了几瓶牛奶喂小羊们。
+Tā [@ná@] le jǐ píng niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>82675</StartMilliseconds>
+    <EndMilliseconds>82830</EndMilliseconds>
+    <Text>她拿[@了@]几瓶牛奶喂小羊们。
+Tā ná [@le@] jǐ píng niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>82831</StartMilliseconds>
+    <EndMilliseconds>83101</EndMilliseconds>
+    <Text>她拿了[@几@]瓶牛奶喂小羊们。
+Tā ná le [@jǐ@] píng niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>83102</StartMilliseconds>
+    <EndMilliseconds>83303</EndMilliseconds>
+    <Text>她拿了几[@瓶@]牛奶喂小羊们。
+Tā ná le jǐ [@píng@] niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>83304</StartMilliseconds>
+    <EndMilliseconds>84148</EndMilliseconds>
+    <Text>她拿了几瓶[@牛奶@]喂小羊们。
+Tā ná le jǐ píng [@niúnǎi@] wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>84149</StartMilliseconds>
+    <EndMilliseconds>84383</EndMilliseconds>
+    <Text>她拿了几瓶牛奶[@喂@]小羊们。
+Tā ná le jǐ píng niúnǎi [@wèi@] xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>84384</StartMilliseconds>
+    <EndMilliseconds>85447</EndMilliseconds>
+    <Text>她拿了几瓶牛奶喂[@小羊们@]。
+Tā ná le jǐ píng niúnǎi wèi [@xiǎoyángmen@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>85448</StartMilliseconds>
+    <EndMilliseconds>86957</EndMilliseconds>
+    <Text>她拿了几瓶牛奶喂小羊们。
+Tā ná le jǐ píng niúnǎi wèi xiǎoyángmen.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>86958</StartMilliseconds>
+    <EndMilliseconds>95833</EndMilliseconds>
+    <Text>农夫的妻子发现了汤姆。
+Nóngfū de qīzi fāxiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>95834</StartMilliseconds>
+    <EndMilliseconds>96498</EndMilliseconds>
+    <Text>[@农夫@]的妻子发现了汤姆。
+[@Nóngfū@] de qīzi fāxiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>96499</StartMilliseconds>
+    <EndMilliseconds>96675</EndMilliseconds>
+    <Text>农夫[@的@]妻子发现了汤姆。
+Nóngfū [@de@] qīzi fāxiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>96676</StartMilliseconds>
+    <EndMilliseconds>97531</EndMilliseconds>
+    <Text>农夫的[@妻子@]发现了汤姆。
+Nóngfū de [@qīzi@] fāxiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>97532</StartMilliseconds>
+    <EndMilliseconds>98160</EndMilliseconds>
+    <Text>农夫的妻子[@发现@]了汤姆。
+Nóngfū de qīzi [@fāxiàn@] le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>98161</StartMilliseconds>
+    <EndMilliseconds>98369</EndMilliseconds>
+    <Text>农夫的妻子发现[@了@]汤姆。
+Nóngfū de qīzi fāxiàn [@le@] Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>98370</StartMilliseconds>
+    <EndMilliseconds>99044</EndMilliseconds>
+    <Text>农夫的妻子发现了[@汤姆@]。
+Nóngfū de qīzi fāxiàn le [@Tāngmǔ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>99045</StartMilliseconds>
+    <EndMilliseconds>99512</EndMilliseconds>
+    <Text>农夫的妻子发现了汤姆。
+Nóngfū de qīzi fāxiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>99513</StartMilliseconds>
+    <EndMilliseconds>100359</EndMilliseconds>
+    <Text>“傻猫！”农夫的妻子说，
+"Shǎ māo!" Nóngfū de qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>100360</StartMilliseconds>
+    <EndMilliseconds>100805</EndMilliseconds>
+    <Text>“[@傻@]猫！”农夫的妻子说，
+"[@Shǎ@] māo!" Nóngfū de qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>100806</StartMilliseconds>
+    <EndMilliseconds>101296</EndMilliseconds>
+    <Text>“傻[@猫@]！”农夫的妻子说，
+"Shǎ [@māo@]!" Nóngfū de qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>101297</StartMilliseconds>
+    <EndMilliseconds>101497</EndMilliseconds>
+    <Text>“傻猫！”农夫的妻子说，
+"Shǎ māo!" Nóngfū de qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>101498</StartMilliseconds>
+    <EndMilliseconds>102079</EndMilliseconds>
+    <Text>“傻猫！”[@农夫@]的妻子说，
+"Shǎ māo!" [@Nóngfū@] de qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>102080</StartMilliseconds>
+    <EndMilliseconds>102228</EndMilliseconds>
+    <Text>“傻猫！”农夫[@的@]妻子说，
+"Shǎ māo!" Nóngfū [@de@] qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>102229</StartMilliseconds>
+    <EndMilliseconds>102839</EndMilliseconds>
+    <Text>“傻猫！”农夫的[@妻子@]说，
+"Shǎ māo!" Nóngfū de [@qīzi@] shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>102840</StartMilliseconds>
+    <EndMilliseconds>103387</EndMilliseconds>
+    <Text>“傻猫！”农夫的妻子[@说@]，
+"Shǎ māo!" Nóngfū de qīzi [@shuō@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>103388</StartMilliseconds>
+    <EndMilliseconds>104093</EndMilliseconds>
+    <Text>“傻猫！”农夫的妻子说，
+"Shǎ māo!" Nóngfū de qīzi shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>104094</StartMilliseconds>
+    <EndMilliseconds>104545</EndMilliseconds>
+    <Text>“你已经喝过牛奶了！”
+"Nǐ yǐjing hēguo niúnǎi le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>104546</StartMilliseconds>
+    <EndMilliseconds>104793</EndMilliseconds>
+    <Text>“[@你@]已经喝过牛奶了！”
+"[@Nǐ@] yǐjing hēguo niúnǎi le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>104794</StartMilliseconds>
+    <EndMilliseconds>105093</EndMilliseconds>
+    <Text>“你[@已经@]喝过牛奶了！”
+"Nǐ [@yǐjing@] hēguo niúnǎi le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>105094</StartMilliseconds>
+    <EndMilliseconds>105547</EndMilliseconds>
+    <Text>“你已经[@喝过@]牛奶了！”
+"Nǐ yǐjing [@hēguo@] niúnǎi le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>105548</StartMilliseconds>
+    <EndMilliseconds>106010</EndMilliseconds>
+    <Text>“你已经喝过[@牛奶@]了！”
+"Nǐ yǐjing hēguo [@niúnǎi@] le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>106011</StartMilliseconds>
+    <EndMilliseconds>106492</EndMilliseconds>
+    <Text>“你已经喝过牛奶[@了@]！”
+"Nǐ yǐjing hēguo niúnǎi [@le@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>106493</StartMilliseconds>
+    <EndMilliseconds>115484</EndMilliseconds>
+    <Text>“你已经喝过牛奶了！”
+"Nǐ yǐjing hēguo niúnǎi le!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>115485</StartMilliseconds>
+    <EndMilliseconds>116871</EndMilliseconds>
+    <Text>然后，农夫的妻子去了山羊圈。
+Ránhòu, nóngfū de qīzi qù le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>116872</StartMilliseconds>
+    <EndMilliseconds>117881</EndMilliseconds>
+    <Text>[@然后@]，农夫的妻子去了山羊圈。
+[@Ránhòu@], nóngfū de qīzi qù le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>117882</StartMilliseconds>
+    <EndMilliseconds>118424</EndMilliseconds>
+    <Text>然后，[@农夫@]的妻子去了山羊圈。
+Ránhòu, [@nóngfū@] de qīzi qù le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>118425</StartMilliseconds>
+    <EndMilliseconds>118618</EndMilliseconds>
+    <Text>然后，农夫[@的@]妻子去了山羊圈。
+Ránhòu, nóngfū [@de@] qīzi qù le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>118619</StartMilliseconds>
+    <EndMilliseconds>119369</EndMilliseconds>
+    <Text>然后，农夫的[@妻子@]去了山羊圈。
+Ránhòu, nóngfū de [@qīzi@] qù le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>119370</StartMilliseconds>
+    <EndMilliseconds>119615</EndMilliseconds>
+    <Text>然后，农夫的妻子[@去@]了山羊圈。
+Ránhòu, nóngfū de qīzi [@qù@] le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>119616</StartMilliseconds>
+    <EndMilliseconds>119820</EndMilliseconds>
+    <Text>然后，农夫的妻子去[@了@]山羊圈。
+Ránhòu, nóngfū de qīzi qù [@le@] shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>119821</StartMilliseconds>
+    <EndMilliseconds>120418</EndMilliseconds>
+    <Text>然后，农夫的妻子去了[@山羊@]圈。
+Ránhòu, nóngfū de qīzi qù le [@shānyáng@] juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>120419</StartMilliseconds>
+    <EndMilliseconds>120878</EndMilliseconds>
+    <Text>然后，农夫的妻子去了山羊[@圈@]。
+Ránhòu, nóngfū de qīzi qù le shānyáng [@juàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>120879</StartMilliseconds>
+    <EndMilliseconds>121147</EndMilliseconds>
+    <Text>然后，农夫的妻子去了山羊圈。
+Ránhòu, nóngfū de qīzi qù le shānyáng juàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>121148</StartMilliseconds>
+    <EndMilliseconds>121401</EndMilliseconds>
+    <Text>她拿了几瓶牛奶。
+Tā ná le jǐ píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>121402</StartMilliseconds>
+    <EndMilliseconds>121691</EndMilliseconds>
+    <Text>[@她@]拿了几瓶牛奶。
+[@Tā@] ná le jǐ píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>121692</StartMilliseconds>
+    <EndMilliseconds>121915</EndMilliseconds>
+    <Text>她[@拿@]了几瓶牛奶。
+Tā [@ná@] le jǐ píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>121916</StartMilliseconds>
+    <EndMilliseconds>122121</EndMilliseconds>
+    <Text>她拿[@了@]几瓶牛奶。
+Tā ná [@le@] jǐ píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>122122</StartMilliseconds>
+    <EndMilliseconds>122327</EndMilliseconds>
+    <Text>她拿了[@几@]瓶牛奶。
+Tā ná le [@jǐ@] píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>122328</StartMilliseconds>
+    <EndMilliseconds>122633</EndMilliseconds>
+    <Text>她拿了几[@瓶@]牛奶。
+Tā ná le jǐ [@píng@] niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>122634</StartMilliseconds>
+    <EndMilliseconds>123383</EndMilliseconds>
+    <Text>她拿了几瓶[@牛奶@]。
+Tā ná le jǐ píng [@niúnǎi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>123384</StartMilliseconds>
+    <EndMilliseconds>126519</EndMilliseconds>
+    <Text>她拿了几瓶牛奶。
+Tā ná le jǐ píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>126520</StartMilliseconds>
+    <EndMilliseconds>127129</EndMilliseconds>
+    <Text>汤姆跟着她跑。
+Tāngmǔ gēnzhe tā pǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>127130</StartMilliseconds>
+    <EndMilliseconds>127758</EndMilliseconds>
+    <Text>[@汤姆@]跟着她跑。
+[@Tāngmǔ@] gēnzhe tā pǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>127759</StartMilliseconds>
+    <EndMilliseconds>128282</EndMilliseconds>
+    <Text>汤姆[@跟着@]她跑。
+Tāngmǔ [@gēnzhe@] tā pǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>128283</StartMilliseconds>
+    <EndMilliseconds>128598</EndMilliseconds>
+    <Text>汤姆跟着[@她@]跑。
+Tāngmǔ gēnzhe [@tā@] pǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>128599</StartMilliseconds>
+    <EndMilliseconds>129005</EndMilliseconds>
+    <Text>汤姆跟着她[@跑@]。
+Tāngmǔ gēnzhe tā [@pǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>129006</StartMilliseconds>
+    <EndMilliseconds>130449</EndMilliseconds>
+    <Text>汤姆跟着她跑。
+Tāngmǔ gēnzhe tā pǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>130450</StartMilliseconds>
+    <EndMilliseconds>131872</EndMilliseconds>
+    <Text>汤姆想拿一瓶牛奶。
+Tāngmǔ xiǎng ná yì píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>131873</StartMilliseconds>
+    <EndMilliseconds>132548</EndMilliseconds>
+    <Text>[@汤姆@]想拿一瓶牛奶。
+[@Tāngmǔ@] xiǎng ná yì píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>132549</StartMilliseconds>
+    <EndMilliseconds>132808</EndMilliseconds>
+    <Text>汤姆[@想@]拿一瓶牛奶。
+Tāngmǔ [@xiǎng@] ná yì píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>132809</StartMilliseconds>
+    <EndMilliseconds>132998</EndMilliseconds>
+    <Text>汤姆想[@拿@]一瓶牛奶。
+Tāngmǔ xiǎng [@ná@] yì píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>132999</StartMilliseconds>
+    <EndMilliseconds>133270</EndMilliseconds>
+    <Text>汤姆想拿[@一@]瓶牛奶。
+Tāngmǔ xiǎng ná [@yì@] píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>133271</StartMilliseconds>
+    <EndMilliseconds>133541</EndMilliseconds>
+    <Text>汤姆想拿一[@瓶@]牛奶。
+Tāngmǔ xiǎng ná yì [@píng@] niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>133542</StartMilliseconds>
+    <EndMilliseconds>134217</EndMilliseconds>
+    <Text>汤姆想拿一瓶[@牛奶@]。
+Tāngmǔ xiǎng ná yì píng [@niúnǎi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>134218</StartMilliseconds>
+    <EndMilliseconds>134475</EndMilliseconds>
+    <Text>汤姆想拿一瓶牛奶。
+Tāngmǔ xiǎng ná yì píng niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>134476</StartMilliseconds>
+    <EndMilliseconds>135394</EndMilliseconds>
+    <Text>“哼！”山羊们说，
+"Hēng!" Shānyángmen shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>135395</StartMilliseconds>
+    <EndMilliseconds>135922</EndMilliseconds>
+    <Text>“[@哼@]！”山羊们说，
+"[@Hēng@]!" Shānyángmen shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>135923</StartMilliseconds>
+    <EndMilliseconds>136097</EndMilliseconds>
+    <Text>“哼！”山羊们说，
+"Hēng!" Shānyángmen shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>138</Number>
+    <StartMilliseconds>136098</StartMilliseconds>
+    <EndMilliseconds>137082</EndMilliseconds>
+    <Text>“哼！”[@山羊们@]说，
+"Hēng!" [@Shānyángmen@] shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>139</Number>
+    <StartMilliseconds>137083</StartMilliseconds>
+    <EndMilliseconds>137678</EndMilliseconds>
+    <Text>“哼！”山羊们[@说@]，
+"Hēng!" Shānyángmen [@shuō@],</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>140</Number>
+    <StartMilliseconds>137679</StartMilliseconds>
+    <EndMilliseconds>137813</EndMilliseconds>
+    <Text>“哼！”山羊们说，
+"Hēng!" Shānyángmen shuō,</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>141</Number>
+    <StartMilliseconds>137814</StartMilliseconds>
+    <EndMilliseconds>137937</EndMilliseconds>
+    <Text>“走开，汤姆！”
+"Zǒukāi, Tāngmǔ!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>142</Number>
+    <StartMilliseconds>137938</StartMilliseconds>
+    <EndMilliseconds>138668</EndMilliseconds>
+    <Text>“[@走开@]，汤姆！”
+"[@Zǒukāi@], Tāngmǔ!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>143</Number>
+    <StartMilliseconds>138669</StartMilliseconds>
+    <EndMilliseconds>139435</EndMilliseconds>
+    <Text>“走开，[@汤姆@]！”
+"Zǒukāi, [@Tāngmǔ@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>144</Number>
+    <StartMilliseconds>139436</StartMilliseconds>
+    <EndMilliseconds>140693</EndMilliseconds>
+    <Text>“走开，汤姆！”
+"Zǒukāi, Tāngmǔ!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>145</Number>
+    <StartMilliseconds>140694</StartMilliseconds>
+    <EndMilliseconds>141826</EndMilliseconds>
+    <Text>农夫的妻子看见了汤姆。
+Nóngfū de qīzi kànjiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>146</Number>
+    <StartMilliseconds>141827</StartMilliseconds>
+    <EndMilliseconds>142463</EndMilliseconds>
+    <Text>[@农夫@]的妻子看见了汤姆。
+[@Nóngfū@] de qīzi kànjiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>147</Number>
+    <StartMilliseconds>142464</StartMilliseconds>
+    <EndMilliseconds>142623</EndMilliseconds>
+    <Text>农夫[@的@]妻子看见了汤姆。
+Nóngfū [@de@] qīzi kànjiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>148</Number>
+    <StartMilliseconds>142624</StartMilliseconds>
+    <EndMilliseconds>143353</EndMilliseconds>
+    <Text>农夫的[@妻子@]看见了汤姆。
+Nóngfū de [@qīzi@] kànjiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>149</Number>
+    <StartMilliseconds>143354</StartMilliseconds>
+    <EndMilliseconds>143899</EndMilliseconds>
+    <Text>农夫的妻子[@看见@]了汤姆。
+Nóngfū de qīzi [@kànjiàn@] le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>150</Number>
+    <StartMilliseconds>143900</StartMilliseconds>
+    <EndMilliseconds>144115</EndMilliseconds>
+    <Text>农夫的妻子看见[@了@]汤姆。
+Nóngfū de qīzi kànjiàn [@le@] Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>151</Number>
+    <StartMilliseconds>144116</StartMilliseconds>
+    <EndMilliseconds>144759</EndMilliseconds>
+    <Text>农夫的妻子看见了[@汤姆@]。
+Nóngfū de qīzi kànjiàn le [@Tāngmǔ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>152</Number>
+    <StartMilliseconds>144760</StartMilliseconds>
+    <EndMilliseconds>145131</EndMilliseconds>
+    <Text>农夫的妻子看见了汤姆。
+Nóngfū de qīzi kànjiàn le Tāngmǔ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>153</Number>
+    <StartMilliseconds>145132</StartMilliseconds>
+    <EndMilliseconds>145465</EndMilliseconds>
+    <Text>“淘气的小猫！”她说，“走开！”
+"Táoqì de xiǎomāo!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>154</Number>
+    <StartMilliseconds>145466</StartMilliseconds>
+    <EndMilliseconds>145924</EndMilliseconds>
+    <Text>“[@淘气@]的小猫！”她说，“走开！”
+"[@Táoqì@] de xiǎomāo!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>155</Number>
+    <StartMilliseconds>145925</StartMilliseconds>
+    <EndMilliseconds>146026</EndMilliseconds>
+    <Text>“淘气[@的@]小猫！”她说，“走开！”
+"Táoqì [@de@] xiǎomāo!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>156</Number>
+    <StartMilliseconds>146027</StartMilliseconds>
+    <EndMilliseconds>146677</EndMilliseconds>
+    <Text>“淘气的[@小猫@]！”她说，“走开！”
+"Táoqì de [@xiǎomāo@]!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>157</Number>
+    <StartMilliseconds>146678</StartMilliseconds>
+    <EndMilliseconds>146870</EndMilliseconds>
+    <Text>“淘气的小猫！”她说，“走开！”
+"Táoqì de xiǎomāo!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>158</Number>
+    <StartMilliseconds>146871</StartMilliseconds>
+    <EndMilliseconds>147226</EndMilliseconds>
+    <Text>“淘气的小猫！”[@她@]说，“走开！”
+"Táoqì de xiǎomāo!" [@Tā@] shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>159</Number>
+    <StartMilliseconds>147227</StartMilliseconds>
+    <EndMilliseconds>147774</EndMilliseconds>
+    <Text>“淘气的小猫！”她[@说@]，“走开！”
+"Táoqì de xiǎomāo!" Tā [@shuō@], "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>160</Number>
+    <StartMilliseconds>147775</StartMilliseconds>
+    <EndMilliseconds>148057</EndMilliseconds>
+    <Text>“淘气的小猫！”她说，“走开！”
+"Táoqì de xiǎomāo!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>161</Number>
+    <StartMilliseconds>148058</StartMilliseconds>
+    <EndMilliseconds>148941</EndMilliseconds>
+    <Text>“淘气的小猫！”她说，“[@走开@]！”
+"Táoqì de xiǎomāo!" Tā shuō, "[@Zǒukāi@]!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>162</Number>
+    <StartMilliseconds>148942</StartMilliseconds>
+    <EndMilliseconds>150935</EndMilliseconds>
+    <Text>“淘气的小猫！”她说，“走开！”
+"Táoqì de xiǎomāo!" Tā shuō, "Zǒukāi!"</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>163</Number>
+    <StartMilliseconds>150936</StartMilliseconds>
+    <EndMilliseconds>154351</EndMilliseconds>
+    <Text>农夫的妻子给了可彼一些牛奶。
+Nóngfū de qīzi gěi le Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>164</Number>
+    <StartMilliseconds>154352</StartMilliseconds>
+    <EndMilliseconds>154992</EndMilliseconds>
+    <Text>[@农夫@]的妻子给了可彼一些牛奶。
+[@Nóngfū@] de qīzi gěi le Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>165</Number>
+    <StartMilliseconds>154993</StartMilliseconds>
+    <EndMilliseconds>155156</EndMilliseconds>
+    <Text>农夫[@的@]妻子给了可彼一些牛奶。
+Nóngfū [@de@] qīzi gěi le Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>166</Number>
+    <StartMilliseconds>155157</StartMilliseconds>
+    <EndMilliseconds>156075</EndMilliseconds>
+    <Text>农夫的[@妻子@]给了可彼一些牛奶。
+Nóngfū de [@qīzi@] gěi le Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>167</Number>
+    <StartMilliseconds>156076</StartMilliseconds>
+    <EndMilliseconds>156329</EndMilliseconds>
+    <Text>农夫的妻子[@给@]了可彼一些牛奶。
+Nóngfū de qīzi [@gěi@] le Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>168</Number>
+    <StartMilliseconds>156330</StartMilliseconds>
+    <EndMilliseconds>156485</EndMilliseconds>
+    <Text>农夫的妻子给[@了@]可彼一些牛奶。
+Nóngfū de qīzi gěi [@le@] Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>169</Number>
+    <StartMilliseconds>156486</StartMilliseconds>
+    <EndMilliseconds>157132</EndMilliseconds>
+    <Text>农夫的妻子给了[@可彼@]一些牛奶。
+Nóngfū de qīzi gěi le [@Kěbǐ@] yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>170</Number>
+    <StartMilliseconds>157133</StartMilliseconds>
+    <EndMilliseconds>157634</EndMilliseconds>
+    <Text>农夫的妻子给了可彼[@一些@]牛奶。
+Nóngfū de qīzi gěi le Kěbǐ [@yìxiē@] niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>171</Number>
+    <StartMilliseconds>157635</StartMilliseconds>
+    <EndMilliseconds>158533</EndMilliseconds>
+    <Text>农夫的妻子给了可彼一些[@牛奶@]。
+Nóngfū de qīzi gěi le Kěbǐ yìxiē [@niúnǎi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>172</Number>
+    <StartMilliseconds>158534</StartMilliseconds>
+    <EndMilliseconds>162883</EndMilliseconds>
+    <Text>农夫的妻子给了可彼一些牛奶。
+Nóngfū de qīzi gěi le Kěbǐ yìxiē niúnǎi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>173</Number>
+    <StartMilliseconds>162884</StartMilliseconds>
+    <EndMilliseconds>165210</EndMilliseconds>
+    <Text>汤姆向可彼跑去。
+Tāngmǔ xiàng Kěbǐ pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>174</Number>
+    <StartMilliseconds>165211</StartMilliseconds>
+    <EndMilliseconds>165946</EndMilliseconds>
+    <Text>[@汤姆@]向可彼跑去。
+[@Tāngmǔ@] xiàng Kěbǐ pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>175</Number>
+    <StartMilliseconds>165947</StartMilliseconds>
+    <EndMilliseconds>166314</EndMilliseconds>
+    <Text>汤姆[@向@]可彼跑去。
+Tāngmǔ [@xiàng@] Kěbǐ pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>176</Number>
+    <StartMilliseconds>166315</StartMilliseconds>
+    <EndMilliseconds>166892</EndMilliseconds>
+    <Text>汤姆向[@可彼@]跑去。
+Tāngmǔ xiàng [@Kěbǐ@] pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>177</Number>
+    <StartMilliseconds>166893</StartMilliseconds>
+    <EndMilliseconds>167605</EndMilliseconds>
+    <Text>汤姆向可彼[@跑去@]。
+Tāngmǔ xiàng Kěbǐ [@pǎoqu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>178</Number>
+    <StartMilliseconds>167606</StartMilliseconds>
+    <EndMilliseconds>173991</EndMilliseconds>
+    <Text>汤姆向可彼跑去。
+Tāngmǔ xiàng Kěbǐ pǎoqu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>179</Number>
+    <StartMilliseconds>173992</StartMilliseconds>
+    <EndMilliseconds>176583</EndMilliseconds>
+    <Text>可是，可彼低吼道。
+Kěshì, Kěbǐ dī hǒu dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>180</Number>
+    <StartMilliseconds>176584</StartMilliseconds>
+    <EndMilliseconds>177561</EndMilliseconds>
+    <Text>[@可是@]，可彼低吼道。
+[@Kěshì@], Kěbǐ dī hǒu dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>181</Number>
+    <StartMilliseconds>177562</StartMilliseconds>
+    <EndMilliseconds>178343</EndMilliseconds>
+    <Text>可是，[@可彼@]低吼道。
+Kěshì, [@Kěbǐ@] dī hǒu dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>182</Number>
+    <StartMilliseconds>178344</StartMilliseconds>
+    <EndMilliseconds>178657</EndMilliseconds>
+    <Text>可是，可彼[@低@]吼道。
+Kěshì, Kěbǐ [@dī@] hǒu dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>183</Number>
+    <StartMilliseconds>178658</StartMilliseconds>
+    <EndMilliseconds>178924</EndMilliseconds>
+    <Text>可是，可彼低[@吼@]道。
+Kěshì, Kěbǐ dī [@hǒu@] dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>184</Number>
+    <StartMilliseconds>178925</StartMilliseconds>
+    <EndMilliseconds>179305</EndMilliseconds>
+    <Text>可是，可彼低吼[@道@]。
+Kěshì, Kěbǐ dī hǒu [@dào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>185</Number>
+    <StartMilliseconds>179306</StartMilliseconds>
+    <EndMilliseconds>179625</EndMilliseconds>
+    <Text>可是，可彼低吼道。
+Kěshì, Kěbǐ dī hǒu dào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>186</Number>
+    <StartMilliseconds>179626</StartMilliseconds>
+    <EndMilliseconds>179999</EndMilliseconds>
+    <Text>“走开，汤姆！”他说。
+"Zǒukāi, Tāngmǔ!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>187</Number>
+    <StartMilliseconds>180000</StartMilliseconds>
+    <EndMilliseconds>180616</EndMilliseconds>
+    <Text>“[@走开@]，汤姆！”他说。
+"[@Zǒukāi@], Tāngmǔ!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>188</Number>
+    <StartMilliseconds>180617</StartMilliseconds>
+    <EndMilliseconds>181387</EndMilliseconds>
+    <Text>“走开，[@汤姆@]！”他说。
+"Zǒukāi, [@Tāngmǔ@]!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>189</Number>
+    <StartMilliseconds>181388</StartMilliseconds>
+    <EndMilliseconds>181611</EndMilliseconds>
+    <Text>“走开，汤姆！”他说。
+"Zǒukāi, Tāngmǔ!" Tā shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>190</Number>
+    <StartMilliseconds>181612</StartMilliseconds>
+    <EndMilliseconds>181992</EndMilliseconds>
+    <Text>“走开，汤姆！”[@他@]说。
+"Zǒukāi, Tāngmǔ!" [@Tā@] shuō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>191</Number>
+    <StartMilliseconds>181993</StartMilliseconds>
+    <EndMilliseconds>182602</EndMilliseconds>
+    <Text>“走开，汤姆！”他[@说@]。
+"Zǒukāi, Tāngmǔ!" Tā [@shuō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>192</Number>
+    <StartMilliseconds>182603</StartMilliseconds>
+    <EndMilliseconds>187000</EndMilliseconds>
+    <Text>“走开，汤姆！”他说。
+"Zǒukāi, Tāngmǔ!" Tā shuō.</Text>
+  </Paragraph>
+</Subtitle>

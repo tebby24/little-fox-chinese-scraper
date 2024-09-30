@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10355</StartMilliseconds>
+    <EndMilliseconds>12739</EndMilliseconds>
+    <Text>布朗老师：今天是这个学期最后一天。
+Bùlǎng lǎoshī: Jīntiān shì zhè ge xuéqī zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12740</StartMilliseconds>
+    <EndMilliseconds>13350</EndMilliseconds>
+    <Text>布朗老师：[@今天@]是这个学期最后一天。
+Bùlǎng lǎoshī: [@Jīntiān@] shì zhè ge xuéqī zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13351</StartMilliseconds>
+    <EndMilliseconds>13704</EndMilliseconds>
+    <Text>布朗老师：今天[@是@]这个学期最后一天。
+Bùlǎng lǎoshī: Jīntiān [@shì@] zhè ge xuéqī zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13705</StartMilliseconds>
+    <EndMilliseconds>13851</EndMilliseconds>
+    <Text>布朗老师：今天是[@这@]个学期最后一天。
+Bùlǎng lǎoshī: Jīntiān shì [@zhè@] ge xuéqī zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13852</StartMilliseconds>
+    <EndMilliseconds>14000</EndMilliseconds>
+    <Text>布朗老师：今天是这[@个@]学期最后一天。
+Bùlǎng lǎoshī: Jīntiān shì zhè [@ge@] xuéqī zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14001</StartMilliseconds>
+    <EndMilliseconds>14506</EndMilliseconds>
+    <Text>布朗老师：今天是这个[@学期@]最后一天。
+Bùlǎng lǎoshī: Jīntiān shì zhè ge [@xuéqī@] zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14507</StartMilliseconds>
+    <EndMilliseconds>15045</EndMilliseconds>
+    <Text>布朗老师：今天是这个学期[@最后@]一天。
+Bùlǎng lǎoshī: Jīntiān shì zhè ge xuéqī [@zuìhòu@] yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15046</StartMilliseconds>
+    <EndMilliseconds>15675</EndMilliseconds>
+    <Text>布朗老师：今天是这个学期最后[@一天@]。
+Bùlǎng lǎoshī: Jīntiān shì zhè ge xuéqī zuìhòu [@yìtiān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15676</StartMilliseconds>
+    <EndMilliseconds>15865</EndMilliseconds>
+    <Text>布朗老师：今天是这个学期最后一天。
+Bùlǎng lǎoshī: Jīntiān shì zhè ge xuéqī zuìhòu yìtiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15866</StartMilliseconds>
+    <EndMilliseconds>16121</EndMilliseconds>
+    <Text>同学们：耶！
+tóngxuémen: Yē!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16122</StartMilliseconds>
+    <EndMilliseconds>17756</EndMilliseconds>
+    <Text>同学们：[@耶@]！
+tóngxuémen: [@Yē@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>17757</StartMilliseconds>
+    <EndMilliseconds>18629</EndMilliseconds>
+    <Text>同学们：耶！
+tóngxuémen: Yē!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>18630</StartMilliseconds>
+    <EndMilliseconds>19830</EndMilliseconds>
+    <Text>布朗老师：你们暑假打算做什么？
+Bùlǎng lǎoshī: Nǐmen shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>19831</StartMilliseconds>
+    <EndMilliseconds>20182</EndMilliseconds>
+    <Text>布朗老师：[@你们@]暑假打算做什么？
+Bùlǎng lǎoshī: [@Nǐmen@] shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>20183</StartMilliseconds>
+    <EndMilliseconds>20752</EndMilliseconds>
+    <Text>布朗老师：你们[@暑假@]打算做什么？
+Bùlǎng lǎoshī: Nǐmen [@shǔjià@] dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>20753</StartMilliseconds>
+    <EndMilliseconds>21284</EndMilliseconds>
+    <Text>布朗老师：你们暑假[@打算@]做什么？
+Bùlǎng lǎoshī: Nǐmen shǔjià [@dǎsuan@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>21285</StartMilliseconds>
+    <EndMilliseconds>21507</EndMilliseconds>
+    <Text>布朗老师：你们暑假打算[@做@]什么？
+Bùlǎng lǎoshī: Nǐmen shǔjià dǎsuan [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21508</StartMilliseconds>
+    <EndMilliseconds>21983</EndMilliseconds>
+    <Text>布朗老师：你们暑假打算做[@什么@]？
+Bùlǎng lǎoshī: Nǐmen shǔjià dǎsuan zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21984</StartMilliseconds>
+    <EndMilliseconds>22966</EndMilliseconds>
+    <Text>布朗老师：你们暑假打算做什么？
+Bùlǎng lǎoshī: Nǐmen shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>22967</StartMilliseconds>
+    <EndMilliseconds>23748</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又打算去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>23749</StartMilliseconds>
+    <EndMilliseconds>24100</EndMilliseconds>
+    <Text>甜娜：[@布朗@]老师！我们家又打算去欧洲了。
+Tiánnà: [@Bùlǎng@] lǎoshī! Wǒmen jiā yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>24101</StartMilliseconds>
+    <EndMilliseconds>25042</EndMilliseconds>
+    <Text>甜娜：布朗[@老师@]！我们家又打算去欧洲了。
+Tiánnà: Bùlǎng [@lǎoshī@]! Wǒmen jiā yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>25043</StartMilliseconds>
+    <EndMilliseconds>25953</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又打算去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>25954</StartMilliseconds>
+    <EndMilliseconds>26352</EndMilliseconds>
+    <Text>甜娜：布朗老师！[@我们@]家又打算去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! [@Wǒmen@] jiā yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>26353</StartMilliseconds>
+    <EndMilliseconds>26714</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们[@家@]又打算去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen [@jiā@] yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>26715</StartMilliseconds>
+    <EndMilliseconds>27026</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家[@又@]打算去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā [@yòu@] dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>27027</StartMilliseconds>
+    <EndMilliseconds>27646</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又[@打算@]去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu [@dǎsuan@] qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>27647</StartMilliseconds>
+    <EndMilliseconds>27832</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又打算[@去@]欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu dǎsuan [@qù@] Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>27833</StartMilliseconds>
+    <EndMilliseconds>28251</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又打算去[@欧洲@]了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu dǎsuan qù [@Ōuzhōu@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>28252</StartMilliseconds>
+    <EndMilliseconds>28579</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又打算去欧洲[@了@]。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu dǎsuan qù Ōuzhōu [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>28580</StartMilliseconds>
+    <EndMilliseconds>29783</EndMilliseconds>
+    <Text>甜娜：布朗老师！我们家又打算去欧洲了。
+Tiánnà: Bùlǎng lǎoshī! Wǒmen jiā yòu dǎsuan qù Ōuzhōu le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>29784</StartMilliseconds>
+    <EndMilliseconds>32445</EndMilliseconds>
+    <Text>布朗老师：真好，甜娜。
+Bùlǎng lǎoshī: Zhēn hǎo, Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>32446</StartMilliseconds>
+    <EndMilliseconds>32820</EndMilliseconds>
+    <Text>布朗老师：[@真@]好，甜娜。
+Bùlǎng lǎoshī: [@Zhēn@] hǎo, Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>32821</StartMilliseconds>
+    <EndMilliseconds>33193</EndMilliseconds>
+    <Text>布朗老师：真[@好@]，甜娜。
+Bùlǎng lǎoshī: Zhēn [@hǎo@], Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>33194</StartMilliseconds>
+    <EndMilliseconds>33740</EndMilliseconds>
+    <Text>布朗老师：真好，[@甜娜@]。
+Bùlǎng lǎoshī: Zhēn hǎo, [@Tiánnà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>33741</StartMilliseconds>
+    <EndMilliseconds>33946</EndMilliseconds>
+    <Text>布朗老师：真好，甜娜。
+Bùlǎng lǎoshī: Zhēn hǎo, Tiánnà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>33947</StartMilliseconds>
+    <EndMilliseconds>34155</EndMilliseconds>
+    <Text>布朗老师：你呢，里奇？
+Bùlǎng lǎoshī: Nǐ ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>34156</StartMilliseconds>
+    <EndMilliseconds>34405</EndMilliseconds>
+    <Text>布朗老师：[@你@]呢，里奇？
+Bùlǎng lǎoshī: [@Nǐ@] ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>34406</StartMilliseconds>
+    <EndMilliseconds>34725</EndMilliseconds>
+    <Text>布朗老师：你[@呢@]，里奇？
+Bùlǎng lǎoshī: Nǐ [@ne@], Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>34726</StartMilliseconds>
+    <EndMilliseconds>35391</EndMilliseconds>
+    <Text>布朗老师：你呢，[@里奇@]？
+Bùlǎng lǎoshī: Nǐ ne, [@Lǐqí@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>35392</StartMilliseconds>
+    <EndMilliseconds>35889</EndMilliseconds>
+    <Text>布朗老师：你呢，里奇？
+Bùlǎng lǎoshī: Nǐ ne, Lǐqí?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>35890</StartMilliseconds>
+    <EndMilliseconds>36400</EndMilliseconds>
+    <Text>里奇：安迪和我打算去艾米家。
+Lǐqí: Āndí hé wǒ dǎsuan qù Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>36401</StartMilliseconds>
+    <EndMilliseconds>37184</EndMilliseconds>
+    <Text>里奇：[@安迪@]和我打算去艾米家。
+Lǐqí: [@Āndí@] hé wǒ dǎsuan qù Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>37185</StartMilliseconds>
+    <EndMilliseconds>37480</EndMilliseconds>
+    <Text>里奇：安迪[@和@]我打算去艾米家。
+Lǐqí: Āndí [@hé@] wǒ dǎsuan qù Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>37481</StartMilliseconds>
+    <EndMilliseconds>37884</EndMilliseconds>
+    <Text>里奇：安迪和[@我@]打算去艾米家。
+Lǐqí: Āndí hé [@wǒ@] dǎsuan qù Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>37885</StartMilliseconds>
+    <EndMilliseconds>38453</EndMilliseconds>
+    <Text>里奇：安迪和我[@打算@]去艾米家。
+Lǐqí: Āndí hé wǒ [@dǎsuan@] qù Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>38454</StartMilliseconds>
+    <EndMilliseconds>38687</EndMilliseconds>
+    <Text>里奇：安迪和我打算[@去@]艾米家。
+Lǐqí: Āndí hé wǒ dǎsuan [@qù@] Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>38688</StartMilliseconds>
+    <EndMilliseconds>39092</EndMilliseconds>
+    <Text>里奇：安迪和我打算去[@艾米@]家。
+Lǐqí: Āndí hé wǒ dǎsuan qù [@Àimǐ@] jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>39093</StartMilliseconds>
+    <EndMilliseconds>39566</EndMilliseconds>
+    <Text>里奇：安迪和我打算去艾米[@家@]。
+Lǐqí: Āndí hé wǒ dǎsuan qù Àimǐ [@jiā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>39567</StartMilliseconds>
+    <EndMilliseconds>40047</EndMilliseconds>
+    <Text>里奇：安迪和我打算去艾米家。
+Lǐqí: Āndí hé wǒ dǎsuan qù Àimǐ jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>40048</StartMilliseconds>
+    <EndMilliseconds>41213</EndMilliseconds>
+    <Text>甜娜：艾米是他的前女朋友。
+Tiánnà: Àimǐ shì tā de qián nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>41214</StartMilliseconds>
+    <EndMilliseconds>42068</EndMilliseconds>
+    <Text>甜娜：[@艾米@]是他的前女朋友。
+Tiánnà: [@Àimǐ@] shì tā de qián nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>42069</StartMilliseconds>
+    <EndMilliseconds>42356</EndMilliseconds>
+    <Text>甜娜：艾米[@是@]他的前女朋友。
+Tiánnà: Àimǐ [@shì@] tā de qián nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>42357</StartMilliseconds>
+    <EndMilliseconds>42519</EndMilliseconds>
+    <Text>甜娜：艾米是[@他@]的前女朋友。
+Tiánnà: Àimǐ shì [@tā@] de qián nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>42520</StartMilliseconds>
+    <EndMilliseconds>42748</EndMilliseconds>
+    <Text>甜娜：艾米是他[@的@]前女朋友。
+Tiánnà: Àimǐ shì tā [@de@] qián nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>42749</StartMilliseconds>
+    <EndMilliseconds>43069</EndMilliseconds>
+    <Text>甜娜：艾米是他的[@前@]女朋友。
+Tiánnà: Àimǐ shì tā de [@qián@] nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>43070</StartMilliseconds>
+    <EndMilliseconds>43243</EndMilliseconds>
+    <Text>甜娜：艾米是他的前[@女@]朋友。
+Tiánnà: Àimǐ shì tā de qián [@nǚ@] péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>43244</StartMilliseconds>
+    <EndMilliseconds>44135</EndMilliseconds>
+    <Text>甜娜：艾米是他的前女[@朋友@]。
+Tiánnà: Àimǐ shì tā de qián nǚ [@péngyou@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>44136</StartMilliseconds>
+    <EndMilliseconds>45261</EndMilliseconds>
+    <Text>甜娜：艾米是他的前女朋友。
+Tiánnà: Àimǐ shì tā de qián nǚ péngyou.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>45262</StartMilliseconds>
+    <EndMilliseconds>46610</EndMilliseconds>
+    <Text>里奇：安迪和我打算坐公交车去她家。
+Lǐqí: Āndí hé wǒ dǎsuan zuò gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>46611</StartMilliseconds>
+    <EndMilliseconds>47274</EndMilliseconds>
+    <Text>里奇：[@安迪@]和我打算坐公交车去她家。
+Lǐqí: [@Āndí@] hé wǒ dǎsuan zuò gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>47275</StartMilliseconds>
+    <EndMilliseconds>47482</EndMilliseconds>
+    <Text>里奇：安迪[@和@]我打算坐公交车去她家。
+Lǐqí: Āndí [@hé@] wǒ dǎsuan zuò gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>47483</StartMilliseconds>
+    <EndMilliseconds>47958</EndMilliseconds>
+    <Text>里奇：安迪和[@我@]打算坐公交车去她家。
+Lǐqí: Āndí hé [@wǒ@] dǎsuan zuò gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>47959</StartMilliseconds>
+    <EndMilliseconds>48782</EndMilliseconds>
+    <Text>里奇：安迪和我[@打算@]坐公交车去她家。
+Lǐqí: Āndí hé wǒ [@dǎsuan@] zuò gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>48783</StartMilliseconds>
+    <EndMilliseconds>49031</EndMilliseconds>
+    <Text>里奇：安迪和我打算[@坐@]公交车去她家。
+Lǐqí: Āndí hé wǒ dǎsuan [@zuò@] gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>49032</StartMilliseconds>
+    <EndMilliseconds>49761</EndMilliseconds>
+    <Text>里奇：安迪和我打算坐[@公交车@]去她家。
+Lǐqí: Āndí hé wǒ dǎsuan zuò [@gōngjiāochē@] qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>49762</StartMilliseconds>
+    <EndMilliseconds>49988</EndMilliseconds>
+    <Text>里奇：安迪和我打算坐公交车[@去@]她家。
+Lǐqí: Āndí hé wǒ dǎsuan zuò gōngjiāochē [@qù@] tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>49989</StartMilliseconds>
+    <EndMilliseconds>50204</EndMilliseconds>
+    <Text>里奇：安迪和我打算坐公交车去[@她@]家。
+Lǐqí: Āndí hé wǒ dǎsuan zuò gōngjiāochē qù [@tā@] jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>50205</StartMilliseconds>
+    <EndMilliseconds>50672</EndMilliseconds>
+    <Text>里奇：安迪和我打算坐公交车去她[@家@]。
+Lǐqí: Āndí hé wǒ dǎsuan zuò gōngjiāochē qù tā [@jiā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>50673</StartMilliseconds>
+    <EndMilliseconds>51610</EndMilliseconds>
+    <Text>里奇：安迪和我打算坐公交车去她家。
+Lǐqí: Āndí hé wǒ dǎsuan zuò gōngjiāochē qù tā jiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>51611</StartMilliseconds>
+    <EndMilliseconds>52172</EndMilliseconds>
+    <Text>布朗老师：基蒂，你暑假打算做什么？
+Bùlǎng lǎoshī: Jīdì, nǐ shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>52173</StartMilliseconds>
+    <EndMilliseconds>53051</EndMilliseconds>
+    <Text>布朗老师：[@基蒂@]，你暑假打算做什么？
+Bùlǎng lǎoshī: [@Jīdì@], nǐ shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>53052</StartMilliseconds>
+    <EndMilliseconds>53361</EndMilliseconds>
+    <Text>布朗老师：基蒂，[@你@]暑假打算做什么？
+Bùlǎng lǎoshī: Jīdì, [@nǐ@] shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>53362</StartMilliseconds>
+    <EndMilliseconds>53915</EndMilliseconds>
+    <Text>布朗老师：基蒂，你[@暑假@]打算做什么？
+Bùlǎng lǎoshī: Jīdì, nǐ [@shǔjià@] dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>53916</StartMilliseconds>
+    <EndMilliseconds>54301</EndMilliseconds>
+    <Text>布朗老师：基蒂，你暑假[@打算@]做什么？
+Bùlǎng lǎoshī: Jīdì, nǐ shǔjià [@dǎsuan@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>54302</StartMilliseconds>
+    <EndMilliseconds>54509</EndMilliseconds>
+    <Text>布朗老师：基蒂，你暑假打算[@做@]什么？
+Bùlǎng lǎoshī: Jīdì, nǐ shǔjià dǎsuan [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>54510</StartMilliseconds>
+    <EndMilliseconds>55023</EndMilliseconds>
+    <Text>布朗老师：基蒂，你暑假打算做[@什么@]？
+Bùlǎng lǎoshī: Jīdì, nǐ shǔjià dǎsuan zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>55024</StartMilliseconds>
+    <EndMilliseconds>55463</EndMilliseconds>
+    <Text>布朗老师：基蒂，你暑假打算做什么？
+Bùlǎng lǎoshī: Jīdì, nǐ shǔjià dǎsuan zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>55464</StartMilliseconds>
+    <EndMilliseconds>55928</EndMilliseconds>
+    <Text>基蒂：我们家打算去露营。
+Jīdì: Wǒmen jiā dǎsuan qù lùyíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>55929</StartMilliseconds>
+    <EndMilliseconds>56349</EndMilliseconds>
+    <Text>基蒂：[@我们@]家打算去露营。
+Jīdì: [@Wǒmen@] jiā dǎsuan qù lùyíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>56350</StartMilliseconds>
+    <EndMilliseconds>56757</EndMilliseconds>
+    <Text>基蒂：我们[@家@]打算去露营。
+Jīdì: Wǒmen [@jiā@] dǎsuan qù lùyíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>56758</StartMilliseconds>
+    <EndMilliseconds>57340</EndMilliseconds>
+    <Text>基蒂：我们家[@打算@]去露营。
+Jīdì: Wǒmen jiā [@dǎsuan@] qù lùyíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>57341</StartMilliseconds>
+    <EndMilliseconds>57550</EndMilliseconds>
+    <Text>基蒂：我们家打算[@去@]露营。
+Jīdì: Wǒmen jiā dǎsuan [@qù@] lùyíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>57551</StartMilliseconds>
+    <EndMilliseconds>58308</EndMilliseconds>
+    <Text>基蒂：我们家打算去[@露营@]。
+Jīdì: Wǒmen jiā dǎsuan qù [@lùyíng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>58309</StartMilliseconds>
+    <EndMilliseconds>59103</EndMilliseconds>
+    <Text>基蒂：我们家打算去露营。
+Jīdì: Wǒmen jiā dǎsuan qù lùyíng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>59104</StartMilliseconds>
+    <EndMilliseconds>60080</EndMilliseconds>
+    <Text>布朗老师：好！现在，给你们留下作业。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, gěi nǐmen liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>60081</StartMilliseconds>
+    <EndMilliseconds>60765</EndMilliseconds>
+    <Text>布朗老师：[@好@]！现在，给你们留下作业。
+Bùlǎng lǎoshī: [@Hǎo@]! Xiànzài, gěi nǐmen liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>60766</StartMilliseconds>
+    <EndMilliseconds>61111</EndMilliseconds>
+    <Text>布朗老师：好！现在，给你们留下作业。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, gěi nǐmen liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>61112</StartMilliseconds>
+    <EndMilliseconds>61923</EndMilliseconds>
+    <Text>布朗老师：好！[@现在@]，给你们留下作业。
+Bùlǎng lǎoshī: Hǎo! [@Xiànzài@], gěi nǐmen liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>61924</StartMilliseconds>
+    <EndMilliseconds>62113</EndMilliseconds>
+    <Text>布朗老师：好！现在，[@给@]你们留下作业。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, [@gěi@] nǐmen liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>62114</StartMilliseconds>
+    <EndMilliseconds>62628</EndMilliseconds>
+    <Text>布朗老师：好！现在，给[@你们@]留下作业。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, gěi [@nǐmen@] liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>62629</StartMilliseconds>
+    <EndMilliseconds>62999</EndMilliseconds>
+    <Text>布朗老师：好！现在，给你们[@留下@]作业。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, gěi nǐmen [@liúxià@] zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>63000</StartMilliseconds>
+    <EndMilliseconds>63562</EndMilliseconds>
+    <Text>布朗老师：好！现在，给你们留下[@作业@]。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, gěi nǐmen liúxià [@zuòyè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>63563</StartMilliseconds>
+    <EndMilliseconds>65530</EndMilliseconds>
+    <Text>布朗老师：好！现在，给你们留下作业。
+Bùlǎng lǎoshī: Hǎo! Xiànzài, gěi nǐmen liúxià zuòyè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>65531</StartMilliseconds>
+    <EndMilliseconds>65840</EndMilliseconds>
+    <Text>布朗老师：假期写日记，拍些照片。
+Bùlǎng lǎoshī: Jiàqī xiě rìjì, pāi xiē zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>65841</StartMilliseconds>
+    <EndMilliseconds>66476</EndMilliseconds>
+    <Text>布朗老师：[@假期@]写日记，拍些照片。
+Bùlǎng lǎoshī: [@Jiàqī@] xiě rìjì, pāi xiē zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>66477</StartMilliseconds>
+    <EndMilliseconds>66819</EndMilliseconds>
+    <Text>布朗老师：假期[@写@]日记，拍些照片。
+Bùlǎng lǎoshī: Jiàqī [@xiě@] rìjì, pāi xiē zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>66820</StartMilliseconds>
+    <EndMilliseconds>67681</EndMilliseconds>
+    <Text>布朗老师：假期写[@日记@]，拍些照片。
+Bùlǎng lǎoshī: Jiàqī xiě [@rìjì@], pāi xiē zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>67682</StartMilliseconds>
+    <EndMilliseconds>67936</EndMilliseconds>
+    <Text>布朗老师：假期写日记，[@拍@]些照片。
+Bùlǎng lǎoshī: Jiàqī xiě rìjì, [@pāi@] xiē zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>67937</StartMilliseconds>
+    <EndMilliseconds>68154</EndMilliseconds>
+    <Text>布朗老师：假期写日记，拍[@些@]照片。
+Bùlǎng lǎoshī: Jiàqī xiě rìjì, pāi [@xiē@] zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>68155</StartMilliseconds>
+    <EndMilliseconds>68796</EndMilliseconds>
+    <Text>布朗老师：假期写日记，拍些[@照片@]。
+Bùlǎng lǎoshī: Jiàqī xiě rìjì, pāi xiē [@zhàopiàn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>68797</StartMilliseconds>
+    <EndMilliseconds>70186</EndMilliseconds>
+    <Text>布朗老师：假期写日记，拍些照片。
+Bùlǎng lǎoshī: Jiàqī xiě rìjì, pāi xiē zhàopiàn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>70187</StartMilliseconds>
+    <EndMilliseconds>71753</EndMilliseconds>
+    <Text>布朗老师：暑假愉快！
+Bùlǎng lǎoshī: Shǔjià yúkuài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>71754</StartMilliseconds>
+    <EndMilliseconds>72448</EndMilliseconds>
+    <Text>布朗老师：[@暑假@]愉快！
+Bùlǎng lǎoshī: [@Shǔjià@] yúkuài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>72449</StartMilliseconds>
+    <EndMilliseconds>73191</EndMilliseconds>
+    <Text>布朗老师：暑假[@愉快@]！
+Bùlǎng lǎoshī: Shǔjià [@yúkuài@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>73192</StartMilliseconds>
+    <EndMilliseconds>73783</EndMilliseconds>
+    <Text>布朗老师：暑假愉快！
+Bùlǎng lǎoshī: Shǔjià yúkuài!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>73784</StartMilliseconds>
+    <EndMilliseconds>74111</EndMilliseconds>
+    <Text>同学们：你也是，布朗老师！
+tóngxuémen: Nǐ yě shì, Bùlǎng lǎoshī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>74112</StartMilliseconds>
+    <EndMilliseconds>74557</EndMilliseconds>
+    <Text>同学们：[@你@]也是，布朗老师！
+tóngxuémen: [@Nǐ@] yě shì, Bùlǎng lǎoshī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>74558</StartMilliseconds>
+    <EndMilliseconds>74867</EndMilliseconds>
+    <Text>同学们：你[@也@]是，布朗老师！
+tóngxuémen: Nǐ [@yě@] shì, Bùlǎng lǎoshī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>74868</StartMilliseconds>
+    <EndMilliseconds>75274</EndMilliseconds>
+    <Text>同学们：你也[@是@]，布朗老师！
+tóngxuémen: Nǐ yě [@shì@], Bùlǎng lǎoshī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>75275</StartMilliseconds>
+    <EndMilliseconds>75889</EndMilliseconds>
+    <Text>同学们：你也是，[@布朗@]老师！
+tóngxuémen: Nǐ yě shì, [@Bùlǎng@] lǎoshī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>75890</StartMilliseconds>
+    <EndMilliseconds>76892</EndMilliseconds>
+    <Text>同学们：你也是，布朗[@老师@]！
+tóngxuémen: Nǐ yě shì, Bùlǎng [@lǎoshī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>76893</StartMilliseconds>
+    <EndMilliseconds>78013</EndMilliseconds>
+    <Text>同学们：你也是，布朗老师！
+tóngxuémen: Nǐ yě shì, Bùlǎng lǎoshī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>78014</StartMilliseconds>
+    <EndMilliseconds>79878</EndMilliseconds>
+    <Text>里奇：再见！
+Lǐqí: Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>79879</StartMilliseconds>
+    <EndMilliseconds>80851</EndMilliseconds>
+    <Text>里奇：[@再见@]！
+Lǐqí: [@Zàijiàn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>80852</StartMilliseconds>
+    <EndMilliseconds>81178</EndMilliseconds>
+    <Text>里奇：再见！
+Lǐqí: Zàijiàn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>81179</StartMilliseconds>
+    <EndMilliseconds>81793</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在艾米家玩儿得开心！
+Jīdì hé Kǎidì: Zhù nǐmen zài Àimǐ jiā wánr de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>81794</StartMilliseconds>
+    <EndMilliseconds>82063</EndMilliseconds>
+    <Text>基蒂和凯蒂：[@祝@]你们在艾米家玩儿得开心！
+Jīdì hé Kǎidì: [@Zhù@] nǐmen zài Àimǐ jiā wánr de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>82064</StartMilliseconds>
+    <EndMilliseconds>82572</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝[@你们@]在艾米家玩儿得开心！
+Jīdì hé Kǎidì: Zhù [@nǐmen@] zài Àimǐ jiā wánr de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>82573</StartMilliseconds>
+    <EndMilliseconds>82789</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们[@在@]艾米家玩儿得开心！
+Jīdì hé Kǎidì: Zhù nǐmen [@zài@] Àimǐ jiā wánr de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>82790</StartMilliseconds>
+    <EndMilliseconds>83167</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在[@艾米@]家玩儿得开心！
+Jīdì hé Kǎidì: Zhù nǐmen zài [@Àimǐ@] jiā wánr de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>83168</StartMilliseconds>
+    <EndMilliseconds>83523</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在艾米[@家@]玩儿得开心！
+Jīdì hé Kǎidì: Zhù nǐmen zài Àimǐ [@jiā@] wánr de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>83524</StartMilliseconds>
+    <EndMilliseconds>83786</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在艾米家[@玩儿@]得开心！
+Jīdì hé Kǎidì: Zhù nǐmen zài Àimǐ jiā [@wánr@] de kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>83787</StartMilliseconds>
+    <EndMilliseconds>84012</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在艾米家玩儿[@得@]开心！
+Jīdì hé Kǎidì: Zhù nǐmen zài Àimǐ jiā wánr [@de@] kāixīn!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>84013</StartMilliseconds>
+    <EndMilliseconds>84796</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在艾米家玩儿得[@开心@]！
+Jīdì hé Kǎidì: Zhù nǐmen zài Àimǐ jiā wánr de [@kāixīn@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>84797</StartMilliseconds>
+    <EndMilliseconds>87578</EndMilliseconds>
+    <Text>基蒂和凯蒂：祝你们在艾米家玩儿得开心！
+Jīdì hé Kǎidì: Zhù nǐmen zài Àimǐ jiā wánr de kāixīn!</Text>
+  </Paragraph>
+</Subtitle>

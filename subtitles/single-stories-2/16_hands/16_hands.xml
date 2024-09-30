@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>6539</StartMilliseconds>
+    <EndMilliseconds>8667</EndMilliseconds>
+    <Text>妈妈的手在切菜。
+Māma de shǒu zài qiē cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>8667</StartMilliseconds>
+    <EndMilliseconds>9223</EndMilliseconds>
+    <Text>[@妈妈@]的手在切菜。
+[@Māma@] de shǒu zài qiē cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>9223</StartMilliseconds>
+    <EndMilliseconds>9436</EndMilliseconds>
+    <Text>妈妈[@的@]手在切菜。
+Māma [@de@] shǒu zài qiē cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>9436</StartMilliseconds>
+    <EndMilliseconds>10281</EndMilliseconds>
+    <Text>妈妈的[@手@]在切菜。
+Māma de [@shǒu@] zài qiē cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>10281</StartMilliseconds>
+    <EndMilliseconds>10673</EndMilliseconds>
+    <Text>妈妈的手[@在@]切菜。
+Māma de shǒu [@zài@] qiē cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>10673</StartMilliseconds>
+    <EndMilliseconds>11033</EndMilliseconds>
+    <Text>妈妈的手在[@切@]菜。
+Māma de shǒu zài [@qiē@] cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>11033</StartMilliseconds>
+    <EndMilliseconds>11667</EndMilliseconds>
+    <Text>妈妈的手在切[@菜@]。
+Māma de shǒu zài qiē [@cài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>11667</StartMilliseconds>
+    <EndMilliseconds>11774</EndMilliseconds>
+    <Text>妈妈的手在切菜。
+Māma de shǒu zài qiē cài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>11774</StartMilliseconds>
+    <EndMilliseconds>11856</EndMilliseconds>
+    <Text>切、切、切。
+Qiē 、qiē 、qiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>11856</StartMilliseconds>
+    <EndMilliseconds>12691</EndMilliseconds>
+    <Text>[@切@]、切、切。
+[@Qiē@] 、qiē 、qiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>12691</StartMilliseconds>
+    <EndMilliseconds>13733</EndMilliseconds>
+    <Text>切、[@切@]、切。
+Qiē 、[@qiē@] 、qiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>13733</StartMilliseconds>
+    <EndMilliseconds>14435</EndMilliseconds>
+    <Text>切、切、[@切@]。
+Qiē 、qiē 、[@qiē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>14435</StartMilliseconds>
+    <EndMilliseconds>15839</EndMilliseconds>
+    <Text>切、切、切。
+Qiē 、qiē 、qiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>15839</StartMilliseconds>
+    <EndMilliseconds>17953</EndMilliseconds>
+    <Text>爸爸的手在洗碗。
+Bàba de shǒu zài xǐ wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>17953</StartMilliseconds>
+    <EndMilliseconds>18518</EndMilliseconds>
+    <Text>[@爸爸@]的手在洗碗。
+[@Bàba@] de shǒu zài xǐ wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>18518</StartMilliseconds>
+    <EndMilliseconds>18669</EndMilliseconds>
+    <Text>爸爸[@的@]手在洗碗。
+Bàba [@de@] shǒu zài xǐ wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>18669</StartMilliseconds>
+    <EndMilliseconds>19593</EndMilliseconds>
+    <Text>爸爸的[@手@]在洗碗。
+Bàba de [@shǒu@] zài xǐ wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>19594</StartMilliseconds>
+    <EndMilliseconds>19827</EndMilliseconds>
+    <Text>爸爸的手[@在@]洗碗。
+Bàba de [@shǒu@] zài xǐ wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>19827</StartMilliseconds>
+    <EndMilliseconds>20299</EndMilliseconds>
+    <Text>爸爸的手在[@洗@]碗。
+Bàba de shǒu zài [@xǐ@] wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>20299</StartMilliseconds>
+    <EndMilliseconds>21170</EndMilliseconds>
+    <Text>爸爸的手在洗[@碗@]。
+Bàba de shǒu zài xǐ [@wǎn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>21170</StartMilliseconds>
+    <EndMilliseconds>22582</EndMilliseconds>
+    <Text>爸爸的手在洗碗。
+Bàba de shǒu zài xǐ wǎn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>22582</StartMilliseconds>
+    <EndMilliseconds>22982</EndMilliseconds>
+    <Text>洗、洗、洗。
+Xǐ 、xǐ 、xǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>22982</StartMilliseconds>
+    <EndMilliseconds>23799</EndMilliseconds>
+    <Text>[@洗@]、洗、洗。
+[@Xǐ@] 、xǐ 、xǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>23799</StartMilliseconds>
+    <EndMilliseconds>25024</EndMilliseconds>
+    <Text>洗、[@洗@]、洗。
+Xǐ 、[@xǐ@] 、xǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>25024</StartMilliseconds>
+    <EndMilliseconds>26055</EndMilliseconds>
+    <Text>洗、洗、[@洗@]。
+Xǐ 、xǐ 、[@xǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>26055</StartMilliseconds>
+    <EndMilliseconds>28798</EndMilliseconds>
+    <Text>洗、洗、洗。
+Xǐ 、xǐ 、xǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>28798</StartMilliseconds>
+    <EndMilliseconds>30403</EndMilliseconds>
+    <Text>奶奶的手在抚摸猫。
+Nǎinai de shǒu zài fǔmō māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>30404</StartMilliseconds>
+    <EndMilliseconds>30934</EndMilliseconds>
+    <Text>[@奶奶@]的手在抚摸猫。
+[@Nǎinai@] de shǒu zài fǔmō māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>30934</StartMilliseconds>
+    <EndMilliseconds>31141</EndMilliseconds>
+    <Text>奶奶[@的@]手在抚摸猫。
+Nǎinai [@de@] shǒu zài fǔmō māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>31141</StartMilliseconds>
+    <EndMilliseconds>32040</EndMilliseconds>
+    <Text>奶奶的[@手@]在抚摸猫。
+Nǎinai de [@shǒu@] zài fǔmō māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>32040</StartMilliseconds>
+    <EndMilliseconds>32483</EndMilliseconds>
+    <Text>奶奶的手[@在@]抚摸猫。
+Nǎinai de shǒu [@zài@] fǔmō māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>32483</StartMilliseconds>
+    <EndMilliseconds>33122</EndMilliseconds>
+    <Text>奶奶的手在[@抚摸@]猫。
+Nǎinai de shǒu zài [@fǔmō@] māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>33122</StartMilliseconds>
+    <EndMilliseconds>33996</EndMilliseconds>
+    <Text>奶奶的手在抚摸[@猫@]。
+Nǎinai de shǒu zài fǔmō [@māo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>33997</StartMilliseconds>
+    <EndMilliseconds>34177</EndMilliseconds>
+    <Text>奶奶的手在抚摸猫。
+Nǎinai de shǒu zài fǔmō māo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>34177</StartMilliseconds>
+    <EndMilliseconds>34415</EndMilliseconds>
+    <Text>抚摸、抚摸、抚摸。
+Fǔmō 、fǔmō 、fǔmō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>34415</StartMilliseconds>
+    <EndMilliseconds>35860</EndMilliseconds>
+    <Text>[@抚摸@]、抚摸、抚摸。
+[@Fǔmō@] 、fǔmō 、fǔmō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>35861</StartMilliseconds>
+    <EndMilliseconds>38116</EndMilliseconds>
+    <Text>抚摸、[@抚摸@]、抚摸。
+Fǔmō 、[@fǔmō@] 、fǔmō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>38116</StartMilliseconds>
+    <EndMilliseconds>39413</EndMilliseconds>
+    <Text>抚摸、抚摸、[@抚摸@]。
+Fǔmō 、fǔmō 、[@fǔmō@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>39413</StartMilliseconds>
+    <EndMilliseconds>41241</EndMilliseconds>
+    <Text>抚摸、抚摸、抚摸。
+Fǔmō 、fǔmō 、fǔmō.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>41241</StartMilliseconds>
+    <EndMilliseconds>42991</EndMilliseconds>
+    <Text>爷爷的手在摘蔬菜。
+Yéye de shǒu zài zhāi shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>42992</StartMilliseconds>
+    <EndMilliseconds>43526</EndMilliseconds>
+    <Text>[@爷爷@]的手在摘蔬菜。
+[@Yéye@] de shǒu zài zhāi shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>43526</StartMilliseconds>
+    <EndMilliseconds>43721</EndMilliseconds>
+    <Text>爷爷[@的@]手在摘蔬菜。
+Yéye [@de@] shǒu zài zhāi shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>43721</StartMilliseconds>
+    <EndMilliseconds>44569</EndMilliseconds>
+    <Text>爷爷的[@手@]在摘蔬菜。
+Yéye de [@shǒu@] zài zhāi shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>44569</StartMilliseconds>
+    <EndMilliseconds>45090</EndMilliseconds>
+    <Text>爷爷的手[@在@]摘蔬菜。
+Yéye de shǒu [@zài@] zhāi shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>45091</StartMilliseconds>
+    <EndMilliseconds>45419</EndMilliseconds>
+    <Text>爷爷的手在[@摘@]蔬菜。
+Yéye de shǒu zài [@zhāi@] shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>45419</StartMilliseconds>
+    <EndMilliseconds>46350</EndMilliseconds>
+    <Text>爷爷的手在摘[@蔬菜@]。
+Yéye de shǒu zài zhāi [@shūcài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>46350</StartMilliseconds>
+    <EndMilliseconds>46549</EndMilliseconds>
+    <Text>爷爷的手在摘蔬菜。
+Yéye de shǒu zài zhāi shūcài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>46549</StartMilliseconds>
+    <EndMilliseconds>46829</EndMilliseconds>
+    <Text>摘、摘、摘。
+Zhāi 、zhāi 、zhāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>46830</StartMilliseconds>
+    <EndMilliseconds>47760</EndMilliseconds>
+    <Text>[@摘@]、摘、摘。
+[@Zhāi@] 、zhāi 、zhāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>47760</StartMilliseconds>
+    <EndMilliseconds>48859</EndMilliseconds>
+    <Text>摘、[@摘@]、摘。
+Zhāi 、[@zhāi@] 、zhāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>48859</StartMilliseconds>
+    <EndMilliseconds>49599</EndMilliseconds>
+    <Text>摘、摘、[@摘@]。
+Zhāi 、zhāi 、[@zhāi@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>49599</StartMilliseconds>
+    <EndMilliseconds>51248</EndMilliseconds>
+    <Text>摘、摘、摘。
+Zhāi 、zhāi 、zhāi.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>51248</StartMilliseconds>
+    <EndMilliseconds>52923</EndMilliseconds>
+    <Text>我朋友的手在接棒球。
+Wǒ péngyou de shǒu zài jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>52923</StartMilliseconds>
+    <EndMilliseconds>53236</EndMilliseconds>
+    <Text>[@我@]朋友的手在接棒球。
+[@Wǒ@] péngyou de shǒu zài jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>53237</StartMilliseconds>
+    <EndMilliseconds>53787</EndMilliseconds>
+    <Text>我[@朋友@]的手在接棒球。
+Wǒ [@péngyou@] de shǒu zài jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>53787</StartMilliseconds>
+    <EndMilliseconds>54020</EndMilliseconds>
+    <Text>我朋友[@的@]手在接棒球。
+Wǒ péngyou [@de@] shǒu zài jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>54020</StartMilliseconds>
+    <EndMilliseconds>54761</EndMilliseconds>
+    <Text>我朋友的[@手@]在接棒球。
+Wǒ péngyou de [@shǒu@] zài jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>54761</StartMilliseconds>
+    <EndMilliseconds>55341</EndMilliseconds>
+    <Text>我朋友的手[@在@]接棒球。
+Wǒ péngyou de shǒu [@zài@] jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>55341</StartMilliseconds>
+    <EndMilliseconds>55606</EndMilliseconds>
+    <Text>我朋友的手在[@接@]棒球。
+Wǒ péngyou de shǒu zài [@jiē@] bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>55606</StartMilliseconds>
+    <EndMilliseconds>56698</EndMilliseconds>
+    <Text>我朋友的手在接[@棒球@]。
+Wǒ péngyou de shǒu zài jiē [@bàngqiú@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>56698</StartMilliseconds>
+    <EndMilliseconds>57074</EndMilliseconds>
+    <Text>我朋友的手在接棒球。
+Wǒ péngyou de shǒu zài jiē bàngqiú.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>57074</StartMilliseconds>
+    <EndMilliseconds>57185</EndMilliseconds>
+    <Text>接、接、接。
+Jiē 、jiē 、jiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>57185</StartMilliseconds>
+    <EndMilliseconds>57835</EndMilliseconds>
+    <Text>[@接@]、接、接。
+[@Jiē@] 、jiē 、jiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>57835</StartMilliseconds>
+    <EndMilliseconds>58668</EndMilliseconds>
+    <Text>接、[@接@]、接。
+Jiē 、[@jiē@] 、jiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>58668</StartMilliseconds>
+    <EndMilliseconds>59496</EndMilliseconds>
+    <Text>接、接、[@接@]。
+Jiē 、jiē 、[@jiē@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>59496</StartMilliseconds>
+    <EndMilliseconds>60519</EndMilliseconds>
+    <Text>接、接、接。
+Jiē 、jiē 、jiē.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>60519</StartMilliseconds>
+    <EndMilliseconds>62851</EndMilliseconds>
+    <Text>姐姐的手在打扫房间。
+Jiějie de shǒu zài dǎsǎo fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>62852</StartMilliseconds>
+    <EndMilliseconds>63400</EndMilliseconds>
+    <Text>[@姐姐@]的手在打扫房间。
+[@Jiějie@] de shǒu zài dǎsǎo fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>63400</StartMilliseconds>
+    <EndMilliseconds>63561</EndMilliseconds>
+    <Text>姐姐[@的@]手在打扫房间。
+Jiějie [@de@] shǒu zài dǎsǎo fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>63561</StartMilliseconds>
+    <EndMilliseconds>64336</EndMilliseconds>
+    <Text>姐姐的[@手@]在打扫房间。
+Jiějie de [@shǒu@] zài dǎsǎo fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>64336</StartMilliseconds>
+    <EndMilliseconds>64807</EndMilliseconds>
+    <Text>姐姐的手[@在@]打扫房间。
+Jiějie de shǒu [@zài@] dǎsǎo fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>64807</StartMilliseconds>
+    <EndMilliseconds>65414</EndMilliseconds>
+    <Text>姐姐的手在[@打扫@]房间。
+Jiějie de shǒu zài [@dǎsǎo@] fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>65414</StartMilliseconds>
+    <EndMilliseconds>66407</EndMilliseconds>
+    <Text>姐姐的手在打扫[@房间@]。
+Jiějie de shǒu zài dǎsǎo [@fángjiān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>66407</StartMilliseconds>
+    <EndMilliseconds>66665</EndMilliseconds>
+    <Text>姐姐的手在打扫房间。
+Jiějie de shǒu zài dǎsǎo fángjiān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>66665</StartMilliseconds>
+    <EndMilliseconds>66864</EndMilliseconds>
+    <Text>打扫、打扫、打扫。
+Dǎsǎo 、dǎsǎo 、dǎsǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>66864</StartMilliseconds>
+    <EndMilliseconds>67991</EndMilliseconds>
+    <Text>[@打扫@]、打扫、打扫。
+[@Dǎsǎo@] 、dǎsǎo 、dǎsǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>67991</StartMilliseconds>
+    <EndMilliseconds>68997</EndMilliseconds>
+    <Text>打扫、[@打扫@]、打扫。
+Dǎsǎo 、[@dǎsǎo@] 、dǎsǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>68997</StartMilliseconds>
+    <EndMilliseconds>70003</EndMilliseconds>
+    <Text>打扫、打扫、[@打扫@]。
+Dǎsǎo 、dǎsǎo 、[@dǎsǎo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>70004</StartMilliseconds>
+    <EndMilliseconds>71787</EndMilliseconds>
+    <Text>打扫、打扫、打扫。
+Dǎsǎo 、dǎsǎo 、dǎsǎo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>71787</StartMilliseconds>
+    <EndMilliseconds>73420</EndMilliseconds>
+    <Text>老师的手在黑板上写字。
+Lǎoshī de shǒu zài hēibǎn shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>73420</StartMilliseconds>
+    <EndMilliseconds>73961</EndMilliseconds>
+    <Text>[@老师@]的手在黑板上写字。
+[@Lǎoshī@] de shǒu zài hēibǎn shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>73961</StartMilliseconds>
+    <EndMilliseconds>74183</EndMilliseconds>
+    <Text>老师[@的@]手在黑板上写字。
+Lǎoshī [@de@] shǒu zài hēibǎn shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>74183</StartMilliseconds>
+    <EndMilliseconds>74924</EndMilliseconds>
+    <Text>老师的[@手@]在黑板上写字。
+Lǎoshī de [@shǒu@] zài hēibǎn shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>74924</StartMilliseconds>
+    <EndMilliseconds>75371</EndMilliseconds>
+    <Text>老师的手[@在@]黑板上写字。
+Lǎoshī de shǒu [@zài@] hēibǎn shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>75371</StartMilliseconds>
+    <EndMilliseconds>75890</EndMilliseconds>
+    <Text>老师的手在[@黑板@]上写字。
+Lǎoshī de shǒu zài [@hēibǎn@] shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>75890</StartMilliseconds>
+    <EndMilliseconds>76282</EndMilliseconds>
+    <Text>老师的手在黑板[@上@]写字。
+Lǎoshī de shǒu zài hēibǎn [@shàng@] xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>76282</StartMilliseconds>
+    <EndMilliseconds>76737</EndMilliseconds>
+    <Text>老师的手在黑板上[@写@]字。
+Lǎoshī de shǒu zài hēibǎn shàng [@xiě@] zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>76738</StartMilliseconds>
+    <EndMilliseconds>77352</EndMilliseconds>
+    <Text>老师的手在黑板上写[@字@]。
+Lǎoshī de shǒu zài hēibǎn shàng xiě [@zì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>77353</StartMilliseconds>
+    <EndMilliseconds>77671</EndMilliseconds>
+    <Text>老师的手在黑板上写字。
+Lǎoshī de shǒu zài hēibǎn shàng xiě zì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>77671</StartMilliseconds>
+    <EndMilliseconds>77900</EndMilliseconds>
+    <Text>写、写、写。
+Xiě 、xiě 、xiě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>77900</StartMilliseconds>
+    <EndMilliseconds>78760</EndMilliseconds>
+    <Text>[@写@]、写、写。
+[@Xiě@] 、xiě 、xiě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>78760</StartMilliseconds>
+    <EndMilliseconds>79692</EndMilliseconds>
+    <Text>写、[@写@]、写。
+Xiě 、[@xiě@] 、xiě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>79692</StartMilliseconds>
+    <EndMilliseconds>80818</EndMilliseconds>
+    <Text>写、写、[@写@]。
+Xiě 、xiě 、[@xiě@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>80819</StartMilliseconds>
+    <EndMilliseconds>82843</EndMilliseconds>
+    <Text>写、写、写。
+Xiě 、xiě 、xiě.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>82843</StartMilliseconds>
+    <EndMilliseconds>84091</EndMilliseconds>
+    <Text>我的手随着音乐在拍手。
+Wǒ de shǒu suízhe yīnyuè zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>84091</StartMilliseconds>
+    <EndMilliseconds>84357</EndMilliseconds>
+    <Text>[@我@]的手随着音乐在拍手。
+[@Wǒ@] de shǒu suízhe yīnyuè zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>84357</StartMilliseconds>
+    <EndMilliseconds>84576</EndMilliseconds>
+    <Text>我[@的@]手随着音乐在拍手。
+Wǒ [@de@] shǒu suízhe yīnyuè zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>84576</StartMilliseconds>
+    <EndMilliseconds>85298</EndMilliseconds>
+    <Text>我的[@手@]随着音乐在拍手。
+Wǒ de [@shǒu@] suízhe yīnyuè zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>85298</StartMilliseconds>
+    <EndMilliseconds>85918</EndMilliseconds>
+    <Text>我的手[@随着@]音乐在拍手。
+Wǒ de shǒu [@suízhe@] yīnyuè zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>85918</StartMilliseconds>
+    <EndMilliseconds>86731</EndMilliseconds>
+    <Text>我的手随着[@音乐@]在拍手。
+Wǒ de shǒu suízhe [@yīnyuè@] zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>86731</StartMilliseconds>
+    <EndMilliseconds>87184</EndMilliseconds>
+    <Text>我的手随着音乐[@在@]拍手。
+Wǒ de shǒu suízhe yīnyuè [@zài@] pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>87184</StartMilliseconds>
+    <EndMilliseconds>87508</EndMilliseconds>
+    <Text>我的手随着音乐在[@拍@]手。
+Wǒ de shǒu suízhe yīnyuè zài [@pāi@] shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>87508</StartMilliseconds>
+    <EndMilliseconds>88177</EndMilliseconds>
+    <Text>我的手随着音乐在拍[@手@]。
+Wǒ de shǒu suízhe yīnyuè zài pāi [@shǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>88177</StartMilliseconds>
+    <EndMilliseconds>88408</EndMilliseconds>
+    <Text>我的手随着音乐在拍手。
+Wǒ de shǒu suízhe yīnyuè zài pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>88408</StartMilliseconds>
+    <EndMilliseconds>88618</EndMilliseconds>
+    <Text>拍手、拍手、拍手。
+Pāi shǒu 、pāi shǒu 、pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>88618</StartMilliseconds>
+    <EndMilliseconds>88810</EndMilliseconds>
+    <Text>[@拍@]手、拍手、拍手。
+[@Pāi@] shǒu 、pāi shǒu 、pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>88810</StartMilliseconds>
+    <EndMilliseconds>89391</EndMilliseconds>
+    <Text>拍[@手@]、拍手、拍手。
+Pāi [@shǒu@] 、pāi shǒu 、pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>89391</StartMilliseconds>
+    <EndMilliseconds>89620</EndMilliseconds>
+    <Text>拍手、[@拍@]手、拍手。
+Pāi shǒu 、[@pāi@] shǒu 、pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>89620</StartMilliseconds>
+    <EndMilliseconds>90119</EndMilliseconds>
+    <Text>拍手、拍[@手@]、拍手。
+Pāi shǒu 、pāi [@shǒu@] 、pāi shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>90119</StartMilliseconds>
+    <EndMilliseconds>90380</EndMilliseconds>
+    <Text>拍手、拍手、[@拍@]手。
+Pāi shǒu 、pāi shǒu 、[@pāi@] shǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>90380</StartMilliseconds>
+    <EndMilliseconds>91087</EndMilliseconds>
+    <Text>拍手、拍手、拍[@手@]。
+Pāi shǒu 、pāi shǒu 、pāi [@shǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>91087</StartMilliseconds>
+    <EndMilliseconds>95010</EndMilliseconds>
+    <Text>拍手、拍手、拍手。
+Pāi shǒu 、pāi shǒu 、pāi shǒu.</Text>
+  </Paragraph>
+</Subtitle>

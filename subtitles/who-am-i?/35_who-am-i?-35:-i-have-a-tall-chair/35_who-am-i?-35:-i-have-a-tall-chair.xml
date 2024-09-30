@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10844</StartMilliseconds>
+    <EndMilliseconds>13008</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ gāo yǐzi.
+我有一把高椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>13008</StartMilliseconds>
+    <EndMilliseconds>13386</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yì bǎ gāo yǐzi.
+[@我@]有一把高椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>13386</StartMilliseconds>
+    <EndMilliseconds>13586</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yì bǎ gāo yǐzi.
+我[@有@]一把高椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13586</StartMilliseconds>
+    <EndMilliseconds>13844</EndMilliseconds>
+    <Text>Wǒ yǒu [@yì@] bǎ gāo yǐzi.
+我有[@一@]把高椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13844</StartMilliseconds>
+    <EndMilliseconds>14320</EndMilliseconds>
+    <Text>Wǒ yǒu yì [@bǎ@] gāo yǐzi.
+我有一[@把@]高椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14320</StartMilliseconds>
+    <EndMilliseconds>14772</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ [@gāo@] yǐzi.
+我有一把[@高@]椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14772</StartMilliseconds>
+    <EndMilliseconds>15480</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ gāo [@yǐzi@].
+我有一把高[@椅子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15480</StartMilliseconds>
+    <EndMilliseconds>22459</EndMilliseconds>
+    <Text>Wǒ yǒu yì bǎ gāo yǐzi.
+我有一把高椅子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>22459</StartMilliseconds>
+    <EndMilliseconds>23771</EndMilliseconds>
+    <Text>Zhè shì wǒ de jùběn.
+这是我的剧本。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>23771</StartMilliseconds>
+    <EndMilliseconds>24060</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de jùběn.
+[@这@]是我的剧本。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>24060</StartMilliseconds>
+    <EndMilliseconds>24302</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de jùběn.
+这[@是@]我的剧本。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>24302</StartMilliseconds>
+    <EndMilliseconds>24591</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de jùběn.
+这是[@我@]的剧本。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>24591</StartMilliseconds>
+    <EndMilliseconds>24959</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] jùběn.
+这是我[@的@]剧本。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24959</StartMilliseconds>
+    <EndMilliseconds>25912</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@jùběn@].
+这是我的[@剧本@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>25912</StartMilliseconds>
+    <EndMilliseconds>30771</EndMilliseconds>
+    <Text>Zhè shì wǒ de jùběn.
+这是我的剧本。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30771</StartMilliseconds>
+    <EndMilliseconds>32076</EndMilliseconds>
+    <Text>Wǒ yǒu hěn duō jùguāngdēng.
+我有很多聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>32076</StartMilliseconds>
+    <EndMilliseconds>32380</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu hěn duō jùguāngdēng.
+[@我@]有很多聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>32380</StartMilliseconds>
+    <EndMilliseconds>32646</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] hěn duō jùguāngdēng.
+我[@有@]很多聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32646</StartMilliseconds>
+    <EndMilliseconds>33087</EndMilliseconds>
+    <Text>Wǒ yǒu [@hěn@] duō jùguāngdēng.
+我有[@很@]多聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>33087</StartMilliseconds>
+    <EndMilliseconds>33443</EndMilliseconds>
+    <Text>Wǒ yǒu hěn [@duō@] jùguāngdēng.
+我有很[@多@]聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>33443</StartMilliseconds>
+    <EndMilliseconds>34404</EndMilliseconds>
+    <Text>Wǒ yǒu hěn duō [@jùguāngdēng@].
+我有很多[@聚光灯@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>34404</StartMilliseconds>
+    <EndMilliseconds>39154</EndMilliseconds>
+    <Text>Wǒ yǒu hěn duō jùguāngdēng.
+我有很多聚光灯。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>39154</StartMilliseconds>
+    <EndMilliseconds>40420</EndMilliseconds>
+    <Text>Zhè shì wǒ de shèxiàngjī.
+这是我的摄像机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>40420</StartMilliseconds>
+    <EndMilliseconds>40740</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de shèxiàngjī.
+[@这@]是我的摄像机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>40740</StartMilliseconds>
+    <EndMilliseconds>41014</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de shèxiàngjī.
+这[@是@]我的摄像机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>41014</StartMilliseconds>
+    <EndMilliseconds>41295</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de shèxiàngjī.
+这是[@我@]的摄像机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>41295</StartMilliseconds>
+    <EndMilliseconds>41756</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] shèxiàngjī.
+这是我[@的@]摄像机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>41756</StartMilliseconds>
+    <EndMilliseconds>43232</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@shèxiàngjī@].
+这是我的[@摄像机@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>43232</StartMilliseconds>
+    <EndMilliseconds>47435</EndMilliseconds>
+    <Text>Zhè shì wǒ de shèxiàngjī.
+这是我的摄像机。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>47435</StartMilliseconds>
+    <EndMilliseconds>48782</EndMilliseconds>
+    <Text>Zhè shì wǒ de lǎba.
+这是我的喇叭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>48782</StartMilliseconds>
+    <EndMilliseconds>49029</EndMilliseconds>
+    <Text>[@Zhè@] shì wǒ de lǎba.
+[@这@]是我的喇叭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>49029</StartMilliseconds>
+    <EndMilliseconds>49349</EndMilliseconds>
+    <Text>Zhè [@shì@] wǒ de lǎba.
+这[@是@]我的喇叭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>49349</StartMilliseconds>
+    <EndMilliseconds>49615</EndMilliseconds>
+    <Text>Zhè shì [@wǒ@] de lǎba.
+这是[@我@]的喇叭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>49615</StartMilliseconds>
+    <EndMilliseconds>50099</EndMilliseconds>
+    <Text>Zhè shì wǒ [@de@] lǎba.
+这是我[@的@]喇叭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>50099</StartMilliseconds>
+    <EndMilliseconds>50904</EndMilliseconds>
+    <Text>Zhè shì wǒ de [@lǎba@].
+这是我的[@喇叭@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>50904</StartMilliseconds>
+    <EndMilliseconds>55774</EndMilliseconds>
+    <Text>Zhè shì wǒ de lǎba.
+这是我的喇叭。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>55774</StartMilliseconds>
+    <EndMilliseconds>57055</EndMilliseconds>
+    <Text>Tāmen shì wǒ de yǎnyuán.
+他们是我的演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>57055</StartMilliseconds>
+    <EndMilliseconds>57845</EndMilliseconds>
+    <Text>[@Tāmen@] shì wǒ de yǎnyuán.
+[@他们@]是我的演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>57845</StartMilliseconds>
+    <EndMilliseconds>58262</EndMilliseconds>
+    <Text>Tāmen [@shì@] wǒ de yǎnyuán.
+他们[@是@]我的演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>58262</StartMilliseconds>
+    <EndMilliseconds>58524</EndMilliseconds>
+    <Text>Tāmen shì [@wǒ@] de yǎnyuán.
+他们是[@我@]的演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>58524</StartMilliseconds>
+    <EndMilliseconds>58805</EndMilliseconds>
+    <Text>Tāmen shì wǒ [@de@] yǎnyuán.
+他们是我[@的@]演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>58805</StartMilliseconds>
+    <EndMilliseconds>59727</EndMilliseconds>
+    <Text>Tāmen shì wǒ de [@yǎnyuán@].
+他们是我的[@演员@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>59727</StartMilliseconds>
+    <EndMilliseconds>64071</EndMilliseconds>
+    <Text>Tāmen shì wǒ de yǎnyuán.
+他们是我的演员。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64071</StartMilliseconds>
+    <EndMilliseconds>65360</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge diànyǐng pāishèchǎng.
+我有一个电影拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>65360</StartMilliseconds>
+    <EndMilliseconds>65688</EndMilliseconds>
+    <Text>[@Wǒ@] yǒu yí ge diànyǐng pāishèchǎng.
+[@我@]有一个电影拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65688</StartMilliseconds>
+    <EndMilliseconds>65954</EndMilliseconds>
+    <Text>Wǒ [@yǒu@] yí ge diànyǐng pāishèchǎng.
+我[@有@]一个电影拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>65954</StartMilliseconds>
+    <EndMilliseconds>66173</EndMilliseconds>
+    <Text>Wǒ yǒu [@yí@] ge diànyǐng pāishèchǎng.
+我有[@一@]个电影拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>66173</StartMilliseconds>
+    <EndMilliseconds>66759</EndMilliseconds>
+    <Text>Wǒ yǒu yí [@ge@] diànyǐng pāishèchǎng.
+我有一[@个@]电影拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>66759</StartMilliseconds>
+    <EndMilliseconds>67668</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge [@diànyǐng@] pāishèchǎng.
+我有一个[@电影@]拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>67668</StartMilliseconds>
+    <EndMilliseconds>68915</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge diànyǐng [@pāishèchǎng@].
+我有一个电影[@拍摄场@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>68915</StartMilliseconds>
+    <EndMilliseconds>72516</EndMilliseconds>
+    <Text>Wǒ yǒu yí ge diànyǐng pāishèchǎng.
+我有一个电影拍摄场。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>72516</StartMilliseconds>
+    <EndMilliseconds>73549</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>73549</StartMilliseconds>
+    <EndMilliseconds>74275</EndMilliseconds>
+    <Text>[@Wǒ@] shì shéi?
+[@我@]是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>74275</StartMilliseconds>
+    <EndMilliseconds>74666</EndMilliseconds>
+    <Text>Wǒ [@shì@] shéi?
+我[@是@]谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>74666</StartMilliseconds>
+    <EndMilliseconds>75189</EndMilliseconds>
+    <Text>Wǒ shì [@shéi@]?
+我是[@谁@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>75189</StartMilliseconds>
+    <EndMilliseconds>79853</EndMilliseconds>
+    <Text>Wǒ shì shéi?
+我是谁？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>79853</StartMilliseconds>
+    <EndMilliseconds>81275</EndMilliseconds>
+    <Text>Wǒ shì diànyǐng dǎoyǎn.
+我是电影导演。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>81275</StartMilliseconds>
+    <EndMilliseconds>81588</EndMilliseconds>
+    <Text>[@Wǒ@] shì diànyǐng dǎoyǎn.
+[@我@]是电影导演。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>81588</StartMilliseconds>
+    <EndMilliseconds>82096</EndMilliseconds>
+    <Text>Wǒ [@shì@] diànyǐng dǎoyǎn.
+我[@是@]电影导演。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>82096</StartMilliseconds>
+    <EndMilliseconds>82900</EndMilliseconds>
+    <Text>Wǒ shì [@diànyǐng@] dǎoyǎn.
+我是[@电影@]导演。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>82900</StartMilliseconds>
+    <EndMilliseconds>83775</EndMilliseconds>
+    <Text>Wǒ shì diànyǐng [@dǎoyǎn@].
+我是电影[@导演@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>83775</StartMilliseconds>
+    <EndMilliseconds>88439</EndMilliseconds>
+    <Text>Wǒ shì diànyǐng dǎoyǎn.
+我是电影导演。</Text>
+  </Paragraph>
+</Subtitle>

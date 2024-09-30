@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9609</StartMilliseconds>
+    <EndMilliseconds>20666</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le shénme dōngxi. 
+松鼠：我看到了什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>20667</StartMilliseconds>
+    <EndMilliseconds>21263</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] kàndào le shénme dōngxi. 
+松鼠：[@我@]看到了什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>21264</StartMilliseconds>
+    <EndMilliseconds>21935</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@kàndào@] le shénme dōngxi. 
+松鼠：我[@看到@]了什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>21936</StartMilliseconds>
+    <EndMilliseconds>22197</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào [@le@] shénme dōngxi. 
+松鼠：我看到[@了@]什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>22198</StartMilliseconds>
+    <EndMilliseconds>22614</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le [@shénme@] dōngxi. 
+松鼠：我看到了[@什么@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>22615</StartMilliseconds>
+    <EndMilliseconds>23614</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le shénme [@dōngxi@]. 
+松鼠：我看到了什么[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>23615</StartMilliseconds>
+    <EndMilliseconds>24207</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le shénme dōngxi. 
+松鼠：我看到了什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>24208</StartMilliseconds>
+    <EndMilliseconds>24725</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào le shénme?
+乌龟：你看到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>24726</StartMilliseconds>
+    <EndMilliseconds>25340</EndMilliseconds>
+    <Text>wūguī: [@Nǐ@] kàndào le shénme?
+乌龟：[@你@]看到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>25341</StartMilliseconds>
+    <EndMilliseconds>26199</EndMilliseconds>
+    <Text>wūguī: Nǐ [@kàndào@] le shénme?
+乌龟：你[@看到@]了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>26204</StartMilliseconds>
+    <EndMilliseconds>26462</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào [@le@] shénme?
+乌龟：你看到[@了@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>26463</StartMilliseconds>
+    <EndMilliseconds>27554</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào le [@shénme@]?
+乌龟：你看到了[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>27555</StartMilliseconds>
+    <EndMilliseconds>32746</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào le shénme?
+乌龟：你看到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>32747</StartMilliseconds>
+    <EndMilliseconds>37573</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le xiǎohé. 
+松鼠：我看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>37574</StartMilliseconds>
+    <EndMilliseconds>38321</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] kàndào le xiǎohé. 
+松鼠：[@我@]看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>38322</StartMilliseconds>
+    <EndMilliseconds>39062</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@kàndào@] le xiǎohé. 
+松鼠：我[@看到@]了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>39063</StartMilliseconds>
+    <EndMilliseconds>39287</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào [@le@] xiǎohé. 
+松鼠：我看到[@了@]小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>39288</StartMilliseconds>
+    <EndMilliseconds>40649</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le [@xiǎohé@]. 
+松鼠：我看到了[@小河@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>40650</StartMilliseconds>
+    <EndMilliseconds>41194</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le xiǎohé. 
+松鼠：我看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>41195</StartMilliseconds>
+    <EndMilliseconds>41867</EndMilliseconds>
+    <Text>wūguī: Wǒ yě kàndào le xiǎohé.
+乌龟：我也看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>41868</StartMilliseconds>
+    <EndMilliseconds>42396</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] yě kàndào le xiǎohé.
+乌龟：[@我@]也看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>42397</StartMilliseconds>
+    <EndMilliseconds>42985</EndMilliseconds>
+    <Text>wūguī: Wǒ [@yě@] kàndào le xiǎohé.
+乌龟：我[@也@]看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>42986</StartMilliseconds>
+    <EndMilliseconds>43830</EndMilliseconds>
+    <Text>wūguī: Wǒ yě [@kàndào@] le xiǎohé.
+乌龟：我也[@看到@]了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>43833</StartMilliseconds>
+    <EndMilliseconds>44084</EndMilliseconds>
+    <Text>wūguī: Wǒ yě kàndào [@le@] xiǎohé.
+乌龟：我也看到[@了@]小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>44085</StartMilliseconds>
+    <EndMilliseconds>45574</EndMilliseconds>
+    <Text>wūguī: Wǒ yě kàndào le [@xiǎohé@].
+乌龟：我也看到了[@小河@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>45580</StartMilliseconds>
+    <EndMilliseconds>49023</EndMilliseconds>
+    <Text>wūguī: Wǒ yě kàndào le xiǎohé.
+乌龟：我也看到了小河。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>49024</StartMilliseconds>
+    <EndMilliseconds>50762</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian yǒu shítou.
+松鼠：我看到小河里面有石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>50763</StartMilliseconds>
+    <EndMilliseconds>51123</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] kàndào xiǎohé lǐmian yǒu shítou.
+松鼠：[@我@]看到小河里面有石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>51124</StartMilliseconds>
+    <EndMilliseconds>52031</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@kàndào@] xiǎohé lǐmian yǒu shítou.
+松鼠：我[@看到@]小河里面有石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>52032</StartMilliseconds>
+    <EndMilliseconds>52785</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào [@xiǎohé@] lǐmian yǒu shítou.
+松鼠：我看到[@小河@]里面有石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>52786</StartMilliseconds>
+    <EndMilliseconds>53522</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé [@lǐmian@] yǒu shítou.
+松鼠：我看到小河[@里面@]有石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>53523</StartMilliseconds>
+    <EndMilliseconds>54002</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian [@yǒu@] shítou.
+松鼠：我看到小河里面[@有@]石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>54003</StartMilliseconds>
+    <EndMilliseconds>55085</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian yǒu [@shítou@].
+松鼠：我看到小河里面有[@石头@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>55086</StartMilliseconds>
+    <EndMilliseconds>59470</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian yǒu shítou.
+松鼠：我看到小河里面有石头。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>59471</StartMilliseconds>
+    <EndMilliseconds>60881</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian yǒu yú.
+乌龟：我看到小河里面有鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>60882</StartMilliseconds>
+    <EndMilliseconds>61380</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] kàndào xiǎohé lǐmian yǒu yú.
+乌龟：[@我@]看到小河里面有鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>61381</StartMilliseconds>
+    <EndMilliseconds>62599</EndMilliseconds>
+    <Text>wūguī: Wǒ [@kàndào@] xiǎohé lǐmian yǒu yú.
+乌龟：我[@看到@]小河里面有鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>62600</StartMilliseconds>
+    <EndMilliseconds>63742</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào [@xiǎohé@] lǐmian yǒu yú.
+乌龟：我看到[@小河@]里面有鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>63743</StartMilliseconds>
+    <EndMilliseconds>64781</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé [@lǐmian@] yǒu yú.
+乌龟：我看到小河[@里面@]有鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>64782</StartMilliseconds>
+    <EndMilliseconds>65414</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian [@yǒu@] yú.
+乌龟：我看到小河里面[@有@]鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>65415</StartMilliseconds>
+    <EndMilliseconds>66489</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian yǒu [@yú@].
+乌龟：我看到小河里面有[@鱼@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>66490</StartMilliseconds>
+    <EndMilliseconds>67548</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian yǒu yú.
+乌龟：我看到小河里面有鱼。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>67549</StartMilliseconds>
+    <EndMilliseconds>70905</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian yǒu wǒmen.
+松鼠：我看到小河里面有我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>70906</StartMilliseconds>
+    <EndMilliseconds>71292</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] kàndào xiǎohé lǐmian yǒu wǒmen.
+松鼠：[@我@]看到小河里面有我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>71293</StartMilliseconds>
+    <EndMilliseconds>72176</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@kàndào@] xiǎohé lǐmian yǒu wǒmen.
+松鼠：我[@看到@]小河里面有我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>72177</StartMilliseconds>
+    <EndMilliseconds>72863</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào [@xiǎohé@] lǐmian yǒu wǒmen.
+松鼠：我看到[@小河@]里面有我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>72864</StartMilliseconds>
+    <EndMilliseconds>73723</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé [@lǐmian@] yǒu wǒmen.
+松鼠：我看到小河[@里面@]有我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>73724</StartMilliseconds>
+    <EndMilliseconds>74161</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian [@yǒu@] wǒmen.
+松鼠：我看到小河里面[@有@]我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>74162</StartMilliseconds>
+    <EndMilliseconds>75157</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian yǒu [@wǒmen@].
+松鼠：我看到小河里面有[@我们@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>75158</StartMilliseconds>
+    <EndMilliseconds>77017</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào xiǎohé lǐmian yǒu wǒmen.
+松鼠：我看到小河里面有我们。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>77018</StartMilliseconds>
+    <EndMilliseconds>78322</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian yǒu shù.
+乌龟：我看到小河里面有树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>78323</StartMilliseconds>
+    <EndMilliseconds>78804</EndMilliseconds>
+    <Text>wūguī: [@Wǒ@] kàndào xiǎohé lǐmian yǒu shù.
+乌龟：[@我@]看到小河里面有树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>78805</StartMilliseconds>
+    <EndMilliseconds>80032</EndMilliseconds>
+    <Text>wūguī: Wǒ [@kàndào@] xiǎohé lǐmian yǒu shù.
+乌龟：我[@看到@]小河里面有树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>80033</StartMilliseconds>
+    <EndMilliseconds>81199</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào [@xiǎohé@] lǐmian yǒu shù.
+乌龟：我看到[@小河@]里面有树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>81200</StartMilliseconds>
+    <EndMilliseconds>82244</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé [@lǐmian@] yǒu shù.
+乌龟：我看到小河[@里面@]有树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>82245</StartMilliseconds>
+    <EndMilliseconds>82813</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian [@yǒu@] shù.
+乌龟：我看到小河里面[@有@]树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>82814</StartMilliseconds>
+    <EndMilliseconds>83856</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian yǒu [@shù@].
+乌龟：我看到小河里面有[@树@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>83857</StartMilliseconds>
+    <EndMilliseconds>90784</EndMilliseconds>
+    <Text>wūguī: Wǒ kàndào xiǎohé lǐmian yǒu shù.
+乌龟：我看到小河里面有树。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>90785</StartMilliseconds>
+    <EndMilliseconds>98065</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào shù shàng yǒu shénme dōngxi. 
+松鼠：哇！我看到树上有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>98066</StartMilliseconds>
+    <EndMilliseconds>99536</EndMilliseconds>
+    <Text>sōngshǔ: [@Wā@]! Wǒ kàndào shù shàng yǒu shénme dōngxi. 
+松鼠：[@哇@]！我看到树上有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>99537</StartMilliseconds>
+    <EndMilliseconds>99898</EndMilliseconds>
+    <Text>sōngshǔ: Wā! [@Wǒ@] kàndào shù shàng yǒu shénme dōngxi. 
+松鼠：哇！[@我@]看到树上有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>99899</StartMilliseconds>
+    <EndMilliseconds>100781</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ [@kàndào@] shù shàng yǒu shénme dōngxi. 
+松鼠：哇！我[@看到@]树上有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>100782</StartMilliseconds>
+    <EndMilliseconds>101312</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào [@shù@] shàng yǒu shénme dōngxi. 
+松鼠：哇！我看到[@树@]上有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>101313</StartMilliseconds>
+    <EndMilliseconds>101936</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào shù [@shàng@] yǒu shénme dōngxi. 
+松鼠：哇！我看到树[@上@]有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>101937</StartMilliseconds>
+    <EndMilliseconds>102309</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào shù shàng [@yǒu@] shénme dōngxi. 
+松鼠：哇！我看到树上[@有@]什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>102310</StartMilliseconds>
+    <EndMilliseconds>102722</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào shù shàng yǒu [@shénme@] dōngxi. 
+松鼠：哇！我看到树上有[@什么@]东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>102723</StartMilliseconds>
+    <EndMilliseconds>103784</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào shù shàng yǒu shénme [@dōngxi@]. 
+松鼠：哇！我看到树上有什么[@东西@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>103785</StartMilliseconds>
+    <EndMilliseconds>105409</EndMilliseconds>
+    <Text>sōngshǔ: Wā! Wǒ kàndào shù shàng yǒu shénme dōngxi. 
+松鼠：哇！我看到树上有什么东西。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>105410</StartMilliseconds>
+    <EndMilliseconds>105751</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào le shénme?
+乌龟：你看到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>105752</StartMilliseconds>
+    <EndMilliseconds>106195</EndMilliseconds>
+    <Text>wūguī: [@Nǐ@] kàndào le shénme?
+乌龟：[@你@]看到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>106196</StartMilliseconds>
+    <EndMilliseconds>106953</EndMilliseconds>
+    <Text>wūguī: Nǐ [@kàndào@] le shénme?
+乌龟：你[@看到@]了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>106954</StartMilliseconds>
+    <EndMilliseconds>107336</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào [@le@] shénme?
+乌龟：你看到[@了@]什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>107337</StartMilliseconds>
+    <EndMilliseconds>108357</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào le [@shénme@]?
+乌龟：你看到了[@什么@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>108358</StartMilliseconds>
+    <EndMilliseconds>109358</EndMilliseconds>
+    <Text>wūguī: Nǐ kàndào le shénme?
+乌龟：你看到了什么？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>109359</StartMilliseconds>
+    <EndMilliseconds>110183</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le……jiānguǒ!
+松鼠：我看到了……坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>110184</StartMilliseconds>
+    <EndMilliseconds>110540</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] kàndào le……jiānguǒ!
+松鼠：[@我@]看到了……坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>110541</StartMilliseconds>
+    <EndMilliseconds>111258</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@kàndào@] le……jiānguǒ!
+松鼠：我[@看到@]了……坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>111259</StartMilliseconds>
+    <EndMilliseconds>112782</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào [@le@]……jiānguǒ!
+松鼠：我看到[@了@]……坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>112783</StartMilliseconds>
+    <EndMilliseconds>114191</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le……[@jiānguǒ@]!
+松鼠：我看到了……[@坚果@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>114192</StartMilliseconds>
+    <EndMilliseconds>133798</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ kàndào le……jiānguǒ!
+松鼠：我看到了……坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>133799</StartMilliseconds>
+    <EndMilliseconds>138391</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ dédào le hǎoduō jiānguǒ!
+松鼠：我得到了好多坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>138392</StartMilliseconds>
+    <EndMilliseconds>138689</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] dédào le hǎoduō jiānguǒ!
+松鼠：[@我@]得到了好多坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>138690</StartMilliseconds>
+    <EndMilliseconds>139213</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@dédào@] le hǎoduō jiānguǒ!
+松鼠：我[@得到@]了好多坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>139214</StartMilliseconds>
+    <EndMilliseconds>139650</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ dédào [@le@] hǎoduō jiānguǒ!
+松鼠：我得到[@了@]好多坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>139651</StartMilliseconds>
+    <EndMilliseconds>140488</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ dédào le [@hǎoduō@] jiānguǒ!
+松鼠：我得到了[@好多@]坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>140489</StartMilliseconds>
+    <EndMilliseconds>141447</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ dédào le hǎoduō [@jiānguǒ@]!
+松鼠：我得到了好多[@坚果@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>141448</StartMilliseconds>
+    <EndMilliseconds>142037</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ dédào le hǎoduō jiānguǒ!
+松鼠：我得到了好多坚果！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>142038</StartMilliseconds>
+    <EndMilliseconds>142434</EndMilliseconds>
+    <Text>wūguī: Shì ya.
+乌龟：是呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>142435</StartMilliseconds>
+    <EndMilliseconds>143147</EndMilliseconds>
+    <Text>wūguī: [@Shì@] ya.
+乌龟：[@是@]呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>143148</StartMilliseconds>
+    <EndMilliseconds>144143</EndMilliseconds>
+    <Text>wūguī: Shì [@ya@].
+乌龟：是[@呀@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>144144</StartMilliseconds>
+    <EndMilliseconds>145266</EndMilliseconds>
+    <Text>wūguī: Shì ya.
+乌龟：是呀。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>145267</StartMilliseconds>
+    <EndMilliseconds>153778</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ méi kàndào nà gēn shùzhī!
+松鼠：我没看到那根树枝！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>153779</StartMilliseconds>
+    <EndMilliseconds>154481</EndMilliseconds>
+    <Text>sōngshǔ: [@Wǒ@] méi kàndào nà gēn shùzhī!
+松鼠：[@我@]没看到那根树枝！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>154482</StartMilliseconds>
+    <EndMilliseconds>154879</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ [@méi@] kàndào nà gēn shùzhī!
+松鼠：我[@没@]看到那根树枝！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>154880</StartMilliseconds>
+    <EndMilliseconds>155723</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ méi [@kàndào@] nà gēn shùzhī!
+松鼠：我没[@看到@]那根树枝！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>155724</StartMilliseconds>
+    <EndMilliseconds>156301</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ méi kàndào [@nà@] gēn shùzhī!
+松鼠：我没看到[@那@]根树枝！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>156302</StartMilliseconds>
+    <EndMilliseconds>156683</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ méi kàndào nà [@gēn@] shùzhī!
+松鼠：我没看到那[@根@]树枝！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>156684</StartMilliseconds>
+    <EndMilliseconds>158178</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ méi kàndào nà gēn [@shùzhī@]!
+松鼠：我没看到那根[@树枝@]！</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>158179</StartMilliseconds>
+    <EndMilliseconds>170698</EndMilliseconds>
+    <Text>sōngshǔ: Wǒ méi kàndào nà gēn shùzhī!
+松鼠：我没看到那根树枝！</Text>
+  </Paragraph>
+</Subtitle>

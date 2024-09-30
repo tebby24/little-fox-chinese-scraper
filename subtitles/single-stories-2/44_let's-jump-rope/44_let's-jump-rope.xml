@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>7842</StartMilliseconds>
+    <EndMilliseconds>10955</EndMilliseconds>
+    <Text>我可以跳得很快。 
+Wǒ kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10956</StartMilliseconds>
+    <EndMilliseconds>11361</EndMilliseconds>
+    <Text>[@我@]可以跳得很快。 
+[@Wǒ@] kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>11362</StartMilliseconds>
+    <EndMilliseconds>12168</EndMilliseconds>
+    <Text>我[@可以@]跳得很快。 
+Wǒ [@kěyǐ@] tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12169</StartMilliseconds>
+    <EndMilliseconds>12438</EndMilliseconds>
+    <Text>我可以跳得很快。 
+Wǒ kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12439</StartMilliseconds>
+    <EndMilliseconds>12882</EndMilliseconds>
+    <Text>我可以[@跳@]得很快。 
+Wǒ kěyǐ [@tiào@] de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>12883</StartMilliseconds>
+    <EndMilliseconds>13125</EndMilliseconds>
+    <Text>我可以跳[@得@]很快。 
+Wǒ kěyǐ tiào [@de@] hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>13126</StartMilliseconds>
+    <EndMilliseconds>13508</EndMilliseconds>
+    <Text>我可以跳得[@很@]快。 
+Wǒ kěyǐ tiào de [@hěn@] kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>13509</StartMilliseconds>
+    <EndMilliseconds>13892</EndMilliseconds>
+    <Text>我可以跳得很[@快@]。 
+Wǒ kěyǐ tiào de hěn [@kuài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>13893</StartMilliseconds>
+    <EndMilliseconds>15358</EndMilliseconds>
+    <Text>我可以跳得很快。 
+Wǒ kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15359</StartMilliseconds>
+    <EndMilliseconds>16346</EndMilliseconds>
+    <Text>我可以跳得很慢。
+Wǒ kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>16347</StartMilliseconds>
+    <EndMilliseconds>16798</EndMilliseconds>
+    <Text>[@我@]可以跳得很慢。
+[@Wǒ@] kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16799</StartMilliseconds>
+    <EndMilliseconds>17584</EndMilliseconds>
+    <Text>我[@可以@]跳得很慢。
+Wǒ [@kěyǐ@] tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>17585</StartMilliseconds>
+    <EndMilliseconds>17883</EndMilliseconds>
+    <Text>我可以跳得很慢。
+Wǒ kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>17884</StartMilliseconds>
+    <EndMilliseconds>18359</EndMilliseconds>
+    <Text>我可以[@跳@]得很慢。
+Wǒ kěyǐ [@tiào@] de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>18360</StartMilliseconds>
+    <EndMilliseconds>18648</EndMilliseconds>
+    <Text>我可以跳[@得@]很慢。
+Wǒ kěyǐ tiào [@de@] hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>18649</StartMilliseconds>
+    <EndMilliseconds>19219</EndMilliseconds>
+    <Text>我可以跳得[@很@]慢。
+Wǒ kěyǐ tiào de [@hěn@] màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>19220</StartMilliseconds>
+    <EndMilliseconds>19538</EndMilliseconds>
+    <Text>我可以跳得很[@慢@]。
+Wǒ kěyǐ tiào de hěn [@màn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>19539</StartMilliseconds>
+    <EndMilliseconds>21791</EndMilliseconds>
+    <Text>我可以跳得很慢。
+Wǒ kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>21792</StartMilliseconds>
+    <EndMilliseconds>23780</EndMilliseconds>
+    <Text>她可以跳得很高。 
+Tā kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>23781</StartMilliseconds>
+    <EndMilliseconds>24260</EndMilliseconds>
+    <Text>[@她@]可以跳得很高。 
+[@Tā@] kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>24261</StartMilliseconds>
+    <EndMilliseconds>24481</EndMilliseconds>
+    <Text>她可以跳得很高。 
+Tā kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>24482</StartMilliseconds>
+    <EndMilliseconds>25256</EndMilliseconds>
+    <Text>她[@可以@]跳得很高。 
+Tā [@kěyǐ@] tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>25257</StartMilliseconds>
+    <EndMilliseconds>25689</EndMilliseconds>
+    <Text>她可以[@跳@]得很高。 
+Tā kěyǐ [@tiào@] de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>25690</StartMilliseconds>
+    <EndMilliseconds>25948</EndMilliseconds>
+    <Text>她可以跳[@得@]很高。 
+Tā kěyǐ tiào [@de@] hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>25949</StartMilliseconds>
+    <EndMilliseconds>26475</EndMilliseconds>
+    <Text>她可以跳得[@很@]高。 
+Tā kěyǐ tiào de [@hěn@] gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>26476</StartMilliseconds>
+    <EndMilliseconds>26996</EndMilliseconds>
+    <Text>她可以跳得很[@高@]。 
+Tā kěyǐ tiào de hěn [@gāo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>26997</StartMilliseconds>
+    <EndMilliseconds>28780</EndMilliseconds>
+    <Text>她可以跳得很高。 
+Tā kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>28781</StartMilliseconds>
+    <EndMilliseconds>30021</EndMilliseconds>
+    <Text>她可以跳得很低。
+Tā kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>30022</StartMilliseconds>
+    <EndMilliseconds>30598</EndMilliseconds>
+    <Text>[@她@]可以跳得很低。
+[@Tā@] kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30599</StartMilliseconds>
+    <EndMilliseconds>31290</EndMilliseconds>
+    <Text>她[@可以@]跳得很低。
+Tā [@kěyǐ@] tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>31291</StartMilliseconds>
+    <EndMilliseconds>31717</EndMilliseconds>
+    <Text>她可以[@跳@]得很低。
+Tā kěyǐ [@tiào@] de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>31718</StartMilliseconds>
+    <EndMilliseconds>32021</EndMilliseconds>
+    <Text>她可以跳[@得@]很低。
+Tā kěyǐ tiào [@de@] hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>32022</StartMilliseconds>
+    <EndMilliseconds>32611</EndMilliseconds>
+    <Text>她可以跳得[@很@]低。
+Tā kěyǐ tiào de [@hěn@] dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>32612</StartMilliseconds>
+    <EndMilliseconds>33141</EndMilliseconds>
+    <Text>她可以跳得很[@低@]。
+Tā kěyǐ tiào de hěn [@dī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>33142</StartMilliseconds>
+    <EndMilliseconds>35148</EndMilliseconds>
+    <Text>她可以跳得很低。
+Tā kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>35149</StartMilliseconds>
+    <EndMilliseconds>37233</EndMilliseconds>
+    <Text>他可以在原地跳。
+Tā kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>37234</StartMilliseconds>
+    <EndMilliseconds>37744</EndMilliseconds>
+    <Text>[@他@]可以在原地跳。
+[@Tā@] kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>37745</StartMilliseconds>
+    <EndMilliseconds>38705</EndMilliseconds>
+    <Text>他[@可以@]在原地跳。
+Tā [@kěyǐ@] zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>38706</StartMilliseconds>
+    <EndMilliseconds>39047</EndMilliseconds>
+    <Text>他可以[@在@]原地跳。
+Tā kěyǐ [@zài@] yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>39048</StartMilliseconds>
+    <EndMilliseconds>39867</EndMilliseconds>
+    <Text>他可以在[@原地@]跳。
+Tā kěyǐ zài [@yuándì@] tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>39868</StartMilliseconds>
+    <EndMilliseconds>40448</EndMilliseconds>
+    <Text>他可以在原地[@跳@]。
+Tā kěyǐ zài yuándì [@tiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>40449</StartMilliseconds>
+    <EndMilliseconds>42266</EndMilliseconds>
+    <Text>他可以在原地跳。
+Tā kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>42267</StartMilliseconds>
+    <EndMilliseconds>43379</EndMilliseconds>
+    <Text>他可以跳前跳后。
+Tā kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>43380</StartMilliseconds>
+    <EndMilliseconds>43805</EndMilliseconds>
+    <Text>[@他@]可以跳前跳后。
+[@Tā@] kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>43806</StartMilliseconds>
+    <EndMilliseconds>44623</EndMilliseconds>
+    <Text>他[@可以@]跳前跳后。
+Tā [@kěyǐ@] tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>44624</StartMilliseconds>
+    <EndMilliseconds>44946</EndMilliseconds>
+    <Text>他可以跳前跳后。
+Tā kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>44947</StartMilliseconds>
+    <EndMilliseconds>46044</EndMilliseconds>
+    <Text>他可以[@跳前@]跳后。
+Tā kěyǐ [@tiàoqián@] tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>46045</StartMilliseconds>
+    <EndMilliseconds>46822</EndMilliseconds>
+    <Text>他可以跳前[@跳后@]。
+Tā kěyǐ tiàoqián [@tiàohòu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>46823</StartMilliseconds>
+    <EndMilliseconds>47737</EndMilliseconds>
+    <Text>他可以跳前跳后。
+Tā kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>47738</StartMilliseconds>
+    <EndMilliseconds>50646</EndMilliseconds>
+    <Text>看！看！他们可以跳成一排！
+Kàn! Kàn! Tāmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>50647</StartMilliseconds>
+    <EndMilliseconds>50970</EndMilliseconds>
+    <Text>[@看@]！看！他们可以跳成一排！
+[@Kàn@]! Kàn! Tāmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>50971</StartMilliseconds>
+    <EndMilliseconds>51502</EndMilliseconds>
+    <Text>看！看！他们可以跳成一排！
+Kàn! Kàn! Tāmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>51503</StartMilliseconds>
+    <EndMilliseconds>51813</EndMilliseconds>
+    <Text>看！[@看@]！他们可以跳成一排！
+Kàn! [@Kàn@]! Tāmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>51814</StartMilliseconds>
+    <EndMilliseconds>52334</EndMilliseconds>
+    <Text>看！看！他们可以跳成一排！
+Kàn! Kàn! Tāmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>52335</StartMilliseconds>
+    <EndMilliseconds>53138</EndMilliseconds>
+    <Text>看！看！[@他们@]可以跳成一排！
+Kàn! Kàn! [@Tāmen@] kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>53139</StartMilliseconds>
+    <EndMilliseconds>53882</EndMilliseconds>
+    <Text>看！看！他们[@可以@]跳成一排！
+Kàn! Kàn! Tāmen [@kěyǐ@] tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>53883</StartMilliseconds>
+    <EndMilliseconds>54564</EndMilliseconds>
+    <Text>看！看！他们可以[@跳成@]一排！
+Kàn! Kàn! Tāmen kěyǐ [@tiàochéng@] yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>54565</StartMilliseconds>
+    <EndMilliseconds>54919</EndMilliseconds>
+    <Text>看！看！他们可以跳成[@一@]排！
+Kàn! Kàn! Tāmen kěyǐ tiàochéng [@yì@] pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>54920</StartMilliseconds>
+    <EndMilliseconds>55565</EndMilliseconds>
+    <Text>看！看！他们可以跳成一[@排@]！
+Kàn! Kàn! Tāmen kěyǐ tiàochéng yì [@pái@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>55566</StartMilliseconds>
+    <EndMilliseconds>56542</EndMilliseconds>
+    <Text>看！看！他们可以跳成一排！
+Kàn! Kàn! Tāmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>56543</StartMilliseconds>
+    <EndMilliseconds>57294</EndMilliseconds>
+    <Text>我们一起跳吧！
+Wǒmen yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>57295</StartMilliseconds>
+    <EndMilliseconds>57980</EndMilliseconds>
+    <Text>[@我们@]一起跳吧！
+[@Wǒmen@] yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>57981</StartMilliseconds>
+    <EndMilliseconds>58282</EndMilliseconds>
+    <Text>我们一起跳吧！
+Wǒmen yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>58283</StartMilliseconds>
+    <EndMilliseconds>59005</EndMilliseconds>
+    <Text>我们[@一起@]跳吧！
+Wǒmen [@yìqǐ@] tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>59006</StartMilliseconds>
+    <EndMilliseconds>59462</EndMilliseconds>
+    <Text>我们一起[@跳@]吧！
+Wǒmen yìqǐ [@tiào@] ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>59463</StartMilliseconds>
+    <EndMilliseconds>59732</EndMilliseconds>
+    <Text>我们一起跳[@吧@]！
+Wǒmen yìqǐ tiào [@ba@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>59733</StartMilliseconds>
+    <EndMilliseconds>61737</EndMilliseconds>
+    <Text>我们一起跳吧！
+Wǒmen yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>61738</StartMilliseconds>
+    <EndMilliseconds>63507</EndMilliseconds>
+    <Text>我们可以跳得很快。 
+Wǒmen kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>63508</StartMilliseconds>
+    <EndMilliseconds>64252</EndMilliseconds>
+    <Text>[@我们@]可以跳得很快。 
+[@Wǒmen@] kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>64253</StartMilliseconds>
+    <EndMilliseconds>65133</EndMilliseconds>
+    <Text>我们[@可以@]跳得很快。 
+Wǒmen [@kěyǐ@] tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>65134</StartMilliseconds>
+    <EndMilliseconds>65363</EndMilliseconds>
+    <Text>我们可以跳得很快。 
+Wǒmen kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>65364</StartMilliseconds>
+    <EndMilliseconds>65785</EndMilliseconds>
+    <Text>我们可以[@跳@]得很快。 
+Wǒmen kěyǐ [@tiào@] de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>65786</StartMilliseconds>
+    <EndMilliseconds>66019</EndMilliseconds>
+    <Text>我们可以跳[@得@]很快。 
+Wǒmen kěyǐ tiào [@de@] hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>66020</StartMilliseconds>
+    <EndMilliseconds>66445</EndMilliseconds>
+    <Text>我们可以跳得[@很@]快。 
+Wǒmen kěyǐ tiào de [@hěn@] kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>66446</StartMilliseconds>
+    <EndMilliseconds>66872</EndMilliseconds>
+    <Text>我们可以跳得很[@快@]。 
+Wǒmen kěyǐ tiào de hěn [@kuài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>66873</StartMilliseconds>
+    <EndMilliseconds>68869</EndMilliseconds>
+    <Text>我们可以跳得很快。 
+Wǒmen kěyǐ tiào de hěn kuài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>68870</StartMilliseconds>
+    <EndMilliseconds>70070</EndMilliseconds>
+    <Text>我们可以跳得很慢。
+Wǒmen kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>70071</StartMilliseconds>
+    <EndMilliseconds>70828</EndMilliseconds>
+    <Text>[@我们@]可以跳得很慢。
+[@Wǒmen@] kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>70829</StartMilliseconds>
+    <EndMilliseconds>71036</EndMilliseconds>
+    <Text>我们可以跳得很慢。
+Wǒmen kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>71037</StartMilliseconds>
+    <EndMilliseconds>71849</EndMilliseconds>
+    <Text>我们[@可以@]跳得很慢。
+Wǒmen [@kěyǐ@] tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>71850</StartMilliseconds>
+    <EndMilliseconds>72260</EndMilliseconds>
+    <Text>我们可以[@跳@]得很慢。
+Wǒmen kěyǐ [@tiào@] de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>72261</StartMilliseconds>
+    <EndMilliseconds>72518</EndMilliseconds>
+    <Text>我们可以跳[@得@]很慢。
+Wǒmen kěyǐ tiào [@de@] hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>72519</StartMilliseconds>
+    <EndMilliseconds>73084</EndMilliseconds>
+    <Text>我们可以跳得[@很@]慢。
+Wǒmen kěyǐ tiào de [@hěn@] màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>73085</StartMilliseconds>
+    <EndMilliseconds>73431</EndMilliseconds>
+    <Text>我们可以跳得很[@慢@]。
+Wǒmen kěyǐ tiào de hěn [@màn@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>73432</StartMilliseconds>
+    <EndMilliseconds>76593</EndMilliseconds>
+    <Text>我们可以跳得很慢。
+Wǒmen kěyǐ tiào de hěn màn.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>76594</StartMilliseconds>
+    <EndMilliseconds>77952</EndMilliseconds>
+    <Text>我们可以跳得很高。 
+Wǒmen kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>77953</StartMilliseconds>
+    <EndMilliseconds>78668</EndMilliseconds>
+    <Text>[@我们@]可以跳得很高。 
+[@Wǒmen@] kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>78669</StartMilliseconds>
+    <EndMilliseconds>78879</EndMilliseconds>
+    <Text>我们可以跳得很高。 
+Wǒmen kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>78880</StartMilliseconds>
+    <EndMilliseconds>79587</EndMilliseconds>
+    <Text>我们[@可以@]跳得很高。 
+Wǒmen [@kěyǐ@] tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>79588</StartMilliseconds>
+    <EndMilliseconds>80029</EndMilliseconds>
+    <Text>我们可以[@跳@]得很高。 
+Wǒmen kěyǐ [@tiào@] de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>80030</StartMilliseconds>
+    <EndMilliseconds>80416</EndMilliseconds>
+    <Text>我们可以跳[@得@]很高。 
+Wǒmen kěyǐ tiào [@de@] hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>80417</StartMilliseconds>
+    <EndMilliseconds>81020</EndMilliseconds>
+    <Text>我们可以跳得[@很@]高。 
+Wǒmen kěyǐ tiào de [@hěn@] gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>81021</StartMilliseconds>
+    <EndMilliseconds>81592</EndMilliseconds>
+    <Text>我们可以跳得很[@高@]。 
+Wǒmen kěyǐ tiào de hěn [@gāo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>81593</StartMilliseconds>
+    <EndMilliseconds>82474</EndMilliseconds>
+    <Text>我们可以跳得很高。 
+Wǒmen kěyǐ tiào de hěn gāo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>82475</StartMilliseconds>
+    <EndMilliseconds>83323</EndMilliseconds>
+    <Text>我们可以跳得很低。
+Wǒmen kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>96</Number>
+    <StartMilliseconds>83324</StartMilliseconds>
+    <EndMilliseconds>84036</EndMilliseconds>
+    <Text>[@我们@]可以跳得很低。
+[@Wǒmen@] kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>97</Number>
+    <StartMilliseconds>84037</StartMilliseconds>
+    <EndMilliseconds>84309</EndMilliseconds>
+    <Text>我们可以跳得很低。
+Wǒmen kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>98</Number>
+    <StartMilliseconds>84310</StartMilliseconds>
+    <EndMilliseconds>85017</EndMilliseconds>
+    <Text>我们[@可以@]跳得很低。
+Wǒmen [@kěyǐ@] tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>99</Number>
+    <StartMilliseconds>85018</StartMilliseconds>
+    <EndMilliseconds>85482</EndMilliseconds>
+    <Text>我们可以[@跳@]得很低。
+Wǒmen kěyǐ [@tiào@] de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>100</Number>
+    <StartMilliseconds>85483</StartMilliseconds>
+    <EndMilliseconds>85839</EndMilliseconds>
+    <Text>我们可以跳[@得@]很低。
+Wǒmen kěyǐ tiào [@de@] hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>101</Number>
+    <StartMilliseconds>85840</StartMilliseconds>
+    <EndMilliseconds>86393</EndMilliseconds>
+    <Text>我们可以跳得[@很@]低。
+Wǒmen kěyǐ tiào de [@hěn@] dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>102</Number>
+    <StartMilliseconds>86394</StartMilliseconds>
+    <EndMilliseconds>86874</EndMilliseconds>
+    <Text>我们可以跳得很[@低@]。
+Wǒmen kěyǐ tiào de hěn [@dī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>103</Number>
+    <StartMilliseconds>86875</StartMilliseconds>
+    <EndMilliseconds>88195</EndMilliseconds>
+    <Text>我们可以跳得很低。
+Wǒmen kěyǐ tiào de hěn dī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>104</Number>
+    <StartMilliseconds>88196</StartMilliseconds>
+    <EndMilliseconds>89709</EndMilliseconds>
+    <Text>我们可以在原地跳。
+Wǒmen kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>105</Number>
+    <StartMilliseconds>89710</StartMilliseconds>
+    <EndMilliseconds>90589</EndMilliseconds>
+    <Text>[@我们@]可以在原地跳。
+[@Wǒmen@] kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>106</Number>
+    <StartMilliseconds>90590</StartMilliseconds>
+    <EndMilliseconds>91347</EndMilliseconds>
+    <Text>我们[@可以@]在原地跳。
+Wǒmen [@kěyǐ@] zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>107</Number>
+    <StartMilliseconds>91348</StartMilliseconds>
+    <EndMilliseconds>91584</EndMilliseconds>
+    <Text>我们可以在原地跳。
+Wǒmen kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>108</Number>
+    <StartMilliseconds>91585</StartMilliseconds>
+    <EndMilliseconds>91924</EndMilliseconds>
+    <Text>我们可以[@在@]原地跳。
+Wǒmen kěyǐ [@zài@] yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>109</Number>
+    <StartMilliseconds>91925</StartMilliseconds>
+    <EndMilliseconds>92725</EndMilliseconds>
+    <Text>我们可以在[@原地@]跳。
+Wǒmen kěyǐ zài [@yuándì@] tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>110</Number>
+    <StartMilliseconds>92726</StartMilliseconds>
+    <EndMilliseconds>93208</EndMilliseconds>
+    <Text>我们可以在原地[@跳@]。
+Wǒmen kěyǐ zài yuándì [@tiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>111</Number>
+    <StartMilliseconds>93209</StartMilliseconds>
+    <EndMilliseconds>94376</EndMilliseconds>
+    <Text>我们可以在原地跳。
+Wǒmen kěyǐ zài yuándì tiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>112</Number>
+    <StartMilliseconds>94377</StartMilliseconds>
+    <EndMilliseconds>95633</EndMilliseconds>
+    <Text>我们可以跳前跳后。
+Wǒmen kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>113</Number>
+    <StartMilliseconds>95634</StartMilliseconds>
+    <EndMilliseconds>96363</EndMilliseconds>
+    <Text>[@我们@]可以跳前跳后。
+[@Wǒmen@] kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>114</Number>
+    <StartMilliseconds>96364</StartMilliseconds>
+    <EndMilliseconds>97198</EndMilliseconds>
+    <Text>我们[@可以@]跳前跳后。
+Wǒmen [@kěyǐ@] tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>115</Number>
+    <StartMilliseconds>97199</StartMilliseconds>
+    <EndMilliseconds>97513</EndMilliseconds>
+    <Text>我们可以跳前跳后。
+Wǒmen kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>116</Number>
+    <StartMilliseconds>97514</StartMilliseconds>
+    <EndMilliseconds>98504</EndMilliseconds>
+    <Text>我们可以[@跳前@]跳后。
+Wǒmen kěyǐ [@tiàoqián@] tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>117</Number>
+    <StartMilliseconds>98505</StartMilliseconds>
+    <EndMilliseconds>99220</EndMilliseconds>
+    <Text>我们可以跳前[@跳后@]。
+Wǒmen kěyǐ tiàoqián [@tiàohòu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>118</Number>
+    <StartMilliseconds>99221</StartMilliseconds>
+    <EndMilliseconds>100156</EndMilliseconds>
+    <Text>我们可以跳前跳后。
+Wǒmen kěyǐ tiàoqián tiàohòu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>119</Number>
+    <StartMilliseconds>100157</StartMilliseconds>
+    <EndMilliseconds>100738</EndMilliseconds>
+    <Text>看！看！我们可以跳成一排！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>120</Number>
+    <StartMilliseconds>100739</StartMilliseconds>
+    <EndMilliseconds>101141</EndMilliseconds>
+    <Text>[@看@]！看！我们可以跳成一排！
+[@Kàn@]! Kàn! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>121</Number>
+    <StartMilliseconds>101142</StartMilliseconds>
+    <EndMilliseconds>101504</EndMilliseconds>
+    <Text>看！看！我们可以跳成一排！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>122</Number>
+    <StartMilliseconds>101505</StartMilliseconds>
+    <EndMilliseconds>101824</EndMilliseconds>
+    <Text>看！[@看@]！我们可以跳成一排！
+Kàn! [@Kàn@]! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>123</Number>
+    <StartMilliseconds>101825</StartMilliseconds>
+    <EndMilliseconds>102359</EndMilliseconds>
+    <Text>看！看！我们可以跳成一排！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>124</Number>
+    <StartMilliseconds>102360</StartMilliseconds>
+    <EndMilliseconds>103057</EndMilliseconds>
+    <Text>看！看！[@我们@]可以跳成一排！
+Kàn! Kàn! [@Wǒmen@] kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>125</Number>
+    <StartMilliseconds>103058</StartMilliseconds>
+    <EndMilliseconds>103766</EndMilliseconds>
+    <Text>看！看！我们[@可以@]跳成一排！
+Kàn! Kàn! Wǒmen [@kěyǐ@] tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>126</Number>
+    <StartMilliseconds>103767</StartMilliseconds>
+    <EndMilliseconds>104026</EndMilliseconds>
+    <Text>看！看！我们可以跳成一排！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>127</Number>
+    <StartMilliseconds>104027</StartMilliseconds>
+    <EndMilliseconds>104898</EndMilliseconds>
+    <Text>看！看！我们可以[@跳成@]一排！
+Kàn! Kàn! Wǒmen kěyǐ [@tiàochéng@] yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>128</Number>
+    <StartMilliseconds>104899</StartMilliseconds>
+    <EndMilliseconds>105175</EndMilliseconds>
+    <Text>看！看！我们可以跳成[@一@]排！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng [@yì@] pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>129</Number>
+    <StartMilliseconds>105176</StartMilliseconds>
+    <EndMilliseconds>105712</EndMilliseconds>
+    <Text>看！看！我们可以跳成一[@排@]！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng yì [@pái@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>130</Number>
+    <StartMilliseconds>105713</StartMilliseconds>
+    <EndMilliseconds>108204</EndMilliseconds>
+    <Text>看！看！我们可以跳成一排！
+Kàn! Kàn! Wǒmen kěyǐ tiàochéng yì pái!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>131</Number>
+    <StartMilliseconds>108205</StartMilliseconds>
+    <EndMilliseconds>109254</EndMilliseconds>
+    <Text>我们一起跳吧！
+Wǒmen yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>132</Number>
+    <StartMilliseconds>109255</StartMilliseconds>
+    <EndMilliseconds>109910</EndMilliseconds>
+    <Text>[@我们@]一起跳吧！
+[@Wǒmen@] yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>133</Number>
+    <StartMilliseconds>109911</StartMilliseconds>
+    <EndMilliseconds>110231</EndMilliseconds>
+    <Text>我们一起跳吧！
+Wǒmen yìqǐ tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>134</Number>
+    <StartMilliseconds>110232</StartMilliseconds>
+    <EndMilliseconds>110899</EndMilliseconds>
+    <Text>我们[@一起@]跳吧！
+Wǒmen [@yìqǐ@] tiào ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>135</Number>
+    <StartMilliseconds>110900</StartMilliseconds>
+    <EndMilliseconds>111336</EndMilliseconds>
+    <Text>我们一起[@跳@]吧！
+Wǒmen yìqǐ [@tiào@] ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>136</Number>
+    <StartMilliseconds>111337</StartMilliseconds>
+    <EndMilliseconds>111657</EndMilliseconds>
+    <Text>我们一起跳[@吧@]！
+Wǒmen yìqǐ tiào [@ba@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>137</Number>
+    <StartMilliseconds>111658</StartMilliseconds>
+    <EndMilliseconds>116580</EndMilliseconds>
+    <Text>我们一起跳吧！
+Wǒmen yìqǐ tiào ba!</Text>
+  </Paragraph>
+</Subtitle>

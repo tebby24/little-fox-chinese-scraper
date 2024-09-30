@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9506</StartMilliseconds>
+    <EndMilliseconds>12002</EndMilliseconds>
+    <Text>塔克：你在做什么？
+Tǎkè: Nǐ zài zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12003</StartMilliseconds>
+    <EndMilliseconds>12255</EndMilliseconds>
+    <Text>塔克：[@你@]在做什么？
+Tǎkè: [@Nǐ@] zài zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12256</StartMilliseconds>
+    <EndMilliseconds>12520</EndMilliseconds>
+    <Text>塔克：你[@在@]做什么？
+Tǎkè: Nǐ [@zài@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>12521</StartMilliseconds>
+    <EndMilliseconds>12739</EndMilliseconds>
+    <Text>塔克：你在[@做@]什么？
+Tǎkè: Nǐ zài [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>12740</StartMilliseconds>
+    <EndMilliseconds>13274</EndMilliseconds>
+    <Text>塔克：你在做[@什么@]？
+Tǎkè: Nǐ zài zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13275</StartMilliseconds>
+    <EndMilliseconds>14110</EndMilliseconds>
+    <Text>塔克：你在做什么？
+Tǎkè: Nǐ zài zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14111</StartMilliseconds>
+    <EndMilliseconds>14513</EndMilliseconds>
+    <Text>马克西：我在画画。
+Mǎkèxī: Wǒ zài huà huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>14514</StartMilliseconds>
+    <EndMilliseconds>14768</EndMilliseconds>
+    <Text>马克西：[@我@]在画画。
+Mǎkèxī: [@Wǒ@] zài huà huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>14769</StartMilliseconds>
+    <EndMilliseconds>15033</EndMilliseconds>
+    <Text>马克西：我[@在@]画画。
+Mǎkèxī: Wǒ [@zài@] huà huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15034</StartMilliseconds>
+    <EndMilliseconds>15336</EndMilliseconds>
+    <Text>马克西：我在[@画@]画。
+Mǎkèxī: Wǒ zài [@huà@] huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>15337</StartMilliseconds>
+    <EndMilliseconds>15678</EndMilliseconds>
+    <Text>马克西：我在画[@画@]。
+Mǎkèxī: Wǒ zài huà [@huà@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>15679</StartMilliseconds>
+    <EndMilliseconds>15872</EndMilliseconds>
+    <Text>马克西：我在画画。
+Mǎkèxī: Wǒ zài huà huà.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>15873</StartMilliseconds>
+    <EndMilliseconds>16062</EndMilliseconds>
+    <Text>马克西：我是艺术家！
+Mǎkèxī: Wǒ shì yìshùjiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>16063</StartMilliseconds>
+    <EndMilliseconds>16268</EndMilliseconds>
+    <Text>马克西：[@我@]是艺术家！
+Mǎkèxī: [@Wǒ@] shì yìshùjiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>16269</StartMilliseconds>
+    <EndMilliseconds>16506</EndMilliseconds>
+    <Text>马克西：我[@是@]艺术家！
+Mǎkèxī: Wǒ [@shì@] yìshùjiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>16507</StartMilliseconds>
+    <EndMilliseconds>17408</EndMilliseconds>
+    <Text>马克西：我是[@艺术家@]！
+Mǎkèxī: Wǒ shì [@yìshùjiā@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>17409</StartMilliseconds>
+    <EndMilliseconds>21918</EndMilliseconds>
+    <Text>马克西：我是艺术家！
+Mǎkèxī: Wǒ shì yìshùjiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>21919</StartMilliseconds>
+    <EndMilliseconds>22350</EndMilliseconds>
+    <Text>塔克：该我了，马克西！
+Tǎkè: Gāi wǒ le, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>22351</StartMilliseconds>
+    <EndMilliseconds>22617</EndMilliseconds>
+    <Text>塔克：[@该@]我了，马克西！
+Tǎkè: [@Gāi@] wǒ le, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>22618</StartMilliseconds>
+    <EndMilliseconds>22966</EndMilliseconds>
+    <Text>塔克：该[@我@]了，马克西！
+Tǎkè: Gāi [@wǒ@] le, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>22967</StartMilliseconds>
+    <EndMilliseconds>23242</EndMilliseconds>
+    <Text>塔克：该我[@了@]，马克西！
+Tǎkè: Gāi wǒ [@le@], Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>23243</StartMilliseconds>
+    <EndMilliseconds>24062</EndMilliseconds>
+    <Text>塔克：该我了，[@马克西@]！
+Tǎkè: Gāi wǒ le, [@Mǎkèxī@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>24063</StartMilliseconds>
+    <EndMilliseconds>24669</EndMilliseconds>
+    <Text>塔克：该我了，马克西！
+Tǎkè: Gāi wǒ le, Mǎkèxī!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>24670</StartMilliseconds>
+    <EndMilliseconds>24916</EndMilliseconds>
+    <Text>马克西：好的，给你。
+Mǎkèxī: Hǎode, gěi nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>24917</StartMilliseconds>
+    <EndMilliseconds>25814</EndMilliseconds>
+    <Text>马克西：[@好的@]，给你。
+Mǎkèxī: [@Hǎode@], gěi nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>25815</StartMilliseconds>
+    <EndMilliseconds>26022</EndMilliseconds>
+    <Text>马克西：好的，[@给@]你。
+Mǎkèxī: Hǎode, [@gěi@] nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>26023</StartMilliseconds>
+    <EndMilliseconds>26362</EndMilliseconds>
+    <Text>马克西：好的，给[@你@]。
+Mǎkèxī: Hǎode, gěi [@nǐ@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>26363</StartMilliseconds>
+    <EndMilliseconds>31485</EndMilliseconds>
+    <Text>马克西：好的，给你。
+Mǎkèxī: Hǎode, gěi nǐ.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>31486</StartMilliseconds>
+    <EndMilliseconds>34682</EndMilliseconds>
+    <Text>马克西：你是艺术家吗？
+Mǎkèxī: Nǐ shì yìshùjiā ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>34683</StartMilliseconds>
+    <EndMilliseconds>34967</EndMilliseconds>
+    <Text>马克西：[@你@]是艺术家吗？
+Mǎkèxī: [@Nǐ@] shì yìshùjiā ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>34968</StartMilliseconds>
+    <EndMilliseconds>35076</EndMilliseconds>
+    <Text>马克西：你[@是@]艺术家吗？
+Mǎkèxī: Nǐ [@shì@] yìshùjiā ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>35077</StartMilliseconds>
+    <EndMilliseconds>35804</EndMilliseconds>
+    <Text>马克西：你是[@艺术家@]吗？
+Mǎkèxī: Nǐ shì [@yìshùjiā@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>35805</StartMilliseconds>
+    <EndMilliseconds>36178</EndMilliseconds>
+    <Text>马克西：你是艺术家[@吗@]？
+Mǎkèxī: Nǐ shì yìshùjiā [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>36179</StartMilliseconds>
+    <EndMilliseconds>36547</EndMilliseconds>
+    <Text>马克西：你是艺术家吗？
+Mǎkèxī: Nǐ shì yìshùjiā ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>36548</StartMilliseconds>
+    <EndMilliseconds>36737</EndMilliseconds>
+    <Text>塔克：不，我不是。
+Tǎkè: Bù, wǒ bú shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>36738</StartMilliseconds>
+    <EndMilliseconds>37246</EndMilliseconds>
+    <Text>塔克：[@不@]，我不是。
+Tǎkè: [@Bù@], wǒ bú shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>37247</StartMilliseconds>
+    <EndMilliseconds>37546</EndMilliseconds>
+    <Text>塔克：不，[@我@]不是。
+Tǎkè: Bù, [@wǒ@] bú shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>37547</StartMilliseconds>
+    <EndMilliseconds>37821</EndMilliseconds>
+    <Text>塔克：不，我[@不@]是。
+Tǎkè: Bù, wǒ [@bú@] shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>37822</StartMilliseconds>
+    <EndMilliseconds>38225</EndMilliseconds>
+    <Text>塔克：不，我不[@是@]。
+Tǎkè: Bù, wǒ bú [@shì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>38226</StartMilliseconds>
+    <EndMilliseconds>42109</EndMilliseconds>
+    <Text>塔克：不，我不是。
+Tǎkè: Bù, wǒ bú shì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>42110</StartMilliseconds>
+    <EndMilliseconds>42309</EndMilliseconds>
+    <Text>马克西：那是什么？
+Mǎkèxī: Nà shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>42310</StartMilliseconds>
+    <EndMilliseconds>42556</EndMilliseconds>
+    <Text>马克西：[@那@]是什么？
+Mǎkèxī: [@Nà@] shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>42557</StartMilliseconds>
+    <EndMilliseconds>42779</EndMilliseconds>
+    <Text>马克西：那[@是@]什么？
+Mǎkèxī: Nà [@shì@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>42780</StartMilliseconds>
+    <EndMilliseconds>43261</EndMilliseconds>
+    <Text>马克西：那是[@什么@]？
+Mǎkèxī: Nà shì [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>43262</StartMilliseconds>
+    <EndMilliseconds>43962</EndMilliseconds>
+    <Text>马克西：那是什么？
+Mǎkèxī: Nà shì shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>43963</StartMilliseconds>
+    <EndMilliseconds>44228</EndMilliseconds>
+    <Text>塔克：这是西瓜吉他。
+Tǎkè: Zhè shì xīguā jítā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>44229</StartMilliseconds>
+    <EndMilliseconds>44418</EndMilliseconds>
+    <Text>塔克：[@这@]是西瓜吉他。
+Tǎkè: [@Zhè@] shì xīguā jítā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>44419</StartMilliseconds>
+    <EndMilliseconds>44654</EndMilliseconds>
+    <Text>塔克：这[@是@]西瓜吉他。
+Tǎkè: Zhè [@shì@] xīguā jítā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>44655</StartMilliseconds>
+    <EndMilliseconds>45262</EndMilliseconds>
+    <Text>塔克：这是[@西瓜@]吉他。
+Tǎkè: Zhè shì [@xīguā@] jítā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>45263</StartMilliseconds>
+    <EndMilliseconds>45950</EndMilliseconds>
+    <Text>塔克：这是西瓜[@吉他@]。
+Tǎkè: Zhè shì xīguā [@jítā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>45951</StartMilliseconds>
+    <EndMilliseconds>46282</EndMilliseconds>
+    <Text>塔克：这是西瓜吉他。
+Tǎkè: Zhè shì xīguā jítā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>46283</StartMilliseconds>
+    <EndMilliseconds>46543</EndMilliseconds>
+    <Text>塔克：啊，不好了……
+Tǎkè: Ā, bù hǎo le……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>46544</StartMilliseconds>
+    <EndMilliseconds>47092</EndMilliseconds>
+    <Text>塔克：[@啊@]，不好了……
+Tǎkè: [@Ā@], bù hǎo le……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>47093</StartMilliseconds>
+    <EndMilliseconds>47326</EndMilliseconds>
+    <Text>塔克：啊，[@不@]好了……
+Tǎkè: Ā, [@bù@] hǎo le……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>47327</StartMilliseconds>
+    <EndMilliseconds>47688</EndMilliseconds>
+    <Text>塔克：啊，不[@好@]了……
+Tǎkè: Ā, bù [@hǎo@] le……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>47689</StartMilliseconds>
+    <EndMilliseconds>48085</EndMilliseconds>
+    <Text>塔克：啊，不好[@了@]……
+Tǎkè: Ā, bù hǎo [@le@]……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>48086</StartMilliseconds>
+    <EndMilliseconds>49986</EndMilliseconds>
+    <Text>塔克：啊，不好了……
+Tǎkè: Ā, bù hǎo le……</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>49987</StartMilliseconds>
+    <EndMilliseconds>50411</EndMilliseconds>
+    <Text>塔克：你是艺术家。
+Tǎkè: Nǐ shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>50412</StartMilliseconds>
+    <EndMilliseconds>50678</EndMilliseconds>
+    <Text>塔克：[@你@]是艺术家。
+Tǎkè: [@Nǐ@] shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>50679</StartMilliseconds>
+    <EndMilliseconds>50942</EndMilliseconds>
+    <Text>塔克：你[@是@]艺术家。
+Tǎkè: Nǐ [@shì@] yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>50943</StartMilliseconds>
+    <EndMilliseconds>51707</EndMilliseconds>
+    <Text>塔克：你是[@艺术家@]。
+Tǎkè: Nǐ shì [@yìshùjiā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>51708</StartMilliseconds>
+    <EndMilliseconds>52148</EndMilliseconds>
+    <Text>塔克：你是艺术家。
+Tǎkè: Nǐ shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>52149</StartMilliseconds>
+    <EndMilliseconds>52250</EndMilliseconds>
+    <Text>塔克：她是艺术家。
+Tǎkè: Tā shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>52251</StartMilliseconds>
+    <EndMilliseconds>52566</EndMilliseconds>
+    <Text>塔克：[@她@]是艺术家。
+Tǎkè: [@Tā@] shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>52567</StartMilliseconds>
+    <EndMilliseconds>52807</EndMilliseconds>
+    <Text>塔克：她[@是@]艺术家。
+Tǎkè: Tā [@shì@] yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>52808</StartMilliseconds>
+    <EndMilliseconds>53618</EndMilliseconds>
+    <Text>塔克：她是[@艺术家@]。
+Tǎkè: Tā shì [@yìshùjiā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>53619</StartMilliseconds>
+    <EndMilliseconds>54072</EndMilliseconds>
+    <Text>塔克：她是艺术家。
+Tǎkè: Tā shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>54073</StartMilliseconds>
+    <EndMilliseconds>54343</EndMilliseconds>
+    <Text>塔克：他是艺术家。
+Tǎkè: Tā shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>54344</StartMilliseconds>
+    <EndMilliseconds>54740</EndMilliseconds>
+    <Text>塔克：[@他@]是艺术家。
+Tǎkè: [@Tā@] shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>54741</StartMilliseconds>
+    <EndMilliseconds>54953</EndMilliseconds>
+    <Text>塔克：他[@是@]艺术家。
+Tǎkè: Tā [@shì@] yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>54954</StartMilliseconds>
+    <EndMilliseconds>55828</EndMilliseconds>
+    <Text>塔克：他是[@艺术家@]。
+Tǎkè: Tā shì [@yìshùjiā@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>55829</StartMilliseconds>
+    <EndMilliseconds>56880</EndMilliseconds>
+    <Text>塔克：他是艺术家。
+Tǎkè: Tā shì yìshùjiā.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>73</Number>
+    <StartMilliseconds>56881</StartMilliseconds>
+    <EndMilliseconds>57181</EndMilliseconds>
+    <Text>马克西：再画一次，塔克。
+Mǎkèxī: Zài huà yí cì, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>74</Number>
+    <StartMilliseconds>57182</StartMilliseconds>
+    <EndMilliseconds>57502</EndMilliseconds>
+    <Text>马克西：[@再@]画一次，塔克。
+Mǎkèxī: [@Zài@] huà yí cì, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>75</Number>
+    <StartMilliseconds>57503</StartMilliseconds>
+    <EndMilliseconds>57715</EndMilliseconds>
+    <Text>马克西：再[@画@]一次，塔克。
+Mǎkèxī: Zài [@huà@] yí cì, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>76</Number>
+    <StartMilliseconds>57716</StartMilliseconds>
+    <EndMilliseconds>57911</EndMilliseconds>
+    <Text>马克西：再画[@一@]次，塔克。
+Mǎkèxī: Zài huà [@yí@] cì, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>77</Number>
+    <StartMilliseconds>57912</StartMilliseconds>
+    <EndMilliseconds>58460</EndMilliseconds>
+    <Text>马克西：再画一[@次@]，塔克。
+Mǎkèxī: Zài huà yí [@cì@], Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>78</Number>
+    <StartMilliseconds>58461</StartMilliseconds>
+    <EndMilliseconds>59107</EndMilliseconds>
+    <Text>马克西：再画一次，[@塔克@]。
+Mǎkèxī: Zài huà yí cì, [@Tǎkè@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>79</Number>
+    <StartMilliseconds>59108</StartMilliseconds>
+    <EndMilliseconds>62749</EndMilliseconds>
+    <Text>马克西：再画一次，塔克。
+Mǎkèxī: Zài huà yí cì, Tǎkè.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>80</Number>
+    <StartMilliseconds>62750</StartMilliseconds>
+    <EndMilliseconds>62912</EndMilliseconds>
+    <Text>塔克：我是艺术家……我是歌手！
+Tǎkè: Wǒ shì yìshùjiā……Wǒ shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>81</Number>
+    <StartMilliseconds>62913</StartMilliseconds>
+    <EndMilliseconds>63320</EndMilliseconds>
+    <Text>塔克：[@我@]是艺术家……我是歌手！
+Tǎkè: [@Wǒ@] shì yìshùjiā……Wǒ shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>82</Number>
+    <StartMilliseconds>63321</StartMilliseconds>
+    <EndMilliseconds>63487</EndMilliseconds>
+    <Text>塔克：我[@是@]艺术家……我是歌手！
+Tǎkè: Wǒ [@shì@] yìshùjiā……Wǒ shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>83</Number>
+    <StartMilliseconds>63488</StartMilliseconds>
+    <EndMilliseconds>64308</EndMilliseconds>
+    <Text>塔克：我是[@艺术家@]……我是歌手！
+Tǎkè: Wǒ shì [@yìshùjiā@]……Wǒ shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>84</Number>
+    <StartMilliseconds>64309</StartMilliseconds>
+    <EndMilliseconds>64612</EndMilliseconds>
+    <Text>塔克：我是艺术家……我是歌手！
+Tǎkè: Wǒ shì yìshùjiā……Wǒ shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>85</Number>
+    <StartMilliseconds>64613</StartMilliseconds>
+    <EndMilliseconds>64900</EndMilliseconds>
+    <Text>塔克：我是艺术家……[@我@]是歌手！
+Tǎkè: Wǒ shì yìshùjiā……[@Wǒ@] shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>86</Number>
+    <StartMilliseconds>64901</StartMilliseconds>
+    <EndMilliseconds>65176</EndMilliseconds>
+    <Text>塔克：我是艺术家……我[@是@]歌手！
+Tǎkè: Wǒ shì yìshùjiā……Wǒ [@shì@] gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>87</Number>
+    <StartMilliseconds>65177</StartMilliseconds>
+    <EndMilliseconds>65949</EndMilliseconds>
+    <Text>塔克：我是艺术家……我是[@歌手@]！
+Tǎkè: Wǒ shì yìshùjiā……Wǒ shì [@gēshǒu@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>88</Number>
+    <StartMilliseconds>65950</StartMilliseconds>
+    <EndMilliseconds>66248</EndMilliseconds>
+    <Text>塔克：我是艺术家……我是歌手！
+Tǎkè: Wǒ shì yìshùjiā……Wǒ shì gēshǒu!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>89</Number>
+    <StartMilliseconds>66249</StartMilliseconds>
+    <EndMilliseconds>66446</EndMilliseconds>
+    <Text>马克西：是的，你是歌手。
+Mǎkèxī: Shìde, nǐ shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>90</Number>
+    <StartMilliseconds>66447</StartMilliseconds>
+    <EndMilliseconds>67105</EndMilliseconds>
+    <Text>马克西：[@是的@]，你是歌手。
+Mǎkèxī: [@Shìde@], nǐ shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>91</Number>
+    <StartMilliseconds>67106</StartMilliseconds>
+    <EndMilliseconds>67390</EndMilliseconds>
+    <Text>马克西：是的，你是歌手。
+Mǎkèxī: Shìde, nǐ shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>92</Number>
+    <StartMilliseconds>67391</StartMilliseconds>
+    <EndMilliseconds>67628</EndMilliseconds>
+    <Text>马克西：是的，[@你@]是歌手。
+Mǎkèxī: Shìde, [@nǐ@] shì gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>93</Number>
+    <StartMilliseconds>67629</StartMilliseconds>
+    <EndMilliseconds>68027</EndMilliseconds>
+    <Text>马克西：是的，你[@是@]歌手。
+Mǎkèxī: Shìde, nǐ [@shì@] gēshǒu.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>94</Number>
+    <StartMilliseconds>68028</StartMilliseconds>
+    <EndMilliseconds>68814</EndMilliseconds>
+    <Text>马克西：是的，你是[@歌手@]。
+Mǎkèxī: Shìde, nǐ shì [@gēshǒu@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>95</Number>
+    <StartMilliseconds>68815</StartMilliseconds>
+    <EndMilliseconds>75178</EndMilliseconds>
+    <Text>马克西：是的，你是歌手。
+Mǎkèxī: Shìde, nǐ shì gēshǒu.</Text>
+  </Paragraph>
+</Subtitle>

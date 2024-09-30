@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9138</StartMilliseconds>
+    <EndMilliseconds>12376</EndMilliseconds>
+    <Text>塔克：你想做什么？
+Tǎkè: Nǐ xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12377</StartMilliseconds>
+    <EndMilliseconds>12677</EndMilliseconds>
+    <Text>塔克：[@你@]想做什么？
+Tǎkè: [@Nǐ@] xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12678</StartMilliseconds>
+    <EndMilliseconds>13037</EndMilliseconds>
+    <Text>塔克：你[@想@]做什么？
+Tǎkè: Nǐ [@xiǎng@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13038</StartMilliseconds>
+    <EndMilliseconds>13259</EndMilliseconds>
+    <Text>塔克：你想[@做@]什么？
+Tǎkè: Nǐ xiǎng [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13260</StartMilliseconds>
+    <EndMilliseconds>13788</EndMilliseconds>
+    <Text>塔克：你想做[@什么@]？
+Tǎkè: Nǐ xiǎng zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13789</StartMilliseconds>
+    <EndMilliseconds>14949</EndMilliseconds>
+    <Text>塔克：你想做什么？
+Tǎkè: Nǐ xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14950</StartMilliseconds>
+    <EndMilliseconds>15064</EndMilliseconds>
+    <Text>马克西：我想看书。
+Mǎkèxī: Wǒ xiǎng kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15065</StartMilliseconds>
+    <EndMilliseconds>15301</EndMilliseconds>
+    <Text>马克西：[@我@]想看书。
+Mǎkèxī: [@Wǒ@] xiǎng kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>15302</StartMilliseconds>
+    <EndMilliseconds>15572</EndMilliseconds>
+    <Text>马克西：我[@想@]看书。
+Mǎkèxī: Wǒ [@xiǎng@] kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>15573</StartMilliseconds>
+    <EndMilliseconds>15906</EndMilliseconds>
+    <Text>马克西：我想[@看@]书。
+Mǎkèxī: Wǒ xiǎng [@kàn@] shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>15907</StartMilliseconds>
+    <EndMilliseconds>16369</EndMilliseconds>
+    <Text>马克西：我想看[@书@]。
+Mǎkèxī: Wǒ xiǎng kàn [@shū@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>16370</StartMilliseconds>
+    <EndMilliseconds>20007</EndMilliseconds>
+    <Text>马克西：我想看书。
+Mǎkèxī: Wǒ xiǎng kàn shū.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>20008</StartMilliseconds>
+    <EndMilliseconds>21443</EndMilliseconds>
+    <Text>塔克：我想睡觉，我困了。
+Tǎkè: Wǒ xiǎng shuìjiào, wǒ kùn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>21444</StartMilliseconds>
+    <EndMilliseconds>21658</EndMilliseconds>
+    <Text>塔克：[@我@]想睡觉，我困了。
+Tǎkè: [@Wǒ@] xiǎng shuìjiào, wǒ kùn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>21659</StartMilliseconds>
+    <EndMilliseconds>21922</EndMilliseconds>
+    <Text>塔克：我[@想@]睡觉，我困了。
+Tǎkè: Wǒ [@xiǎng@] shuìjiào, wǒ kùn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>21923</StartMilliseconds>
+    <EndMilliseconds>23216</EndMilliseconds>
+    <Text>塔克：我想[@睡觉@]，我困了。
+Tǎkè: Wǒ xiǎng [@shuìjiào@], wǒ kùn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>23217</StartMilliseconds>
+    <EndMilliseconds>23703</EndMilliseconds>
+    <Text>塔克：我想睡觉，[@我@]困了。
+Tǎkè: Wǒ xiǎng shuìjiào, [@wǒ@] kùn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>23704</StartMilliseconds>
+    <EndMilliseconds>24073</EndMilliseconds>
+    <Text>塔克：我想睡觉，我[@困@]了。
+Tǎkè: Wǒ xiǎng shuìjiào, wǒ [@kùn@] le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>24074</StartMilliseconds>
+    <EndMilliseconds>24457</EndMilliseconds>
+    <Text>塔克：我想睡觉，我困[@了@]。
+Tǎkè: Wǒ xiǎng shuìjiào, wǒ kùn [@le@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>24458</StartMilliseconds>
+    <EndMilliseconds>26008</EndMilliseconds>
+    <Text>塔克：我想睡觉，我困了。
+Tǎkè: Wǒ xiǎng shuìjiào, wǒ kùn le.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>26009</StartMilliseconds>
+    <EndMilliseconds>27417</EndMilliseconds>
+    <Text>小浣熊 1：你想做什么？
+xiǎo huànxióng1: Nǐ xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>27418</StartMilliseconds>
+    <EndMilliseconds>27724</EndMilliseconds>
+    <Text>小浣熊 1：[@你@]想做什么？
+xiǎo huànxióng1: [@Nǐ@] xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>27725</StartMilliseconds>
+    <EndMilliseconds>28044</EndMilliseconds>
+    <Text>小浣熊 1：你[@想@]做什么？
+xiǎo huànxióng1: Nǐ [@xiǎng@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>28045</StartMilliseconds>
+    <EndMilliseconds>28267</EndMilliseconds>
+    <Text>小浣熊 1：你想[@做@]什么？
+xiǎo huànxióng1: Nǐ xiǎng [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>28268</StartMilliseconds>
+    <EndMilliseconds>28889</EndMilliseconds>
+    <Text>小浣熊 1：你想做[@什么@]？
+xiǎo huànxióng1: Nǐ xiǎng zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>28890</StartMilliseconds>
+    <EndMilliseconds>29570</EndMilliseconds>
+    <Text>小浣熊 1：你想做什么？
+xiǎo huànxióng1: Nǐ xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>29571</StartMilliseconds>
+    <EndMilliseconds>29741</EndMilliseconds>
+    <Text>小浣熊 2：我想吃午餐！
+xiǎo huànxióng2: Wǒ xiǎng chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>29742</StartMilliseconds>
+    <EndMilliseconds>30038</EndMilliseconds>
+    <Text>小浣熊 2：[@我@]想吃午餐！
+xiǎo huànxióng2: [@Wǒ@] xiǎng chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>30039</StartMilliseconds>
+    <EndMilliseconds>30403</EndMilliseconds>
+    <Text>小浣熊 2：我[@想@]吃午餐！
+xiǎo huànxióng2: Wǒ [@xiǎng@] chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>30404</StartMilliseconds>
+    <EndMilliseconds>30695</EndMilliseconds>
+    <Text>小浣熊 2：我想[@吃@]午餐！
+xiǎo huànxióng2: Wǒ xiǎng [@chī@] wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>30696</StartMilliseconds>
+    <EndMilliseconds>31438</EndMilliseconds>
+    <Text>小浣熊 2：我想吃[@午餐@]！
+xiǎo huànxióng2: Wǒ xiǎng chī [@wǔcān@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>31439</StartMilliseconds>
+    <EndMilliseconds>33747</EndMilliseconds>
+    <Text>小浣熊 2：我想吃午餐！
+xiǎo huànxióng2: Wǒ xiǎng chī wǔcān!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>33748</StartMilliseconds>
+    <EndMilliseconds>34754</EndMilliseconds>
+    <Text>小浣熊 1：你好！我们想吃午餐。
+xiǎo huànxióng1: Nǐ hǎo! Wǒmen xiǎng chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>34755</StartMilliseconds>
+    <EndMilliseconds>34842</EndMilliseconds>
+    <Text>小浣熊 1：[@你@]好！我们想吃午餐。
+xiǎo huànxióng1: [@Nǐ@] hǎo! Wǒmen xiǎng chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>34843</StartMilliseconds>
+    <EndMilliseconds>35536</EndMilliseconds>
+    <Text>小浣熊 1：你[@好@]！我们想吃午餐。
+xiǎo huànxióng1: Nǐ [@hǎo@]! Wǒmen xiǎng chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>35537</StartMilliseconds>
+    <EndMilliseconds>35912</EndMilliseconds>
+    <Text>小浣熊 1：你好！[@我们@]想吃午餐。
+xiǎo huànxióng1: Nǐ hǎo! [@Wǒmen@] xiǎng chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>35913</StartMilliseconds>
+    <EndMilliseconds>36169</EndMilliseconds>
+    <Text>小浣熊 1：你好！我们[@想@]吃午餐。
+xiǎo huànxióng1: Nǐ hǎo! Wǒmen [@xiǎng@] chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>36170</StartMilliseconds>
+    <EndMilliseconds>36395</EndMilliseconds>
+    <Text>小浣熊 1：你好！我们想[@吃@]午餐。
+xiǎo huànxióng1: Nǐ hǎo! Wǒmen xiǎng [@chī@] wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>36396</StartMilliseconds>
+    <EndMilliseconds>37070</EndMilliseconds>
+    <Text>小浣熊 1：你好！我们想吃[@午餐@]。
+xiǎo huànxióng1: Nǐ hǎo! Wǒmen xiǎng chī [@wǔcān@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>37071</StartMilliseconds>
+    <EndMilliseconds>38968</EndMilliseconds>
+    <Text>小浣熊 1：你好！我们想吃午餐。
+xiǎo huànxióng1: Nǐ hǎo! Wǒmen xiǎng chī wǔcān.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>38969</StartMilliseconds>
+    <EndMilliseconds>39082</EndMilliseconds>
+    <Text>马克西：你们喜欢牛排吗？
+Mǎkèxī: Nǐmen xǐhuan niúpái ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>39083</StartMilliseconds>
+    <EndMilliseconds>39372</EndMilliseconds>
+    <Text>马克西：[@你们@]喜欢牛排吗？
+Mǎkèxī: [@Nǐmen@] xǐhuan niúpái ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>39373</StartMilliseconds>
+    <EndMilliseconds>39982</EndMilliseconds>
+    <Text>马克西：你们[@喜欢@]牛排吗？
+Mǎkèxī: Nǐmen [@xǐhuan@] niúpái ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>39983</StartMilliseconds>
+    <EndMilliseconds>40650</EndMilliseconds>
+    <Text>马克西：你们喜欢[@牛排@]吗？
+Mǎkèxī: Nǐmen xǐhuan [@niúpái@] ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>40651</StartMilliseconds>
+    <EndMilliseconds>40855</EndMilliseconds>
+    <Text>马克西：你们喜欢牛排[@吗@]？
+Mǎkèxī: Nǐmen xǐhuan niúpái [@ma@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>40856</StartMilliseconds>
+    <EndMilliseconds>43250</EndMilliseconds>
+    <Text>马克西：你们喜欢牛排吗？
+Mǎkèxī: Nǐmen xǐhuan niúpái ma?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>43251</StartMilliseconds>
+    <EndMilliseconds>44394</EndMilliseconds>
+    <Text>小浣熊 1：喜欢！
+xiǎo huànxióng1: Xǐhuan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>44395</StartMilliseconds>
+    <EndMilliseconds>45293</EndMilliseconds>
+    <Text>小浣熊 1：[@喜欢@]！
+xiǎo huànxióng1: [@Xǐhuan@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>45294</StartMilliseconds>
+    <EndMilliseconds>46232</EndMilliseconds>
+    <Text>小浣熊 1：喜欢！
+xiǎo huànxióng1: Xǐhuan!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>46233</StartMilliseconds>
+    <EndMilliseconds>46682</EndMilliseconds>
+    <Text>小浣熊 2：快吃吧！
+xiǎo huànxióng2: Kuài chī ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>46683</StartMilliseconds>
+    <EndMilliseconds>46990</EndMilliseconds>
+    <Text>小浣熊 2：[@快@]吃吧！
+xiǎo huànxióng2: [@Kuài@] chī ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>46991</StartMilliseconds>
+    <EndMilliseconds>47395</EndMilliseconds>
+    <Text>小浣熊 2：快[@吃@]吧！
+xiǎo huànxióng2: Kuài [@chī@] ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>47396</StartMilliseconds>
+    <EndMilliseconds>47844</EndMilliseconds>
+    <Text>小浣熊 2：快吃[@吧@]！
+xiǎo huànxióng2: Kuài chī [@ba@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>47845</StartMilliseconds>
+    <EndMilliseconds>51051</EndMilliseconds>
+    <Text>小浣熊 2：快吃吧！
+xiǎo huànxióng2: Kuài chī ba!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>51052</StartMilliseconds>
+    <EndMilliseconds>52745</EndMilliseconds>
+    <Text>塔克：好险！你现在想做什么？
+Tǎkè: Hǎo xiǎn! Nǐ xiànzài xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>52746</StartMilliseconds>
+    <EndMilliseconds>53234</EndMilliseconds>
+    <Text>塔克：[@好@]险！你现在想做什么？
+Tǎkè: [@Hǎo@] xiǎn! Nǐ xiànzài xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>53235</StartMilliseconds>
+    <EndMilliseconds>53756</EndMilliseconds>
+    <Text>塔克：好[@险@]！你现在想做什么？
+Tǎkè: Hǎo [@xiǎn@]! Nǐ xiànzài xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>53757</StartMilliseconds>
+    <EndMilliseconds>54125</EndMilliseconds>
+    <Text>塔克：好险！你现在想做什么？
+Tǎkè: Hǎo xiǎn! Nǐ xiànzài xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>54126</StartMilliseconds>
+    <EndMilliseconds>54476</EndMilliseconds>
+    <Text>塔克：好险！[@你@]现在想做什么？
+Tǎkè: Hǎo xiǎn! [@Nǐ@] xiànzài xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>54477</StartMilliseconds>
+    <EndMilliseconds>55020</EndMilliseconds>
+    <Text>塔克：好险！你[@现在@]想做什么？
+Tǎkè: Hǎo xiǎn! Nǐ [@xiànzài@] xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>55021</StartMilliseconds>
+    <EndMilliseconds>55360</EndMilliseconds>
+    <Text>塔克：好险！你现在[@想@]做什么？
+Tǎkè: Hǎo xiǎn! Nǐ xiànzài [@xiǎng@] zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>55361</StartMilliseconds>
+    <EndMilliseconds>55570</EndMilliseconds>
+    <Text>塔克：好险！你现在想[@做@]什么？
+Tǎkè: Hǎo xiǎn! Nǐ xiànzài xiǎng [@zuò@] shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>55571</StartMilliseconds>
+    <EndMilliseconds>56069</EndMilliseconds>
+    <Text>塔克：好险！你现在想做[@什么@]？
+Tǎkè: Hǎo xiǎn! Nǐ xiànzài xiǎng zuò [@shénme@]?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>56070</StartMilliseconds>
+    <EndMilliseconds>56840</EndMilliseconds>
+    <Text>塔克：好险！你现在想做什么？
+Tǎkè: Hǎo xiǎn! Nǐ xiànzài xiǎng zuò shénme?</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>56841</StartMilliseconds>
+    <EndMilliseconds>56951</EndMilliseconds>
+    <Text>马克西：我想回家！
+Mǎkèxī: Wǒ xiǎng huí jiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>56952</StartMilliseconds>
+    <EndMilliseconds>57221</EndMilliseconds>
+    <Text>马克西：[@我@]想回家！
+Mǎkèxī: [@Wǒ@] xiǎng huí jiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>57222</StartMilliseconds>
+    <EndMilliseconds>57621</EndMilliseconds>
+    <Text>马克西：我[@想@]回家！
+Mǎkèxī: Wǒ [@xiǎng@] huí jiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>57622</StartMilliseconds>
+    <EndMilliseconds>57949</EndMilliseconds>
+    <Text>马克西：我想[@回@]家！
+Mǎkèxī: Wǒ xiǎng [@huí@] jiā!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>57950</StartMilliseconds>
+    <EndMilliseconds>58868</EndMilliseconds>
+    <Text>马克西：我想回[@家@]！
+Mǎkèxī: Wǒ xiǎng huí [@jiā@]!</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>58868</StartMilliseconds>
+    <EndMilliseconds>62911</EndMilliseconds>
+    <Text>马克西：我想回家！
+Mǎkèxī: Wǒ xiǎng huí jiā!</Text>
+  </Paragraph>
+</Subtitle>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>10879</StartMilliseconds>
+    <EndMilliseconds>12261</EndMilliseconds>
+    <Text>Wǒ kàndào lánsè de zì.
+我看到蓝色的字。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>12262</StartMilliseconds>
+    <EndMilliseconds>12927</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào lánsè de zì.
+[@我@]看到蓝色的字。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>12928</StartMilliseconds>
+    <EndMilliseconds>13758</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] lánsè de zì.
+我[@看到@]蓝色的字。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>13759</StartMilliseconds>
+    <EndMilliseconds>14581</EndMilliseconds>
+    <Text>Wǒ kàndào [@lánsè@] de zì.
+我看到[@蓝色@]的字。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>14582</StartMilliseconds>
+    <EndMilliseconds>14786</EndMilliseconds>
+    <Text>Wǒ kàndào lánsè [@de@] zì.
+我看到蓝色[@的@]字。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>14787</StartMilliseconds>
+    <EndMilliseconds>15283</EndMilliseconds>
+    <Text>Wǒ kàndào lánsè de [@zì@].
+我看到蓝色的[@字@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>15284</StartMilliseconds>
+    <EndMilliseconds>19163</EndMilliseconds>
+    <Text>Wǒ kàndào lánsè de zì.
+我看到蓝色的字。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>19164</StartMilliseconds>
+    <EndMilliseconds>21092</EndMilliseconds>
+    <Text>Wǒ kàndào huángsè de qiānbǐ.
+我看到黄色的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>21093</StartMilliseconds>
+    <EndMilliseconds>21479</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào huángsè de qiānbǐ.
+[@我@]看到黄色的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>21480</StartMilliseconds>
+    <EndMilliseconds>22393</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] huángsè de qiānbǐ.
+我[@看到@]黄色的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>22394</StartMilliseconds>
+    <EndMilliseconds>23337</EndMilliseconds>
+    <Text>Wǒ kàndào [@huángsè@] de qiānbǐ.
+我看到[@黄色@]的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>23338</StartMilliseconds>
+    <EndMilliseconds>23536</EndMilliseconds>
+    <Text>Wǒ kàndào huángsè [@de@] qiānbǐ.
+我看到黄色[@的@]铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>23537</StartMilliseconds>
+    <EndMilliseconds>24615</EndMilliseconds>
+    <Text>Wǒ kàndào huángsè de [@qiānbǐ@].
+我看到黄色的[@铅笔@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>24616</StartMilliseconds>
+    <EndMilliseconds>28572</EndMilliseconds>
+    <Text>Wǒ kàndào huángsè de qiānbǐ.
+我看到黄色的铅笔。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>28573</StartMilliseconds>
+    <EndMilliseconds>30374</EndMilliseconds>
+    <Text>Wǒ kàndào shū.
+我看到书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>30375</StartMilliseconds>
+    <EndMilliseconds>30803</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào shū.
+[@我@]看到书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>30804</StartMilliseconds>
+    <EndMilliseconds>31536</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] shū.
+我[@看到@]书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>31537</StartMilliseconds>
+    <EndMilliseconds>32196</EndMilliseconds>
+    <Text>Wǒ kàndào [@shū@].
+我看到[@书@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>32197</StartMilliseconds>
+    <EndMilliseconds>35568</EndMilliseconds>
+    <Text>Wǒ kàndào shū.
+我看到书。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>35569</StartMilliseconds>
+    <EndMilliseconds>37347</EndMilliseconds>
+    <Text>Wǒ kàndào yí wèi lǎoshī.
+我看到一位老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>37348</StartMilliseconds>
+    <EndMilliseconds>37850</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yí wèi lǎoshī.
+[@我@]看到一位老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>37851</StartMilliseconds>
+    <EndMilliseconds>38708</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yí wèi lǎoshī.
+我[@看到@]一位老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>38709</StartMilliseconds>
+    <EndMilliseconds>39003</EndMilliseconds>
+    <Text>Wǒ kàndào [@yí@] wèi lǎoshī.
+我看到[@一@]位老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>39004</StartMilliseconds>
+    <EndMilliseconds>39303</EndMilliseconds>
+    <Text>Wǒ kàndào yí [@wèi@] lǎoshī.
+我看到一[@位@]老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>39304</StartMilliseconds>
+    <EndMilliseconds>40159</EndMilliseconds>
+    <Text>Wǒ kàndào yí wèi [@lǎoshī@].
+我看到一位[@老师@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>40160</StartMilliseconds>
+    <EndMilliseconds>43363</EndMilliseconds>
+    <Text>Wǒ kàndào yí wèi lǎoshī.
+我看到一位老师。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>43364</StartMilliseconds>
+    <EndMilliseconds>45206</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge zhōng.
+我看到一个钟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>45207</StartMilliseconds>
+    <EndMilliseconds>45695</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yí ge zhōng.
+[@我@]看到一个钟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>45696</StartMilliseconds>
+    <EndMilliseconds>46517</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yí ge zhōng.
+我[@看到@]一个钟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>46518</StartMilliseconds>
+    <EndMilliseconds>46981</EndMilliseconds>
+    <Text>Wǒ kàndào [@yí@] ge zhōng.
+我看到[@一@]个钟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>46982</StartMilliseconds>
+    <EndMilliseconds>47248</EndMilliseconds>
+    <Text>Wǒ kàndào yí [@ge@] zhōng.
+我看到一[@个@]钟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>47249</StartMilliseconds>
+    <EndMilliseconds>47778</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge [@zhōng@].
+我看到一个[@钟@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>47779</StartMilliseconds>
+    <EndMilliseconds>51779</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge zhōng.
+我看到一个钟。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>51780</StartMilliseconds>
+    <EndMilliseconds>53601</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge dìqiúyí.
+我看到一个地球仪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>53602</StartMilliseconds>
+    <EndMilliseconds>53957</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào yí ge dìqiúyí.
+[@我@]看到一个地球仪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>53958</StartMilliseconds>
+    <EndMilliseconds>54810</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] yí ge dìqiúyí.
+我[@看到@]一个地球仪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>54811</StartMilliseconds>
+    <EndMilliseconds>55098</EndMilliseconds>
+    <Text>Wǒ kàndào [@yí@] ge dìqiúyí.
+我看到[@一@]个地球仪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>55099</StartMilliseconds>
+    <EndMilliseconds>55440</EndMilliseconds>
+    <Text>Wǒ kàndào yí [@ge@] dìqiúyí.
+我看到一[@个@]地球仪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>55441</StartMilliseconds>
+    <EndMilliseconds>56658</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge [@dìqiúyí@].
+我看到一个[@地球仪@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>56659</StartMilliseconds>
+    <EndMilliseconds>61037</EndMilliseconds>
+    <Text>Wǒ kàndào yí ge dìqiúyí.
+我看到一个地球仪。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>61038</StartMilliseconds>
+    <EndMilliseconds>62911</EndMilliseconds>
+    <Text>Wǒ kàndào hěn duō zhuōzi.
+我看到很多桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>62912</StartMilliseconds>
+    <EndMilliseconds>63311</EndMilliseconds>
+    <Text>[@Wǒ@] kàndào hěn duō zhuōzi.
+[@我@]看到很多桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>63312</StartMilliseconds>
+    <EndMilliseconds>64124</EndMilliseconds>
+    <Text>Wǒ [@kàndào@] hěn duō zhuōzi.
+我[@看到@]很多桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>64125</StartMilliseconds>
+    <EndMilliseconds>64795</EndMilliseconds>
+    <Text>Wǒ kàndào [@hěn@] duō zhuōzi.
+我看到[@很@]多桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>64796</StartMilliseconds>
+    <EndMilliseconds>65177</EndMilliseconds>
+    <Text>Wǒ kàndào hěn [@duō@] zhuōzi.
+我看到很[@多@]桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>65178</StartMilliseconds>
+    <EndMilliseconds>66077</EndMilliseconds>
+    <Text>Wǒ kàndào hěn duō [@zhuōzi@].
+我看到很多[@桌子@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>66078</StartMilliseconds>
+    <EndMilliseconds>69379</EndMilliseconds>
+    <Text>Wǒ kàndào hěn duō zhuōzi.
+我看到很多桌子。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>69380</StartMilliseconds>
+    <EndMilliseconds>71129</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>71130</StartMilliseconds>
+    <EndMilliseconds>71698</EndMilliseconds>
+    <Text>[@Wǒ@] zài nǎli?
+[@我@]在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>71699</StartMilliseconds>
+    <EndMilliseconds>71924</EndMilliseconds>
+    <Text>Wǒ [@zài@] nǎli?
+我[@在@]哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>71925</StartMilliseconds>
+    <EndMilliseconds>72970</EndMilliseconds>
+    <Text>Wǒ zài [@nǎli@]?
+我在[@哪里@]？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>72971</StartMilliseconds>
+    <EndMilliseconds>77506</EndMilliseconds>
+    <Text>Wǒ zài nǎli?
+我在哪里？</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>77507</StartMilliseconds>
+    <EndMilliseconds>78870</EndMilliseconds>
+    <Text>Wǒ zài xuéxiào.
+我在学校。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>78871</StartMilliseconds>
+    <EndMilliseconds>79376</EndMilliseconds>
+    <Text>[@Wǒ@] zài xuéxiào.
+[@我@]在学校。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>79377</StartMilliseconds>
+    <EndMilliseconds>79847</EndMilliseconds>
+    <Text>Wǒ [@zài@] xuéxiào.
+我[@在@]学校。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>79848</StartMilliseconds>
+    <EndMilliseconds>80774</EndMilliseconds>
+    <Text>Wǒ zài [@xuéxiào@].
+我在[@学校@]。</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>80775</StartMilliseconds>
+    <EndMilliseconds>84664</EndMilliseconds>
+    <Text>Wǒ zài xuéxiào.
+我在学校。</Text>
+  </Paragraph>
+</Subtitle>

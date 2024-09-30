@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Subtitle>
+  <Paragraph>
+    <Number>1</Number>
+    <StartMilliseconds>9381</StartMilliseconds>
+    <EndMilliseconds>10615</EndMilliseconds>
+    <Text>我喜欢小丑，因为小丑很搞笑。
+Wǒ xǐhuan xiǎochǒu, yīnwèi xiǎochǒu hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>2</Number>
+    <StartMilliseconds>10616</StartMilliseconds>
+    <EndMilliseconds>10866</EndMilliseconds>
+    <Text>[@我@]喜欢小丑，因为小丑很搞笑。
+[@Wǒ@] xǐhuan xiǎochǒu, yīnwèi xiǎochǒu hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>3</Number>
+    <StartMilliseconds>10867</StartMilliseconds>
+    <EndMilliseconds>11739</EndMilliseconds>
+    <Text>我[@喜欢@]小丑，因为小丑很搞笑。
+Wǒ [@xǐhuan@] xiǎochǒu, yīnwèi xiǎochǒu hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>4</Number>
+    <StartMilliseconds>11740</StartMilliseconds>
+    <EndMilliseconds>13004</EndMilliseconds>
+    <Text>我喜欢[@小丑@]，因为小丑很搞笑。
+Wǒ xǐhuan [@xiǎochǒu@], yīnwèi xiǎochǒu hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>5</Number>
+    <StartMilliseconds>13005</StartMilliseconds>
+    <EndMilliseconds>13773</EndMilliseconds>
+    <Text>我喜欢小丑，[@因为@]小丑很搞笑。
+Wǒ xǐhuan xiǎochǒu, [@yīnwèi@] xiǎochǒu hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>6</Number>
+    <StartMilliseconds>13774</StartMilliseconds>
+    <EndMilliseconds>14765</EndMilliseconds>
+    <Text>我喜欢小丑，因为[@小丑@]很搞笑。
+Wǒ xǐhuan xiǎochǒu, yīnwèi [@xiǎochǒu@] hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>7</Number>
+    <StartMilliseconds>14766</StartMilliseconds>
+    <EndMilliseconds>15072</EndMilliseconds>
+    <Text>我喜欢小丑，因为小丑[@很@]搞笑。
+Wǒ xǐhuan xiǎochǒu, yīnwèi xiǎochǒu [@hěn@] gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>8</Number>
+    <StartMilliseconds>15073</StartMilliseconds>
+    <EndMilliseconds>16110</EndMilliseconds>
+    <Text>我喜欢小丑，因为小丑很[@搞笑@]。
+Wǒ xǐhuan xiǎochǒu, yīnwèi xiǎochǒu hěn [@gǎoxiào@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>9</Number>
+    <StartMilliseconds>16111</StartMilliseconds>
+    <EndMilliseconds>20240</EndMilliseconds>
+    <Text>我喜欢小丑，因为小丑很搞笑。
+Wǒ xǐhuan xiǎochǒu, yīnwèi xiǎochǒu hěn gǎoxiào.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>10</Number>
+    <StartMilliseconds>20241</StartMilliseconds>
+    <EndMilliseconds>20589</EndMilliseconds>
+    <Text>我喜欢玫瑰，因为玫瑰很美丽。
+Wǒ xǐhuan méigui, yīnwèi méigui hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>11</Number>
+    <StartMilliseconds>20590</StartMilliseconds>
+    <EndMilliseconds>20827</EndMilliseconds>
+    <Text>[@我@]喜欢玫瑰，因为玫瑰很美丽。
+[@Wǒ@] xǐhuan méigui, yīnwèi méigui hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>12</Number>
+    <StartMilliseconds>20828</StartMilliseconds>
+    <EndMilliseconds>21765</EndMilliseconds>
+    <Text>我[@喜欢@]玫瑰，因为玫瑰很美丽。
+Wǒ [@xǐhuan@] méigui, yīnwèi méigui hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>13</Number>
+    <StartMilliseconds>21766</StartMilliseconds>
+    <EndMilliseconds>22792</EndMilliseconds>
+    <Text>我喜欢[@玫瑰@]，因为玫瑰很美丽。
+Wǒ xǐhuan [@méigui@], yīnwèi méigui hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>14</Number>
+    <StartMilliseconds>22793</StartMilliseconds>
+    <EndMilliseconds>23606</EndMilliseconds>
+    <Text>我喜欢玫瑰，[@因为@]玫瑰很美丽。
+Wǒ xǐhuan méigui, [@yīnwèi@] méigui hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>15</Number>
+    <StartMilliseconds>23607</StartMilliseconds>
+    <EndMilliseconds>24486</EndMilliseconds>
+    <Text>我喜欢玫瑰，因为[@玫瑰@]很美丽。
+Wǒ xǐhuan méigui, yīnwèi [@méigui@] hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>16</Number>
+    <StartMilliseconds>24487</StartMilliseconds>
+    <EndMilliseconds>24789</EndMilliseconds>
+    <Text>我喜欢玫瑰，因为玫瑰[@很@]美丽。
+Wǒ xǐhuan méigui, yīnwèi méigui [@hěn@] měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>17</Number>
+    <StartMilliseconds>24790</StartMilliseconds>
+    <EndMilliseconds>25785</EndMilliseconds>
+    <Text>我喜欢玫瑰，因为玫瑰很[@美丽@]。
+Wǒ xǐhuan méigui, yīnwèi méigui hěn [@měilì@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>18</Number>
+    <StartMilliseconds>25786</StartMilliseconds>
+    <EndMilliseconds>28452</EndMilliseconds>
+    <Text>我喜欢玫瑰，因为玫瑰很美丽。
+Wǒ xǐhuan méigui, yīnwèi méigui hěn měilì.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>19</Number>
+    <StartMilliseconds>28453</StartMilliseconds>
+    <EndMilliseconds>30934</EndMilliseconds>
+    <Text>我喜欢海滩，因为海滩很好玩儿。
+Wǒ xǐhuan hǎitān, yīnwèi hǎitān hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>20</Number>
+    <StartMilliseconds>30935</StartMilliseconds>
+    <EndMilliseconds>31235</EndMilliseconds>
+    <Text>[@我@]喜欢海滩，因为海滩很好玩儿。
+[@Wǒ@] xǐhuan hǎitān, yīnwèi hǎitān hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>21</Number>
+    <StartMilliseconds>31236</StartMilliseconds>
+    <EndMilliseconds>32202</EndMilliseconds>
+    <Text>我[@喜欢@]海滩，因为海滩很好玩儿。
+Wǒ [@xǐhuan@] hǎitān, yīnwèi hǎitān hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>22</Number>
+    <StartMilliseconds>32203</StartMilliseconds>
+    <EndMilliseconds>33566</EndMilliseconds>
+    <Text>我喜欢[@海滩@]，因为海滩很好玩儿。
+Wǒ xǐhuan [@hǎitān@], yīnwèi hǎitān hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>23</Number>
+    <StartMilliseconds>33567</StartMilliseconds>
+    <EndMilliseconds>34416</EndMilliseconds>
+    <Text>我喜欢海滩，[@因为@]海滩很好玩儿。
+Wǒ xǐhuan hǎitān, [@yīnwèi@] hǎitān hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>24</Number>
+    <StartMilliseconds>34417</StartMilliseconds>
+    <EndMilliseconds>35250</EndMilliseconds>
+    <Text>我喜欢海滩，因为[@海滩@]很好玩儿。
+Wǒ xǐhuan hǎitān, yīnwèi [@hǎitān@] hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>25</Number>
+    <StartMilliseconds>35251</StartMilliseconds>
+    <EndMilliseconds>35656</EndMilliseconds>
+    <Text>我喜欢海滩，因为海滩[@很@]好玩儿。
+Wǒ xǐhuan hǎitān, yīnwèi hǎitān [@hěn@] hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>26</Number>
+    <StartMilliseconds>35657</StartMilliseconds>
+    <EndMilliseconds>36735</EndMilliseconds>
+    <Text>我喜欢海滩，因为海滩很[@好玩儿@]。
+Wǒ xǐhuan hǎitān, yīnwèi hǎitān hěn [@hǎowánr@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>27</Number>
+    <StartMilliseconds>36736</StartMilliseconds>
+    <EndMilliseconds>40891</EndMilliseconds>
+    <Text>我喜欢海滩，因为海滩很好玩儿。
+Wǒ xǐhuan hǎitān, yīnwèi hǎitān hěn hǎowánr.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>28</Number>
+    <StartMilliseconds>40892</StartMilliseconds>
+    <EndMilliseconds>42012</EndMilliseconds>
+    <Text>我喜欢小狗，因为小狗很可爱。
+Wǒ xǐhuan xiǎogǒu, yīnwèi xiǎogǒu hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>29</Number>
+    <StartMilliseconds>42013</StartMilliseconds>
+    <EndMilliseconds>42291</EndMilliseconds>
+    <Text>[@我@]喜欢小狗，因为小狗很可爱。
+[@Wǒ@] xǐhuan xiǎogǒu, yīnwèi xiǎogǒu hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>30</Number>
+    <StartMilliseconds>42292</StartMilliseconds>
+    <EndMilliseconds>43073</EndMilliseconds>
+    <Text>我[@喜欢@]小狗，因为小狗很可爱。
+Wǒ [@xǐhuan@] xiǎogǒu, yīnwèi xiǎogǒu hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>31</Number>
+    <StartMilliseconds>43074</StartMilliseconds>
+    <EndMilliseconds>44512</EndMilliseconds>
+    <Text>我喜欢[@小狗@]，因为小狗很可爱。
+Wǒ xǐhuan [@xiǎogǒu@], yīnwèi xiǎogǒu hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>32</Number>
+    <StartMilliseconds>44513</StartMilliseconds>
+    <EndMilliseconds>45311</EndMilliseconds>
+    <Text>我喜欢小狗，[@因为@]小狗很可爱。
+Wǒ xǐhuan xiǎogǒu, [@yīnwèi@] xiǎogǒu hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>33</Number>
+    <StartMilliseconds>45312</StartMilliseconds>
+    <EndMilliseconds>46321</EndMilliseconds>
+    <Text>我喜欢小狗，因为[@小狗@]很可爱。
+Wǒ xǐhuan xiǎogǒu, yīnwèi [@xiǎogǒu@] hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>34</Number>
+    <StartMilliseconds>46322</StartMilliseconds>
+    <EndMilliseconds>46786</EndMilliseconds>
+    <Text>我喜欢小狗，因为小狗[@很@]可爱。
+Wǒ xǐhuan xiǎogǒu, yīnwèi xiǎogǒu [@hěn@] kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>35</Number>
+    <StartMilliseconds>46787</StartMilliseconds>
+    <EndMilliseconds>47818</EndMilliseconds>
+    <Text>我喜欢小狗，因为小狗很[@可爱@]。
+Wǒ xǐhuan xiǎogǒu, yīnwèi xiǎogǒu hěn [@kě'ài@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>36</Number>
+    <StartMilliseconds>47819</StartMilliseconds>
+    <EndMilliseconds>51689</EndMilliseconds>
+    <Text>我喜欢小狗，因为小狗很可爱。
+Wǒ xǐhuan xiǎogǒu, yīnwèi xiǎogǒu hěn kě'ài.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>37</Number>
+    <StartMilliseconds>51690</StartMilliseconds>
+    <EndMilliseconds>52254</EndMilliseconds>
+    <Text>我喜欢香蕉，因为香蕉很好吃。
+Wǒ xǐhuan xiāngjiāo, yīnwèi xiāngjiāo hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>38</Number>
+    <StartMilliseconds>52255</StartMilliseconds>
+    <EndMilliseconds>52539</EndMilliseconds>
+    <Text>[@我@]喜欢香蕉，因为香蕉很好吃。
+[@Wǒ@] xǐhuan xiāngjiāo, yīnwèi xiāngjiāo hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>39</Number>
+    <StartMilliseconds>52540</StartMilliseconds>
+    <EndMilliseconds>53387</EndMilliseconds>
+    <Text>我[@喜欢@]香蕉，因为香蕉很好吃。
+Wǒ [@xǐhuan@] xiāngjiāo, yīnwèi xiāngjiāo hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>40</Number>
+    <StartMilliseconds>53388</StartMilliseconds>
+    <EndMilliseconds>54814</EndMilliseconds>
+    <Text>我喜欢[@香蕉@]，因为香蕉很好吃。
+Wǒ xǐhuan [@xiāngjiāo@], yīnwèi xiāngjiāo hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>41</Number>
+    <StartMilliseconds>54815</StartMilliseconds>
+    <EndMilliseconds>55626</EndMilliseconds>
+    <Text>我喜欢香蕉，[@因为@]香蕉很好吃。
+Wǒ xǐhuan xiāngjiāo, [@yīnwèi@] xiāngjiāo hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>42</Number>
+    <StartMilliseconds>55627</StartMilliseconds>
+    <EndMilliseconds>56555</EndMilliseconds>
+    <Text>我喜欢香蕉，因为[@香蕉@]很好吃。
+Wǒ xǐhuan xiāngjiāo, yīnwèi [@xiāngjiāo@] hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>43</Number>
+    <StartMilliseconds>56556</StartMilliseconds>
+    <EndMilliseconds>56981</EndMilliseconds>
+    <Text>我喜欢香蕉，因为香蕉[@很@]好吃。
+Wǒ xǐhuan xiāngjiāo, yīnwèi xiāngjiāo [@hěn@] hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>44</Number>
+    <StartMilliseconds>56982</StartMilliseconds>
+    <EndMilliseconds>58028</EndMilliseconds>
+    <Text>我喜欢香蕉，因为香蕉很[@好吃@]。
+Wǒ xǐhuan xiāngjiāo, yīnwèi xiāngjiāo hěn [@hǎochī@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>45</Number>
+    <StartMilliseconds>58029</StartMilliseconds>
+    <EndMilliseconds>62273</EndMilliseconds>
+    <Text>我喜欢香蕉，因为香蕉很好吃。
+Wǒ xǐhuan xiāngjiāo, yīnwèi xiāngjiāo hěn hǎochī.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>46</Number>
+    <StartMilliseconds>62274</StartMilliseconds>
+    <EndMilliseconds>63400</EndMilliseconds>
+    <Text>我喜欢毯子，因为毯子很暖和。
+Wǒ xǐhuan tǎnzi, yīnwèi tǎnzi hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>47</Number>
+    <StartMilliseconds>63401</StartMilliseconds>
+    <EndMilliseconds>63686</EndMilliseconds>
+    <Text>[@我@]喜欢毯子，因为毯子很暖和。
+[@Wǒ@] xǐhuan tǎnzi, yīnwèi tǎnzi hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>48</Number>
+    <StartMilliseconds>63687</StartMilliseconds>
+    <EndMilliseconds>64650</EndMilliseconds>
+    <Text>我[@喜欢@]毯子，因为毯子很暖和。
+Wǒ [@xǐhuan@] tǎnzi, yīnwèi tǎnzi hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>49</Number>
+    <StartMilliseconds>64651</StartMilliseconds>
+    <EndMilliseconds>66025</EndMilliseconds>
+    <Text>我喜欢[@毯子@]，因为毯子很暖和。
+Wǒ xǐhuan [@tǎnzi@], yīnwèi tǎnzi hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>50</Number>
+    <StartMilliseconds>66026</StartMilliseconds>
+    <EndMilliseconds>66865</EndMilliseconds>
+    <Text>我喜欢毯子，[@因为@]毯子很暖和。
+Wǒ xǐhuan tǎnzi, [@yīnwèi@] tǎnzi hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>51</Number>
+    <StartMilliseconds>66866</StartMilliseconds>
+    <EndMilliseconds>67758</EndMilliseconds>
+    <Text>我喜欢毯子，因为[@毯子@]很暖和。
+Wǒ xǐhuan tǎnzi, yīnwèi [@tǎnzi@] hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>52</Number>
+    <StartMilliseconds>67759</StartMilliseconds>
+    <EndMilliseconds>68063</EndMilliseconds>
+    <Text>我喜欢毯子，因为毯子[@很@]暖和。
+Wǒ xǐhuan tǎnzi, yīnwèi tǎnzi [@hěn@] nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>53</Number>
+    <StartMilliseconds>68064</StartMilliseconds>
+    <EndMilliseconds>69318</EndMilliseconds>
+    <Text>我喜欢毯子，因为毯子很[@暖和@]。
+Wǒ xǐhuan tǎnzi, yīnwèi tǎnzi hěn [@nuǎnhuo@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>54</Number>
+    <StartMilliseconds>69319</StartMilliseconds>
+    <EndMilliseconds>71583</EndMilliseconds>
+    <Text>我喜欢毯子，因为毯子很暖和。
+Wǒ xǐhuan tǎnzi, yīnwèi tǎnzi hěn nuǎnhuo.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>55</Number>
+    <StartMilliseconds>71584</StartMilliseconds>
+    <EndMilliseconds>72062</EndMilliseconds>
+    <Text>我喜欢爷爷，因为爷爷很幽默。
+Wǒ xǐhuan yéye, yīnwèi yéye hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>56</Number>
+    <StartMilliseconds>72063</StartMilliseconds>
+    <EndMilliseconds>72265</EndMilliseconds>
+    <Text>[@我@]喜欢爷爷，因为爷爷很幽默。
+[@Wǒ@] xǐhuan yéye, yīnwèi yéye hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>57</Number>
+    <StartMilliseconds>72266</StartMilliseconds>
+    <EndMilliseconds>73154</EndMilliseconds>
+    <Text>我[@喜欢@]爷爷，因为爷爷很幽默。
+Wǒ [@xǐhuan@] yéye, yīnwèi yéye hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>58</Number>
+    <StartMilliseconds>73155</StartMilliseconds>
+    <EndMilliseconds>74638</EndMilliseconds>
+    <Text>我喜欢[@爷爷@]，因为爷爷很幽默。
+Wǒ xǐhuan [@yéye@], yīnwèi yéye hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>59</Number>
+    <StartMilliseconds>74639</StartMilliseconds>
+    <EndMilliseconds>75456</EndMilliseconds>
+    <Text>我喜欢爷爷，[@因为@]爷爷很幽默。
+Wǒ xǐhuan yéye, [@yīnwèi@] yéye hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>60</Number>
+    <StartMilliseconds>75457</StartMilliseconds>
+    <EndMilliseconds>76328</EndMilliseconds>
+    <Text>我喜欢爷爷，因为[@爷爷@]很幽默。
+Wǒ xǐhuan yéye, yīnwèi [@yéye@] hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>61</Number>
+    <StartMilliseconds>76329</StartMilliseconds>
+    <EndMilliseconds>76763</EndMilliseconds>
+    <Text>我喜欢爷爷，因为爷爷[@很@]幽默。
+Wǒ xǐhuan yéye, yīnwèi yéye [@hěn@] yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>62</Number>
+    <StartMilliseconds>76764</StartMilliseconds>
+    <EndMilliseconds>77863</EndMilliseconds>
+    <Text>我喜欢爷爷，因为爷爷很[@幽默@]。
+Wǒ xǐhuan yéye, yīnwèi yéye hěn [@yōumò@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>63</Number>
+    <StartMilliseconds>77864</StartMilliseconds>
+    <EndMilliseconds>80084</EndMilliseconds>
+    <Text>我喜欢爷爷，因为爷爷很幽默。
+Wǒ xǐhuan yéye, yīnwèi yéye hěn yōumò.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>64</Number>
+    <StartMilliseconds>80085</StartMilliseconds>
+    <EndMilliseconds>80646</EndMilliseconds>
+    <Text>我喜欢朋友，因为朋友很善良。
+Wǒ xǐhuan péngyou, yīnwèi péngyou hěn shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>65</Number>
+    <StartMilliseconds>80647</StartMilliseconds>
+    <EndMilliseconds>80893</EndMilliseconds>
+    <Text>[@我@]喜欢朋友，因为朋友很善良。
+[@Wǒ@] xǐhuan péngyou, yīnwèi péngyou hěn shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>66</Number>
+    <StartMilliseconds>80894</StartMilliseconds>
+    <EndMilliseconds>81738</EndMilliseconds>
+    <Text>我[@喜欢@]朋友，因为朋友很善良。
+Wǒ [@xǐhuan@] péngyou, yīnwèi péngyou hěn shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>67</Number>
+    <StartMilliseconds>81739</StartMilliseconds>
+    <EndMilliseconds>83059</EndMilliseconds>
+    <Text>我喜欢[@朋友@]，因为朋友很善良。
+Wǒ xǐhuan [@péngyou@], yīnwèi péngyou hěn shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>68</Number>
+    <StartMilliseconds>83060</StartMilliseconds>
+    <EndMilliseconds>83838</EndMilliseconds>
+    <Text>我喜欢朋友，[@因为@]朋友很善良。
+Wǒ xǐhuan péngyou, [@yīnwèi@] péngyou hěn shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>69</Number>
+    <StartMilliseconds>83839</StartMilliseconds>
+    <EndMilliseconds>84643</EndMilliseconds>
+    <Text>我喜欢朋友，因为[@朋友@]很善良。
+Wǒ xǐhuan péngyou, yīnwèi [@péngyou@] hěn shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>70</Number>
+    <StartMilliseconds>84644</StartMilliseconds>
+    <EndMilliseconds>84994</EndMilliseconds>
+    <Text>我喜欢朋友，因为朋友[@很@]善良。
+Wǒ xǐhuan péngyou, yīnwèi péngyou [@hěn@] shànliáng.</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>71</Number>
+    <StartMilliseconds>84995</StartMilliseconds>
+    <EndMilliseconds>86372</EndMilliseconds>
+    <Text>我喜欢朋友，因为朋友很[@善良@]。
+Wǒ xǐhuan péngyou, yīnwèi péngyou hěn [@shànliáng@].</Text>
+  </Paragraph>
+  <Paragraph>
+    <Number>72</Number>
+    <StartMilliseconds>86373</StartMilliseconds>
+    <EndMilliseconds>93214</EndMilliseconds>
+    <Text>我喜欢朋友，因为朋友很善良。
+Wǒ xǐhuan péngyou, yīnwèi péngyou hěn shànliáng.</Text>
+  </Paragraph>
+</Subtitle>
